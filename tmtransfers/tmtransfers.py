@@ -4,7 +4,7 @@
 """Web Scraping Transfermarkt Transfer Data
 
 Web scrapes league transfer data from Transfermarkt. Results can be
-exported as comma-separated value (.csv) files. Also includes a
+exported as comma-separated value (CSV) files. Also includes a
 a function for cleaning resultant dataframes.
 
 Importing as a module provides the following functions:
@@ -45,22 +45,46 @@ def scrape_transfermarkt(
             loans only, "3" to exclude players returning from loan.
         internal (str): "0" to exclude movements within clubs, "1" to
             include.
-        write (bool): True to export data as a .csv.
+        write (bool): True to export data as a CSV.
         
     Returns:
         pd.DataFrame
     """
 
-    url = base + (
-        f"/{league_name}/transfers/wettbewerb/{league_id}/plus/?"
-        f"saison_id={season_id}&s_w={window}&leihe={loans}"
-        f"&intern={internal}"
-    )
     season = str(season_id)
-    soup = helpers._get_soup(url)
-    transfers_df = helpers._get_transfers(soup)
-    transfers_df['season'] = season
+    windows = {
+        "s": "summer",
+        "w": "winter"
+    }
+
+    if window:
+        url = base + (
+            f"/{league_name}/transfers/wettbewerb/{league_id}/plus/?"
+            f"saison_id={season_id}&s_w={window}&leihe={loans}"
+            f"&intern={internal}"
+        )
+        soup = helpers._get_soup(url)
+        transfers_df = helpers._get_transfers(soup)
+        transfers_df['window'] = windows[window]
+    else:
+        df_list = []
+        for k in windows.keys():
+            url = base + (
+                f"/{league_name}/transfers/wettbewerb/{league_id}/plus/?"
+                f"saison_id={season_id}&s_w={k}&leihe={loans}"
+                f"&intern={internal}"
+            )
+            soup = helpers._get_soup(url)
+            df = helpers._get_transfers(soup)
+            df['window'] = windows[k]
+            df_list.append(df)
+        transfers_df = (pd.concat(df_list, ignore_index=True)
+            .sort_values(by=['club', 'window'], ignore_index=True)
+        )
+
     transfers_df['league'] = league_name
+    transfers_df['season'] = season
+    
     if write:
         helpers._export_csv(transfers_df, league_name, season)
 
@@ -124,7 +148,6 @@ def tidy_transfers(dataframe):
 
         return val
     
-
     dataframe = (dataframe.assign(is_loan = False, loan_status = '')
         .apply(format_fees_and_loans, axis=1)
         .assign(
@@ -133,6 +156,7 @@ def tidy_transfers(dataframe):
         )
     )
     dataframe.age = pd.to_numeric(dataframe.age, errors='coerce')
+    dataframe.season = pd.to_datetime(dataframe.season).dt.year
     for col in ['nationality', 'position', 'short_pos', 'dealing_club', 'dealing_country']:
         dataframe[col].fillna('', inplace=True)
     dataframe.league = dataframe.league.str.replace('-', ' ').str.title()    

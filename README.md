@@ -1,20 +1,29 @@
 # Transfermarkt Transfers (tmtransfers)
 
-A Python script to web scrape soccer/football league transfer data from [Transfermarkt](https://www.transfermarkt.com/).
-Running this script provides data from the 1992/93&ndash;2020/21 seasons for 10 of the top European leagues, namely:
+All soccer/football club transfers from 1992/93&ndash;2020/21 for 10 of the top European leagues, namely
 
-1. Premier League (England)
-2. La Liga (Spain)
-3. Bundesliga (Germany)
-4. Serie A (Italy)
-5. Ligue 1 (France)
-6. Primeira Liga (Portugal)
-7. Eredivisie (Netherlands)
-8. Premier Liga (Russia)
-9. Jupiler Pro League (Belgium)
-10. Premiership (Scotland)
+1. :england: Premier League
+2. :es: La Liga
+3. :de: Bundesliga
+4. :it: Serie A
+5. :fr: Ligue 1
+6. :portugal: Primeira Liga
+7. :netherlands: Eredivisie
+8. :ru: Premier Liga
+9. :belgium: Jupiler Pro League
+10. :scotland: Scottish Premiership
+
+Data were obtained by web scraping league transfer data from [Transfermarkt](https://www.transfermarkt.com/).
+
+## Data
+
+All data are provided in the `data` directory and grouped into season subdirectories.
+**Feel free to use this dataset for your own purposes!**
+Consult the [`README`](./data/README.md) for metadata and caveats.
 
 ## Usage
+
+If you'd like to scrape and clean the data yourself, you can use the Python script provided by `tmtransfers`.
 
 ### Setup and running the script
 
@@ -43,24 +52,24 @@ Select currency (default is euro):
 ```
 
 Follow the prompts to input your desired league parameters.
-Scraped data will then be written to CSVs in a created `data` subdirectory.
+Scraped data will then be written to CSVs in a created `data` directory.
 
-As an example, an output CSV for the Premier League's 2020/21 season with the default options should look like:
+As an example, an output CSV for the Premier League's 2020/21 season with the default options and before cleaning should look like:
 
-| club       | name                 | age | nationality | position           | short_pos | market_value | dealing_club    | dealing_country | fee             | movement | season | league         |
-|------------|----------------------|-----|-------------|--------------------|-----------|--------------|-----------------|-----------------|-----------------|----------|--------|----------------|
-| Arsenal FC | Thomas Partey        | 27  | Ghana       | Defensive Midfield | DM        | €40.00m      | Atlético Madrid | Spain           | €50.00m         | in       | 2020   | premier-league |
-| Arsenal FC | Gabriel              | 22  | Brazil      | Centre-Back        | CB        | €20.00m      | LOSC Lille      | France          | €26.00m         | in       | 2020   | premier-league |
-| Arsenal FC | Pablo Marí           | 26  | Spain       | Centre-Back        | CB        | €4.80m       | Flamengo        | Brazil          | €5.00m          | in       | 2020   | premier-league |
-| Arsenal FC | Martin Ødegaard      | 22  | Norway      | Attacking Midfield | AM        | €40.00m      | Real Madrid     | Spain           | Loan fee:€2.00m | in       | 2020   | premier-league |
-| Arsenal FC | Rúnar Alex Rúnarsson | 25  | Iceland     | Goalkeeper         | GK        | €1.20m       | Dijon           | France          | €2.00m          | in       | 2020   | premier-league |
+| club       | name                 | age | nationality | position           | short_pos | market_value | dealing_club    | dealing_country | fee           | movement | window | league         | season |
+|------------|----------------------|-----|-------------|--------------------|-----------|--------------|-----------------|-----------------|---------------|----------|--------|----------------|--------|
+| Arsenal FC | Thomas Partey        | 27  | Ghana       | Defensive Midfield | DM        | €40.00m      | Atlético Madrid | Spain           | €50.00m       | in       | summer | premier-league | 2020   |
+| Arsenal FC | Gabriel              | 22  | Brazil      | Centre-Back        | CB        | €20.00m      | LOSC Lille      | France          | €26.00m       | in       | summer | premier-league | 2020   |
+| Arsenal FC | Pablo Marí           | 26  | Spain       | Centre-Back        | CB        | €4.80m       | Flamengo        | Brazil          | €5.00m        | in       | summer | premier-league | 2020   |
+| Arsenal FC | Rúnar Alex Rúnarsson | 25  | Iceland     | Goalkeeper         | GK        | €1.20m       | Dijon           | France          | €2.00m        | in       | summer | premier-league | 2020   |
+| Arsenal FC | Cédric Soares        | 28  | Portugal    | Right-Back         | RB        | €8.00m       | Southampton     | England         | free transfer | in       | summer | premier-league | 2020   |
 
 **Note:** If you run the script again and scrape data for the same league and same season, the existing CSV will be overwritten.
-Be sure to move existing files if you need them as is before running the script again.
+Be sure to move or rename existing files if you need them as is before running the script again.
 
 ### Using the module
 
-If you'd like to use this module elsewhere, install it like so:
+If you'd like to use this module elsewhere, install it from the top directory with
 
 ```bash
 pip install .
@@ -70,12 +79,16 @@ It provides two functions, `scrape_transfermarkt` and `tidy_transfers`.
 Use them like so:
 
 ```python
-import pandas as pd
+import pandas
 import tmtransfers
 
 # Web scrape data for a league not explicitly given in the script
 # Returns a Pandas dataframe
-df = tmtransfers.scrape_transfermarkt(league_name='championship', league_id='GB2', season_id='2005')
+df = tmtransfers.scrape_transfermarkt(
+        league_name='championship',
+        league_id='GB2',
+        season_id='2005',
+        write=True)
 
 # Clean the data
 # Returns another Pandas dataframe

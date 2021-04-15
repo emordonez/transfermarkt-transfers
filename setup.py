@@ -23,5 +23,5 @@ setup(
     author_email='',
     url='https://github.com/emordonez/transfermarkt-transfers',
     license=license,
-    packages=find_packages()
+    packages=find_packages(exclude=['data', 'tests'])
 )
