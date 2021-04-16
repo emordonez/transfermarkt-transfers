@@ -1,0 +1,411 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Patrick Vieira,20.0,France,Defensive Midfield,DM,,Milan,Italy,5350000.0,in,summer,Premier League,1996,False,
+Arsenal FC,John Lukic,35.0,England,Goalkeeper,GK,,Leeds,England,0.0,in,summer,Premier League,1996,False,
+Arsenal FC,Rémi Garde,30.0,France,Defensive Midfield,DM,,R. Strasbourg,France,,in,summer,Premier League,1996,False,
+Arsenal FC,Paul Merson,28.0,England,Right Midfield,RM,,Middlesbrough,England,6600000.0,out,summer,Premier League,1996,False,
+Arsenal FC,Paul Dickov,23.0,Scotland,Centre-Forward,CF,,Man City,England,1500000.0,out,summer,Premier League,1996,False,
+Arsenal FC,Eddie McGoldrick,31.0,Ireland,Central Midfield,CM,,Man City,England,450000.0,out,summer,Premier League,1996,False,
+Arsenal FC,John Jensen,31.0,Denmark,Central Midfield,CM,,Bröndby IF,Denmark,0.0,out,summer,Premier League,1996,False,
+Arsenal FC,Adrian Clarke,21.0,England,midfield,midfield,,Rotherham,England,0.0,out,summer,Premier League,1996,True,free loan
+Arsenal FC,Roy O'Brien,21.0,Ireland,midfield,midfield,,Wigan,England,,out,summer,Premier League,1996,False,
+Arsenal FC,Chris Kiwomya,26.0,England,Centre-Forward,CF,,AC Le Havre,France,0.0,out,summer,Premier League,1996,True,free loan
+Arsenal FC,Mark Flatts,23.0,England,midfield,midfield,,Retired,,,out,summer,Premier League,1996,False,
+Arsenal FC,Nicolas Anelka,17.0,France,Centre-Forward,CF,,Paris SG,France,760000.0,in,winter,Premier League,1996,False,
+Arsenal FC,John Hartson,21.0,Wales,Centre-Forward,CF,,West Ham,England,5000000.0,out,winter,Premier League,1996,False,
+Arsenal FC,Steve Morrow,26.0,Northern Ireland,Right-Back,RB,,QPR,England,750000.0,out,winter,Premier League,1996,False,
+Arsenal FC,David Hillier,26.0,England,Central Midfield,CM,,Portsmouth,England,320000.0,out,winter,Premier League,1996,False,
+Arsenal FC,Andy Linighan,34.0,England,Centre-Back,CB,,Crystal Palace,England,125000.0,out,winter,Premier League,1996,False,
+Arsenal FC,Gavin McGowan,21.0,England,Right-Back,RB,,Luton,England,0.0,out,winter,Premier League,1996,True,free loan
+Arsenal FC,Adrian Clarke,22.0,England,midfield,midfield,,Southend United,England,0.0,out,winter,Premier League,1996,True,free loan
+Arsenal FC,Glenn Helder,28.0,Netherlands,Left Winger,LW,,Benfica,Portugal,0.0,out,winter,Premier League,1996,True,free loan
+Aston Villa,Sasa Curcic,24.0,Serbia,Defensive Midfield,DM,,Bolton,England,6000000.0,in,summer,Premier League,1996,False,
+Aston Villa,Julian Joachim,21.0,England,Centre-Forward,CF,,Leicester,England,2100000.0,in,summer,Premier League,1996,False,
+Aston Villa,Nélson,24.0,Portugal,Right-Back,RB,,Sporting CP,Portugal,,in,summer,Premier League,1996,False,
+Aston Villa,Paul McGrath,36.0,Ireland,Centre-Back,CB,,Derby,England,125000.0,out,summer,Premier League,1996,False,
+Aston Villa,Franz Carr,30.0,England,Right Winger,RW,,Reggiana,Italy,0.0,out,summer,Premier League,1996,False,
+Aston Villa,Neil Davis,23.0,England,attack,attack,,Wycombe,England,0.0,out,summer,Premier League,1996,True,free loan
+Aston Villa,Paul Browne,21.0,Scotland,Centre-Back,CB,,Raith Rovers,Scotland,,out,summer,Premier League,1996,False,
+Aston Villa,Tommy Johnson,26.0,England,Centre-Forward,CF,,Celtic,Scotland,3450000.0,out,winter,Premier League,1996,False,
+Aston Villa,Carl Tiler,27.0,England,Centre-Back,CB,,Sheff Utd,England,812000.0,out,winter,Premier League,1996,False,
+Aston Villa,Paul McGrath,36.0,Ireland,Centre-Back,CB,,Derby,England,125000.0,out,winter,Premier League,1996,False,
+Aston Villa,Phil King,29.0,England,Left-Back,LB,,Swindon Town,England,0.0,out,winter,Premier League,1996,False,
+Aston Villa,Franz Carr,30.0,England,Right Winger,RW,,Reggiana,Italy,0.0,out,winter,Premier League,1996,False,
+Aston Villa,Neil Davis,23.0,England,attack,attack,,Wycombe,England,0.0,out,winter,Premier League,1996,True,free loan
+Blackburn Rovers,Georgios Donis,26.0,Greece,Right Winger,RW,,Panathinaikos,Greece,0.0,in,summer,Premier League,1996,False,
+Blackburn Rovers,Alan Shearer,25.0,England,Centre-Forward,CF,,Newcastle,England,21000000.0,out,summer,Premier League,1996,False,
+Blackburn Rovers,Mike Newell,31.0,England,Centre-Forward,CF,,Birmingham,England,921000.0,out,summer,Premier League,1996,False,
+Blackburn Rovers,Bobby Mimms,32.0,England,Goalkeeper,GK,,Crystal Palace,England,0.0,out,summer,Premier League,1996,False,
+Blackburn Rovers,Per Pedersen,27.0,Denmark,Centre-Forward,CF,,Odense BK,Denmark,,in,winter,Premier League,1996,False,
+Blackburn Rovers,Marlon Broomes,19.0,England,Centre-Back,CB,,Swindon Town,England,0.0,out,winter,Premier League,1996,True,free loan
+Blackburn Rovers,Niklas Gudmundsson,25.0,Sweden,Left Winger,LW,,Ipswich,England,0.0,out,winter,Premier League,1996,True,free loan
+Chelsea FC,Roberto Di Matteo,26.0,Italy,Central Midfield,CM,,Lazio,Italy,5500000.0,in,summer,Premier League,1996,False,
+Chelsea FC,Frank Leboeuf,28.0,France,Centre-Back,CB,,R. Strasbourg,France,3450000.0,in,summer,Premier League,1996,False,
+Chelsea FC,Gianluca Vialli,31.0,Italy,Centre-Forward,CF,,Juventus,Italy,0.0,in,summer,Premier League,1996,False,
+Chelsea FC,Frode Grodas,31.0,Norway,Goalkeeper,GK,,Lillestrøm SK,Norway,,in,summer,Premier League,1996,False,
+Chelsea FC,Joe Sheerin,18.0,England,attack,attack,,Unknown,,,in,summer,Premier League,1996,False,
+Chelsea FC,Chris Zoricich,27.0,New Zealand,defence,defence,,Welling United,England,,in,summer,Premier League,1996,False,
+Chelsea FC,Roger Joseph,30.0,England,defence,defence,,Wimbledon FC,England,,in,summer,Premier League,1996,False,
+Chelsea FC,Paul Furlong,27.0,England,Centre-Forward,CF,,Birmingham,England,2250000.0,out,summer,Premier League,1996,False,
+Chelsea FC,Muzzy Izzet,21.0,Turkey,Attacking Midfield,AM,,Leicester,England,1200000.0,out,summer,Premier League,1996,False,
+Chelsea FC,Anthony Barness,23.0,England,Right-Back,RB,,Charlton,England,200000.0,out,summer,Premier League,1996,False,
+Chelsea FC,Erland Johnsen,30.0,Norway,Centre-Back,CB,,Rosenborg,Norway,0.0,out,summer,Premier League,1996,False,
+Chelsea FC,Nigel Spackman,35.0,England,Central Midfield,CM,,Sheff Utd,England,0.0,out,summer,Premier League,1996,False,
+Chelsea FC,Andy Dow,23.0,Scotland,Left-Back,LB,,Hibernian FC,Scotland,,out,summer,Premier League,1996,False,
+Chelsea FC,Jakob Kjeldbjerg,27.0,Denmark,Centre-Back,CB,,Retired,,,out,summer,Premier League,1996,False,
+Chelsea FC,Glenn Hoddle,38.0,England,Attacking Midfield,AM,,Retired,,,out,summer,Premier League,1996,False,
+Chelsea FC,Gianfranco Zola,30.0,Italy,Second Striker,SS,,AC Parma,Italy,6200000.0,in,winter,Premier League,1996,False,
+Chelsea FC,Danny Granville,22.0,England,Left-Back,LB,,Cambridge Utd.,England,415000.0,in,winter,Premier League,1996,False,
+Chelsea FC,Craig Forrest,29.0,Canada,Goalkeeper,GK,,Ipswich,England,0.0,in,winter,Premier League,1996,True,free loan
+Chelsea FC,Paul Parker,32.0,England,Right-Back,RB,,Fulham,England,,in,winter,Premier League,1996,False,
+Chelsea FC,John Spencer,26.0,Scotland,Centre-Forward,CF,,QPR,England,0.0,out,winter,Premier League,1996,False,
+Chelsea FC,David Rocastle,29.0,England,Attacking Midfield,AM,,Norwich,England,0.0,out,winter,Premier League,1996,True,free loan
+Chelsea FC,Roger Joseph,31.0,England,defence,defence,,Leyton Orient,England,,out,winter,Premier League,1996,False,
+Chelsea FC,Mark Stein,30.0,England,Centre-Forward,CF,,Stoke City,England,0.0,out,winter,Premier League,1996,True,free loan
+Chelsea FC,Terry Phelan,29.0,Ireland,Left-Back,LB,,Everton,England,,out,winter,Premier League,1996,False,
+Coventry City,Régis Genaux,22.0,Belgium,Right-Back,RB,,Standard Liège,Belgium,1050000.0,in,summer,Premier League,1996,False,
+Coventry City,Michael O'Neill,26.0,Northern Ireland,Attacking Midfield,AM,,Hibernian FC,Scotland,750000.0,in,summer,Premier League,1996,False,
+Coventry City,Gary McAllister,31.0,Scotland,Central Midfield,CM,,Leeds,England,250000.0,in,summer,Premier League,1996,False,
+Coventry City,Simon Haworth,20.0,Wales,Centre-Forward,CF,,Cardiff,Wales,,in,summer,Premier League,1996,False,
+Coventry City,Eoin Jess,25.0,Scotland,Second Striker,SS,,Aberdeen FC,Scotland,,in,summer,Premier League,1996,False,
+Coventry City,Paul Cook,29.0,England,Central Midfield,CM,,Tranmere Rovers,England,500000.0,out,summer,Premier League,1996,False,
+Coventry City,Ally Pickering,29.0,England,defence,defence,,Stoke City,England,350000.0,out,summer,Premier League,1996,False,
+Coventry City,Nii Lamptey,21.0,Ghana,Attacking Midfield,AM,,AC Venezia 1907,Italy,0.0,out,summer,Premier League,1996,False,
+Coventry City,David Rennie,31.0,Scotland,Defensive Midfield,DM,,Northampton,England,0.0,out,summer,Premier League,1996,False,
+Coventry City,Steve Morgan,27.0,England,Left-Back,LB,,Wigan,England,0.0,out,summer,Premier League,1996,False,
+Coventry City,Eoin Jess,25.0,Scotland,Second Striker,SS,,Aberdeen FC,Scotland,,out,summer,Premier League,1996,False,
+Coventry City,Brian Borrows,35.0,England,Right-Back,RB,,Swindon Town,England,0.0,out,summer,Premier League,1996,True,free loan
+Coventry City,Lee Hurst,25.0,England,midfield,midfield,,Career break,,,out,summer,Premier League,1996,False,
+Coventry City,Oleksandr Yevtushok,26.0,Ukraine,Centre-Back,CB,,Dnipro,Ukraine,1200000.0,in,winter,Premier League,1996,False,
+Coventry City,Darren Huckerby,20.0,England,Right Winger,RW,,Newcastle,England,1000000.0,in,winter,Premier League,1996,False,
+Coventry City,Régis Genaux,23.0,Belgium,Right-Back,RB,,Udinese,Italy,1150000.0,out,winter,Premier League,1996,False,
+Coventry City,Iyseden Christie,20.0,England,Centre-Forward,CF,,Mansfield Town,England,0.0,out,winter,Premier League,1996,False,
+Coventry City,Iyseden Christie,19.0,England,Centre-Forward,CF,,Bournemouth,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Chris Powell,26.0,England,Left-Back,LB,,Crystal Palace,England,1250000.0,in,summer,Premier League,1996,False,
+Derby County,Christian Dailly,22.0,Scotland,Centre-Back,CB,,Dundee United,Scotland,750000.0,in,summer,Premier League,1996,False,
+Derby County,Gary Rowett,22.0,England,Right-Back,RB,,Everton,England,420000.0,in,summer,Premier League,1996,False,
+Derby County,Paul McGrath,36.0,Ireland,Centre-Back,CB,,Aston Villa,England,125000.0,in,summer,Premier League,1996,False,
+Derby County,Matt Carbon,21.0,England,Centre-Back,CB,,Lincoln City,England,0.0,in,summer,Premier League,1996,False,
+Derby County,Paul Parker,32.0,England,Right-Back,RB,,Man Utd,England,0.0,in,summer,Premier League,1996,False,
+Derby County,Mauricio Solís,23.0,Costa Rica,Left Midfield,LM,,Herediano,Costa Rica,,in,summer,Premier League,1996,False,
+Derby County,Christophe Remy,24.0,France,defence,defence,,AJ Auxerre,France,,in,summer,Premier League,1996,False,
+Derby County,Darren Wassall,28.0,England,defence,defence,,Birmingham,England,188000.0,out,summer,Premier League,1996,False,
+Derby County,Darren Wrack,20.0,England,Central Midfield,CM,,Grimsby Town,England,150000.0,out,summer,Premier League,1996,False,
+Derby County,Martin Taylor,30.0,England,Goalkeeper,GK,,Wycombe,England,0.0,out,summer,Premier League,1996,False,
+Derby County,Ian Ashbee,19.0,England,Defensive Midfield,DM,,Thróttur,Iceland,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Steve Sutton,35.0,England,Goalkeeper,GK,,Birmingham,England,0.0,out,summer,Premier League,1996,False,
+Derby County,Darren Wassall,28.0,England,defence,defence,,Man City,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Martin Taylor,29.0,England,Goalkeeper,GK,,Crewe Alexandra,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,David Preece,33.0,England,Left Midfield,LM,,Cambridge Utd.,England,0.0,out,summer,Premier League,1996,False,
+Derby County,Robin van der Laan,28.0,Netherlands,Attacking Midfield,AM,,Wolves,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Andy Quy,20.0,England,Goalkeeper,GK,,Grimsby Town,England,0.0,out,summer,Premier League,1996,False,
+Derby County,Marco Gabbiadini,28.0,England,Centre-Forward,CF,,Birmingham,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Glyn Hodges,33.0,Wales,midfield,midfield,,Sing Tao,Hongkong,,out,summer,Premier League,1996,False,
+Derby County,Paul Trollope,24.0,Wales,Attacking Midfield,AM,,Grimsby Town,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Paul Trollope,24.0,Wales,Attacking Midfield,AM,,Crystal Palace,England,0.0,out,summer,Premier League,1996,True,free loan
+Derby County,Paulo Wanchope,20.0,Costa Rica,Centre-Forward,CF,,Herediano,Costa Rica,840000.0,in,winter,Premier League,1996,False,
+Derby County,Paul McGrath,36.0,Ireland,Centre-Back,CB,,Aston Villa,England,125000.0,in,winter,Premier League,1996,False,
+Derby County,Marino Rahmberg,22.0,Sweden,Centre-Forward,CF,,Degerfors,Sweden,0.0,in,winter,Premier League,1996,True,free loan
+Derby County,Aljosa Asanovic,30.0,Croatia,Central Midfield,CM,,Hajduk Split,Croatia,,in,winter,Premier League,1996,False,
+Derby County,Kevin Cooper,22.0,England,Left Midfield,LM,,Stockport,England,225000.0,out,winter,Premier League,1996,False,
+Derby County,Marco Gabbiadini,29.0,England,Centre-Forward,CF,,Oxford United,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Ian Ashbee,20.0,England,Defensive Midfield,DM,,Cambridge Utd.,England,0.0,out,winter,Premier League,1996,False,
+Derby County,Jason Kavanagh,24.0,England,Right-Back,RB,,Wycombe,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Marco Gabbiadini,28.0,England,Centre-Forward,CF,,Birmingham,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Andy Quy,20.0,England,Goalkeeper,GK,,Grimsby Town,England,0.0,out,winter,Premier League,1996,False,
+Derby County,Robin van der Laan,28.0,Netherlands,Attacking Midfield,AM,,Wolves,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,David Preece,32.0,England,Left Midfield,LM,,Swindon Town,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Martin Taylor,30.0,England,Goalkeeper,GK,,Wycombe,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Darren Wassall,28.0,England,defence,defence,,Birmingham,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Sean Flynn,28.0,England,midfield,midfield,,Stoke City,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Paul Simpson,30.0,England,midfield,midfield,,Sheff Utd,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Jason Kavanagh,25.0,England,Right-Back,RB,,Wycombe,England,28000.0,out,winter,Premier League,1996,False,
+Derby County,Paul Trollope,24.0,Wales,Attacking Midfield,AM,,Crystal Palace,England,0.0,out,winter,Premier League,1996,True,free loan
+Derby County,Paul Parker,32.0,England,Right-Back,RB,,Sheff Utd,England,,out,winter,Premier League,1996,False,
+Everton FC,Nick Barmby,22.0,England,Left Midfield,LM,,Middlesbrough,England,8000000.0,in,summer,Premier League,1996,False,
+Everton FC,Paul Gerrard,23.0,England,Goalkeeper,GK,,Oldham Athletic,England,1500000.0,in,summer,Premier League,1996,False,
+Everton FC,Daniel Amokachi,23.0,Nigeria,Centre-Forward,CF,,Besiktas,Turkey,2000000.0,out,summer,Premier League,1996,False,
+Everton FC,Gary Ablett,30.0,England,Centre-Back,CB,,Birmingham,England,440000.0,out,summer,Premier League,1996,False,
+Everton FC,Gary Rowett,22.0,England,Right-Back,RB,,Derby,England,420000.0,out,summer,Premier League,1996,False,
+Everton FC,Matt Jackson,24.0,England,Right-Back,RB,,QPR,England,0.0,out,summer,Premier League,1996,True,free loan
+Everton FC,Matt Jackson,24.0,England,Right-Back,RB,,Birmingham,England,0.0,out,summer,Premier League,1996,True,free loan
+Everton FC,Barry Horne,34.0,Wales,Defensive Midfield,DM,,Birmingham,England,,out,summer,Premier League,1996,False,
+Everton FC,Vinny Samways,27.0,England,Central Midfield,CM,,UD Las Palmas,Spain,,out,summer,Premier League,1996,False,
+Everton FC,Paul Holmes,28.0,England,midfield,midfield,,West Brom,England,,out,summer,Premier League,1996,False,
+Everton FC,Nick Barmby,22.0,England,Left Midfield,LM,,Middlesbrough,England,8000000.0,in,winter,Premier League,1996,False,
+Everton FC,Claus Thomsen,26.0,Denmark,Centre-Back,CB,,Ipswich,England,1250000.0,in,winter,Premier League,1996,False,
+Everton FC,Terry Phelan,29.0,Ireland,Left-Back,LB,,Chelsea,England,,in,winter,Premier League,1996,False,
+Everton FC,Andrey Kanchelskis,27.0,Russia,Right Midfield,RM,,Fiorentina,Italy,8000000.0,out,winter,Premier League,1996,False,
+Everton FC,John Ebbrell,27.0,England,midfield,midfield,,Sheff Utd,England,1500000.0,out,winter,Premier League,1996,False,
+Everton FC,Matt Jackson,25.0,England,Right-Back,RB,,Norwich,England,675000.0,out,winter,Premier League,1996,False,
+Everton FC,John Hills,18.0,England,Left-Back,LB,,Swansea,Wales,0.0,out,winter,Premier League,1996,True,free loan
+Everton FC,Neil Moore,24.0,England,defence,defence,,Norwich,England,0.0,out,winter,Premier League,1996,False,
+Everton FC,Jamie Speare,20.0,England,Goalkeeper,GK,,Darlington,England,0.0,out,winter,Premier League,1996,True,free loan
+Everton FC,Matt Jackson,24.0,England,Right-Back,RB,,Birmingham,England,0.0,out,winter,Premier League,1996,True,free loan
+Everton FC,Anders Limpar,31.0,Sweden,Attacking Midfield,AM,,Birmingham,England,,out,winter,Premier League,1996,False,
+Leeds United,Lee Sharpe,25.0,England,Left Midfield,LM,,Man Utd,England,6750000.0,in,summer,Premier League,1996,False,
+Leeds United,Lee Bowyer,19.0,England,Central Midfield,CM,,Charlton,England,3800000.0,in,summer,Premier League,1996,False,
+Leeds United,Nigel Martyn,29.0,England,Goalkeeper,GK,,Crystal Palace,England,3350000.0,in,summer,Premier League,1996,False,
+Leeds United,Derek Lilley,22.0,Scotland,Centre-Forward,CF,,Morton,Scotland,750000.0,in,summer,Premier League,1996,False,
+Leeds United,Gunnar Halle,30.0,Norway,Right-Back,RB,,Oldham Athletic,England,575000.0,in,summer,Premier League,1996,False,
+Leeds United,Ian Rush,34.0,Wales,Centre-Forward,CF,,Liverpool,England,0.0,in,summer,Premier League,1996,False,
+Leeds United,Mark Hateley,34.0,England,Centre-Forward,CF,,QPR,England,0.0,in,summer,Premier League,1996,True,free loan
+Leeds United,Gary McAllister,31.0,Scotland,Central Midfield,CM,,Coventry,England,250000.0,out,summer,Premier League,1996,False,
+Leeds United,John Pemberton,32.0,England,Centre-Back,CB,,Unknown,,0.0,out,summer,Premier League,1996,False,
+Leeds United,John Lukic,35.0,England,Goalkeeper,GK,,Arsenal,England,0.0,out,summer,Premier League,1996,False,
+Leeds United,Nathan Lowndes,19.0,England,Centre-Forward,CF,,Watford,England,0.0,out,summer,Premier League,1996,False,
+Leeds United,Philemon Masinga,27.0,South Africa,Centre-Forward,CF,,FC St. Gallen,Switzerland,,out,summer,Premier League,1996,False,
+Leeds United,Tomas Brolin,26.0,Sweden,Centre-Forward,CF,,FC Zürich,Switzerland,,out,summer,Premier League,1996,False,
+Leeds United,Nigel Worthington,34.0,Northern Ireland,Left-Back,LB,,Stoke City,England,,out,summer,Premier League,1996,False,
+Leeds United,David White,28.0,England,Right Winger,RW,,Sheff Utd,England,,out,summer,Premier League,1996,False,
+Leeds United,Andy Brown,19.0,Scotland,Left-Back,LB,,Hull City,England,,out,summer,Premier League,1996,False,
+Leeds United,Robert Molenaar,27.0,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,1400000.0,in,winter,Premier League,1996,False,
+Leeds United,Pierre Laurent,26.0,France,Centre-Forward,CF,,SC Bastia,France,0.0,in,winter,Premier League,1996,False,
+Leeds United,Paul Beesley,31.0,England,Centre-Back,CB,,Man City,England,600000.0,out,winter,Premier League,1996,False,
+Leeds United,Mark Tinkler,22.0,England,Central Midfield,CM,,York City,England,100000.0,out,winter,Premier League,1996,False,
+Leeds United,Paul Evans,23.0,South Africa,Goalkeeper,GK,,Bradford,England,0.0,out,winter,Premier League,1996,True,free loan
+Leicester City,Kasey Keller,26.0,United States,Goalkeeper,GK,,Millwall,England,1350000.0,in,summer,Premier League,1996,False,
+Leicester City,Muzzy Izzet,21.0,Turkey,Attacking Midfield,AM,,Chelsea,England,1200000.0,in,summer,Premier League,1996,False,
+Leicester City,Ian Marshall,30.0,England,Centre-Back,CB,,Ipswich,England,1200000.0,in,summer,Premier League,1996,False,
+Leicester City,Spencer Prior,25.0,England,Centre-Back,CB,,Norwich,England,700000.0,in,summer,Premier League,1996,False,
+Leicester City,Sascha Lenhart,22.0,Germany,attack,attack,,Royal Antwerp,Belgium,0.0,in,summer,Premier League,1996,False,
+Leicester City,Julian Joachim,21.0,England,Centre-Forward,CF,,Aston Villa,England,2100000.0,out,summer,Premier League,1996,False,
+Leicester City,Iwan Roberts,28.0,Wales,Centre-Forward,CF,,Wolves,England,1490000.0,out,summer,Premier League,1996,False,
+Leicester City,Brian Carey,28.0,Ireland,Centre-Back,CB,,Wrexham,Wales,117000.0,out,summer,Premier League,1996,False,
+Leicester City,Neil Lewis,22.0,England,defence,defence,,Peterborough,England,94000.0,out,summer,Premier League,1996,False,
+Leicester City,Mark Blake,25.0,England,midfield,midfield,,Walsall,England,0.0,out,summer,Premier League,1996,False,
+Leicester City,Mark Robins,26.0,England,Centre-Forward,CF,,FC Copenhagen,Denmark,0.0,out,summer,Premier League,1996,True,free loan
+Leicester City,Zeljko Kalac,23.0,Australia,Goalkeeper,GK,,Sydney United,Australia,,out,summer,Premier League,1996,False,
+Leicester City,Phil Gee,31.0,England,attack,attack,,Hednesford,England,,out,summer,Premier League,1996,False,
+Leicester City,Matt Elliott,28.0,Scotland,Centre-Back,CB,,Oxford United,England,2400000.0,in,winter,Premier League,1996,False,
+Leicester City,Steve Guppy,27.0,England,Left Winger,LW,,Port Vale,England,1190000.0,in,winter,Premier League,1996,False,
+Leicester City,Rob Ullathorne,25.0,England,Left-Back,LB,,CA Osasuna,Spain,900000.0,in,winter,Premier League,1996,False,
+Leicester City,Stuart Slater,27.0,England,midfield,midfield,,Ipswich,England,,in,winter,Premier League,1996,False,
+Leicester City,Paul Hyde,33.0,England,Goalkeeper,GK,,Leyton Orient,England,0.0,out,winter,Premier League,1996,False,
+Leicester City,Mark Robins,26.0,England,Centre-Forward,CF,,FC Copenhagen,Denmark,0.0,out,winter,Premier League,1996,True,free loan
+Leicester City,Colin Hill,33.0,Northern Ireland,Centre-Back,CB,,Trelleborg,Sweden,,out,winter,Premier League,1996,False,
+Liverpool FC,Patrik Berger,22.0,Czech Republic,Attacking Midfield,AM,,Bor. Dortmund,Germany,3500000.0,in,summer,Premier League,1996,False,
+Liverpool FC,Bjørn Tore Kvarme,24.0,Norway,Centre-Back,CB,,Rosenborg,Norway,0.0,in,summer,Premier League,1996,False,
+Liverpool FC,Haukur Ingi Gudnason,19.0,Iceland,Centre-Forward,CF,,Keflavík,Iceland,,in,summer,Premier League,1996,False,
+Liverpool FC,Ian Foster,19.0,England,Centre-Forward,CF,,Hereford Utd.,England,0.0,out,summer,Premier League,1996,False,
+Liverpool FC,Ian Rush,34.0,Wales,Centre-Forward,CF,,Leeds,England,0.0,out,summer,Premier League,1996,False,
+Liverpool FC,Stephen Pears,34.0,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,1996,False,
+Liverpool FC,Phil Charnock,21.0,England,Central Midfield,CM,,Crewe Alexandra,England,0.0,out,summer,Premier League,1996,False,
+Liverpool FC,David Larmour,18.0,Northern Ireland,Right Winger,RW,,Doncaster,England,,out,summer,Premier League,1996,False,
+Liverpool FC,Haukur Ingi Gudnason,19.0,Iceland,Centre-Forward,CF,,Keflavík,Iceland,,in,winter,Premier League,1996,False,
+Liverpool FC,John Scales,30.0,England,Centre-Back,CB,,Spurs,England,3000000.0,out,winter,Premier League,1996,False,
+Liverpool FC,Lee Jones,23.0,Wales,Centre-Forward,CF,,Wrexham,Wales,0.0,out,winter,Premier League,1996,True,free loan
+Liverpool FC,Lee Jones,23.0,Wales,Centre-Forward,CF,,Tranmere Rovers,England,0.0,out,winter,Premier League,1996,True,free loan
+Manchester United,Karel Poborsky,24.0,Czech Republic,Right Midfield,RM,,Slavia Prague,Czech Republic,4000000.0,in,summer,Premier League,1996,False,
+Manchester United,Ole Gunnar Solskjaer,23.0,Norway,Second Striker,SS,,Molde,Norway,2500000.0,in,summer,Premier League,1996,False,
+Manchester United,Jordi Cruyff,22.0,Netherlands,Attacking Midfield,AM,,FC Barcelona,Spain,2500000.0,in,summer,Premier League,1996,False,
+Manchester United,Ronny Johnsen,27.0,Norway,Centre-Back,CB,,Besiktas,Turkey,2230000.0,in,summer,Premier League,1996,False,
+Manchester United,Raymond van der Gouw,33.0,Netherlands,Goalkeeper,GK,,Vitesse,Netherlands,0.0,in,summer,Premier League,1996,False,
+Manchester United,Lee Sharpe,25.0,England,Left Midfield,LM,,Leeds,England,6750000.0,out,summer,Premier League,1996,False,
+Manchester United,Tony Coton,35.0,England,Goalkeeper,GK,,Sunderland,England,675000.0,out,summer,Premier League,1996,False,
+Manchester United,Jovan Kirovski,20.0,United States,Right Winger,RW,,Bor. Dortmund,Germany,0.0,out,summer,Premier League,1996,False,
+Manchester United,Jody Banim,18.0,England,attack,attack,,Trafford,England,0.0,out,summer,Premier League,1996,False,
+Manchester United,Paul Parker,32.0,England,Right-Back,RB,,Derby,England,0.0,out,summer,Premier League,1996,False,
+Manchester United,Steve Bruce,35.0,England,Centre-Back,CB,,Birmingham,England,,out,summer,Premier League,1996,False,
+Manchester United,Pat McGibbon,22.0,Northern Ireland,Centre-Back,CB,,Swansea,Wales,0.0,out,summer,Premier League,1996,True,free loan
+Manchester United,Simon Davies,22.0,Wales,midfield,midfield,,Huddersfield,England,0.0,out,summer,Premier League,1996,True,free loan
+Manchester United,John O'Kane,21.0,England,Right-Back,RB,,Bury,England,0.0,out,summer,Premier League,1996,True,free loan
+Manchester United,Pat McGibbon,23.0,Northern Ireland,Centre-Back,CB,,Wigan,England,563000.0,out,winter,Premier League,1996,False,
+Manchester United,Kevin Pilkington,22.0,England,Goalkeeper,GK,,Rotherham,England,0.0,out,winter,Premier League,1996,True,free loan
+Manchester United,Michael Appleton,21.0,England,midfield,midfield,,Grimsby Town,England,0.0,out,winter,Premier League,1996,True,free loan
+Manchester United,Simon Davies,22.0,Wales,midfield,midfield,,Huddersfield,England,0.0,out,winter,Premier League,1996,True,free loan
+Manchester United,John O'Kane,21.0,England,Right-Back,RB,,Bury,England,0.0,out,winter,Premier League,1996,True,free loan
+Middlesbrough FC,Fabrizio Ravanelli,27.0,Italy,Centre-Forward,CF,,Juventus,Italy,9780000.0,in,summer,Premier League,1996,False,
+Middlesbrough FC,Paul Merson,28.0,England,Right Midfield,RM,,Arsenal,England,6600000.0,in,summer,Premier League,1996,False,
+Middlesbrough FC,Mikkel Beck,23.0,Denmark,Centre-Forward,CF,,SC Fortuna Köln,Germany,0.0,in,summer,Premier League,1996,False,
+Middlesbrough FC,Nick Barmby,22.0,England,Left Midfield,LM,,Everton,England,8000000.0,out,summer,Premier League,1996,False,
+Middlesbrough FC,Graham Kavanagh,22.0,Ireland,Central Midfield,CM,,Stoke City,England,375000.0,out,summer,Premier League,1996,False,
+Middlesbrough FC,John Hendrie,32.0,Scotland,Right Winger,RW,,Barnsley FC,England,287000.0,out,summer,Premier League,1996,False,
+Middlesbrough FC,Paul Wilkinson,31.0,England,Centre-Forward,CF,,Barnsley FC,England,0.0,out,summer,Premier League,1996,False,
+Middlesbrough FC,Ben Roberts,21.0,England,Goalkeeper,GK,,Bradford,England,0.0,out,summer,Premier League,1996,True,free loan
+Middlesbrough FC,Jamie Pollock,22.0,England,Defensive Midfield,DM,,CA Osasuna,Spain,,out,summer,Premier League,1996,False,
+Middlesbrough FC,Mark Summerbell,19.0,England,midfield,midfield,,Cork City,Ireland,0.0,out,summer,Premier League,1996,True,free loan
+Middlesbrough FC,Mark Schwarzer,24.0,Australia,Goalkeeper,GK,,Bradford,England,2500000.0,in,winter,Premier League,1996,False,
+Middlesbrough FC,Vladimir Kinder,27.0,Slovakia,Centre-Back,CB,,Slo. Bratislava,Slovakia,,in,winter,Premier League,1996,False,
+Middlesbrough FC,Nick Barmby,22.0,England,Left Midfield,LM,,Everton,England,8000000.0,out,winter,Premier League,1996,False,
+Middlesbrough FC,Jan Aage Fjörtoft,29.0,Norway,Centre-Forward,CF,,Sheff Utd,England,975000.0,out,winter,Premier League,1996,False,
+Middlesbrough FC,John Hendrie,32.0,Scotland,Right Winger,RW,,Barnsley FC,England,287000.0,out,winter,Premier League,1996,False,
+Middlesbrough FC,Keith O'Halloran,21.0,Ireland,midfield,midfield,,St. Johnstone,Scotland,62000.0,out,winter,Premier League,1996,False,
+Middlesbrough FC,Chris Freestone,25.0,England,attack,attack,,Carlisle United,England,0.0,out,winter,Premier League,1996,True,free loan
+Middlesbrough FC,Keith O'Halloran,21.0,Ireland,midfield,midfield,,Cardiff,Wales,0.0,out,winter,Premier League,1996,True,free loan
+Middlesbrough FC,Branco,32.0,Brazil,Left-Back,LB,,Mogi Mirim,Brazil,,out,winter,Premier League,1996,False,
+Middlesbrough FC,Mark Summerbell,19.0,England,midfield,midfield,,Cork City,Ireland,0.0,out,winter,Premier League,1996,True,free loan
+Newcastle United,Alan Shearer,25.0,England,Centre-Forward,CF,,Blackburn,England,21000000.0,in,summer,Premier League,1996,False,
+Newcastle United,Faustino Asprilla,26.0,Colombia,Centre-Forward,CF,,AC Parma,Italy,7600000.0,in,summer,Premier League,1996,False,
+Newcastle United,Lee Clark,23.0,England,Right Winger,RW,,Sunderland,England,3250000.0,out,summer,Premier League,1996,False,
+Newcastle United,Chris Holland,21.0,England,Central Midfield,CM,,Birmingham,England,714000.0,out,summer,Premier League,1996,False,
+Newcastle United,Darren Huckerby,20.0,England,Right Winger,RW,,Millwall,England,0.0,out,summer,Premier League,1996,True,free loan
+Newcastle United,Jim Crawford,23.0,Ireland,midfield,midfield,,Rotherham,England,0.0,out,summer,Premier League,1996,True,free loan
+Newcastle United,Chris Holland,20.0,England,Central Midfield,CM,,Birmingham,England,0.0,out,summer,Premier League,1996,True,free loan
+Newcastle United,Paul Kitson,26.0,England,Centre-Forward,CF,,West Ham,England,3500000.0,out,winter,Premier League,1996,False,
+Newcastle United,Darren Huckerby,20.0,England,Right Winger,RW,,Coventry,England,1000000.0,out,winter,Premier League,1996,False,
+Newcastle United,Chris Holland,21.0,England,Central Midfield,CM,,Birmingham,England,714000.0,out,winter,Premier League,1996,False,
+Newcastle United,Steve Harper,21.0,England,Goalkeeper,GK,,Stockport,England,0.0,out,winter,Premier League,1996,True,free loan
+Newcastle United,Steve Harper,21.0,England,Goalkeeper,GK,,Gateshead FC,England,0.0,out,winter,Premier League,1996,True,free loan
+Newcastle United,Paul Brayson,19.0,England,attack,attack,,Swansea,Wales,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Pierre van Hooijdonk,26.0,Netherlands,Centre-Forward,CF,,Celtic,Scotland,6000000.0,in,summer,Premier League,1996,False,
+Nottingham Forest,Dean Saunders,32.0,Wales,Centre-Forward,CF,,Galatasaray,Turkey,1700000.0,in,summer,Premier League,1996,False,
+Nottingham Forest,Chris Allen,23.0,England,Left Winger,LW,,Oxford United,England,485000.0,in,summer,Premier League,1996,False,
+Nottingham Forest,Brian O'Neil,24.0,Scotland,Centre-Back,CB,,Celtic,Scotland,0.0,in,summer,Premier League,1996,True,free loan
+Nottingham Forest,Nikola Jerkan,31.0,Croatia,Centre-Back,CB,,Real Oviedo,Spain,,in,summer,Premier League,1996,False,
+Nottingham Forest,Jason Lee,25.0,England,Centre-Forward,CF,,Grimsby Town,England,0.0,out,summer,Premier League,1996,True,free loan
+Nottingham Forest,Neil Webb,32.0,England,Central Midfield,CM,,Grimsby Town,England,0.0,out,summer,Premier League,1996,False,
+Nottingham Forest,Craig Armstrong,21.0,England,Left-Back,LB,,Gillingham FC,England,0.0,out,summer,Premier League,1996,True,free loan
+Nottingham Forest,Kingsley Black,28.0,Northern Ireland,Left Midfield,LM,,Grimsby Town,England,30000.0,out,summer,Premier League,1996,False,
+Nottingham Forest,Andrea Silenzi,30.0,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,out,summer,Premier League,1996,True,free loan
+Nottingham Forest,Lutz Pfannenstiel,23.0,Germany,Goalkeeper,GK,,Orlando Pirates,South Africa,0.0,out,summer,Premier League,1996,True,free loan
+Nottingham Forest,Tommy Wright,33.0,Northern Ireland,Goalkeeper,GK,,Reading,England,0.0,out,summer,Premier League,1996,True,free loan
+Nottingham Forest,Robert Rosario,30.0,England,attack,attack,,Career break,,,out,summer,Premier League,1996,False,
+Nottingham Forest,Ian Thomas-Moore,20.0,England,Centre-Forward,CF,,Tranmere Rovers,England,1500000.0,in,winter,Premier League,1996,False,
+Nottingham Forest,Brian O'Neil,24.0,Scotland,Centre-Back,CB,,Celtic,Scotland,0.0,in,winter,Premier League,1996,True,free loan
+Nottingham Forest,Nigel Clough,30.0,England,Attacking Midfield,AM,,Man City,England,0.0,in,winter,Premier League,1996,True,free loan
+Nottingham Forest,Tommy Wright,33.0,Northern Ireland,Goalkeeper,GK,,Man City,England,675000.0,out,winter,Premier League,1996,False,
+Nottingham Forest,Craig Armstrong,21.0,England,Left-Back,LB,,Watford,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Jason Lee,25.0,England,Centre-Forward,CF,,Charlton,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Steve Guinan,21.0,England,Centre-Forward,CF,,Burnley,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Craig Armstrong,21.0,England,Left-Back,LB,,Gillingham FC,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Lutz Pfannenstiel,23.0,Germany,Goalkeeper,GK,,Sembawang,Singapore,,out,winter,Premier League,1996,False,
+Nottingham Forest,Tommy Wright,33.0,Northern Ireland,Goalkeeper,GK,,Man City,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Stephen Howe,23.0,England,midfield,midfield,,Ipswich,England,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Lutz Pfannenstiel,23.0,Germany,Goalkeeper,GK,,Orlando Pirates,South Africa,0.0,out,winter,Premier League,1996,True,free loan
+Nottingham Forest,Tommy Wright,33.0,Northern Ireland,Goalkeeper,GK,,Reading,England,0.0,out,winter,Premier League,1996,True,free loan
+Sheffield Wednesday,Andy Booth,22.0,England,Centre-Forward,CF,,Huddersfield,England,3900000.0,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Patrick Blondeau,29.0,France,Right-Back,RB,,Monaco,France,2600000.0,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Wayne Collins,27.0,England,Central Midfield,CM,,Crewe Alexandra,England,900000.0,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Scott Oakes,,England,attack,attack,,Luton,England,640000.0,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Matt Clarke,22.0,England,Goalkeeper,GK,,Rotherham,England,400000.0,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Orlando Trustfull,25.0,Netherlands,Defensive Midfield,DM,,Feyenoord,Netherlands,,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Benny Carbone,25.0,Italy,Second Striker,SS,,Inter,Italy,,in,summer,Premier League,1996,False,
+Sheffield Wednesday,Darko Kovacevic,22.0,Serbia,Centre-Forward,CF,,Real Sociedad,Spain,8000000.0,out,summer,Premier League,1996,False,
+Sheffield Wednesday,Lance Key,28.0,England,Goalkeeper,GK,,Dundee United,Scotland,0.0,out,summer,Premier League,1996,False,
+Sheffield Wednesday,Marc Degryse,30.0,Belgium,Centre-Forward,CF,,PSV Eindhoven,Netherlands,,out,summer,Premier League,1996,False,
+Sheffield Wednesday,Mike Williams,26.0,England,attack,attack,,Huddersfield,England,0.0,out,summer,Premier League,1996,True,free loan
+Sheffield Wednesday,Chris Waddle,35.0,England,Attacking Midfield,AM,,Without Club,,,out,summer,Premier League,1996,False,
+Sheffield Wednesday,Benny Carbone,25.0,Italy,Second Striker,SS,,Inter,Italy,,in,winter,Premier League,1996,False,
+Sheffield Wednesday,John Sheridan,32.0,Ireland,Central Midfield,CM,,Bolton,England,225000.0,out,winter,Premier League,1996,False,
+Sheffield Wednesday,Mark Bright,34.0,England,Centre-Forward,CF,,FC Sion,Switzerland,88000.0,out,winter,Premier League,1996,False,
+Sheffield Wednesday,Simon Weaver,19.0,England,Centre-Back,CB,,Doncaster,England,0.0,out,winter,Premier League,1996,True,free loan
+Sheffield Wednesday,Adem Poric,23.0,Australia,Central Midfield,CM,,Southend United,England,0.0,out,winter,Premier League,1996,True,free loan
+Sheffield Wednesday,John Sheridan,32.0,Ireland,Central Midfield,CM,,Bolton,England,0.0,out,winter,Premier League,1996,True,free loan
+Sheffield Wednesday,Mike Williams,27.0,England,attack,attack,,Peterborough,England,0.0,out,winter,Premier League,1996,True,free loan
+Sheffield Wednesday,Mike Williams,26.0,England,attack,attack,,Huddersfield,England,0.0,out,winter,Premier League,1996,True,free loan
+Southampton FC,Egil Östenstad,24.0,Norway,Centre-Forward,CF,,Viking FK,Norway,800000.0,in,summer,Premier League,1996,False,
+Southampton FC,Claus Lundekvam,23.0,Norway,Centre-Back,CB,,Brann,Norway,600000.0,in,summer,Premier League,1996,False,
+Southampton FC,Graham Potter,21.0,England,Left-Back,LB,,Stoke City,England,313000.0,in,summer,Premier League,1996,False,
+Southampton FC,Eyal Berkovic,24.0,Israel,Attacking Midfield,AM,,Maccabi Haifa,Israel,0.0,in,summer,Premier League,1996,True,free loan
+Southampton FC,Garry Monk,17.0,England,Centre-Back,CB,,Torquay United,England,0.0,in,summer,Premier League,1996,False,
+Southampton FC,Russell Watkinson,18.0,England,midfield,midfield,,Woking FC,England,0.0,in,summer,Premier League,1996,False,
+Southampton FC,Richard Dryden,27.0,England,Centre-Back,CB,,Bristol City,England,,in,summer,Premier League,1996,False,
+Southampton FC,Robbie Slater,31.0,Australia,Central Midfield,CM,,West Ham,England,,in,summer,Premier League,1996,False,
+Southampton FC,Ulrich van Gobbel,25.0,Netherlands,Right-Back,RB,,Galatasaray,Turkey,,in,summer,Premier League,1996,False,
+Southampton FC,Chris Woods,36.0,England,Goalkeeper,GK,,Colorado,United States,,in,summer,Premier League,1996,False,
+Southampton FC,Richard Hall,24.0,England,Centre-Back,CB,,West Ham,England,1700000.0,out,summer,Premier League,1996,False,
+Southampton FC,Neil Shipperley,21.0,England,Centre-Forward,CF,,Crystal Palace,England,1400000.0,out,summer,Premier League,1996,False,
+Southampton FC,Tommy Widdrington,24.0,England,Central Midfield,CM,,Grimsby Town,England,336000.0,out,summer,Premier League,1996,False,
+Southampton FC,Ronnie Ekelund,23.0,Denmark,Left Midfield,LM,,Odense BK,Denmark,0.0,out,summer,Premier League,1996,False,
+Southampton FC,Mark Walters,32.0,England,Left Midfield,LM,,Swindon Town,England,0.0,out,summer,Premier League,1996,False,
+Southampton FC,Bruce Grobbelaar,38.0,Zimbabwe,Goalkeeper,GK,,Plymouth,England,0.0,out,summer,Premier League,1996,False,
+Southampton FC,Christer Warren,22.0,England,midfield,midfield,,Brighton,England,0.0,out,summer,Premier League,1996,True,free loan
+Southampton FC,Frankie Bennett,27.0,England,Centre-Forward,CF,,Shrewsbury,England,0.0,out,summer,Premier League,1996,True,free loan
+Southampton FC,Derek Allan,21.0,Scotland,Centre-Back,CB,,Brighton,England,,out,summer,Premier League,1996,False,
+Southampton FC,Barry Venison,33.0,England,Left-Back,LB,,Retired,,,out,summer,Premier League,1996,False,
+Southampton FC,Egil Östenstad,24.0,Norway,Centre-Forward,CF,,Viking FK,Norway,800000.0,in,winter,Premier League,1996,False,
+Southampton FC,Mickey Evans,24.0,Ireland,Centre-Forward,CF,,Plymouth,England,780000.0,in,winter,Premier League,1996,False,
+Southampton FC,Maik Taylor,25.0,Northern Ireland,Goalkeeper,GK,,Barnet,England,750000.0,in,winter,Premier League,1996,False,
+Southampton FC,Ulrich van Gobbel,25.0,Netherlands,Right-Back,RB,,Galatasaray,Turkey,,in,winter,Premier League,1996,False,
+Southampton FC,Chris Woods,36.0,England,Goalkeeper,GK,,Colorado,United States,,in,winter,Premier League,1996,False,
+Southampton FC,Ali Dia,31.0,Senegal,Centre-Forward,CF,,Blyth Spartans,England,,in,winter,Premier League,1996,False,
+Southampton FC,Neil Shipperley,21.0,England,Centre-Forward,CF,,Crystal Palace,England,1400000.0,out,winter,Premier League,1996,False,
+Southampton FC,Gordon Watson,25.0,England,Centre-Forward,CF,,Bradford,England,660000.0,out,winter,Premier League,1996,False,
+Southampton FC,Neil Heaney,25.0,England,Right Winger,RW,,Man City,England,640000.0,out,winter,Premier League,1996,False,
+Southampton FC,Graham Potter,21.0,England,Left-Back,LB,,West Brom,England,376000.0,out,winter,Premier League,1996,False,
+Southampton FC,Christer Warren,22.0,England,midfield,midfield,,Fulham,England,0.0,out,winter,Premier League,1996,True,free loan
+Southampton FC,Christer Warren,22.0,England,midfield,midfield,,Brighton,England,0.0,out,winter,Premier League,1996,True,free loan
+Southampton FC,Frankie Bennett,27.0,England,Centre-Forward,CF,,Shrewsbury,England,0.0,out,winter,Premier League,1996,True,free loan
+Southampton FC,Paul Tisdale,23.0,England,midfield,midfield,,Huddersfield,England,0.0,out,winter,Premier League,1996,True,free loan
+Southampton FC,Frankie Bennett,27.0,England,Centre-Forward,CF,,Bristol Rovers,England,19000.0,out,winter,Premier League,1996,False,
+Southampton FC,Paul Sheerin,22.0,Scotland,Left Midfield,LM,,Östersund,Sweden,,out,winter,Premier League,1996,False,
+Southampton FC,Ali Dia,31.0,Senegal,Centre-Forward,CF,,Gateshead FC,England,,out,winter,Premier League,1996,False,
+Southampton FC,Chris Woods,37.0,England,Goalkeeper,GK,,Retired,,,out,winter,Premier League,1996,False,
+Southampton FC,Barry Venison,33.0,England,Left-Back,LB,,Retired,,,out,winter,Premier League,1996,False,
+Sunderland AFC,Lee Clark,23.0,England,Right Winger,RW,,Newcastle,England,3250000.0,in,summer,Premier League,1996,False,
+Sunderland AFC,Alex Rae,26.0,Scotland,Central Midfield,CM,,Millwall,England,1500000.0,in,summer,Premier League,1996,False,
+Sunderland AFC,Niall Quinn,29.0,Ireland,Centre-Forward,CF,,Man City,England,1300000.0,in,summer,Premier League,1996,False,
+Sunderland AFC,Tony Coton,35.0,England,Goalkeeper,GK,,Man Utd,England,675000.0,in,summer,Premier League,1996,False,
+Sunderland AFC,Darren Williams,19.0,England,Right-Back,RB,,York City,England,75000.0,in,summer,Premier League,1996,False,
+Sunderland AFC,Chris Tate,18.0,England,attack,attack,,York City,England,,in,summer,Premier League,1996,False,
+Sunderland AFC,Alec Chamberlain,32.0,England,Goalkeeper,GK,,Watford,England,60000.0,out,summer,Premier League,1996,False,
+Sunderland AFC,Brian Atkinson,25.0,England,Left Midfield,LM,,Darlington,England,0.0,out,summer,Premier League,1996,False,
+Sunderland AFC,Brett Angell,27.0,England,Centre-Forward,CF,,Stockport,England,0.0,out,summer,Premier League,1996,True,free loan
+Sunderland AFC,Gordon Armstrong,29.0,England,Central Midfield,CM,,Bury,England,0.0,out,summer,Premier League,1996,False,
+Sunderland AFC,John Kay,32.0,England,defence,defence,,Preston,England,0.0,out,summer,Premier League,1996,False,
+Sunderland AFC,Phil Gray,27.0,Northern Ireland,Centre-Forward,CF,,AS Nancy,France,,out,summer,Premier League,1996,False,
+Sunderland AFC,Jan Eriksson,29.0,Sweden,Centre-Back,CB,,Helsingborg,Sweden,300000.0,in,winter,Premier League,1996,False,
+Sunderland AFC,Chris Waddle,36.0,England,Attacking Midfield,AM,,Bradford,England,100000.0,in,winter,Premier League,1996,False,
+Sunderland AFC,Darren Williams,19.0,England,Right-Back,RB,,York City,England,75000.0,in,winter,Premier League,1996,False,
+Sunderland AFC,Brett Angell,28.0,England,Centre-Forward,CF,,Stockport,England,120000.0,out,winter,Premier League,1996,False,
+Sunderland AFC,Sam Aiston,20.0,England,midfield,midfield,,Chester City,England,0.0,out,winter,Premier League,1996,True,free loan
+Tottenham Hotspur,Allan Nielsen,25.0,Denmark,Central Midfield,CM,,Bröndby IF,Denmark,2000000.0,in,summer,Premier League,1996,False,
+Tottenham Hotspur,Espen Baardsen,18.0,Norway,Goalkeeper,GK,,San Francisco United Soccer Club,United States,,in,summer,Premier League,1996,False,
+Tottenham Hotspur,Steve Slade,20.0,England,attack,attack,,QPR,England,435000.0,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Chris Day,20.0,England,Goalkeeper,GK,,Crystal Palace,England,350000.0,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Andy Turner,21.0,Ireland,midfield,midfield,,Portsmouth,England,313000.0,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Owen Coll,20.0,Ireland,Centre-Back,CB,,Bournemouth,England,,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Gerry McMahon,22.0,Northern Ireland,Central Midfield,CM,,Stoke City,England,,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Erik Thorstvedt,34.0,Norway,Goalkeeper,GK,,Retired,,,out,summer,Premier League,1996,False,
+Tottenham Hotspur,Steffen Iversen,19.0,Norway,Second Striker,SS,,Rosenborg,Norway,3250000.0,in,winter,Premier League,1996,False,
+Tottenham Hotspur,John Scales,30.0,England,Centre-Back,CB,,Liverpool,England,3000000.0,in,winter,Premier League,1996,False,
+Tottenham Hotspur,Ramon Vega,25.0,Switzerland,Centre-Back,CB,,Cagliari Calcio,Italy,,in,winter,Premier League,1996,False,
+Tottenham Hotspur,Kevin Scott,30.0,England,Centre-Back,CB,,Norwich,England,350000.0,out,winter,Premier League,1996,False,
+Tottenham Hotspur,Jamie Clapham,21.0,England,Left-Back,LB,,Leyton Orient,England,0.0,out,winter,Premier League,1996,True,free loan
+Tottenham Hotspur,Jamie Clapham,21.0,England,Left-Back,LB,,Bristol Rovers,England,0.0,out,winter,Premier League,1996,True,free loan
+Tottenham Hotspur,David Kerslake,30.0,England,Right-Back,RB,,Swindon Town,England,0.0,out,winter,Premier League,1996,True,free loan
+West Ham United,Richard Hall,24.0,England,Centre-Back,CB,,Southampton,England,1700000.0,in,summer,Premier League,1996,False,
+West Ham United,Stan Lazaridis,23.0,Australia,Left Midfield,LM,,West Adelaide SC,Australia,450000.0,in,summer,Premier League,1996,False,
+West Ham United,Scott Mean,22.0,England,midfield,midfield,,Bournemouth,England,150000.0,in,summer,Premier League,1996,False,
+West Ham United,Paulo Futre,30.0,Portugal,Left Winger,LW,,Milan,Italy,0.0,in,summer,Premier League,1996,False,
+West Ham United,Mark Bowen,32.0,Wales,Left-Back,LB,,Norwich,England,0.0,in,summer,Premier League,1996,False,
+West Ham United,Florin Raducioiu,26.0,Romania,Centre-Forward,CF,,Espanyol,Spain,0.0,in,summer,Premier League,1996,True,free loan
+West Ham United,Tony Cottee,31.0,England,Centre-Forward,CF,,Selangor FC,Malaysia,1130000.0,out,summer,Premier League,1996,False,
+West Ham United,Adrian Richard Whitbread,25.0,England,Centre-Back,CB,,Portsmouth,England,311000.0,out,summer,Premier League,1996,False,
+West Ham United,Mark Watson,22.0,England,attack,attack,,Bournemouth,England,81000.0,out,summer,Premier League,1996,False,
+West Ham United,Ilie Dumitrescu,27.0,Romania,Left Winger,LW,,América,Mexico,0.0,out,summer,Premier League,1996,False,
+West Ham United,Alvin Martin,37.0,England,Centre-Back,CB,,Leyton Orient,England,0.0,out,summer,Premier League,1996,False,
+West Ham United,Les Sealey,38.0,England,Goalkeeper,GK,,Leyton Orient,England,0.0,out,summer,Premier League,1996,False,
+West Ham United,Simon Webster,32.0,England,defence,defence,,St. Albans City,England,0.0,out,summer,Premier League,1996,False,
+West Ham United,Lee Hodges,18.0,England,Left Midfield,LM,,Exeter City,England,0.0,out,summer,Premier League,1996,True,free loan
+West Ham United,Robbie Slater,31.0,Australia,Central Midfield,CM,,Southampton,England,,out,summer,Premier League,1996,False,
+West Ham United,Kenny Brown,28.0,England,defence,defence,,Birmingham,England,,out,summer,Premier League,1996,False,
+West Ham United,Emmanuel Omoyinmi,18.0,Nigeria,Centre-Forward,CF,,Bournemouth,England,0.0,out,summer,Premier League,1996,True,free loan
+West Ham United,Dani,19.0,Portugal,Attacking Midfield,AM,,Sporting CP,Portugal,0.0,out,summer,Premier League,1996,True,end of loan
+West Ham United,John Hartson,21.0,Wales,Centre-Forward,CF,,Arsenal,England,5000000.0,in,winter,Premier League,1996,False,
+West Ham United,Paul Kitson,26.0,England,Centre-Forward,CF,,Newcastle,England,3500000.0,in,winter,Premier League,1996,False,
+West Ham United,Steve Lomas,23.0,Northern Ireland,Central Midfield,CM,,Man City,England,2400000.0,in,winter,Premier League,1996,False,
+West Ham United,Mike Newell,31.0,England,Centre-Forward,CF,,Birmingham,England,0.0,in,winter,Premier League,1996,True,free loan
+West Ham United,Porfírio,23.0,Portugal,Left Midfield,LM,,Sporting CP,Portugal,0.0,in,winter,Premier League,1996,True,free loan
+West Ham United,Les Sealey,39.0,England,Goalkeeper,GK,,Leyton Orient,England,,in,winter,Premier League,1996,False,
+West Ham United,Tony Cottee,31.0,England,Centre-Forward,CF,,Selangor FC,Malaysia,1130000.0,out,winter,Premier League,1996,False,
+West Ham United,Steve Jones,26.0,England,Centre-Forward,CF,,Charlton,England,498000.0,out,winter,Premier League,1996,False,
+West Ham United,Adrian Richard Whitbread,25.0,England,Centre-Back,CB,,Portsmouth,England,311000.0,out,winter,Premier League,1996,False,
+West Ham United,Lee Hodges,18.0,England,Left Midfield,LM,,Leyton Orient,England,0.0,out,winter,Premier League,1996,True,free loan
+West Ham United,Mark Bowen,33.0,Wales,Left-Back,LB,,Shimizu S-Pulse,Japan,0.0,out,winter,Premier League,1996,False,
+West Ham United,Rio Ferdinand,18.0,England,Centre-Back,CB,,Bournemouth,England,0.0,out,winter,Premier League,1996,True,free loan
+West Ham United,Peter Shilton,47.0,England,Goalkeeper,GK,,Leyton Orient,England,0.0,out,winter,Premier League,1996,False,
+Wimbledon FC,Ben Thatcher,20.0,Wales,Left-Back,LB,,Millwall,England,2640000.0,in,summer,Premier League,1996,False,
+Wimbledon FC,Duncan Jupp,21.0,Scotland,Right-Back,RB,,Fulham,England,150000.0,in,summer,Premier League,1996,False,
+Wimbledon FC,Gary Elkins,30.0,England,Left-Back,LB,,Swindon Town,England,120000.0,out,summer,Premier League,1996,False,
+Wimbledon FC,Hans Segers,34.0,Netherlands,Goalkeeper,GK,,Wolves,England,0.0,out,summer,Premier League,1996,False,
+Wimbledon FC,Gary Blissett,32.0,England,Centre-Forward,CF,,Sembawang,Singapore,,out,summer,Premier League,1996,False,
+Wimbledon FC,Roger Joseph,30.0,England,defence,defence,,Chelsea,England,,out,summer,Premier League,1996,False,
+Wimbledon FC,Gerald Dobbs,25.0,England,midfield,midfield,,Dover Athletic,England,,out,summer,Premier League,1996,False,
+Wimbledon FC,Andy Thorn,29.0,England,Centre-Back,CB,,Heart of Midl.,Scotland,,out,summer,Premier League,1996,False,
+Wimbledon FC,Steve Talboys,29.0,England,midfield,midfield,,Watford,England,,out,summer,Premier League,1996,False,
+Wimbledon FC,Lenny Piper,18.0,England,midfield,midfield,,Gillingham FC,England,,out,summer,Premier League,1996,False,
+Wimbledon FC,Mark Thomas,21.0,England,midfield,midfield,,Unknown,,,out,summer,Premier League,1996,False,
+Wimbledon FC,Grant Payne,20.0,England,attack,attack,,Woking FC,England,,out,summer,Premier League,1996,False,
+Wimbledon FC,John Cheesewright,23.0,England,Goalkeeper,GK,,Colchester Utd.,England,0.0,out,summer,Premier League,1996,True,end of loan
+Wimbledon FC,Carl Cort,19.0,Guyana,Centre-Forward,CF,,Lincoln City,England,0.0,out,winter,Premier League,1996,True,free loan

@@ -1,0 +1,763 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Alexis Sánchez,25.0,Chile,Centre-Forward,CF,30000000.0,FC Barcelona,Spain,42500000.0,in,summer,Premier League,2014,False,
+Arsenal FC,Calum Chambers,19.0,England,Centre-Back,CB,2000000.0,Southampton,England,20230000.0,in,summer,Premier League,2014,False,
+Arsenal FC,Danny Welbeck,23.0,England,Centre-Forward,CF,17000000.0,Man Utd,England,20000000.0,in,summer,Premier League,2014,False,
+Arsenal FC,Mathieu Debuchy,28.0,France,Right-Back,RB,10000000.0,Newcastle,England,15000000.0,in,summer,Premier League,2014,False,
+Arsenal FC,David Ospina,25.0,Colombia,Goalkeeper,GK,5000000.0,OGC Nice,France,4000000.0,in,summer,Premier League,2014,False,
+Arsenal FC,Thomas Vermaelen,28.0,Belgium,Centre-Back,CB,14000000.0,FC Barcelona,Spain,19000000.0,out,summer,Premier League,2014,False,
+Arsenal FC,Johan Djourou,27.0,Switzerland,Centre-Back,CB,3000000.0,Hamburger SV,Germany,2800000.0,out,summer,Premier League,2014,False,
+Arsenal FC,Ignasi Miquel,21.0,Spain,Centre-Back,CB,400000.0,Norwich,England,1900000.0,out,summer,Premier League,2014,False,
+Arsenal FC,Thomas Eisfeld,21.0,Germany,Attacking Midfield,AM,300000.0,Fulham,England,1500000.0,out,summer,Premier League,2014,False,
+Arsenal FC,Lukasz Fabianski,29.0,Poland,Goalkeeper,GK,2000000.0,Swansea,England,0.0,out,summer,Premier League,2014,False,
+Arsenal FC,Bacary Sagna,31.0,France,Right-Back,RB,12000000.0,Man City,England,0.0,out,summer,Premier League,2014,False,
+Arsenal FC,Wellington Silva,21.0,Brazil,Right Winger,RW,400000.0,UD Almería,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Arsenal FC,Nicklas Bendtner,26.0,Denmark,Centre-Forward,CF,4000000.0,VfL Wolfsburg,Germany,0.0,out,summer,Premier League,2014,False,
+Arsenal FC,Carl Jenkinson,22.0,England,Right-Back,RB,6000000.0,West Ham,England,0.0,out,summer,Premier League,2014,True,free loan
+Arsenal FC,Ryo Miyaichi,21.0,Japan,Right Winger,RW,2000000.0,Twente FC,Netherlands,0.0,out,summer,Premier League,2014,True,free loan
+Arsenal FC,Kristoffer Olsson,19.0,Sweden,Central Midfield,CM,,FC Midtjylland,Denmark,0.0,out,summer,Premier League,2014,True,free loan
+Arsenal FC,Chu-young Park,28.0,"Korea, South",Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+Arsenal FC,Emiliano Viviano,28.0,Italy,Goalkeeper,GK,5000000.0,US Palermo,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+Arsenal FC,Kim Källström,31.0,Sweden,Central Midfield,CM,2500000.0,Spartak Moscow,Russia,0.0,out,summer,Premier League,2014,True,end of loan
+Arsenal FC,Gabriel Paulista,24.0,Brazil,Centre-Back,CB,8000000.0,Villarreal,Spain,15000000.0,in,winter,Premier League,2014,False,
+Arsenal FC,Krystian Bielik,17.0,Poland,Defensive Midfield,DM,,Legia Warszawa,Poland,2250000.0,in,winter,Premier League,2014,False,
+Arsenal FC,Kristoffer Olsson,19.0,Sweden,Central Midfield,CM,100000.0,FC Midtjylland,Denmark,1000000.0,out,winter,Premier League,2014,False,
+Arsenal FC,Joel Campbell,22.0,Costa Rica,Centre-Forward,CF,7500000.0,Villarreal,Spain,1000000.0,out,winter,Premier League,2014,True,loan with fee
+Arsenal FC,Lukas Podolski,29.0,Germany,Second Striker,SS,20000000.0,Inter,Italy,600000.0,out,winter,Premier League,2014,True,loan with fee
+Arsenal FC,Daniel Boateng,22.0,England,Centre-Back,CB,50000.0,FK Olimpik,Bosnia-Herzegovina,0.0,out,winter,Premier League,2014,False,
+Arsenal FC,Emiliano Martínez,22.0,Argentina,Goalkeeper,GK,1000000.0,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Arsenal FC,Semi Ajayi,21.0,Nigeria,Centre-Back,CB,,Cardiff,England,0.0,out,winter,Premier League,2014,True,free loan
+Arsenal FC,Francis Coquelin,23.0,France,Defensive Midfield,DM,3000000.0,Charlton,England,0.0,out,winter,Premier League,2014,True,free loan
+Arsenal FC,Yaya Sanogo,21.0,France,Centre-Forward,CF,2000000.0,Crystal Palace,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Carlos Sánchez,28.0,Colombia,Defensive Midfield,DM,4000000.0,Elche CF,Spain,6000000.0,in,summer,Premier League,2014,False,
+Aston Villa,Aly Cissokho,26.0,France,Left-Back,LB,5000000.0,Valencia,Spain,2500000.0,in,summer,Premier League,2014,False,
+Aston Villa,Kieran Richardson,29.0,England,Left-Back,LB,2500000.0,Fulham,England,750000.0,in,summer,Premier League,2014,False,
+Aston Villa,Philippe Senderos,29.0,Switzerland,Centre-Back,CB,2500000.0,Valencia,Spain,0.0,in,summer,Premier League,2014,False,
+Aston Villa,Joe Cole,32.0,England,Attacking Midfield,AM,2500000.0,West Ham,England,0.0,in,summer,Premier League,2014,False,
+Aston Villa,Tom Cleverley,25.0,England,Central Midfield,CM,11000000.0,Man Utd,England,0.0,in,summer,Premier League,2014,True,free loan
+Aston Villa,Karim El Ahmadi,29.0,Morocco,Defensive Midfield,DM,2500000.0,Feyenoord,Netherlands,700000.0,out,summer,Premier League,2014,False,
+Aston Villa,Jordan Bowery,22.0,England,Centre-Forward,CF,1000000.0,Rotherham,England,300000.0,out,summer,Premier League,2014,False,
+Aston Villa,Samir Carruthers,21.0,Ireland,Central Midfield,CM,250000.0,MK Dons,England,250000.0,out,summer,Premier League,2014,False,
+Aston Villa,Aleksandar Tonev,24.0,Bulgaria,Left Winger,LW,2000000.0,Celtic,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Jed Steer,22.0,England,Goalkeeper,GK,750000.0,Yeovil Town,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Enda Stevens,24.0,Ireland,Left-Back,LB,500000.0,Northampton,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Michael Drennan,20.0,Ireland,Centre-Forward,CF,,Portsmouth,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Chris Herd,25.0,Australia,Defensive Midfield,DM,1000000.0,Bolton,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Callum Robinson,19.0,Ireland,Centre-Forward,CF,250000.0,Preston,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Gary Gardner,22.0,England,Central Midfield,CM,1000000.0,Brighton,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Joe Bennett,24.0,England,Left-Back,LB,1500000.0,Brighton,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Janoi Donacien,20.0,St. Lucia,Right-Back,RB,,Tranmere Rovers,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Marc Albrighton,24.0,England,Right Midfield,RM,2500000.0,Leicester,England,0.0,out,summer,Premier League,2014,False,
+Aston Villa,Daniel Johnson,21.0,Jamaica,Attacking Midfield,AM,,Chesterfield FC,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Antonio Luna,23.0,Spain,Left-Back,LB,2000000.0,Hellas Verona,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Jed Steer,21.0,England,Goalkeeper,GK,1000000.0,Doncaster,England,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Yacouba Sylla,23.0,Mali,Defensive Midfield,DM,2000000.0,K. Erciyesspor,Turkey,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Nathan Delfouneso,23.0,England,Centre-Forward,CF,1500000.0,Blackpool,England,0.0,out,summer,Premier League,2014,False,
+Aston Villa,Nicklas Helenius,23.0,Denmark,Centre-Forward,CF,1500000.0,Aalborg BK,Denmark,0.0,out,summer,Premier League,2014,True,free loan
+Aston Villa,Carles Gil,22.0,Spain,Attacking Midfield,AM,6000000.0,Valencia,Spain,4200000.0,in,winter,Premier League,2014,False,
+Aston Villa,Scott Sinclair,25.0,England,Left Winger,LW,4000000.0,Man City,England,0.0,in,winter,Premier League,2014,True,free loan
+Aston Villa,Daniel Johnson,22.0,Jamaica,Attacking Midfield,AM,100000.0,Preston,England,65000.0,out,winter,Premier League,2014,False,
+Aston Villa,Darren Bent,30.0,England,Centre-Forward,CF,3500000.0,Derby,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Gary Gardner,22.0,England,Central Midfield,CM,1000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Chris Herd,25.0,Australia,Defensive Midfield,DM,1000000.0,Wigan,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Michael Drennan,20.0,Ireland,Centre-Forward,CF,,Shamrock Rovers,Ireland,0.0,out,winter,Premier League,2014,False,
+Aston Villa,Callum Robinson,20.0,Ireland,Centre-Forward,CF,250000.0,Preston,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Janoi Donacien,21.0,St. Lucia,Right-Back,RB,,Tranmere Rovers,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Graham Burke,21.0,Ireland,Second Striker,SS,,Notts County,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Enda Stevens,24.0,Ireland,Left-Back,LB,500000.0,Northampton,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Jed Steer,22.0,England,Goalkeeper,GK,750000.0,Yeovil Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Enda Stevens,24.0,Ireland,Left-Back,LB,500000.0,Doncaster,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Daniel Johnson,22.0,Jamaica,Attacking Midfield,AM,100000.0,Oldham Athletic,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Darren Bent,30.0,England,Centre-Forward,CF,3500000.0,Brighton,England,0.0,out,winter,Premier League,2014,True,free loan
+Aston Villa,Antonio Luna,23.0,Spain,Left-Back,LB,1200000.0,Spezia Calcio,Italy,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,George Boyd,28.0,Scotland,Left Winger,LW,1500000.0,Hull City,England,3800000.0,in,summer,Premier League,2014,False,
+Burnley FC,Lukas Jutkiewicz,25.0,England,Centre-Forward,CF,800000.0,Middlesbrough,England,3100000.0,in,summer,Premier League,2014,False,
+Burnley FC,Michael Kightly,28.0,England,Left Midfield,LM,2700000.0,Stoke City,England,1900000.0,in,summer,Premier League,2014,False,
+Burnley FC,Marvin Sordell,23.0,England,Centre-Forward,CF,1800000.0,Bolton,England,630000.0,in,summer,Premier League,2014,False,
+Burnley FC,Stephen Ward,28.0,Ireland,Left-Back,LB,2000000.0,Wolves,England,630000.0,in,summer,Premier League,2014,False,
+Burnley FC,Steven Reid,33.0,Ireland,Right-Back,RB,1000000.0,West Brom,England,0.0,in,summer,Premier League,2014,False,
+Burnley FC,Matt Gilks,32.0,Scotland,Goalkeeper,GK,700000.0,Blackpool,England,0.0,in,summer,Premier League,2014,False,
+Burnley FC,Matthew Taylor,32.0,England,Left Midfield,LM,1500000.0,West Ham,England,0.0,in,summer,Premier League,2014,False,
+Burnley FC,Nathaniel Chalobah,19.0,England,Defensive Midfield,DM,4000000.0,Chelsea,England,0.0,in,summer,Premier League,2014,True,free loan
+Burnley FC,Michael Keane,21.0,England,Centre-Back,CB,500000.0,Man Utd,England,0.0,in,summer,Premier League,2014,True,free loan
+Burnley FC,Luke Conlan,19.0,Northern Ireland,Left-Back,LB,,Career break,,,in,summer,Premier League,2014,False,
+Burnley FC,Nick Liversedge,26.0,England,Goalkeeper,GK,25000.0,Guisborough,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,David Edgar,27.0,Canada,Centre-Back,CB,800000.0,Birmingham,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Joseph Mills,24.0,England,Left-Back,LB,350000.0,Oldham Athletic,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Junior Stanislas,24.0,England,Left Winger,LW,1000000.0,Bournemouth,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Chris Baird,32.0,Northern Ireland,Defensive Midfield,DM,700000.0,West Brom,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Keith Treacy,25.0,Ireland,Left Midfield,LM,700000.0,Barnsley FC,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Micah Evans,21.0,England,Centre-Forward,CF,,Southport,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Kyle Brownhill,19.0,England,Left-Back,LB,,Hyde FC,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Luke Gallagher,20.0,Ireland,Centre-Back,CB,,Shelbourne,Ireland,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Luke O'Neill,22.0,England,Right-Back,RB,250000.0,Scunthorpe Utd.,England,0.0,out,summer,Premier League,2014,True,free loan
+Burnley FC,Jadan Hall,20.0,England,Left Winger,LW,,Chester FC,England,0.0,out,summer,Premier League,2014,True,free loan
+Burnley FC,Brian Stock,32.0,Wales,Central Midfield,CM,250000.0,Havant & Water.,England,0.0,out,summer,Premier League,2014,False,
+Burnley FC,Tom Anderson,21.0,England,Centre-Back,CB,,Lincoln City,England,0.0,out,summer,Premier League,2014,True,free loan
+Burnley FC,Alex Cisak,25.0,Australia,Goalkeeper,GK,250000.0,York City,England,0.0,out,summer,Premier League,2014,True,free loan
+Burnley FC,Archie Love,20.0,Scotland,Central Midfield,CM,,Without Club,,,out,summer,Premier League,2014,False,
+Burnley FC,Michael Keane,22.0,England,Centre-Back,CB,500000.0,Man Utd,England,2560000.0,in,winter,Premier League,2014,False,
+Burnley FC,Fredrik Ulvestad,22.0,Norway,Central Midfield,CM,1300000.0,Without Club,,,in,winter,Premier League,2014,False,
+Burnley FC,Alex Cisak,25.0,Australia,Goalkeeper,GK,250000.0,Leyton Orient,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Luke O'Neill,23.0,England,Right-Back,RB,250000.0,Leyton Orient,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Danny Lafferty,25.0,Northern Ireland,Left-Back,LB,500000.0,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Steven Hewitt,21.0,England,Central Midfield,CM,250000.0,Southport,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Alex Cisak,25.0,Australia,Goalkeeper,GK,250000.0,York City,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Tom Anderson,21.0,England,Centre-Back,CB,,Carlisle United,England,0.0,out,winter,Premier League,2014,True,free loan
+Burnley FC,Callum Richardson,19.0,Australia,Centre-Back,CB,,Without Club,,,out,winter,Premier League,2014,False,
+Chelsea FC,Diego Costa,25.0,Spain,Centre-Forward,CF,35000000.0,Atlético Madrid,Spain,38000000.0,in,summer,Premier League,2014,False,
+Chelsea FC,Cesc Fàbregas,27.0,Spain,Central Midfield,CM,50000000.0,FC Barcelona,Spain,33000000.0,in,summer,Premier League,2014,False,
+Chelsea FC,Filipe Luís,28.0,Brazil,Left-Back,LB,15000000.0,Atlético Madrid,Spain,20000000.0,in,summer,Premier League,2014,False,
+Chelsea FC,Loïc Rémy,27.0,France,Centre-Forward,CF,12000000.0,QPR,England,13200000.0,in,summer,Premier League,2014,False,
+Chelsea FC,Mario Pasalic,19.0,Croatia,Central Midfield,CM,3000000.0,Hajduk Split,Croatia,2500000.0,in,summer,Premier League,2014,False,
+Chelsea FC,Didier Drogba,36.0,Cote d'Ivoire,Centre-Forward,CF,2250000.0,Galatasaray,Turkey,0.0,in,summer,Premier League,2014,False,
+Chelsea FC,David Luiz,27.0,Brazil,Centre-Back,CB,26000000.0,Paris SG,France,49500000.0,out,summer,Premier League,2014,False,
+Chelsea FC,Romelu Lukaku,21.0,Belgium,Centre-Forward,CF,25000000.0,Everton,England,35360000.0,out,summer,Premier League,2014,False,
+Chelsea FC,Demba Ba,29.0,Senegal,Centre-Forward,CF,11000000.0,Besiktas,Turkey,6000000.0,out,summer,Premier League,2014,False,
+Chelsea FC,Patrick van Aanholt,23.0,Netherlands,Left-Back,LB,3500000.0,Sunderland,England,1900000.0,out,summer,Premier League,2014,False,
+Chelsea FC,Thorgan Hazard,21.0,Belgium,Left Winger,LW,10000000.0,Bor. M'gladbach,Germany,1500000.0,out,summer,Premier League,2014,True,loan with fee
+Chelsea FC,Marco van Ginkel,21.0,Netherlands,Central Midfield,CM,9000000.0,AC Milan,Italy,1000000.0,out,summer,Premier League,2014,True,loan with fee
+Chelsea FC,Lucas Piazon,20.0,Brazil,Right Winger,RW,7000000.0,E. Frankfurt,Germany,800000.0,out,summer,Premier League,2014,True,loan with fee
+Chelsea FC,Oriol Romeu,22.0,Spain,Defensive Midfield,DM,7000000.0,VfB Stuttgart,Germany,250000.0,out,summer,Premier League,2014,True,loan with fee
+Chelsea FC,Tomas Kalas,21.0,Czech Republic,Centre-Back,CB,6000000.0,1. FC Köln,Germany,200000.0,out,summer,Premier League,2014,True,loan with fee
+Chelsea FC,Sam Hutchinson,24.0,England,Defensive Midfield,DM,150000.0,Sheff Wed,England,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Patrick Bamford,20.0,England,Centre-Forward,CF,1500000.0,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Fernando Torres,30.0,Spain,Centre-Forward,CF,12000000.0,AC Milan,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Kenneth Omeruo,20.0,Nigeria,Centre-Back,CB,1000000.0,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Samuel Eto'o,33.0,Cameroon,Centre-Forward,CF,9000000.0,Everton,England,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Frank Lampard,36.0,England,Central Midfield,CM,2000000.0,NYCFC,United States,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Ryan Bertrand,24.0,England,Left-Back,LB,6000000.0,Southampton,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Ulises Dávila,23.0,Mexico,Second Striker,SS,1500000.0,CD Tenerife,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Jhon Pírez,21.0,Uruguay,Centre-Forward,CF,,Getafe CF B,Spain,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Jamal Blackman,20.0,England,Goalkeeper,GK,250000.0,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Ashley Cole,33.0,England,Left-Back,LB,5000000.0,AS Roma,Italy,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Wallace Oliveira,20.0,Brazil,Right-Back,RB,6000000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Milan Lalkovic,21.0,Slovakia,Left Winger,LW,250000.0,Mladá Boleslav,Czech Republic,0.0,out,summer,Premier League,2014,False,
+Chelsea FC,Nathaniel Chalobah,19.0,England,Defensive Midfield,DM,4000000.0,Burnley,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Matej Delac,22.0,Croatia,Goalkeeper,GK,750000.0,AC Arles,France,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Marko Marin,25.0,Germany,Attacking Midfield,AM,5000000.0,Fiorentina,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Josh McEachran,21.0,England,Central Midfield,CM,4000000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Victor Moses,23.0,Nigeria,Right Midfield,RM,8000000.0,Stoke City,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Stipe Perica,19.0,Croatia,Centre-Forward,CF,1000000.0,NAC Breda,Netherlands,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Christian Atsu,22.0,Ghana,Left Winger,LW,6000000.0,Everton,England,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Gaël Kakuta,23.0,DR Congo,Attacking Midfield,AM,2500000.0,Rayo Vallecano,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Mario Pasalic,19.0,Croatia,Central Midfield,CM,3000000.0,Elche CF,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Cristian Cuevas,19.0,Chile,Left-Back,LB,1500000.0,U. de Chile,Chile,0.0,out,summer,Premier League,2014,True,free loan
+Chelsea FC,Henrique Hilário,38.0,Portugal,Goalkeeper,GK,250000.0,Retired,,,out,summer,Premier League,2014,False,
+Chelsea FC,Juan Cuadrado,26.0,Colombia,Right-Back,RB,32000000.0,Fiorentina,Italy,31000000.0,in,winter,Premier League,2014,False,
+Chelsea FC,André Schürrle,24.0,Germany,Left Winger,LW,23000000.0,VfL Wolfsburg,Germany,32000000.0,out,winter,Premier League,2014,False,
+Chelsea FC,Ryan Bertrand,25.0,England,Left-Back,LB,6000000.0,Southampton,England,13300000.0,out,winter,Premier League,2014,False,
+Chelsea FC,Fernando Torres,30.0,Spain,Centre-Forward,CF,7000000.0,AC Milan,Italy,1000000.0,out,winter,Premier League,2014,False,
+Chelsea FC,Mark Schwarzer,42.0,Australia,Goalkeeper,GK,500000.0,Leicester,England,0.0,out,winter,Premier League,2014,False,
+Chelsea FC,Ulises Dávila,23.0,Mexico,Second Striker,SS,1500000.0,Vitória Setúbal,Portugal,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Mohamed Salah,22.0,Egypt,Right Winger,RW,13000000.0,Fiorentina,Italy,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Lewis Baker,19.0,England,Central Midfield,CM,500000.0,MK Dons,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Matej Delac,22.0,Croatia,Goalkeeper,GK,800000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Nathan Aké,20.0,Netherlands,Centre-Back,CB,1500000.0,Reading,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Todd Kane,21.0,England,Right-Back,RB,1000000.0,Bristol City,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Todd Kane,21.0,England,Right-Back,RB,1000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Lewis Baker,19.0,England,Central Midfield,CM,250000.0,Sheff Wed,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Tomas Kalas,21.0,Czech Republic,Centre-Back,CB,3500000.0,Middlesbrough,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Marko Marin,25.0,Germany,Attacking Midfield,AM,3500000.0,RSC Anderlecht,Belgium,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Nathaniel Chalobah,20.0,England,Defensive Midfield,DM,4000000.0,Reading,England,0.0,out,winter,Premier League,2014,True,free loan
+Chelsea FC,Stipe Perica,19.0,Croatia,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,James McArthur,26.0,Scotland,Central Midfield,CM,3000000.0,Wigan,England,8800000.0,in,summer,Premier League,2014,False,
+Crystal Palace,Zeki Fryers,21.0,England,Left-Back,LB,2500000.0,Spurs,England,3800000.0,in,summer,Premier League,2014,False,
+Crystal Palace,Martin Kelly,24.0,England,Right-Back,RB,3500000.0,Liverpool,England,2000000.0,in,summer,Premier League,2014,False,
+Crystal Palace,Fraizer Campbell,26.0,England,Centre-Forward,CF,4000000.0,Cardiff,England,1140000.0,in,summer,Premier League,2014,False,
+Crystal Palace,Sam Magri,20.0,Malta,Right-Back,RB,50000.0,QPR,England,0.0,in,summer,Premier League,2014,False,
+Crystal Palace,Chris Kettings,21.0,Scotland,Goalkeeper,GK,,Blackpool,England,0.0,in,summer,Premier League,2014,False,
+Crystal Palace,Brede Hangeland,33.0,Norway,Centre-Back,CB,3000000.0,Fulham,England,0.0,in,summer,Premier League,2014,False,
+Crystal Palace,Kevin Doyle,30.0,Ireland,Centre-Forward,CF,1500000.0,Wolves,England,0.0,in,summer,Premier League,2014,True,free loan
+Crystal Palace,Wilfried Zaha,21.0,Cote d'Ivoire,Left Winger,LW,8000000.0,Man Utd,England,0.0,in,summer,Premier League,2014,True,free loan
+Crystal Palace,Andy Johnson,33.0,England,Centre-Forward,CF,1000000.0,Without Club,,,in,summer,Premier League,2014,False,
+Crystal Palace,José Campaña,21.0,Spain,Central Midfield,CM,2000000.0,Sampdoria,Italy,1800000.0,out,summer,Premier League,2014,False,
+Crystal Palace,Michael Chambers,20.0,England,Centre-Back,CB,,Welling United,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Osman Sow,24.0,Sweden,Centre-Forward,CF,100000.0,Heart of Midl.,Scotland,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Ryan Inniss,19.0,England,Centre-Back,CB,,Yeovil Town,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Patrick McCarthy,31.0,Ireland,Centre-Back,CB,500000.0,Sheff Utd,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Peter Ramage,30.0,England,Centre-Back,CB,1000000.0,Barnsley FC,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Jonathan Williams,20.0,Wales,Attacking Midfield,AM,1500000.0,Ipswich,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Owen Garvan,26.0,Ireland,Central Midfield,CM,1000000.0,Bolton,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Danny Gabbidon,35.0,Wales,Centre-Back,CB,500000.0,Cardiff,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Stephen Dobbie,31.0,Scotland,Centre-Forward,CF,1000000.0,Fleetwood,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Jack Hunt,23.0,England,Right-Back,RB,3000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Kwesi Appiah,23.0,Ghana,Centre-Forward,CF,,Cambridge Utd.,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Alex Wynter,20.0,England,Centre-Back,CB,,Portsmouth,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Kagisho Dikgacoi,29.0,South Africa,Central Midfield,CM,2000000.0,Cardiff,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Ross Fitzsimons,20.0,England,Goalkeeper,GK,,Bolton,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Neil Alexander,36.0,Scotland,Goalkeeper,GK,250000.0,Heart of Midl.,Scotland,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Aaron Wilbraham,34.0,England,Centre-Forward,CF,250000.0,Bristol City,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Dean Moxey,28.0,England,Left-Back,LB,1000000.0,Bolton,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Jonathan Parr,25.0,Norway,Left-Back,LB,1500000.0,Ipswich,England,0.0,out,summer,Premier League,2014,False,
+Crystal Palace,Glenn Murray,30.0,England,Centre-Forward,CF,2500000.0,Reading,England,0.0,out,summer,Premier League,2014,True,free loan
+Crystal Palace,Aruna Dindane,33.0,Cote d'Ivoire,Second Striker,SS,,Retired,,,out,summer,Premier League,2014,False,
+Crystal Palace,Alastair Gordon,19.0,England,Right-Back,RB,,Without Club,,,out,summer,Premier League,2014,False,
+Crystal Palace,Ibra Sekajja,21.0,England,Centre-Forward,CF,,Without Club,,,out,summer,Premier League,2014,False,
+Crystal Palace,Jordon Mutch,23.0,England,Central Midfield,CM,6000000.0,QPR,England,6340000.0,in,winter,Premier League,2014,False,
+Crystal Palace,Pape Souaré,24.0,Senegal,Left-Back,LB,3500000.0,LOSC Lille,France,5300000.0,in,winter,Premier League,2014,False,
+Crystal Palace,Wilfried Zaha,22.0,Cote d'Ivoire,Left Winger,LW,8000000.0,Man Utd,England,3800000.0,in,winter,Premier League,2014,False,
+Crystal Palace,Keshi Anderson,19.0,England,Left Winger,LW,,Barton Rovers,England,40000.0,in,winter,Premier League,2014,False,
+Crystal Palace,Yaya Sanogo,21.0,France,Centre-Forward,CF,2000000.0,Arsenal,England,0.0,in,winter,Premier League,2014,True,free loan
+Crystal Palace,Chung-yong Lee,26.0,"Korea, South",Right Winger,RW,3000000.0,Bolton,England,,in,winter,Premier League,2014,False,
+Crystal Palace,Shola Ameobi,33.0,Nigeria,Centre-Forward,CF,1500000.0,Without Club,,,in,winter,Premier League,2014,False,
+Crystal Palace,Stuart O'Keefe,23.0,England,Central Midfield,CM,1000000.0,Cardiff,England,1070000.0,out,winter,Premier League,2014,False,
+Crystal Palace,Zeki Fryers,22.0,England,Left-Back,LB,3500000.0,Ipswich,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Stuart O'Keefe,23.0,England,Central Midfield,CM,1000000.0,Blackpool,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Adlène Guédioura,29.0,Algeria,Central Midfield,CM,1500000.0,Watford,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Lewis Price,30.0,Wales,Goalkeeper,GK,500000.0,Crawley Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Patrick McCarthy,31.0,Ireland,Centre-Back,CB,500000.0,Sheff Utd,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Michael Chambers,20.0,England,Centre-Back,CB,,Welling United,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Ryan Inniss,19.0,England,Centre-Back,CB,,Yeovil Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Patrick McCarthy,31.0,Ireland,Centre-Back,CB,500000.0,Sheff Utd,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Peter Ramage,30.0,England,Centre-Back,CB,1000000.0,Barnsley FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Kwesi Appiah,24.0,Ghana,Centre-Forward,CF,,Reading,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Patrick McCarthy,31.0,Ireland,Centre-Back,CB,500000.0,Bolton,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Michael Chambers,20.0,England,Centre-Back,CB,,Welling United,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Ryan Inniss,19.0,England,Centre-Back,CB,,Port Vale,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Zeki Fryers,22.0,England,Left-Back,LB,3500000.0,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Jack Hunt,24.0,England,Right-Back,RB,3000000.0,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Alex Wynter,21.0,England,Centre-Back,CB,,Colchester Utd.,England,,out,winter,Premier League,2014,False,
+Crystal Palace,Adlène Guédioura,29.0,Algeria,Central Midfield,CM,1000000.0,Watford,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Barry Bannan,25.0,Scotland,Central Midfield,CM,3000000.0,Bolton,England,0.0,out,winter,Premier League,2014,True,free loan
+Crystal Palace,Jimmy Kébé,31.0,Mali,Right Winger,RW,500000.0,Retired,,,out,winter,Premier League,2014,False,
+Everton FC,Romelu Lukaku,21.0,Belgium,Centre-Forward,CF,25000000.0,Chelsea,England,35360000.0,in,summer,Premier League,2014,False,
+Everton FC,Muhamed Besic,21.0,Bosnia-Herzegovina,Defensive Midfield,DM,2500000.0,Ferencváros,Hungary,4800000.0,in,summer,Premier League,2014,False,
+Everton FC,Gareth Barry,33.0,England,Defensive Midfield,DM,5000000.0,Man City,England,0.0,in,summer,Premier League,2014,False,
+Everton FC,Samuel Eto'o,33.0,Cameroon,Centre-Forward,CF,9000000.0,Chelsea,England,0.0,in,summer,Premier League,2014,False,
+Everton FC,Brendan Galloway,18.0,England,Left-Back,LB,50000.0,MK Dons,England,,in,summer,Premier League,2014,False,
+Everton FC,Christian Atsu,22.0,Ghana,Left Winger,LW,6000000.0,Chelsea,England,0.0,in,summer,Premier League,2014,True,free loan
+Everton FC,Shane Duffy,22.0,Ireland,Centre-Back,CB,1500000.0,Blackburn,England,1900000.0,out,summer,Premier League,2014,False,
+Everton FC,Apostolos Vellios,22.0,Greece,Centre-Forward,CF,2000000.0,Lierse SK,Belgium,0.0,out,summer,Premier League,2014,False,
+Everton FC,Magaye Gueye,24.0,Senegal,Centre-Forward,CF,1500000.0,Millwall,England,0.0,out,summer,Premier League,2014,False,
+Everton FC,Matty Kennedy,19.0,Northern Ireland,Left Winger,LW,,Hibernian FC,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Everton FC,John Lundstram,20.0,England,Central Midfield,CM,500000.0,Blackpool,England,0.0,out,summer,Premier League,2014,True,free loan
+Everton FC,Gerard Deulofeu,20.0,Spain,Left Winger,LW,12000000.0,FC Barcelona,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+Everton FC,Lacina Traore,24.0,Cote d'Ivoire,Centre-Forward,CF,11000000.0,Monaco,France,0.0,out,summer,Premier League,2014,True,end of loan
+Everton FC,Aaron Lennon,27.0,England,Right Winger,RW,12000000.0,Spurs,England,0.0,in,winter,Premier League,2014,True,free loan
+Everton FC,Ben McLaughlin,19.0,Ireland,Right-Back,RB,,Telford Utd,England,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,John Lundstram,20.0,England,Central Midfield,CM,500000.0,Leyton Orient,England,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,Samuel Eto'o,33.0,Cameroon,Centre-Forward,CF,7000000.0,Sampdoria,Italy,0.0,out,winter,Premier League,2014,False,
+Everton FC,Conor Grant,19.0,England,Central Midfield,CM,,Motherwell FC,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,Conor McAleny,22.0,England,Centre-Forward,CF,,Cardiff,England,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,John Lundstram,21.0,England,Central Midfield,CM,500000.0,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,Francisco Júnior,23.0,Guinea-Bissau,Central Midfield,CM,250000.0,Port Vale,England,0.0,out,winter,Premier League,2014,True,free loan
+Everton FC,Matty Kennedy,20.0,Northern Ireland,Left Winger,LW,50000.0,Cardiff,England,,out,winter,Premier League,2014,False,
+Hull City,Abel Hernández,24.0,Uruguay,Centre-Forward,CF,5000000.0,US Palermo,Italy,12000000.0,in,summer,Premier League,2014,False,
+Hull City,Robert Snodgrass,26.0,Scotland,Right Winger,RW,5500000.0,Norwich,England,7500000.0,in,summer,Premier League,2014,False,
+Hull City,Jake Livermore,24.0,England,Defensive Midfield,DM,2500000.0,Spurs,England,7000000.0,in,summer,Premier League,2014,False,
+Hull City,Michael Dawson,30.0,England,Centre-Back,CB,6500000.0,Spurs,England,4400000.0,in,summer,Premier League,2014,False,
+Hull City,Mohamed Diamé,27.0,Senegal,Central Midfield,CM,7000000.0,West Ham,England,4400000.0,in,summer,Premier League,2014,False,
+Hull City,Andrew Robertson,20.0,Scotland,Left-Back,LB,600000.0,Dundee United,Scotland,3600000.0,in,summer,Premier League,2014,False,
+Hull City,Harry Maguire,21.0,England,Centre-Back,CB,750000.0,Sheff Utd,England,3150000.0,in,summer,Premier League,2014,False,
+Hull City,Tom Ince,22.0,England,Right Winger,RW,8000000.0,Blackpool,England,1950000.0,in,summer,Premier League,2014,False,
+Hull City,Brian Lenihan,20.0,Ireland,Right-Back,RB,,Cork City,Ireland,257000.0,in,summer,Premier League,2014,False,
+Hull City,Johan Ter Horst,19.0,England,Centre-Forward,CF,,F. Invicta,England,,in,summer,Premier League,2014,False,
+Hull City,Gastón Ramírez,23.0,Uruguay,Attacking Midfield,AM,7500000.0,Southampton,England,0.0,in,summer,Premier League,2014,True,free loan
+Hull City,Hatem Ben Arfa,27.0,France,Attacking Midfield,AM,9000000.0,Newcastle,England,0.0,in,summer,Premier League,2014,True,free loan
+Hull City,Shane Long,27.0,Ireland,Centre-Forward,CF,6000000.0,Southampton,England,14900000.0,out,summer,Premier League,2014,False,
+Hull City,George Boyd,28.0,Scotland,Left Winger,LW,1500000.0,Burnley,England,3800000.0,out,summer,Premier League,2014,False,
+Hull City,Cameron Stewart,23.0,England,Left Winger,LW,500000.0,Ipswich,England,0.0,out,summer,Premier League,2014,False,
+Hull City,Matty Fryatt,28.0,England,Centre-Forward,CF,1500000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,False,
+Hull City,Conor Henderson,22.0,Ireland,Central Midfield,CM,,Crawley Town,England,0.0,out,summer,Premier League,2014,False,
+Hull City,Jack Barlow,19.0,England,midfield,midfield,,Boston United,England,0.0,out,summer,Premier League,2014,False,
+Hull City,Mark Oxley,23.0,England,Goalkeeper,GK,150000.0,Hibernian FC,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Conor Townsend,21.0,England,Left-Back,LB,,Dundee United,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Joe Dudgeon,23.0,Northern Ireland,Left-Back,LB,500000.0,Barnsley FC,England,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Robert Koren,33.0,Slovenia,Attacking Midfield,AM,1000000.0,Melbourne City,Australia,0.0,out,summer,Premier League,2014,False,
+Hull City,Nick Proschwitz,27.0,Germany,Centre-Forward,CF,1000000.0,Brentford,England,0.0,out,summer,Premier League,2014,False,
+Hull City,Jonny Margetts,20.0,England,Centre-Forward,CF,,Harrogate Town,England,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Yannick Sagbo,26.0,Cote d'Ivoire,Centre-Forward,CF,2000000.0,Wolves,England,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Maynor Figueroa,31.0,Honduras,Centre-Back,CB,3000000.0,Wigan,England,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Tom Ince,22.0,England,Right Winger,RW,8000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,True,free loan
+Hull City,Abdoulaye Fayé,36.0,Senegal,Centre-Back,CB,250000.0,Without Club,,,out,summer,Premier League,2014,False,
+Hull City,Dame N'Doye,29.0,Senegal,Centre-Forward,CF,10000000.0,Loko Moscow,Russia,3960000.0,in,winter,Premier League,2014,False,
+Hull City,Greg Luer,20.0,England,Centre-Forward,CF,,Burgess Hill,England,,in,winter,Premier League,2014,False,
+Hull City,Calaum Jahraldo-Martin,21.0,Antigua and Barbuda,Right Winger,RW,,Alloa Athletic,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Greg Luer,20.0,England,Centre-Forward,CF,,Port Vale,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Harry Maguire,21.0,England,Centre-Back,CB,3000000.0,Wigan,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Conor Townsend,21.0,England,Left-Back,LB,200000.0,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Jonny Margetts,21.0,England,Centre-Forward,CF,,Cambridge Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Maynor Figueroa,31.0,Honduras,Centre-Back,CB,3000000.0,Wigan,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Tom Ince,22.0,England,Right Winger,RW,8000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Brian Lenihan,20.0,Ireland,Right-Back,RB,,Blackpool,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Calaum Jahraldo-Martin,21.0,Antigua and Barbuda,Right Winger,RW,,Tranmere Rovers,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Will Aimson,20.0,England,Centre-Back,CB,,Tranmere Rovers,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Joe Cracknell,20.0,England,Goalkeeper,GK,,Scarborough Athletic,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Jonny Margetts,21.0,England,Centre-Forward,CF,,Gainsborough Trinity,England,0.0,out,winter,Premier League,2014,True,free loan
+Hull City,Tom Ince,23.0,England,Right Winger,RW,8000000.0,Derby,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Leonardo Ulloa,27.0,Argentina,Centre-Forward,CF,2000000.0,Brighton,England,10100000.0,in,summer,Premier League,2014,False,
+Leicester City,Danny Simpson,27.0,England,Right-Back,RB,2500000.0,QPR,England,2500000.0,in,summer,Premier League,2014,False,
+Leicester City,Tom Lawrence,20.0,Wales,Left Winger,LW,,Man Utd U23,England,1260000.0,in,summer,Premier League,2014,False,
+Leicester City,Jonny Maddison,19.0,England,Goalkeeper,GK,,Crawley Town,England,0.0,in,summer,Premier League,2014,False,
+Leicester City,Matthew Upson,35.0,England,Centre-Back,CB,500000.0,Brighton,England,0.0,in,summer,Premier League,2014,False,
+Leicester City,Ben Hamer,26.0,England,Goalkeeper,GK,600000.0,Charlton,England,0.0,in,summer,Premier League,2014,False,
+Leicester City,Marc Albrighton,24.0,England,Right Midfield,RM,2500000.0,Aston Villa,England,0.0,in,summer,Premier League,2014,False,
+Leicester City,Esteban Cambiasso,34.0,Argentina,Defensive Midfield,DM,3000000.0,Inter,Italy,0.0,in,summer,Premier League,2014,False,
+Leicester City,Joe Davis,20.0,England,Centre-Back,CB,25000.0,Port Vale,England,,in,summer,Premier League,2014,False,
+Leicester City,Nick Powell,20.0,England,Attacking Midfield,AM,4000000.0,Man Utd,England,0.0,in,summer,Premier League,2014,True,free loan
+Leicester City,Neil Danns,31.0,Guyana,Central Midfield,CM,500000.0,Bolton,England,0.0,out,summer,Premier League,2014,False,
+Leicester City,Ben Frempah,19.0,England,Centre-Back,CB,,Ross County,Scotland,0.0,out,summer,Premier League,2014,False,
+Leicester City,Zak Whitbread,30.0,United States,Centre-Back,CB,750000.0,Derby,England,0.0,out,summer,Premier League,2014,False,
+Leicester City,George Taft,20.0,England,Centre-Back,CB,,Burton Albion,England,0.0,out,summer,Premier League,2014,False,
+Leicester City,Lloyd Dyer,31.0,England,Left Midfield,LM,700000.0,Watford,England,0.0,out,summer,Premier League,2014,False,
+Leicester City,Márkó Futács,24.0,Hungary,Centre-Forward,CF,600000.0,Mersin IY,Turkey,0.0,out,summer,Premier League,2014,False,
+Leicester City,Paul Gallagher,29.0,Scotland,Central Midfield,CM,400000.0,Preston,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Adam Dawson,21.0,England,Right Winger,RW,,Notts County,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Jacob Blyth,22.0,England,Centre-Forward,CF,,Burton Albion,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Conrad Logan,28.0,Ireland,Goalkeeper,GK,250000.0,Rochdale,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Ryan Watson,21.0,England,Defensive Midfield,DM,,Northampton,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Adam Dawson,21.0,England,Right Winger,RW,,Nuneaton,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Michael Cain,20.0,England,Central Midfield,CM,,Walsall,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Gary Taylor-Fletcher,33.0,England,Right Winger,RW,500000.0,Sheff Wed,England,0.0,out,summer,Premier League,2014,True,free loan
+Leicester City,Kevin Phillips,40.0,England,Centre-Forward,CF,250000.0,Retired,,,out,summer,Premier League,2014,False,
+Leicester City,Sean St. Ledger,29.0,Ireland,Centre-Back,CB,1500000.0,Without Club,,,out,summer,Premier League,2014,False,
+Leicester City,Andrej Kramaric,23.0,Croatia,Centre-Forward,CF,4500000.0,HNK Rijeka,Croatia,9000000.0,in,winter,Premier League,2014,False,
+Leicester City,Mark Schwarzer,42.0,Australia,Goalkeeper,GK,500000.0,Chelsea,England,0.0,in,winter,Premier League,2014,False,
+Leicester City,Robert Huth,30.0,Germany,Centre-Back,CB,7000000.0,Stoke City,England,0.0,in,winter,Premier League,2014,True,free loan
+Leicester City,Tom Hopper,21.0,England,Centre-Forward,CF,,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Gary Taylor-Fletcher,33.0,England,Right Winger,RW,500000.0,Sheff Wed,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Michael Cain,20.0,England,Central Midfield,CM,,Walsall,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Adam Dawson,21.0,England,Right Winger,RW,,Nuneaton,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Gary Taylor-Fletcher,33.0,England,Right Winger,RW,500000.0,Millwall,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Chris Wood,23.0,New Zealand,Centre-Forward,CF,1000000.0,Ipswich,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Adam Dawson,22.0,England,Right Winger,RW,,Bristol Rovers,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Adam Smith,22.0,England,Goalkeeper,GK,250000.0,Mansfield Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Tom Lawrence,20.0,Wales,Left Winger,LW,1000000.0,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Leicester City,Liam Moore,22.0,Jamaica,Centre-Back,CB,2500000.0,Brentford,England,0.0,out,winter,Premier League,2014,True,free loan
+Liverpool FC,Adam Lallana,26.0,England,Attacking Midfield,AM,7500000.0,Southampton,England,31000000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Dejan Lovren,25.0,Croatia,Centre-Back,CB,12000000.0,Southampton,England,25300000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Lazar Markovic,20.0,Serbia,Right Winger,RW,10000000.0,Benfica,Portugal,25000000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Mario Balotelli,24.0,Italy,Centre-Forward,CF,27000000.0,AC Milan,Italy,20000000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Alberto Moreno,22.0,Spain,Left-Back,LB,15000000.0,Sevilla FC,Spain,18000000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Divock Origi,19.0,Belgium,Centre-Forward,CF,1000000.0,LOSC Lille,France,12630000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Emre Can,20.0,Germany,Centre-Back,CB,7500000.0,Bay. Leverkusen,Germany,12000000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Rickie Lambert,32.0,England,Centre-Forward,CF,5000000.0,Southampton,England,5500000.0,in,summer,Premier League,2014,False,
+Liverpool FC,Javier Manquillo,20.0,Spain,Right-Back,RB,6000000.0,Atlético Madrid,Spain,2000000.0,in,summer,Premier League,2014,True,loan with fee
+Liverpool FC,Kevin Stewart,20.0,England,Defensive Midfield,DM,50000.0,Tottenham U21,England,0.0,in,summer,Premier League,2014,False,
+Liverpool FC,Lawrence Vigouroux,20.0,Chile,Goalkeeper,GK,,Tottenham U21,England,0.0,in,summer,Premier League,2014,False,
+Liverpool FC,Luis Suárez,27.0,Uruguay,Centre-Forward,CF,52000000.0,FC Barcelona,Spain,81720000.0,out,summer,Premier League,2014,False,
+Liverpool FC,Daniel Agger,29.0,Denmark,Centre-Back,CB,15000000.0,Bröndby IF,Denmark,4000000.0,out,summer,Premier League,2014,False,
+Liverpool FC,Pepe Reina,31.0,Spain,Goalkeeper,GK,9000000.0,FC Bayern,Germany,3000000.0,out,summer,Premier League,2014,False,
+Liverpool FC,Martin Kelly,24.0,England,Right-Back,RB,3500000.0,Crystal Palace,England,2000000.0,out,summer,Premier League,2014,False,
+Liverpool FC,Jack Robinson,20.0,England,Left-Back,LB,800000.0,QPR,England,1250000.0,out,summer,Premier League,2014,False,
+Liverpool FC,Luis Alberto,21.0,Spain,Attacking Midfield,AM,6000000.0,Málaga CF,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Divock Origi,19.0,Belgium,Centre-Forward,CF,1000000.0,LOSC Lille,France,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Andre Wisdom,21.0,England,Right-Back,RB,2500000.0,West Brom,England,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Jordon Ibe,18.0,England,Right Winger,RW,500000.0,Derby,England,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Kristoffer Peterson,19.0,Sweden,Left Winger,LW,,FC Utrecht,Netherlands,,out,summer,Premier League,2014,False,
+Liverpool FC,Tiago Ilori,21.0,Portugal,Centre-Back,CB,4000000.0,G. Bordeaux,France,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Rafa Páez,19.0,Spain,Centre-Back,CB,,Bologna,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Iago Aspas,26.0,Spain,Centre-Forward,CF,7000000.0,Sevilla FC,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Sebastián Coates,23.0,Uruguay,Centre-Back,CB,2500000.0,Sunderland,England,0.0,out,summer,Premier League,2014,True,free loan
+Liverpool FC,Craig Roddan,21.0,England,Central Midfield,CM,,Without Club,,,out,summer,Premier League,2014,False,
+Liverpool FC,Aly Cissokho,26.0,France,Left-Back,LB,6000000.0,Valencia,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+Liverpool FC,Oussama Assaidi,26.0,Morocco,Left Winger,LW,5000000.0,Al-Ahli (UAE),United Arab Emirates,6000000.0,out,winter,Premier League,2014,False,
+Liverpool FC,Suso,21.0,Spain,Right Winger,RW,6000000.0,AC Milan,Italy,1300000.0,out,winter,Premier League,2014,False,
+Liverpool FC,Kevin Stewart,21.0,England,Defensive Midfield,DM,50000.0,Cheltenham,England,0.0,out,winter,Premier League,2014,True,free loan
+Liverpool FC,Danny Ward,21.0,Wales,Goalkeeper,GK,250000.0,Morecambe FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Liverpool FC,Kevin Stewart,21.0,England,Defensive Midfield,DM,50000.0,Burton Albion,England,0.0,out,winter,Premier League,2014,True,free loan
+Liverpool FC,Rafa Páez,20.0,Spain,Centre-Back,CB,1000000.0,SD Eibar,Spain,0.0,out,winter,Premier League,2014,True,free loan
+Manchester City,Eliaquim Mangala,23.0,France,Centre-Back,CB,28000000.0,FC Porto,Portugal,45000000.0,in,summer,Premier League,2014,False,
+Manchester City,Fernando Reges,26.0,Brazil,Defensive Midfield,DM,17500000.0,FC Porto,Portugal,15000000.0,in,summer,Premier League,2014,False,
+Manchester City,Willy Caballero,32.0,Argentina,Goalkeeper,GK,5000000.0,Málaga CF,Spain,8000000.0,in,summer,Premier League,2014,False,
+Manchester City,Bruno Zuculini,21.0,Argentina,Defensive Midfield,DM,4000000.0,Racing Club,Argentina,2500000.0,in,summer,Premier League,2014,False,
+Manchester City,Bacary Sagna,31.0,France,Right-Back,RB,12000000.0,Arsenal,England,0.0,in,summer,Premier League,2014,False,
+Manchester City,Frank Lampard,36.0,England,Central Midfield,CM,2000000.0,NYCFC,United States,0.0,in,summer,Premier League,2014,True,free loan
+Manchester City,Javi García,27.0,Spain,Defensive Midfield,DM,12000000.0,Zenit S-Pb,Russia,16800000.0,out,summer,Premier League,2014,False,
+Manchester City,Jack Rodwell,23.0,England,Defensive Midfield,DM,12000000.0,Sunderland,England,12500000.0,out,summer,Premier League,2014,False,
+Manchester City,Micah Richards,26.0,England,Right-Back,RB,9000000.0,Fiorentina,Italy,1000000.0,out,summer,Premier League,2014,True,loan with fee
+Manchester City,Joleon Lescott,31.0,England,Centre-Back,CB,7000000.0,West Brom,England,0.0,out,summer,Premier League,2014,False,
+Manchester City,Costel Pantilimon,27.0,Romania,Goalkeeper,GK,2500000.0,Sunderland,England,0.0,out,summer,Premier League,2014,False,
+Manchester City,Rony Lopes,18.0,Portugal,Right Winger,RW,,LOSC Lille,France,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Gareth Barry,33.0,England,Defensive Midfield,DM,5000000.0,Everton,England,0.0,out,summer,Premier League,2014,False,
+Manchester City,Albert Rusnák,20.0,Slovakia,Attacking Midfield,AM,,SC Cambuur,Netherlands,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,John Guidetti,22.0,Sweden,Centre-Forward,CF,3500000.0,Celtic,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Jason Denayer,19.0,Belgium,Centre-Back,CB,,Celtic,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Adam Drury,20.0,England,Right-Back,RB,,St. Mirren,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Bruno Zuculini,21.0,Argentina,Defensive Midfield,DM,3000000.0,Valencia,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Álvaro Negredo,29.0,Spain,Centre-Forward,CF,24000000.0,Valencia,Spain,0.0,out,summer,Premier League,2014,True,free loan
+Manchester City,Alex Nimely,23.0,England,Centre-Forward,CF,50000.0,Without Club,,,out,summer,Premier League,2014,False,
+Manchester City,Wilfried Bony,26.0,Cote d'Ivoire,Centre-Forward,CF,17000000.0,Swansea,England,32299999.999999996,in,winter,Premier League,2014,False,
+Manchester City,Albert Rusnák,20.0,Slovakia,Attacking Midfield,AM,750000.0,FC Groningen,Netherlands,225000.0,out,winter,Premier League,2014,False,
+Manchester City,Matija Nastasic,21.0,Serbia,Centre-Back,CB,21000000.0,FC Schalke 04,Germany,0.0,out,winter,Premier League,2014,True,free loan
+Manchester City,Scott Sinclair,25.0,England,Left Winger,LW,4000000.0,Aston Villa,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester City,Bruno Zuculini,21.0,Argentina,Defensive Midfield,DM,2000000.0,Córdoba CF,Spain,0.0,out,winter,Premier League,2014,True,free loan
+Manchester City,Eirik Johansen,22.0,Norway,Goalkeeper,GK,300000.0,NYCFC,United States,,out,winter,Premier League,2014,False,
+Manchester United,Ángel Di María,26.0,Argentina,Right Winger,RW,50000000.0,Real Madrid,Spain,75000000.0,in,summer,Premier League,2014,False,
+Manchester United,Luke Shaw,18.0,England,Left-Back,LB,13000000.0,Southampton,England,37500000.0,in,summer,Premier League,2014,False,
+Manchester United,Ander Herrera,24.0,Spain,Central Midfield,CM,20000000.0,Athletic,Spain,36000000.0,in,summer,Premier League,2014,False,
+Manchester United,Marcos Rojo,24.0,Argentina,Centre-Back,CB,12000000.0,Sporting CP,Portugal,20000000.0,in,summer,Premier League,2014,False,
+Manchester United,Daley Blind,24.0,Netherlands,Centre-Back,CB,12000000.0,Ajax,Netherlands,17500000.0,in,summer,Premier League,2014,False,
+Manchester United,Falcao,28.0,Colombia,Centre-Forward,CF,55000000.0,Monaco,France,7600000.0,in,summer,Premier League,2014,True,loan with fee
+Manchester United,Vanja Milinković-Savić,17.0,Serbia,Goalkeeper,GK,,Vojvodina,Serbia,1750000.0,in,summer,Premier League,2014,False,
+Manchester United,Danny Welbeck,23.0,England,Centre-Forward,CF,17000000.0,Arsenal,England,20000000.0,out,summer,Premier League,2014,False,
+Manchester United,Shinji Kagawa,25.0,Japan,Attacking Midfield,AM,15000000.0,Bor. Dortmund,Germany,8000000.0,out,summer,Premier League,2014,False,
+Manchester United,Alexander Büttner,25.0,Netherlands,Left-Back,LB,3500000.0,Dinamo Moscow,Russia,5500000.0,out,summer,Premier League,2014,False,
+Manchester United,Bebé,24.0,Portugal,Left Winger,LW,1000000.0,Benfica,Portugal,3000000.0,out,summer,Premier League,2014,False,
+Manchester United,Chicharito,26.0,Mexico,Centre-Forward,CF,14000000.0,Real Madrid,Spain,3000000.0,out,summer,Premier League,2014,True,loan with fee
+Manchester United,Patrice Evra,33.0,France,Left-Back,LB,7500000.0,Juventus,Italy,1900000.0,out,summer,Premier League,2014,False,
+Manchester United,Ángelo Henríquez,20.0,Chile,Centre-Forward,CF,2800000.0,Dinamo Zagreb,Croatia,1500000.0,out,summer,Premier League,2014,True,loan with fee
+Manchester United,Rio Ferdinand,35.0,England,Centre-Back,CB,1500000.0,QPR,England,0.0,out,summer,Premier League,2014,False,
+Manchester United,Sam Johnstone,21.0,England,Goalkeeper,GK,250000.0,Doncaster,England,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Davide Petrucci,22.0,Italy,Central Midfield,CM,250000.0,CFR Cluj,Romania,0.0,out,summer,Premier League,2014,False,
+Manchester United,Tom Cleverley,25.0,England,Central Midfield,CM,11000000.0,Aston Villa,England,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Federico Macheda,22.0,Italy,Centre-Forward,CF,1500000.0,Cardiff,England,0.0,out,summer,Premier League,2014,False,
+Manchester United,Vanja Milinković-Savić,17.0,Serbia,Goalkeeper,GK,,Vojvodina,Serbia,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Nemanja Vidic‎,32.0,Serbia,Centre-Back,CB,10000000.0,Inter,Italy,0.0,out,summer,Premier League,2014,False,
+Manchester United,Wilfried Zaha,21.0,Cote d'Ivoire,Left Winger,LW,8000000.0,Crystal Palace,England,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Nani,27.0,Portugal,Left Winger,LW,12000000.0,Sporting CP,Portugal,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Nick Powell,20.0,England,Attacking Midfield,AM,4000000.0,Leicester,England,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Michael Keane,21.0,England,Centre-Back,CB,500000.0,Burnley,England,0.0,out,summer,Premier League,2014,True,free loan
+Manchester United,Ryan Giggs,40.0,Wales,Left Midfield,LM,1000000.0,Retired,,,out,summer,Premier League,2014,False,
+Manchester United,Andy Kellett,21.0,England,Left-Back,LB,,Bolton,England,0.0,in,winter,Premier League,2014,True,free loan
+Manchester United,Víctor Valdés,32.0,Spain,Goalkeeper,GK,7500000.0,Without Club,,,in,winter,Premier League,2014,False,
+Manchester United,Wilfried Zaha,22.0,Cote d'Ivoire,Left Winger,LW,8000000.0,Crystal Palace,England,3800000.0,out,winter,Premier League,2014,False,
+Manchester United,Michael Keane,22.0,England,Centre-Back,CB,500000.0,Burnley,England,2560000.0,out,winter,Premier League,2014,False,
+Manchester United,Sam Johnstone,21.0,England,Goalkeeper,GK,250000.0,Preston,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Ben Amos,24.0,England,Goalkeeper,GK,1000000.0,Bolton,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Anderson,26.0,Brazil,Central Midfield,CM,5000000.0,Internacional,Brazil,0.0,out,winter,Premier League,2014,False,
+Manchester United,Darren Fletcher,31.0,Scotland,Central Midfield,CM,3000000.0,West Brom,England,0.0,out,winter,Premier League,2014,False,
+Manchester United,Reece James,21.0,England,Left-Back,LB,,Huddersfield,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Sam Johnstone,21.0,England,Goalkeeper,GK,250000.0,Doncaster,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Reece James,21.0,England,Left-Back,LB,,Rotherham,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Will Keane,22.0,England,Centre-Forward,CF,300000.0,Sheff Wed,England,0.0,out,winter,Premier League,2014,True,free loan
+Manchester United,Marnick Vermijl,23.0,Belgium,Right-Back,RB,650000.0,Sheff Wed,England,,out,winter,Premier League,2014,False,
+Manchester United,Jesse Lingard,22.0,England,Attacking Midfield,AM,1000000.0,Derby,England,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Rémy Cabella,24.0,France,Attacking Midfield,AM,10000000.0,Montpellier,France,10000000.0,in,summer,Premier League,2014,False,
+Newcastle United,Siem de Jong,25.0,Netherlands,Attacking Midfield,AM,10000000.0,Ajax,Netherlands,8700000.0,in,summer,Premier League,2014,False,
+Newcastle United,Emmanuel Rivière,24.0,Martinique,Centre-Forward,CF,5000000.0,Monaco,France,6320000.0,in,summer,Premier League,2014,False,
+Newcastle United,Daryl Janmaat,24.0,Netherlands,Centre-Back,CB,5000000.0,Feyenoord,Netherlands,6000000.0,in,summer,Premier League,2014,False,
+Newcastle United,Karl Darlow,23.0,England,Goalkeeper,GK,1000000.0,Nottm Forest,England,5000000.0,in,summer,Premier League,2014,False,
+Newcastle United,Jamaal Lascelles,20.0,England,Centre-Back,CB,600000.0,Nottm Forest,England,5000000.0,in,summer,Premier League,2014,False,
+Newcastle United,Ayoze Pérez,20.0,Spain,Second Striker,SS,1000000.0,CD Tenerife,Spain,2000000.0,in,summer,Premier League,2014,False,
+Newcastle United,Facundo Ferreyra,23.0,Argentina,Centre-Forward,CF,6000000.0,Shakhtar D.,Ukraine,2000000.0,in,summer,Premier League,2014,True,loan with fee
+Newcastle United,Jack Colback,24.0,England,Defensive Midfield,DM,4500000.0,Sunderland,England,0.0,in,summer,Premier League,2014,False,
+Newcastle United,Mathieu Debuchy,28.0,France,Right-Back,RB,10000000.0,Arsenal,England,15000000.0,out,summer,Premier League,2014,False,
+Newcastle United,Mapou Yanga-Mbiwa,25.0,France,Centre-Back,CB,5000000.0,AS Roma,Italy,1260000.0,out,summer,Premier League,2014,True,loan with fee
+Newcastle United,Sylvain Marveaux,28.0,France,Attacking Midfield,AM,2500000.0,Guingamp,France,160000.0,out,summer,Premier League,2014,True,loan with fee
+Newcastle United,James Tavernier,22.0,England,Right-Back,RB,,Wigan,England,100000.0,out,summer,Premier League,2014,False,
+Newcastle United,Conor Newton,22.0,England,Central Midfield,CM,300000.0,Rotherham,England,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Dan Gosling,24.0,England,Central Midfield,CM,1500000.0,Bournemouth,England,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Michael Richardson,22.0,England,Central Midfield,CM,,Blyth Spartans,England,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Steven Logan,19.0,Scotland,Central Midfield,CM,,Annan Athletic,Scotland,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Romain Amalfitano,24.0,France,Central Midfield,CM,1000000.0,Dijon,France,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Shola Ameobi,32.0,Nigeria,Centre-Forward,CF,1500000.0,Gaziantep BB,Turkey,0.0,out,summer,Premier League,2014,False,
+Newcastle United,Karl Darlow,23.0,England,Goalkeeper,GK,1000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,True,free loan
+Newcastle United,Jamaal Lascelles,20.0,England,Centre-Back,CB,600000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,True,free loan
+Newcastle United,Adam Campbell,19.0,England,Second Striker,SS,250000.0,Fleetwood,England,0.0,out,summer,Premier League,2014,True,free loan
+Newcastle United,Freddie Woodman,17.0,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2014,True,free loan
+Newcastle United,Hatem Ben Arfa,27.0,France,Attacking Midfield,AM,9000000.0,Hull City,England,0.0,out,summer,Premier League,2014,True,free loan
+Newcastle United,Luuk de Jong,23.0,Netherlands,Centre-Forward,CF,7500000.0,Bor. M'gladbach,Germany,0.0,out,summer,Premier League,2014,True,end of loan
+Newcastle United,Mapou Yanga-Mbiwa,25.0,France,Centre-Back,CB,6000000.0,AS Roma,Italy,7350000.0,out,winter,Premier League,2014,False,
+Newcastle United,Adam Campbell,20.0,England,Second Striker,SS,250000.0,Gateshead FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Davide Santon,24.0,Italy,Right-Back,RB,8000000.0,Inter,Italy,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Haris Vuckic,22.0,Slovenia,Centre-Forward,CF,1000000.0,Rangers,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Kevin Mbabu,19.0,Switzerland,Right-Back,RB,,Rangers,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Gaël Bigirimana,21.0,Burundi,Central Midfield,CM,2000000.0,Rangers,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Shane Ferguson,23.0,Northern Ireland,Left Midfield,LM,1000000.0,Rangers,Scotland,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Jak Alnwick,21.0,England,Goalkeeper,GK,250000.0,Bradford,England,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Adam Campbell,19.0,England,Second Striker,SS,250000.0,Hartlepool Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Newcastle United,Hatem Ben Arfa,27.0,France,Attacking Midfield,AM,9000000.0,Without Club,,,out,winter,Premier League,2014,False,
+Queens Park Rangers,Steven Caulker,22.0,England,Centre-Back,CB,7500000.0,Cardiff,England,10750000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Leroy Fer,24.0,Netherlands,Defensive Midfield,DM,8500000.0,Norwich,England,10000000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Jordon Mutch,22.0,England,Central Midfield,CM,3000000.0,Cardiff,England,7570000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Sandro,25.0,Brazil,Defensive Midfield,DM,11000000.0,Spurs,England,7500000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Alex McCarthy,24.0,England,Goalkeeper,GK,2000000.0,Reading,England,3800000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Eduardo Vargas,24.0,Chile,Second Striker,SS,6000000.0,SSC Napoli,Italy,1400000.0,in,summer,Premier League,2014,True,loan with fee
+Queens Park Rangers,Jack Robinson,20.0,England,Left-Back,LB,800000.0,Liverpool,England,1250000.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Mauricio Isla,26.0,Chile,Right-Back,RB,9000000.0,Juventus,Italy,1200000.0,in,summer,Premier League,2014,True,loan with fee
+Queens Park Rangers,Rio Ferdinand,35.0,England,Centre-Back,CB,1500000.0,Man Utd,England,0.0,in,summer,Premier League,2014,False,
+Queens Park Rangers,Niko Kranjcar,30.0,Croatia,Attacking Midfield,AM,3000000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Loïc Rémy,27.0,France,Centre-Forward,CF,12000000.0,Chelsea,England,13200000.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Esteban Granero,27.0,Spain,Central Midfield,CM,5000000.0,Real Sociedad,Spain,4000000.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Danny Simpson,27.0,England,Right-Back,RB,2500000.0,Leicester,England,2500000.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Michael Petrasso,19.0,Canada,Right Midfield,RM,,Leyton Orient,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Joe Lumley,19.0,England,Goalkeeper,GK,,Accrington,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Júlio César,34.0,Brazil,Goalkeeper,GK,1500000.0,Benfica,Portugal,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Gary O'Neil,31.0,England,Central Midfield,CM,2000000.0,Norwich,England,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Stéphane Mbia,28.0,Cameroon,Defensive Midfield,DM,9000000.0,Sevilla FC,Spain,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Mo Shariff,21.0,England,Centre-Forward,CF,,Bradford,England,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Michael Harriman,21.0,Ireland,Right-Back,RB,100000.0,Luton,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Michael Petrasso,19.0,Canada,Right Midfield,RM,,Notts County,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Aaron Hughes,34.0,Northern Ireland,Centre-Back,CB,700000.0,Brighton,England,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Michael Doughty,21.0,Wales,Central Midfield,CM,50000.0,Gillingham FC,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Frankie Sutherland,20.0,Ireland,Central Midfield,CM,,AFC Wimbledon,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Tom Hitchcock,21.0,England,Centre-Forward,CF,,MK Dons,England,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Yossi Benayoun,34.0,Israel,Right Winger,RW,1000000.0,Maccabi Haifa,Israel,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Sam Magri,20.0,Malta,Right-Back,RB,50000.0,Crystal Palace,England,0.0,out,summer,Premier League,2014,False,
+Queens Park Rangers,Aaron Lennox,21.0,Australia,Goalkeeper,GK,,Concord Rangers,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Jack Robinson,20.0,England,Left-Back,LB,800000.0,Huddersfield,England,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Samba Diakité,25.0,Mali,Defensive Midfield,DM,2500000.0,Ittihad,Saudi Arabia,0.0,out,summer,Premier League,2014,True,free loan
+Queens Park Rangers,Jermaine Jenas,31.0,England,Central Midfield,CM,1700000.0,Without Club,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Ángelo Balanta,24.0,Colombia,Attacking Midfield,AM,,Without Club,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Andy Johnson,33.0,England,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Hogan Ephraim,26.0,England,Left Midfield,LM,500000.0,Without Club,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Luke Young,34.0,England,Right-Back,RB,500000.0,Retired,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Ji-sung Park,33.0,"Korea, South",Attacking Midfield,AM,2000000.0,Retired,,,out,summer,Premier League,2014,False,
+Queens Park Rangers,Niko Kranjcar,29.0,Croatia,Attacking Midfield,AM,3000000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Premier League,2014,True,end of loan
+Queens Park Rangers,Ravel Morrison,21.0,Jamaica,Attacking Midfield,AM,4000000.0,West Ham,England,0.0,out,summer,Premier League,2014,True,end of loan
+Queens Park Rangers,Dellatorre,22.0,Brazil,Centre-Forward,CF,1500000.0,Atlético-PR,Brazil,0.0,out,summer,Premier League,2014,True,end of loan
+Queens Park Rangers,Ryan Manning,18.0,Ireland,Left-Back,LB,,Galway United,Ireland,68000.0,in,winter,Premier League,2014,False,
+Queens Park Rangers,Mauro Zárate,27.0,Argentina,Second Striker,SS,4000000.0,West Ham,England,0.0,in,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Jake Mulraney,18.0,Ireland,Left Midfield,LM,,Without Club,,,in,winter,Premier League,2014,False,
+Queens Park Rangers,Jordon Mutch,23.0,England,Central Midfield,CM,6000000.0,Crystal Palace,England,6340000.0,out,winter,Premier League,2014,False,
+Queens Park Rangers,Bruno Andrade,21.0,Portugal,Left Winger,LW,,Stevenage,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Cole Kpekawa,18.0,England,Centre-Back,CB,,Portsmouth,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Michael Harriman,21.0,Ireland,Right-Back,RB,100000.0,Luton,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Michael Petrasso,19.0,Canada,Right Midfield,RM,,Notts County,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Michael Doughty,21.0,Wales,Central Midfield,CM,50000.0,Gillingham FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Frankie Sutherland,20.0,Ireland,Central Midfield,CM,,AFC Wimbledon,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Joe Lumley,19.0,England,Goalkeeper,GK,250000.0,Morecambe FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Max Ehmer,22.0,Germany,Centre-Back,CB,100000.0,Gillingham FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Cole Kpekawa,18.0,England,Centre-Back,CB,,Colchester Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Queens Park Rangers,Aaron Lennox,21.0,Australia,Goalkeeper,GK,,Concord Rangers,England,0.0,out,winter,Premier League,2014,True,free loan
+Southampton FC,Sadio Mané,22.0,Senegal,Left Winger,LW,7500000.0,RB Salzburg,Austria,23000000.0,in,summer,Premier League,2014,False,
+Southampton FC,Shane Long,27.0,Ireland,Centre-Forward,CF,6000000.0,Hull City,England,14900000.0,in,summer,Premier League,2014,False,
+Southampton FC,Dusan Tadic,25.0,Serbia,Left Winger,LW,10000000.0,Twente FC,Netherlands,14000000.0,in,summer,Premier League,2014,False,
+Southampton FC,Fraser Forster,26.0,England,Goalkeeper,GK,4500000.0,Celtic,Scotland,12500000.0,in,summer,Premier League,2014,False,
+Southampton FC,Graziano Pellè,28.0,Italy,Centre-Forward,CF,6500000.0,Feyenoord,Netherlands,11000000.0,in,summer,Premier League,2014,False,
+Southampton FC,Florin Gardos,25.0,Romania,Centre-Back,CB,6000000.0,Steaua Bukarest,Romania,6800000.0,in,summer,Premier League,2014,False,
+Southampton FC,Ryan Bertrand,24.0,England,Left-Back,LB,6000000.0,Chelsea,England,0.0,in,summer,Premier League,2014,True,free loan
+Southampton FC,Saphir Taider,22.0,Algeria,Central Midfield,CM,8000000.0,Inter,Italy,0.0,in,summer,Premier League,2014,True,free loan
+Southampton FC,Toby Alderweireld,25.0,Belgium,Centre-Back,CB,10000000.0,Atlético Madrid,Spain,0.0,in,summer,Premier League,2014,True,free loan
+Southampton FC,Luke Shaw,18.0,England,Left-Back,LB,13000000.0,Man Utd,England,37500000.0,out,summer,Premier League,2014,False,
+Southampton FC,Adam Lallana,26.0,England,Attacking Midfield,AM,7500000.0,Liverpool,England,31000000.0,out,summer,Premier League,2014,False,
+Southampton FC,Dejan Lovren,25.0,Croatia,Centre-Back,CB,12000000.0,Liverpool,England,25300000.0,out,summer,Premier League,2014,False,
+Southampton FC,Calum Chambers,19.0,England,Centre-Back,CB,2000000.0,Arsenal,England,20230000.0,out,summer,Premier League,2014,False,
+Southampton FC,Rickie Lambert,32.0,England,Centre-Forward,CF,5000000.0,Liverpool,England,5500000.0,out,summer,Premier League,2014,False,
+Southampton FC,Billy Sharp,28.0,England,Centre-Forward,CF,2000000.0,Leeds,England,300000.0,out,summer,Premier League,2014,False,
+Southampton FC,Artur Boruc,34.0,Poland,Goalkeeper,GK,1000000.0,Bournemouth,England,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Danny Fox,28.0,Scotland,Left-Back,LB,2000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,False,
+Southampton FC,Jack Stephens,20.0,England,Centre-Back,CB,150000.0,Swindon Town,England,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Daniel Osvaldo,28.0,Italy,Centre-Forward,CF,11000000.0,Inter,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Jonathan Forte,28.0,Barbados,Centre-Forward,CF,,Oldham Athletic,England,0.0,out,summer,Premier League,2014,False,
+Southampton FC,Joe Curtis,20.0,England,Central Midfield,CM,,Brackley,England,0.0,out,summer,Premier League,2014,False,
+Southampton FC,Jamal Branker,19.0,England,Right Winger,RW,,Slough Town,England,0.0,out,summer,Premier League,2014,False,
+Southampton FC,Lee Barnard,29.0,England,Centre-Forward,CF,250000.0,Southend United,England,0.0,out,summer,Premier League,2014,False,
+Southampton FC,Jake Sinclair,19.0,England,Second Striker,SS,,Hibernian FC,Scotland,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Gastón Ramírez,23.0,Uruguay,Attacking Midfield,AM,7500000.0,Hull City,England,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Jos Hooiveld,31.0,Netherlands,Centre-Back,CB,2000000.0,Norwich,England,0.0,out,summer,Premier League,2014,True,free loan
+Southampton FC,Guly,32.0,Brazil,Attacking Midfield,AM,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+Southampton FC,Ryan Bertrand,25.0,England,Left-Back,LB,6000000.0,Chelsea,England,13300000.0,in,winter,Premier League,2014,False,
+Southampton FC,Eljero Elia,27.0,Netherlands,Left Winger,LW,3500000.0,Werder Bremen,Germany,500000.0,in,winter,Premier League,2014,True,loan with fee
+Southampton FC,Filip Djuricic,23.0,Serbia,Attacking Midfield,AM,5000000.0,Benfica,Portugal,0.0,in,winter,Premier League,2014,True,free loan
+Southampton FC,Jack Cork,25.0,England,Defensive Midfield,DM,3500000.0,Swansea,England,4000000.0,out,winter,Premier League,2014,False,
+Southampton FC,Lloyd Isgrove,22.0,Wales,Left Winger,LW,250000.0,Sheff Wed,England,0.0,out,winter,Premier League,2014,True,free loan
+Southampton FC,Jos Hooiveld,31.0,Netherlands,Centre-Back,CB,2000000.0,Millwall,England,0.0,out,winter,Premier League,2014,True,free loan
+Southampton FC,Daniel Osvaldo,29.0,Italy,Centre-Forward,CF,11000000.0,Boca Juniors,Argentina,0.0,out,winter,Premier League,2014,True,free loan
+Stoke City,Bojan Krkic,23.0,Spain,Second Striker,SS,5000000.0,FC Barcelona,Spain,1800000.0,in,summer,Premier League,2014,False,
+Stoke City,Phil Bardsley,29.0,Scotland,Right-Back,RB,3000000.0,Sunderland,England,0.0,in,summer,Premier League,2014,False,
+Stoke City,Steve Sidwell,31.0,England,Central Midfield,CM,2500000.0,Fulham,England,0.0,in,summer,Premier League,2014,False,
+Stoke City,Mame Diouf,26.0,Senegal,Centre-Forward,CF,11000000.0,Hannover 96,Germany,0.0,in,summer,Premier League,2014,False,
+Stoke City,Dionatan Teixeira,21.0,Slovakia,Centre-Back,CB,350000.0,Banska Bystrica,Slovakia,0.0,in,summer,Premier League,2014,False,
+Stoke City,Victor Moses,23.0,Nigeria,Right Midfield,RM,8000000.0,Chelsea,England,0.0,in,summer,Premier League,2014,True,free loan
+Stoke City,Michael Kightly,28.0,England,Left Midfield,LM,2700000.0,Burnley,England,1900000.0,out,summer,Premier League,2014,False,
+Stoke City,Cameron Jerome,28.0,England,Centre-Forward,CF,1500000.0,Norwich,England,1900000.0,out,summer,Premier League,2014,False,
+Stoke City,Matthew Etherington,32.0,England,Left Midfield,LM,1500000.0,Without Club,,0.0,out,summer,Premier League,2014,False,
+Stoke City,Ben Glasgow,20.0,Ireland,Right-Back,RB,,Harlow,England,0.0,out,summer,Premier League,2014,False,
+Stoke City,Daniel Bachmann,20.0,Austria,Goalkeeper,GK,,Wrexham,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Jamie Ness,23.0,Scotland,Central Midfield,CM,500000.0,Crewe Alexandra,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Alex Grant,20.0,Australia,Centre-Back,CB,,Macclesfield,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Brek Shea,24.0,United States,Left Midfield,LM,1000000.0,Birmingham,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Jack Butland,21.0,England,Goalkeeper,GK,5000000.0,Derby,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Andy Wilkinson,30.0,England,Right-Back,RB,1000000.0,Millwall,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Tom King,19.0,Australia,Centre-Back,CB,,Bristol City,England,,out,summer,Premier League,2014,False,
+Stoke City,Ryan Shotton,25.0,England,Centre-Back,CB,1000000.0,Derby,England,0.0,out,summer,Premier League,2014,True,free loan
+Stoke City,Juan Agudelo,21.0,United States,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+Stoke City,Philipp Wollscheid,25.0,Germany,Centre-Back,CB,5000000.0,Bay. Leverkusen,Germany,0.0,in,winter,Premier League,2014,True,free loan
+Stoke City,George Waring,20.0,England,Centre-Forward,CF,,Barnsley FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Stoke City,Jack Butland,21.0,England,Goalkeeper,GK,5000000.0,Derby,England,0.0,out,winter,Premier League,2014,True,free loan
+Stoke City,Andy Wilkinson,30.0,England,Right-Back,RB,1000000.0,Millwall,England,0.0,out,winter,Premier League,2014,True,free loan
+Stoke City,Brek Shea,24.0,United States,Left Midfield,LM,1000000.0,Orlando City SC,United States,,out,winter,Premier League,2014,False,
+Stoke City,Ryan Shotton,26.0,England,Centre-Back,CB,1000000.0,Derby,England,,out,winter,Premier League,2014,False,
+Stoke City,Maurice Edu,28.0,United States,Defensive Midfield,DM,1500000.0,Philadelphia,United States,,out,winter,Premier League,2014,False,
+Stoke City,Robert Huth,30.0,Germany,Centre-Back,CB,7000000.0,Leicester,England,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Jack Rodwell,23.0,England,Defensive Midfield,DM,12000000.0,Man City,England,12500000.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Will Buckley,24.0,England,Right Winger,RW,1500000.0,Brighton,England,3120000.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Patrick van Aanholt,23.0,Netherlands,Left-Back,LB,3500000.0,Chelsea,England,1900000.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Ricardo Álvarez,26.0,Argentina,Central Midfield,CM,14500000.0,Inter,Italy,1500000.0,in,summer,Premier League,2014,True,loan with fee
+Sunderland AFC,Billy Jones,27.0,England,Right-Back,RB,2500000.0,West Brom,England,0.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Jordi Gómez,29.0,Spain,Central Midfield,CM,2500000.0,Wigan,England,0.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Costel Pantilimon,27.0,Romania,Goalkeeper,GK,2500000.0,Man City,England,0.0,in,summer,Premier League,2014,False,
+Sunderland AFC,Sebastián Coates,23.0,Uruguay,Centre-Back,CB,2500000.0,Liverpool,England,0.0,in,summer,Premier League,2014,True,free loan
+Sunderland AFC,Anthony Réveillère,34.0,France,Right-Back,RB,300000.0,Without Club,,,in,summer,Premier League,2014,False,
+Sunderland AFC,Alfred N'Diaye,24.0,Senegal,Defensive Midfield,DM,4000000.0,Real Betis,Spain,3500000.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Ignacio Scocco,29.0,Argentina,Centre-Forward,CF,4500000.0,Newell's,Argentina,3250000.0,out,summer,Premier League,2014,False,
+Sunderland AFC,David Moberg Karlsson,20.0,Sweden,Right Winger,RW,1000000.0,Nordsjaelland,Denmark,500000.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Jordan Pickford,20.0,England,Goalkeeper,GK,250000.0,Bradford,England,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,Joel Dixon,20.0,England,Goalkeeper,GK,,Boston United,England,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,Modibo Diakité,27.0,France,Centre-Back,CB,2000000.0,Dep. La Coruña,Spain,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Scott Harrison,20.0,England,Centre-Back,CB,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,Joel Dixon,20.0,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,El-Hadji Ba,21.0,France,Defensive Midfield,DM,,SC Bastia,France,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,Carlos Cuéllar,32.0,Spain,Centre-Back,CB,1500000.0,Norwich,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,David Vaughan,31.0,Wales,Defensive Midfield,DM,1700000.0,Nottm Forest,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Óscar Ustari,28.0,Argentina,Goalkeeper,GK,750000.0,Newell's,Argentina,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Keiren Westwood,29.0,Ireland,Goalkeeper,GK,1500000.0,Sheff Wed,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,John Egan,21.0,Ireland,Centre-Back,CB,,Gillingham FC,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Louis Laing,21.0,England,Centre-Back,CB,,Nottm Forest,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Jack Colback,24.0,England,Defensive Midfield,DM,4500000.0,Newcastle,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Billy Knott,21.0,England,Central Midfield,CM,,Bradford,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Craig Gardner,27.0,England,Central Midfield,CM,4500000.0,West Brom,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Phil Bardsley,29.0,Scotland,Right-Back,RB,3000000.0,Stoke City,England,0.0,out,summer,Premier League,2014,False,
+Sunderland AFC,Valentin Roberge,27.0,France,Centre-Back,CB,1500000.0,Stade Reims,France,0.0,out,summer,Premier League,2014,True,free loan
+Sunderland AFC,Andrea Dossena,32.0,Italy,Left Midfield,LM,1500000.0,Without Club,,,out,summer,Premier League,2014,False,
+Sunderland AFC,Ondrej Celustka,25.0,Czech Republic,Centre-Back,CB,2500000.0,Trabzonspor,Turkey,0.0,out,summer,Premier League,2014,True,end of loan
+Sunderland AFC,Marcos Alonso,23.0,Spain,Left-Back,LB,2000000.0,Fiorentina,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+Sunderland AFC,Jermain Defoe,32.0,England,Centre-Forward,CF,6000000.0,Toronto FC,United States,3500000.0,in,winter,Premier League,2014,False,
+Sunderland AFC,Anthony Réveillère,34.0,France,Right-Back,RB,300000.0,Without Club,,,in,winter,Premier League,2014,False,
+Sunderland AFC,Scott Harrison,21.0,England,Centre-Back,CB,250000.0,Hartlepool Utd.,England,0.0,out,winter,Premier League,2014,False,
+Sunderland AFC,Mikael Mandron,20.0,France,Centre-Forward,CF,,Shrewsbury,England,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Joel Dixon,21.0,England,Goalkeeper,GK,,Gateshead FC,England,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Joel Dixon,20.0,England,Goalkeeper,GK,,Boston United,England,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Danny Graham,29.0,England,Centre-Forward,CF,2000000.0,Wolves,England,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Jozy Altidore,25.0,United States,Centre-Forward,CF,3500000.0,Toronto FC,United States,,out,winter,Premier League,2014,False,
+Sunderland AFC,Charalampos Mavrias,20.0,Greece,Right-Back,RB,1500000.0,Panathinaikos,Greece,0.0,out,winter,Premier League,2014,True,free loan
+Sunderland AFC,Cabral,26.0,Switzerland,Defensive Midfield,DM,1000000.0,Without Club,,,out,winter,Premier League,2014,False,
+Swansea City,Gylfi Sigurdsson,24.0,Iceland,Attacking Midfield,AM,8000000.0,Spurs,England,10100000.0,in,summer,Premier League,2014,False,
+Swansea City,Federico Fernández,25.0,Argentina,Centre-Back,CB,5000000.0,SSC Napoli,Italy,10000000.0,in,summer,Premier League,2014,False,
+Swansea City,Jefferson Montero,24.0,Ecuador,Left Winger,LW,3300000.0,Monarcas Morelia,Mexico,5000000.0,in,summer,Premier League,2014,False,
+Swansea City,Modou Barrow,21.0,The Gambia,Left Winger,LW,250000.0,Östersund,Sweden,1890000.0,in,summer,Premier League,2014,False,
+Swansea City,Marvin Emnes,26.0,Netherlands,Centre-Forward,CF,1500000.0,Middlesbrough,England,1700000.0,in,summer,Premier League,2014,False,
+Swansea City,Lukasz Fabianski,29.0,Poland,Goalkeeper,GK,2000000.0,Arsenal,England,0.0,in,summer,Premier League,2014,False,
+Swansea City,Bafétimbi Gomis,28.0,France,Centre-Forward,CF,10000000.0,Olympique Lyon,France,0.0,in,summer,Premier League,2014,False,
+Swansea City,Stephen Kingsley,19.0,Scotland,Left-Back,LB,200000.0,Falkirk,Scotland,,in,summer,Premier League,2014,False,
+Swansea City,Tom Carroll,22.0,England,Central Midfield,CM,2000000.0,Spurs,England,0.0,in,summer,Premier League,2014,True,free loan
+Swansea City,Ben Davies,21.0,Wales,Left-Back,LB,5500000.0,Spurs,England,12650000.0,out,summer,Premier League,2014,False,
+Swansea City,Michel Vorm,30.0,Netherlands,Goalkeeper,GK,7000000.0,Spurs,England,5700000.0,out,summer,Premier League,2014,False,
+Swansea City,Pablo Hernández,29.0,Spain,Attacking Midfield,AM,8000000.0,Al-Arabi SC,Qatar,5000000.0,out,summer,Premier League,2014,False,
+Swansea City,Chico,27.0,Spain,Centre-Back,CB,6500000.0,Lekhwiya,Qatar,5000000.0,out,summer,Premier League,2014,False,
+Swansea City,Michu,28.0,Spain,Second Striker,SS,12000000.0,SSC Napoli,Italy,1250000.0,out,summer,Premier League,2014,True,loan with fee
+Swansea City,Jernade Meade,21.0,Montserrat,Left-Back,LB,,Hadley FC,England,0.0,out,summer,Premier League,2014,False,
+Swansea City,Daniel Alfei,22.0,Wales,Right-Back,RB,,Northampton,England,0.0,out,summer,Premier League,2014,True,free loan
+Swansea City,Alejandro Pozuelo,22.0,Spain,Attacking Midfield,AM,2000000.0,Rayo Vallecano,Spain,0.0,out,summer,Premier League,2014,False,
+Swansea City,Darnel Situ,22.0,France,Centre-Back,CB,250000.0,Aarhus GF,Denmark,0.0,out,summer,Premier League,2014,False,
+Swansea City,Leroy Lita,29.0,England,Centre-Forward,CF,750000.0,Barnsley FC,England,0.0,out,summer,Premier League,2014,False,
+Swansea City,David N'Gog,25.0,France,Centre-Forward,CF,1500000.0,Stade Reims,France,0.0,out,summer,Premier League,2014,False,
+Swansea City,José Alberto Cañas,27.0,Spain,Central Midfield,CM,4500000.0,Espanyol,Spain,0.0,out,summer,Premier League,2014,False,
+Swansea City,Alan Tate,32.0,England,Centre-Back,CB,500000.0,Crewe Alexandra,England,0.0,out,summer,Premier League,2014,True,free loan
+Swansea City,Scott Tancock,20.0,Wales,Centre-Back,CB,,Newport County,England,0.0,out,summer,Premier League,2014,True,free loan
+Swansea City,Curtis Obeng,25.0,England,Right-Back,RB,250000.0,Newport County,England,0.0,out,summer,Premier League,2014,True,free loan
+Swansea City,Jonathan de Guzmán,26.0,Netherlands,Central Midfield,CM,9000000.0,Villarreal,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+Swansea City,Roland Lamah,26.0,Belgium,Left Winger,LW,2500000.0,CA Osasuna,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+Swansea City,Álvaro Vázquez,23.0,Spain,Centre-Forward,CF,3000000.0,Getafe,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+Swansea City,Marvin Emnes,26.0,Netherlands,Centre-Forward,CF,1500000.0,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,end of loan
+Swansea City,Kyle Naughton,26.0,England,Right-Back,RB,5000000.0,Spurs,England,6600000.0,in,winter,Premier League,2014,False,
+Swansea City,Jack Cork,25.0,England,Defensive Midfield,DM,3500000.0,Southampton,England,4000000.0,in,winter,Premier League,2014,False,
+Swansea City,Matt Grimes,19.0,England,Central Midfield,CM,250000.0,Exeter City,England,2240000.0,in,winter,Premier League,2014,False,
+Swansea City,Nélson Oliveira,23.0,Portugal,Centre-Forward,CF,4500000.0,Benfica,Portugal,0.0,in,winter,Premier League,2014,True,free loan
+Swansea City,Wilfried Bony,26.0,Cote d'Ivoire,Centre-Forward,CF,17000000.0,Man City,England,32299999.999999996,out,winter,Premier League,2014,False,
+Swansea City,Rory Donnelly,22.0,Northern Ireland,Centre-Forward,CF,,Tranmere Rovers,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Jazz Richards,23.0,Wales,Right-Back,RB,500000.0,Fulham,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Liam Shephard,20.0,Wales,Right-Back,RB,,Yeovil Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Stephen Kingsley,20.0,Scotland,Left-Back,LB,500000.0,Yeovil Town,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Modou Barrow,22.0,The Gambia,Left Winger,LW,1000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,David Cornell,23.0,Wales,Goalkeeper,GK,500000.0,Portsmouth,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Dwight Tiendalli,29.0,Netherlands,Right-Back,RB,1000000.0,Middlesbrough,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Curtis Obeng,25.0,England,Right-Back,RB,250000.0,Newport County,England,0.0,out,winter,Premier League,2014,True,free loan
+Swansea City,Scott Tancock,20.0,Wales,Centre-Back,CB,,Wrexham,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Ben Davies,21.0,Wales,Left-Back,LB,5500000.0,Swansea,England,12650000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,Federico Fazio,27.0,Argentina,Centre-Back,CB,8000000.0,Sevilla FC,Spain,10000000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,Benjamin Stambouli,24.0,France,Defensive Midfield,DM,5000000.0,Montpellier,France,5900000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,Michel Vorm,30.0,Netherlands,Goalkeeper,GK,7000000.0,Swansea,England,5700000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,Eric Dier,20.0,England,Centre-Back,CB,3500000.0,Sporting CP,Portugal,5000000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,DeAndre Yedlin,21.0,United States,Right-Back,RB,250000.0,Sounders FC,United States,2600000.0,in,summer,Premier League,2014,False,
+Tottenham Hotspur,Gylfi Sigurdsson,24.0,Iceland,Attacking Midfield,AM,8000000.0,Swansea,England,10100000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Sandro,25.0,Brazil,Defensive Midfield,DM,11000000.0,QPR,England,7500000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Jake Livermore,24.0,England,Defensive Midfield,DM,2500000.0,Hull City,England,7000000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Michael Dawson,30.0,England,Centre-Back,CB,6500000.0,Hull City,England,4400000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Zeki Fryers,21.0,England,Left-Back,LB,2500000.0,Crystal Palace,England,3800000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Lewis Holtby,23.0,Germany,Central Midfield,CM,7500000.0,Hamburger SV,Germany,2500000.0,out,summer,Premier League,2014,True,loan with fee
+Tottenham Hotspur,Iago Falque,24.0,Spain,Right Winger,RW,1800000.0,Genoa,Italy,2000000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Jonathan Obika,23.0,England,Centre-Forward,CF,,Swindon Town,England,250000.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Ryan Fredericks,21.0,England,Right-Back,RB,,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Heurelho Gomes,33.0,Brazil,Goalkeeper,GK,1000000.0,Watford,England,0.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Milos Veljkovic,19.0,Serbia,Centre-Back,CB,,Middlesbrough,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Jordan Archer,21.0,Scotland,Goalkeeper,GK,,Northampton,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Cameron Lancaster,21.0,England,Centre-Forward,CF,,Stevenage,England,0.0,out,summer,Premier League,2014,False,
+Tottenham Hotspur,Alex Pritchard,21.0,England,Attacking Midfield,AM,150000.0,Brentford,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Grant Hall,22.0,England,Centre-Back,CB,,Birmingham,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,DeAndre Yedlin,21.0,United States,Right-Back,RB,250000.0,Sounders FC,United States,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Tomislav Gomelt,19.0,Croatia,Central Midfield,CM,,Bari,Italy,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Tom Carroll,22.0,England,Central Midfield,CM,2000000.0,Swansea,England,0.0,out,summer,Premier League,2014,True,free loan
+Tottenham Hotspur,Dele Alli,18.0,England,Attacking Midfield,AM,2000000.0,MK Dons,England,6630000.0,in,winter,Premier League,2014,False,
+Tottenham Hotspur,Kyle Naughton,26.0,England,Right-Back,RB,5000000.0,Swansea,England,6600000.0,out,winter,Premier League,2014,False,
+Tottenham Hotspur,Grant Hall,23.0,England,Centre-Back,CB,,Blackpool,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Milos Veljkovic,19.0,Serbia,Centre-Back,CB,,Charlton,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Jordan Archer,21.0,Scotland,Goalkeeper,GK,,Millwall,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Dele Alli,18.0,England,Attacking Midfield,AM,2000000.0,MK Dons,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Bongani Khumalo,28.0,South Africa,Centre-Back,CB,800000.0,Colchester Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Milos Veljkovic,19.0,Serbia,Centre-Back,CB,,Middlesbrough,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Aaron Lennon,27.0,England,Right Winger,RW,12000000.0,Everton,England,0.0,out,winter,Premier League,2014,True,free loan
+Tottenham Hotspur,Benoît Assou-Ekotto,30.0,Cameroon,Left-Back,LB,3000000.0,Without Club,,,out,winter,Premier League,2014,False,
+West Bromwich Albion,Brown Ideye,25.0,Nigeria,Centre-Forward,CF,7000000.0,Dynamo Kyiv,Ukraine,12630000.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Cristian Gamboa,24.0,Costa Rica,Right-Back,RB,1000000.0,Rosenborg,Norway,2400000.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Sebastián Blanco,26.0,Argentina,Left Winger,LW,6000000.0,Metalist,Ukraine,2000000.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Sébastien Pocognoli,26.0,Belgium,Left-Back,LB,2500000.0,Hannover 96,Germany,1500000.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Georgios Samaras,29.0,Greece,Left Winger,LW,3000000.0,Celtic,Scotland,0.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Andre Wisdom,21.0,England,Right-Back,RB,2500000.0,Liverpool,England,0.0,in,summer,Premier League,2014,True,free loan
+West Bromwich Albion,Chris Baird,32.0,Northern Ireland,Defensive Midfield,DM,700000.0,Burnley,England,0.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Craig Gardner,27.0,England,Central Midfield,CM,4500000.0,Sunderland,England,0.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Joleon Lescott,31.0,England,Centre-Back,CB,7000000.0,Man City,England,0.0,in,summer,Premier League,2014,False,
+West Bromwich Albion,Jason Davidson,23.0,Australia,Left-Back,LB,400000.0,Heracles Almelo,Netherlands,,in,summer,Premier League,2014,False,
+West Bromwich Albion,Silvestre Varela,29.0,Portugal,Left Winger,LW,7500000.0,FC Porto,Portugal,0.0,in,summer,Premier League,2014,True,free loan
+West Bromwich Albion,George Thorne,21.0,England,Defensive Midfield,DM,1000000.0,Derby,England,2300000.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Steven Reid,33.0,Ireland,Right-Back,RB,1000000.0,Burnley,England,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Zoltán Gera,35.0,Hungary,Central Midfield,CM,1000000.0,Ferencváros,Hungary,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Liam Ridgewell,29.0,England,Centre-Back,CB,3000000.0,Timbers,United States,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Scott Allan,22.0,Scotland,Attacking Midfield,AM,500000.0,Hibernian FC,Scotland,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Billy Jones,27.0,England,Right-Back,RB,2500000.0,Sunderland,England,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Cameron Gayle,21.0,England,Right-Back,RB,,Shrewsbury,England,0.0,out,summer,Premier League,2014,False,
+West Bromwich Albion,Diego Lugano,33.0,Uruguay,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+West Bromwich Albion,Reece Hayes,,England,Attacking Midfield,AM,,Without Club,,,out,summer,Premier League,2014,False,
+West Bromwich Albion,Goran Popov,29.0,North Macedonia,Left-Back,LB,1500000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Premier League,2014,True,end of loan
+West Bromwich Albion,Matej Vydra,22.0,Czech Republic,Centre-Forward,CF,5000000.0,Udinese Calcio,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+West Bromwich Albion,Morgan Amalfitano,29.0,France,Right Winger,RW,5000000.0,Marseille,France,0.0,out,summer,Premier League,2014,True,end of loan
+West Bromwich Albion,Thievy Bifouma,22.0,Congo,Right Winger,RW,3000000.0,Espanyol,Spain,0.0,out,summer,Premier League,2014,True,end of loan
+West Bromwich Albion,Callum McManaman,23.0,England,Right Winger,RW,3000000.0,Wigan,England,6350000.0,in,winter,Premier League,2014,False,
+West Bromwich Albion,Darren Fletcher,31.0,Scotland,Central Midfield,CM,3000000.0,Man Utd,England,0.0,in,winter,Premier League,2014,False,
+West Bromwich Albion,Graham Dorrans,27.0,Scotland,Central Midfield,CM,2000000.0,Norwich,England,0.0,out,winter,Premier League,2014,True,free loan
+West Bromwich Albion,Liam O'Neil,21.0,England,Defensive Midfield,DM,,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2014,True,free loan
+West Bromwich Albion,Luke Daniels,27.0,England,Goalkeeper,GK,250000.0,Scunthorpe Utd.,England,,out,winter,Premier League,2014,False,
+West Bromwich Albion,Sebastián Blanco,26.0,Argentina,Left Winger,LW,6000000.0,San Lorenzo,Argentina,0.0,out,winter,Premier League,2014,True,free loan
+West Bromwich Albion,Georgios Samaras,29.0,Greece,Left Winger,LW,3000000.0,Hilal,Saudi Arabia,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Enner Valencia,24.0,Ecuador,Right Winger,RW,1600000.0,CF Pachuca,Mexico,15000000.0,in,summer,Premier League,2014,False,
+West Ham United,Cheikhou Kouyaté,24.0,Senegal,Centre-Back,CB,7000000.0,RSC Anderlecht,Belgium,7500000.0,in,summer,Premier League,2014,False,
+West Ham United,Diafra Sakho,24.0,Senegal,Centre-Forward,CF,3000000.0,FC Metz,France,5000000.0,in,summer,Premier League,2014,False,
+West Ham United,Aaron Cresswell,24.0,England,Left-Back,LB,1500000.0,Ipswich,England,4750000.0,in,summer,Premier League,2014,False,
+West Ham United,Morgan Amalfitano,29.0,France,Right Winger,RW,4750000.0,Marseille,France,1000000.0,in,summer,Premier League,2014,False,
+West Ham United,Alex Song,26.0,Cameroon,Defensive Midfield,DM,14000000.0,FC Barcelona,Spain,0.0,in,summer,Premier League,2014,True,free loan
+West Ham United,Mauro Zárate,27.0,Argentina,Second Striker,SS,4000000.0,Vélez Sarsfield,Argentina,,in,summer,Premier League,2014,False,
+West Ham United,Diego Poyet,19.0,Uruguay,Central Midfield,CM,500000.0,Charlton,England,,in,summer,Premier League,2014,False,
+West Ham United,Carl Jenkinson,22.0,England,Right-Back,RB,6000000.0,Arsenal,England,0.0,in,summer,Premier League,2014,True,free loan
+West Ham United,Mohamed Diamé,27.0,Senegal,Central Midfield,CM,7000000.0,Hull City,England,4400000.0,out,summer,Premier League,2014,False,
+West Ham United,Joe Cole,32.0,England,Attacking Midfield,AM,2500000.0,Aston Villa,England,0.0,out,summer,Premier League,2014,False,
+West Ham United,Matthew Taylor,32.0,England,Left Midfield,LM,1500000.0,Burnley,England,0.0,out,summer,Premier League,2014,False,
+West Ham United,Stephen Henderson,26.0,Ireland,Goalkeeper,GK,1000000.0,Charlton,England,0.0,out,summer,Premier League,2014,False,
+West Ham United,Jordan Spence,24.0,England,Right-Back,RB,250000.0,MK Dons,England,0.0,out,summer,Premier League,2014,False,
+West Ham United,Sean Maguire,20.0,Ireland,Centre-Forward,CF,,Accrington,England,0.0,out,summer,Premier League,2014,True,free loan
+West Ham United,Ravel Morrison,21.0,Jamaica,Attacking Midfield,AM,3500000.0,Cardiff,England,0.0,out,summer,Premier League,2014,True,free loan
+West Ham United,Elliot Lee,19.0,England,Centre-Forward,CF,,Southend United,England,0.0,out,summer,Premier League,2014,True,free loan
+West Ham United,Raphael Spiegel,21.0,Switzerland,Goalkeeper,GK,500000.0,Crawley Town,England,0.0,out,summer,Premier League,2014,True,free loan
+West Ham United,Modibo Maïga,26.0,Mali,Centre-Forward,CF,1500000.0,FC Metz,France,0.0,out,summer,Premier League,2014,True,free loan
+West Ham United,George McCartney,33.0,Northern Ireland,Left-Back,LB,1000000.0,Retired,,,out,summer,Premier League,2014,False,
+West Ham United,Jack Collison,25.0,Wales,Central Midfield,CM,2000000.0,Without Club,,,out,summer,Premier League,2014,False,
+West Ham United,Alou Diarra,32.0,France,Defensive Midfield,DM,1000000.0,Without Club,,,out,summer,Premier League,2014,False,
+West Ham United,Marco Borriello,32.0,Italy,Centre-Forward,CF,4500000.0,AS Roma,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+West Ham United,Antonio Nocerino,29.0,Italy,Central Midfield,CM,4500000.0,AC Milan,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+West Ham United,Pablo Armero,27.0,Colombia,Left-Back,LB,7000000.0,SSC Napoli,Italy,0.0,out,summer,Premier League,2014,True,end of loan
+West Ham United,Doneil Henry,21.0,Canada,Centre-Back,CB,150000.0,Apol. Limassol,Cyprus,1900000.0,in,winter,Premier League,2014,False,
+West Ham United,Nenê,33.0,Brazil,Attacking Midfield,AM,1500000.0,Without Club,,,in,winter,Premier League,2014,False,
+West Ham United,Jaanai Gordon,19.0,England,Centre-Forward,CF,,Chelmsford City,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Diego Poyet,19.0,Uruguay,Central Midfield,CM,500000.0,Huddersfield,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Elliot Lee,19.0,England,Centre-Forward,CF,,Southend United,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Jaanai Gordon,19.0,England,Centre-Forward,CF,,Nuneaton,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Doneil Henry,21.0,Canada,Centre-Back,CB,500000.0,Blackburn,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Elliot Lee,20.0,England,Centre-Forward,CF,,Luton,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Raphael Spiegel,22.0,Switzerland,Goalkeeper,GK,500000.0,Carlisle United,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Sean Maguire,20.0,Ireland,Centre-Forward,CF,,Accrington,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Paul McCallum,21.0,England,Centre-Forward,CF,50000.0,Portsmouth,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Ricardo Vaz Tê,28.0,Portugal,Right Winger,RW,2500000.0,Akhisar Belediye,Turkey,0.0,out,winter,Premier League,2014,False,
+West Ham United,Mauro Zárate,27.0,Argentina,Second Striker,SS,4000000.0,QPR,England,0.0,out,winter,Premier League,2014,True,free loan
+West Ham United,Ravel Morrison,22.0,Jamaica,Attacking Midfield,AM,3500000.0,Without Club,,,out,winter,Premier League,2014,False,
+West Ham United,Danny Whitehead,21.0,England,Central Midfield,CM,,Without Club,,,out,winter,Premier League,2014,False,

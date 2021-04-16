@@ -1,0 +1,570 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Athletic Bilbao,Borja Viguera,27,Spain,Centre-Forward,CF,1000000.0,Alavés,Spain,1000000.0,in,summer,Laliga,2014,False,
+Athletic Bilbao,Ander Herrera,24,Spain,Central Midfield,CM,20000000.0,Man Utd,England,36000000.0,out,summer,Laliga,2014,False,
+Athletic Bilbao,Jonás Ramalho,21,Angola,Centre-Back,CB,500000.0,Girona,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Athletic Bilbao,Raúl Fernández,26,Spain,Goalkeeper,GK,800000.0,Racing,Spain,0.0,out,summer,Laliga,2014,False,
+Athletic Bilbao,Iñigo Pérez,26,Spain,Central Midfield,CM,1000000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2014,False,
+Athletic Bilbao,Borja Ekiza,26,Spain,Centre-Back,CB,1500000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2014,False,
+Athletic Bilbao,Unai Albizua,25,Spain,Centre-Back,CB,200000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Athletic Bilbao,Iker Guarrotxena,21,Spain,Left Winger,LW,500000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Athletic Bilbao,Iñigo Ruiz de Galarreta,21,Spain,Central Midfield,CM,800000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Athletic Bilbao,Kepa,20,Spain,Goalkeeper,GK,1000000.0,Ponferradina,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Athletic Bilbao,Erik Morán,23,Spain,Defensive Midfield,DM,900000.0,CD Leganés,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Atlético Madrid,Antoine Griezmann,23,France,Second Striker,SS,30000000.0,Real Sociedad,Spain,54000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Mario Mandzukic,28,Croatia,Centre-Forward,CF,30000000.0,FC Bayern,Germany,22000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Jan Oblak,21,Slovenia,Goalkeeper,GK,4000000.0,Benfica,Portugal,16000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Alessio Cerci,27,Italy,Right Winger,RW,18000000.0,Torino,Italy,14000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Raúl Jiménez,23,Mexico,Centre-Forward,CF,3000000.0,América,Mexico,10500000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Guilherme Siqueira,28,Brazil,Left-Back,LB,8000000.0,Granada CF,Spain,10000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Miguel Ángel Moyá,30,Spain,Goalkeeper,GK,3000000.0,Getafe,Spain,3000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Jesús Gámez,29,Spain,Right-Back,RB,5000000.0,Málaga CF,Spain,2000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Cristian Ansaldi,27,Argentina,Left-Back,LB,9000000.0,Zenit S-Pb,Russia,1000000.0,in,summer,Laliga,2014,True,loan with fee
+Atlético Madrid,Emiliano Velázquez,20,Uruguay,Centre-Back,CB,1500000.0,Danubio FC,Uruguay,1000000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,André Moreira,18,Portugal,Goalkeeper,GK,,GD Ribeirão,Portugal,350000.0,in,summer,Laliga,2014,False,
+Atlético Madrid,Diego Costa,25,Spain,Centre-Forward,CF,35000000.0,Chelsea,England,38000000.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Filipe Luís,28,Brazil,Left-Back,LB,15000000.0,Chelsea,England,20000000.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Adrián López,26,Spain,Centre-Forward,CF,8000000.0,FC Porto,Portugal,11000000.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Josuha Guilavogui,23,France,Defensive Midfield,DM,10000000.0,VfL Wolfsburg,Germany,6800000.0,out,summer,Laliga,2014,True,loan with fee
+Atlético Madrid,Roberto,28,Spain,Goalkeeper,GK,6000000.0,Olympiacos,Greece,6000000.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Sergio Asenjo,25,Spain,Goalkeeper,GK,5000000.0,Villarreal,Spain,5000000.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Javier Manquillo,20,Spain,Right-Back,RB,6000000.0,Liverpool,England,2000000.0,out,summer,Laliga,2014,True,loan with fee
+Atlético Madrid,Rubén Pérez,25,Spain,Defensive Midfield,DM,3000000.0,Torino,Italy,500000.0,out,summer,Laliga,2014,True,loan with fee
+Atlético Madrid,David Villa,32,Spain,Centre-Forward,CF,10000000.0,NYCFC,United States,0.0,out,summer,Laliga,2014,False,
+Atlético Madrid,Borja Bastón,22,Spain,Centre-Forward,CF,1500000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Diego,29,Brazil,Attacking Midfield,AM,10000000.0,Fenerbahce,Turkey,0.0,out,summer,Laliga,2014,False,
+Atlético Madrid,André Moreira,18,Portugal,Goalkeeper,GK,,Moreirense,Portugal,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Leo Baptistão,21,Brazil,Right Winger,RW,6000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Emiliano Velázquez,20,Uruguay,Centre-Back,CB,1500000.0,Getafe,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Óliver Torres,19,Spain,Central Midfield,CM,8000000.0,FC Porto,Portugal,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Emiliano Insúa,25,Argentina,Left-Back,LB,5000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Toby Alderweireld,25,Belgium,Centre-Back,CB,10000000.0,Southampton,England,0.0,out,summer,Laliga,2014,True,free loan
+Atlético Madrid,Daniel Aranzubia,34,Spain,Goalkeeper,GK,1000000.0,Retired,,,out,summer,Laliga,2014,False,
+Atlético Madrid,Thibaut Courtois,22,Belgium,Goalkeeper,GK,25000000.0,Chelsea,England,0.0,out,summer,Laliga,2014,True,end of loan
+Atlético Madrid,José Sosa,29,Argentina,Central Midfield,CM,9000000.0,Metalist,Ukraine,0.0,out,summer,Laliga,2014,True,end of loan
+Atlético Madrid,Ángel Correa,19,Argentina,Right Winger,RW,5000000.0,San Lorenzo,Argentina,10500000.0,in,winter,Laliga,2014,False,
+Atlético Madrid,Cani,33,Spain,Attacking Midfield,AM,2500000.0,Villarreal,Spain,0.0,in,winter,Laliga,2014,True,free loan
+Atlético Madrid,Fernando Torres,30,Spain,Centre-Forward,CF,7000000.0,AC Milan,Italy,0.0,in,winter,Laliga,2014,True,free loan
+Atlético Madrid,Alessio Cerci,27,Italy,Right Winger,RW,18000000.0,AC Milan,Italy,0.0,out,winter,Laliga,2014,True,free loan
+Atlético Madrid,Cristian Rodríguez,29,Uruguay,Central Midfield,CM,5000000.0,Parma,Italy,0.0,out,winter,Laliga,2014,True,free loan
+Atlético Madrid,Rubén Pérez,25,Spain,Defensive Midfield,DM,2800000.0,Granada CF,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Atlético Madrid,Cristian Rodríguez,29,Uruguay,Central Midfield,CM,4500000.0,Grêmio,Brazil,0.0,out,winter,Laliga,2014,True,free loan
+Celta de Vigo,Pablo Hernández,27,Chile,Central Midfield,CM,700000.0,O'Higgins,Chile,1600000.0,in,summer,Laliga,2014,False,
+Celta de Vigo,Nemanja Radoja,21,Serbia,Defensive Midfield,DM,700000.0,Vojvodina,Serbia,900000.0,in,summer,Laliga,2014,False,
+Celta de Vigo,Gustavo Cabral,28,Argentina,Centre-Back,CB,1200000.0,Arsenal FC,Argentina,0.0,in,summer,Laliga,2014,False,
+Celta de Vigo,Joaquín Larrivey,29,Argentina,Centre-Forward,CF,1000000.0,Rayo Vallecano,Spain,0.0,in,summer,Laliga,2014,False,
+Celta de Vigo,Carles Planas,23,Spain,Left-Back,LB,2500000.0,FC Barcelona B,Spain,,in,summer,Laliga,2014,False,
+Celta de Vigo,Sergi Gómez,22,Spain,Centre-Back,CB,1000000.0,FC Barcelona B,Spain,,in,summer,Laliga,2014,False,
+Celta de Vigo,Jota Peleteiro,23,Spain,Right Winger,RW,2000000.0,Brentford,England,1500000.0,out,summer,Laliga,2014,False,
+Celta de Vigo,Samuel Llorca,29,Spain,Centre-Back,CB,800000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Celta de Vigo,Cristian Bustos,31,Spain,Central Midfield,CM,600000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2014,False,
+Celta de Vigo,Jonathan Vila,28,Spain,Central Midfield,CM,600000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2014,False,
+Celta de Vigo,Yoel Rodríguez,25,Spain,Goalkeeper,GK,3000000.0,Valencia,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Celta de Vigo,Mario Bermejo,35,Spain,Second Striker,SS,200000.0,Retired,,,out,summer,Laliga,2014,False,
+Celta de Vigo,Gustavo Cabral,28,Argentina,Centre-Back,CB,1200000.0,Arsenal FC,Argentina,0.0,out,summer,Laliga,2014,True,end of loan
+Celta de Vigo,Rafinha,21,Brazil,Central Midfield,CM,7500000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Celta de Vigo,Jon Aurtenetxe,22,Spain,Centre-Back,CB,2000000.0,Athletic,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Celta de Vigo,Iñigo López,31,Spain,Centre-Back,CB,1000000.0,PAOK Salonika,Greece,0.0,out,summer,Laliga,2014,True,end of loan
+Celta de Vigo,Welliton,27,Brazil,Centre-Forward,CF,2000000.0,Spartak Moscow,Russia,0.0,out,summer,Laliga,2014,True,end of loan
+Celta de Vigo,Theo Bongonda,19,Belgium,Left Winger,LW,1500000.0,Zulte Waregem,Belgium,1300000.0,in,winter,Laliga,2014,False,
+Córdoba CF,Iñigo López,32,Spain,Centre-Back,CB,1000000.0,PAOK Salonika,Greece,250000.0,in,summer,Laliga,2014,False,
+Córdoba CF,Mike Havenaar,27,Japan,Centre-Forward,CF,2500000.0,Vitesse,Netherlands,0.0,in,summer,Laliga,2014,False,
+Córdoba CF,Deivid,25,Spain,Centre-Back,CB,1200000.0,UD Las Palmas,Spain,0.0,in,summer,Laliga,2014,False,
+Córdoba CF,Aritz López Garai,33,Spain,Central Midfield,CM,200000.0,Sporting Gijón,Spain,0.0,in,summer,Laliga,2014,False,
+Córdoba CF,José Carlos,26,Spain,Attacking Midfield,AM,1500000.0,Rayo Vallecano,Spain,0.0,in,summer,Laliga,2014,False,
+Córdoba CF,Patrick Ekeng,24,Cameroon,Central Midfield,CM,400000.0,Lausanne-Sport,Switzerland,0.0,in,summer,Laliga,2014,False,
+Córdoba CF,José Crespo,27,Spain,Centre-Back,CB,400000.0,Bologna,Italy,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Fede Vico,20,Spain,Attacking Midfield,AM,1000000.0,RSC Anderlecht,Belgium,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Nabil Ghilas,24,Algeria,Centre-Forward,CF,4000000.0,FC Porto,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Fidel,24,Spain,Left Winger,LW,3000000.0,Elche CF,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Fede Cartabia,21,Argentina,Right Winger,RW,3000000.0,Valencia,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Ryder Matos,21,Brazil,Second Striker,SS,4000000.0,Fiorentina,Italy,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Fausto Rossi,23,Italy,Central Midfield,CM,2000000.0,Juventus,Italy,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Aleksandar Pantic,22,Serbia,Centre-Back,CB,1000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Borja García,23,Spain,Attacking Midfield,AM,1500000.0,RM Castilla,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Córdoba CF,Jaime Astrain,26,Spain,Centre-Back,CB,,Real Jaén CF,Spain,0.0,out,summer,Laliga,2014,False,
+Córdoba CF,Nwankwo Obiora,23,Nigeria,Defensive Midfield,DM,600000.0,Coimbra,Portugal,0.0,out,summer,Laliga,2014,False,
+Córdoba CF,Pedro Sánchez,27,Spain,Right Winger,RW,1500000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2014,False,
+Córdoba CF,Samu de los Reyes,22,Spain,Left-Back,LB,1000000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Córdoba CF,Raúl Bravo,33,Spain,Centre-Back,CB,500000.0,PAE Veria,Greece,0.0,out,summer,Laliga,2014,False,
+Córdoba CF,Bernardo Cruz,20,Spain,Centre-Back,CB,200000.0,Racing,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Córdoba CF,Fran Cruz,23,Spain,Centre-Back,CB,500000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Córdoba CF,Arturo Rodríguez,25,Spain,Centre-Forward,CF,200000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Córdoba CF,Miguel Ángel Nieto,28,Spain,Left Winger,LW,500000.0,Without Club,,,out,summer,Laliga,2014,False,
+Córdoba CF,Joselu,24,Spain,Right-Back,RB,200000.0,Without Club,,,out,summer,Laliga,2014,False,
+Córdoba CF,Juanlu,34,Spain,Left Midfield,LM,300000.0,Retired,,,out,summer,Laliga,2014,False,
+Córdoba CF,Pelayo,23,Spain,Central Midfield,CM,400000.0,Elche CF,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Córdoba CF,Ulises Dávila,23,Mexico,Second Striker,SS,1500000.0,Chelsea,England,0.0,out,summer,Laliga,2014,True,end of loan
+Córdoba CF,Aritz López Garai,33,Spain,Central Midfield,CM,200000.0,Sporting Gijón,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Córdoba CF,Rene Krhin,24,Slovenia,Central Midfield,CM,3000000.0,Inter,Italy,500000.0,in,winter,Laliga,2014,True,loan with fee
+Córdoba CF,Edimar,28,Brazil,Left-Back,LB,1000000.0,Chievo Verona,Italy,0.0,in,winter,Laliga,2014,True,free loan
+Córdoba CF,Bebé,24,Portugal,Left Winger,LW,3000000.0,Benfica,Portugal,0.0,in,winter,Laliga,2014,True,free loan
+Córdoba CF,Héldon,26,Cape Verde,Left Winger,LW,2500000.0,Sporting CP,Portugal,0.0,in,winter,Laliga,2014,True,free loan
+Córdoba CF,Bruno Zuculini,21,Argentina,Defensive Midfield,DM,2000000.0,Man City,England,0.0,in,winter,Laliga,2014,True,free loan
+Córdoba CF,Samu de los Reyes,22,Spain,Left-Back,LB,500000.0,UE Llagostera,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Córdoba CF,Aritz López Garai,34,Spain,Central Midfield,CM,300000.0,Rapid Bucharest,Romania,0.0,out,winter,Laliga,2014,False,
+Córdoba CF,Mike Havenaar,27,Japan,Centre-Forward,CF,3000000.0,HJK Helsinki,Finland,0.0,out,winter,Laliga,2014,False,
+Córdoba CF,Arturo Rodríguez,25,Spain,Centre-Forward,CF,300000.0,UE Llagostera,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Córdoba CF,Xisco,28,Spain,Centre-Forward,CF,1200000.0,RCD Mallorca,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Córdoba CF,Carlos Caballero,30,Spain,Central Midfield,CM,800000.0,PAE Veria,Greece,0.0,out,winter,Laliga,2014,True,free loan
+Córdoba CF,José Carlos,27,Spain,Attacking Midfield,AM,1000000.0,Without Club,,,out,winter,Laliga,2014,False,
+Deportivo de La Coruña,Lucas Pérez,25,Spain,Centre-Forward,CF,4000000.0,PAOK Salonika,Greece,1200000.0,in,summer,Laliga,2014,True,loan with fee
+Deportivo de La Coruña,Isaac Cuenca,23,Spain,Left Winger,LW,3000000.0,FC Barcelona,Spain,0.0,in,summer,Laliga,2014,False,
+Deportivo de La Coruña,José Rodríguez,19,Spain,Central Midfield,CM,2000000.0,RM Castilla,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Ivan Cavaleiro,20,Portugal,Right Winger,RW,4000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Haris Medunjanin,29,Bosnia-Herzegovina,Central Midfield,CM,3000000.0,Gaziantepspor,Turkey,0.0,in,summer,Laliga,2014,False,
+Deportivo de La Coruña,Hélder Postiga,32,Portugal,Centre-Forward,CF,2000000.0,Valencia,Spain,0.0,in,summer,Laliga,2014,False,
+Deportivo de La Coruña,Juanfran,25,Spain,Right-Back,RB,2000000.0,Watford,England,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Sidnei,25,Brazil,Centre-Back,CB,1500000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Modibo Diakité,27,France,Centre-Back,CB,2000000.0,Sunderland,England,0.0,in,summer,Laliga,2014,False,
+Deportivo de La Coruña,Roberto Canella,26,Spain,Left-Back,LB,2000000.0,Sporting Gijón,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Luis Fariña,23,Argentina,Attacking Midfield,AM,3000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Antonio Núñez,35,Spain,Right Winger,RW,100000.0,Recr. Huelva,Spain,0.0,out,summer,Laliga,2014,False,
+Deportivo de La Coruña,Rudy,25,Angola,Central Midfield,CM,700000.0,Skoda Xanthi,Greece,0.0,out,summer,Laliga,2014,False,
+Deportivo de La Coruña,Luis Fernández,20,Spain,Centre-Forward,CF,600000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Deportivo de La Coruña,Carlos Marchena,34,Spain,Centre-Back,CB,300000.0,Without Club,,,out,summer,Laliga,2014,False,
+Deportivo de La Coruña,Javier Arizmendi,30,Spain,Centre-Forward,CF,600000.0,Retired,,,out,summer,Laliga,2014,False,
+Deportivo de La Coruña,Bryan Rabello,20,Chile,Attacking Midfield,AM,3000000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Deportivo de La Coruña,Ibrahim Sissoko,22,Cote d'Ivoire,Attacking Midfield,AM,1000000.0,VfL Wolfsburg,Germany,0.0,out,summer,Laliga,2014,True,end of loan
+Deportivo de La Coruña,Diego Ifrán,27,Uruguay,Centre-Forward,CF,1500000.0,Real Sociedad,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Deportivo de La Coruña,Saúl García,20,Spain,Left-Back,LB,200000.0,Racing,Spain,200000.0,in,winter,Laliga,2014,False,
+Deportivo de La Coruña,Hélder Costa,21,Angola,Right Winger,RW,800000.0,Benfica B,Portugal,0.0,in,winter,Laliga,2014,True,free loan
+Deportivo de La Coruña,Oriol Riera,28,Spain,Centre-Forward,CF,3000000.0,Wigan,England,0.0,in,winter,Laliga,2014,True,free loan
+Deportivo de La Coruña,Celso Borges,26,Costa Rica,Central Midfield,CM,1600000.0,AIK,Sweden,0.0,in,winter,Laliga,2014,True,free loan
+Deportivo de La Coruña,Borja López,20,Spain,Centre-Back,CB,1250000.0,Monaco,France,0.0,in,winter,Laliga,2014,True,free loan
+Deportivo de La Coruña,Saúl García,20,Spain,Left-Back,LB,200000.0,Racing,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Deportivo de La Coruña,Juan Carlos Real,23,Spain,Attacking Midfield,AM,600000.0,CD Tenerife,Spain,0.0,out,winter,Laliga,2014,False,
+Deportivo de La Coruña,Modibo Diakité,27,France,Centre-Back,CB,1500000.0,Cagliari Calcio,Italy,0.0,out,winter,Laliga,2014,False,
+Deportivo de La Coruña,Diego Seoane,26,Spain,Right-Back,RB,800000.0,CD Lugo,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Elche CF,Enzo Roco,21,Chile,Centre-Back,CB,600000.0,CDUC,Chile,750000.0,in,summer,Laliga,2014,True,loan with fee
+Elche CF,Jonathas,25,Brazil,Centre-Forward,CF,2500000.0,Pescara,Italy,500000.0,in,summer,Laliga,2014,True,loan with fee
+Elche CF,Przemyslaw Tyton,27,Poland,Goalkeeper,GK,3000000.0,PSV Eindhoven,Netherlands,95000.0,in,summer,Laliga,2014,True,loan with fee
+Elche CF,Fayçal Fajr,25,Morocco,Central Midfield,CM,1500000.0,SM Caen,France,0.0,in,summer,Laliga,2014,False,
+Elche CF,Adrián González,26,Spain,Central Midfield,CM,1500000.0,Rayo Vallecano,Spain,0.0,in,summer,Laliga,2014,False,
+Elche CF,Pedro Mosquera,26,Spain,Central Midfield,CM,2000000.0,Getafe,Spain,0.0,in,summer,Laliga,2014,False,
+Elche CF,Víctor Rodríguez,25,Spain,Left Winger,LW,2500000.0,Real Zaragoza,Spain,0.0,in,summer,Laliga,2014,False,
+Elche CF,Mario Pasalic,19,Croatia,Central Midfield,CM,3000000.0,Chelsea,England,0.0,in,summer,Laliga,2014,True,free loan
+Elche CF,Gaby Mudingayi,33,Belgium,Defensive Midfield,DM,700000.0,Without Club,,,in,summer,Laliga,2014,False,
+Elche CF,Carlos Sánchez,28,Colombia,Defensive Midfield,DM,4000000.0,Aston Villa,England,6000000.0,out,summer,Laliga,2014,False,
+Elche CF,Sergio Mantecón,34,Spain,Central Midfield,CM,600000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2014,False,
+Elche CF,Pelayo,23,Spain,Central Midfield,CM,800000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Elche CF,Charlie I'Anson,21,England,Centre-Back,CB,,Alcorcón,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Elche CF,Diego Rivas,27,Spain,Goalkeeper,GK,100000.0,Albacete,Spain,0.0,out,summer,Laliga,2014,False,
+Elche CF,Javi Flores,28,Spain,Attacking Midfield,AM,200000.0,Real Murcia,Spain,0.0,out,summer,Laliga,2014,False,
+Elche CF,Toño,34,Spain,Goalkeeper,GK,500000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2014,False,
+Elche CF,Fidel,24,Spain,Left Winger,LW,3000000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Elche CF,Alberto Rivera,36,Spain,Central Midfield,CM,200000.0,Retired,,,out,summer,Laliga,2014,False,
+Elche CF,Cristian Sapunaru,30,Romania,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Laliga,2014,False,
+Elche CF,Manu del Moral,30,Spain,Centre-Forward,CF,2500000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Carles Gil,21,Spain,Attacking Midfield,AM,3000000.0,Valencia B,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Rubén Pérez,25,Spain,Defensive Midfield,DM,3000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Alberto Botía,25,Spain,Centre-Back,CB,5000000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Javi Márquez,28,Spain,Central Midfield,CM,3000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Richmond Boakye,21,Ghana,Centre-Forward,CF,3000000.0,Juventus,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Elche CF,Gaby Mudingayi,33,Belgium,Defensive Midfield,DM,700000.0,Without Club,,,in,winter,Laliga,2014,False,
+Elche CF,Charlie I'Anson,21,England,Centre-Back,CB,200000.0,Real Oviedo,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Elche CF,Gaby Mudingayi,33,Belgium,Defensive Midfield,DM,500000.0,Without Club,,,out,winter,Laliga,2014,False,
+FC Barcelona,Luis Suárez,27,Uruguay,Centre-Forward,CF,52000000.0,Liverpool,England,81720000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Jérémy Mathieu,30,France,Centre-Back,CB,12000000.0,Valencia,Spain,20000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Thomas Vermaelen,28,Belgium,Centre-Back,CB,14000000.0,Arsenal,England,19000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Ivan Rakitic,26,Croatia,Central Midfield,CM,20000000.0,Sevilla FC,Spain,18000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Marc-André ter Stegen,22,Germany,Goalkeeper,GK,20000000.0,Bor. M'gladbach,Germany,12000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Claudio Bravo,31,Chile,Goalkeeper,GK,4000000.0,Real Sociedad,Spain,12000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Douglas,24,Brazil,Right-Back,RB,2000000.0,São Paulo,Brazil,4000000.0,in,summer,Laliga,2014,False,
+FC Barcelona,Alexis Sánchez,25,Chile,Centre-Forward,CF,30000000.0,Arsenal,England,42500000.0,out,summer,Laliga,2014,False,
+FC Barcelona,Cesc Fàbregas,27,Spain,Central Midfield,CM,50000000.0,Chelsea,England,33000000.0,out,summer,Laliga,2014,False,
+FC Barcelona,Cristian Tello,22,Spain,Left Winger,LW,9000000.0,FC Porto,Portugal,3000000.0,out,summer,Laliga,2014,True,loan with fee
+FC Barcelona,Bojan Krkic,23,Spain,Second Striker,SS,5000000.0,Stoke City,England,1800000.0,out,summer,Laliga,2014,False,
+FC Barcelona,Jonathan dos Santos,24,Mexico,Central Midfield,CM,3000000.0,Villarreal,Spain,1500000.0,out,summer,Laliga,2014,False,
+FC Barcelona,Denis Suárez,20,Spain,Attacking Midfield,AM,3500000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,free loan
+FC Barcelona,Isaac Cuenca,23,Spain,Left Winger,LW,3000000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2014,False,
+FC Barcelona,Oier Olazábal,24,Spain,Goalkeeper,GK,800000.0,Granada CF,Spain,0.0,out,summer,Laliga,2014,False,
+FC Barcelona,Keirrison,25,Brazil,Centre-Forward,CF,500000.0,Coritiba FC,Brazil,0.0,out,summer,Laliga,2014,False,
+FC Barcelona,Ibrahim Afellay,28,Netherlands,Left Midfield,LM,3000000.0,Olympiacos,Greece,0.0,out,summer,Laliga,2014,True,free loan
+FC Barcelona,Alex Song,26,Cameroon,Defensive Midfield,DM,14000000.0,West Ham,England,0.0,out,summer,Laliga,2014,True,free loan
+FC Barcelona,Gerard Deulofeu,20,Spain,Left Winger,LW,12000000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,free loan
+FC Barcelona,Carles Puyol,36,Spain,Centre-Back,CB,1000000.0,Retired,,,out,summer,Laliga,2014,False,
+FC Barcelona,Víctor Valdés,32,Spain,Goalkeeper,GK,12000000.0,Without Club,,,out,summer,Laliga,2014,False,
+FC Barcelona,José Manuel Pinto,38,Spain,Goalkeeper,GK,300000.0,Retired,,,out,summer,Laliga,2014,False,
+Getafe CF,Karim Yoda,25,France,Right Winger,RW,1700000.0,Astra Giurgiu,Romania,0.0,in,summer,Laliga,2014,False,
+Getafe CF,Jonathan López,33,Spain,Goalkeeper,GK,250000.0,PAE Veria,Greece,0.0,in,summer,Laliga,2014,False,
+Getafe CF,Vicente Guaita,27,Spain,Goalkeeper,GK,3000000.0,Valencia,Spain,0.0,in,summer,Laliga,2014,False,
+Getafe CF,Naldo,26,Brazil,Centre-Back,CB,700000.0,Udinese Calcio,Italy,0.0,in,summer,Laliga,2014,True,free loan
+Getafe CF,Fredy Hinestroza,24,Colombia,Left Winger,LW,100000.0,CD La Equidad,Colombia,0.0,in,summer,Laliga,2014,True,free loan
+Getafe CF,Míchel Herrero,25,Spain,Central Midfield,CM,2500000.0,Valencia,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Getafe CF,Emiliano Velázquez,20,Uruguay,Centre-Back,CB,1500000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Getafe CF,Baba Diawara,26,Senegal,Centre-Forward,CF,1000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Getafe CF,Miguel Ángel Moyá,30,Spain,Goalkeeper,GK,3000000.0,Atlético Madrid,Spain,3000000.0,out,summer,Laliga,2014,False,
+Getafe CF,Jaime Gavilán,29,Spain,Left Winger,LW,1600000.0,Levante,Spain,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Pedro Mosquera,26,Spain,Central Midfield,CM,2000000.0,Elche CF,Spain,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Ciprian Marica,28,Romania,Centre-Forward,CF,2500000.0,Konyaspor,Turkey,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Borja Fernández,33,Spain,Defensive Midfield,DM,1000000.0,Atl. Kolkata,India,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Rafa López,29,Spain,Centre-Back,CB,2500000.0,SC Paderborn,Germany,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Míchel,28,Spain,Central Midfield,CM,1500000.0,Maccabi Haifa,Israel,0.0,out,summer,Laliga,2014,False,
+Getafe CF,Adrián Colunga,29,Spain,Centre-Forward,CF,2000000.0,Brighton,England,,out,summer,Laliga,2014,False,
+Getafe CF,Júlio César,27,Brazil,Goalkeeper,GK,500000.0,Without Club,,,out,summer,Laliga,2014,False,
+Getafe CF,Lisandro López,24,Argentina,Centre-Back,CB,6000000.0,Benfica,Portugal,0.0,out,summer,Laliga,2014,True,end of loan
+Getafe CF,Sammir,27,Croatia,Attacking Midfield,AM,3000000.0,JS Guoxin Sainty,China,5000000.0,out,winter,Laliga,2014,False,
+Getafe CF,Denis Kramar,23,Slovenia,Centre-Back,CB,,Perth Glory,Australia,0.0,out,winter,Laliga,2014,False,
+Granada CF,Dimitri Foulquier,21,Guadeloupe,Right-Back,RB,1500000.0,Stade Rennais,France,2500000.0,in,summer,Laliga,2014,False,
+Granada CF,Jhon Córdoba,21,Colombia,Centre-Forward,CF,1000000.0,Chiapas FC,Mexico,1830000.0,in,summer,Laliga,2014,False,
+Granada CF,Dany Nounkeu,28,Cameroon,Centre-Back,CB,3000000.0,Galatasaray,Turkey,390000.0,in,summer,Laliga,2014,True,loan with fee
+Granada CF,Eddy Silvestre,22,Azerbaijan,Central Midfield,CM,,Real Murcia,Spain,100000.0,in,summer,Laliga,2014,True,loan with fee
+Granada CF,Jean-Sylvain Babin,27,Martinique,Centre-Back,CB,1500000.0,Alcorcón,Spain,0.0,in,summer,Laliga,2014,False,
+Granada CF,Daniel Larsson,27,Sweden,Left Winger,LW,1200000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,False,
+Granada CF,Javi Márquez,28,Spain,Central Midfield,CM,3000000.0,RCD Mallorca,Spain,0.0,in,summer,Laliga,2014,False,
+Granada CF,Molla Wagué,23,Mali,Centre-Back,CB,600000.0,SM Caen,France,0.0,in,summer,Laliga,2014,False,
+Granada CF,Oier Olazábal,24,Spain,Goalkeeper,GK,800000.0,FC Barcelona,Spain,0.0,in,summer,Laliga,2014,False,
+Granada CF,Josan,24,Spain,Right Winger,RW,,La Hoya Lorca,Spain,0.0,in,summer,Laliga,2014,False,
+Granada CF,Juankar,24,Spain,Left-Back,LB,2000000.0,Braga,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Granada CF,Juan Carlos Paredes,27,Ecuador,Right-Back,RB,1400000.0,Barcelona SC,Ecuador,,in,summer,Laliga,2014,False,
+Granada CF,Abdoul Wahid Sissoko,24,Mali,Defensive Midfield,DM,1000000.0,Udinese Calcio,Italy,0.0,in,summer,Laliga,2014,True,free loan
+Granada CF,Isaac Success,18,Nigeria,Centre-Forward,CF,,Udinese U19,Italy,,in,summer,Laliga,2014,False,
+Granada CF,Rubén Rochina,23,Spain,Right Winger,RW,1000000.0,Blackburn,England,,in,summer,Laliga,2014,False,
+Granada CF,Luís Martins,22,Portugal,Left-Back,LB,1500000.0,Gil Vicente,Portugal,,in,summer,Laliga,2014,False,
+Granada CF,Guilherme Siqueira,28,Brazil,Left-Back,LB,8000000.0,Atlético Madrid,Spain,10000000.0,out,summer,Laliga,2014,False,
+Granada CF,Yacine Brahimi,24,Algeria,Left Winger,LW,4000000.0,FC Porto,Portugal,6500000.0,out,summer,Laliga,2014,False,
+Granada CF,Allan,23,Brazil,Central Midfield,CM,8000000.0,Udinese Calcio,Italy,3000000.0,out,summer,Laliga,2014,False,
+Granada CF,Brayan Angulo,24,Colombia,Left-Back,LB,1500000.0,Ludogorets,Bulgaria,1500000.0,out,summer,Laliga,2014,False,
+Granada CF,Juanma Ortiz,32,Spain,Right-Back,RB,400000.0,AEK Larnaca,Cyprus,0.0,out,summer,Laliga,2014,False,
+Granada CF,Hassan Yebda,30,Algeria,Central Midfield,CM,1500000.0,Dibba Fujairah,United Arab Emirates,0.0,out,summer,Laliga,2014,False,
+Granada CF,Essaïd Belkalem,25,Algeria,Centre-Back,CB,1000000.0,Watford,England,0.0,out,summer,Laliga,2014,False,
+Granada CF,Molla Wagué,23,Mali,Centre-Back,CB,600000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,Jon Ander Garrido,24,Spain,Defensive Midfield,DM,200000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2014,False,
+Granada CF,Juan Carlos Paredes,27,Ecuador,Right-Back,RB,1400000.0,Watford,England,,out,summer,Laliga,2014,False,
+Granada CF,Ritchie Kitoko,26,Belgium,Central Midfield,CM,300000.0,Asteras Tripoli,Greece,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,Diego Buonanotte,26,Argentina,Attacking Midfield,AM,1500000.0,CF Pachuca,Mexico,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,Alexis Zapata,19,Colombia,Attacking Midfield,AM,200000.0,Udinese Calcio,Italy,,out,summer,Laliga,2014,False,
+Granada CF,Borja Gómez,26,Spain,Centre-Back,CB,300000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,Gai Assulin,23,Israel,Left Winger,LW,600000.0,RCD Mallorca,Spain,,out,summer,Laliga,2014,False,
+Granada CF,Toti,26,Spain,Attacking Midfield,AM,400000.0,Alavés,Spain,,out,summer,Laliga,2014,False,
+Granada CF,Josan,24,Spain,Right Winger,RW,,SD Huesca,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,David Ferreiro,26,Spain,Right Winger,RW,600000.0,CD Lugo,Spain,,out,summer,Laliga,2014,False,
+Granada CF,Jona,25,Honduras,Centre-Forward,CF,500000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Granada CF,Kabiru Akinsola,23,Nigeria,Centre-Forward,CF,100000.0,CSMS Iasi,Romania,,out,summer,Laliga,2014,False,
+Granada CF,Pape Diakhaté,30,Senegal,Centre-Back,CB,2500000.0,Without Club,,,out,summer,Laliga,2014,False,
+Granada CF,Alexandre Coeff,22,France,Centre-Back,CB,800000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Orestis Karnezis,28,Greece,Goalkeeper,GK,1500000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Odion Ighalo,25,Nigeria,Centre-Forward,CF,2000000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Dimitri Foulquier,21,Guadeloupe,Right-Back,RB,1500000.0,Stade Rennais,France,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Recio,23,Spain,Central Midfield,CM,2500000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Michaël Pereira,26,France,Right Winger,RW,2000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Tiago Ilori,21,Portugal,Centre-Back,CB,4000000.0,Liverpool,England,0.0,out,summer,Laliga,2014,True,end of loan
+Granada CF,Emanuel Insúa,23,Argentina,Left-Back,LB,1200000.0,Boca Juniors,Argentina,2500000.0,in,winter,Laliga,2014,False,
+Granada CF,Francisco Sierralta,17,Chile,Centre-Back,CB,,CDUC,Chile,375000.0,in,winter,Laliga,2014,False,
+Granada CF,Lass Bangoura,22,Guinea,Right Winger,RW,2500000.0,Rayo Vallecano,Spain,350000.0,in,winter,Laliga,2014,True,loan with fee
+Granada CF,Juan Cala,25,Spain,Centre-Back,CB,1000000.0,Cardiff,England,0.0,in,winter,Laliga,2014,False,
+Granada CF,Miguel Layún,26,Mexico,Right Midfield,RM,3000000.0,América,Mexico,,in,winter,Laliga,2014,False,
+Granada CF,Rober Ibáñez,21,Spain,Right Winger,RW,1000000.0,Valencia,Spain,0.0,in,winter,Laliga,2014,True,free loan
+Granada CF,Rubén Pérez,25,Spain,Defensive Midfield,DM,2800000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2014,True,free loan
+Granada CF,Daniel Candeias,26,Portugal,Right Winger,RW,1500000.0,Benfica,Portugal,0.0,in,winter,Laliga,2014,True,free loan
+Granada CF,Adrián Colunga,30,Spain,Centre-Forward,CF,2000000.0,Brighton,England,0.0,in,winter,Laliga,2014,True,free loan
+Granada CF,Héctor Yuste,27,Spain,Centre-Back,CB,1000000.0,RCD Mallorca,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Granada CF,Miguel Layún,26,Mexico,Right Midfield,RM,3000000.0,Watford,England,,out,winter,Laliga,2014,False,
+Granada CF,Alfredo Ortuño,23,Spain,Centre-Forward,CF,800000.0,UD Las Palmas,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Granada CF,Diego Buonanotte,26,Argentina,Attacking Midfield,AM,1500000.0,Quilmes,Argentina,0.0,out,winter,Laliga,2014,True,free loan
+Granada CF,Daniel Larsson,28,Sweden,Left Winger,LW,1500000.0,Esbjerg fB,Denmark,0.0,out,winter,Laliga,2014,True,free loan
+Granada CF,Francisco Sierralta,17,Chile,Centre-Back,CB,,CDUC,Chile,0.0,out,winter,Laliga,2014,True,free loan
+Granada CF,Dani Benítez,26,Spain,Left Winger,LW,1500000.0,Ban,,,out,winter,Laliga,2014,False,
+Levante UD,Jesús Fernández,26,Spain,Goalkeeper,GK,400000.0,Real Madrid,Spain,500000.0,in,summer,Laliga,2014,False,
+Levante UD,Toño,24,Spain,Left-Back,LB,200000.0,Recr. Huelva,Spain,300000.0,in,summer,Laliga,2014,False,
+Levante UD,Jaime Gavilán,29,Spain,Left Winger,LW,1600000.0,Getafe,Spain,0.0,in,summer,Laliga,2014,False,
+Levante UD,Rafael Martins,25,Brazil,Centre-Forward,CF,500000.0,GO Audax,Brazil,0.0,in,summer,Laliga,2014,False,
+Levante UD,Diego Mariño,24,Spain,Goalkeeper,GK,2500000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Levante UD,Víctor Pérez,26,Spain,Central Midfield,CM,1800000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Levante UD,Keylor Navas,27,Costa Rica,Goalkeeper,GK,10000000.0,Real Madrid,Spain,10000000.0,out,summer,Laliga,2014,False,
+Levante UD,Sérgio da Silva Pinto,33,Germany,Central Midfield,CM,1000000.0,F. Düsseldorf,Germany,0.0,out,summer,Laliga,2014,False,
+Levante UD,Pedro Ríos,32,Spain,Right Winger,RW,900000.0,Recr. Huelva,Spain,0.0,out,summer,Laliga,2014,False,
+Levante UD,Roger Martí,23,Spain,Centre-Forward,CF,1000000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Levante UD,Ángel Rodríguez,27,Spain,Centre-Forward,CF,1000000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2014,False,
+Levante UD,Nagore,33,Spain,Right-Back,RB,300000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2014,False,
+Levante UD,Miguel Pallardó,28,Spain,Central Midfield,CM,500000.0,Heart of Midl.,Scotland,0.0,out,summer,Laliga,2014,False,
+Levante UD,Javi Jiménez,27,Spain,Goalkeeper,GK,1500000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Levante UD,Aloys Nong,30,Cameroon,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Laliga,2014,False,
+Levante UD,Baba Diawara,26,Senegal,Centre-Forward,CF,1800000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Levante UD,José Mari,27,Spain,Defensive Midfield,DM,600000.0,Colorado,United States,0.0,in,winter,Laliga,2014,False,
+Levante UD,Kalu Uche,32,Nigeria,Centre-Forward,CF,4500000.0,Al-Rayyan SC,Qatar,0.0,in,winter,Laliga,2014,False,
+Levante UD,Iván Ramis,30,Spain,Centre-Back,CB,3500000.0,Wigan,England,0.0,in,winter,Laliga,2014,False,
+Levante UD,Héctor Rodas,26,Spain,Centre-Back,CB,600000.0,Real Betis,Spain,0.0,out,winter,Laliga,2014,False,
+Levante UD,Jaime Gavilán,29,Spain,Left Winger,LW,900000.0,Platanias,Greece,0.0,out,winter,Laliga,2014,False,
+Levante UD,Issam El Adoua,28,Morocco,Defensive Midfield,DM,800000.0,CQ Lifan,China,0.0,out,winter,Laliga,2014,False,
+Málaga CF,Nordin Amrabat,27,Morocco,Right Winger,RW,4500000.0,Galatasaray,Turkey,1000000.0,in,summer,Laliga,2014,True,loan with fee
+Málaga CF,Ricardo Horta,19,Portugal,Second Striker,SS,1000000.0,Vitória Setúbal,Portugal,500000.0,in,summer,Laliga,2014,False,
+Málaga CF,Arthur Boka,31,Cote d'Ivoire,Left-Back,LB,2000000.0,VfB Stuttgart,Germany,0.0,in,summer,Laliga,2014,False,
+Málaga CF,Luis Alberto,21,Spain,Attacking Midfield,AM,6000000.0,Liverpool,England,0.0,in,summer,Laliga,2014,True,free loan
+Málaga CF,Guillermo Ochoa,29,Mexico,Goalkeeper,GK,5000000.0,AC Ajaccio,France,0.0,in,summer,Laliga,2014,False,
+Málaga CF,Roberto Rosales,25,Venezuela,Right-Back,RB,4000000.0,Twente FC,Netherlands,0.0,in,summer,Laliga,2014,False,
+Málaga CF,Miguel Torres,28,Spain,Right-Back,RB,1000000.0,Olympiacos,Greece,0.0,in,summer,Laliga,2014,False,
+Málaga CF,Willy Caballero,32,Argentina,Goalkeeper,GK,5000000.0,Man City,England,8000000.0,out,summer,Laliga,2014,False,
+Málaga CF,Jesús Gámez,29,Spain,Right-Back,RB,5000000.0,Atlético Madrid,Spain,2000000.0,out,summer,Laliga,2014,False,
+Málaga CF,Eliseu,30,Portugal,Left-Back,LB,2000000.0,Benfica,Portugal,1200000.0,out,summer,Laliga,2014,False,
+Málaga CF,Bobley Anderson,22,Cote d'Ivoire,Attacking Midfield,AM,800000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Málaga CF,Bartlomiej Pawlowski,21,Poland,Right Winger,RW,1000000.0,Widzew Lodz,Poland,0.0,out,summer,Laliga,2014,True,end of loan
+Málaga CF,Mounir El Hamdaoui,29,Morocco,Centre-Forward,CF,2000000.0,Fiorentina,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Málaga CF,Nordin Amrabat,27,Morocco,Right Winger,RW,4000000.0,Galatasaray,Turkey,0.0,out,summer,Laliga,2014,True,end of loan
+Málaga CF,Oleksandr Yakovenko,26,Ukraine,Left Winger,LW,1800000.0,Fiorentina,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Málaga CF,Egor Filipenko,26,Belarus,Centre-Back,CB,1700000.0,BATE Borisov,Belarus,0.0,in,winter,Laliga,2014,False,
+Málaga CF,Javi Guerra,32,Spain,Centre-Forward,CF,3500000.0,Cardiff,England,0.0,in,winter,Laliga,2014,True,free loan
+Málaga CF,Vitorino Antunes,27,Portugal,Left-Back,LB,3000000.0,Dynamo Kyiv,Ukraine,6000000.0,out,winter,Laliga,2014,False,
+Málaga CF,Roque Santa Cruz,33,Paraguay,Centre-Forward,CF,2000000.0,CD Cruz Azul,Mexico,1500000.0,out,winter,Laliga,2014,False,
+Málaga CF,Pablo Pérez,29,Argentina,Central Midfield,CM,1500000.0,Boca Juniors,Argentina,285000.0,out,winter,Laliga,2014,True,loan with fee
+Málaga CF,José Manuel Casado,28,Spain,Left-Back,LB,800000.0,UD Almería,Spain,0.0,out,winter,Laliga,2014,False,
+Málaga CF,Francisco Portillo,24,Spain,Right Winger,RW,2500000.0,Real Betis,Spain,0.0,out,winter,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Paco Montañés,27,Spain,Left Winger,LW,1500000.0,Real Zaragoza,Spain,1100000.0,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Álvaro González,24,Spain,Centre-Back,CB,2500000.0,Real Zaragoza,Spain,1100000.0,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Salva Sevilla,30,Spain,Central Midfield,CM,1500000.0,Real Betis,Spain,0.0,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Felipe Caicedo,25,Ecuador,Centre-Forward,CF,5000000.0,Al-Jazira,United Arab Emirates,0.0,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,José Alberto Cañas,27,Spain,Central Midfield,CM,4500000.0,Swansea,England,0.0,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Anaitz Arbilla,27,Spain,Centre-Back,CB,1000000.0,Rayo Vallecano,Spain,,in,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Lucas Vázquez,23,Spain,Right Winger,RW,,RM Castilla,Spain,0.0,in,summer,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,David López,24,Spain,Defensive Midfield,DM,5000000.0,SSC Napoli,Italy,5300000.0,out,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Joan Capdevila,36,Spain,Left-Back,LB,200000.0,NorthEast Utd.,India,0.0,out,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Thievy Bifouma,22,Congo,Right Winger,RW,2000000.0,UD Almería,Spain,0.0,out,summer,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Christian Alfonso,25,Spain,Attacking Midfield,AM,500000.0,Girona,Spain,0.0,out,summer,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Sergio Tejera,24,Spain,Central Midfield,CM,400000.0,Alavés,Spain,0.0,out,summer,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Cristian Gómez,25,Spain,Central Midfield,CM,400000.0,Girona,Spain,0.0,out,summer,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Simão,34,Portugal,Left Winger,LW,1500000.0,Career break,,,out,summer,Laliga,2014,False,
+RCD Espanyol Barcelona,Pizzi,24,Portugal,Attacking Midfield,AM,3000000.0,Benfica,Portugal,0.0,out,summer,Laliga,2014,True,end of loan
+RCD Espanyol Barcelona,Sidnei,24,Brazil,Centre-Back,CB,1500000.0,Benfica,Portugal,0.0,out,summer,Laliga,2014,True,end of loan
+RCD Espanyol Barcelona,Gabriel Torje,24,Romania,Right Winger,RW,3000000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+RCD Espanyol Barcelona,Jhon Córdoba,21,Colombia,Centre-Forward,CF,1000000.0,Chiapas FC,Mexico,0.0,out,summer,Laliga,2014,True,end of loan
+RCD Espanyol Barcelona,Eric Bailly,20,Cote d'Ivoire,Centre-Back,CB,1000000.0,Villarreal,Spain,5700000.0,out,winter,Laliga,2014,False,
+RCD Espanyol Barcelona,Raúl Rodríguez,27,Spain,Centre-Back,CB,1500000.0,Houston,United States,0.0,out,winter,Laliga,2014,False,
+RCD Espanyol Barcelona,Manu Lanzarote,31,Spain,Right Winger,RW,1500000.0,Alavés,Spain,0.0,out,winter,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Germán Parreño,21,Spain,Goalkeeper,GK,200000.0,Racing,Spain,0.0,out,winter,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Carlos Clerc,22,Spain,Left-Back,LB,400000.0,CE Sabadell,Spain,0.0,out,winter,Laliga,2014,True,free loan
+RCD Espanyol Barcelona,Álex Fernández,22,Spain,Attacking Midfield,AM,1000000.0,HNK Rijeka,Croatia,0.0,out,winter,Laliga,2014,True,free loan
+Rayo Vallecano,Johan Mojica,21,Colombia,Left-Back,LB,500000.0,Deportivo Cali,Colombia,500000.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Antonio Amaya,31,Spain,Centre-Back,CB,2000000.0,Real Betis,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Mohammed Fatau,21,Ghana,Defensive Midfield,DM,200000.0,Recre Granada,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Toño,34,Spain,Goalkeeper,GK,500000.0,Elche CF,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Licá,25,Portugal,Left Winger,LW,3500000.0,FC Porto,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Abdoulaye Ba,23,Senegal,Centre-Back,CB,2000000.0,FC Porto,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Alejandro Pozuelo,22,Spain,Attacking Midfield,AM,2000000.0,Swansea,England,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Álex Moreno,21,Spain,Left-Back,LB,800000.0,RCD Mallorca B,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Jorge Morcillo,28,Spain,Centre-Back,CB,600000.0,Recr. Huelva,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Jozabed Sánchez,23,Spain,Central Midfield,CM,400000.0,Real Jaén CF,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Manucho,31,Angola,Centre-Forward,CF,1500000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Diego Aguirre,23,Spain,Left Winger,LW,,CD Toledo,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Derek Boateng,31,Ghana,Defensive Midfield,DM,1500000.0,Fulham,England,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Quini,24,Spain,Right-Back,RB,300000.0,RM Castilla,Spain,0.0,in,summer,Laliga,2014,False,
+Rayo Vallecano,Leo Baptistão,21,Brazil,Right Winger,RW,6000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Cristian Álvarez,28,Argentina,Goalkeeper,GK,800000.0,San Lorenzo,Argentina,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Javier Aquino,24,Mexico,Left Winger,LW,3000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Jonathan Pereira,27,Spain,Centre-Forward,CF,2500000.0,Villarreal,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Gaël Kakuta,23,DR Congo,Attacking Midfield,AM,2500000.0,Chelsea,England,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Emiliano Insúa,25,Argentina,Left-Back,LB,5000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Alejandro Gálvez,25,Spain,Centre-Back,CB,2500000.0,Werder Bremen,Germany,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Rubén Martínez,30,Spain,Goalkeeper,GK,1200000.0,UD Almería,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Razvan Rat,33,Romania,Left-Back,LB,1500000.0,PAOK Salonika,Greece,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Adrián González,26,Spain,Central Midfield,CM,1500000.0,Elche CF,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Joaquín Larrivey,29,Argentina,Centre-Forward,CF,1000000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,José Carlos,26,Spain,Attacking Midfield,AM,1500000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Sebastián Fernández,29,Uruguay,Second Striker,SS,1500000.0,Nacional,Uruguay,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Alberto Perea,23,Spain,Left Winger,LW,300000.0,UE Llagostera,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Derek Boateng,31,Ghana,Defensive Midfield,DM,1500000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2014,False,
+Rayo Vallecano,Diego Aguirre,23,Spain,Left Winger,LW,600000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Anaitz Arbilla,27,Spain,Centre-Back,CB,1000000.0,Espanyol,Spain,,out,summer,Laliga,2014,False,
+Rayo Vallecano,Johan Mojica,21,Colombia,Left-Back,LB,500000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Rayo Vallecano,Nery Castillo,30,Mexico,Right Winger,RW,1000000.0,Retired,,,out,summer,Laliga,2014,False,
+Rayo Vallecano,Leonel Galeano,22,Argentina,Centre-Back,CB,800000.0,Without Club,,,out,summer,Laliga,2014,False,
+Rayo Vallecano,Johan Mojica,21,Colombia,Left-Back,LB,500000.0,Deportivo Cali,Colombia,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Saúl Ñíguez,19,Spain,Central Midfield,CM,7500000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Christian Cueva,22,Peru,Attacking Midfield,AM,800000.0,Española,Chile,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Iago Falque,24,Spain,Right Winger,RW,1800000.0,Spurs,England,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Jonathan Viera,24,Spain,Attacking Midfield,AM,4000000.0,Valencia,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Rubén Rochina,23,Spain,Right Winger,RW,1000000.0,Blackburn,England,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Samuele Longo,22,Italy,Centre-Forward,CF,2000000.0,Inter,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Borja López,20,Spain,Centre-Back,CB,1500000.0,Monaco,France,0.0,out,summer,Laliga,2014,True,end of loan
+Rayo Vallecano,Miku Fedor,29,Venezuela,Centre-Forward,CF,3000000.0,Al-Gharafa SC,Qatar,0.0,in,winter,Laliga,2014,False,
+Rayo Vallecano,Lass Bangoura,22,Guinea,Right Winger,RW,2500000.0,Granada CF,Spain,350000.0,out,winter,Laliga,2014,True,loan with fee
+Real Madrid,James Rodríguez,23,Colombia,Attacking Midfield,AM,35000000.0,Monaco,France,75000000.0,in,summer,Laliga,2014,False,
+Real Madrid,Toni Kroos,24,Germany,Central Midfield,CM,42000000.0,FC Bayern,Germany,25000000.0,in,summer,Laliga,2014,False,
+Real Madrid,Keylor Navas,27,Costa Rica,Goalkeeper,GK,10000000.0,Levante,Spain,10000000.0,in,summer,Laliga,2014,False,
+Real Madrid,Chicharito,26,Mexico,Centre-Forward,CF,14000000.0,Man Utd,England,3000000.0,in,summer,Laliga,2014,True,loan with fee
+Real Madrid,Ángel Di María,26,Argentina,Right Winger,RW,50000000.0,Man Utd,England,75000000.0,out,summer,Laliga,2014,False,
+Real Madrid,Álvaro Morata,21,Spain,Centre-Forward,CF,12000000.0,Juventus,Italy,20000000.0,out,summer,Laliga,2014,False,
+Real Madrid,Xabi Alonso,32,Spain,Defensive Midfield,DM,8000000.0,FC Bayern,Germany,9000000.0,out,summer,Laliga,2014,False,
+Real Madrid,Nuri Sahin,25,Turkey,Defensive Midfield,DM,12000000.0,Bor. Dortmund,Germany,7000000.0,out,summer,Laliga,2014,False,
+Real Madrid,Casemiro,22,Brazil,Defensive Midfield,DM,6000000.0,FC Porto,Portugal,1200000.0,out,summer,Laliga,2014,True,loan with fee
+Real Madrid,Jesús Fernández,26,Spain,Goalkeeper,GK,400000.0,Levante,Spain,500000.0,out,summer,Laliga,2014,False,
+Real Madrid,Diego López,32,Spain,Goalkeeper,GK,8000000.0,AC Milan,Italy,0.0,out,summer,Laliga,2014,False,
+Real Madrid,Denis Cheryshev,23,Russia,Left Winger,LW,3000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Madrid,Lucas Silva,21,Brazil,Defensive Midfield,DM,12000000.0,Cruzeiro,Brazil,13000000.0,in,winter,Laliga,2014,False,
+Real Sociedad,Alfred Finnbogason,25,Iceland,Centre-Forward,CF,9000000.0,Heerenveen,Netherlands,8000000.0,in,summer,Laliga,2014,False,
+Real Sociedad,Esteban Granero,27,Spain,Central Midfield,CM,5000000.0,QPR,England,4000000.0,in,summer,Laliga,2014,False,
+Real Sociedad,Raúl Navas,26,Spain,Centre-Back,CB,500000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2014,False,
+Real Sociedad,Iñaki Urkizu,24,Spain,Right-Back,RB,,Sestao River,Spain,,in,summer,Laliga,2014,False,
+Real Sociedad,Gero Rulli,22,Argentina,Goalkeeper,GK,800000.0,Maldonado,Uruguay,0.0,in,summer,Laliga,2014,True,free loan
+Real Sociedad,Antoine Griezmann,23,France,Second Striker,SS,30000000.0,Atlético Madrid,Spain,54000000.0,out,summer,Laliga,2014,False,
+Real Sociedad,Claudio Bravo,31,Chile,Goalkeeper,GK,4000000.0,FC Barcelona,Spain,12000000.0,out,summer,Laliga,2014,False,
+Real Sociedad,Haris Seferovic,22,Switzerland,Centre-Forward,CF,4000000.0,E. Frankfurt,Germany,3200000.0,out,summer,Laliga,2014,False,
+Real Sociedad,Mikel Abaroa,25,Spain,Attacking Midfield,AM,,UD Logroñés,Spain,0.0,out,summer,Laliga,2014,False,
+Real Sociedad,Raúl Navas,26,Spain,Centre-Back,CB,500000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Sociedad,Javi Ros,24,Spain,Central Midfield,CM,1500000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2014,False,
+Real Sociedad,Diego Ifrán,27,Uruguay,Centre-Forward,CF,1500000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Sociedad,Liassine Cadamuro,26,Algeria,Centre-Back,CB,800000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Sociedad,Pablo Hervías,22,Spain,Right Winger,RW,,CA Osasuna,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Sociedad,Iñaki Urkizu,24,Spain,Right-Back,RB,,Real Unión,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Real Sociedad,Óscar Vega,27,Spain,Attacking Midfield,AM,,Without Club,,,out,summer,Laliga,2014,False,
+Real Sociedad,José Ángel,24,Spain,Left-Back,LB,3000000.0,AS Roma,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Real Sociedad,Esteban Granero,26,Spain,Central Midfield,CM,5000000.0,QPR,England,0.0,out,summer,Laliga,2014,True,end of loan
+Real Sociedad,Ion Gaztañaga,23,Spain,Defensive Midfield,DM,1000000.0,Ponferradina,Spain,0.0,out,winter,Laliga,2014,True,free loan
+SD Eibar,Dani Nieto,23,Spain,Left Winger,LW,1000000.0,FC Barcelona B,Spain,150000.0,in,summer,Laliga,2014,False,
+SD Eibar,Josu Ozkoidi,24,Spain,Left-Back,LB,,Real Sociedad B,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Dejan Lekic,29,Serbia,Centre-Forward,CF,1000000.0,Genclerbirligi,Turkey,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Saúl Berjón,28,Spain,Left Winger,LW,,Real Murcia,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Ander Franco,25,Spain,Centre-Forward,CF,,Haro Deportivo,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Derek Boateng,31,Ghana,Defensive Midfield,DM,1500000.0,Rayo Vallecano,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Borja Ekiza,26,Spain,Centre-Back,CB,1500000.0,Athletic,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Jaime Jiménez,33,Spain,Goalkeeper,GK,600000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Ángel Rodríguez,27,Spain,Centre-Forward,CF,1000000.0,Levante,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Raúl Navas,26,Spain,Centre-Back,CB,500000.0,Real Sociedad,Spain,0.0,in,summer,Laliga,2014,True,free loan
+SD Eibar,Dani García,24,Spain,Central Midfield,CM,500000.0,Real Sociedad B,Spain,0.0,in,summer,Laliga,2014,False,
+SD Eibar,Javi Lara,28,Spain,Attacking Midfield,AM,400000.0,Ponferradina,Spain,12000.0,in,summer,Laliga,2014,False,
+SD Eibar,Aitor Ortega,21,Spain,Attacking Midfield,AM,,Arenas Club,Spain,,in,summer,Laliga,2014,False,
+SD Eibar,Abraham Minero,28,Spain,Left-Back,LB,1500000.0,Real Zaragoza,Spain,0.0,in,summer,Laliga,2014,True,free loan
+SD Eibar,Manu del Moral,30,Spain,Centre-Forward,CF,2000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2014,True,free loan
+SD Eibar,Federico Piovaccari,29,Italy,Centre-Forward,CF,2000000.0,Sampdoria,Italy,0.0,in,summer,Laliga,2014,True,free loan
+SD Eibar,Dídac Vilà,25,Spain,Left-Back,LB,2000000.0,AC Milan,Italy,0.0,in,summer,Laliga,2014,True,free loan
+SD Eibar,Raúl Navas,26,Spain,Centre-Back,CB,500000.0,Real Sociedad,Spain,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Matías Ibáñez,27,Argentina,Goalkeeper,GK,200000.0,Lanús,Argentina,0.0,out,summer,Laliga,2014,False,
+SD Eibar,David Mainz,29,Spain,Centre-Forward,CF,200000.0,AE Larisa,Greece,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Diego Jiménez,35,Spain,Central Midfield,CM,100000.0,Olímpic Xàtiva,Spain,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Urko Vera,27,Spain,Centre-Forward,CF,400000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Josu Ozkoidi,24,Spain,Left-Back,LB,,Real Unión,Spain,0.0,out,summer,Laliga,2014,True,free loan
+SD Eibar,Gorka Kijera,28,Spain,Left-Back,LB,200000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Diego Rivas,34,Spain,Central Midfield,CM,100000.0,UE Llagostera,Spain,0.0,out,summer,Laliga,2014,False,
+SD Eibar,Aitor Arregi,24,Spain,Centre-Back,CB,200000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2014,True,free loan
+SD Eibar,Aitor Ortega,22,Spain,Attacking Midfield,AM,,SD Amorebieta,Spain,0.0,out,summer,Laliga,2014,True,free loan
+SD Eibar,Ander Franco,25,Spain,Centre-Forward,CF,,CD Lagun Onak,Spain,0.0,out,summer,Laliga,2014,True,free loan
+SD Eibar,Julen Iriarte,22,Spain,Centre-Forward,CF,100000.0,RCD Mallorca B,Spain,0.0,out,summer,Laliga,2014,True,free loan
+SD Eibar,Yuri Berchiche,24,Spain,Left-Back,LB,600000.0,Real Sociedad,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,Alain Eizmendi,24,Spain,Right Winger,RW,300000.0,Real Sociedad B,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,José Luis Morales,26,Spain,Centre-Forward,CF,500000.0,Levante,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,Jota Peleteiro,23,Spain,Right Winger,RW,500000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,Esquerdinha,30,Brazil,Left Winger,LW,400000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,Dani García,24,Spain,Central Midfield,CM,500000.0,Real Sociedad B,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+SD Eibar,Borja Fernández,33,Spain,Defensive Midfield,DM,1000000.0,Atl. Kolkata,India,0.0,in,winter,Laliga,2014,False,
+SD Eibar,Rafa Páez,20,Spain,Centre-Back,CB,1000000.0,Liverpool,England,0.0,in,winter,Laliga,2014,True,free loan
+SD Eibar,Raúl Albentosa,26,Spain,Centre-Back,CB,2000000.0,Derby,England,600000.0,out,winter,Laliga,2014,False,
+Sevilla FC,Grzegorz Krychowiak,24,Poland,Defensive Midfield,DM,5000000.0,Stade Reims,France,5500000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Aleix Vidal,24,Spain,Right-Back,RB,2500000.0,UD Almería,Spain,3000000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Timothée Kolodziejczak,22,France,Centre-Back,CB,4500000.0,OGC Nice,France,3000000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Nicolás Pareja,30,Argentina,Centre-Back,CB,2500000.0,Spartak Moscow,Russia,2500000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Éver Banega,26,Argentina,Central Midfield,CM,8000000.0,Valencia,Spain,2500000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Benoît Trémoulinas,28,France,Left-Back,LB,6000000.0,Dynamo Kyiv,Ukraine,2500000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Daniel Carriço,25,Portugal,Centre-Back,CB,3000000.0,Reading,England,1800000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Mariano Barbosa,29,Argentina,Goalkeeper,GK,1200000.0,UD Las Palmas,Spain,150000.0,in,summer,Laliga,2014,False,
+Sevilla FC,Denis Suárez,20,Spain,Attacking Midfield,AM,3500000.0,FC Barcelona,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Sevilla FC,Alejandro Arribas,25,Spain,Centre-Back,CB,4000000.0,CA Osasuna,Spain,0.0,in,summer,Laliga,2014,False,
+Sevilla FC,Stéphane Mbia,28,Cameroon,Defensive Midfield,DM,9000000.0,QPR,England,0.0,in,summer,Laliga,2014,False,
+Sevilla FC,Iago Aspas,26,Spain,Centre-Forward,CF,7000000.0,Liverpool,England,0.0,in,summer,Laliga,2014,True,free loan
+Sevilla FC,Gerard Deulofeu,20,Spain,Left Winger,LW,12000000.0,FC Barcelona,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Sevilla FC,Ivan Rakitic,26,Croatia,Central Midfield,CM,20000000.0,FC Barcelona,Spain,18000000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Alberto Moreno,22,Spain,Left-Back,LB,15000000.0,Liverpool,England,18000000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Federico Fazio,27,Argentina,Centre-Back,CB,8000000.0,Spurs,England,10000000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Jairo Samperio,21,Spain,Left Winger,LW,3500000.0,1.FSV Mainz 05,Germany,2200000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Alberto Botía,25,Spain,Centre-Back,CB,5000000.0,Olympiacos,Greece,2000000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Diego Perotti,25,Argentina,Left Winger,LW,3250000.0,Genoa,Italy,350000.0,out,summer,Laliga,2014,False,
+Sevilla FC,Javi Hervás,25,Spain,Central Midfield,CM,800000.0,CE Sabadell,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Sevilla FC,Javi Varas,31,Spain,Goalkeeper,GK,1000000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2014,False,
+Sevilla FC,Raul Rusescu,26,Romania,Centre-Forward,CF,3000000.0,Steaua Bukarest,Romania,0.0,out,summer,Laliga,2014,True,free loan
+Sevilla FC,Julián Cuesta,23,Spain,Goalkeeper,GK,300000.0,UD Almería,Spain,,out,summer,Laliga,2014,False,
+Sevilla FC,Tiberio Guarente,28,Italy,Central Midfield,CM,500000.0,FC Empoli,Italy,,out,summer,Laliga,2014,False,
+Sevilla FC,Manu del Moral,30,Spain,Centre-Forward,CF,2000000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Sevilla FC,Bryan Rabello,20,Chile,Attacking Midfield,AM,2500000.0,FC Luzern,Switzerland,0.0,out,summer,Laliga,2014,True,free loan
+Sevilla FC,Baba Diawara,26,Senegal,Centre-Forward,CF,1000000.0,Getafe,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Sevilla FC,Miroslav Stevanovic,24,Bosnia-Herzegovina,Right Midfield,RM,500000.0,Without Club,,,out,summer,Laliga,2014,False,
+Sevilla FC,Marko Marin,25,Germany,Attacking Midfield,AM,5000000.0,Chelsea,England,0.0,out,summer,Laliga,2014,True,end of loan
+Sevilla FC,Nicolás Pareja,30,Argentina,Centre-Back,CB,2500000.0,Spartak Moscow,Russia,0.0,out,summer,Laliga,2014,True,end of loan
+Sevilla FC,Daniel Carriço,25,Portugal,Centre-Back,CB,3000000.0,Reading,England,0.0,out,summer,Laliga,2014,True,end of loan
+Sevilla FC,Stéphane Mbia,28,Cameroon,Defensive Midfield,DM,9000000.0,QPR,England,0.0,out,summer,Laliga,2014,True,end of loan
+Sevilla FC,Denis Cheryshev,23,Russia,Left Winger,LW,3000000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Sevilla FC,Cicinho,28,Brazil,Right-Back,RB,500000.0,CD Numancia,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Sevilla FC,Bryan Rabello,20,Chile,Attacking Midfield,AM,1500000.0,CD Leganés,Spain,0.0,out,winter,Laliga,2014,True,free loan
+UD Almería,Rubén Martínez,30,Spain,Goalkeeper,GK,1200000.0,Rayo Vallecano,Spain,0.0,in,summer,Laliga,2014,False,
+UD Almería,Ximo Navarro,24,Spain,Right-Back,RB,1200000.0,RCD Mallorca,Spain,0.0,in,summer,Laliga,2014,False,
+UD Almería,Tomer Hemed,27,Israel,Centre-Forward,CF,2000000.0,RCD Mallorca,Spain,0.0,in,summer,Laliga,2014,False,
+UD Almería,Quique González,24,Spain,Centre-Forward,CF,200000.0,CD Guadalajara,Spain,0.0,in,summer,Laliga,2014,False,
+UD Almería,Wellington Silva,21,Brazil,Right Winger,RW,400000.0,Arsenal,England,0.0,in,summer,Laliga,2014,True,free loan
+UD Almería,Mauro dos Santos,25,Argentina,Centre-Back,CB,1000000.0,Real Murcia,Spain,0.0,in,summer,Laliga,2014,False,
+UD Almería,Thievy Bifouma,22,Congo,Right Winger,RW,2000000.0,Espanyol,Spain,0.0,in,summer,Laliga,2014,True,free loan
+UD Almería,Teerasil Dangda,26,Thailand,Centre-Forward,CF,300000.0,Muangthong Utd.,Thailand,0.0,in,summer,Laliga,2014,True,free loan
+UD Almería,Julián Cuesta,23,Spain,Goalkeeper,GK,300000.0,Sevilla FC,Spain,,in,summer,Laliga,2014,False,
+UD Almería,Aleix Vidal,24,Spain,Right-Back,RB,2500000.0,Sevilla FC,Spain,3000000.0,out,summer,Laliga,2014,False,
+UD Almería,Esteban,39,Spain,Goalkeeper,GK,100000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2014,False,
+UD Almería,Marcos Tébar,28,Spain,Defensive Midfield,DM,1500000.0,Brentford,England,0.0,out,summer,Laliga,2014,False,
+UD Almería,Rafita,31,Spain,Right-Back,RB,800000.0,Real Murcia,Spain,0.0,out,summer,Laliga,2014,False,
+UD Almería,Óscar Díaz,30,Spain,Centre-Forward,CF,1200000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2014,False,
+UD Almería,Raúl Carnero,25,Spain,Left-Back,LB,400000.0,Alavés,Spain,0.0,out,summer,Laliga,2014,False,
+UD Almería,Marcelo Silva,25,Uruguay,Centre-Back,CB,500000.0,UD Las Palmas,Spain,0.0,out,summer,Laliga,2014,False,
+UD Almería,Rodri Ríos,24,Spain,Centre-Forward,CF,2000000.0,FC Barcelona B,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Suso,20,Spain,Right Winger,RW,5000000.0,Liverpool,England,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Nélson,31,Portugal,Right-Back,RB,1200000.0,US Palermo,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Marco Torsiglieri,26,Argentina,Centre-Back,CB,3000000.0,Metalist,Ukraine,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Hélder Barbosa,27,Portugal,Left Winger,LW,2000000.0,Braga,Portugal,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Hans Martínez,27,Chile,Centre-Back,CB,800000.0,CDUC,Chile,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,Julián Cuesta,23,Spain,Goalkeeper,GK,300000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+UD Almería,José Manuel Casado,28,Spain,Left-Back,LB,800000.0,Málaga CF,Spain,0.0,in,winter,Laliga,2014,False,
+UD Almería,Javier Espinosa,22,Spain,Central Midfield,CM,3000000.0,Villarreal,Spain,0.0,in,winter,Laliga,2014,True,free loan
+UD Almería,Quique González,24,Spain,Centre-Forward,CF,200000.0,Racing,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Valencia CF,Nicolás Otamendi,26,Argentina,Centre-Back,CB,12000000.0,FC Porto,Portugal,12000000.0,in,summer,Laliga,2014,False,
+Valencia CF,Shkodran Mustafi,22,Germany,Centre-Back,CB,7000000.0,Sampdoria,Italy,8000000.0,in,summer,Laliga,2014,False,
+Valencia CF,Rodrigo de Paul,20,Argentina,Central Midfield,CM,3500000.0,Racing Club,Argentina,4800000.0,in,summer,Laliga,2014,False,
+Valencia CF,Lucas Orbán,25,Argentina,Centre-Back,CB,3500000.0,G. Bordeaux,France,3500000.0,in,summer,Laliga,2014,False,
+Valencia CF,André Gomes,20,Portugal,Central Midfield,CM,5000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Yoel Rodríguez,25,Spain,Goalkeeper,GK,3000000.0,Celta de Vigo,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Rodrigo,23,Spain,Centre-Forward,CF,12000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,João Cancelo,20,Portugal,Right-Back,RB,2000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Bruno Zuculini,21,Argentina,Defensive Midfield,DM,3000000.0,Man City,England,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Filipe Augusto,21,Brazil,Defensive Midfield,DM,2000000.0,Rio Ave FC,Portugal,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Álvaro Negredo,29,Spain,Centre-Forward,CF,24000000.0,Man City,England,0.0,in,summer,Laliga,2014,True,free loan
+Valencia CF,Jérémy Mathieu,30,France,Centre-Back,CB,12000000.0,FC Barcelona,Spain,20000000.0,out,summer,Laliga,2014,False,
+Valencia CF,Juan Bernat,21,Spain,Left-Back,LB,4000000.0,FC Bayern,Germany,10000000.0,out,summer,Laliga,2014,False,
+Valencia CF,Dorlan Pabón,26,Colombia,Right Winger,RW,5000000.0,Monterrey,Mexico,6000000.0,out,summer,Laliga,2014,False,
+Valencia CF,Adil Rami,28,France,Centre-Back,CB,8000000.0,AC Milan,Italy,4250000.0,out,summer,Laliga,2014,False,
+Valencia CF,Éver Banega,26,Argentina,Central Midfield,CM,8000000.0,Sevilla FC,Spain,2500000.0,out,summer,Laliga,2014,False,
+Valencia CF,Aly Cissokho,26,France,Left-Back,LB,5000000.0,Aston Villa,England,2500000.0,out,summer,Laliga,2014,False,
+Valencia CF,Jonathan Viera,24,Spain,Attacking Midfield,AM,6000000.0,Standard Liège,Belgium,2000000.0,out,summer,Laliga,2014,False,
+Valencia CF,Philippe Senderos,29,Switzerland,Centre-Back,CB,2500000.0,Aston Villa,England,0.0,out,summer,Laliga,2014,False,
+Valencia CF,Hélder Postiga,32,Portugal,Centre-Forward,CF,2000000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2014,False,
+Valencia CF,Vicente Guaita,27,Spain,Goalkeeper,GK,3000000.0,Getafe,Spain,0.0,out,summer,Laliga,2014,False,
+Valencia CF,Ricardo Costa,33,Portugal,Centre-Back,CB,2000000.0,Al-Sailiya SC,Qatar,0.0,out,summer,Laliga,2014,False,
+Valencia CF,Seydou Keita,34,Mali,Central Midfield,CM,1500000.0,AS Roma,Italy,0.0,out,summer,Laliga,2014,False,
+Valencia CF,Míchel Herrero,25,Spain,Central Midfield,CM,2500000.0,Getafe,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Valencia CF,Víctor Ruiz,25,Spain,Centre-Back,CB,4000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Valencia CF,Vinícius Araújo,21,Brazil,Centre-Forward,CF,3000000.0,Standard Liège,Belgium,0.0,out,summer,Laliga,2014,True,free loan
+Valencia CF,Andrés Guardado,27,Mexico,Central Midfield,CM,6000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Laliga,2014,True,free loan
+Valencia CF,Fede Cartabia,21,Argentina,Right Winger,RW,3000000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Valencia CF,Jonas,30,Brazil,Second Striker,SS,8000000.0,Without Club,,,out,summer,Laliga,2014,False,
+Valencia CF,Oriol Romeu,22,Spain,Defensive Midfield,DM,7000000.0,Chelsea,England,0.0,out,summer,Laliga,2014,True,end of loan
+Valencia CF,Eduardo Vargas,24,Chile,Second Striker,SS,6000000.0,SSC Napoli,Italy,0.0,out,summer,Laliga,2014,True,end of loan
+Valencia CF,Enzo Pérez,28,Argentina,Defensive Midfield,DM,23000000.0,Benfica,Portugal,25000000.0,in,winter,Laliga,2014,False,
+Valencia CF,Carles Gil,22,Spain,Attacking Midfield,AM,6000000.0,Aston Villa,England,4200000.0,out,winter,Laliga,2014,False,
+Valencia CF,Míchel Herrero,26,Spain,Central Midfield,CM,2500000.0,GZ R&F,China,4000000.0,out,winter,Laliga,2014,False,
+Valencia CF,João Pereira,30,Portugal,Right-Back,RB,3000000.0,Hannover 96,Germany,0.0,out,winter,Laliga,2014,False,
+Valencia CF,Rober Ibáñez,21,Spain,Right Winger,RW,1000000.0,Granada CF,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Villarreal CF,Luciano Vietto,20,Argentina,Centre-Forward,CF,8500000.0,Racing Club,Argentina,5500000.0,in,summer,Laliga,2014,False,
+Villarreal CF,Sergio Asenjo,25,Spain,Goalkeeper,GK,5000000.0,Atlético Madrid,Spain,5000000.0,in,summer,Laliga,2014,False,
+Villarreal CF,Jonathan dos Santos,24,Mexico,Central Midfield,CM,3000000.0,FC Barcelona,Spain,1500000.0,in,summer,Laliga,2014,False,
+Villarreal CF,Antonio Rukavina,30,Serbia,Right-Back,RB,4000000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2014,False,
+Villarreal CF,Javier Espinosa,21,Spain,Central Midfield,CM,1500000.0,FC Barcelona B,Spain,0.0,in,summer,Laliga,2014,False,
+Villarreal CF,Denis Cheryshev,23,Russia,Left Winger,LW,3000000.0,Real Madrid,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Villarreal CF,Víctor Ruiz,25,Spain,Centre-Back,CB,4000000.0,Valencia,Spain,0.0,in,summer,Laliga,2014,True,free loan
+Villarreal CF,Jonathan de Guzmán,26,Netherlands,Central Midfield,CM,10000000.0,SSC Napoli,Italy,6000000.0,out,summer,Laliga,2014,False,
+Villarreal CF,Jérémy Perbet,29,France,Centre-Forward,CF,2500000.0,Basaksehir,Turkey,1500000.0,out,summer,Laliga,2014,False,
+Villarreal CF,Florian Lejeune,23,France,Centre-Back,CB,,Girona,Spain,0.0,out,summer,Laliga,2014,False,
+Villarreal CF,Pablo Iñiguez,20,Spain,Centre-Back,CB,1000000.0,Girona,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Villarreal CF,Aleksandar Pantic,22,Serbia,Centre-Back,CB,1000000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Villarreal CF,Jonathan Pereira,27,Spain,Centre-Forward,CF,2500000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Villarreal CF,Javier Aquino,24,Mexico,Left Winger,LW,3000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2014,True,free loan
+Villarreal CF,Sergio Asenjo,25,Spain,Goalkeeper,GK,5000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Villarreal CF,Joan Román,21,Spain,Left Winger,LW,1000000.0,FC Barcelona B,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Villarreal CF,Óliver Torres,19,Spain,Central Midfield,CM,8000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2014,True,end of loan
+Villarreal CF,Eric Bailly,20,Cote d'Ivoire,Centre-Back,CB,1000000.0,Espanyol,Spain,5700000.0,in,winter,Laliga,2014,False,
+Villarreal CF,Joel Campbell,22,Costa Rica,Centre-Forward,CF,7500000.0,Arsenal,England,1000000.0,in,winter,Laliga,2014,True,loan with fee
+Villarreal CF,Gabriel Paulista,24,Brazil,Centre-Back,CB,8000000.0,Arsenal,England,15000000.0,out,winter,Laliga,2014,False,
+Villarreal CF,Jonathan Pereira,27,Spain,Centre-Forward,CF,2500000.0,Real Valladolid,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Villarreal CF,Cani,33,Spain,Attacking Midfield,AM,2500000.0,Atlético Madrid,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Villarreal CF,Javier Espinosa,22,Spain,Central Midfield,CM,3000000.0,UD Almería,Spain,0.0,out,winter,Laliga,2014,True,free loan
+Villarreal CF,Hernán Pérez,25,Paraguay,Right Winger,RW,1500000.0,Real Valladolid,Spain,0.0,out,winter,Laliga,2014,True,free loan

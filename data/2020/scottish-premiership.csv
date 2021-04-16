@@ -1,0 +1,351 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aberdeen FC,Jonny Hayes,32,Ireland,Right Midfield,RM,600000.0,Celtic,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Ryan Edmondson,19,England,Centre-Forward,CF,,Leeds U23,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Tommie Hoban,26,Ireland,Centre-Back,CB,400000.0,Without Club,,0.0,in,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Greg Leigh,26,Jamaica,Left-Back,LB,350000.0,NAC Breda,Netherlands,0.0,in,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Gary Woods,30,England,Goalkeeper,GK,300000.0,Oldham Athletic,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Ross McCrorie,22,Scotland,Defensive Midfield,DM,900000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Marley Watkins,29,Wales,Right Winger,RW,475000.0,Bristol City,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Scott McKenna,23,Scotland,Centre-Back,CB,2000000.0,Nottm Forest,England,3270000.0,out,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Danny Rogers,26,Ireland,Goalkeeper,GK,200000.0,Kilmarnock FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Craig Bryson,33,Scotland,Central Midfield,CM,500000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Aberdeen FC,Miko Virtanen,21,Finland,Central Midfield,CM,200000.0,Arbroath,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Jack MacKenzie,20,Scotland,Left-Back,LB,,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Ethan Ross,19,Scotland,Left Midfield,LM,100000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Bruce Anderson,22,Scotland,Centre-Forward,CF,300000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Greg Leigh,25,Jamaica,Left-Back,LB,350000.0,NAC Breda,Netherlands,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Aberdeen FC,Fraser Hornby,21,Scotland,Centre-Forward,CF,2000000.0,Stade Reims,France,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Callum Hendry,23,Scotland,Centre-Forward,CF,350000.0,St. Johnstone,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Florian Kamberi,25,Albania,Centre-Forward,CF,700000.0,FC St. Gallen,Switzerland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Sam Cosgrove,24,England,Centre-Forward,CF,1000000.0,Birmingham,England,2250000.0,out,winter,Scottish Premiership,2020,False,
+Aberdeen FC,Bruce Anderson,22,Scotland,Centre-Forward,CF,275000.0,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Curtis Main,28,England,Centre-Forward,CF,400000.0,Shrewsbury,England,,out,winter,Scottish Premiership,2020,False,
+Aberdeen FC,Shay Logan,33,England,Right-Back,RB,300000.0,Heart of Midl.,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Tomas Cerny,35,Czech Republic,Goalkeeper,GK,300000.0,Retired,,,out,winter,Scottish Premiership,2020,False,
+Aberdeen FC,Funso Ojo,29,Belgium,Central Midfield,CM,400000.0,Wigan,England,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Aberdeen FC,Ronald Hernández,23,Venezuela,Right-Back,RB,300000.0,Atlanta United,United States,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Celtic FC,Albian Ajeti,23,Switzerland,Centre-Forward,CF,4800000.0,West Ham,England,5500000.0,in,summer,Scottish Premiership,2020,False,
+Celtic FC,Vasilios Barkas,26,Greece,Goalkeeper,GK,2400000.0,AEK Athens,Greece,5000000.0,in,summer,Scottish Premiership,2020,False,
+Celtic FC,David Turnbull,21,Scotland,Central Midfield,CM,1800000.0,Motherwell FC,Scotland,3000000.0,in,summer,Scottish Premiership,2020,False,
+Celtic FC,Shane Duffy,28,Ireland,Centre-Back,CB,9500000.0,Brighton,England,2200000.0,in,summer,Scottish Premiership,2020,True,loan with fee
+Celtic FC,Diego Laxalt,27,Uruguay,Left-Back,LB,5000000.0,AC Milan,Italy,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Celtic FC,Eboue Kouassi,22,Cote d'Ivoire,Defensive Midfield,DM,800000.0,KRC Genk,Belgium,1500000.0,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Jonny Hayes,32,Ireland,Right Midfield,RM,600000.0,Aberdeen FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Craig Gordon,37,Scotland,Goalkeeper,GK,800000.0,Heart of Midl.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Calvin Miller,22,Scotland,Left-Back,LB,225000.0,Harrogate Town,England,0.0,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Kundai Benyu,22,Zimbabwe,Central Midfield,CM,150000.0,Wealdstone FC,England,0.0,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Jack Hendry,25,Scotland,Centre-Back,CB,800000.0,KV Oostende,Belgium,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Celtic FC,Vakoun Issouf Bayo,23,Cote d'Ivoire,Centre-Forward,CF,525000.0,Toulouse,France,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Celtic FC,Maryan Shved,23,Ukraine,Right Winger,RW,800000.0,KV Mechelen,Belgium,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Celtic FC,Boli Bolingoli,25,Belgium,Left-Back,LB,2800000.0,Basaksehir,Turkey,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Celtic FC,Jozo Simunovic,25,Croatia,Centre-Back,CB,2500000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Celtic FC,Fraser Forster,32,England,Goalkeeper,GK,6500000.0,Southampton,England,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Celtic FC,Daniel Arzani,21,Australia,Left Winger,LW,900000.0,Man City,England,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Celtic FC,Jonjoe Kenny,23,England,Right-Back,RB,7000000.0,Everton,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Celtic FC,Jeremie Frimpong,20,Netherlands,Right-Back,RB,4000000.0,Bay. Leverkusen,Germany,11000000.0,out,winter,Scottish Premiership,2020,False,
+Celtic FC,Hatem Abd Elhamed,29,Israel,Centre-Back,CB,700000.0,H. Beer Sheva,Israel,900000.0,out,winter,Scottish Premiership,2020,False,
+Celtic FC,Andrew Gutman,24,United States,Left-Back,LB,600000.0,Atlanta United,United States,0.0,out,winter,Scottish Premiership,2020,False,
+Celtic FC,Olivier Ntcham,24,France,Central Midfield,CM,3500000.0,Marseille,France,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Celtic FC,Luca Connell,19,Ireland,Defensive Midfield,DM,50000.0,Queen's Park,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Celtic FC,Ewan Henderson,20,Scotland,Attacking Midfield,AM,250000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Jack Newman,18,Scotland,Goalkeeper,GK,,Sunderland U18,England,0.0,in,summer,Scottish Premiership,2020,False,
+Dundee United FC,Ryan Edwards,26,England,Centre-Back,CB,100000.0,Blackpool,England,0.0,in,summer,Scottish Premiership,2020,False,
+Dundee United FC,Florent Hoti,19,Kosovo,Central Midfield,CM,,Without Club,,0.0,in,summer,Scottish Premiership,2020,False,
+Dundee United FC,Luke Bolton,20,England,Right Midfield,RM,2300000.0,Man City U23,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Jeando Fuchs,22,Cameroon,Defensive Midfield,DM,1200000.0,Alavés,Spain,,in,summer,Scottish Premiership,2020,False,
+Dundee United FC,Marc McNulty,28,Scotland,Centre-Forward,CF,650000.0,Reading,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Paul Watson,29,Scotland,Centre-Back,CB,300000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Dundee United FC,Sam Wardrop,22,Scotland,Right-Back,RB,100000.0,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Dundee United FC,Jake Davidson,19,Scotland,Centre-Back,CB,,Waterford FC,Ireland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Rakish Bingham,26,England,Centre-Forward,CF,250000.0,Ebbsfleet Utd,England,0.0,out,summer,Scottish Premiership,2020,False,
+Dundee United FC,Kieran Freeman,20,Scotland,Centre-Back,CB,25000.0,Peterhead,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Archie Meekison,18,Scotland,Attacking Midfield,AM,,Spartans,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Ross Graham,19,Scotland,Centre-Back,CB,,Cove Rangers,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Florent Hoti,19,Kosovo,Central Midfield,CM,,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Chris Mochrie,17,Scotland,Attacking Midfield,AM,50000.0,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Cammy Smith,25,Scotland,Second Striker,SS,275000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Dundee United FC,Osman Sow,30,Sweden,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Dundee United FC,Cammy Smith,25,Scotland,Second Striker,SS,300000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2020,False,
+Dundee United FC,Jake Davidson,20,Scotland,Centre-Back,CB,,Arbroath,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Paul McMullan,24,Scotland,Right Midfield,RM,400000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Adam King,25,Scotland,Central Midfield,CM,150000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Chris Mochrie,17,Scotland,Attacking Midfield,AM,50000.0,Montrose,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Kieran Freeman,20,Scotland,Centre-Back,CB,25000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Ross Graham,20,Scotland,Centre-Back,CB,25000.0,Cove Rangers,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Lewis Neilson,17,Scotland,Right-Back,RB,250000.0,Falkirk,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Dundee United FC,Kai Fotheringham,17,Scotland,Left Winger,LW,50000.0,Falkirk,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Callum Smith,20,Scotland,Centre-Forward,CF,100000.0,Dunfermline A.,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Ross Callachan,26,Scotland,Central Midfield,CM,250000.0,St. Johnstone,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Charlie Trafford,28,Canada,Central Midfield,CM,200000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Justin Johnson,23,Netherlands,Right Winger,RW,,Othellos Athienou,Cyprus,0.0,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Ryan Scully,27,Ireland,Goalkeeper,GK,225000.0,Dunfermline A.,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Tunde Owolabi,24,Nigeria,Centre-Forward,CF,,FC United,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Hakeem Odoffin,22,England,Right-Back,RB,100000.0,Livingston FC,Scotland,,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Lee Hodson,28,Northern Ireland,Right-Back,RB,200000.0,Gillingham FC,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Ben Stirling,22,Scotland,Centre-Back,CB,100000.0,Hibernian FC,Scotland,,in,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,George Oakley,24,England,Centre-Forward,CF,300000.0,FC Pirin,Bulgaria,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Aaron McGowan,23,England,Right-Back,RB,300000.0,Kilmarnock FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Mickel Miller,24,England,Centre-Forward,CF,300000.0,Rotherham,England,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Alex Gogic,26,Cyprus,Defensive Midfield,DM,300000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Blair Alston,28,Scotland,Right Midfield,RM,300000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Owain Fôn Williams,33,Wales,Goalkeeper,GK,250000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Ciaran McKenna,22,Scotland,Centre-Back,CB,200000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Ross Cunningham,22,Scotland,Left Midfield,LM,150000.0,Clyde FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Markus Fjörtoft,26,Norway,Centre-Back,CB,200000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Steve Davies,32,England,Centre-Forward,CF,250000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Jack Breen,21,Scotland,Central Midfield,CM,50000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Johnny Hunt,29,England,Left-Back,LB,100000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Hamilton Academical FC,Sean Slaven,19,Scotland,Centre-Forward,CF,,Linlithgow Rose,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Bruce Anderson,22,Scotland,Centre-Forward,CF,275000.0,Aberdeen FC,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Aaron Martin,31,England,Centre-Back,CB,200000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Hamilton Academical FC,Nathan Thomas,26,England,Left Winger,LW,250000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Hamilton Academical FC,Will Collar,24,England,Defensive Midfield,DM,250000.0,Stockport,England,0.0,out,winter,Scottish Premiership,2020,False,
+Hamilton Academical FC,Tunde Owolabi,24,Nigeria,Centre-Forward,CF,200000.0,Finn Harps,Ireland,0.0,out,winter,Scottish Premiership,2020,False,
+Hamilton Academical FC,Sean Slaven,19,Scotland,Centre-Forward,CF,,Brechin City,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hamilton Academical FC,Justin Johnson,24,Netherlands,Right Winger,RW,50000.0,Without Club,,,out,winter,Scottish Premiership,2020,False,
+Hibernian FC,Kevin Nisbet,23,Scotland,Centre-Forward,CF,300000.0,Dunfermline A.,Scotland,280000.0,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Drey Wright,25,England,Right Midfield,RM,300000.0,St. Johnstone,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Alex Gogic,26,Cyprus,Defensive Midfield,DM,300000.0,Hamilton Acad.,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Stephen McGinn,31,Scotland,Central Midfield,CM,300000.0,St. Mirren,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Dillon Barnes,24,England,Goalkeeper,GK,50000.0,QPR,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Hibernian FC,Kyle Magennis,22,Scotland,Right Midfield,RM,350000.0,St. Mirren,Scotland,,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Jamie Murphy,31,Scotland,Left Winger,LW,800000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Hibernian FC,Craig Samson,36,Scotland,Goalkeeper,GK,,Retired,,,in,summer,Scottish Premiership,2020,False,
+Hibernian FC,Florian Kamberi,25,Albania,Centre-Forward,CF,700000.0,FC St. Gallen,Switzerland,170000.0,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Ádám Bogdán,32,Hungary,Goalkeeper,GK,325000.0,Ferencváros,Hungary,0.0,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Steven Whittaker,36,Scotland,Right-Back,RB,250000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Vykintas Slivka,25,Lithuania,Central Midfield,CM,300000.0,Apollon Smyrnis,Greece,0.0,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Adam Jackson,26,England,Centre-Back,CB,350000.0,Lincoln City,England,,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Daryl Horgan,28,Ireland,Left Midfield,LM,500000.0,Wycombe,England,,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Maciej Dabrowski,22,Poland,Goalkeeper,GK,,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Hibernian FC,Tom James,24,Wales,Right-Back,RB,200000.0,Wigan,England,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Hibernian FC,Fraser Murray,21,Scotland,Left Midfield,LM,100000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Hibernian FC,Ben Stirling,22,Scotland,Centre-Back,CB,100000.0,Hamilton Acad.,Scotland,,out,summer,Scottish Premiership,2020,False,
+Hibernian FC,Stephane Omeonga,24,Belgium,Central Midfield,CM,800000.0,Genoa,Italy,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Hibernian FC,Matt Macey,26,England,Goalkeeper,GK,250000.0,Arsenal,England,0.0,in,winter,Scottish Premiership,2020,False,
+Hibernian FC,Chris Cadden,24,Scotland,Right Midfield,RM,800000.0,Columbus Crew,United States,,in,winter,Scottish Premiership,2020,False,
+Hibernian FC,Jackson Irvine,27,Australia,Central Midfield,CM,2500000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Hibernian FC,Stevie Mallan,24,Scotland,Central Midfield,CM,600000.0,Y. Malatyaspor,Turkey,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Jamie Gullan,21,Scotland,Centre-Forward,CF,300000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Ryan Shanley,20,Scotland,Centre-Forward,CF,,Finn Harps,Ireland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Stephen McGinn,32,Scotland,Central Midfield,CM,250000.0,Morton,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Scott Allan,29,Scotland,Attacking Midfield,AM,850000.0,Inverness CT,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Ryan Shanley,19,Scotland,Centre-Forward,CF,,Kelty Hearts,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Hibernian FC,Tom James,24,Wales,Right-Back,RB,200000.0,Salford,England,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Aaron McGowan,23,England,Right-Back,RB,300000.0,Hamilton Acad.,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Mitch Pinnock,25,England,Left Winger,LW,,AFC Wimbledon,England,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Danny Whitehall,24,England,Centre-Forward,CF,,Maidenhead Utd.,England,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Brandon Haunstrup,23,England,Left-Back,LB,50000.0,Portsmouth,England,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Danny Rogers,26,Ireland,Goalkeeper,GK,200000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Aaron Tshibola,25,DR Congo,Central Midfield,CM,800000.0,Desportivo Aves,Portugal,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Clévid Dikamona,30,Congo,Centre-Back,CB,300000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Zeno Ibsen Rossi,19,England,Centre-Back,CB,,Bournemouth U21,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Jake Eastwood,23,England,Goalkeeper,GK,100000.0,Sheff Utd,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Colin Doyle,35,Ireland,Goalkeeper,GK,100000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Youssouf Mulumbu,33,DR Congo,Defensive Midfield,DM,600000.0,Without Club,,,in,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Stephen Hendrie,25,Scotland,Left-Back,LB,250000.0,Morecambe FC,England,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Iain Wilson,21,Scotland,Defensive Midfield,DM,200000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Jamie MacDonald,34,Scotland,Goalkeeper,GK,250000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Jan Koprivec,32,Slovenia,Goalkeeper,GK,325000.0,Tabor Sezana,Slovenia,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Harry Bunn,27,England,Left Winger,LW,325000.0,York City,England,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Stephen O'Donnell,28,Scotland,Right-Back,RB,550000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Kyle Connell,18,Scotland,Centre-Forward,CF,,Airdrieonians,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Mohamed El Makrini,33,Netherlands,Defensive Midfield,DM,300000.0,Start,Norway,,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Innes Cameron,20,Scotland,Centre-Forward,CF,50000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Dom Thomas,24,Scotland,Right Midfield,RM,150000.0,Dunfermline A.,Scotland,,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Adam Frizzell,22,Scotland,Central Midfield,CM,200000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Devlin Mackay,23,Scotland,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Kilmarnock FC,Harvey St Clair,21,Scotland,Left Winger,LW,325000.0,Venezia,Italy,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Kilmarnock FC,George Oakley,25,England,Centre-Forward,CF,300000.0,FC Pirin,Bulgaria,0.0,in,winter,Scottish Premiership,2020,False,
+Kilmarnock FC,Zech Medley,20,England,Centre-Back,CB,,Arsenal U23,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Diaguely Dabo,28,France,Defensive Midfield,DM,150000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Kilmarnock FC,Brandon Pierrick,19,England,Centre-Forward,CF,250000.0,Palace U23,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Kyle Lafferty,33,Northern Ireland,Centre-Forward,CF,400000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Kilmarnock FC,Stuart Findlay,25,Scotland,Centre-Back,CB,600000.0,Philadelphia,United States,273000.0,out,winter,Scottish Premiership,2020,False,
+Kilmarnock FC,Innes Cameron,20,Scotland,Centre-Forward,CF,100000.0,Alloa Athletic,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Tomas Brindley,19,Scotland,Central Midfield,CM,100000.0,Dumbarton,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Ally Taylor,19,Scotland,Central Midfield,CM,50000.0,Stranraer,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Kilmarnock FC,Eamonn Brophy,24,Scotland,Centre-Forward,CF,700000.0,St. Mirren,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Livingston FC,Alan Forrest,23,Scotland,Right Midfield,RM,300000.0,Ayr United,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Jack Fitzwater,22,England,Centre-Back,CB,150000.0,West Brom U23,England,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Matej Poplatnik,27,Slovenia,Centre-Forward,CF,200000.0,Kerala Blasters,India,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Salim Kouider-Aïssa,24,Scotland,Centre-Forward,CF,,Queen's Park,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Max Stryjek,24,Poland,Goalkeeper,GK,,Eastleigh FC,England,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Jason Holt,27,Scotland,Central Midfield,CM,325000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Lars Lokotsch,24,Germany,Centre-Forward,CF,125000.0,SV Rödinghausen,Germany,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Julien Serrano,22,France,Left-Back,LB,900000.0,Monaco,France,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Anthony Stokes,32,Ireland,Centre-Forward,CF,400000.0,Persepolis,Iran,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Josh Mullin,28,Scotland,Right Midfield,RM,400000.0,Ross County,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Robby McCrorie,22,Scotland,Goalkeeper,GK,200000.0,Rangers Res.,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Ciaron Brown,22,Northern Ireland,Centre-Back,CB,75000.0,Cardiff,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Jay Emmanuel-Thomas,29,England,Centre-Forward,CF,325000.0,Without Club,,,in,summer,Scottish Premiership,2020,False,
+Livingston FC,Lyndon Dykes,24,Scotland,Centre-Forward,CF,475000.0,QPR,England,2200000.0,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Ricki Lamie,27,Scotland,Centre-Back,CB,300000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Steven Lawless,29,Scotland,Left Winger,LW,400000.0,Burton Albion,England,0.0,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Chris Erskine,33,Scotland,Attacking Midfield,AM,300000.0,East Kilbride,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Hakeem Odoffin,22,England,Right-Back,RB,100000.0,Hamilton Acad.,Scotland,,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Ross Stewart,25,Scotland,Goalkeeper,GK,200000.0,Heart of Midl.,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Salim Kouider-Aïssa,24,Scotland,Centre-Forward,CF,,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Robbie Crawford,26,Scotland,Central Midfield,CM,325000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Rafa De Vita,33,Italy,Left Winger,LW,150000.0,Edinburgh City,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Lars Lokotsch,24,Germany,Centre-Forward,CF,125000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Livingston FC,Dolly Menga,27,Angola,Centre-Forward,CF,250000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Cécé Pepe,23,France,Centre-Back,CB,150000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Anthony Stokes,32,Ireland,Centre-Forward,CF,400000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Aymen Souda,27,France,Left Winger,LW,250000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Livingston FC,Gavin Reilly,27,Scotland,Centre-Forward,CF,300000.0,Carlisle United,England,0.0,in,winter,Scottish Premiership,2020,False,
+Livingston FC,Jaze Kabia,20,Ireland,Right Winger,RW,,Shelbourne,Ireland,0.0,in,winter,Scottish Premiership,2020,False,
+Livingston FC,Jackson Longridge,25,Scotland,Left-Back,LB,300000.0,Bradford,England,0.0,in,winter,Scottish Premiership,2020,False,
+Livingston FC,Djibril Diani,23,France,Defensive Midfield,DM,400000.0,Grasshoppers,Switzerland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Livingston FC,Lars Lokotsch,24,Germany,Centre-Forward,CF,125000.0,FSV Zwickau,Germany,0.0,out,winter,Scottish Premiership,2020,False,
+Livingston FC,Robbie Crawford,26,Scotland,Central Midfield,CM,325000.0,Motherwell FC,Scotland,0.0,out,winter,Scottish Premiership,2020,False,
+Livingston FC,Gary Maley,38,Scotland,Goalkeeper,GK,25000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Livingston FC,Salim Kouider-Aïssa,24,Scotland,Centre-Forward,CF,,Queen's Park,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Livingston FC,Scott Tiffoney,22,Scotland,Left Winger,LW,300000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Jordan White,28,Scotland,Centre-Forward,CF,250000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Ricki Lamie,27,Scotland,Centre-Back,CB,300000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Nathan McGinley,23,England,Centre-Back,CB,,Forest Green,England,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Scott Fox,33,Scotland,Goalkeeper,GK,200000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Stephen O'Donnell,28,Scotland,Right-Back,RB,550000.0,Kilmarnock FC,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Jordan Archer,27,Scotland,Goalkeeper,GK,400000.0,Fulham,England,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Devante Cole,25,England,Centre-Forward,CF,300000.0,Doncaster,England,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Aaron Chapman,30,England,Goalkeeper,GK,25000.0,Peterborough,England,0.0,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Mark O'Hara,24,Scotland,Defensive Midfield,DM,300000.0,Peterborough,England,,in,summer,Scottish Premiership,2020,False,
+Motherwell FC,Jake Hastie,22,Scotland,Left Winger,LW,400000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Callum Lang,21,England,Second Striker,SS,100000.0,Wigan,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Robbie Crawford,26,Scotland,Central Midfield,CM,325000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,David Turnbull,21,Scotland,Central Midfield,CM,1800000.0,Celtic,Scotland,3000000.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Richard Tait,30,Scotland,Right-Back,RB,400000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Mark Gillespie,28,England,Goalkeeper,GK,400000.0,Newcastle,England,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Christy Manzinga,25,DR Congo,Centre-Forward,CF,50000.0,Linfield,Northern Ireland,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Christian Ilic,24,Croatia,Central Midfield,CM,250000.0,Lok. Plovdiv,Bulgaria,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Adam Livingstone,22,Scotland,Left-Back,LB,25000.0,Cove Rangers,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Rohan Ferguson,22,Scotland,Goalkeeper,GK,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,Peter Hartley,32,England,Centre-Back,CB,300000.0,Jamshedpur FC,India,0.0,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,PJ Morrison,23,Scotland,Goalkeeper,GK,50000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Jamie Semple,19,Scotland,Attacking Midfield,AM,25000.0,Cove Rangers,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Ross MacIver,21,Scotland,Centre-Forward,CF,,Morton,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Jermaine Hylton,27,England,Left Winger,LW,500000.0,Ross County,Scotland,,out,summer,Scottish Premiership,2020,False,
+Motherwell FC,PJ Morrison,22,Scotland,Goalkeeper,GK,50000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Harry Robinson,19,Northern Ireland,Left Winger,LW,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Motherwell FC,Steven Lawless,29,Scotland,Left Winger,LW,400000.0,Burton Albion,England,0.0,in,winter,Scottish Premiership,2020,False,
+Motherwell FC,Sam Foley,34,Ireland,Central Midfield,CM,250000.0,St. Mirren,Scotland,0.0,in,winter,Scottish Premiership,2020,False,
+Motherwell FC,Robbie Crawford,26,Scotland,Central Midfield,CM,325000.0,Livingston FC,Scotland,0.0,in,winter,Scottish Premiership,2020,False,
+Motherwell FC,Liam Kelly,24,Scotland,Goalkeeper,GK,400000.0,QPR,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Harry Smith,25,England,Centre-Forward,CF,50000.0,Northampton,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Eddie Nolan,32,Ireland,Centre-Back,CB,150000.0,Crewe Alexandra,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Jordan Roberts,27,England,Left Midfield,LM,200000.0,Heart of Midl.,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Tyler Magloire,22,England,Centre-Back,CB,,Blackburn U23,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Motherwell FC,Jordan Archer,27,Scotland,Goalkeeper,GK,400000.0,Middlesbrough,England,0.0,out,winter,Scottish Premiership,2020,False,
+Motherwell FC,Jordan White,28,Scotland,Centre-Forward,CF,300000.0,Ross County,Scotland,,out,winter,Scottish Premiership,2020,False,
+Motherwell FC,Ross MacIver,22,Scotland,Centre-Forward,CF,150000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Rangers FC,Kemar Roofe,27,Jamaica,Centre-Forward,CF,4500000.0,RSC Anderlecht,Belgium,5000000.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Ianis Hagi,21,Romania,Attacking Midfield,AM,4500000.0,KRC Genk,Belgium,3500000.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Cedric Itten,23,Switzerland,Centre-Forward,CF,4000000.0,FC St. Gallen,Switzerland,3000000.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Jermain Defoe,37,England,Centre-Forward,CF,1400000.0,Bournemouth,England,0.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Calvin Bassey,20,England,Left-Back,LB,,Leicester U23,England,0.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Jon McLaughlin,32,Scotland,Goalkeeper,GK,325000.0,Sunderland,England,0.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Leon Balogun,32,Nigeria,Centre-Back,CB,800000.0,Wigan,England,0.0,in,summer,Scottish Premiership,2020,False,
+Rangers FC,Bongani Zungu,27,South Africa,Central Midfield,CM,1600000.0,Amiens SC,France,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Rangers FC,Greg Docherty,23,Scotland,Central Midfield,CM,400000.0,Hull City,England,445000.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Matt Polster,27,United States,Defensive Midfield,DM,475000.0,Revolution,United States,330000.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Jak Alnwick,27,England,Goalkeeper,GK,250000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Andy Halliday,28,Scotland,Defensive Midfield,DM,400000.0,Heart of Midl.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Jordan Rossiter,23,England,Central Midfield,CM,350000.0,Fleetwood,England,0.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Jason Holt,27,Scotland,Central Midfield,CM,325000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Wes Foderingham,29,England,Goalkeeper,GK,400000.0,Sheff Utd,England,0.0,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Ross McCrorie,22,Scotland,Defensive Midfield,DM,900000.0,Aberdeen FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Rangers FC,Jake Hastie,22,Scotland,Left Winger,LW,400000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Rangers FC,Lewis Mayo,20,Scotland,Centre-Back,CB,50000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Rangers FC,Jon Flanagan,27,England,Right-Back,RB,950000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Rangers FC,Jamie Murphy,31,Scotland,Left Winger,LW,800000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Rangers FC,Ianis Hagi,21,Romania,Attacking Midfield,AM,4500000.0,KRC Genk,Belgium,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+Rangers FC,Jack Simpson,24,England,Centre-Back,CB,1200000.0,Bournemouth,England,,in,winter,Scottish Premiership,2020,False,
+Rangers FC,Jordan Jones,26,Northern Ireland,Left Winger,LW,600000.0,Sunderland,England,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Rangers FC,Brandon Barker,24,England,Left Winger,LW,500000.0,Oxford United,England,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Rangers FC,George Edmundson,23,England,Centre-Back,CB,500000.0,Derby,England,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Rangers FC,Jamie Barjonas,22,Scotland,Central Midfield,CM,25000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Rangers FC,Glenn Middleton,21,Scotland,Left Winger,LW,325000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Ross County FC,Carl Tremarco,34,England,Left-Back,LB,200000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Connor Randall,24,England,Right-Back,RB,400000.0,Arda Kardzhali,Bulgaria,0.0,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Alex Iacovitti,22,Scotland,Centre-Back,CB,,Oldham Athletic,England,0.0,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Regan Charles-Cook,23,England,Left Winger,LW,,Gillingham FC,England,0.0,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Stephen Kelly,20,Scotland,Central Midfield,CM,300000.0,Rangers Res.,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Ross County FC,Ross Doohan,22,Scotland,Goalkeeper,GK,350000.0,Celtic Reserves,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Ross County FC,Michael O'Connor,22,Ireland,Centre-Forward,CF,,Waterford FC,Ireland,,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Jermaine Hylton,27,England,Left Winger,LW,500000.0,Motherwell FC,Scotland,,in,summer,Scottish Premiership,2020,False,
+Ross County FC,Charlie Lakin,21,England,Central Midfield,CM,100000.0,Birmingham,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+Ross County FC,Lewis Spence,24,Scotland,Central Midfield,CM,250000.0,Scunthorpe Utd.,England,0.0,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Ricky Foster,34,Scotland,Right-Back,RB,250000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Josh Mullin,28,Scotland,Right Midfield,RM,400000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Declan McManus,25,Scotland,Centre-Forward,CF,175000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Marcus Fraser,26,Scotland,Right-Back,RB,350000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Joe Chalmers,26,Scotland,Central Midfield,CM,300000.0,Ayr United,Scotland,,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Blair Spittal,24,Scotland,Right Winger,RW,325000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+Ross County FC,Lee Erwin,26,Scotland,Centre-Forward,CF,325000.0,St. Mirren,Scotland,,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Don Cowie,37,Scotland,Right Midfield,RM,150000.0,Retired,,,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Liam Fontaine,34,England,Centre-Back,CB,200000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Sean Kelly,26,Scotland,Left-Back,LB,300000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+Ross County FC,Leo Fuhr Hjelde,17,Norway,Centre-Back,CB,,Celtic Reserves,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Ross County FC,Joe Hilton,21,England,Goalkeeper,GK,,Blackburn U23,England,0.0,in,winter,Scottish Premiership,2020,True,free loan
+Ross County FC,Jordan White,28,Scotland,Centre-Forward,CF,300000.0,Motherwell FC,Scotland,,in,winter,Scottish Premiership,2020,False,
+Ross County FC,Tony Andreu,32,France,Central Midfield,CM,325000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Ross County FC,Mohamed Maouche,27,France,Central Midfield,CM,400000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Ross County FC,Jason Naismith,26,Scotland,Right-Back,RB,325000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+Ross County FC,Ross Stewart,24,Scotland,Centre-Forward,CF,500000.0,Sunderland,England,338000.0,out,winter,Scottish Premiership,2020,False,
+Ross County FC,Michael O'Connor,22,Ireland,Centre-Forward,CF,,Shelbourne,Ireland,0.0,out,winter,Scottish Premiership,2020,False,
+Ross County FC,Josh Reid,18,Scotland,Left-Back,LB,400000.0,Coventry,England,,out,winter,Scottish Premiership,2020,False,
+Ross County FC,Adam Mackinnon,17,Scotland,Central Midfield,CM,,Brora Rangers,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Ross County FC,Logan Ross,16,Scotland,Goalkeeper,GK,,Lossiemouth,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+Ross County FC,Ross Munro,20,Scotland,Goalkeeper,GK,100000.0,Cowdenbeath,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,Shaun Rooney,23,Scotland,Right-Back,RB,300000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Craig Conway,35,Scotland,Attacking Midfield,AM,400000.0,Salford,England,0.0,in,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Craig Bryson,33,Scotland,Central Midfield,CM,500000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Guy Melamed,27,Israel,Centre-Forward,CF,400000.0,Maccabi Netanya,Israel,0.0,in,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Danny McNamara,21,Ireland,Right-Back,RB,,Millwall U23,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,Isaac Olaofe,20,England,Centre-Forward,CF,,Millwall U23,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,Danny Swanson,33,Scotland,Right Midfield,RM,250000.0,East Fife,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Steven Anderson,34,Scotland,Centre-Back,CB,250000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Ross Callachan,26,Scotland,Central Midfield,CM,250000.0,Hamilton Acad.,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,David McMillan,31,Ireland,Centre-Forward,CF,125000.0,Dundalk FC,Ireland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Drey Wright,25,England,Right Midfield,RM,300000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Max Johnstone,22,England,Goalkeeper,GK,50000.0,Fylde,England,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Wallace Duffy,21,Scotland,Right-Back,RB,250000.0,Inverness CT,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Johnstone FC,Cammy Ballantyne,20,Scotland,Attacking Midfield,AM,,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,Ross Sinclair,19,Scotland,Goalkeeper,GK,,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,James Brown,22,England,Right-Back,RB,150000.0,Millwall,England,,in,winter,Scottish Premiership,2020,False,
+St. Johnstone FC,Glenn Middleton,21,Scotland,Left Winger,LW,325000.0,Rangers,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+St. Johnstone FC,Charlie Gilmour,21,Scotland,Defensive Midfield,DM,300000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+St. Johnstone FC,Callum Hendry,23,Scotland,Centre-Forward,CF,350000.0,Aberdeen FC,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Richard Tait,30,Scotland,Right-Back,RB,400000.0,Motherwell FC,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Jak Alnwick,27,England,Goalkeeper,GK,250000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Nathan Sheron,22,England,Defensive Midfield,DM,,Fleetwood,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Joe Shaughnessy,28,Ireland,Centre-Back,CB,400000.0,Southend United,England,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Marcus Fraser,26,Scotland,Right-Back,RB,350000.0,Ross County,Scotland,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Kristian Dennis,30,England,Centre-Forward,CF,100000.0,Notts County,England,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Dylan Connolly,25,Ireland,Attacking Midfield,AM,,AFC Wimbledon,England,0.0,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Zdenek Zlamal,34,Czech Republic,Goalkeeper,GK,250000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Danny Finlayson,19,Northern Ireland,Right-Back,RB,,Rangers Res.,Scotland,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Brandon Mason,23,England,Left-Back,LB,50000.0,Coventry,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Ísak Snaer Thorvaldsson,19,Iceland,Central Midfield,CM,,Norwich U23,England,0.0,in,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Lee Erwin,26,Scotland,Centre-Forward,CF,325000.0,Ross County,Scotland,,in,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Gary MacKenzie,34,Scotland,Centre-Back,CB,150000.0,Peterhead,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Danny Mullen,25,Scotland,Centre-Forward,CF,300000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Vaclav Hladky,29,Czech Republic,Goalkeeper,GK,400000.0,Salford,England,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Cody Cooke,27,England,Centre-Forward,CF,100000.0,Weymouth FC,England,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Jack Baird,24,Scotland,Centre-Back,CB,325000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Stephen McGinn,31,Scotland,Central Midfield,CM,300000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Oan Djorkaeff,23,France,Left Midfield,LM,50000.0,SC Kriens,Switzerland,0.0,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Tony Andreu,32,France,Central Midfield,CM,325000.0,Without Club,,,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Kyle Magennis,22,Scotland,Right Midfield,RM,350000.0,Hibernian FC,Scotland,,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Ross Wallace,35,Scotland,Right Midfield,RM,400000.0,Retired,,,out,summer,Scottish Premiership,2020,False,
+St. Mirren FC,Josh Jack,19,Scotland,Centre-Forward,CF,,Clyde FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Jay Henderson,18,Scotland,Central Midfield,CM,,Clyde FC,Scotland,0.0,out,summer,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Seifedin Chabbi,26,Austria,Centre-Forward,CF,150000.0,Gaziantep FK,Turkey,0.0,out,summer,Scottish Premiership,2020,True,end of loan
+St. Mirren FC,Collin Quaner,29,Germany,Centre-Forward,CF,600000.0,Without Club,,,in,winter,Scottish Premiership,2020,False,
+St. Mirren FC,Eamonn Brophy,24,Scotland,Centre-Forward,CF,700000.0,Kilmarnock FC,Scotland,0.0,in,winter,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Jake Doyle-Hayes,21,Ireland,Central Midfield,CM,,Without Club,,,in,winter,Scottish Premiership,2020,False,
+St. Mirren FC,Sam Foley,34,Ireland,Central Midfield,CM,250000.0,Motherwell FC,Scotland,0.0,out,winter,Scottish Premiership,2020,False,
+St. Mirren FC,Peter Urminsky,21,Slovakia,Goalkeeper,GK,75000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Lewis Jamieson,18,Scotland,Centre-Forward,CF,100000.0,Clyde FC,Scotland,0.0,out,winter,Scottish Premiership,2020,True,free loan
+St. Mirren FC,Junior Morias,25,England,Centre-Forward,CF,225000.0,Boreham Wood,England,0.0,out,winter,Scottish Premiership,2020,True,free loan

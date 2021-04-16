@@ -1,0 +1,492 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Amkar Perm,Thomas Phibel,27,Guadeloupe,Centre-Back,CB,650000.0,Widzew Lodz,Poland,350000.0,in,summer,Premier Liga,2013,False,
+Amkar Perm,Janusz Gol,27,Poland,Defensive Midfield,DM,700000.0,Legia Warszawa,Poland,300000.0,in,summer,Premier Liga,2013,False,
+Amkar Perm,Petar Zanev,27,Bulgaria,Centre-Back,CB,800000.0,Volyn Lutsk,Ukraine,0.0,in,summer,Premier Liga,2013,False,
+Amkar Perm,Makhach Gadzhiev,25,Russia,Right Midfield,RM,1200000.0,SK Tavriya,Ukraine,0.0,in,summer,Premier Liga,2013,False,
+Amkar Perm,Dmitri Kayumov,21,Russia,Attacking Midfield,AM,200000.0,Spartak II,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Amkar Perm,Nikolay Fadeev,20,Russia,Right-Back,RB,50000.0,Spartak II,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Amkar Perm,Nikolaos Karelis,21,Greece,Centre-Forward,CF,400000.0,Panathinaikos,Greece,60000.0,out,summer,Premier Liga,2013,False,
+Amkar Perm,Michal Breznanik,28,Slovakia,Left Midfield,LM,400000.0,Sparta Prague,Czech Republic,0.0,out,summer,Premier Liga,2013,False,
+Amkar Perm,Nikola Mijailovic,31,Serbia,Left-Back,LB,800000.0,Red Star,Serbia,0.0,out,summer,Premier Liga,2013,False,
+Amkar Perm,Vitali Grishin,32,Russia,Left Midfield,LM,100000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2013,False,
+Amkar Perm,Vadim Gagloev,24,Russia,Defensive Midfield,DM,400000.0,Mordovia,Russia,,out,summer,Premier Liga,2013,False,
+Amkar Perm,Naim Sharifi,21,Russia,Right-Back,RB,100000.0,SV Kapfenberg,Austria,,out,summer,Premier Liga,2013,False,
+Amkar Perm,Mikhail Smirnov,23,Russia,Centre-Back,CB,200000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Amkar Perm,Aleksey Popov,35,Kazakhstan,Centre-Back,CB,100000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Amkar Perm,Aleksey Nikitin,22,Russia,Centre-Back,CB,300000.0,Enisey,Russia,450000.0,in,winter,Premier Liga,2013,False,
+Amkar Perm,Damian Zbozien,24,Poland,Right-Back,RB,500000.0,Piast Gliwice,Poland,200000.0,in,winter,Premier Liga,2013,False,
+Amkar Perm,Fegor Ogude,26,Nigeria,Defensive Midfield,DM,600000.0,Vålerenga,Norway,100000.0,in,winter,Premier Liga,2013,False,
+Amkar Perm,Jakub Wawrzyniak,30,Poland,Left-Back,LB,750000.0,Legia Warszawa,Poland,100000.0,in,winter,Premier Liga,2013,False,
+Amkar Perm,Ivan Solovjev,20,Russia,Left Winger,LW,700000.0,Zenit S-Pb,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Dzhamaldin Khodzhaniyazov,17,Russia,Centre-Back,CB,300000.0,Zenit II,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Patrick Twumasi,19,Ghana,Right Winger,RW,500000.0,Spartaks,Latvia,0.0,in,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Federico Rasic,21,Argentina,Centre-Forward,CF,1000000.0,Gimnasia,Argentina,0.0,in,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Makhach Gadzhiev,26,Russia,Right Midfield,RM,1200000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,False,
+Amkar Perm,Mitar Novakovic,32,Montenegro,Defensive Midfield,DM,800000.0,OFK Beograd,Serbia,0.0,out,winter,Premier Liga,2013,False,
+Amkar Perm,Vladimirs Kamess,25,Latvia,Left Winger,LW,350000.0,Neftekhimik,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Andrey Semenov,24,Russia,Centre-Back,CB,400000.0,Terek Grozny,Russia,,out,winter,Premier Liga,2013,False,
+Amkar Perm,Artur Ryabokobylenko,22,Russia,Defensive Midfield,DM,400000.0,Spartak Nalchik,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Amkar Perm,Sergey Volkov,33,Russia,Centre-Forward,CF,150000.0,Retired,,,out,winter,Premier Liga,2013,False,
+Amkar Perm,Aleksey Popov,35,Kazakhstan,Centre-Back,CB,100000.0,Retired,,,out,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Aleksandr Kokorin,22,Russia,Centre-Forward,CF,15000000.0,Dinamo Moscow,Russia,19000000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Igor Denisov,29,Russia,Defensive Midfield,DM,16000000.0,Zenit S-Pb,Russia,15000000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Christopher Samba,29,Congo,Centre-Back,CB,11000000.0,QPR,England,11600000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Aleksey Ionov,24,Russia,Right Winger,RW,4000000.0,Kuban Krasnodar,Russia,5000000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Ilya Maksimov,26,Russia,Central Midfield,CM,2000000.0,KS Samara,Russia,5000000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Gia Grigalava,24,Georgia,Centre-Back,CB,1000000.0,KS Samara,Russia,2000000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Benoît Angbwa,31,Cameroon,Right-Back,RB,2000000.0,KS Samara,Russia,1500000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Kamil Agalarov,25,Russia,Defensive Midfield,DM,1000000.0,Rostov,Russia,800000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Mikhail Kerzhakov,26,Russia,Goalkeeper,GK,800000.0,Volga NN,Russia,500000.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Abdul Razak,20,Cote d'Ivoire,Central Midfield,CM,1000000.0,Man City,England,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Karlen Mkrtchyan,24,Armenia,Defensive Midfield,DM,600000.0,Metalurg D.,Ukraine,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Alan Gatagov,22,Russia,Left Midfield,LM,500000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Pavel Solomatin,20,Russia,Centre-Forward,CF,400000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Vladimir Sobolev,22,Russia,Right Midfield,RM,200000.0,Dynamo M II,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Alexandru Epureanu,26,Moldova,Centre-Back,CB,3000000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Vadim Demidov,26,Norway,Centre-Back,CB,750000.0,E. Frankfurt,Germany,0.0,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Dele Adeleye,24,Nigeria,Centre-Back,CB,500000.0,Without Club,,,in,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Willian,25,Brazil,Right Winger,RW,30000000.0,Chelsea,England,35500000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Aleksandr Kokorin,22,Russia,Centre-Forward,CF,15000000.0,Dinamo Moscow,Russia,19000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Igor Denisov,29,Russia,Defensive Midfield,DM,16000000.0,Dinamo Moscow,Russia,15000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Moubarak Boussoufa,29,Morocco,Attacking Midfield,AM,14000000.0,Loko Moscow,Russia,15000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Lassana Diarra,28,France,Defensive Midfield,DM,14000000.0,Loko Moscow,Russia,12000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Yuri Zhirkov,29,Russia,Left-Back,LB,11000000.0,Dinamo Moscow,Russia,11000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Christopher Samba,29,Congo,Centre-Back,CB,11000000.0,Dinamo Moscow,Russia,10000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Oleg Shatov,23,Russia,Attacking Midfield,AM,5000000.0,Zenit S-Pb,Russia,7000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Vladimir Gabulov,29,Russia,Goalkeeper,GK,6500000.0,Dinamo Moscow,Russia,7000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Aleksey Ionov,24,Russia,Right Winger,RW,4000000.0,Dinamo Moscow,Russia,5000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Arseni Logashov,22,Russia,Right-Back,RB,2700000.0,Loko Moscow,Russia,3000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Mehdi Carcela-González,24,Morocco,Right Winger,RW,4500000.0,Standard Liège,Belgium,1000000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,João Carlos,31,Brazil,Centre-Back,CB,3800000.0,Spartak Moscow,Russia,750000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Kamil Agalarov,25,Russia,Defensive Midfield,DM,1000000.0,Rostov,Russia,600000.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Samuel Eto'o,32,Cameroon,Centre-Forward,CF,22000000.0,Chelsea,England,0.0,out,summer,Premier Liga,2013,False,
+Anzhi Makhachkala,Evgeniy Pomazan,24,Russia,Goalkeeper,GK,750000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Serder Serderov,19,Russia,Left Winger,LW,500000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Fedor Smolov,23,Russia,Centre-Forward,CF,2000000.0,Dinamo Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Anzhi Makhachkala,Emir Spahic,32,Bosnia-Herzegovina,Centre-Back,CB,3000000.0,Sevilla FC,Spain,0.0,out,summer,Premier Liga,2013,True,end of loan
+Anzhi Makhachkala,Alexandru Epureanu,27,Moldova,Centre-Back,CB,3000000.0,Dinamo Moscow,Russia,0.0,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Abdul Razak,21,Cote d'Ivoire,Central Midfield,CM,1000000.0,Man City,England,0.0,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Oleksandr Aliyev,28,Ukraine,Attacking Midfield,AM,1500000.0,Dynamo 2 Kyiv,Ukraine,0.0,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Makhach Gadzhiev,26,Russia,Right Midfield,RM,1200000.0,Amkar Perm,Russia,0.0,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Vladimir Bystrov,29,Russia,Right Midfield,RM,6500000.0,Zenit S-Pb,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Anvar Gazimagomedov,25,Russia,Left Midfield,LM,,Dagdiesel,Russia,0.0,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Aleksandr Bukharov,28,Russia,Centre-Forward,CF,2500000.0,Zenit S-Pb,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Fedor Smolov,23,Russia,Centre-Forward,CF,2000000.0,Dinamo Moscow,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Diniyar Bilyaletdinov,28,Russia,Attacking Midfield,AM,3000000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Anzhi Makhachkala,Gustavo Blanco Leschuk,22,Argentina,Centre-Forward,CF,400000.0,Without Club,,,in,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Lacina Traore,23,Cote d'Ivoire,Centre-Forward,CF,16000000.0,Monaco,France,10000000.0,out,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Jucilei,25,Brazil,Defensive Midfield,DM,11000000.0,Al-Jazira,United Arab Emirates,6000000.0,out,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Dele Adeleye,25,Nigeria,Centre-Back,CB,500000.0,Ergotelis,Greece,0.0,out,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Vadim Demidov,27,Norway,Centre-Back,CB,750000.0,Brann,Norway,0.0,out,winter,Premier Liga,2013,False,
+Anzhi Makhachkala,Abdul Razak,21,Cote d'Ivoire,Central Midfield,CM,1000000.0,West Ham,England,0.0,out,winter,Premier Liga,2013,False,
+CSKA Moscow,Vitinho,19,Brazil,Left Winger,LW,3000000.0,Botafogo,Brazil,9500000.0,in,summer,Premier Liga,2013,False,
+CSKA Moscow,Georgi Milanov,21,Bulgaria,Attacking Midfield,AM,3500000.0,Litex Lovech,Bulgaria,3600000.0,in,summer,Premier Liga,2013,False,
+CSKA Moscow,Steven Zuber,21,Switzerland,Left Midfield,LM,2000000.0,Grasshoppers,Switzerland,3600000.0,in,summer,Premier Liga,2013,False,
+CSKA Moscow,Vágner Love,29,Brazil,Centre-Forward,CF,12000000.0,SD Luneng,China,12000000.0,out,summer,Premier Liga,2013,False,
+CSKA Moscow,Tomas Necid,23,Czech Republic,Centre-Forward,CF,3200000.0,PAOK Salonika,Greece,0.0,out,summer,Premier Liga,2013,True,free loan
+CSKA Moscow,Evgeni Aldonin,33,Russia,Defensive Midfield,DM,350000.0,Volga NN,Russia,0.0,out,summer,Premier Liga,2013,False,
+CSKA Moscow,Pavel Mamaev,24,Russia,Central Midfield,CM,3700000.0,Krasnodar,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+CSKA Moscow,Pavel Mamaev,25,Russia,Central Midfield,CM,3700000.0,Krasnodar,Russia,5000000.0,out,winter,Premier Liga,2013,False,
+CSKA Moscow,Ricardo Jesus,28,Brazil,Centre-Forward,CF,,Querétaro FC,Mexico,200000.0,out,winter,Premier Liga,2013,False,
+CSKA Moscow,Keisuke Honda,27,Japan,Attacking Midfield,AM,20000000.0,AC Milan,Italy,0.0,out,winter,Premier Liga,2013,False,
+CSKA Moscow,Tomas Necid,24,Czech Republic,Centre-Forward,CF,2500000.0,Slavia Prague,Czech Republic,0.0,out,winter,Premier Liga,2013,True,free loan
+CSKA Moscow,Mark González,29,Chile,Left Winger,LW,1400000.0,CDUC,Chile,0.0,out,winter,Premier Liga,2013,True,free loan
+CSKA Moscow,Dawid Janczyk,26,Poland,Centre-Forward,CF,,Without Club,,,out,winter,Premier Liga,2013,False,
+Dinamo Moscow,Aleksandr Kokorin,22,Russia,Centre-Forward,CF,15000000.0,Anzhi,Russia,19000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Igor Denisov,29,Russia,Defensive Midfield,DM,16000000.0,Anzhi,Russia,15000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Yuri Zhirkov,29,Russia,Left-Back,LB,11000000.0,Anzhi,Russia,11000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Christopher Samba,29,Congo,Centre-Back,CB,11000000.0,Anzhi,Russia,10000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Vladimir Gabulov,29,Russia,Goalkeeper,GK,6500000.0,Anzhi,Russia,7000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Aleksey Ionov,24,Russia,Right Winger,RW,4000000.0,Anzhi,Russia,5000000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Alan Kasaev,27,Russia,Left Winger,LW,4000000.0,Rubin Kazan,Russia,500000.0,in,summer,Premier Liga,2013,True,loan with fee
+Dinamo Moscow,Vladimir Dyadyun,24,Russia,Centre-Forward,CF,3000000.0,Rubin Kazan,Russia,400000.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,George Florescu,29,Romania,Defensive Midfield,DM,900000.0,Astra Giurgiu,Romania,0.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Douglas,25,Netherlands,Centre-Back,CB,8000000.0,Twente FC,Netherlands,0.0,in,summer,Premier Liga,2013,False,
+Dinamo Moscow,Aleksandr Kokorin,22,Russia,Centre-Forward,CF,15000000.0,Anzhi,Russia,19000000.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Denis Kolodin,31,Russia,Centre-Back,CB,500000.0,Volga NN,Russia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Tomislav Dujmovic,32,Croatia,Central Midfield,CM,1000000.0,RNK Split,Croatia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Yuri Kirillov,23,Russia,Defensive Midfield,DM,300000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Igor Semshov,35,Russia,Central Midfield,CM,400000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Ivan Solovjev,20,Russia,Left Winger,LW,750000.0,Zenit S-Pb,Russia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Vladimir Kisenkov,31,Russia,Right-Back,RB,200000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Alexandru Epureanu,26,Moldova,Centre-Back,CB,3000000.0,Anzhi,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Pavel Solomatin,20,Russia,Centre-Forward,CF,400000.0,Anzhi,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Alan Gatagov,22,Russia,Left Midfield,LM,500000.0,Anzhi,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Otman Bakkal,28,Netherlands,Attacking Midfield,AM,1000000.0,Feyenoord,Netherlands,0.0,out,summer,Premier Liga,2013,False,
+Dinamo Moscow,Vladimir Rykov,25,Russia,Centre-Back,CB,1000000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Pavel Ignatovich,24,Russia,Left Winger,LW,700000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Aleksandr Sapeta,24,Russia,Central Midfield,CM,2500000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Gordon Schildenfeld,28,Croatia,Centre-Back,CB,2000000.0,Panathinaikos,Greece,0.0,out,summer,Premier Liga,2013,True,free loan
+Dinamo Moscow,Jakob Jantscher,24,Austria,Centre-Forward,CF,4000000.0,RB Salzburg,Austria,0.0,out,summer,Premier Liga,2013,True,end of loan
+Dinamo Moscow,Aleksey Kozlov,27,Russia,Right-Back,RB,4000000.0,Kuban Krasnodar,Russia,,in,winter,Premier Liga,2013,False,
+Dinamo Moscow,Alexandru Epureanu,27,Moldova,Centre-Back,CB,3000000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,False,
+Dinamo Moscow,Nikita Chicherin,23,Russia,Right-Back,RB,1200000.0,Volga NN,Russia,0.0,out,winter,Premier Liga,2013,False,
+Dinamo Moscow,Igor Shitov,27,Belarus,Right-Back,RB,800000.0,Mordovia,Russia,0.0,out,winter,Premier Liga,2013,False,
+Dinamo Moscow,Fedor Smolov,23,Russia,Centre-Forward,CF,2000000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Dinamo Moscow,Andrey Panyukov,19,Russia,Centre-Forward,CF,200000.0,Spartak Nalchik,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+FK Krasnodar,Andreas Granqvist,28,Sweden,Centre-Back,CB,6500000.0,Genoa,Italy,5000000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Artur Jedrzejczyk,25,Poland,Centre-Back,CB,2000000.0,Legia Warszawa,Poland,2200000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Aleksandr Filtsov,23,Russia,Goalkeeper,GK,1000000.0,Loko Moscow,Russia,2000000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Ricardo Laborde,25,Colombia,Right Winger,RW,500000.0,Anorthosis,Cyprus,1700000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Marcos Pizzelli,28,Armenia,Attacking Midfield,AM,3000000.0,Kuban Krasnodar,Russia,1700000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Ari,27,Russia,Centre-Forward,CF,5000000.0,Spartak Moscow,Russia,400000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Yuri Gazinskiy,23,Russia,Central Midfield,CM,500000.0,Torpedo Moscow,Russia,250000.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Vitali Kaleshin,32,Russia,Right-Back,RB,850000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Gerard Gohou,24,Cote d'Ivoire,Centre-Forward,CF,2000000.0,K. Erciyesspor,Turkey,0.0,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Ruslan Bolov,19,Russia,Centre-Forward,CF,200000.0,Spartak Nalchik,Russia,,in,summer,Premier Liga,2013,False,
+FK Krasnodar,Pavel Mamaev,24,Russia,Central Midfield,CM,3700000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+FK Krasnodar,Igor Smolnikov,25,Russia,Right-Back,RB,3500000.0,Zenit S-Pb,Russia,6000000.0,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Evgeniy Gorodov,27,Russia,Goalkeeper,GK,300000.0,Terek Grozny,Russia,300000.0,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Vladimir Koman,24,Hungary,Attacking Midfield,AM,2000000.0,Ural,Russia,200000.0,out,summer,Premier Liga,2013,True,loan with fee
+FK Krasnodar,Nukri Revishvili,26,Georgia,Goalkeeper,GK,500000.0,FC Dila,Georgia,0.0,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Vladislav Ignatjev,26,Russia,Right-Back,RB,3400000.0,Kuban Krasnodar,Russia,,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Igor Lambarskiy,20,Russia,Attacking Midfield,AM,400000.0,Enisey,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Krasnodar,Aleksandr Erokhin,23,Russia,Attacking Midfield,AM,450000.0,SKA-Energia,Russia,,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Moussa Konaté,20,Senegal,Centre-Forward,CF,1200000.0,Genoa,Italy,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Krasnodar,Nikola Drincic,28,Montenegro,Defensive Midfield,DM,3200000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+FK Krasnodar,Aleksandr Filtsov,23,Russia,Goalkeeper,GK,1000000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Krasnodar,Adolphe Teikeu,23,Cameroon,Centre-Back,CB,700000.0,Metalurg Z.,Ukraine,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Krasnodar,Pavel Mamaev,25,Russia,Central Midfield,CM,3700000.0,CSKA Moscow,Russia,5000000.0,in,winter,Premier Liga,2013,False,
+FK Krasnodar,Ragnar Sigurdsson,27,Iceland,Centre-Back,CB,1750000.0,FC Copenhagen,Denmark,4250000.0,in,winter,Premier Liga,2013,False,
+FK Krasnodar,Aleksey Pomerko,23,Russia,Central Midfield,CM,450000.0,Shinnik,Russia,,in,winter,Premier Liga,2013,False,
+FK Krasnodar,Roman Shirokov,32,Russia,Central Midfield,CM,5000000.0,Zenit S-Pb,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+FK Krasnodar,Ruslan Nakhushev,29,Russia,Centre-Back,CB,1000000.0,Mordovia,Russia,0.0,out,winter,Premier Liga,2013,False,
+FK Krasnodar,Ruslan Bolov,19,Russia,Centre-Forward,CF,200000.0,Spartak Nalchik,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+FK Krasnodar,Marcos Pizzelli,29,Armenia,Attacking Midfield,AM,1500000.0,Aktobe,Kazakhstan,0.0,out,winter,Premier Liga,2013,True,free loan
+FK Rostov,Byung-soo Yoo,25,"Korea, South",Centre-Forward,CF,1500000.0,Hilal,Saudi Arabia,1500000.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Kamil Agalarov,25,Russia,Defensive Midfield,DM,1000000.0,Anzhi,Russia,600000.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Hrvoje Milic,24,Croatia,Left-Back,LB,700000.0,NK Istra,Croatia,350000.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Azim Fatullaev,27,Russia,Defensive Midfield,DM,700000.0,Enisey,Russia,300000.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Igor Lolo,30,Cote d'Ivoire,Right-Back,RB,1200000.0,Kuban Krasnodar,Russia,0.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Artem Dzyuba,24,Russia,Centre-Forward,CF,4500000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+FK Rostov,Jano Ananidze,20,Georgia,Attacking Midfield,AM,2500000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+FK Rostov,Aleksandr Vasiljev,21,Russia,Right Winger,RW,250000.0,CSKA Moscow II,Russia,0.0,in,summer,Premier Liga,2013,False,
+FK Rostov,Anton Amelchenko,28,Belarus,Goalkeeper,GK,700000.0,Loko Moscow,Russia,,in,summer,Premier Liga,2013,False,
+FK Rostov,Igor Khudobyak,28,Ukraine,Attacking Midfield,AM,1300000.0,Karpaty,Ukraine,0.0,in,summer,Premier Liga,2013,True,free loan
+FK Rostov,Bastos,22,Angola,Centre-Back,CB,250000.0,Petro Luanda,Angola,,in,summer,Premier Liga,2013,False,
+FK Rostov,Arseni Logashov,22,Russia,Right-Back,RB,2700000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+FK Rostov,Inal Getigezhev,26,Russia,Left-Back,LB,1000000.0,Rubin Kazan,Russia,2500000.0,out,summer,Premier Liga,2013,False,
+FK Rostov,Kamil Agalarov,25,Russia,Defensive Midfield,DM,1000000.0,Anzhi,Russia,800000.0,out,summer,Premier Liga,2013,False,
+FK Rostov,Razvan Cocis,30,Romania,Central Midfield,CM,1500000.0,Goverla,Ukraine,0.0,out,summer,Premier Liga,2013,False,
+FK Rostov,Dmitri Kruglov,29,Estonia,Left-Back,LB,200000.0,Levadia,Estonia,0.0,out,summer,Premier Liga,2013,False,
+FK Rostov,Dmitri Kirichenko,36,Russia,Centre-Forward,CF,50000.0,Mordovia,Russia,0.0,out,summer,Premier Liga,2013,False,
+FK Rostov,Jan Holenda,28,Czech Republic,Centre-Forward,CF,2000000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Rostov,Khoren Bayramyan,21,Armenia,Left Midfield,LM,350000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Rostov,Kornel Salata,28,Slovakia,Centre-Back,CB,2000000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Rostov,Andrey Vasiljev,21,Russia,Right-Back,RB,100000.0,Dinamo SPb,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+FK Rostov,Isaac Okoronkwo,35,Nigeria,Centre-Back,CB,50000.0,Retired,,,out,summer,Premier Liga,2013,False,
+FK Rostov,Vladimir Kisenkov,31,Russia,Right-Back,RB,200000.0,Dinamo Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Andrey Ivanov,24,Russia,Left-Back,LB,300000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Nikolay Zabolotnyi,23,Russia,Goalkeeper,GK,500000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Eugene Starikov,24,United States,Centre-Forward,CF,300000.0,Zenit II,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Maksim Belyaev,21,Russia,Centre-Back,CB,1200000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Danko Lazovic,30,Serbia,Second Striker,SS,2500000.0,Zenit S-Pb,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+FK Rostov,Georgi Gabulov,25,Russia,Central Midfield,CM,1600000.0,Spartak V-kavkaz,Russia,0.0,in,winter,Premier Liga,2013,False,
+FK Rostov,Roman Emeljanov,21,Russia,Defensive Midfield,DM,800000.0,Shakhtar II,Ukraine,0.0,in,winter,Premier Liga,2013,True,free loan
+FK Rostov,Aleksandr Sheshukov,30,Russia,Centre-Back,CB,1000000.0,Loko Moscow,Russia,1000000.0,out,winter,Premier Liga,2013,False,
+FK Rostov,Aleksandr Vasiljev,21,Russia,Right Winger,RW,250000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+FK Rostov,Andrey Vasiljev,21,Russia,Right-Back,RB,250000.0,Arsenal Tula,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Krylya Sovetov Samara,Jan Mucha,30,Slovakia,Goalkeeper,GK,1500000.0,Everton,England,0.0,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Felicio Brown Forbes,21,Costa Rica,Centre-Forward,CF,150000.0,FSV Frankfurt,Germany,0.0,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Ruslan Adzhindzhal,39,Russia,Central Midfield,CM,50000.0,Volga NN,Russia,0.0,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Igor Semshov,35,Russia,Central Midfield,CM,400000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Aleksandr Pavlenko,28,Russia,Central Midfield,CM,400000.0,Terek Grozny,Russia,0.0,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Gia Grigalava,23,Georgia,Centre-Back,CB,1000000.0,Volga NN,Russia,,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Nadson,28,Brazil,Centre-Back,CB,1000000.0,KRC Genk,Belgium,,in,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Ilya Maksimov,26,Russia,Central Midfield,CM,2000000.0,Anzhi,Russia,5000000.0,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Gia Grigalava,24,Georgia,Centre-Back,CB,1000000.0,Anzhi,Russia,2000000.0,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Benoît Angbwa,31,Cameroon,Right-Back,RB,2000000.0,Anzhi,Russia,1500000.0,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Raïs M'Bolhi,27,Algeria,Goalkeeper,GK,500000.0,CSKA Sofia,Bulgaria,0.0,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Roman Grigoryan,30,Russia,Attacking Midfield,AM,400000.0,Vityaz Podolsk,Russia,0.0,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Dmitri Golubev,21,Russia,Left-Back,LB,200000.0,Mordovia,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Krylya Sovetov Samara,Viktor Svezhov,22,Russia,Central Midfield,CM,450000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Krylya Sovetov Samara,Steeve Joseph-Reinette,29,France,Right-Back,RB,400000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Aleksandr Makarov,34,Russia,Goalkeeper,GK,50000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Shamil Lakhiyalov,33,Russia,Second Striker,SS,400000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Krylya Sovetov Samara,Igor Portnyagin,24,Russia,Centre-Forward,CF,700000.0,Rubin Kazan,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Krylya Sovetov Samara,Emin Makhmudov,21,Azerbaijan,Central Midfield,CM,300000.0,Spartak Moscow,Russia,250000.0,in,winter,Premier Liga,2013,False,
+Krylya Sovetov Samara,Dmitri Yatchenko,27,Russia,Right-Back,RB,1300000.0,Terek Grozny,Russia,0.0,in,winter,Premier Liga,2013,False,
+Krylya Sovetov Samara,Alan Chochiev,22,Russia,Attacking Midfield,AM,250000.0,Loko Moscow II,Russia,0.0,in,winter,Premier Liga,2013,False,
+Krylya Sovetov Samara,Pablo Zeballos,27,Paraguay,Second Striker,SS,850000.0,Botafogo,Brazil,900000.0,out,winter,Premier Liga,2013,False,
+Krylya Sovetov Samara,Dmitri Golubev,21,Russia,Left-Back,LB,150000.0,Enisey,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Krylya Sovetov Samara,Ognjen Koroman,35,Serbia,Right Winger,RW,100000.0,Retired,,,out,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Lorenzo Melgarejo,23,Paraguay,Left Winger,LW,6500000.0,Benfica,Portugal,5000000.0,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Gonzalo Bueno,20,Uruguay,Left Winger,LW,1000000.0,Nacional,Uruguay,4000000.0,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Mohammed Rabiu,23,Ghana,Defensive Midfield,DM,3000000.0,Évian,France,3000000.0,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Nikita Bezlikhotnov,22,Russia,Right Winger,RW,600000.0,Torpedo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Djibril Cissé,31,France,Centre-Forward,CF,2500000.0,QPR,England,0.0,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Vladislav Ignatjev,26,Russia,Right-Back,RB,3400000.0,Krasnodar,Russia,,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Arsen Khubulov,22,Russia,Right Winger,RW,700000.0,Spartak V-kavkaz,Russia,,in,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Aras Özbiliz,23,Armenia,Right Winger,RW,6500000.0,Spartak Moscow,Russia,8000000.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Aleksey Ionov,24,Russia,Right Winger,RW,4000000.0,Anzhi,Russia,5000000.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Vladislav Kulik,28,Russia,Central Midfield,CM,6000000.0,Rubin Kazan,Russia,3600000.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Marcos Pizzelli,28,Armenia,Attacking Midfield,AM,3000000.0,Krasnodar,Russia,1700000.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Nikolay Zhilyaev,26,Russia,Right Winger,RW,250000.0,Ufa,Russia,0.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Igor Lolo,30,Cote d'Ivoire,Right-Back,RB,1200000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Igor Paderin,23,Russia,Centre-Forward,CF,75000.0,Unknown,,0.0,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Mikhail Komkov,28,Russia,Right Midfield,RM,400000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Kuban Krasnodar,Nikita Bezlikhotnov,23,Russia,Right Winger,RW,600000.0,Metalurg D.,Ukraine,0.0,out,summer,Premier Liga,2013,True,free loan
+Kuban Krasnodar,Daniel Niculae,30,Romania,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Kuban Krasnodar,Leandro,28,Brazil,Right-Back,RB,900000.0,Arsenal Kyiv,Ukraine,0.0,out,summer,Premier Liga,2013,True,end of loan
+Kuban Krasnodar,Stanislav Manolev,28,Bulgaria,Right Winger,RW,1500000.0,PSV Eindhoven,Netherlands,0.0,in,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Alexei Coselev,20,Moldova,Goalkeeper,GK,,Dacia B U19,Moldova,,in,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Sergey Bendz,30,Russia,Centre-Back,CB,650000.0,Luch Vladivostok,Russia,0.0,out,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Artem Fidler,30,Russia,Defensive Midfield,DM,1000000.0,Ural,Russia,0.0,out,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Djibril Cissé,32,France,Centre-Forward,CF,2200000.0,SC Bastia,France,0.0,out,winter,Premier Liga,2013,False,
+Kuban Krasnodar,David Tsoraev,30,Russia,Right Winger,RW,1000000.0,SKA-Energia,Russia,0.0,out,winter,Premier Liga,2013,False,
+Kuban Krasnodar,Aleksey Kozlov,27,Russia,Right-Back,RB,4000000.0,Dinamo Moscow,Russia,,out,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Moubarak Boussoufa,29,Morocco,Attacking Midfield,AM,14000000.0,Anzhi,Russia,15000000.0,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Lassana Diarra,28,France,Defensive Midfield,DM,14000000.0,Anzhi,Russia,12000000.0,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Arseni Logashov,22,Russia,Right-Back,RB,2700000.0,Anzhi,Russia,3000000.0,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Ilya Abaev,31,Russia,Goalkeeper,GK,400000.0,Volga NN,Russia,1000000.0,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Taras Mykhalyk,29,Ukraine,Centre-Back,CB,3500000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Sergey Tkachev,24,Russia,Attacking Midfield,AM,700000.0,Metalist,Ukraine,,in,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Denis Glushakov,26,Russia,Central Midfield,CM,9000000.0,Spartak Moscow,Russia,8000000.0,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Manuel da Costa,27,Morocco,Centre-Back,CB,3000000.0,Sivasspor,Turkey,2200000.0,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Aleksandr Filtsov,23,Russia,Goalkeeper,GK,1000000.0,Krasnodar,Russia,2000000.0,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Artur Sarkisov,26,Armenia,Right Winger,RW,700000.0,Ural,Russia,300000.0,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Dmitri Torbinski,29,Russia,Central Midfield,CM,2800000.0,Rubin Kazan,Russia,0.0,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Anton Amelchenko,28,Belarus,Goalkeeper,GK,700000.0,Rostov,Russia,,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Dmitri Sychev,29,Russia,Centre-Forward,CF,1500000.0,Volga NN,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Lokomotiv Moscow,Arseni Logashov,22,Russia,Right-Back,RB,2700000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Lokomotiv Moscow,Dmitri Loskov,39,Russia,Attacking Midfield,AM,50000.0,Career break,,,out,summer,Premier Liga,2013,False,
+Lokomotiv Moscow,Aleksandr Sheshukov,30,Russia,Centre-Back,CB,1000000.0,Rostov,Russia,1000000.0,in,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Felipe Caicedo,25,Ecuador,Centre-Forward,CF,8000000.0,Al-Jazira,United Arab Emirates,7000000.0,out,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Taras Burlak,23,Russia,Centre-Back,CB,3000000.0,Rubin Kazan,Russia,2500000.0,out,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Dario Kresic,29,Croatia,Goalkeeper,GK,1200000.0,1.FSV Mainz 05,Germany,0.0,out,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Andrey Ivanov,25,Russia,Left-Back,LB,300000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2013,False,
+Lokomotiv Moscow,Victor Obinna,26,Nigeria,Second Striker,SS,3000000.0,Chievo Verona,Italy,0.0,out,winter,Premier Liga,2013,True,free loan
+Rubin Kazan,Mubarak Wakaso,23,Ghana,Central Midfield,CM,5000000.0,Espanyol,Spain,6000000.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Chris Mavinga,22,DR Congo,Centre-Back,CB,2500000.0,Stade Rennais,France,5000000.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Vladislav Kulik,28,Russia,Central Midfield,CM,6000000.0,Kuban Krasnodar,Russia,3600000.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Inal Getigezhev,26,Russia,Left-Back,LB,1000000.0,Rostov,Russia,2500000.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Ruslan Mukhametshin,31,Russia,Centre-Forward,CF,1000000.0,Mordovia,Russia,500000.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Aleksandr Prudnikov,24,Russia,Centre-Forward,CF,400000.0,Spartak V-kavkaz,Russia,0.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Dmitri Torbinski,29,Russia,Central Midfield,CM,2800000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Rubin Kazan,Cristian Ansaldi,26,Argentina,Left-Back,LB,10000000.0,Zenit S-Pb,Russia,8000000.0,out,summer,Premier Liga,2013,False,
+Rubin Kazan,Nelson Haedo Valdez,29,Paraguay,Centre-Forward,CF,3000000.0,Valencia,Spain,3000000.0,out,summer,Premier Liga,2013,False,
+Rubin Kazan,Alan Kasaev,27,Russia,Left Winger,LW,4000000.0,Dinamo Moscow,Russia,500000.0,out,summer,Premier Liga,2013,True,loan with fee
+Rubin Kazan,Vladimir Dyadyun,24,Russia,Centre-Forward,CF,3000000.0,Dinamo Moscow,Russia,400000.0,out,summer,Premier Liga,2013,False,
+Rubin Kazan,Gökhan Töre,21,Turkey,Right Winger,RW,3800000.0,Besiktas,Turkey,350000.0,out,summer,Premier Liga,2013,True,loan with fee
+Rubin Kazan,Aleksey Eremenko Jr.,30,Finland,Attacking Midfield,AM,1200000.0,Kairat Almaty,Kazakhstan,200000.0,out,summer,Premier Liga,2013,False,
+Rubin Kazan,Vitali Kaleshin,32,Russia,Right-Back,RB,850000.0,Krasnodar,Russia,0.0,out,summer,Premier Liga,2013,False,
+Rubin Kazan,Alireza Haghighi,25,Iran,Goalkeeper,GK,500000.0,Persepolis,Iran,0.0,out,summer,Premier Liga,2013,True,free loan
+Rubin Kazan,Ivan Temnikov,24,Russia,Right-Back,RB,200000.0,Terek Grozny,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Rubin Kazan,Sergey Davydov,27,Russia,Centre-Forward,CF,2800000.0,Aktobe,Kazakhstan,0.0,out,summer,Premier Liga,2013,True,free loan
+Rubin Kazan,Igor Portnyagin,24,Russia,Centre-Forward,CF,700000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Rubin Kazan,Marko Devic,30,Ukraine,Centre-Forward,CF,8000000.0,Metalist,Ukraine,5000000.0,in,winter,Premier Liga,2013,False,
+Rubin Kazan,Taras Burlak,23,Russia,Centre-Back,CB,3000000.0,Loko Moscow,Russia,2500000.0,in,winter,Premier Liga,2013,False,
+Rubin Kazan,Ruslan Kambolov,24,Russia,Defensive Midfield,DM,150000.0,Neftekhimik,Russia,,in,winter,Premier Liga,2013,False,
+Rubin Kazan,Kamil Mullin,19,Russia,Centre-Forward,CF,25000.0,Loko Moscow II,Russia,,in,winter,Premier Liga,2013,False,
+Rubin Kazan,Arturs Karasausks,22,Latvia,Centre-Forward,CF,275000.0,Skonto,Latvia,0.0,in,winter,Premier Liga,2013,True,free loan
+Rubin Kazan,Pavel Mogilevets,20,Russia,Central Midfield,CM,250000.0,Zenit S-Pb,Russia,0.0,in,winter,Premier Liga,2013,True,free loan
+Rubin Kazan,Salomón Rondón,24,Venezuela,Centre-Forward,CF,11000000.0,Zenit S-Pb,Russia,18000000.0,out,winter,Premier Liga,2013,False,
+Rubin Kazan,Aleksandr Ryazantsev,27,Russia,Central Midfield,CM,5000000.0,Zenit S-Pb,Russia,0.0,out,winter,Premier Liga,2013,False,
+Rubin Kazan,Bibras Natcho,25,Israel,Central Midfield,CM,12000000.0,PAOK Salonika,Greece,0.0,out,winter,Premier Liga,2013,False,
+Rubin Kazan,Pablo Orbaiz,34,Spain,Defensive Midfield,DM,,Valle de Egüés,Spain,0.0,out,winter,Premier Liga,2013,False,
+Rubin Kazan,Iván Marcano,26,Spain,Centre-Back,CB,4000000.0,Olympiacos,Greece,0.0,out,winter,Premier Liga,2013,True,free loan
+Rubin Kazan,Alireza Haghighi,25,Iran,Goalkeeper,GK,350000.0,Covilhã,Portugal,0.0,out,winter,Premier Liga,2013,True,free loan
+Spartak Moscow,Denis Glushakov,26,Russia,Central Midfield,CM,9000000.0,Loko Moscow,Russia,8000000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,Aras Özbiliz,23,Armenia,Right Winger,RW,6500000.0,Kuban Krasnodar,Russia,8000000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,Tino Costa,28,Argentina,Central Midfield,CM,7000000.0,Valencia,Spain,6500000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,Serdar Tasci,26,Germany,Centre-Back,CB,9000000.0,VfB Stuttgart,Germany,4000000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,José Manuel Jurado,27,Spain,Attacking Midfield,AM,6000000.0,FC Schalke 04,Germany,3000000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,Lucas Barrios,28,Paraguay,Centre-Forward,CF,2000000.0,GZ Evergrande,China,3000000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,João Carlos,31,Brazil,Centre-Back,CB,3800000.0,Anzhi,Russia,750000.0,in,summer,Premier Liga,2013,False,
+Spartak Moscow,Emmanuel Emenike,26,Nigeria,Centre-Forward,CF,12000000.0,Fenerbahce,Turkey,13000000.0,out,summer,Premier Liga,2013,False,
+Spartak Moscow,Ari,27,Russia,Centre-Forward,CF,5000000.0,Krasnodar,Russia,400000.0,out,summer,Premier Liga,2013,False,
+Spartak Moscow,Artem Dzyuba,24,Russia,Centre-Forward,CF,4500000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Spartak Moscow,Jano Ananidze,20,Georgia,Attacking Midfield,AM,2500000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Spartak Moscow,Welliton,26,Brazil,Centre-Forward,CF,2500000.0,São Paulo,Brazil,0.0,out,summer,Premier Liga,2013,True,free loan
+Spartak Moscow,Nicolás Pareja,29,Argentina,Centre-Back,CB,4200000.0,Sevilla FC,Spain,0.0,out,summer,Premier Liga,2013,True,free loan
+Spartak Moscow,Aleksandr Zotov,22,Russia,Central Midfield,CM,400000.0,Shinnik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Spartak Moscow,José Manuel Jurado,27,Spain,Attacking Midfield,AM,6000000.0,FC Schalke 04,Germany,0.0,out,summer,Premier Liga,2013,True,end of loan
+Spartak Moscow,Ognjen Vukojevic,29,Croatia,Defensive Midfield,DM,7000000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Premier Liga,2013,True,end of loan
+Spartak Moscow,Patrick Ebert,26,Germany,Attacking Midfield,AM,3000000.0,Real Valladolid,Spain,1300000.0,in,winter,Premier Liga,2013,False,
+Spartak Moscow,Aiden McGeady,27,Ireland,Left Winger,LW,7500000.0,Everton,England,2000000.0,out,winter,Premier Liga,2013,False,
+Spartak Moscow,Kim Källström,31,Sweden,Central Midfield,CM,3000000.0,Arsenal,England,750000.0,out,winter,Premier Liga,2013,True,loan with fee
+Spartak Moscow,Marek Suchy,25,Czech Republic,Centre-Back,CB,4500000.0,FC Basel,Switzerland,500000.0,out,winter,Premier Liga,2013,True,loan with fee
+Spartak Moscow,Welliton,27,Brazil,Centre-Forward,CF,2500000.0,Celta de Vigo,Spain,400000.0,out,winter,Premier Liga,2013,True,loan with fee
+Spartak Moscow,Emin Makhmudov,21,Azerbaijan,Central Midfield,CM,300000.0,KS Samara,Russia,250000.0,out,winter,Premier Liga,2013,False,
+Spartak Moscow,Nikolay Zabolotnyi,23,Russia,Goalkeeper,GK,500000.0,Ural,Russia,0.0,out,winter,Premier Liga,2013,False,
+Spartak Moscow,Majeed Waris,22,Ghana,Centre-Forward,CF,2500000.0,Valenciennes FC,France,0.0,out,winter,Premier Liga,2013,True,free loan
+Spartak Moscow,Juan Insaurralde,29,Argentina,Centre-Back,CB,1200000.0,PAOK Salonika,Greece,0.0,out,winter,Premier Liga,2013,True,free loan
+Spartak Moscow,Diniyar Bilyaletdinov,28,Russia,Attacking Midfield,AM,3000000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Spartak Moscow,Soslan Dzhanaev,26,Russia,Goalkeeper,GK,500000.0,Without Club,,,out,winter,Premier Liga,2013,False,
+Terek Grozny,Ismail Aissati,25,Morocco,Attacking Midfield,AM,3800000.0,Antalyaspor,Turkey,3300000.0,in,summer,Premier Liga,2013,False,
+Terek Grozny,Gheorghe Grozav,22,Romania,Left Winger,LW,2500000.0,Petrolul,Romania,2200000.0,in,summer,Premier Liga,2013,False,
+Terek Grozny,Jeremy Bokila,24,DR Congo,Centre-Forward,CF,2800000.0,Zulte Waregem,Belgium,800000.0,in,summer,Premier Liga,2013,False,
+Terek Grozny,Evgeniy Gorodov,27,Russia,Goalkeeper,GK,300000.0,Krasnodar,Russia,300000.0,in,summer,Premier Liga,2013,False,
+Terek Grozny,Evgeni Kobozev,23,Russia,Goalkeeper,GK,350000.0,Ufa,Russia,225000.0,in,summer,Premier Liga,2013,False,
+Terek Grozny,Ivan Temnikov,24,Russia,Right-Back,RB,200000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Terek Grozny,Artem Radkov,28,Belarus,Centre-Back,CB,1500000.0,BATE Borisov,Belarus,0.0,in,summer,Premier Liga,2013,True,free loan
+Terek Grozny,Piotr Polczak,26,Poland,Centre-Back,CB,400000.0,Volga NN,Russia,0.0,out,summer,Premier Liga,2013,False,
+Terek Grozny,Oleg Vlasov,28,Russia,Attacking Midfield,AM,300000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,False,
+Terek Grozny,Aleksandr Pavlenko,28,Russia,Central Midfield,CM,400000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2013,False,
+Terek Grozny,Martin Jiranek,34,Czech Republic,Centre-Back,CB,500000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2013,False,
+Terek Grozny,Ezechiel Ndouasel,25,Chad,Centre-Forward,CF,1300000.0,Konyaspor,Turkey,0.0,out,summer,Premier Liga,2013,True,free loan
+Terek Grozny,Adlan Katsaev,25,Russia,Attacking Midfield,AM,300000.0,Luch Vladivostok,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Terek Grozny,Igor Usminskiy,36,Russia,Goalkeeper,GK,50000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Terek Grozny,Anton Amelchenko,28,Belarus,Goalkeeper,GK,700000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Terek Grozny,Daler Kuzyaev,20,Russia,Central Midfield,CM,100000.0,Neftekhimik,Russia,300000.0,in,winter,Premier Liga,2013,False,
+Terek Grozny,Vitali Gudiev,18,Russia,Goalkeeper,GK,200000.0,Spartak V-kavkaz,Russia,0.0,in,winter,Premier Liga,2013,False,
+Terek Grozny,Andrey Semenov,24,Russia,Centre-Back,CB,400000.0,Amkar Perm,Russia,,in,winter,Premier Liga,2013,False,
+Terek Grozny,Ezechiel Ndouasel,25,Chad,Centre-Forward,CF,1300000.0,Club Africain,Tunisia,100000.0,out,winter,Premier Liga,2013,True,loan with fee
+Terek Grozny,Dmitri Yatchenko,27,Russia,Right-Back,RB,1300000.0,KS Samara,Russia,0.0,out,winter,Premier Liga,2013,False,
+Terek Grozny,Jonathan Legear,26,Belgium,Right Winger,RW,2000000.0,KV Mechelen,Belgium,0.0,out,winter,Premier Liga,2013,False,
+Terek Grozny,Maciej Makuszewski,24,Poland,Right Winger,RW,1000000.0,Lechia Gdansk,Poland,0.0,out,winter,Premier Liga,2013,True,free loan
+Terek Grozny,Zaur Sadaev,24,Russia,Centre-Forward,CF,600000.0,Lechia Gdansk,Poland,0.0,out,winter,Premier Liga,2013,True,free loan
+Tom Tomsk,Gabriel Muresan,31,Romania,Defensive Midfield,DM,900000.0,CFR Cluj,Romania,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Ádám Pintér,25,Hungary,Centre-Back,CB,1000000.0,Real Zaragoza,Spain,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Martin Jiranek,34,Czech Republic,Centre-Back,CB,500000.0,Terek Grozny,Russia,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Vladimir Kisenkov,31,Russia,Right-Back,RB,200000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Kirill Panchenko,23,Russia,Second Striker,SS,1800000.0,Mordovia,Russia,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Zhivko Milanov,28,Bulgaria,Right-Back,RB,1500000.0,FC Vaslui,Romania,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Mladen Bozovic,28,Montenegro,Goalkeeper,GK,1000000.0,Videoton FC,Hungary,0.0,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Eugen Sidorenco,24,Moldova,Left Winger,LW,150000.0,H.Nazareth Illit,Israel,,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Mikhail Komkov,28,Russia,Right Midfield,RM,400000.0,Kuban Krasnodar,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Maksim Astafjev,30,Russia,Right Winger,RW,400000.0,Sibir,Russia,,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Vladimir Rykov,25,Russia,Centre-Back,CB,1000000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Igor Portnyagin,24,Russia,Centre-Forward,CF,700000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Pavel Ignatovich,24,Russia,Left Winger,LW,700000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Kornel Salata,28,Slovakia,Centre-Back,CB,2000000.0,Rostov,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Evgeniy Bashkirov,21,Russia,Defensive Midfield,DM,150000.0,Zenit II,Russia,,in,summer,Premier Liga,2013,False,
+Tom Tomsk,Eugene Starikov,24,United States,Centre-Forward,CF,300000.0,Zenit II,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Maksim Bordachev,27,Belarus,Left-Back,LB,1500000.0,BATE Borisov,Belarus,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Jan Holenda,28,Czech Republic,Centre-Forward,CF,2000000.0,Rostov,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Aleksandr Dimidko,27,Russia,Centre-Back,CB,900000.0,Mordovia,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Andrey Gorbanets,27,Russia,Attacking Midfield,AM,850000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Anton Khazov,34,Russia,Centre-Forward,CF,50000.0,Gazovik Orenburg,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Vitaliy Astakhov,34,Russia,Goalkeeper,GK,75000.0,Gazovik Orenburg,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Aleksey Sazonov,20,Russia,Centre-Forward,CF,50000.0,Syzran-2003,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Denis Voronov,22,Russia,Centre-Back,CB,50000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Viktor Stroev,26,Russia,Right-Back,RB,150000.0,Fakel Voronezh,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Ivan Nagibin,27,Russia,Central Midfield,CM,500000.0,Ufa,Russia,0.0,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Daniil Gavilovskiy,23,Russia,Goalkeeper,GK,25000.0,Khimik,Russia,,out,summer,Premier Liga,2013,False,
+Tom Tomsk,Evgeniy Chernov,20,Russia,Left-Back,LB,50000.0,Khimik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Mikhail Bashilov,20,Russia,Defensive Midfield,DM,75000.0,Tyumen,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Yaroslav Ovsyannikov,20,Russia,Left-Back,LB,25000.0,Volga Uljanovsk,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Kirill Pogrebnyak,21,Russia,Centre-Forward,CF,150000.0,Fakel Voronezh,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Yuri Petrakov,22,Russia,Central Midfield,CM,200000.0,Khimik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Dmitri Nikitinskiy,21,Russia,Left-Back,LB,200000.0,Tambov,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Tom Tomsk,Sergey Bendz,30,Russia,Centre-Back,CB,650000.0,Kuban Krasnodar,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Tom Tomsk,Evgeniy Bashkirov,21,Russia,Defensive Midfield,DM,150000.0,Zenit II,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Tom Tomsk,Aleksandr Zotov,22,Russia,Central Midfield,CM,400000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Tom Tomsk,Aleksandr Kasyan,24,Ukraine,Centre-Forward,CF,500000.0,Karpaty,Ukraine,0.0,out,summer,Premier Liga,2013,True,end of loan
+Tom Tomsk,Ilya Zuev,19,Russia,Centre-Back,CB,100000.0,Zenit II,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Tom Tomsk,Maksim Bordachev,27,Belarus,Left-Back,LB,1500000.0,BATE Borisov,Belarus,435000.0,in,winter,Premier Liga,2013,False,
+Tom Tomsk,Pavel Nekhajchik,25,Belarus,Left Winger,LW,1500000.0,BATE Borisov,Belarus,182000.0,in,winter,Premier Liga,2013,False,
+Tom Tomsk,Plamen Nikolov,28,Bulgaria,Centre-Back,CB,750000.0,Litex Lovech,Bulgaria,0.0,out,winter,Premier Liga,2013,False,
+Tom Tomsk,Maksim Astafjev,31,Russia,Right Winger,RW,400000.0,Sibir,Russia,,out,winter,Premier Liga,2013,False,
+Tom Tomsk,Eugen Sidorenco,24,Moldova,Left Winger,LW,300000.0,Khimik,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Tom Tomsk,Yuri Petrakov,22,Russia,Central Midfield,CM,200000.0,Career break,,,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Artur Sarkisov,26,Armenia,Right Winger,RW,700000.0,Loko Moscow,Russia,300000.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Vladimir Koman,24,Hungary,Attacking Midfield,AM,2000000.0,Krasnodar,Russia,200000.0,in,summer,Premier Liga,2013,True,loan with fee
+Ural Yekaterinburg,Andrey Gorbanets,27,Russia,Attacking Midfield,AM,850000.0,Tom Tomsk,Russia,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksey Solosin,25,Russia,Goalkeeper,GK,450000.0,SKA-Energia,Russia,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksandr Belozerov,31,Russia,Centre-Back,CB,700000.0,Volga NN,Russia,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Yuri Kirillov,23,Russia,Defensive Midfield,DM,300000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Toto Tamuz,25,Israel,Centre-Forward,CF,1200000.0,Hapoel Tel Aviv,Israel,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Sölvi Ottesen,29,Iceland,Centre-Back,CB,1000000.0,FC Copenhagen,Denmark,0.0,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Serder Serderov,19,Russia,Left Winger,LW,500000.0,Anzhi,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Evgeniy Pomazan,24,Russia,Goalkeeper,GK,750000.0,Anzhi,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Aleksandr Sapeta,24,Russia,Central Midfield,CM,2500000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Aleksandr Erokhin,23,Russia,Attacking Midfield,AM,450000.0,SKA-Energia,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Lasha Gvalia,21,Georgia,Central Midfield,CM,175000.0,FC Dila,Georgia,,in,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Dmitri Yashin,31,Russia,Goalkeeper,GK,50000.0,Shinnik,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksey Revyakin,31,Russia,Centre-Back,CB,350000.0,Fakel Voronezh,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Ivan Drannikov,26,Russia,Left-Back,LB,200000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Konstantin Skrylnikov,33,Russia,Left Midfield,LM,50000.0,Fakel Voronezh,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Maksim Volkov,25,Russia,Central Midfield,CM,250000.0,Sokol Saratov,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksandr Kotlyarov,29,Russia,Goalkeeper,GK,200000.0,Luch Vladivostok,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksandr Marenich,24,Russia,Left Winger,LW,50000.0,Spartak 2,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Dmitri Ryzhov,23,Russia,Centre-Forward,CF,100000.0,Enisey,Russia,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Grigori Lyubimov,20,Russia,Goalkeeper,GK,50000.0,Unknown,,0.0,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Maksim Semakin,29,Russia,Central Midfield,CM,300000.0,Ufa,Russia,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Adessoye Oyewole,30,Russia,Centre-Back,CB,250000.0,Gazovik Orenburg,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Ivan Melnik,21,Russia,Defensive Midfield,DM,100000.0,Dinamo SPb,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Ural Yekaterinburg,Anton Kobyalko,27,Russia,Centre-Forward,CF,400000.0,Gazovik Orenburg,Russia,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Mikhail Biryukov,26,Russia,Centre-Forward,CF,75000.0,SKVO,Russia,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Artem Solovey,22,Belarus,Right Midfield,RM,450000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Branimir Petrovic,31,Serbia,Central Midfield,CM,200000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Kantemir Berkhamov,25,Russia,Central Midfield,CM,450000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Ural Yekaterinburg,Maksim Astafjev,30,Russia,Right Winger,RW,400000.0,Sibir,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Ural Yekaterinburg,Denis Dorozhkin,26,Russia,Centre-Forward,CF,200000.0,Spartak Nalchik,Russia,100000.0,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Artem Fidler,30,Russia,Defensive Midfield,DM,1000000.0,Kuban Krasnodar,Russia,0.0,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Nikolay Zabolotnyi,23,Russia,Goalkeeper,GK,500000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Vladimir Khozin,24,Russia,Centre-Back,CB,750000.0,Spartak V-kavkaz,Russia,0.0,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Alan Bagaev,22,Russia,Centre-Back,CB,,S2V,Russia,0.0,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksandr Stavpets,24,Russia,Right Winger,RW,650000.0,Rotor Volgograd,Russia,,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Arsen Goshokov,22,Russia,Centre-Forward,CF,250000.0,Spartak Nalchik,Russia,,in,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Nikolay Safronidi,30,Russia,Left Midfield,LM,450000.0,Ufa,Russia,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Milan Vjestica,34,Serbia,Centre-Back,CB,250000.0,Dinamo SPb,Russia,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Yuri Kirillov,23,Russia,Defensive Midfield,DM,300000.0,Atlantas,Lithuania,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Anatoli Gerk,29,Russia,Attacking Midfield,AM,300000.0,Tambov,Russia,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Toto Tamuz,25,Israel,Centre-Forward,CF,1000000.0,Petrolul,Romania,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Aleksey Solosin,26,Russia,Goalkeeper,GK,450000.0,Khimki,Russia,0.0,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Artur Sarkisov,27,Armenia,Right Winger,RW,700000.0,Volga NN,Russia,,out,winter,Premier Liga,2013,False,
+Ural Yekaterinburg,Semen Pomogaev,20,Russia,Central Midfield,CM,50000.0,Dinamo SPb,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Luton Shelton,27,Jamaica,Left Winger,LW,2500000.0,Karabükspor,Turkey,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Denis Kolodin,31,Russia,Centre-Back,CB,500000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Roman Kontsedalov,27,Russia,Central Midfield,CM,750000.0,Spartak Nalchik,Russia,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Piotr Polczak,26,Poland,Centre-Back,CB,400000.0,Terek Grozny,Russia,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Leandro,28,Brazil,Right-Back,RB,900000.0,Arsenal Kyiv,Ukraine,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Marcin Kowalczyk,28,Poland,Centre-Back,CB,500000.0,Slask Wroclaw,Poland,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Sergei Pareiko,36,Estonia,Goalkeeper,GK,500000.0,Wisla Kraków,Poland,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Evgeni Aldonin,33,Russia,Defensive Midfield,DM,350000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Milan Rodic,22,Serbia,Left-Back,LB,1000000.0,Zenit S-Pb,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Artur Nigmatullin,22,Russia,Goalkeeper,GK,100000.0,CSKA Moscow II,Russia,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Mulumba Mukendi,28,DR Congo,Centre-Forward,CF,175000.0,Ruzomberok,Slovakia,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Mikhail Komarov,29,Russia,Goalkeeper,GK,75000.0,Atlantas,Lithuania,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Artem Danilenko,23,Russia,Centre-Forward,CF,100000.0,Khimik,Russia,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Dmitri Sychev,29,Russia,Centre-Forward,CF,1500000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Mikhail Kostyukov,21,Russia,Right Winger,RW,,Khimik,Russia,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Dmitri Bulykin,33,Russia,Centre-Forward,CF,600000.0,Without Club,,,in,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Ilya Abaev,31,Russia,Goalkeeper,GK,400000.0,Loko Moscow,Russia,1000000.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Mikhail Kerzhakov,26,Russia,Goalkeeper,GK,800000.0,Anzhi,Russia,500000.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Aleksandr Kharitonov,30,Russia,Left Midfield,LM,800000.0,Enisey,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Mihaita Plesan,30,Romania,Central Midfield,CM,400000.0,Univ. Craiova,Romania,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Egor Tarakanov,26,Russia,Left-Back,LB,75000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Dmitri Aydov,31,Russia,Centre-Back,CB,250000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Aleksandr Belozerov,31,Russia,Centre-Back,CB,700000.0,Ural,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Ruslan Adzhindzhal,39,Russia,Central Midfield,CM,50000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Aleksandr Salugin,24,Russia,Centre-Forward,CF,350000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Romeo Castelen,30,Netherlands,Right Winger,RW,250000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Dmitri Kudryashov,30,Russia,Central Midfield,CM,300000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Gia Grigalava,23,Georgia,Centre-Back,CB,1000000.0,KS Samara,Russia,,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Valeri Kichin,20,Kyrgyzstan,Left-Back,LB,100000.0,Khimik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Mikhail Kostyukov,21,Russia,Right Winger,RW,,Khimik,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Nikolay Zaytsev,24,Russia,Centre-Back,CB,350000.0,Spartak V-kavkaz,Russia,,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Aleksey Pomerko,23,Russia,Central Midfield,CM,300000.0,Shinnik,Russia,,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Shamil Asildarov,30,Russia,Centre-Forward,CF,600000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Aleksey Sapogov,25,Russia,Centre-Forward,CF,2000000.0,Without Club,,,out,summer,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Artur Sarkisov,26,Armenia,Right Winger,RW,700000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Volga Nizhniy Novgorod,Artur Nigmatullin,22,Russia,Goalkeeper,GK,100000.0,CSKA Moscow II,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Volga Nizhniy Novgorod,Piotr Polczak,26,Poland,Centre-Back,CB,400000.0,Terek Grozny,Russia,0.0,out,summer,Premier Liga,2013,True,end of loan
+Volga Nizhniy Novgorod,Nikita Chicherin,23,Russia,Right-Back,RB,1200000.0,Dinamo Moscow,Russia,0.0,in,winter,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Ariel Borysiuk,22,Poland,Defensive Midfield,DM,1500000.0,1.FC K'lautern,Germany,0.0,in,winter,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Artur Sarkisov,27,Armenia,Right Winger,RW,700000.0,Ural,Russia,,in,winter,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Artur Minosyan,24,Russia,Attacking Midfield,AM,200000.0,Chernomorets N.,Russia,,in,winter,Premier Liga,2013,False,
+Volga Nizhniy Novgorod,Matija Dvornekovic,25,Croatia,Right Winger,RW,200000.0,Torpedo Moscow,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Volga Nizhniy Novgorod,Valeri Kichin,21,Kyrgyzstan,Left-Back,LB,200000.0,Ufa,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Cristian Ansaldi,26,Argentina,Left-Back,LB,10000000.0,Rubin Kazan,Russia,8000000.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Oleg Shatov,23,Russia,Attacking Midfield,AM,5000000.0,Anzhi,Russia,7000000.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Igor Smolnikov,25,Russia,Right-Back,RB,3500000.0,Krasnodar,Russia,6000000.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Yuri Lodygin,23,Russia,Goalkeeper,GK,500000.0,Skoda Xanthi,Greece,800000.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Anatoliy Tymoshchuk,34,Ukraine,Defensive Midfield,DM,2000000.0,FC Bayern,Germany,0.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Andrey Arshavin,32,Russia,Second Striker,SS,4500000.0,Arsenal,England,0.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Ivan Solovjev,20,Russia,Left Winger,LW,750000.0,Dinamo Moscow,Russia,0.0,in,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Igor Denisov,29,Russia,Defensive Midfield,DM,16000000.0,Anzhi,Russia,15000000.0,out,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Bruno Alves,31,Portugal,Centre-Back,CB,6500000.0,Fenerbahce,Turkey,5500000.0,out,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Milan Rodic,22,Serbia,Left-Back,LB,1000000.0,Volga NN,Russia,0.0,out,summer,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Luka Djordjevic,19,Montenegro,Centre-Forward,CF,1200000.0,Twente FC,Netherlands,0.0,out,summer,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Sergey Semak,37,Russia,Central Midfield,CM,100000.0,Retired,,,out,summer,Premier Liga,2013,False,
+Zenit St. Petersburg,Salomón Rondón,24,Venezuela,Centre-Forward,CF,11000000.0,Rubin Kazan,Russia,18000000.0,in,winter,Premier Liga,2013,False,
+Zenit St. Petersburg,Aleksandr Ryazantsev,27,Russia,Central Midfield,CM,5000000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2013,False,
+Zenit St. Petersburg,Danko Lazovic,30,Serbia,Second Striker,SS,2000000.0,Partizan,Serbia,0.0,out,winter,Premier Liga,2013,False,
+Zenit St. Petersburg,Vladimir Bystrov,29,Russia,Right Midfield,RM,6500000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Aleksandr Bukharov,28,Russia,Centre-Forward,CF,2500000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Ivan Solovjev,20,Russia,Left Winger,LW,700000.0,Amkar Perm,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Roman Shirokov,32,Russia,Central Midfield,CM,5000000.0,Krasnodar,Russia,0.0,out,winter,Premier Liga,2013,True,free loan
+Zenit St. Petersburg,Yuri Zhevnov,32,Belarus,Goalkeeper,GK,700000.0,Without Club,,,out,winter,Premier Liga,2013,False,
+Zenit St. Petersburg,Pavel Mogilevets,20,Russia,Central Midfield,CM,250000.0,Rubin Kazan,Russia,0.0,out,winter,Premier Liga,2013,True,free loan

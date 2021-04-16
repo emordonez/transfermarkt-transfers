@@ -1,0 +1,479 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Athletic Bilbao,Álex Berenguer,25,Spain,Left Winger,LW,6000000.0,Torino,Italy,12000000.0,in,summer,Laliga,2020,False,
+Athletic Bilbao,Hodei Oleaga,23,Spain,Goalkeeper,GK,200000.0,Barakaldo CF,Spain,0.0,out,summer,Laliga,2020,False,
+Athletic Bilbao,Cristian Ganea,28,Romania,Left-Back,LB,800000.0,Aris Saloniki,Greece,0.0,out,summer,Laliga,2020,False,
+Athletic Bilbao,Andoni López,24,Spain,Left-Back,LB,400000.0,UD Logroñés,Spain,0.0,out,summer,Laliga,2020,False,
+Athletic Bilbao,Gaizka Larrazabal,22,Spain,Right Winger,RW,2000000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2020,False,
+Athletic Bilbao,Dani Vivian,21,Spain,Centre-Back,CB,200000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Athletic Bilbao,Jon Sillero,22,Spain,Centre-Back,CB,200000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Athletic Bilbao,Beñat Etxebarria,33,Spain,Central Midfield,CM,2400000.0,Without Club,,,out,summer,Laliga,2020,False,
+Athletic Bilbao,Mikel San José,31,Spain,Defensive Midfield,DM,4800000.0,Without Club,,,out,summer,Laliga,2020,False,
+Athletic Bilbao,Kenan Kodro,27,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Real Valladolid,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Athletic Bilbao,Iñigo Córdoba,23,Spain,Left Winger,LW,2500000.0,Alavés,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Atlético Madrid,Álvaro Morata,27,Spain,Centre-Forward,CF,36000000.0,Chelsea,England,35000000.0,in,summer,Laliga,2020,False,
+Atlético Madrid,Yannick Carrasco,27,Belgium,Left Winger,LW,22500000.0,DL Pro,China,27000000.0,in,summer,Laliga,2020,False,
+Atlético Madrid,Luis Suárez,33,Uruguay,Centre-Forward,CF,28000000.0,FC Barcelona,Spain,7000000.0,in,summer,Laliga,2020,False,
+Atlético Madrid,Ivo Grbic,24,Croatia,Goalkeeper,GK,2000000.0,NK Lokomotiva,Croatia,3500000.0,in,summer,Laliga,2020,False,
+Atlético Madrid,Lucas Torreira,24,Uruguay,Defensive Midfield,DM,30000000.0,Arsenal,England,0.0,in,summer,Laliga,2020,True,free loan
+Atlético Madrid,Thomas Partey,27,Ghana,Defensive Midfield,DM,40000000.0,Arsenal,England,50000000.0,out,summer,Laliga,2020,False,
+Atlético Madrid,Álvaro Morata,27,Spain,Centre-Forward,CF,36000000.0,Juventus,Italy,10000000.0,out,summer,Laliga,2020,True,loan with fee
+Atlético Madrid,Caio Henrique,23,Brazil,Left-Back,LB,1200000.0,Monaco,France,8000000.0,out,summer,Laliga,2020,False,
+Atlético Madrid,Santiago Arias,28,Colombia,Right-Back,RB,12000000.0,Bay. Leverkusen,Germany,3000000.0,out,summer,Laliga,2020,True,loan with fee
+Atlético Madrid,Nikola Kalinic,32,Croatia,Centre-Forward,CF,5500000.0,Hellas Verona,Italy,1800000.0,out,summer,Laliga,2020,False,
+Atlético Madrid,Francisco Montero,21,Spain,Centre-Back,CB,6700000.0,Besiktas,Turkey,500000.0,out,summer,Laliga,2020,True,loan with fee
+Atlético Madrid,Antonio Adán,33,Spain,Goalkeeper,GK,800000.0,Sporting CP,Portugal,0.0,out,summer,Laliga,2020,False,
+Atlético Madrid,Diego Conde,21,Spain,Goalkeeper,GK,200000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Atlético Madrid,Darío Poveda,23,Spain,Centre-Forward,CF,250000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Atlético Madrid,Rodrigo Riquelme,20,Spain,Right Winger,RW,2300000.0,Bournemouth,England,0.0,out,summer,Laliga,2020,True,free loan
+Atlético Madrid,Nehuén Pérez,20,Argentina,Centre-Back,CB,7500000.0,Granada CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Atlético Madrid,Víctor Mollejo,19,Spain,Right Winger,RW,4000000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Atlético Madrid,Álvaro Morata,27,Spain,Centre-Forward,CF,36000000.0,Chelsea,England,0.0,out,summer,Laliga,2020,True,end of loan
+Atlético Madrid,Geoffrey Kondogbia,27,Central African Republic,Central Midfield,CM,17500000.0,Valencia,Spain,15000000.0,in,winter,Laliga,2020,False,
+Atlético Madrid,Moussa Dembélé,24,France,Centre-Forward,CF,30000000.0,Olympique Lyon,France,1500000.0,in,winter,Laliga,2020,True,loan with fee
+Atlético Madrid,Manu Sánchez,20,Spain,Left-Back,LB,6000000.0,CA Osasuna,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Atlético Madrid,Ivan Saponjic,23,Serbia,Centre-Forward,CF,1200000.0,Cádiz CF,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Atlético Madrid,Víctor Mollejo,20,Spain,Right Winger,RW,3500000.0,RCD Mallorca,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Atlético Madrid,Diego Costa,32,Spain,Centre-Forward,CF,10000000.0,Without Club,,,out,winter,Laliga,2020,False,
+CA Osasuna,Juan Cruz,28,Spain,Left-Back,LB,475000.0,Elche CF,Spain,2750000.0,in,summer,Laliga,2020,False,
+CA Osasuna,Enric Gallego,33,Spain,Centre-Forward,CF,1200000.0,Getafe,Spain,2000000.0,in,summer,Laliga,2020,False,
+CA Osasuna,Lucas Torró,26,Spain,Defensive Midfield,DM,2400000.0,E. Frankfurt,Germany,2000000.0,in,summer,Laliga,2020,False,
+CA Osasuna,Raúl Navas,32,Spain,Centre-Back,CB,1200000.0,Real Sociedad,Spain,250000.0,in,summer,Laliga,2020,False,
+CA Osasuna,Jonathan Calleri,26,Argentina,Centre-Forward,CF,6000000.0,Maldonado,Uruguay,0.0,in,summer,Laliga,2020,True,free loan
+CA Osasuna,Jony,29,Spain,Left Winger,LW,6500000.0,Lazio,Italy,0.0,in,summer,Laliga,2020,True,free loan
+CA Osasuna,Ante Budimir,29,Croatia,Centre-Forward,CF,15000000.0,RCD Mallorca,Spain,0.0,in,summer,Laliga,2020,True,free loan
+CA Osasuna,Luis Perea,23,Spain,Defensive Midfield,DM,600000.0,CD Leganés,Spain,3000000.0,out,summer,Laliga,2020,False,
+CA Osasuna,Juan Villar,32,Spain,Right Winger,RW,650000.0,UD Almería,Spain,450000.0,out,summer,Laliga,2020,False,
+CA Osasuna,Fran Mérida,30,Spain,Central Midfield,CM,1200000.0,Espanyol,Spain,0.0,out,summer,Laliga,2020,False,
+CA Osasuna,Antonio Otegui,22,Spain,Central Midfield,CM,350000.0,CD Badajoz,Spain,0.0,out,summer,Laliga,2020,False,
+CA Osasuna,Jaume Grau,23,Spain,Central Midfield,CM,300000.0,Tondela,Portugal,0.0,out,summer,Laliga,2020,True,free loan
+CA Osasuna,Rober Ibáñez,27,Spain,Right Winger,RW,800000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+CA Osasuna,Barbero,22,Spain,Centre-Forward,CF,300000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2020,True,free loan
+CA Osasuna,Marc Cardona,25,Spain,Centre-Forward,CF,1200000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2020,True,free loan
+CA Osasuna,Pervis Estupiñán,22,Ecuador,Left-Back,LB,15000000.0,Watford,England,0.0,out,summer,Laliga,2020,True,end of loan
+CA Osasuna,Raúl Navas,32,Spain,Centre-Back,CB,1200000.0,Real Sociedad,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+CA Osasuna,Toni Lato,22,Spain,Left-Back,LB,1600000.0,Valencia,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+CA Osasuna,Enric Gallego,33,Spain,Centre-Forward,CF,1200000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+CA Osasuna,José Manuel Arnáiz,25,Spain,Left Winger,LW,2000000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+CA Osasuna,Manu Sánchez,20,Spain,Left-Back,LB,6000000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2020,True,free loan
+CA Osasuna,Jonás Ramalho,27,Angola,Centre-Back,CB,1000000.0,Girona,Spain,0.0,in,winter,Laliga,2020,True,free loan
+CA Osasuna,Raúl Navas,32,Spain,Centre-Back,CB,700000.0,FC Cartagena,Spain,0.0,out,winter,Laliga,2020,False,
+CA Osasuna,Brandon,25,Spain,Centre-Forward,CF,800000.0,CD Leganés,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Celta de Vigo,Miguel Baeza,20,Spain,Attacking Midfield,AM,100000.0,RM Castilla,Spain,2500000.0,in,summer,Laliga,2020,False,
+Celta de Vigo,Renato Tapia,25,Peru,Defensive Midfield,DM,2400000.0,Feyenoord,Netherlands,0.0,in,summer,Laliga,2020,False,
+Celta de Vigo,Álvaro Vadillo,25,Spain,Left Winger,LW,2400000.0,Granada CF,Spain,0.0,in,summer,Laliga,2020,False,
+Celta de Vigo,Pione Sisto,25,Denmark,Left Winger,LW,4800000.0,FC Midtjylland,Denmark,2500000.0,out,summer,Laliga,2020,False,
+Celta de Vigo,Robert Mazan,26,Slovakia,Left-Back,LB,300000.0,Mladá Boleslav,Czech Republic,0.0,out,summer,Laliga,2020,False,
+Celta de Vigo,Juan Hernández,25,Spain,Right Winger,RW,650000.0,CE Sabadell,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Celta de Vigo,Gabriel Fernández,26,Uruguay,Centre-Forward,CF,2400000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Celta de Vigo,Jozabed Sánchez,29,Spain,Central Midfield,CM,1200000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Celta de Vigo,Álvaro Vadillo,26,Spain,Left Winger,LW,2400000.0,Espanyol,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Celta de Vigo,Pape Cheikh,22,Senegal,Central Midfield,CM,5500000.0,Olympique Lyon,France,0.0,out,summer,Laliga,2020,True,end of loan
+Celta de Vigo,Rafinha,27,Brazil,Central Midfield,CM,9500000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Celta de Vigo,Filip Bradaric,28,Croatia,Defensive Midfield,DM,3200000.0,Cagliari Calcio,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+Celta de Vigo,Fedor Smolov,30,Russia,Centre-Forward,CF,7000000.0,Loko Moscow,Russia,0.0,out,summer,Laliga,2020,True,end of loan
+Celta de Vigo,Augusto Solari,29,Argentina,Right Winger,RW,4000000.0,Racing Club,Argentina,500000.0,in,winter,Laliga,2020,False,
+Celta de Vigo,Facundo Ferreyra,29,Argentina,Centre-Forward,CF,2000000.0,Benfica,Portugal,0.0,in,winter,Laliga,2020,False,
+Celta de Vigo,Aarón Martín,23,Spain,Left-Back,LB,4500000.0,1.FSV Mainz 05,Germany,0.0,in,winter,Laliga,2020,True,free loan
+Celta de Vigo,Okay Yokuslu,26,Turkey,Defensive Midfield,DM,4000000.0,West Brom,England,0.0,out,winter,Laliga,2020,True,free loan
+Cádiz CF,Álvaro Giménez,29,Spain,Centre-Forward,CF,800000.0,Birmingham,England,2700000.0,in,summer,Laliga,2020,False,
+Cádiz CF,Choco Lozano,27,Honduras,Centre-Forward,CF,1000000.0,Girona,Spain,2500000.0,in,summer,Laliga,2020,False,
+Cádiz CF,Iván Alejo,25,Spain,Right Winger,RW,950000.0,Getafe,Spain,2000000.0,in,summer,Laliga,2020,False,
+Cádiz CF,Jorge Pombo,26,Spain,Attacking Midfield,AM,700000.0,Real Zaragoza,Spain,1200000.0,in,summer,Laliga,2020,False,
+Cádiz CF,Filip Malbasic,27,Serbia,Right Winger,RW,650000.0,CD Tenerife,Spain,1000000.0,in,summer,Laliga,2020,False,
+Cádiz CF,Jeremías Ledesma,27,Argentina,Goalkeeper,GK,1100000.0,CA Rosario,Argentina,600000.0,in,summer,Laliga,2020,True,loan with fee
+Cádiz CF,Jairo Izquierdo,26,Spain,Left Winger,LW,650000.0,Girona,Spain,200000.0,in,summer,Laliga,2020,True,loan with fee
+Cádiz CF,Dani Sotres,27,Spain,Goalkeeper,GK,250000.0,Salamanca CF,Spain,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Gaspar Panadero,22,Spain,Left Winger,LW,400000.0,Al-Wahda FC,United Arab Emirates,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Álvaro Negredo,34,Spain,Centre-Forward,CF,1600000.0,Al-Nasr,United Arab Emirates,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,David Mayoral,23,Spain,Right Winger,RW,250000.0,UCAM Murcia,Spain,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Nano Mesa,25,Spain,Centre-Forward,CF,475000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Jens Jönsson,27,Denmark,Defensive Midfield,DM,1500000.0,Konyaspor,Turkey,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Pedro Alcalá,31,Spain,Centre-Back,CB,650000.0,Girona,Spain,0.0,in,summer,Laliga,2020,False,
+Cádiz CF,Bobby Adekanye,21,Netherlands,Right Winger,RW,800000.0,Lazio,Italy,0.0,in,summer,Laliga,2020,True,free loan
+Cádiz CF,Brian Oliván,26,Spain,Left-Back,LB,400000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2020,False,
+Cádiz CF,Dani Romera,25,Spain,Centre-Forward,CF,475000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2020,False,
+Cádiz CF,David Carmona,23,Spain,Right-Back,RB,650000.0,Betis B,Spain,0.0,out,summer,Laliga,2020,False,
+Cádiz CF,Jean-Pierre Rhyner,24,Peru,Centre-Back,CB,400000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Edu Ramos,28,Spain,Central Midfield,CM,475000.0,Marbella FC,Spain,0.0,out,summer,Laliga,2020,False,
+Cádiz CF,David Mayoral,23,Spain,Right Winger,RW,250000.0,FC Hermannstadt,Romania,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Caye Quintana,26,Spain,Centre-Forward,CF,325000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Javi Navarro,23,Spain,Left Winger,LW,200000.0,Albacete,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,José Matos,25,Spain,Left-Back,LB,650000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Dani Sotres,27,Spain,Goalkeeper,GK,250000.0,R. Majadahonda,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Gaspar Panadero,22,Spain,Left Winger,LW,400000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Cádiz CF,Sergio Sánchez,34,Spain,Centre-Back,CB,300000.0,Without Club,,,out,summer,Laliga,2020,False,
+Cádiz CF,José Manuel Jurado,34,Spain,Attacking Midfield,AM,650000.0,Without Club,,,out,summer,Laliga,2020,False,
+Cádiz CF,Alberto Cifuentes,41,Spain,Goalkeeper,GK,100000.0,Retired,,,out,summer,Laliga,2020,False,
+Cádiz CF,David Querol,31,Spain,Right Winger,RW,325000.0,Without Club,,,out,summer,Laliga,2020,False,
+Cádiz CF,Djordje Jovanovic,21,Serbia,Centre-Forward,CF,725000.0,Without Club,,,out,summer,Laliga,2020,False,
+Cádiz CF,Nano Mesa,25,Spain,Centre-Forward,CF,475000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Iván Alejo,25,Spain,Right Winger,RW,950000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Choco Lozano,27,Honduras,Centre-Forward,CF,800000.0,Girona,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Jorge Pombo,26,Spain,Attacking Midfield,AM,550000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Filip Malbasic,27,Serbia,Right Winger,RW,650000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Álvaro Giménez,29,Spain,Centre-Forward,CF,1200000.0,Birmingham,England,0.0,out,summer,Laliga,2020,True,end of loan
+Cádiz CF,Ivan Saponjic,23,Serbia,Centre-Forward,CF,1200000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Cádiz CF,Rubén Sobrino,28,Spain,Centre-Forward,CF,1500000.0,Valencia,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Cádiz CF,Yann Bodiger,25,France,Central Midfield,CM,1000000.0,CD Castellón,Spain,0.0,out,winter,Laliga,2020,False,
+Cádiz CF,Jean-Pierre Rhyner,24,Peru,Centre-Back,CB,300000.0,FC Emmen,Netherlands,0.0,out,winter,Laliga,2020,True,free loan
+Cádiz CF,Nano Mesa,25,Spain,Centre-Forward,CF,500000.0,UD Logroñés,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Cádiz CF,Álvaro Giménez,29,Spain,Centre-Forward,CF,2500000.0,RCD Mallorca,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Cádiz CF,Sergio González,23,Spain,Defensive Midfield,DM,700000.0,CD Tenerife,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Deportivo Alavés,Carlos Isaac,22,Spain,Right-Back,RB,200000.0,Atl. Madrid B,Spain,0.0,in,summer,Laliga,2020,False,
+Deportivo Alavés,Jota Peleteiro,29,Spain,Right Winger,RW,3500000.0,Aston Villa,England,0.0,in,summer,Laliga,2020,False,
+Deportivo Alavés,Deyverson,29,Brazil,Centre-Forward,CF,4000000.0,Palmeiras,Brazil,0.0,in,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Rodrigo Battaglia,29,Argentina,Central Midfield,CM,4500000.0,Sporting CP,Portugal,0.0,in,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Florian Lejeune,29,France,Centre-Back,CB,4800000.0,Newcastle,England,0.0,in,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Tomás Tavares,19,Portugal,Right-Back,RB,7500000.0,Benfica,Portugal,0.0,in,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Ermedin Demirovic,22,Bosnia-Herzegovina,Centre-Forward,CF,3000000.0,SC Freiburg,Germany,3700000.0,out,summer,Laliga,2020,False,
+Deportivo Alavés,Patrick Twumasi,26,Ghana,Right Winger,RW,2500000.0,Hannover 96,Germany,700000.0,out,summer,Laliga,2020,False,
+Deportivo Alavés,Ramón Miérez,23,Argentina,Centre-Forward,CF,950000.0,NK Osijek,Croatia,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Carlos Isaac,22,Spain,Right-Back,RB,200000.0,Albacete,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Anderson Cruz,24,Angola,Left Winger,LW,300000.0,Bolívar,Bolivia,,out,summer,Laliga,2020,False,
+Deportivo Alavés,José Luis Rodríguez,22,Panama,Left Winger,LW,450000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Olivier Verdon,24,Benin,Centre-Back,CB,475000.0,Ludogorets,Bulgaria,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Adrián Diéguez,24,Spain,Centre-Back,CB,475000.0,CF Fuenlabrada,Spain,,out,summer,Laliga,2020,False,
+Deportivo Alavés,Javi Muñoz,25,Spain,Central Midfield,CM,325000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Saúl García,25,Spain,Left-Back,LB,725000.0,Sporting Gijón,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Jeando Fuchs,22,Cameroon,Defensive Midfield,DM,1200000.0,Dundee United,Scotland,,out,summer,Laliga,2020,False,
+Deportivo Alavés,Rafa Navarro,26,Spain,Right-Back,RB,400000.0,NK Istra,Croatia,0.0,out,summer,Laliga,2020,True,free loan
+Deportivo Alavés,Aleix Vidal,30,Spain,Right-Back,RB,3500000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Oliver Burke,23,Scotland,Centre-Forward,CF,4800000.0,West Brom,England,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Lisandro Magallán,26,Argentina,Centre-Back,CB,4800000.0,Ajax,Netherlands,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Víctor Camarasa,26,Spain,Central Midfield,CM,4000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Roberto,34,Spain,Goalkeeper,GK,800000.0,West Ham,England,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Ljubomir Fejsa,31,Serbia,Defensive Midfield,DM,2800000.0,Benfica,Portugal,0.0,out,summer,Laliga,2020,True,end of loan
+Deportivo Alavés,Facundo Pellistri,19,Uruguay,Right Winger,RW,7000000.0,Man Utd,England,0.0,in,winter,Laliga,2020,True,free loan
+Deportivo Alavés,Iñigo Córdoba,23,Spain,Left Winger,LW,2500000.0,Athletic,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Deportivo Alavés,Fabrice Ondoa,25,Cameroon,Goalkeeper,GK,400000.0,Without Club,,,in,winter,Laliga,2020,False,
+Deportivo Alavés,Adrián Marín,24,Spain,Left-Back,LB,1000000.0,Granada CF,Spain,0.0,out,winter,Laliga,2020,False,
+Deportivo Alavés,Fabrice Ondoa,25,Cameroon,Goalkeeper,GK,400000.0,NK Istra,Croatia,0.0,out,winter,Laliga,2020,True,free loan
+Elche CF,Raúl Guti,23,Spain,Central Midfield,CM,800000.0,Real Zaragoza,Spain,5000000.0,in,summer,Laliga,2020,False,
+Elche CF,Tete Morente,23,Spain,Left Winger,LW,400000.0,Málaga CF,Spain,500000.0,in,summer,Laliga,2020,False,
+Elche CF,Emiliano Rigoni,27,Argentina,Right Winger,RW,4500000.0,Zenit S-Pb,Russia,500000.0,in,summer,Laliga,2020,True,loan with fee
+Elche CF,Jeison Lucumí,25,Colombia,Right Winger,RW,1200000.0,Tigres UANL,Mexico,0.0,in,summer,Laliga,2020,False,
+Elche CF,Juan Sánchez Miño,30,Argentina,Left-Back,LB,3500000.0,Independiente,Argentina,0.0,in,summer,Laliga,2020,False,
+Elche CF,Miguel Cifuentes,29,Spain,Right-Back,RB,650000.0,Málaga CF,Spain,0.0,in,summer,Laliga,2020,False,
+Elche CF,Luismi,28,Spain,Defensive Midfield,DM,475000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2020,False,
+Elche CF,Youssouf Koné,25,Mali,Left-Back,LB,6500000.0,Olympique Lyon,France,0.0,in,summer,Laliga,2020,True,free loan
+Elche CF,Antonio Barragán,33,Spain,Right-Back,RB,1600000.0,Real Betis,Spain,0.0,in,summer,Laliga,2020,False,
+Elche CF,Guido Carrillo,29,Argentina,Centre-Forward,CF,4800000.0,Southampton,England,0.0,in,summer,Laliga,2020,False,
+Elche CF,Diego González,25,Spain,Centre-Back,CB,900000.0,Málaga CF,Spain,0.0,in,summer,Laliga,2020,False,
+Elche CF,Lucas Boyé,24,Argentina,Centre-Forward,CF,900000.0,Torino,Italy,0.0,in,summer,Laliga,2020,True,free loan
+Elche CF,Iván Marcone,30,Argentina,Defensive Midfield,DM,5200000.0,Boca Juniors,Argentina,0.0,in,summer,Laliga,2020,True,free loan
+Elche CF,Diego Rodríguez,31,Argentina,Goalkeeper,GK,300000.0,Defensa,Argentina,0.0,in,summer,Laliga,2020,True,free loan
+Elche CF,Juan Cruz,28,Spain,Left-Back,LB,475000.0,CA Osasuna,Spain,2750000.0,out,summer,Laliga,2020,False,
+Elche CF,Óscar Gil,22,Spain,Right-Back,RB,400000.0,Espanyol,Spain,500000.0,out,summer,Laliga,2020,False,
+Elche CF,Tekio,30,Spain,Right-Back,RB,325000.0,Volos NPS,Greece,0.0,out,summer,Laliga,2020,False,
+Elche CF,Jonathas,31,Brazil,Centre-Forward,CF,1000000.0,Sharjah FC,United Arab Emirates,0.0,out,summer,Laliga,2020,False,
+Elche CF,Iván Sánchez,27,Spain,Right Winger,RW,650000.0,Birmingham,England,0.0,out,summer,Laliga,2020,False,
+Elche CF,Jony Ñiguez,35,Spain,Central Midfield,CM,200000.0,CD Alcoyano,Spain,0.0,out,summer,Laliga,2020,False,
+Elche CF,Manuel Sánchez,32,Spain,Defensive Midfield,DM,,Real Ávila,Spain,0.0,out,summer,Laliga,2020,False,
+Elche CF,Claudio Medina,27,Spain,Centre-Forward,CF,300000.0,Burgos CF,Spain,0.0,out,summer,Laliga,2020,False,
+Elche CF,Manu Justo,24,Spain,Second Striker,SS,250000.0,Celta Vigo B,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Elche CF,Ramón Folch,31,Spain,Central Midfield,CM,550000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Elche CF,Miguel San Román,23,Spain,Goalkeeper,GK,300000.0,Atl. Madrid B,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Elche CF,Andoni López,24,Spain,Left-Back,LB,400000.0,Athletic,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Elche CF,Dani Escriche,22,Spain,Centre-Forward,CF,725000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Elche CF,Johan Mojica,28,Colombia,Left-Back,LB,2500000.0,Girona,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Elche CF,Paulo Gazzaniga,29,Argentina,Goalkeeper,GK,4000000.0,Spurs,England,0.0,in,winter,Laliga,2020,True,free loan
+Elche CF,Helibelton Palacios,27,Colombia,Right-Back,RB,1200000.0,Without Club,,,in,winter,Laliga,2020,False,
+Elche CF,Pablo Piatti,31,Argentina,Left Winger,LW,2000000.0,Without Club,,,in,winter,Laliga,2020,False,
+Elche CF,Jeison Lucumí,25,Colombia,Right Winger,RW,1200000.0,CD América,Colombia,0.0,out,winter,Laliga,2020,False,
+Elche CF,Juan Sánchez Miño,31,Argentina,Left-Back,LB,2500000.0,Estudiantes,Argentina,0.0,out,winter,Laliga,2020,False,
+FC Barcelona,Miralem Pjanić,30,Bosnia-Herzegovina,Central Midfield,CM,45000000.0,Juventus,Italy,60000000.0,in,summer,Laliga,2020,False,
+FC Barcelona,Trincão,20,Portugal,Right Winger,RW,16000000.0,Braga,Portugal,31000000.0,in,summer,Laliga,2020,False,
+FC Barcelona,Sergiño Dest,19,United States,Right-Back,RB,18000000.0,Ajax,Netherlands,21000000.0,in,summer,Laliga,2020,False,
+FC Barcelona,Matheus Fernandes,22,Brazil,Defensive Midfield,DM,3200000.0,Palmeiras,Brazil,7000000.0,in,summer,Laliga,2020,False,
+FC Barcelona,Arthur,24,Brazil,Central Midfield,CM,56000000.0,Juventus,Italy,72000000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Nélson Semedo,26,Portugal,Right-Back,RB,40000000.0,Wolves,England,30000000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Carles Pérez,22,Spain,Right Winger,RW,9000000.0,AS Roma,Italy,11000000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Marc Cucurella,21,Spain,Left Midfield,LM,18000000.0,Getafe,Spain,10000000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Luis Suárez,33,Uruguay,Centre-Forward,CF,28000000.0,Atlético Madrid,Spain,7000000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Jean-Clair Todibo,20,France,Centre-Back,CB,14000000.0,Benfica,Portugal,2000000.0,out,summer,Laliga,2020,True,loan with fee
+FC Barcelona,Ivan Rakitic,32,Croatia,Central Midfield,CM,20000000.0,Sevilla FC,Spain,1500000.0,out,summer,Laliga,2020,False,
+FC Barcelona,Arda Turan,33,Turkey,Left Winger,LW,650000.0,Galatasaray,Turkey,0.0,out,summer,Laliga,2020,False,
+FC Barcelona,Moussa Wagué,21,Senegal,Right-Back,RB,6700000.0,PAOK Salonika,Greece,0.0,out,summer,Laliga,2020,True,free loan
+FC Barcelona,Arturo Vidal,33,Chile,Central Midfield,CM,11000000.0,Inter,Italy,0.0,out,summer,Laliga,2020,False,
+FC Barcelona,Rafinha,27,Brazil,Central Midfield,CM,9500000.0,Paris SG,France,0.0,out,summer,Laliga,2020,False,
+FC Barcelona,Sergio Akieme,22,Equatorial Guinea,Left-Back,LB,300000.0,UD Almería,Spain,0.0,out,summer,Laliga,2020,True,free loan
+FC Barcelona,Monchu,21,Spain,Central Midfield,CM,900000.0,Girona,Spain,0.0,out,summer,Laliga,2020,True,free loan
+FC Barcelona,Juan Miranda,20,Spain,Left-Back,LB,4000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2020,True,free loan
+FC Barcelona,Carles Aleñá,23,Spain,Central Midfield,CM,15000000.0,Getafe,Spain,0.0,out,winter,Laliga,2020,True,free loan
+FC Barcelona,Jean-Clair Todibo,21,France,Centre-Back,CB,12000000.0,OGC Nice,France,0.0,out,winter,Laliga,2020,True,free loan
+Getafe CF,Marc Cucurella,21,Spain,Left Midfield,LM,18000000.0,FC Barcelona,Spain,10000000.0,in,summer,Laliga,2020,False,
+Getafe CF,Enes Ünal,23,Turkey,Centre-Forward,CF,8000000.0,Villarreal,Spain,9000000.0,in,summer,Laliga,2020,False,
+Getafe CF,Cucho,21,Colombia,Centre-Forward,CF,6700000.0,Watford,England,0.0,in,summer,Laliga,2020,True,free loan
+Getafe CF,Darío Poveda,23,Spain,Centre-Forward,CF,250000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2020,True,free loan
+Getafe CF,Ante Palaversa,20,Croatia,Defensive Midfield,DM,3600000.0,Man City,England,0.0,in,summer,Laliga,2020,True,free loan
+Getafe CF,Víctor Mollejo,19,Spain,Right Winger,RW,4000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2020,True,free loan
+Getafe CF,Abdoulay Diaby,29,Mali,Right Winger,RW,4000000.0,Sporting CP,Portugal,0.0,in,summer,Laliga,2020,True,free loan
+Getafe CF,José Carlos Lazo,24,Spain,Left Winger,LW,1600000.0,UD Almería,Spain,4000000.0,out,summer,Laliga,2020,False,
+Getafe CF,Enric Gallego,33,Spain,Centre-Forward,CF,1200000.0,CA Osasuna,Spain,2000000.0,out,summer,Laliga,2020,False,
+Getafe CF,Iván Alejo,25,Spain,Right Winger,RW,950000.0,Cádiz CF,Spain,2000000.0,out,summer,Laliga,2020,False,
+Getafe CF,Merveil Ndockyt,22,Congo,Left Winger,LW,550000.0,NK Osijek,Croatia,550000.0,out,summer,Laliga,2020,False,
+Getafe CF,Raúl Carnero,31,Spain,Left-Back,LB,800000.0,Real Valladolid,Spain,200000.0,out,summer,Laliga,2020,False,
+Getafe CF,Vitorino Antunes,33,Portugal,Left-Back,LB,1600000.0,Sporting CP,Portugal,0.0,out,summer,Laliga,2020,False,
+Getafe CF,Jorge Molina,38,Spain,Centre-Forward,CF,1600000.0,Granada CF,Spain,0.0,out,summer,Laliga,2020,False,
+Getafe CF,Álvaro Jiménez,25,Spain,Right Winger,RW,400000.0,Albacete,Spain,0.0,out,summer,Laliga,2020,False,
+Getafe CF,Filip Manojlovic,24,Serbia,Goalkeeper,GK,200000.0,UD Sanse,Spain,0.0,out,summer,Laliga,2020,False,
+Getafe CF,Jack Harper,24,Scotland,Centre-Forward,CF,800000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Getafe CF,Hugo Duro,20,Spain,Centre-Forward,CF,1800000.0,RM Castilla,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Getafe CF,Fayçal Fajr,32,Morocco,Central Midfield,CM,3200000.0,Sivasspor,Turkey,,out,summer,Laliga,2020,False,
+Getafe CF,Ignasi Miquel,27,Spain,Centre-Back,CB,1200000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Getafe CF,Amath Ndiaye,24,Senegal,Left Winger,LW,2400000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Getafe CF,Marc Cucurella,21,Spain,Left Midfield,LM,18000000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Getafe CF,Deyverson,29,Brazil,Centre-Forward,CF,4000000.0,Palmeiras,Brazil,0.0,out,summer,Laliga,2020,True,end of loan
+Getafe CF,Oghenekaro Etebo,24,Nigeria,Central Midfield,CM,4000000.0,Stoke City,England,0.0,out,summer,Laliga,2020,True,end of loan
+Getafe CF,Kenedy,24,Brazil,Left Winger,LW,9500000.0,Chelsea,England,0.0,out,summer,Laliga,2020,True,end of loan
+Getafe CF,Takefusa Kubo,19,Japan,Right Winger,RW,20000000.0,Real Madrid,Spain,1250000.0,in,winter,Laliga,2020,True,loan with fee
+Getafe CF,Carles Aleñá,23,Spain,Central Midfield,CM,15000000.0,FC Barcelona,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Getafe CF,Soufiane Chakla,27,Morocco,Centre-Back,CB,800000.0,Villarreal,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Getafe CF,Leandro Chichizola,30,Argentina,Goalkeeper,GK,800000.0,FC Cartagena,Spain,0.0,out,winter,Laliga,2020,False,
+Getafe CF,Jack Harper,24,Scotland,Centre-Forward,CF,500000.0,Villarreal CF B,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Granada CF,Luis Suárez,22,Colombia,Centre-Forward,CF,7500000.0,Watford,England,7000000.0,in,summer,Laliga,2020,False,
+Granada CF,Luis Milla,25,Spain,Central Midfield,CM,1000000.0,CD Tenerife,Spain,5000000.0,in,summer,Laliga,2020,False,
+Granada CF,Maxime Gonalons,31,France,Defensive Midfield,DM,2800000.0,AS Roma,Italy,4000000.0,in,summer,Laliga,2020,False,
+Granada CF,Alberto Soro,21,Spain,Right Winger,RW,2700000.0,Real Madrid,Spain,2500000.0,in,summer,Laliga,2020,False,
+Granada CF,Dimitri Foulquier,27,Guadeloupe,Right-Back,RB,2000000.0,Watford,England,2000000.0,in,summer,Laliga,2020,False,
+Granada CF,Jorge Molina,38,Spain,Centre-Forward,CF,1600000.0,Getafe,Spain,0.0,in,summer,Laliga,2020,False,
+Granada CF,Jesús Vallejo,23,Spain,Centre-Back,CB,6000000.0,Real Madrid,Spain,0.0,in,summer,Laliga,2020,True,free loan
+Granada CF,Kenedy,24,Brazil,Left Winger,LW,9500000.0,Chelsea,England,0.0,in,summer,Laliga,2020,True,free loan
+Granada CF,Nehuén Pérez,20,Argentina,Centre-Back,CB,7500000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2020,True,free loan
+Granada CF,Álvaro Vadillo,25,Spain,Left Winger,LW,2400000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2020,False,
+Granada CF,José Antonio González,24,Spain,Central Midfield,CM,250000.0,Recr. Huelva,Spain,0.0,out,summer,Laliga,2020,False,
+Granada CF,Bernardo Cruz,27,Spain,Centre-Back,CB,475000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2020,False,
+Granada CF,Ismail Köybasi,31,Turkey,Left-Back,LB,325000.0,C. Rizespor,Turkey,0.0,out,summer,Laliga,2020,False,
+Granada CF,Antoñín,20,Spain,Centre-Forward,CF,1300000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Granada CF,Álex Martínez,30,Spain,Left-Back,LB,725000.0,Without Club,,,out,summer,Laliga,2020,False,
+Granada CF,José Antonio Martínez,27,Spain,Centre-Back,CB,1200000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Carlos Fernández,24,Spain,Centre-Forward,CF,3200000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Maxime Gonalons,31,France,Defensive Midfield,DM,2800000.0,AS Roma,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Dimitri Foulquier,27,Guadeloupe,Right-Back,RB,2000000.0,Watford,England,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Jesús Vallejo,23,Spain,Centre-Back,CB,6000000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Gil Dias,23,Portugal,Right Winger,RW,3200000.0,Monaco,France,0.0,out,summer,Laliga,2020,True,end of loan
+Granada CF,Adrián Marín,24,Spain,Left-Back,LB,1000000.0,Alavés,Spain,0.0,in,winter,Laliga,2020,False,
+Granada CF,Domingos Quina,21,Portugal,Central Midfield,CM,2800000.0,Watford,England,0.0,in,winter,Laliga,2020,True,free loan
+Granada CF,Ramon Azeez,28,Nigeria,Central Midfield,CM,2000000.0,FC Cartagena,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Levante UD,Jorge de Frutos,23,Spain,Right Winger,RW,2000000.0,Real Madrid,Spain,2000000.0,in,summer,Laliga,2020,False,
+Levante UD,Dani Gómez,22,Spain,Centre-Forward,CF,900000.0,Real Madrid,Spain,2000000.0,in,summer,Laliga,2020,False,
+Levante UD,Mickaël Malsa,24,Martinique,Defensive Midfield,DM,2500000.0,CD Mirandés,Spain,0.0,in,summer,Laliga,2020,False,
+Levante UD,Son,26,Spain,Right-Back,RB,550000.0,Ponferradina,Spain,0.0,in,summer,Laliga,2020,False,
+Levante UD,Moses Simon,24,Nigeria,Left Winger,LW,6500000.0,FC Nantes,France,5000000.0,out,summer,Laliga,2020,False,
+Levante UD,Bruno González,30,Spain,Centre-Back,CB,1200000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2020,False,
+Levante UD,Raphael Dwamena,24,Ghana,Centre-Forward,CF,1600000.0,Vejle BK,Denmark,0.0,out,summer,Laliga,2020,False,
+Levante UD,Armando Sadiku,29,Albania,Centre-Forward,CF,650000.0,BB Erzurumspor,Turkey,0.0,out,summer,Laliga,2020,False,
+Levante UD,Ivi López,26,Spain,Right Winger,RW,650000.0,Rakow,Poland,0.0,out,summer,Laliga,2020,False,
+Levante UD,Antonio Luna,29,Spain,Left-Back,LB,950000.0,Girona,Spain,0.0,out,summer,Laliga,2020,False,
+Levante UD,Fran Manzanara,24,Spain,Central Midfield,CM,300000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2020,False,
+Levante UD,Arturo Molina,24,Spain,Attacking Midfield,AM,250000.0,CD Castellón,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Levante UD,Hernâni,29,Portugal,Right Winger,RW,2000000.0,Al-Wahda,Saudi Arabia,0.0,out,summer,Laliga,2020,True,free loan
+Levante UD,Pablo Martínez,22,Spain,Central Midfield,CM,250000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Levante UD,Iván López,26,Spain,Right-Back,RB,300000.0,Without Club,,,out,summer,Laliga,2020,False,
+Levante UD,Pepelu,22,Spain,Defensive Midfield,DM,1500000.0,Vit. Guimarães,Portugal,0.0,out,summer,Laliga,2020,True,free loan
+Levante UD,Borja Mayoral,23,Spain,Centre-Forward,CF,3200000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Levante UD,Koke Vegas,25,Spain,Goalkeeper,GK,700000.0,RCD Mallorca,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Real Betis Balompié,Martín Montoya,29,Spain,Right-Back,RB,6500000.0,Brighton,England,0.0,in,summer,Laliga,2020,False,
+Real Betis Balompié,Claudio Bravo,37,Chile,Goalkeeper,GK,1200000.0,Man City,England,0.0,in,summer,Laliga,2020,False,
+Real Betis Balompié,Víctor Ruiz,31,Spain,Centre-Back,CB,3200000.0,Besiktas,Turkey,0.0,in,summer,Laliga,2020,False,
+Real Betis Balompié,Juan Miranda,20,Spain,Left-Back,LB,4000000.0,FC Barcelona,Spain,0.0,in,summer,Laliga,2020,True,free loan
+Real Betis Balompié,Giovani Lo Celso,24,Argentina,Central Midfield,CM,40000000.0,Spurs,England,32000000.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Zouhair Feddal,30,Morocco,Centre-Back,CB,4000000.0,Sporting CP,Portugal,2150000.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Ismael Gutiérrez,20,Spain,Central Midfield,CM,900000.0,Atl. Madrid B,Spain,1000000.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Liberto Beltrán,23,Spain,Left Winger,LW,150000.0,Albacete,Spain,0.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Javi García,33,Spain,Defensive Midfield,DM,1600000.0,Boavista,Portugal,0.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Juanjo Narváez,25,Colombia,Centre-Forward,CF,550000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Antonio Barragán,33,Spain,Right-Back,RB,1600000.0,Elche CF,Spain,0.0,out,summer,Laliga,2020,False,
+Real Betis Balompié,Rober González,19,Spain,Right Winger,RW,200000.0,UD Las Palmas,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Betis Balompié,Edgar González,23,Spain,Defensive Midfield,DM,800000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Betis Balompié,Wilfrid Kaptoum,24,Cameroon,Central Midfield,CM,2400000.0,Without Club,,,out,summer,Laliga,2020,False,
+Real Betis Balompié,Francis Guerrero,24,Spain,Right-Back,RB,2000000.0,Without Club,,,out,summer,Laliga,2020,False,
+Real Betis Balompié,Alfonso Pedraza,24,Spain,Left-Back,LB,9500000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Real Betis Balompié,Carles Aleñá,22,Spain,Central Midfield,CM,18000000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Real Betis Balompié,Antonio Sanabria,24,Paraguay,Centre-Forward,CF,6500000.0,Torino,Italy,7000000.0,out,winter,Laliga,2020,False,
+Real Madrid,Achraf Hakimi,21,Morocco,Right Midfield,RM,54000000.0,Inter,Italy,40000000.0,out,summer,Laliga,2020,False,
+Real Madrid,Sergio Reguilón,23,Spain,Left-Back,LB,25000000.0,Spurs,England,30000000.0,out,summer,Laliga,2020,False,
+Real Madrid,Óscar Rodríguez,22,Spain,Attacking Midfield,AM,15000000.0,Sevilla FC,Spain,13500000.0,out,summer,Laliga,2020,False,
+Real Madrid,Javi Sánchez,23,Spain,Centre-Back,CB,1200000.0,Real Valladolid,Spain,3000000.0,out,summer,Laliga,2020,False,
+Real Madrid,Alberto Soro,21,Spain,Right Winger,RW,2700000.0,Granada CF,Spain,2500000.0,out,summer,Laliga,2020,False,
+Real Madrid,Jorge de Frutos,23,Spain,Right Winger,RW,2000000.0,Levante,Spain,2000000.0,out,summer,Laliga,2020,False,
+Real Madrid,Dani Gómez,22,Spain,Centre-Forward,CF,900000.0,Levante,Spain,2000000.0,out,summer,Laliga,2020,False,
+Real Madrid,Borja Mayoral,23,Spain,Centre-Forward,CF,10000000.0,AS Roma,Italy,2000000.0,out,summer,Laliga,2020,True,loan with fee
+Real Madrid,Takefusa Kubo,19,Japan,Right Winger,RW,30000000.0,Villarreal,Spain,1250000.0,out,summer,Laliga,2020,True,loan with fee
+Real Madrid,Brahim Díaz,21,Spain,Attacking Midfield,AM,13500000.0,AC Milan,Italy,0.0,out,summer,Laliga,2020,True,free loan
+Real Madrid,James Rodríguez,29,Colombia,Attacking Midfield,AM,32000000.0,Everton,England,0.0,out,summer,Laliga,2020,False,
+Real Madrid,Luca Zidane,22,France,Goalkeeper,GK,1800000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2020,False,
+Real Madrid,Jesús Vallejo,23,Spain,Centre-Back,CB,6000000.0,Granada CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Madrid,Reinier,18,Brazil,Attacking Midfield,AM,22500000.0,Bor. Dortmund,Germany,0.0,out,summer,Laliga,2020,True,free loan
+Real Madrid,Gareth Bale,31,Wales,Right Winger,RW,28000000.0,Spurs,England,0.0,out,summer,Laliga,2020,True,free loan
+Real Madrid,Alphonse Areola,27,France,Goalkeeper,GK,13000000.0,Paris SG,France,0.0,out,summer,Laliga,2020,True,end of loan
+Real Madrid,Martin Ødegaard,22,Norway,Attacking Midfield,AM,40000000.0,Arsenal,England,2000000.0,out,winter,Laliga,2020,True,loan with fee
+Real Madrid,Takefusa Kubo,19,Japan,Right Winger,RW,20000000.0,Getafe,Spain,1250000.0,out,winter,Laliga,2020,True,loan with fee
+Real Madrid,Luka Jovic,23,Serbia,Centre-Forward,CF,20000000.0,E. Frankfurt,Germany,1000000.0,out,winter,Laliga,2020,True,loan with fee
+Real Sociedad,David Silva,34,Spain,Attacking Midfield,AM,12000000.0,Man City,England,0.0,in,summer,Laliga,2020,False,
+Real Sociedad,Diego Llorente,27,Spain,Centre-Back,CB,20000000.0,Leeds,England,20000000.0,out,summer,Laliga,2020,False,
+Real Sociedad,Gero Rulli,28,Argentina,Goalkeeper,GK,8000000.0,Villarreal,Spain,5000000.0,out,summer,Laliga,2020,False,
+Real Sociedad,Raúl Navas,32,Spain,Centre-Back,CB,1200000.0,CA Osasuna,Spain,250000.0,out,summer,Laliga,2020,False,
+Real Sociedad,Kévin Rodrigues,26,Portugal,Left-Back,LB,2400000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Sociedad,Näis Djouahra,20,France,Left Winger,LW,200000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Sociedad,Andoni Zubiaurre,23,Spain,Goalkeeper,GK,300000.0,CyD Leonesa,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Sociedad,David Zurutuza,34,Spain,Central Midfield,CM,1600000.0,Retired,,,out,summer,Laliga,2020,False,
+Real Sociedad,Carlos Fernández,24,Spain,Centre-Forward,CF,9000000.0,Sevilla FC,Spain,10000000.0,in,winter,Laliga,2020,False,
+Real Sociedad,Willian José,29,Brazil,Centre-Forward,CF,20000000.0,Wolves,England,0.0,out,winter,Laliga,2020,True,free loan
+Real Valladolid CF,Shon Weissman,24,Israel,Centre-Forward,CF,6000000.0,Wolfsberger AC,Austria,4000000.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Javi Sánchez,23,Spain,Centre-Back,CB,1200000.0,Real Madrid,Spain,3000000.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Saidy Janko,24,Switzerland,Right-Back,RB,2000000.0,FC Porto,Portugal,1900000.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Jawad El Yamiq,28,Morocco,Centre-Back,CB,800000.0,Genoa,Italy,1250000.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Raúl Carnero,31,Spain,Left-Back,LB,800000.0,Getafe,Spain,200000.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Luis Pérez,25,Spain,Right-Back,RB,650000.0,CD Tenerife,Spain,0.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Bruno González,30,Spain,Centre-Back,CB,1200000.0,Levante,Spain,0.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Fabián Orellana,34,Chile,Right Winger,RW,1600000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Roque Mesa,31,Spain,Central Midfield,CM,5500000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Roberto,34,Spain,Goalkeeper,GK,800000.0,West Ham,England,0.0,in,summer,Laliga,2020,False,
+Real Valladolid CF,Jota,21,Portugal,Left Winger,LW,8000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Mohammed Salisu,21,Ghana,Centre-Back,CB,12000000.0,Southampton,England,12000000.0,out,summer,Laliga,2020,False,
+Real Valladolid CF,Stiven Plaza,21,Ecuador,Centre-Forward,CF,900000.0,Trabzonspor,Turkey,100000.0,out,summer,Laliga,2020,True,loan with fee
+Real Valladolid CF,Antoñito,32,Spain,Right-Back,RB,800000.0,Panathinaikos,Greece,0.0,out,summer,Laliga,2020,False,
+Real Valladolid CF,Luismi,28,Spain,Defensive Midfield,DM,475000.0,Elche CF,Spain,0.0,out,summer,Laliga,2020,False,
+Real Valladolid CF,Anuar,25,Morocco,Central Midfield,CM,1200000.0,APOEL Nicosia,Cyprus,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,El Hacen,22,Mauritania,Central Midfield,CM,200000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Sekou Gassama,25,Senegal,Centre-Forward,CF,400000.0,CF Fuenlabrada,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Álvaro Aguado,24,Spain,Attacking Midfield,AM,475000.0,CF Fuenlabrada,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Chris Ramos,23,Spain,Centre-Forward,CF,250000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Roberto Corral,23,Spain,Left-Back,LB,250000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Víctor García,23,Spain,Right Winger,RW,250000.0,CE Sabadell,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Moi Delgado,26,Spain,Left-Back,LB,400000.0,CF Fuenlabrada,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,José Antonio Caro,26,Spain,Goalkeeper,GK,475000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Carlos Doncel,23,Spain,Left Winger,LW,300000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Diego Alende,22,Spain,Centre-Back,CB,300000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Real Valladolid CF,Hatem Ben Arfa,33,France,Attacking Midfield,AM,4000000.0,Without Club,,,out,summer,Laliga,2020,False,
+Real Valladolid CF,Javi Moyano,34,Spain,Right-Back,RB,650000.0,Without Club,,,out,summer,Laliga,2020,False,
+Real Valladolid CF,Enes Ünal,23,Turkey,Centre-Forward,CF,4000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Sandro Ramírez,25,Spain,Centre-Forward,CF,3200000.0,Everton,England,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Javi Sánchez,23,Spain,Centre-Back,CB,1200000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Pedro Porro,20,Spain,Right-Back,RB,9000000.0,Man City,England,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Raúl Carnero,31,Spain,Left-Back,LB,800000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Matheus Fernandes,22,Brazil,Defensive Midfield,DM,3200000.0,Palmeiras,Brazil,0.0,out,summer,Laliga,2020,True,end of loan
+Real Valladolid CF,Lucas Olaza,26,Uruguay,Left-Back,LB,6000000.0,Boca Juniors,Argentina,500000.0,in,winter,Laliga,2020,True,loan with fee
+Real Valladolid CF,Kenan Kodro,27,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Athletic,Spain,0.0,in,winter,Laliga,2020,True,free loan
+Real Valladolid CF,Moi Delgado,26,Spain,Left-Back,LB,400000.0,Ponferradina,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Real Valladolid CF,Stiven Plaza,21,Ecuador,Centre-Forward,CF,650000.0,Independiente,Ecuador,0.0,out,winter,Laliga,2020,True,free loan
+SD Eibar,Damian Kadzior,28,Poland,Right Winger,RW,3500000.0,Dinamo Zagreb,Croatia,2000000.0,in,summer,Laliga,2020,False,
+SD Eibar,Bryan Gil,19,Spain,Left Winger,LW,9000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2020,True,free loan
+SD Eibar,Recio,29,Spain,Central Midfield,CM,2400000.0,CD Leganés,Spain,0.0,in,summer,Laliga,2020,True,free loan
+SD Eibar,Kévin Rodrigues,26,Portugal,Left-Back,LB,2400000.0,Real Sociedad,Spain,0.0,in,summer,Laliga,2020,True,free loan
+SD Eibar,Yoshinori Muto,28,Japan,Centre-Forward,CF,5500000.0,Newcastle,England,0.0,in,summer,Laliga,2020,True,free loan
+SD Eibar,Alejandro Pozo,21,Spain,Right-Back,RB,4500000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2020,True,free loan
+SD Eibar,Fabián Orellana,34,Chile,Right Winger,RW,1600000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2020,False,
+SD Eibar,Charles,36,Brazil,Centre-Forward,CF,1200000.0,Pontevedra,Spain,0.0,out,summer,Laliga,2020,False,
+SD Eibar,Nano Mesa,25,Spain,Centre-Forward,CF,475000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2020,False,
+SD Eibar,Gonzalo Escalante,27,Argentina,Central Midfield,CM,3200000.0,Lazio,Italy,0.0,out,summer,Laliga,2020,False,
+SD Eibar,Jordi Calavera,25,Spain,Right-Back,RB,475000.0,Girona,Spain,0.0,out,summer,Laliga,2020,False,
+SD Eibar,Asier Benito,25,Spain,Centre-Forward,CF,325000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2020,True,free loan
+SD Eibar,Álvaro Tejero,24,Spain,Right-Back,RB,2400000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2020,True,free loan
+SD Eibar,Iván Ramis,35,Spain,Centre-Back,CB,650000.0,Retired,,,out,summer,Laliga,2020,False,
+SD Eibar,Pablo de Blasis,32,Argentina,Left Winger,LW,1400000.0,Without Club,,,out,summer,Laliga,2020,False,
+SD Eibar,Sebastián Cristóforo,26,Uruguay,Central Midfield,CM,1200000.0,Fiorentina,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+SD Eibar,Aleix García,23,Spain,Central Midfield,CM,2000000.0,Dinamo,Romania,0.0,in,winter,Laliga,2020,False,
+SD Eibar,Damian Kadzior,28,Poland,Right Winger,RW,1500000.0,Alanyaspor,Turkey,150000.0,out,winter,Laliga,2020,True,loan with fee
+SD Eibar,José Antonio Martínez,27,Spain,Centre-Back,CB,1200000.0,FC Dallas,United States,,out,winter,Laliga,2020,False,
+SD Eibar,Roberto Olabe,24,Spain,Central Midfield,CM,700000.0,Tondela,Portugal,0.0,out,winter,Laliga,2020,True,free loan
+SD Huesca,Borja García,29,Spain,Attacking Midfield,AM,3200000.0,Girona,Spain,2100000.0,in,summer,Laliga,2020,False,
+SD Huesca,Dimitrios Siovas,32,Greece,Centre-Back,CB,4800000.0,CD Leganés,Spain,1000000.0,in,summer,Laliga,2020,False,
+SD Huesca,Javi Ontiveros,23,Spain,Left Winger,LW,7000000.0,Villarreal,Spain,650000.0,in,summer,Laliga,2020,True,loan with fee
+SD Huesca,Andrés Fernández,33,Spain,Goalkeeper,GK,800000.0,Villarreal,Spain,500000.0,in,summer,Laliga,2020,False,
+SD Huesca,Pablo Insua,26,Spain,Centre-Back,CB,950000.0,FC Schalke 04,Germany,250000.0,in,summer,Laliga,2020,False,
+SD Huesca,Gastón Silva,26,Uruguay,Left-Back,LB,1800000.0,Independiente,Argentina,0.0,in,summer,Laliga,2020,False,
+SD Huesca,Sandro Ramírez,25,Spain,Centre-Forward,CF,3200000.0,Everton,England,0.0,in,summer,Laliga,2020,False,
+SD Huesca,Pablo Maffeo,23,Spain,Right-Back,RB,2400000.0,VfB Stuttgart,Germany,0.0,in,summer,Laliga,2020,True,free loan
+SD Huesca,Idrissa Doumbia,22,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Sporting CP,Portugal,0.0,in,summer,Laliga,2020,True,free loan
+SD Huesca,Ronald Gbizie,23,Cote d'Ivoire,Central Midfield,CM,150000.0,SD Ejea,Spain,,in,summer,Laliga,2020,False,
+SD Huesca,Kike Hermoso,20,Spain,Centre-Back,CB,200000.0,SD Ejea,Spain,,in,summer,Laliga,2020,False,
+SD Huesca,Damián Musto,33,Argentina,Defensive Midfield,DM,300000.0,Peñarol,Uruguay,0.0,out,summer,Laliga,2020,False,
+SD Huesca,Aleksandar Jovanovic,27,Serbia,Goalkeeper,GK,550000.0,Apol. Limassol,Cyprus,0.0,out,summer,Laliga,2020,False,
+SD Huesca,Kike Hermoso,21,Spain,Centre-Back,CB,200000.0,Betis B,Spain,0.0,out,summer,Laliga,2020,False,
+SD Huesca,Jonathan Toro,23,Honduras,Second Striker,SS,550000.0,Chaves,Portugal,0.0,out,summer,Laliga,2020,False,
+SD Huesca,Serdar Gürler,28,Turkey,Right Winger,RW,1200000.0,Antalyaspor,Turkey,,out,summer,Laliga,2020,False,
+SD Huesca,Ronald Gbizie,23,Cote d'Ivoire,Central Midfield,CM,150000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2020,True,free loan
+SD Huesca,Juan Peñaloza,20,Colombia,Left Winger,LW,50000.0,Racing Ferrol,Spain,0.0,out,summer,Laliga,2020,True,free loan
+SD Huesca,Joaquín Muñoz,21,Spain,Left Winger,LW,300000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+SD Huesca,Miguelón,24,Spain,Right-Back,RB,1200000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Dani Raba,24,Spain,Right Winger,RW,1600000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Cristo,22,Spain,Centre-Forward,CF,2800000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Pablo Insua,26,Spain,Centre-Back,CB,950000.0,FC Schalke 04,Germany,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Rubén Yáñez,26,Spain,Goalkeeper,GK,300000.0,Getafe,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Josué Sá,28,Portugal,Centre-Back,CB,950000.0,RSC Anderlecht,Belgium,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Cheick Doukouré,27,Cote d'Ivoire,Defensive Midfield,DM,650000.0,Levante,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Toni Datkovic,26,Croatia,Centre-Back,CB,550000.0,NK Lokomotiva,Croatia,0.0,out,summer,Laliga,2020,True,end of loan
+SD Huesca,Denis Vavro,24,Slovakia,Centre-Back,CB,4000000.0,Lazio,Italy,0.0,in,winter,Laliga,2020,True,free loan
+SD Huesca,Kelechi Nwakali,22,Nigeria,Attacking Midfield,AM,700000.0,Alcorcón,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Sevilla FC,Suso,26,Spain,Right Winger,RW,17500000.0,AC Milan,Italy,21000000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Óscar Rodríguez,22,Spain,Attacking Midfield,AM,15000000.0,Real Madrid,Spain,13500000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Oussama Idrissi,24,Morocco,Left Winger,LW,12000000.0,AZ Alkmaar,Netherlands,12000000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Marcos Acuña,28,Argentina,Left-Back,LB,12000000.0,Sporting CP,Portugal,10500000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Bono,29,Morocco,Goalkeeper,GK,3000000.0,Girona,Spain,4000000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Karim Rekik,25,Netherlands,Centre-Back,CB,8500000.0,Hertha BSC,Germany,2000000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Ivan Rakitic,32,Croatia,Central Midfield,CM,20000000.0,FC Barcelona,Spain,1500000.0,in,summer,Laliga,2020,False,
+Sevilla FC,Sergio Rico,27,Spain,Goalkeeper,GK,8000000.0,Paris SG,France,6000000.0,out,summer,Laliga,2020,False,
+Sevilla FC,Simon Kjaer,31,Denmark,Centre-Back,CB,7000000.0,AC Milan,Italy,3500000.0,out,summer,Laliga,2020,False,
+Sevilla FC,Éver Banega,32,Argentina,Central Midfield,CM,7000000.0,Shabab,Saudi Arabia,0.0,out,summer,Laliga,2020,False,
+Sevilla FC,Giorgi Aburjania,25,Georgia,Central Midfield,CM,475000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2020,False,
+Sevilla FC,Bryan Gil,19,Spain,Left Winger,LW,9000000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Ibrahim Amadou,27,France,Defensive Midfield,DM,5500000.0,SCO Angers,France,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Roque Mesa,31,Spain,Central Midfield,CM,5500000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2020,False,
+Sevilla FC,Rony Lopes,24,Portugal,Right Winger,RW,10000000.0,OGC Nice,France,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Juan Berrocal,21,Spain,Centre-Back,CB,300000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Marc Gual,24,Spain,Centre-Forward,CF,1100000.0,Alcorcón,Spain,,out,summer,Laliga,2020,False,
+Sevilla FC,José Alonso Lara,20,Spain,Left Winger,LW,450000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Juan Soriano,23,Spain,Goalkeeper,GK,1600000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Alejandro Pozo,21,Spain,Right-Back,RB,4500000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Sevilla FC,Sébastien Corchia,29,France,Right-Back,RB,1600000.0,Without Club,,,out,summer,Laliga,2020,False,
+Sevilla FC,Suso,26,Spain,Right Winger,RW,17500000.0,AC Milan,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+Sevilla FC,Papu Gómez,32,Argentina,Second Striker,SS,15000000.0,Atalanta BC,Italy,5500000.0,in,winter,Laliga,2020,False,
+Sevilla FC,Carlos Fernández,24,Spain,Centre-Forward,CF,9000000.0,Real Sociedad,Spain,10000000.0,out,winter,Laliga,2020,False,
+Sevilla FC,Oussama Idrissi,24,Morocco,Left Winger,LW,9000000.0,Ajax,Netherlands,0.0,out,winter,Laliga,2020,True,free loan
+Valencia CF,Rodrigo,29,Spain,Centre-Forward,CF,40000000.0,Leeds,England,30000000.0,out,summer,Laliga,2020,False,
+Valencia CF,Ferran Torres,20,Spain,Right Winger,RW,45000000.0,Man City,England,23000000.0,out,summer,Laliga,2020,False,
+Valencia CF,Francis Coquelin,29,France,Defensive Midfield,DM,14000000.0,Villarreal,Spain,6500000.0,out,summer,Laliga,2020,False,
+Valencia CF,Dani Parejo,31,Spain,Central Midfield,CM,20000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,False,
+Valencia CF,Àlex Carbonell,23,Spain,Central Midfield,CM,325000.0,FC Luzern,Switzerland,0.0,out,summer,Laliga,2020,False,
+Valencia CF,Álex Centelles,21,Spain,Left-Back,LB,5000000.0,UD Almería,Spain,0.0,out,summer,Laliga,2020,False,
+Valencia CF,Javi Jiménez,23,Spain,Centre-Back,CB,250000.0,Albacete,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Valencia CF,Cristiano Piccini,27,Italy,Right-Back,RB,6000000.0,Atalanta BC,Italy,0.0,out,summer,Laliga,2020,True,free loan
+Valencia CF,Ezequiel Garay,33,Argentina,Centre-Back,CB,4800000.0,Without Club,,,out,summer,Laliga,2020,False,
+Valencia CF,Jaume Costa,32,Spain,Left-Back,LB,3200000.0,Villarreal,Spain,0.0,out,summer,Laliga,2020,True,end of loan
+Valencia CF,Alessandro Florenzi,29,Italy,Right-Back,RB,16000000.0,AS Roma,Italy,0.0,out,summer,Laliga,2020,True,end of loan
+Valencia CF,Patrick Cutrone,23,Italy,Centre-Forward,CF,12000000.0,Wolves,England,0.0,in,winter,Laliga,2020,True,free loan
+Valencia CF,Ferro,23,Portugal,Centre-Back,CB,7000000.0,Benfica,Portugal,0.0,in,winter,Laliga,2020,True,free loan
+Valencia CF,Christian Oliva,24,Uruguay,Defensive Midfield,DM,3200000.0,Cagliari Calcio,Italy,0.0,in,winter,Laliga,2020,True,free loan
+Valencia CF,Geoffrey Kondogbia,27,Central African Republic,Central Midfield,CM,17500000.0,Atlético Madrid,Spain,15000000.0,out,winter,Laliga,2020,False,
+Valencia CF,Rubén Sobrino,28,Spain,Centre-Forward,CF,1500000.0,Cádiz CF,Spain,0.0,out,winter,Laliga,2020,True,free loan
+Villarreal CF,Pervis Estupiñán,22,Ecuador,Left-Back,LB,15000000.0,Watford,England,16399999.999999998,in,summer,Laliga,2020,False,
+Villarreal CF,Francis Coquelin,29,France,Defensive Midfield,DM,14000000.0,Valencia,Spain,6500000.0,in,summer,Laliga,2020,False,
+Villarreal CF,Gero Rulli,28,Argentina,Goalkeeper,GK,8000000.0,Real Sociedad,Spain,5000000.0,in,summer,Laliga,2020,False,
+Villarreal CF,Jorge Cuenca,20,Spain,Centre-Back,CB,2300000.0,FC Barcelona B,Spain,2500000.0,in,summer,Laliga,2020,False,
+Villarreal CF,Takefusa Kubo,19,Japan,Right Winger,RW,30000000.0,Real Madrid,Spain,1250000.0,in,summer,Laliga,2020,True,loan with fee
+Villarreal CF,Dani Parejo,31,Spain,Central Midfield,CM,20000000.0,Valencia,Spain,0.0,in,summer,Laliga,2020,False,
+Villarreal CF,Mario González,24,Spain,Left Winger,LW,325000.0,Clermont Foot,France,0.0,in,summer,Laliga,2020,False,
+Villarreal CF,Juan Foyth,22,Argentina,Centre-Back,CB,13500000.0,Spurs,England,0.0,in,summer,Laliga,2020,True,free loan
+Villarreal CF,Karl Toko Ekambi,27,Cameroon,Left Winger,LW,14000000.0,Olympique Lyon,France,11500000.0,out,summer,Laliga,2020,False,
+Villarreal CF,Enes Ünal,23,Turkey,Centre-Forward,CF,8000000.0,Getafe,Spain,9000000.0,out,summer,Laliga,2020,False,
+Villarreal CF,Álvaro González,30,Spain,Centre-Back,CB,6500000.0,Marseille,France,4000000.0,out,summer,Laliga,2020,False,
+Villarreal CF,Akram Afif,23,Qatar,Left Winger,LW,3200000.0,Al-Sadd SC,Qatar,1000000.0,out,summer,Laliga,2020,False,
+Villarreal CF,Javi Ontiveros,23,Spain,Left Winger,LW,7000000.0,SD Huesca,Spain,650000.0,out,summer,Laliga,2020,True,loan with fee
+Villarreal CF,Andrés Fernández,33,Spain,Goalkeeper,GK,800000.0,SD Huesca,Spain,500000.0,out,summer,Laliga,2020,False,
+Villarreal CF,Santi Cazorla,35,Spain,Central Midfield,CM,2500000.0,Al-Sadd SC,Qatar,0.0,out,summer,Laliga,2020,False,
+Villarreal CF,Iván Martín,21,Spain,Attacking Midfield,AM,300000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Xavi Quintillà,23,Spain,Left-Back,LB,4000000.0,Norwich,England,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Miguelón,24,Spain,Right-Back,RB,1200000.0,Espanyol,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Enric Franquesa,23,Spain,Left-Back,LB,325000.0,Girona,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Manu Morlanes,21,Spain,Central Midfield,CM,1800000.0,UD Almería,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Mario González,24,Spain,Left Winger,LW,325000.0,Tondela,Portugal,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Miguel Ángel Leal,23,Spain,Right-Back,RB,200000.0,FC Groningen,Netherlands,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Jorge Cuenca,20,Spain,Centre-Back,CB,2300000.0,UD Almería,Spain,0.0,out,summer,Laliga,2020,True,free loan
+Villarreal CF,Mariano Barbosa,35,Argentina,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Laliga,2020,False,
+Villarreal CF,Bruno Soriano,36,Spain,Defensive Midfield,DM,475000.0,Retired,,,out,summer,Laliga,2020,False,
+Villarreal CF,André Zambo Anguissa,24,Cameroon,Defensive Midfield,DM,20000000.0,Fulham,England,0.0,out,summer,Laliga,2020,True,end of loan
+Villarreal CF,Étienne Capoue,32,France,Defensive Midfield,DM,4000000.0,Watford,England,2000000.0,in,winter,Laliga,2020,False,
+Villarreal CF,Santiago Cáseres,23,Argentina,Defensive Midfield,DM,4800000.0,Vélez Sarsfield,Argentina,0.0,out,winter,Laliga,2020,True,free loan
+Villarreal CF,Soufiane Chakla,27,Morocco,Centre-Back,CB,800000.0,Getafe,Spain,0.0,out,winter,Laliga,2020,True,free loan

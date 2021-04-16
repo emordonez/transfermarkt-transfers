@@ -1,0 +1,391 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1.FC Nuremberg,Makoto Hasebe,29,Japan,Defensive Midfield,DM,3000000.0,VfL Wolfsburg,Germany,2500000.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Josip Drmic,20,Switzerland,Centre-Forward,CF,3000000.0,FC Zürich,Switzerland,2200000.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Daniel Ginczek,22,Germany,Centre-Forward,CF,2000000.0,Bor. Dortmund,Germany,1500000.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Mariusz Stepinski,18,Poland,Centre-Forward,CF,800000.0,Widzew Lodz,Poland,120000.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Nick Weber,18,Germany,Centre-Forward,CF,,B. Dortmund U19,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Martin Angha,19,Switzerland,Centre-Back,CB,,Arsenal,England,0.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Emanuel Pogatetz,30,Austria,Centre-Back,CB,2500000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Timm Klose,25,Switzerland,Centre-Back,CB,5500000.0,VfL Wolfsburg,Germany,6000000.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Timmy Simons,36,Belgium,Defensive Midfield,DM,900000.0,Club Brugge,Belgium,500000.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Marcos António,30,Brazil,Centre-Back,CB,400000.0,Johor DT,Malaysia,0.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Manuel Zeitz,22,Germany,Defensive Midfield,DM,600000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Almog Cohen,24,Israel,Central Midfield,CM,1750000.0,FC Ingolstadt,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Nick Weber,18,Germany,Centre-Forward,CF,150000.0,B. Dortmund II,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Mu Kanazaki,24,Japan,Centre-Forward,CF,900000.0,Portimonense,Portugal,0.0,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Julian Wießmeier,20,Germany,Attacking Midfield,AM,600000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+1.FC Nuremberg,Wilson Kamavuaka,23,DR Congo,Defensive Midfield,DM,450000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+1.FC Nuremberg,Sebastian Polter,22,Germany,Centre-Forward,CF,1500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+1.FC Nuremberg,Ondrej Petrak,21,Czech Republic,Defensive Midfield,DM,600000.0,Slavia Prague,Czech Republic,1000000.0,in,winter,1 Bundesliga,2013,False,
+1.FC Nuremberg,José Campaña,20,Spain,Central Midfield,CM,2000000.0,Crystal Palace,England,0.0,in,winter,1 Bundesliga,2013,True,free loan
+1.FC Nuremberg,Alexander Esswein,23,Germany,Right Winger,RW,2000000.0,FC Augsburg,Germany,250000.0,out,winter,1 Bundesliga,2013,False,
+1.FC Nuremberg,Muhammed Ildiz,22,Austria,Central Midfield,CM,500000.0,Gaziantepspor,Turkey,0.0,out,winter,1 Bundesliga,2013,False,
+1.FC Nuremberg,Noah Korczowski,20,Germany,Centre-Back,CB,350000.0,Wolfsburg II,Germany,0.0,out,winter,1 Bundesliga,2013,False,
+1.FC Nuremberg,Markus Mendler,21,Germany,Left Winger,LW,400000.0,SV Sandhausen,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+1.FSV Mainz 05,Shinji Okazaki,27,Japan,Centre-Forward,CF,2000000.0,VfB Stuttgart,Germany,1500000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Dani Schahin,23,Germany,Centre-Forward,CF,1100000.0,F. Düsseldorf,Germany,1500000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Ju-ho Park,26,"Korea, South",Left-Back,LB,900000.0,FC Basel,Switzerland,1150000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Johannes Geis,19,Germany,Defensive Midfield,DM,500000.0,Greuther Fürth,Germany,900000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Sebastian Polter,22,Germany,Centre-Forward,CF,1500000.0,VfL Wolfsburg,Germany,750000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Julian Koch,22,Germany,Defensive Midfield,DM,1000000.0,Bor. Dortmund,Germany,600000.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Christoph Moritz,23,Germany,Central Midfield,CM,1500000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Ádám Szalai,25,Hungary,Centre-Forward,CF,7000000.0,FC Schalke 04,Germany,8000000.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Anthony Ujah,22,Nigeria,Centre-Forward,CF,1750000.0,1. FC Köln,Germany,2300000.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Marcel Risse,23,Germany,Right Midfield,RM,1200000.0,1. FC Köln,Germany,700000.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Fabian Schönheim,26,Germany,Centre-Back,CB,800000.0,Union Berlin,Germany,300000.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Deniz Yilmaz,25,Azerbaijan,Centre-Forward,CF,500000.0,Elazigspor,Turkey,250000.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Jan Kirchhoff,22,Germany,Centre-Back,CB,4000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Radoslav Zabavnik,32,Slovakia,Left-Back,LB,600000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Marco Caligiuri,29,Germany,Centre-Back,CB,1500000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Andreas Ivanschitz,29,Austria,Attacking Midfield,AM,3000000.0,Levante,Spain,0.0,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Nikita Rukavytsya,26,Australia,Centre-Forward,CF,750000.0,FSV Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+1.FSV Mainz 05,Ivan Klasnic,33,Croatia,Centre-Forward,CF,500000.0,Retired,,,out,summer,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Ja-cheol Koo,24,"Korea, South",Central Midfield,CM,4000000.0,VfL Wolfsburg,Germany,5000000.0,in,winter,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Todor Nedelev,20,Bulgaria,Right Winger,RW,3000000.0,Botev Plovdiv,Bulgaria,2800000.0,in,winter,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Dario Kresic,29,Croatia,Goalkeeper,GK,1200000.0,Loko Moscow,Russia,0.0,in,winter,1 Bundesliga,2013,False,
+1.FSV Mainz 05,Chinedu Ede,26,Germany,Right Winger,RW,900000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Bayer 04 Leverkusen,Heung-min Son,20,"Korea, South",Left Winger,LW,14000000.0,Hamburger SV,Germany,10000000.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Emre Can,19,Germany,Centre-Back,CB,1500000.0,FC Bayern,Germany,5000000.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Giulio Donati,23,Italy,Right-Back,RB,750000.0,Inter,Italy,3000000.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Robbie Kruse,24,Australia,Left Winger,LW,2750000.0,F. Düsseldorf,Germany,1500000.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Eren Derdiyok,25,Switzerland,Centre-Forward,CF,2500000.0,TSG Hoffenheim,Germany,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Joel Pohjanpalo,18,Finland,Centre-Forward,CF,200000.0,HJK Helsinki,Finland,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Emir Spahic,32,Bosnia-Herzegovina,Centre-Back,CB,3000000.0,Sevilla FC,Spain,400000.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Levin Öztunali,17,Germany,Right Midfield,RM,,Hamburg U19,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Roberto Hilbert,28,Germany,Right-Back,RB,5000000.0,Besiktas,Turkey,0.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Andrés Palop,39,Spain,Goalkeeper,GK,100000.0,Sevilla FC,Spain,0.0,in,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,André Schürrle,22,Germany,Left Winger,LW,25000000.0,Chelsea,England,22000000.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Daniel Carvajal,21,Spain,Right-Back,RB,10000000.0,Real Madrid,Spain,6500000.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Michal Kadlec,28,Czech Republic,Centre-Back,CB,5000000.0,Fenerbahce,Turkey,4500000.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Hajime Hosogai,27,Japan,Defensive Midfield,DM,2000000.0,Hertha BSC,Germany,1000000.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Nicolai Jörgensen,22,Denmark,Centre-Forward,CF,2000000.0,FC Copenhagen,Denmark,670000.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Junior Fernandes,25,Chile,Left Winger,LW,2500000.0,Dinamo Zagreb,Croatia,250000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Christoph Kramer,22,Germany,Defensive Midfield,DM,1500000.0,Bor. M'gladbach,Germany,200000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Karim Bellarabi,23,Germany,Right Winger,RW,2500000.0,E. Braunschweig,Germany,150000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Arkadiusz Milik,19,Poland,Centre-Forward,CF,2500000.0,FC Augsburg,Germany,150000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Michael Rensing,29,Germany,Goalkeeper,GK,1000000.0,F. Düsseldorf,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Daniel Schwaab,24,Germany,Centre-Back,CB,2500000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Kolja Pusch,20,Germany,Attacking Midfield,AM,150000.0,Chemnitzer FC,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Joel Pohjanpalo,18,Finland,Centre-Forward,CF,200000.0,VfR Aalen,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Bayer 04 Leverkusen,Manuel Friedrich,33,Germany,Centre-Back,CB,1000000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Carlinhos,19,Brazil,Attacking Midfield,AM,300000.0,Desp. Brasil,Brazil,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Bayer 04 Leverkusen,Andrés Guardado,27,Mexico,Central Midfield,CM,6000000.0,Valencia,Spain,1000000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Julian Brandt,17,Germany,Attacking Midfield,AM,,Wolfsburg U19,Germany,500000.0,in,winter,1 Bundesliga,2013,False,
+Bayer 04 Leverkusen,Seung-woo Ryu,20,"Korea, South",Second Striker,SS,100000.0,Jeju United,"Korea, South",75000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+Bayer 04 Leverkusen,Dominik Kohr,19,Germany,Central Midfield,CM,500000.0,FC Augsburg,Germany,150000.0,out,winter,1 Bundesliga,2013,True,loan with fee
+Bayern Munich,Mario Götze,21,Germany,Attacking Midfield,AM,45000000.0,Bor. Dortmund,Germany,37000000.0,in,summer,1 Bundesliga,2013,False,
+Bayern Munich,Thiago,22,Spain,Central Midfield,CM,22000000.0,FC Barcelona,Spain,25000000.0,in,summer,1 Bundesliga,2013,False,
+Bayern Munich,Jan Kirchhoff,22,Germany,Centre-Back,CB,4000000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Bayern Munich,Luiz Gustavo,26,Brazil,Defensive Midfield,DM,18000000.0,VfL Wolfsburg,Germany,16000000.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Mario Gómez,28,Germany,Centre-Forward,CF,28000000.0,Fiorentina,Italy,15500000.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Emre Can,19,Germany,Centre-Back,CB,1500000.0,Bay. Leverkusen,Germany,5000000.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Nils Petersen,24,Germany,Centre-Forward,CF,5000000.0,Werder Bremen,Germany,3000000.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Maximilian Riedmüller,25,Germany,Goalkeeper,GK,100000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Anatoliy Tymoshchuk,34,Ukraine,Defensive Midfield,DM,2000000.0,Zenit S-Pb,Russia,0.0,out,summer,1 Bundesliga,2013,False,
+Bayern Munich,Jan Kirchhoff,23,Germany,Centre-Back,CB,4000000.0,FC Schalke 04,Germany,500000.0,out,winter,1 Bundesliga,2013,True,loan with fee
+Borussia Dortmund,Henrikh Mkhitaryan,24,Armenia,Attacking Midfield,AM,22000000.0,Shakhtar D.,Ukraine,27500000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Pierre-Emerick Aubameyang,24,Gabon,Centre-Forward,CF,15000000.0,Saint-Étienne,France,13000000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Sokratis Papastathopoulos,25,Greece,Centre-Back,CB,10000000.0,Werder Bremen,Germany,9900000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Mario Götze,21,Germany,Attacking Midfield,AM,45000000.0,FC Bayern,Germany,37000000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Leonardo Bittencourt,19,Germany,Attacking Midfield,AM,2750000.0,Hannover 96,Germany,2800000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Daniel Ginczek,22,Germany,Centre-Forward,CF,2000000.0,1.FC Nuremberg,Germany,1500000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Lasse Sobiech,22,Germany,Centre-Back,CB,1500000.0,Hamburger SV,Germany,1400000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Felipe Santana,27,Brazil,Centre-Back,CB,5000000.0,FC Schalke 04,Germany,1000000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Julian Koch,22,Germany,Defensive Midfield,DM,1000000.0,1.FSV Mainz 05,Germany,600000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Moritz Leitner,20,Germany,Central Midfield,CM,5000000.0,VfB Stuttgart,Germany,500000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Borussia Dortmund,Marvin Bakalorz,23,Germany,Central Midfield,CM,200000.0,E. Frankfurt,Germany,75000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Patrick Owomoyela,33,Germany,Right-Back,RB,500000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+Borussia Dortmund,Milos Jojic,21,Serbia,Central Midfield,CM,1500000.0,Partizan,Serbia,2200000.0,in,winter,1 Bundesliga,2013,False,
+Borussia Dortmund,Manuel Friedrich,34,Germany,Centre-Back,CB,500000.0,Without Club,,,in,winter,1 Bundesliga,2013,False,
+Borussia Dortmund,Koray Günter,19,Germany,Centre-Back,CB,500000.0,Galatasaray,Turkey,2500000.0,out,winter,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Raffael,28,Brazil,Second Striker,SS,7500000.0,Dynamo Kyiv,Ukraine,5000000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Max Kruse,25,Germany,Second Striker,SS,5000000.0,SC Freiburg,Germany,2500000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Joel Mero,18,Finland,Centre-Back,CB,100000.0,FC Lahti,Finland,200000.0,in,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Christoph Kramer,22,Germany,Defensive Midfield,DM,1500000.0,Bay. Leverkusen,Germany,200000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Borussia Mönchengladbach,Igor de Camargo,30,Belgium,Centre-Forward,CF,2250000.0,TSG Hoffenheim,Germany,1400000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Mathew Leckie,22,Australia,Right Winger,RW,750000.0,FSV Frankfurt,Germany,300000.0,out,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Matthias Zimmermann,21,Germany,Right-Back,RB,500000.0,SV Sandhausen,Germany,50000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Borussia Mönchengladbach,Niklas Dams,23,Germany,Centre-Back,CB,150000.0,Servette FC,Switzerland,0.0,out,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Mike Hanke,29,Germany,Centre-Forward,CF,2500000.0,SC Freiburg,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Borussia Mönchengladbach,Tolga Cigerci,21,Turkey,Central Midfield,CM,1000000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Borussia Mönchengladbach,Alexander Ring,22,Finland,Central Midfield,CM,1000000.0,HJK Helsinki,Finland,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Borussia Mönchengladbach,Luuk de Jong,23,Netherlands,Centre-Forward,CF,7500000.0,Newcastle,England,1500000.0,out,winter,1 Bundesliga,2013,True,loan with fee
+Eintracht Braunschweig,Omar Elabdellaoui,21,Norway,Right-Back,RB,1000000.0,Man City U21,England,500000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Torsten Oehrl,27,Germany,Centre-Forward,CF,1000000.0,FC Augsburg,Germany,500000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Jan Hochscheidt,25,Germany,Attacking Midfield,AM,1500000.0,Erzgebirge Aue,Germany,400000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Karim Bellarabi,23,Germany,Right Winger,RW,2500000.0,Bay. Leverkusen,Germany,150000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Eintracht Braunschweig,Marco Caligiuri,29,Germany,Centre-Back,CB,1500000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Timo Perthel,24,Germany,Left-Back,LB,850000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Simeon Jackson,26,Canada,Centre-Forward,CF,1000000.0,Norwich,England,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Raffael Korte,22,Germany,Right Winger,RW,400000.0,Saarbrücken,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Eintracht Braunschweig,Oliver Petersch,24,Germany,Right Midfield,RM,300000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Pierre Merkel,24,Germany,Centre-Forward,CF,250000.0,Hallescher FC,Germany,,out,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Björn Kluft,23,Germany,Second Striker,SS,450000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Eintracht Braunschweig,Randy Edwini-Bonsu,23,Canada,Right Winger,RW,250000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Steffen Bohl,29,Germany,Defensive Midfield,DM,500000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Chengdong Zhang,24,China,Right Winger,RW,400000.0,Mafra,Portugal,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Eintracht Braunschweig,Omar Elabdellaoui,21,Norway,Right-Back,RB,1000000.0,Man City U21,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Eintracht Braunschweig,Salim Khelifi,20,Tunisia,Right Midfield,RM,500000.0,Lausanne-Sport,Switzerland,250000.0,in,winter,1 Bundesliga,2013,False,
+Eintracht Braunschweig,Havard Nielsen,20,Norway,Centre-Forward,CF,1000000.0,RB Salzburg,Austria,0.0,in,winter,1 Bundesliga,2013,True,free loan
+Eintracht Braunschweig,Simeon Jackson,26,Canada,Centre-Forward,CF,1000000.0,Millwall,England,0.0,out,winter,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Vaclav Kadlec,21,Czech Republic,Centre-Forward,CF,5000000.0,Sparta Prague,Czech Republic,3200000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Johannes Flum,25,Germany,Central Midfield,CM,3000000.0,SC Freiburg,Germany,2000000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Joselu,23,Spain,Centre-Forward,CF,4500000.0,TSG Hoffenheim,Germany,800000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Eintracht Frankfurt,Stephan Schröck,26,Philippines,Attacking Midfield,AM,1000000.0,TSG Hoffenheim,Germany,500000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Tranquillo Barnetta,28,Switzerland,Attacking Midfield,AM,3000000.0,FC Schalke 04,Germany,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Eintracht Frankfurt,Marco Russ,27,Germany,Centre-Back,CB,1500000.0,VfL Wolfsburg,Germany,400000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Marvin Bakalorz,23,Germany,Central Midfield,CM,200000.0,Bor. Dortmund,Germany,75000.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Jan Rosenthal,27,Germany,Second Striker,SS,3000000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Felix Wiedwald,23,Germany,Goalkeeper,GK,1250000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Marco Aulbach,19,Germany,Goalkeeper,GK,75000.0,W. Burghausen,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Olivier Occéan,31,Canada,Centre-Forward,CF,750000.0,1.FC K'lautern,Germany,500000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Eintracht Frankfurt,Heiko Butscher,32,Germany,Centre-Back,CB,500000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Martin Amedick,30,Germany,Centre-Back,CB,400000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Julian Dudda,20,Germany,Centre-Back,CB,100000.0,W. Bremen II,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Oka Nikolov,39,North Macedonia,Goalkeeper,GK,350000.0,Philadelphia,United States,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Karim Matmour,28,Algeria,Right Winger,RW,1000000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Vadim Demidov,26,Norway,Centre-Back,CB,750000.0,Anzhi,Russia,0.0,out,summer,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Marco Russ,27,Germany,Centre-Back,CB,1500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Eintracht Frankfurt,Tobias Weis,28,Germany,Central Midfield,CM,1000000.0,TSG Hoffenheim,Germany,0.0,in,winter,1 Bundesliga,2013,True,free loan
+Eintracht Frankfurt,Alexander Madlung,31,Germany,Centre-Back,CB,800000.0,Without Club,,,in,winter,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Rob Friend,32,Canada,Centre-Forward,CF,500000.0,LA Galaxy,United States,0.0,out,winter,1 Bundesliga,2013,False,
+Eintracht Frankfurt,Marvin Bakalorz,24,Germany,Central Midfield,CM,300000.0,SC Paderborn,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+FC Augsburg,Jeong-ho Hong,24,"Korea, South",Centre-Back,CB,850000.0,Jeju United,"Korea, South",2000000.0,in,summer,1 Bundesliga,2013,False,
+FC Augsburg,Raúl Bobadilla,26,Paraguay,Centre-Forward,CF,4000000.0,FC Basel,Switzerland,1500000.0,in,summer,1 Bundesliga,2013,False,
+FC Augsburg,Raphael Holzhauser,20,Austria,Attacking Midfield,AM,3000000.0,VfB Stuttgart,Germany,300000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+FC Augsburg,Mathias Fetsch,24,Germany,Centre-Forward,CF,400000.0,K. Offenbach,Germany,200000.0,in,summer,1 Bundesliga,2013,False,
+FC Augsburg,Arkadiusz Milik,19,Poland,Centre-Forward,CF,2500000.0,Bay. Leverkusen,Germany,150000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+FC Augsburg,Marwin Hitz,25,Switzerland,Goalkeeper,GK,450000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+FC Augsburg,Halil Altintop,30,Turkey,Attacking Midfield,AM,3000000.0,Trabzonspor,Turkey,0.0,in,summer,1 Bundesliga,2013,False,
+FC Augsburg,Panagiotis Vlachodimos,21,Greece,Left Winger,LW,800000.0,Olympiacos,Greece,0.0,in,summer,1 Bundesliga,2013,True,free loan
+FC Augsburg,Torsten Oehrl,27,Germany,Centre-Forward,CF,1000000.0,E. Braunschweig,Germany,500000.0,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Aristide Bancé,28,Burkina Faso,Centre-Forward,CF,600000.0,F. Düsseldorf,Germany,100000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+FC Augsburg,Sebastian Langkamp,25,Germany,Centre-Back,CB,1750000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Stephan Hain,24,Germany,Centre-Forward,CF,600000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Marco Thiede,21,Germany,Right-Back,RB,100000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Milan Petrzela,30,Czech Republic,Right Midfield,RM,500000.0,Viktoria Plzen,Czech Republic,0.0,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Simon Jentzsch,37,Germany,Goalkeeper,GK,300000.0,Retired,,,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Somen Tchoyi,30,Cameroon,Attacking Midfield,AM,500000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+FC Augsburg,Ja-cheol Koo,24,"Korea, South",Central Midfield,CM,4000000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+FC Augsburg,Knowledge Musona,23,Zimbabwe,Left Winger,LW,1500000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+FC Augsburg,Dong-won Ji,22,"Korea, South",Centre-Forward,CF,1500000.0,Sunderland,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+FC Augsburg,Alexander Esswein,23,Germany,Right Winger,RW,2000000.0,1.FC Nuremberg,Germany,250000.0,in,winter,1 Bundesliga,2013,False,
+FC Augsburg,Dominik Kohr,19,Germany,Central Midfield,CM,500000.0,Bay. Leverkusen,Germany,150000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+FC Augsburg,Dong-won Ji,22,"Korea, South",Centre-Forward,CF,2000000.0,Sunderland,England,,in,winter,1 Bundesliga,2013,False,
+FC Augsburg,Michael Parkhurst,29,United States,Centre-Back,CB,800000.0,Columbus Crew,United States,0.0,out,winter,1 Bundesliga,2013,False,
+FC Augsburg,Mathias Fetsch,25,Germany,Centre-Forward,CF,400000.0,Energie Cottbus,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+FC Schalke 04,Kevin-Prince Boateng,26,Ghana,Attacking Midfield,AM,15000000.0,AC Milan,Italy,10000000.0,in,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Ádám Szalai,25,Hungary,Centre-Forward,CF,7000000.0,1.FSV Mainz 05,Germany,8000000.0,in,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Leon Goretzka,18,Germany,Central Midfield,CM,4500000.0,VfL Bochum,Germany,3250000.0,in,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Christian Clemens,21,Germany,Right Winger,RW,3500000.0,1. FC Köln,Germany,2800000.0,in,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Felipe Santana,27,Brazil,Centre-Back,CB,5000000.0,Bor. Dortmund,Germany,1000000.0,in,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Dennis Aogo,26,Germany,Defensive Midfield,DM,6500000.0,Hamburger SV,Germany,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+FC Schalke 04,José Manuel Jurado,27,Spain,Attacking Midfield,AM,6000000.0,Spartak Moscow,Russia,3000000.0,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Teemu Pukki,23,Finland,Centre-Forward,CF,2500000.0,Celtic,Scotland,2500000.0,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Sergio Escudero,23,Spain,Left-Back,LB,1000000.0,Getafe,Spain,1500000.0,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Tranquillo Barnetta,28,Switzerland,Attacking Midfield,AM,3000000.0,E. Frankfurt,Germany,500000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+FC Schalke 04,Philipp Hofmann,20,Germany,Centre-Forward,CF,600000.0,FC Ingolstadt,Germany,200000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+FC Schalke 04,Christoph Moritz,23,Germany,Central Midfield,CM,1500000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Christoph Metzelder,32,Germany,Centre-Back,CB,1500000.0,TuS Haltern,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Ciprian Marica,27,Romania,Centre-Forward,CF,2000000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+FC Schalke 04,Ibrahim Afellay,27,Netherlands,Left Midfield,LM,10000000.0,FC Barcelona,Spain,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+FC Schalke 04,Raffael,28,Brazil,Second Striker,SS,9000000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+FC Schalke 04,Jan Kirchhoff,23,Germany,Centre-Back,CB,4000000.0,FC Bayern,Germany,500000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+FC Schalke 04,Lars Unnerstall,23,Germany,Goalkeeper,GK,750000.0,FC Aarau,Switzerland,200000.0,out,winter,1 Bundesliga,2013,True,loan with fee
+FC Schalke 04,Jermaine Jones,32,United States,Defensive Midfield,DM,3750000.0,Besiktas,Turkey,200000.0,out,winter,1 Bundesliga,2013,False,
+Hamburger SV,Lasse Sobiech,22,Germany,Centre-Back,CB,1500000.0,Bor. Dortmund,Germany,1400000.0,in,summer,1 Bundesliga,2013,False,
+Hamburger SV,Jacques Zoua,21,Cameroon,Centre-Forward,CF,1000000.0,FC Basel,Switzerland,600000.0,in,summer,1 Bundesliga,2013,False,
+Hamburger SV,Pierre-Michel Lasogga,21,Germany,Centre-Forward,CF,4000000.0,Hertha BSC,Germany,350000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Hamburger SV,Kerem Demirbay,19,Germany,Central Midfield,CM,350000.0,B. Dortmund II,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hamburger SV,Johan Djourou,26,Switzerland,Centre-Back,CB,5000000.0,Arsenal,England,0.0,in,summer,1 Bundesliga,2013,True,free loan
+Hamburger SV,Heung-min Son,20,"Korea, South",Left Winger,LW,14000000.0,Bay. Leverkusen,Germany,10000000.0,out,summer,1 Bundesliga,2013,False,
+Hamburger SV,Dennis Aogo,26,Germany,Defensive Midfield,DM,6500000.0,FC Schalke 04,Germany,500000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Hamburger SV,Christian Nörgaard,19,Denmark,Central Midfield,CM,400000.0,Bröndby IF,Denmark,350000.0,out,summer,1 Bundesliga,2013,False,
+Hamburger SV,Jacopo Sala,21,Italy,Right-Back,RB,700000.0,Hellas Verona,Italy,100000.0,out,summer,1 Bundesliga,2013,False,
+Hamburger SV,Marcus Berg,26,Sweden,Centre-Forward,CF,1500000.0,Panathinaikos,Greece,0.0,out,summer,1 Bundesliga,2013,False,
+Hamburger SV,Per Ciljan Skjelbred,26,Norway,Central Midfield,CM,2500000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Hamburger SV,Paul Scharner,33,Austria,Centre-Back,CB,1500000.0,Career break,,,out,summer,1 Bundesliga,2013,False,
+Hamburger SV,Jeffrey Bruma,21,Netherlands,Centre-Back,CB,3000000.0,Chelsea,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Hamburger SV,Ola John,21,Netherlands,Left Winger,LW,12000000.0,Benfica,Portugal,0.0,in,winter,1 Bundesliga,2013,True,free loan
+Hamburger SV,Ouasim Bouy,20,Morocco,Defensive Midfield,DM,700000.0,Juventus,Italy,0.0,in,winter,1 Bundesliga,2013,True,free loan
+Hamburger SV,Artjoms Rudnevs,25,Latvia,Centre-Forward,CF,5000000.0,Hannover 96,Germany,300000.0,out,winter,1 Bundesliga,2013,True,loan with fee
+Hamburger SV,Gojko Kacar,27,Serbia,Defensive Midfield,DM,750000.0,Cerezo Osaka,Japan,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Hannover 96,Leonardo Bittencourt,19,Germany,Attacking Midfield,AM,2750000.0,Bor. Dortmund,Germany,2800000.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Marcelo,26,Brazil,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,2750000.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Edgar Prib,23,Germany,Central Midfield,CM,3000000.0,Greuther Fürth,Germany,2500000.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Salif Sané,22,Senegal,Centre-Back,CB,2500000.0,AS Nancy,France,2000000.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Konstantin Fuhry,18,Germany,Goalkeeper,GK,,Stuttgart U19,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Florian Ballas,20,Germany,Centre-Back,CB,25000.0,Nuremberg II,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hannover 96,Mohammed Abdellaoue,27,Norway,Centre-Forward,CF,5500000.0,VfB Stuttgart,Germany,3500000.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Karim Haggui,29,Tunisia,Centre-Back,CB,2500000.0,VfB Stuttgart,Germany,1000000.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Daniel Royer,23,Austria,Left Winger,LW,700000.0,Austria Vienna,Austria,200000.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Niko Gießelmann,21,Germany,Left-Back,LB,150000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Konstantin Rausch,23,Russia,Left-Back,LB,5000000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Sérgio da Silva Pinto,32,Germany,Central Midfield,CM,1500000.0,Levante,Spain,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Mario Eggimann,32,Switzerland,Centre-Back,CB,1000000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Sascha Schünemann,21,Germany,Central Midfield,CM,150000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Deniz Aycicek,23,Germany,Attacking Midfield,AM,150000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Samuel Sahin-Radlinger,20,Austria,Goalkeeper,GK,250000.0,Rapid Vienna,Austria,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Hannover 96,Sofian Chahed,30,Tunisia,Right-Back,RB,500000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+Hannover 96,Johan Djourou,26,Switzerland,Centre-Back,CB,4500000.0,Arsenal,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+Hannover 96,Artjoms Rudnevs,25,Latvia,Centre-Forward,CF,5000000.0,Hamburger SV,Germany,300000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+Hannover 96,Frantisek Rajtoral,27,Czech Republic,Right-Back,RB,2200000.0,Viktoria Plzen,Czech Republic,150000.0,in,winter,1 Bundesliga,2013,True,loan with fee
+Hannover 96,Deniz Kadah,27,Turkey,Centre-Forward,CF,300000.0,C. Rizespor,Turkey,0.0,out,winter,1 Bundesliga,2013,False,
+Hannover 96,Ali Gökdemir,22,Azerbaijan,Left-Back,LB,150000.0,Elazigspor,Turkey,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Hannover 96,França,22,Brazil,Defensive Midfield,DM,1500000.0,Palmeiras,Brazil,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Hannover 96,Florian Ballas,21,Germany,Centre-Back,CB,100000.0,Saarbrücken,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Hannover 96,Adrian Nikci,24,Switzerland,Left Winger,LW,700000.0,FC Thun,Switzerland,0.0,out,winter,1 Bundesliga,2013,True,free loan
+Hannover 96,Steven Cherundolo,35,United States,Right-Back,RB,750000.0,Retired,,,out,winter,1 Bundesliga,2013,False,
+Hertha BSC,Hajime Hosogai,27,Japan,Defensive Midfield,DM,2000000.0,Bay. Leverkusen,Germany,1000000.0,in,summer,1 Bundesliga,2013,False,
+Hertha BSC,Tolga Cigerci,21,Turkey,Central Midfield,CM,1000000.0,VfL Wolfsburg,Germany,300000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+Hertha BSC,Sebastian Langkamp,25,Germany,Centre-Back,CB,1750000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hertha BSC,Johannes van den Bergh,26,Germany,Left-Back,LB,1750000.0,F. Düsseldorf,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hertha BSC,Alexander Baumjohann,26,Germany,Attacking Midfield,AM,1750000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+Hertha BSC,Per Ciljan Skjelbred,26,Norway,Central Midfield,CM,2500000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2013,True,free loan
+Hertha BSC,Pierre-Michel Lasogga,21,Germany,Centre-Forward,CF,4000000.0,Hamburger SV,Germany,350000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+Hertha BSC,Alfredo Morales,23,United States,Central Midfield,CM,500000.0,FC Ingolstadt,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Marvin Knoll,22,Germany,Defensive Midfield,DM,200000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Shervin Radjabali-Fardi,22,Germany,Left-Back,LB,400000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Daniel Beichler,24,Austria,Second Striker,SS,350000.0,Sturm Graz,Austria,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Marco Djuricin,20,Austria,Centre-Forward,CF,350000.0,Sturm Graz,Austria,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Roman Hubnik,29,Czech Republic,Centre-Back,CB,800000.0,Viktoria Plzen,Czech Republic,0.0,out,summer,1 Bundesliga,2013,False,
+Hertha BSC,Felix Bastians,25,Germany,Centre-Back,CB,500000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+Hertha BSC,Rune Jarstein,29,Norway,Goalkeeper,GK,1000000.0,Viking FK,Norway,0.0,in,winter,1 Bundesliga,2013,False,
+Hertha BSC,Ben Sahar,24,Israel,Centre-Forward,CF,800000.0,Arm. Bielefeld,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+SC Freiburg,Vladimir Darida,23,Czech Republic,Central Midfield,CM,7500000.0,Viktoria Plzen,Czech Republic,4000000.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Felix Klaus,20,Germany,Right Winger,RW,1250000.0,Greuther Fürth,Germany,1100000.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Gelson Fernandes,26,Switzerland,Defensive Midfield,DM,3000000.0,Sporting CP,Portugal,400000.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Admir Mehmedi,22,Switzerland,Second Striker,SS,3500000.0,Dynamo Kyiv,Ukraine,300000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+SC Freiburg,Vaclav Pilar,24,Czech Republic,Left Midfield,LM,3500000.0,VfL Wolfsburg,Germany,200000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+SC Freiburg,Francis Coquelin,22,France,Defensive Midfield,DM,4000000.0,Arsenal,England,200000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+SC Freiburg,Mike Hanke,29,Germany,Centre-Forward,CF,2500000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Christopher Jullien,20,France,Centre-Back,CB,1000000.0,AJ Auxerre,France,0.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Denis Perger,20,Slovenia,Left-Back,LB,200000.0,FC Koper,Slovenia,30000.0,in,summer,1 Bundesliga,2013,False,
+SC Freiburg,Daniel Caligiuri,25,Italy,Right Winger,RW,4500000.0,VfL Wolfsburg,Germany,4500000.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Cédric Makiadi,29,DR Congo,Central Midfield,CM,3500000.0,Werder Bremen,Germany,3000000.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Max Kruse,25,Germany,Second Striker,SS,5000000.0,Bor. M'gladbach,Germany,2500000.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Johannes Flum,25,Germany,Central Midfield,CM,3000000.0,E. Frankfurt,Germany,2000000.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Beg Ferati,26,Switzerland,Centre-Back,CB,400000.0,FC Sion,Switzerland,200000.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Jan Rosenthal,27,Germany,Second Striker,SS,3000000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Mounir Bouziane,22,France,Centre-Forward,CF,150000.0,FSV Mainz 05 II,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Simon Brandstetter,23,Germany,Centre-Forward,CF,150000.0,Rot-Weiß Erfurt,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Erik Jendrisek,26,Slovakia,Centre-Forward,CF,750000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Erich Sautner,21,Germany,Attacking Midfield,AM,175000.0,Waldh. Mannheim,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Denis Perger,20,Slovenia,Left-Back,LB,200000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2013,True,free loan
+SC Freiburg,Garra Dembélé,28,Mali,Centre-Forward,CF,500000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+SC Freiburg,Ivan Santini,24,Croatia,Centre-Forward,CF,600000.0,NK Zadar,Croatia,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+SC Freiburg,Ezequiel Calvente,22,Spain,Right Winger,RW,800000.0,Real Betis,Spain,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+SC Freiburg,Philipp Zulechner,23,Austria,Centre-Forward,CF,900000.0,Grödig,Austria,700000.0,in,winter,1 Bundesliga,2013,False,
+SV Werder Bremen,Nils Petersen,24,Germany,Centre-Forward,CF,5000000.0,FC Bayern,Germany,3000000.0,in,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Cédric Makiadi,29,DR Congo,Central Midfield,CM,3500000.0,SC Freiburg,Germany,3000000.0,in,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Luca Caldirola,22,Italy,Centre-Back,CB,3000000.0,Inter,Italy,2250000.0,in,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Santiago García,25,Argentina,Centre-Back,CB,1000000.0,Rangers Talca,Chile,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+SV Werder Bremen,Franco Di Santo,24,Argentina,Centre-Forward,CF,3000000.0,Wigan,England,0.0,in,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Sokratis Papastathopoulos,25,Greece,Centre-Back,CB,10000000.0,Bor. Dortmund,Germany,9900000.0,out,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Marko Arnautovic,24,Austria,Centre-Forward,CF,7000000.0,Stoke City,England,2800000.0,out,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Denni Avdic,24,Sweden,Centre-Forward,CF,900000.0,AZ Alkmaar,Netherlands,250000.0,out,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Joseph Akpala,27,Nigeria,Centre-Forward,CF,1500000.0,Karabükspor,Turkey,250000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+SV Werder Bremen,Florian Hartherz,20,Germany,Left-Back,LB,800000.0,SC Paderborn,Germany,150000.0,out,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Niclas Füllkrug,20,Germany,Centre-Forward,CF,1250000.0,Greuther Fürth,Germany,100000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+SV Werder Bremen,Johannes Wurtz,21,Germany,Centre-Forward,CF,250000.0,SC Paderborn,Germany,50000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+SV Werder Bremen,Christian Vander,32,Germany,Goalkeeper,GK,100000.0,Retired,,,out,summer,1 Bundesliga,2013,False,
+SV Werder Bremen,Nils Petersen,24,Germany,Centre-Forward,CF,6000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+SV Werder Bremen,Kevin De Bruyne,22,Belgium,Attacking Midfield,AM,10000000.0,Chelsea,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+SV Werder Bremen,Ludovic Obraniak,29,Poland,Attacking Midfield,AM,5000000.0,G. Bordeaux,France,1500000.0,in,winter,1 Bundesliga,2013,False,
+SV Werder Bremen,Tom Trybull,20,Germany,Defensive Midfield,DM,1500000.0,FC St. Pauli,Germany,100000.0,out,winter,1 Bundesliga,2013,False,
+SV Werder Bremen,Mateo Pavlovic,23,Croatia,Centre-Back,CB,700000.0,Ferencváros,Hungary,0.0,out,winter,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Tarik Elyounoussi,25,Norway,Centre-Forward,CF,1700000.0,Rosenborg,Norway,3000000.0,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Anthony Modeste,25,France,Centre-Forward,CF,4500000.0,G. Bordeaux,France,3000000.0,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Bruno Nazário,18,Brazil,Attacking Midfield,AM,,Tombense,Brazil,1500000.0,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Igor de Camargo,30,Belgium,Centre-Forward,CF,2250000.0,Bor. M'gladbach,Germany,1400000.0,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Kevin Akpoguma,18,Nigeria,Centre-Back,CB,450000.0,Karlsruher SC,Germany,1000000.0,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Alexander Stolz,29,Germany,Goalkeeper,GK,50000.0,Without Club,,,in,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Danny Williams,24,United States,Defensive Midfield,DM,2500000.0,Reading,England,2000000.0,out,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Joselu,23,Spain,Centre-Forward,CF,4500000.0,E. Frankfurt,Germany,800000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+TSG 1899 Hoffenheim,Stephan Schröck,26,Philippines,Attacking Midfield,AM,1000000.0,E. Frankfurt,Germany,500000.0,out,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Eren Derdiyok,25,Switzerland,Centre-Forward,CF,2500000.0,Bay. Leverkusen,Germany,500000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+TSG 1899 Hoffenheim,Michael Gregoritsch,19,Austria,Second Striker,SS,200000.0,FC St. Pauli,Germany,100000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+TSG 1899 Hoffenheim,Igor de Camargo,30,Belgium,Centre-Forward,CF,2250000.0,Standard Liège,Belgium,100000.0,out,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Chris,34,Brazil,Centre-Back,CB,300000.0,Tombense,Brazil,0.0,out,summer,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Knowledge Musona,23,Zimbabwe,Left Winger,LW,1000000.0,Kaizer Chiefs,South Africa,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Guilherme Biteco,20,Brazil,Left Midfield,LM,800000.0,Vasco da Gama,Brazil,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Sandro Wieser,20,Liechtenstein,Defensive Midfield,DM,600000.0,SV Ried,Austria,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Filip Malbasic,20,Serbia,Right Winger,RW,700000.0,Partizan,Serbia,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Luis Advíncula,23,Peru,Right-Back,RB,500000.0,Ponte Preta,Brazil,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Junior Ponce,19,Peru,Right Winger,RW,300000.0,Alianza Lima,Peru,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Afriyie Acquah,21,Ghana,Central Midfield,CM,1500000.0,Parma,Italy,0.0,out,summer,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Takashi Usami,21,Japan,Centre-Forward,CF,2000000.0,Gamba Osaka,Japan,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+TSG 1899 Hoffenheim,Patrick Ochs,29,Germany,Right-Back,RB,1500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+TSG 1899 Hoffenheim,Igor de Camargo,30,Belgium,Centre-Forward,CF,2500000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+TSG 1899 Hoffenheim,Heurelho Gomes,32,Brazil,Goalkeeper,GK,1000000.0,Spurs,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+TSG 1899 Hoffenheim,Jiloan Hamad,23,Iraq,Attacking Midfield,AM,2500000.0,Malmö FF,Sweden,0.0,in,winter,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Vincenzo Grifo,20,Italy,Left Winger,LW,400000.0,Dynamo Dresden,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Matthieu Delpierre,32,France,Centre-Back,CB,1000000.0,FC Utrecht,Netherlands,0.0,out,winter,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Luis Advíncula,23,Peru,Right-Back,RB,300000.0,Sport. Cristal,Peru,0.0,out,winter,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Tobias Weis,28,Germany,Central Midfield,CM,1000000.0,E. Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Andreas Ludwig,23,Germany,Attacking Midfield,AM,125000.0,1860 Munich,Germany,0.0,out,winter,1 Bundesliga,2013,True,free loan
+TSG 1899 Hoffenheim,Tim Wiese,32,Germany,Goalkeeper,GK,1000000.0,Without Club,,,out,winter,1 Bundesliga,2013,False,
+TSG 1899 Hoffenheim,Matthias Jaissle,25,Germany,Centre-Back,CB,125000.0,Retired,,,out,winter,1 Bundesliga,2013,False,
+VfB Stuttgart,Mohammed Abdellaoue,27,Norway,Centre-Forward,CF,5500000.0,Hannover 96,Germany,3500000.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Gotoku Sakai,22,Japan,Left-Back,LB,4000000.0,Albirex Niigata,Japan,1200000.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Karim Haggui,29,Tunisia,Centre-Back,CB,2500000.0,Hannover 96,Germany,1000000.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Moritz Leitner,20,Germany,Central Midfield,CM,5000000.0,Bor. Dortmund,Germany,500000.0,in,summer,1 Bundesliga,2013,True,loan with fee
+VfB Stuttgart,Sercan Sararer,23,Turkey,Attacking Midfield,AM,2500000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Thorsten Kirschbaum,26,Germany,Goalkeeper,GK,1000000.0,Energie Cottbus,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Konstantin Rausch,23,Russia,Left-Back,LB,5000000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Marco Rojas,21,New Zealand,Right Winger,RW,1000000.0,Melbourne,Australia,0.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Daniel Schwaab,24,Germany,Centre-Back,CB,2500000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Serdar Tasci,26,Germany,Centre-Back,CB,9000000.0,Spartak Moscow,Russia,4000000.0,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Shinji Okazaki,27,Japan,Centre-Forward,CF,2000000.0,1.FSV Mainz 05,Germany,1500000.0,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Raphael Holzhauser,20,Austria,Attacking Midfield,AM,3000000.0,FC Augsburg,Germany,300000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfB Stuttgart,Kevin Stöger,19,Austria,Attacking Midfield,AM,400000.0,1.FC K'lautern,Germany,300000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfB Stuttgart,Tamás Hajnal,32,Hungary,Attacking Midfield,AM,500000.0,FC Ingolstadt,Germany,250000.0,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,André Weis,23,Germany,Goalkeeper,GK,500000.0,FC Ingolstadt,Germany,200000.0,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Patrick Bauer,20,Germany,Centre-Back,CB,300000.0,Marítimo,Portugal,150000.0,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Johan Audel,29,Martinique,Left Winger,LW,375000.0,FC Nantes,France,0.0,out,summer,1 Bundesliga,2013,True,free loan
+VfB Stuttgart,Marc Ziegler,37,Germany,Goalkeeper,GK,200000.0,Retired,,,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Mamadou Bah,25,Guinea,Defensive Midfield,DM,250000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+VfB Stuttgart,Gotoku Sakai,22,Japan,Left-Back,LB,4000000.0,Albirex Niigata,Japan,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+VfB Stuttgart,Tim Hoogland,28,Germany,Centre-Back,CB,1000000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+VfB Stuttgart,Felipe Lopes,25,Brazil,Centre-Back,CB,2500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+VfB Stuttgart,Federico Macheda,21,Italy,Centre-Forward,CF,2500000.0,Man Utd,England,0.0,out,summer,1 Bundesliga,2013,True,end of loan
+VfB Stuttgart,Carlos Gruezo,18,Ecuador,Defensive Midfield,DM,1000000.0,Barcelona SC,Ecuador,1000000.0,in,winter,1 Bundesliga,2013,False,
+VfB Stuttgart,Tunay Torun,23,Turkey,Right Winger,RW,1500000.0,Kasimpasa,Turkey,500000.0,out,winter,1 Bundesliga,2013,False,
+VfB Stuttgart,Benedikt Röcker,24,Germany,Centre-Back,CB,450000.0,Greuther Fürth,Germany,0.0,out,winter,1 Bundesliga,2013,False,
+VfB Stuttgart,Cristian Molinaro,30,Italy,Left-Back,LB,1500000.0,Parma,Italy,0.0,out,winter,1 Bundesliga,2013,False,
+VfB Stuttgart,William Kvist,28,Denmark,Defensive Midfield,DM,5500000.0,Fulham,England,0.0,out,winter,1 Bundesliga,2013,True,free loan
+VfL Wolfsburg,Luiz Gustavo,26,Brazil,Defensive Midfield,DM,18000000.0,FC Bayern,Germany,16000000.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Timm Klose,25,Switzerland,Centre-Back,CB,5500000.0,1.FC Nuremberg,Germany,6000000.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Daniel Caligiuri,25,Italy,Right Winger,RW,4500000.0,SC Freiburg,Germany,4500000.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Junior Malanda,18,Belgium,Defensive Midfield,DM,4000000.0,Zulte Waregem,Belgium,1700000.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Max Grün,26,Germany,Goalkeeper,GK,1000000.0,Greuther Fürth,Germany,400000.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Stefan Kutschke,24,Germany,Centre-Forward,CF,250000.0,RB Leipzig,Germany,0.0,in,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Makoto Hasebe,29,Japan,Defensive Midfield,DM,3000000.0,1.FC Nuremberg,Germany,2500000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Simon Kjaer,24,Denmark,Centre-Back,CB,7000000.0,LOSC Lille,France,2500000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Giovanni Sio,24,Cote d'Ivoire,Centre-Forward,CF,2000000.0,FC Basel,Switzerland,2000000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Sebastian Polter,22,Germany,Centre-Forward,CF,1500000.0,1.FSV Mainz 05,Germany,750000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Marco Russ,27,Germany,Centre-Back,CB,1500000.0,E. Frankfurt,Germany,400000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Ferhan Hasani,23,North Macedonia,Attacking Midfield,AM,400000.0,Bröndby IF,Denmark,350000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Tolga Cigerci,21,Turkey,Central Midfield,CM,1000000.0,Hertha BSC,Germany,300000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfL Wolfsburg,Mateusz Klich,23,Poland,Central Midfield,CM,750000.0,PEC Zwolle,Netherlands,200000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Vaclav Pilar,24,Czech Republic,Left Midfield,LM,3500000.0,SC Freiburg,Germany,200000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfL Wolfsburg,Michael Schulze,24,Germany,Right-Back,RB,700000.0,Energie Cottbus,Germany,150000.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Ibrahim Sissoko,21,Cote d'Ivoire,Attacking Midfield,AM,1750000.0,Saint-Étienne,France,100000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfL Wolfsburg,Rasmus Jönsson,23,Sweden,Centre-Forward,CF,1000000.0,Aalborg BK,Denmark,100000.0,out,summer,1 Bundesliga,2013,True,loan with fee
+VfL Wolfsburg,Emanuel Pogatetz,30,Austria,Centre-Back,CB,2500000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Akaki Gogia,21,Germany,Right Winger,RW,700000.0,Hallescher FC,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Thomas Kahlenberg,30,Denmark,Central Midfield,CM,1250000.0,Bröndby IF,Denmark,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Junior Malanda,18,Belgium,Defensive Midfield,DM,4000000.0,Zulte Waregem,Belgium,0.0,out,summer,1 Bundesliga,2013,True,free loan
+VfL Wolfsburg,Yohandry Orozco,22,Venezuela,Attacking Midfield,AM,400000.0,Táchira,Venezuela,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Patrick Helmes,29,Germany,Centre-Forward,CF,3000000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Marwin Hitz,25,Switzerland,Goalkeeper,GK,450000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Fágner,24,Brazil,Right-Back,RB,3500000.0,Vasco da Gama,Brazil,0.0,out,summer,1 Bundesliga,2013,True,free loan
+VfL Wolfsburg,Kevin Pannewitz,21,Germany,Defensive Midfield,DM,250000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Alexander Madlung,30,Germany,Centre-Back,CB,800000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Sotiris Kyrgiakos,33,Greece,Centre-Back,CB,300000.0,Without Club,,,out,summer,1 Bundesliga,2013,False,
+VfL Wolfsburg,Kevin De Bruyne,22,Belgium,Attacking Midfield,AM,15000000.0,Chelsea,England,22000000.0,in,winter,1 Bundesliga,2013,False,
+VfL Wolfsburg,Ja-cheol Koo,24,"Korea, South",Central Midfield,CM,4000000.0,1.FSV Mainz 05,Germany,5000000.0,out,winter,1 Bundesliga,2013,False,
+VfL Wolfsburg,Diego,28,Brazil,Attacking Midfield,AM,12000000.0,Atlético Madrid,Spain,1500000.0,out,winter,1 Bundesliga,2013,False,
+VfL Wolfsburg,Ibrahim Sissoko,22,Cote d'Ivoire,Attacking Midfield,AM,1250000.0,Dep. La Coruña,Spain,0.0,out,winter,1 Bundesliga,2013,True,free loan
+VfL Wolfsburg,Srdjan Lakic,30,Croatia,Centre-Forward,CF,1750000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2013,False,
+VfL Wolfsburg,Fágner,24,Brazil,Right-Back,RB,2500000.0,Corinthians,Brazil,0.0,out,winter,1 Bundesliga,2013,True,free loan

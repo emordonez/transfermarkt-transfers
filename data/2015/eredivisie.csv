@@ -1,0 +1,477 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+ADO Den Haag,Ludcinio Marengo,23,Netherlands,Left Winger,LW,200000.0,FC Volendam,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+ADO Den Haag,Édouard Duplan,32,France,Left Winger,LW,1000000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+ADO Den Haag,Ruben Schaken,33,Netherlands,Right Winger,RW,1000000.0,Inter Baku,Azerbaijan,0.0,in,summer,Eredivisie,2015,False,
+ADO Den Haag,Tom Beugelsdijk,25,Netherlands,Centre-Back,CB,650000.0,FSV Frankfurt,Germany,0.0,in,summer,Eredivisie,2015,False,
+ADO Den Haag,Kenji Gorré,20,Curacao,Right Midfield,RM,,Swansea,England,0.0,in,summer,Eredivisie,2015,True,free loan
+ADO Den Haag,Mike Havenaar,28,Japan,Centre-Forward,CF,2000000.0,HJK Helsinki,Finland,,in,summer,Eredivisie,2015,False,
+ADO Den Haag,Michiel Kramer,26,Netherlands,Centre-Forward,CF,2500000.0,Feyenoord,Netherlands,1500000.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Mike van Duinen,23,Netherlands,Centre-Forward,CF,1500000.0,F. Düsseldorf,Germany,500000.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Richelo Fecunda,19,Netherlands,Right-Back,RB,50000.0,HBS,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Mitchell Schet,27,Netherlands,Right Winger,RW,400000.0,AS Trencin,Slovakia,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Ricky van Haaren,24,Netherlands,Central Midfield,CM,400000.0,Dinamo,Romania,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Malcolm Esajas,28,Netherlands,Left Winger,LW,175000.0,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Guy Smith,19,Netherlands,Right-Back,RB,50000.0,Noordwijk,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Ninos Gouriye,24,Netherlands,Left Winger,LW,700000.0,Astra Giurgiu,Romania,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Xander Houtkoop,26,Netherlands,Left Winger,LW,600000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Sem de Wit,20,Netherlands,Defensive Midfield,DM,100000.0,SC Cambuur U21,Netherlands,,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Mitchel de Vlugt,21,Netherlands,Defensive Midfield,DM,50000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Papito Merencia,21,Curacao,Attacking Midfield,AM,75000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+ADO Den Haag,Wilson Eduardo,24,Angola,Left Winger,LW,3000000.0,Sporting CP,Portugal,0.0,out,summer,Eredivisie,2015,True,end of loan
+ADO Den Haag,Oleksandr Yakovenko,27,Ukraine,Left Winger,LW,1000000.0,Fiorentina,Italy,0.0,out,summer,Eredivisie,2015,True,end of loan
+ADO Den Haag,Kyle Ebecilio,21,Netherlands,Central Midfield,CM,3000000.0,Twente FC,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+ADO Den Haag,Gervane Kastaneer,19,Curacao,Left Winger,LW,300000.0,FC Eindhoven,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+ADO Den Haag,Roland Alberg,25,Suriname,Attacking Midfield,AM,1250000.0,Philadelphia,United States,,out,winter,Eredivisie,2015,False,
+AZ Alkmaar,Alireza Jahanbakhsh,21,Iran,Right Winger,RW,2000000.0,NEC Nijmegen,Netherlands,1800000.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Ben Rienstra,25,Netherlands,Central Midfield,CM,2000000.0,PEC Zwolle,Netherlands,1500000.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Vincent Janssen,21,Netherlands,Centre-Forward,CF,400000.0,Almere City,Netherlands,500000.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Rajko Brezancic,25,Serbia,Left-Back,LB,700000.0,Cukaricki,Serbia,400000.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Gino Coutinho,32,Netherlands,Goalkeeper,GK,600000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Jop van der Linden,24,Netherlands,Centre-Back,CB,700000.0,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Mounir El Hamdaoui,31,Morocco,Centre-Forward,CF,500000.0,Without Club,,,in,summer,Eredivisie,2015,False,
+AZ Alkmaar,Steven Berghuis,23,Netherlands,Right Winger,RW,3500000.0,Watford,England,6500000.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Nemanja Gudelj,23,Serbia,Defensive Midfield,DM,6000000.0,Ajax,Netherlands,6000000.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Aron Jóhannsson,24,United States,Centre-Forward,CF,3500000.0,Werder Bremen,Germany,4200000.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Wesley Hoedt,21,Netherlands,Centre-Back,CB,1500000.0,Lazio,Italy,0.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Simon Poulsen,30,Denmark,Left-Back,LB,1000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Yves De Winter,28,Belgium,Goalkeeper,GK,300000.0,Sint-Truiden,Belgium,0.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Esteban Alvarado,26,Costa Rica,Goalkeeper,GK,2500000.0,Trabzonspor,Turkey,0.0,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Eli Babalj,23,Australia,Centre-Forward,CF,250000.0,Adelaide United,Australia,0.0,out,summer,Eredivisie,2015,True,free loan
+AZ Alkmaar,Djavan Anderson,20,Netherlands,Right Midfield,RM,150000.0,SC Cambuur,Netherlands,,out,summer,Eredivisie,2015,False,
+AZ Alkmaar,Stijn Wuytens,26,Belgium,Centre-Back,CB,900000.0,Willem II,Netherlands,500000.0,in,winter,Eredivisie,2015,False,
+AZ Alkmaar,Levi García,18,Trinidad and Tobago,Right Winger,RW,,Central FC,Trinidad and Tobago,,in,winter,Eredivisie,2015,False,
+AZ Alkmaar,Mounir El Hamdaoui,31,Morocco,Centre-Forward,CF,500000.0,Without Club,,,in,winter,Eredivisie,2015,False,
+AZ Alkmaar,Ron Vlaar,30,Netherlands,Centre-Back,CB,6000000.0,Without Club,,,in,winter,Eredivisie,2015,False,
+AZ Alkmaar,Jeffrey Gouweleeuw,24,Netherlands,Centre-Back,CB,3000000.0,FC Augsburg,Germany,3000000.0,out,winter,Eredivisie,2015,False,
+AZ Alkmaar,Mounir El Hamdaoui,31,Morocco,Centre-Forward,CF,500000.0,Umm Salal SC,Qatar,100000.0,out,winter,Eredivisie,2015,False,
+AZ Alkmaar,Guus Hupperts,23,Netherlands,Right Winger,RW,1250000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+AZ Alkmaar,Stijn Spierings,19,Netherlands,Attacking Midfield,AM,150000.0,Sparta R.,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Nemanja Gudelj,23,Serbia,Defensive Midfield,DM,6000000.0,AZ Alkmaar,Netherlands,6000000.0,in,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Arkadiusz Milik,21,Poland,Centre-Forward,CF,5000000.0,Bay. Leverkusen,Germany,2800000.0,in,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Amin Younes,21,Germany,Attacking Midfield,AM,1000000.0,Bor. M'gladbach,Germany,2500000.0,in,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Johnny Heitinga,31,Netherlands,Centre-Back,CB,2000000.0,Hertha BSC,Germany,0.0,in,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Mitchell Dijks,22,Netherlands,Left-Back,LB,700000.0,Willem II,Netherlands,,in,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Yaya Sanogo,22,France,Centre-Forward,CF,2000000.0,Arsenal,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Kolbeinn Sigthórsson,25,Iceland,Centre-Forward,CF,3500000.0,FC Nantes,France,3000000.0,out,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Ricardo Kishna,20,Netherlands,Left Winger,LW,2750000.0,Lazio,Italy,3000000.0,out,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Niklas Moisander,29,Finland,Centre-Back,CB,5500000.0,Sampdoria,Italy,0.0,out,summer,Eredivisie,2015,False,
+Ajax Amsterdam,Peter Leeuwenburgh,21,Netherlands,Goalkeeper,GK,100000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Ruben Ligeon,23,Netherlands,Right-Back,RB,600000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Richairo Zivkovic,18,Netherlands,Centre-Forward,CF,4000000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Lesly de Sa,22,Netherlands,Right Winger,RW,600000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Lucas Andersen,20,Denmark,Left Winger,LW,2000000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Arkadiusz Milik,21,Poland,Centre-Forward,CF,5000000.0,Bay. Leverkusen,Germany,0.0,out,summer,Eredivisie,2015,True,end of loan
+Ajax Amsterdam,Niki Zimling,30,Denmark,Defensive Midfield,DM,2000000.0,1.FSV Mainz 05,Germany,0.0,out,summer,Eredivisie,2015,True,end of loan
+Ajax Amsterdam,Ruben Ligeon,23,Netherlands,Right-Back,RB,600000.0,FC Utrecht,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Lerin Duarte,25,Netherlands,Central Midfield,CM,1500000.0,NAC Breda,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Ajax Amsterdam,Johnny Heitinga,32,Netherlands,Centre-Back,CB,1000000.0,Retired,,,out,winter,Eredivisie,2015,False,
+De Graafschap Doetinchem,Youssef El Jebli,22,Netherlands,Attacking Midfield,AM,,Lienden,Netherlands,50000.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Bryan Smeets,22,Netherlands,Attacking Midfield,AM,200000.0,MVV Maastricht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Tim Linthorst,20,Netherlands,Centre-Back,CB,,Vitesse U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Andy Driver,27,Scotland,Left Midfield,LM,1250000.0,Aberdeen FC,Scotland,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Erik Quekel,28,Netherlands,Centre-Forward,CF,200000.0,FC Den Bosch,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Thijs Bouma,23,Netherlands,Right-Back,RB,150000.0,Almere City,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Alexander Bannink,25,Netherlands,Attacking Midfield,AM,275000.0,FC Emmen,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Eric Verstappen,21,Netherlands,Goalkeeper,GK,50000.0,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Jeroen Tesselaar,26,Netherlands,Left-Back,LB,300000.0,St. Mirren,Scotland,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Cas Peters,22,Netherlands,Centre-Forward,CF,500000.0,Nacional,Portugal,0.0,in,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Nathan Kabasele,21,Belgium,Centre-Forward,CF,1000000.0,RSC Anderlecht,Belgium,0.0,in,summer,Eredivisie,2015,True,free loan
+De Graafschap Doetinchem,Caner Cavlan,23,Netherlands,Left-Back,LB,200000.0,Heerenveen,Netherlands,300000.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Santy Hulst,28,Netherlands,Attacking Midfield,AM,,Scheveningen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Jordy van de Kracht,25,Netherlands,Goalkeeper,GK,50000.0,De Treffers,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Jerry van Wolfgang,23,Netherlands,Left Midfield,LM,250000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Milan Massop,21,Netherlands,Left-Back,LB,75000.0,FC Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Jordan Garcia-Calvete,23,Belgium,Right Winger,RW,125000.0,RWDM Brussels,Belgium,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Caio Eltink,22,Brazil,Centre-Forward,CF,50000.0,Rio Branco-SP,Brazil,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Tim Janssen,29,Netherlands,Centre-Forward,CF,300000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Vlatko Lazic,26,Netherlands,Right-Back,RB,200000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Edwin Linssen,34,Netherlands,Defensive Midfield,DM,100000.0,Retired,,,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Soufian Echcharaf,21,Netherlands,Defensive Midfield,DM,100000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Tigran Gazarjan,20,Armenia,Attacking Midfield,AM,25000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+De Graafschap Doetinchem,Piotr Parzyszek,22,Poland,Centre-Forward,CF,400000.0,Charlton,England,0.0,in,winter,Eredivisie,2015,False,
+De Graafschap Doetinchem,Mark Diemers,22,Netherlands,Central Midfield,CM,500000.0,FC Utrecht,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+FC Groningen,Jesper Drost,22,Netherlands,Attacking Midfield,AM,1500000.0,PEC Zwolle,Netherlands,1450000.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Bryan Linssen,24,Netherlands,Left Winger,LW,1000000.0,Heracles Almelo,Netherlands,850000.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Kasper Larsen,22,Denmark,Centre-Back,CB,500000.0,Odense BK,Denmark,450000.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Etiënne Reijnen,28,Netherlands,Centre-Back,CB,800000.0,SC Cambuur,Netherlands,400000.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Abel Tamata,24,DR Congo,Left-Back,LB,500000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Hedwiges Maduro,30,Netherlands,Defensive Midfield,DM,1250000.0,PAOK Salonika,Greece,0.0,in,summer,Eredivisie,2015,False,
+FC Groningen,Eric Botteghin,27,Brazil,Centre-Back,CB,3000000.0,Feyenoord,Netherlands,2500000.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Tjaronn Chery,27,Suriname,Attacking Midfield,AM,4000000.0,QPR,England,2340000.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Maikel Kieftenbeld,25,Netherlands,Defensive Midfield,DM,2000000.0,Birmingham,England,250000.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Paco van Moorsel,25,Netherlands,Attacking Midfield,AM,200000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Groningen,William Troost-Ekong,21,Nigeria,Centre-Back,CB,300000.0,KAA Gent,Belgium,0.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Nick van der Velden,33,Netherlands,Left Winger,LW,600000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Hilal Ben Moussa,23,Netherlands,Central Midfield,CM,100000.0,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Groningen,Martijn van der Laan,27,Netherlands,Centre-Back,CB,500000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+FC Groningen,Yoëll van Nieff,22,Netherlands,Defensive Midfield,DM,700000.0,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+FC Groningen,Hristijan Denkovski,21,North Macedonia,Attacking Midfield,AM,100000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+FC Groningen,Alexander Sörloth,20,Norway,Centre-Forward,CF,700000.0,Rosenborg,Norway,550000.0,in,winter,Eredivisie,2015,False,
+FC Groningen,Johan Kappelhof,25,Netherlands,Centre-Back,CB,1000000.0,Chicago Fire,United States,350000.0,out,winter,Eredivisie,2015,False,
+FC Groningen,Tom Hiariej,27,Netherlands,Defensive Midfield,DM,400000.0,SC Cambuur,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+FC Utrecht,Sébastien Haller,21,Cote d'Ivoire,Centre-Forward,CF,1250000.0,AJ Auxerre,France,750000.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Timo Letschert,22,Netherlands,Centre-Back,CB,350000.0,Roda JC,Netherlands,200000.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Filip Bednarek,22,Poland,Goalkeeper,GK,150000.0,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Andreas Ludwig,24,Germany,Attacking Midfield,AM,500000.0,VfR Aalen,Germany,0.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Rico Strieder,23,Germany,Defensive Midfield,DM,150000.0,FC Bayern II,Germany,0.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Louis Nganioni,20,France,Left-Back,LB,150000.0,Olympique Lyon,France,0.0,in,summer,Eredivisie,2015,True,free loan
+FC Utrecht,Kevin Conboy,27,Denmark,Left-Back,LB,600000.0,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+FC Utrecht,Elroy Pappot,22,Netherlands,Attacking Midfield,AM,100000.0,SDO Bussum,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Kai Heerings,25,Netherlands,Centre-Back,CB,700000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Kenny Teijsse,22,Netherlands,Defensive Midfield,DM,200000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Gyliano van Velzen,21,Netherlands,Left Winger,LW,150000.0,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Édouard Duplan,32,France,Left Winger,LW,1000000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Michael Zullo,26,Australia,Left-Back,LB,250000.0,Melbourne City,Australia,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Jeroen Verhoeven,35,Netherlands,Goalkeeper,GK,100000.0,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Tommy Oar,23,Australia,Left Winger,LW,2000000.0,Ipswich,England,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Leon de Kogel,23,Netherlands,Centre-Forward,CF,400000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+FC Utrecht,Yannick Cortie,22,Netherlands,Left-Back,LB,200000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+FC Utrecht,Gévero Markiet,24,Netherlands,Centre-Back,CB,500000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+FC Utrecht,Nando Quesada,21,Spain,Attacking Midfield,AM,250000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+FC Utrecht,Danny Verbeek,24,Netherlands,Attacking Midfield,AM,600000.0,Standard Liège,Belgium,0.0,out,summer,Eredivisie,2015,True,end of loan
+FC Utrecht,Timo Letschert,22,Netherlands,Centre-Back,CB,350000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+FC Utrecht,Sébastien Haller,21,Cote d'Ivoire,Centre-Forward,CF,1250000.0,AJ Auxerre,France,0.0,out,summer,Eredivisie,2015,True,end of loan
+FC Utrecht,Ruben Ligeon,23,Netherlands,Right-Back,RB,600000.0,Ajax,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+FC Utrecht,Adam Sarota,27,Australia,Right Midfield,RM,350000.0,Go Ahead Eagles,Netherlands,0.0,out,winter,Eredivisie,2015,False,
+FC Utrecht,Mark Diemers,22,Netherlands,Central Midfield,CM,500000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+FC Utrecht,Kristoffer Peterson,21,Sweden,Left Winger,LW,750000.0,Roda JC,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Feyenoord Rotterdam,Marko Vejinović,25,Netherlands,Central Midfield,CM,3250000.0,Vitesse,Netherlands,3500000.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Eric Botteghin,27,Brazil,Centre-Back,CB,3000000.0,FC Groningen,Netherlands,2500000.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Simon Gustafson,20,Sweden,Attacking Midfield,AM,1000000.0,Häcken,Sweden,1500000.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Michiel Kramer,26,Netherlands,Centre-Forward,CF,2500000.0,ADO Den Haag,Netherlands,1500000.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Dirk Kuyt,34,Netherlands,Right Winger,RW,2000000.0,Fenerbahce,Turkey,0.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Colin Kazim-Richards,28,Turkey,Centre-Forward,CF,1500000.0,Bursaspor,Turkey,0.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Jan-Arie van der Heijden,27,Netherlands,Centre-Back,CB,3000000.0,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Eljero Elia,28,Netherlands,Left Winger,LW,2500000.0,Werder Bremen,Germany,0.0,in,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Jordy Clasie,24,Netherlands,Defensive Midfield,DM,10000000.0,Southampton,England,15000000.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Jean-Paul Boëtius,21,Netherlands,Attacking Midfield,AM,4500000.0,FC Basel,Switzerland,2000000.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Elvis Manu,22,Netherlands,Left Winger,LW,2000000.0,Brighton,England,1200000.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Mitchell te Vrede,24,Netherlands,Centre-Forward,CF,1000000.0,Heerenveen,Netherlands,500000.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Joey Sleegers,21,Netherlands,Left Winger,LW,450000.0,NEC Nijmegen,Netherlands,100000.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Konstantinos Lamprou,23,Greece,Goalkeeper,GK,500000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Erwin Mulder,26,Netherlands,Goalkeeper,GK,2000000.0,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Ronald Graafland,36,Netherlands,Goalkeeper,GK,50000.0,Retired,,0.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Matthew Steenvoorden,22,Netherlands,Centre-Back,CB,300000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Wesley Verhoek,28,Netherlands,Right Winger,RW,250000.0,Pune City,India,0.0,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Lucas Woudenberg,21,Netherlands,Left-Back,LB,500000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Feyenoord Rotterdam,Wessel Dammers,20,Netherlands,Centre-Back,CB,250000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Feyenoord Rotterdam,Khalid Boulahrouz,33,Netherlands,Centre-Back,CB,600000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Joris Mathijsen,35,Netherlands,Centre-Back,CB,1000000.0,Retired,,,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Luke Wilkshire,33,Australia,Right-Back,RB,1000000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Feyenoord Rotterdam,Colin Kazim-Richards,28,Turkey,Centre-Forward,CF,1500000.0,Bursaspor,Turkey,0.0,out,summer,Eredivisie,2015,True,end of loan
+Feyenoord Rotterdam,Renato Tapia,20,Peru,Defensive Midfield,DM,2000000.0,Twente FC,Netherlands,1500000.0,in,winter,Eredivisie,2015,False,
+Feyenoord Rotterdam,Pär Hansson,29,Sweden,Goalkeeper,GK,1500000.0,Helsingborg,Sweden,0.0,in,winter,Eredivisie,2015,False,
+Feyenoord Rotterdam,Colin Kazim-Richards,29,Turkey,Centre-Forward,CF,2250000.0,Celtic,Scotland,0.0,out,winter,Eredivisie,2015,False,
+Feyenoord Rotterdam,Lex Immers,29,Netherlands,Attacking Midfield,AM,2000000.0,Cardiff,England,0.0,out,winter,Eredivisie,2015,True,free loan
+Feyenoord Rotterdam,Rodny Lopes Cabral,20,Netherlands,Right-Back,RB,50000.0,Without Club,,,out,winter,Eredivisie,2015,False,
+Heracles Almelo,Robin Gosens,20,Germany,Left-Back,LB,400000.0,Vitesse U21,Netherlands,200000.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Wout Droste,26,Netherlands,Right-Back,RB,500000.0,SC Cambuur,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Paul Gladon,23,Netherlands,Centre-Forward,CF,350000.0,Sparta R.,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Tim Breukers,27,Netherlands,Right-Back,RB,400000.0,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Peter van Ooijen,23,Netherlands,Left Winger,LW,400000.0,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Gino Bosz,22,Netherlands,Centre-Back,CB,100000.0,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Marijn de Kler,21,Netherlands,Left-Back,LB,,Vitesse U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Heracles Almelo,Gonzalo García,31,Spain,Second Striker,SS,600000.0,Anorthosis,Cyprus,0.0,in,summer,Eredivisie,2015,True,free loan
+Heracles Almelo,Bryan Linssen,24,Netherlands,Left Winger,LW,1000000.0,FC Groningen,Netherlands,850000.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Mark Engberink,22,Netherlands,Left-Back,LB,75000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Daan Rienstra,22,Netherlands,Central Midfield,CM,50000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Travis Brent,23,United States,Right-Back,RB,50000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Jeroen Veldmate,26,Netherlands,Centre-Back,CB,500000.0,Viborg FF,Denmark,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Dennis Telgenkamp,28,Netherlands,Goalkeeper,GK,350000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Bart Schenkeveld,23,Netherlands,Centre-Back,CB,500000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Fahd Aktaou,22,Netherlands,Left-Back,LB,400000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Heracles Almelo,Simon Cziommer,34,Germany,Central Midfield,CM,400000.0,Retired,,,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Milano Koenders,28,Netherlands,Centre-Back,CB,400000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Heracles Almelo,Denni Avdic,26,Sweden,Centre-Forward,CF,500000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Heracles Almelo,Tim Breukers,27,Netherlands,Right-Back,RB,400000.0,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Heracles Almelo,Tarik Kada,19,Netherlands,Right Winger,RW,250000.0,Heerenveen,Netherlands,100000.0,in,winter,Eredivisie,2015,False,
+Heracles Almelo,Justin Hoogma,17,Netherlands,Centre-Back,CB,,FC Twente U19,Netherlands,,in,winter,Eredivisie,2015,False,
+Heracles Almelo,Oussama Tannane,21,Morocco,Attacking Midfield,AM,1250000.0,Saint-Étienne,France,2500000.0,out,winter,Eredivisie,2015,False,
+Heracles Almelo,Joonas Vanhanen,18,Finland,Centre-Back,CB,50000.0,Without Club,,,out,winter,Eredivisie,2015,False,
+NEC Nijmegen,Mihai Roman,23,Romania,Centre-Forward,CF,1500000.0,Pandurii,Romania,350000.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Joey Sleegers,21,Netherlands,Left Winger,LW,450000.0,Feyenoord,Netherlands,100000.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Wojciech Golla,23,Poland,Centre-Back,CB,400000.0,Pogon Szczecin,Poland,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Mohamed Rayhi,21,Netherlands,Left Winger,LW,150000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Marco van Duin,28,Netherlands,Goalkeeper,GK,100000.0,Almere City,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Janio Bikel,20,Portugal,Central Midfield,CM,75000.0,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Bart Buysse,28,Belgium,Left-Back,LB,600000.0,Cercle Brugge,Belgium,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Benjamin Kirsten,28,Germany,Goalkeeper,GK,200000.0,Dynamo Dresden,Germany,0.0,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Hannes Thór Halldórsson,31,Iceland,Goalkeeper,GK,400000.0,Sandnes Ulf,Norway,,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Marcel Ritzmaier,22,Austria,Central Midfield,CM,1500000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+NEC Nijmegen,Todd Kane,21,England,Right-Back,RB,750000.0,Chelsea,England,0.0,in,summer,Eredivisie,2015,True,free loan
+NEC Nijmegen,Sam Lundholm,21,Sweden,Right Winger,RW,250000.0,AIK,Sweden,,in,summer,Eredivisie,2015,False,
+NEC Nijmegen,Lucas Woudenberg,21,Netherlands,Left-Back,LB,500000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+NEC Nijmegen,Alireza Jahanbakhsh,21,Iran,Right Winger,RW,2000000.0,AZ Alkmaar,Netherlands,1800000.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Lasse Nielsen,27,Denmark,Centre-Back,CB,1500000.0,KAA Gent,Belgium,550000.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Mike Vanhamel,25,Belgium,Goalkeeper,GK,300000.0,White Star,Belgium,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Daan Disveld,21,Netherlands,Centre-Back,CB,75000.0,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Jasper Waalkens,26,Netherlands,Left Winger,LW,200000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Tobias Haitz,23,Germany,Centre-Back,CB,300000.0,Viktoria Köln,Germany,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Stan Bijl,20,Netherlands,Goalkeeper,GK,25000.0,Magreb '90,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Kenny Elders,20,Netherlands,Left-Back,LB,50000.0,Achilles '29,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Bahnou Seydina Diarra,21,Belgium,Central Midfield,CM,75000.0,Anderlecht U21,Belgium,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Sjoerd Ars,31,Netherlands,Centre-Forward,CF,500000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Kevin Conboy,27,Denmark,Left-Back,LB,600000.0,FC Utrecht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Tom Daemen,30,Netherlands,Central Midfield,CM,300000.0,Go Ahead Eagles,Netherlands,,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Giovanni Gravenbeek,27,Netherlands,Central Midfield,CM,250000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+NEC Nijmegen,Paco van Moorsel,25,Netherlands,Attacking Midfield,AM,200000.0,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+NEC Nijmegen,Mikael Dyrestam,24,Guinea,Centre-Back,CB,600000.0,Aalesund,Norway,0.0,in,winter,Eredivisie,2015,False,
+NEC Nijmegen,Dario Dumic,23,Bosnia-Herzegovina,Centre-Back,CB,800000.0,Bröndby IF,Denmark,0.0,in,winter,Eredivisie,2015,True,free loan
+NEC Nijmegen,Brad Jones,33,Australia,Goalkeeper,GK,750000.0,Without Club,,,in,winter,Eredivisie,2015,False,
+NEC Nijmegen,Hannes Thór Halldórsson,31,Iceland,Goalkeeper,GK,400000.0,Bodø/Glimt,Norway,0.0,out,winter,Eredivisie,2015,True,free loan
+NEC Nijmegen,Kristján Gauti Emilsson,22,Iceland,Attacking Midfield,AM,200000.0,Career break,,,out,winter,Eredivisie,2015,False,
+NEC Nijmegen,Benjamin Kirsten,28,Germany,Goalkeeper,GK,300000.0,Without Club,,,out,winter,Eredivisie,2015,False,
+PEC Zwolle,Ouasim Bouy,22,Morocco,Defensive Midfield,DM,450000.0,Juventus,Italy,100000.0,in,summer,Eredivisie,2015,True,loan with fee
+PEC Zwolle,Dirk Marcellis,27,Netherlands,Centre-Back,CB,800000.0,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+PEC Zwolle,Bart Schenkeveld,23,Netherlands,Centre-Back,CB,500000.0,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+PEC Zwolle,Abdel Malek El Hasnaoui,21,Netherlands,Central Midfield,CM,75000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+PEC Zwolle,Gustavo Hebling,19,Brazil,Central Midfield,CM,,Paris SG B,France,0.0,in,summer,Eredivisie,2015,True,free loan
+PEC Zwolle,Lars Veldwijk,23,South Africa,Centre-Forward,CF,500000.0,Nottm Forest,England,0.0,in,summer,Eredivisie,2015,True,free loan
+PEC Zwolle,Queensy Menig,19,Netherlands,Left Winger,LW,500000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+PEC Zwolle,Boban Lazic,21,Bosnia-Herzegovina,Left Winger,LW,25000.0,Without Club,,,in,summer,Eredivisie,2015,False,
+PEC Zwolle,Ben Rienstra,25,Netherlands,Central Midfield,CM,2000000.0,AZ Alkmaar,Netherlands,1500000.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Jesper Drost,22,Netherlands,Attacking Midfield,AM,1500000.0,FC Groningen,Netherlands,1450000.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Jody Lukoki,22,DR Congo,Right Winger,RW,850000.0,Ludogorets,Bulgaria,1000000.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Maikel van der Werff,26,Netherlands,Centre-Back,CB,750000.0,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Denis Mahmudov,25,North Macedonia,Right Winger,RW,250000.0,Levski Sofia,Bulgaria,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Dimitrios Ferfelis,22,Greece,Centre-Forward,CF,100000.0,PAS Giannina,Greece,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Aleksandar Bjelica,21,Serbia,Centre-Back,CB,150000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Tomas Necid,25,Czech Republic,Centre-Forward,CF,2500000.0,Bursaspor,Turkey,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Steven Pereira,21,Cape Verde,Centre-Back,CB,75000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Leroy Labylle,24,Belgium,Defensive Midfield,DM,250000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Soufyan Moro,22,Netherlands,Attacking Midfield,AM,250000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Joost Broerse,36,Netherlands,Centre-Back,CB,250000.0,Retired,,,out,summer,Eredivisie,2015,False,
+PEC Zwolle,Warner Hahn,23,Suriname,Goalkeeper,GK,1000000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+PEC Zwolle,Eli Babalj,23,Australia,Centre-Forward,CF,300000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+PEC Zwolle,Youness Mokhtar,24,Morocco,Left Winger,LW,2500000.0,Al-Nassr,Saudi Arabia,0.0,in,winter,Eredivisie,2015,False,
+PEC Zwolle,Trent Sainsbury,24,Australia,Centre-Back,CB,1000000.0,JS Suning,China,1000000.0,out,winter,Eredivisie,2015,False,
+PEC Zwolle,Boban Lazic,21,Bosnia-Herzegovina,Left Winger,LW,150000.0,VVV-Venlo,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+PSV Eindhoven,Gastón Pereiro,20,Uruguay,Attacking Midfield,AM,7000000.0,Nacional,Uruguay,7000000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Davy Pröpper,23,Netherlands,Central Midfield,CM,5000000.0,Vitesse,Netherlands,4500000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Héctor Moreno,27,Mexico,Centre-Back,CB,6500000.0,Espanyol,Spain,3500000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Andrés Guardado,28,Mexico,Central Midfield,CM,7000000.0,Valencia,Spain,2800000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Nicolas Isimat-Mirin,23,France,Centre-Back,CB,2500000.0,Monaco,France,2400000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Luuk Koopmans,21,Netherlands,Goalkeeper,GK,100000.0,FC Oss,Netherlands,100000.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Simon Poulsen,30,Denmark,Left-Back,LB,1000000.0,AZ Alkmaar,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+PSV Eindhoven,Maxime Lestienne,23,Belgium,Left Winger,LW,7500000.0,Al-Arabi SC,Qatar,0.0,in,summer,Eredivisie,2015,True,free loan
+PSV Eindhoven,Memphis Depay,21,Netherlands,Centre-Forward,CF,20000000.0,Man Utd,England,34000000.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Georginio Wijnaldum,24,Netherlands,Central Midfield,CM,15000000.0,Newcastle,England,20000000.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Oscar Hiljemark,23,Sweden,Central Midfield,CM,2250000.0,US Palermo,Italy,2500000.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Przemyslaw Tyton,28,Poland,Goalkeeper,GK,2500000.0,VfB Stuttgart,Germany,1000000.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Abel Tamata,24,DR Congo,Left-Back,LB,500000.0,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Nigel Bertrams,22,Netherlands,Goalkeeper,GK,250000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+PSV Eindhoven,Marcel Ritzmaier,22,Austria,Central Midfield,CM,1500000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+PSV Eindhoven,Karim Rekik,20,Netherlands,Centre-Back,CB,3500000.0,Man City,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+PSV Eindhoven,Andrés Guardado,28,Mexico,Central Midfield,CM,7000000.0,Valencia,Spain,0.0,out,summer,Eredivisie,2015,True,end of loan
+PSV Eindhoven,Nicolas Isimat-Mirin,23,France,Centre-Back,CB,2500000.0,Monaco,France,0.0,out,summer,Eredivisie,2015,True,end of loan
+PSV Eindhoven,Danny Wintjens,31,Netherlands,Goalkeeper,GK,200000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+PSV Eindhoven,Marco van Ginkel,23,Netherlands,Central Midfield,CM,7500000.0,Chelsea,England,0.0,in,winter,Eredivisie,2015,True,free loan
+PSV Eindhoven,Rai Vloet,20,Netherlands,Attacking Midfield,AM,500000.0,SC Cambuur,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Santiago Palacios,24,Mexico,Second Striker,SS,,De Treffers,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Jens van Son,27,Netherlands,Defensive Midfield,DM,300000.0,FC Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Rostyn Griffiths,27,Australia,Centre-Back,CB,350000.0,Perth Glory,Australia,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Gibril Sankoh,32,Sierra Leone,Centre-Back,CB,400000.0,Without Club,,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Tomi Juric,24,Australia,Centre-Forward,CF,750000.0,Western Sydney,Australia,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Farshad Noor,20,Afghanistan,Central Midfield,CM,150000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Richmond Boakye,22,Ghana,Centre-Forward,CF,2500000.0,Atalanta BC,Italy,0.0,in,summer,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Daniel De Silva,18,Australia,Attacking Midfield,AM,750000.0,Perth Glory,Australia,0.0,in,summer,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Timo Letschert,22,Netherlands,Centre-Back,CB,350000.0,FC Utrecht,Netherlands,200000.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Kai Bösing,21,Germany,Attacking Midfield,AM,50000.0,SC Fortuna Köln,Germany,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Johan Plat,28,Netherlands,Centre-Forward,CF,300000.0,Katwijk,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Guy Ramos,29,Cape Verde,Centre-Back,CB,300000.0,FC Wil 1900,Switzerland,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Danny Schreurs,27,Netherlands,Right Winger,RW,200000.0,Leiknir,Iceland,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Jesse Wijnen,20,Netherlands,Right-Back,RB,50000.0,EHC Hoensbroek,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Crescendo van Berkel,23,Netherlands,Centre-Back,CB,75000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Santiago Palacios,24,Mexico,Second Striker,SS,250000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Rigino Cicilia,20,Curacao,Centre-Forward,CF,150000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Marc Höcher,30,Netherlands,Right Winger,RW,350000.0,Rot-Weiß Erfurt,Germany,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Frank Demouge,33,Netherlands,Centre-Forward,CF,350000.0,FC Knokke,Belgium,0.0,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Anco Jansen,26,Netherlands,Left Winger,LW,300000.0,Boluspor,Turkey,,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Rostyn Griffiths,28,Australia,Centre-Back,CB,450000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Roda JC Kerkrade,Raymond Gyasi,20,Ghana,Right Winger,RW,75000.0,AZ Alkmaar U21,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Roda JC Kerkrade,Jordy Buijs,27,Netherlands,Centre-Back,CB,800000.0,Heerenveen,Netherlands,0.0,in,winter,Eredivisie,2015,False,
+Roda JC Kerkrade,Ugur Inceman,34,Turkey,Central Midfield,CM,200000.0,Konyaspor,Turkey,0.0,in,winter,Eredivisie,2015,False,
+Roda JC Kerkrade,Rydell Poepon,28,Netherlands,Centre-Forward,CF,600000.0,Qarabag FK,Azerbaijan,0.0,in,winter,Eredivisie,2015,False,
+Roda JC Kerkrade,Marcos Gullón,26,Spain,Central Midfield,CM,700000.0,Apol. Limassol,Cyprus,0.0,in,winter,Eredivisie,2015,False,
+Roda JC Kerkrade,Kristoffer Peterson,21,Sweden,Left Winger,LW,750000.0,FC Utrecht,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Georgi Zhukov,21,Kazakhstan,Central Midfield,CM,700000.0,Standard U21,Belgium,0.0,in,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Martin Milec,24,Slovenia,Right-Back,RB,800000.0,Standard Liège,Belgium,0.0,in,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Mike van Duinen,24,Netherlands,Centre-Forward,CF,1000000.0,F. Düsseldorf,Germany,0.0,in,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Gibril Sankoh,32,Sierra Leone,Centre-Back,CB,550000.0,MZ Hakka,China,100000.0,out,winter,Eredivisie,2015,False,
+Roda JC Kerkrade,Jens van Son,28,Netherlands,Defensive Midfield,DM,300000.0,Fortuna Sittard,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Bart Biemans,27,Belgium,Centre-Back,CB,400000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Nayib Lagouireh,24,Belgium,Right Winger,RW,200000.0,Fortuna Sittard,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Daryl Werker,21,Netherlands,Centre-Back,CB,100000.0,MVV Maastricht,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Mitchel Paulissen,22,Netherlands,Attacking Midfield,AM,400000.0,VVV-Venlo,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Roda JC Kerkrade,Edwin Gyasi,24,Ghana,Right Winger,RW,550000.0,Aalesund,Norway,,out,winter,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Stanley Elbers,23,Netherlands,Right Winger,RW,200000.0,Helmond Sport,Netherlands,300000.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Brandley Kuwas,22,Curacao,Right Winger,RW,175000.0,FC Volendam,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Nigel Hasselbaink,24,Suriname,Centre-Forward,CF,400000.0,Hamilton Acad.,Scotland,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Filip Kurto,24,Poland,Goalkeeper,GK,350000.0,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Bas Kuipers,20,Netherlands,Left-Back,LB,350000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Tom Muyters,30,Belgium,Goalkeeper,GK,250000.0,FC Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Mike Havekotte,19,Netherlands,Goalkeeper,GK,50000.0,Utrecht U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Tom Overtoom,24,Netherlands,Central Midfield,CM,150000.0,FC Volendam,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Henrico Drost,28,Netherlands,Centre-Back,CB,400000.0,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Yoëll van Nieff,22,Netherlands,Defensive Midfield,DM,700000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+SBV Excelsior Rotterdam,Jordan Botaka,22,DR Congo,Right Winger,RW,750000.0,Leeds,England,675000.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Gino Coutinho,32,Netherlands,Goalkeeper,GK,600000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Jordy Deckers,26,Netherlands,Goalkeeper,GK,150000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Daan Blij,21,Netherlands,Right Winger,RW,100000.0,Excelsior M,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Lars Hutten,25,Netherlands,Centre-Forward,CF,200000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Toni Varela,29,Cape Verde,Central Midfield,CM,300000.0,Al-Jahra,Kuwait,0.0,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Carlo de Reuver,20,Netherlands,Centre-Forward,CF,250000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+SBV Excelsior Rotterdam,Richard Stolte,25,Netherlands,Left Midfield,LM,75000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Marko Maletic,21,Bosnia-Herzegovina,Centre-Forward,CF,200000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+SBV Excelsior Rotterdam,Ninos Gouriye,24,Netherlands,Left Winger,LW,700000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+SBV Excelsior Rotterdam,Bas Kuipers,20,Netherlands,Left-Back,LB,350000.0,Ajax U21,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+SBV Excelsior Rotterdam,Michiel Hemmen,28,Netherlands,Centre-Forward,CF,350000.0,Häcken,Sweden,0.0,in,winter,Eredivisie,2015,False,
+SBV Excelsior Rotterdam,Tom Overtoom,25,Netherlands,Central Midfield,CM,200000.0,FC Emmen,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+SBV Excelsior Rotterdam,Kevin van Diermen,26,Netherlands,Centre-Back,CB,300000.0,NAC Breda,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Sjoerd Overgoor,26,Netherlands,Central Midfield,CM,600000.0,Go Ahead Eagles,Netherlands,75000.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Jergé Hoefdraad,28,Netherlands,Left Winger,LW,200000.0,Almere City,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Kai Heerings,25,Netherlands,Centre-Back,CB,700000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Dominik Masek,19,Czech Republic,Attacking Midfield,AM,100000.0,Hamburger SV II,Germany,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Marvin Peersman,24,Belgium,Left-Back,LB,300000.0,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Valmir Berisha,19,Sweden,Centre-Forward,CF,300000.0,Roma U19,Italy,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Xander Houtkoop,26,Netherlands,Left Winger,LW,600000.0,ADO Den Haag,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,André Krul,28,Netherlands,Goalkeeper,GK,150000.0,KFC Turnhout,Belgium,0.0,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Jack Byrne,19,Ireland,Central Midfield,CM,,Man City U21,England,0.0,in,summer,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Martijn van der Laan,27,Netherlands,Centre-Back,CB,500000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Djavan Anderson,20,Netherlands,Right Midfield,RM,150000.0,AZ Alkmaar,Netherlands,,in,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Wessel Dammers,20,Netherlands,Centre-Back,CB,250000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Etiënne Reijnen,28,Netherlands,Centre-Back,CB,800000.0,FC Groningen,Netherlands,400000.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Wout Droste,26,Netherlands,Right-Back,RB,500000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Mart Dijkstra,24,Netherlands,Defensive Midfield,DM,250000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Jurjan Wouda,24,Netherlands,Goalkeeper,GK,50000.0,Flevo Boys,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Bob Schepers,23,Netherlands,Left Winger,LW,250000.0,ONS Sneek,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Lucas Bijker,22,Netherlands,Left-Back,LB,600000.0,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Michiel Hemmen,28,Netherlands,Centre-Forward,CF,450000.0,Häcken,Sweden,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Donovan Slijngard,27,Netherlands,Left-Back,LB,150000.0,Zalgiris,Lithuania,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Mohamed El Makrini,27,Netherlands,Defensive Midfield,DM,550000.0,Odense BK,Denmark,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Damiano Schet,25,Netherlands,Left Winger,LW,200000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Valmir Berisha,19,Sweden,Centre-Forward,CF,250000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Daniël de Ridder,31,Netherlands,Left Winger,LW,400000.0,Retired,,,out,summer,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Ron Janzen,21,Netherlands,Centre-Back,CB,50000.0,Gron./Cam. U21,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+SC Cambuur-Leeuwarden,Sinan Bytyqi,20,Kosovo,Attacking Midfield,AM,500000.0,Man City U21,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+SC Cambuur-Leeuwarden,Darryl Lachman,26,Curacao,Centre-Back,CB,1000000.0,Sheff Wed,England,0.0,in,winter,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Tom Hiariej,27,Netherlands,Defensive Midfield,DM,400000.0,FC Groningen,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Rai Vloet,20,Netherlands,Attacking Midfield,AM,500000.0,PSV Eindhoven,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Kevin van Veen,24,Netherlands,Centre-Forward,CF,300000.0,Scunthorpe Utd.,England,0.0,in,winter,Eredivisie,2015,True,free loan
+SC Cambuur-Leeuwarden,Bartholomew Ogbeche,31,Nigeria,Centre-Forward,CF,800000.0,Willem II,Netherlands,300000.0,out,winter,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Sebastian Steblecki,23,Poland,Attacking Midfield,AM,250000.0,Górnik Zabrze,Poland,0.0,out,winter,Eredivisie,2015,False,
+SC Cambuur-Leeuwarden,Kai Heerings,26,Netherlands,Centre-Back,CB,500000.0,Helmond Sport,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+SC Heerenveen,Luka Zahovic,19,Slovenia,Centre-Forward,CF,800000.0,NK Maribor,Slovenia,700000.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Mitchell te Vrede,24,Netherlands,Centre-Forward,CF,1000000.0,Feyenoord,Netherlands,500000.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Caner Cavlan,23,Netherlands,Left-Back,LB,200000.0,De Graafschap,Netherlands,300000.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Wieger Sietsma,19,Netherlands,Goalkeeper,GK,,Groningen U21,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Erwin Mulder,26,Netherlands,Goalkeeper,GK,2000000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Lucas Bijker,22,Netherlands,Left-Back,LB,600000.0,SC Cambuur,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Branco van den Boomen,19,Netherlands,Central Midfield,CM,175000.0,FC Eindhoven,Netherlands,,in,summer,Eredivisie,2015,False,
+SC Heerenveen,Mark Uth,23,Germany,Second Striker,SS,2500000.0,TSG Hoffenheim,Germany,2200000.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Marten de Roon,24,Netherlands,Defensive Midfield,DM,1250000.0,Atalanta BC,Italy,1300000.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Kristoffer Nordfeldt,26,Sweden,Goalkeeper,GK,2500000.0,Swansea,England,850000.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Michael Chacón,21,Netherlands,Central Midfield,CM,100000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Robin Kist,20,Netherlands,Goalkeeper,GK,50000.0,VV SWZ,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Janio Bikel,20,Portugal,Central Midfield,CM,75000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Thomas Dalgaard,31,Denmark,Centre-Forward,CF,700000.0,SönderjyskE,Denmark,0.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Jens Jurn Streutker,22,Netherlands,Centre-Back,CB,150000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Szabolcs Varga,20,Hungary,Left Winger,LW,200000.0,MTK Budapest,Hungary,0.0,out,summer,Eredivisie,2015,True,free loan
+SC Heerenveen,Stephen Warmolts,21,Netherlands,Centre-Back,CB,50000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+SC Heerenveen,Viktor Noring,24,Sweden,Goalkeeper,GK,600000.0,Lyngby BK,Denmark,,out,summer,Eredivisie,2015,False,
+SC Heerenveen,Pelle van Amersfoort,19,Netherlands,Attacking Midfield,AM,400000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+SC Heerenveen,Lerin Duarte,24,Netherlands,Central Midfield,CM,2000000.0,Ajax,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+SC Heerenveen,Arbër Zeneli,20,Kosovo,Left Winger,LW,1000000.0,Elfsborg,Sweden,1950000.0,in,winter,Eredivisie,2015,False,
+SC Heerenveen,Tarik Kada,19,Netherlands,Right Winger,RW,250000.0,Heracles Almelo,Netherlands,100000.0,out,winter,Eredivisie,2015,False,
+SC Heerenveen,Jordy Buijs,27,Netherlands,Centre-Back,CB,800000.0,Roda JC,Netherlands,0.0,out,winter,Eredivisie,2015,False,
+Twente Enschede FC,Georgios Katsikas,25,Greece,Centre-Back,CB,800000.0,PAOK Salonika,Greece,0.0,in,summer,Eredivisie,2015,False,
+Twente Enschede FC,Chinedu Ede,28,Germany,Right Winger,RW,300000.0,1.FSV Mainz 05,Germany,0.0,in,summer,Eredivisie,2015,False,
+Twente Enschede FC,Bruno Uvini,24,Brazil,Centre-Back,CB,500000.0,SSC Napoli,Italy,0.0,in,summer,Eredivisie,2015,True,free loan
+Twente Enschede FC,Michael Olaitan,22,Nigeria,Centre-Forward,CF,2000000.0,Olympiacos,Greece,0.0,in,summer,Eredivisie,2015,True,free loan
+Twente Enschede FC,Thomas Agyepong,18,Ghana,Left Winger,LW,,Man City U21,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Twente Enschede FC,Jesús Corona,22,Mexico,Right Midfield,RM,6500000.0,FC Porto,Portugal,10500000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Luc Castaignos,22,Netherlands,Centre-Forward,CF,5000000.0,E. Frankfurt,Germany,2500000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Andreas Bjelland,26,Denmark,Centre-Back,CB,3000000.0,Brentford,England,2500000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Cuco Martina,25,Curacao,Right-Back,RB,1250000.0,Southampton,England,1500000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Bilal Ould-Chikh,18,Netherlands,Right Winger,RW,1500000.0,Benfica B,Portugal,1250000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Kasper Kusk,23,Denmark,Right Winger,RW,1250000.0,FC Copenhagen,Denmark,1000000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Youness Mokhtar,23,Morocco,Left Winger,LW,2500000.0,Al-Nassr,Saudi Arabia,1000000.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Tim Breukers,27,Netherlands,Right-Back,RB,400000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Filip Bednarek,22,Poland,Goalkeeper,GK,150000.0,FC Utrecht,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Dico Koppers,23,Netherlands,Left-Back,LB,1250000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Darryl Lachman,25,Curacao,Centre-Back,CB,1500000.0,Sheff Wed,England,0.0,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Daniel Fernandes,31,Portugal,Goalkeeper,GK,400000.0,San Antonio,United States,,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Kyle Ebecilio,21,Netherlands,Central Midfield,CM,3000000.0,Nottm Forest,England,0.0,out,summer,Eredivisie,2015,True,free loan
+Twente Enschede FC,Orlando Engelaar,35,Netherlands,Defensive Midfield,DM,250000.0,Retired,,,out,summer,Eredivisie,2015,False,
+Twente Enschede FC,Ryo Miyaichi,22,Japan,Right Winger,RW,1500000.0,Arsenal,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+Twente Enschede FC,Chris David,22,Netherlands,Attacking Midfield,AM,250000.0,Fulham,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+Twente Enschede FC,Oskar Zawada,20,Poland,Centre-Forward,CF,250000.0,VfL Wolfsburg,Germany,0.0,in,winter,Eredivisie,2015,True,free loan
+Twente Enschede FC,Zakaria El Azzouzi,19,Netherlands,Centre-Forward,CF,75000.0,Ajax U21,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+Twente Enschede FC,Stefan Thesker,24,Germany,Centre-Back,CB,500000.0,Greuther Fürth,Germany,0.0,in,winter,Eredivisie,2015,True,free loan
+Twente Enschede FC,Renato Tapia,20,Peru,Defensive Midfield,DM,2000000.0,Feyenoord,Netherlands,1500000.0,out,winter,Eredivisie,2015,False,
+Twente Enschede FC,Kyle Ebecilio,21,Netherlands,Central Midfield,CM,3000000.0,ADO Den Haag,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Twente Enschede FC,Shadrach Eghan,21,Ghana,Attacking Midfield,AM,1250000.0,Stabæk Fotball,Norway,0.0,out,winter,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Sheran Yeini,28,Israel,Centre-Back,CB,750000.0,M. Tel Aviv,Israel,400000.0,in,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Milot Rashica,19,Kosovo,Left Winger,LW,,KF Vushtrria,Kosovo,300000.0,in,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Maikel van der Werff,26,Netherlands,Centre-Back,CB,750000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Lewis Baker,20,England,Central Midfield,CM,500000.0,Chelsea,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Izzy Brown,18,England,Attacking Midfield,AM,500000.0,Chelsea U21,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Danilo Pantic,18,Serbia,Attacking Midfield,AM,1000000.0,Chelsea,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Nathan,19,Brazil,Attacking Midfield,AM,3000000.0,Chelsea,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Dominic Solanke,17,England,Centre-Forward,CF,250000.0,Chelsea U21,England,0.0,in,summer,Eredivisie,2015,True,free loan
+Vitesse Arnhem,Davy Pröpper,23,Netherlands,Central Midfield,CM,5000000.0,PSV Eindhoven,Netherlands,4500000.0,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Marko Vejinović,25,Netherlands,Central Midfield,CM,3250000.0,Feyenoord,Netherlands,3500000.0,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Gino Bosz,22,Netherlands,Centre-Back,CB,100000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Jan-Arie van der Heijden,27,Netherlands,Centre-Back,CB,3000000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Uros Djurdjevic,21,Montenegro,Centre-Forward,CF,1000000.0,US Palermo,Italy,0.0,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Dan Mori,26,Israel,Centre-Back,CB,500000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Vitesse Arnhem,Bertrand Traoré,19,Burkina Faso,Right Winger,RW,2500000.0,Chelsea,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+Vitesse Arnhem,Zakaria Labyad,22,Morocco,Attacking Midfield,AM,4000000.0,Sporting CP,Portugal,0.0,out,summer,Eredivisie,2015,True,end of loan
+Vitesse Arnhem,Wallace Oliveira,21,Brazil,Right-Back,RB,3000000.0,Chelsea,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+Vitesse Arnhem,Josh McEachran,22,England,Central Midfield,CM,3000000.0,Chelsea,England,0.0,out,summer,Eredivisie,2015,True,end of loan
+Vitesse Arnhem,Kosuke Ota,28,Japan,Left-Back,LB,1500000.0,FC Tokyo,Japan,750000.0,in,winter,Eredivisie,2015,False,
+Vitesse Arnhem,Rochdi Achenteh,27,Morocco,Left-Back,LB,600000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2015,False,
+Vitesse Arnhem,Abiola Dauda,27,Nigeria,Centre-Forward,CF,700000.0,Heart of Midl.,Scotland,0.0,out,winter,Eredivisie,2015,True,free loan
+Willem II Tilburg,Konstantinos Lamprou,23,Greece,Goalkeeper,GK,500000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Funso Ojo,23,Belgium,Central Midfield,CM,500000.0,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Dico Koppers,23,Netherlands,Left-Back,LB,1250000.0,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Guus Joppen,25,Netherlands,Centre-Back,CB,350000.0,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Erik Falkenburg,27,Netherlands,Attacking Midfield,AM,500000.0,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Nigel Bertrams,22,Netherlands,Goalkeeper,GK,250000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Nick van der Velden,33,Netherlands,Left Winger,LW,600000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Frenkie de Jong,18,Netherlands,Central Midfield,CM,250000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Adam Nemec,29,Slovakia,Centre-Forward,CF,300000.0,NYCFC,United States,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Jeffrey Altheer,28,Netherlands,Defensive Midfield,DM,200000.0,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Ruben Ligeon,23,Netherlands,Right-Back,RB,600000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Richairo Zivkovic,18,Netherlands,Centre-Forward,CF,4000000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Lesly de Sa,22,Netherlands,Right Winger,RW,600000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Lucas Andersen,20,Denmark,Left Winger,LW,2000000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Nicky Kuiper,26,Netherlands,Left-Back,LB,250000.0,Without Club,,,in,summer,Eredivisie,2015,False,
+Willem II Tilburg,Frenkie de Jong,18,Netherlands,Central Midfield,CM,250000.0,Ajax U21,Netherlands,10130000.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Ryan Sanusi,23,Belgium,Defensive Midfield,DM,75000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Ali Messaoud,24,Netherlands,Attacking Midfield,AM,500000.0,FC Vaduz,Switzerland,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Charlton Vicento,24,Curacao,Left Winger,LW,300000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Kevin Brands,27,Netherlands,Attacking Midfield,AM,200000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Simon van Zeelst,21,Netherlands,Central Midfield,CM,125000.0,JVC Cuijk,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Ben Sahar,25,Israel,Centre-Forward,CF,700000.0,H. Beer Sheva,Israel,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Norair Aslanyan,24,Armenia,Right Winger,RW,150000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Mitchell Dijks,22,Netherlands,Left-Back,LB,700000.0,Ajax,Netherlands,,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Mattijs Branderhorst,21,Netherlands,Goalkeeper,GK,50000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Ricardo Ippel,24,Netherlands,Central Midfield,CM,300000.0,MVV Maastricht,Netherlands,,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Justin Mathieu,19,Netherlands,Right Winger,RW,250000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2015,True,free loan
+Willem II Tilburg,Tim Cornelisse,37,Netherlands,Right-Back,RB,100000.0,Retired,,,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Maxim Deckers,21,Belgium,Left Midfield,LM,75000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Wiljan Pluim,26,Netherlands,Attacking Midfield,AM,450000.0,Without Club,,,out,summer,Eredivisie,2015,False,
+Willem II Tilburg,Jonas Heymans,22,Belgium,Left-Back,LB,250000.0,AZ Alkmaar U21,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Willem II Tilburg,Konstantinos Lamprou,23,Greece,Goalkeeper,GK,500000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Willem II Tilburg,Samuel Armenteros,25,Sweden,Centre-Forward,CF,1000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Eredivisie,2015,True,end of loan
+Willem II Tilburg,Jerson Cabral,24,Netherlands,Left Winger,LW,500000.0,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2015,True,end of loan
+Willem II Tilburg,Renan Zanelli,23,Brazil,Central Midfield,CM,75000.0,GO Audax,Brazil,0.0,out,summer,Eredivisie,2015,True,end of loan
+Willem II Tilburg,Bartholomew Ogbeche,31,Nigeria,Centre-Forward,CF,800000.0,SC Cambuur,Netherlands,300000.0,in,winter,Eredivisie,2015,False,
+Willem II Tilburg,Rochdi Achenteh,27,Morocco,Left-Back,LB,600000.0,Vitesse,Netherlands,0.0,in,winter,Eredivisie,2015,False,
+Willem II Tilburg,Andy Kawaya,19,Belgium,Left Winger,LW,1000000.0,RSC Anderlecht,Belgium,0.0,in,winter,Eredivisie,2015,True,free loan
+Willem II Tilburg,Guus Hupperts,23,Netherlands,Right Winger,RW,1250000.0,AZ Alkmaar,Netherlands,0.0,in,winter,Eredivisie,2015,True,free loan
+Willem II Tilburg,Anouar Kali,24,Morocco,Defensive Midfield,DM,600000.0,Without Club,,,in,winter,Eredivisie,2015,False,
+Willem II Tilburg,Stijn Wuytens,26,Belgium,Centre-Back,CB,900000.0,AZ Alkmaar,Netherlands,500000.0,out,winter,Eredivisie,2015,False,
+Willem II Tilburg,Jordy Vleugels,19,Belgium,Central Midfield,CM,50000.0,FC Dordrecht,Netherlands,0.0,out,winter,Eredivisie,2015,True,free loan
+Willem II Tilburg,Jeffrey Altheer,28,Netherlands,Defensive Midfield,DM,200000.0,Without Club,,,out,winter,Eredivisie,2015,False,

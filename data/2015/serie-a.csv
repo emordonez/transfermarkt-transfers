@@ -1,0 +1,1361 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Carlos Bacca,28,Colombia,Centre-Forward,CF,25000000.0,Sevilla FC,Spain,33299999.999999996,in,summer,Serie A,2015,False,
+AC Milan,Alessio Romagnoli,20,Italy,Centre-Back,CB,8500000.0,AS Roma,Italy,25000000.0,in,summer,Serie A,2015,False,
+AC Milan,Andrea Bertolacci,24,Italy,Central Midfield,CM,15000000.0,AS Roma,Italy,21000000.0,in,summer,Serie A,2015,False,
+AC Milan,Luiz Adriano,28,Brazil,Centre-Forward,CF,8500000.0,Shakhtar D.,Ukraine,14000000.0,in,summer,Serie A,2015,False,
+AC Milan,Luca Antonelli,28,Italy,Left-Back,LB,7500000.0,Genoa,Italy,4500000.0,in,summer,Serie A,2015,False,
+AC Milan,Juraj Kucka,28,Slovakia,Central Midfield,CM,6000000.0,Genoa,Italy,4000000.0,in,summer,Serie A,2015,False,
+AC Milan,Simone Verdi,22,Italy,Attacking Midfield,AM,3200000.0,Torino,Italy,450000.0,in,summer,Serie A,2015,False,
+AC Milan,Rodrigo Ely,21,Brazil,Centre-Back,CB,1800000.0,Avellino,Italy,0.0,in,summer,Serie A,2015,False,
+AC Milan,José Mauri,19,Italy,Central Midfield,CM,6000000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+AC Milan,Juan Alberto Mauri,26,Argentina,Central Midfield,CM,25000.0,Ferro,Argentina,0.0,in,summer,Serie A,2015,False,
+AC Milan,Matteo Pessina,18,Italy,Attacking Midfield,AM,250000.0,Monza,Italy,20000.0,in,summer,Serie A,2015,False,
+AC Milan,Mario Balotelli,25,Italy,Centre-Forward,CF,11000000.0,Liverpool,England,0.0,in,summer,Serie A,2015,True,free loan
+AC Milan,Riccardo Saponara,23,Italy,Attacking Midfield,AM,3000000.0,FC Empoli,Italy,4000000.0,out,summer,Serie A,2015,False,
+AC Milan,Adil Rami,29,France,Centre-Back,CB,8000000.0,Sevilla FC,Spain,2500000.0,out,summer,Serie A,2015,False,
+AC Milan,Stephan El Shaarawy,22,Italy,Left Winger,LW,14000000.0,Monaco,France,2000000.0,out,summer,Serie A,2015,True,loan with fee
+AC Milan,Ezekiel Henty,22,Nigeria,Centre-Forward,CF,150000.0,NK Olimpija,Slovenia,200000.0,out,summer,Serie A,2015,False,
+AC Milan,Michael Essien,32,Ghana,Defensive Midfield,DM,1000000.0,Panathinaikos,Greece,0.0,out,summer,Serie A,2015,False,
+AC Milan,Hachim Mastour,17,Morocco,Attacking Midfield,AM,500000.0,Málaga CF,Spain,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Cristian Zaccardo,33,Italy,Centre-Back,CB,400000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Zan Benedicic,19,Slovenia,Defensive Midfield,DM,50000.0,Como,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Michael Fabbro,19,Italy,Centre-Forward,CF,150000.0,Bassano,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Krisztián Tamás,20,Hungary,Left-Back,LB,250000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Dídac Vilà,26,Spain,Left-Back,LB,1500000.0,AEK Athens,Greece,0.0,out,summer,Serie A,2015,False,
+AC Milan,Daniele Bonera,34,Italy,Centre-Back,CB,500000.0,Villarreal,Spain,0.0,out,summer,Serie A,2015,False,
+AC Milan,Michelangelo Albertazzi,24,Italy,Left-Back,LB,700000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Sulley Muntari,30,Ghana,Central Midfield,CM,1500000.0,Ittihad,Saudi Arabia,0.0,out,summer,Serie A,2015,False,
+AC Milan,Nnamdi Oduamadi,24,Nigeria,Right Winger,RW,600000.0,Sanliurfaspor,Turkey,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Marcus Diniz,27,Brazil,Centre-Back,CB,200000.0,Padova,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Marco Fossati,22,Italy,Defensive Midfield,DM,2000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Giampaolo Pazzini,30,Italy,Centre-Forward,CF,4000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Marco Pinato,20,Italy,Central Midfield,CM,200000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Pelé,23,Guinea-Bissau,Defensive Midfield,DM,1000000.0,Benfica,Portugal,0.0,out,summer,Serie A,2015,False,
+AC Milan,Valter Birsa,28,Slovenia,Attacking Midfield,AM,2000000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,False,
+AC Milan,Cristian Daminuta,25,Romania,Defensive Midfield,DM,700000.0,Zakho SC,Iraq,0.0,out,summer,Serie A,2015,False,
+AC Milan,Attila Filkor,26,Hungary,Central Midfield,CM,100000.0,Újpest FC,Hungary,0.0,out,summer,Serie A,2015,False,
+AC Milan,Robinho,31,Brazil,Left Winger,LW,6000000.0,GZ Evergrande,China,0.0,out,summer,Serie A,2015,False,
+AC Milan,Matteo Pessina,18,Italy,Attacking Midfield,AM,250000.0,Lecce,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Matteo Chinellato,23,Italy,Centre-Forward,CF,50000.0,Cuneo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Alessandro Matri,31,Italy,Centre-Forward,CF,5000000.0,Lazio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Gianmario Comi,23,Italy,Centre-Forward,CF,750000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Andrea Petagna,20,Italy,Centre-Forward,CF,700000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Michael Agazzi,31,Italy,Goalkeeper,GK,1000000.0,Middlesbrough,England,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Gabriel Paletta,29,Italy,Centre-Back,CB,5000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Jherson Vergara,21,Colombia,Centre-Back,CB,800000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Juan Alberto Mauri,26,Argentina,Central Midfield,CM,25000.0,Akragas,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Simone Verdi,23,Italy,Attacking Midfield,AM,3000000.0,SD Eibar,Spain,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Alessio Innocenti,22,Argentina,Defensive Midfield,DM,125000.0,Melfi,Italy,,out,summer,Serie A,2015,False,
+AC Milan,Gabriel,22,Brazil,Goalkeeper,GK,2800000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AC Milan,Edoardo Pazzagli,26,Italy,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Marco Bortoli,20,Italy,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Edmund Hottor,22,Ghana,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Cristian Galliani,19,Italy,Right-Back,RB,25000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Johad Ferretti,21,Italy,Right-Back,RB,175000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Davide Narduzzo,20,Italy,Goalkeeper,GK,75000.0,Without Club,,,out,summer,Serie A,2015,False,
+AC Milan,Marco van Ginkel,22,Netherlands,Central Midfield,CM,7500000.0,Chelsea,England,0.0,out,summer,Serie A,2015,True,end of loan
+AC Milan,Salvatore Bocchetti,28,Italy,Centre-Back,CB,10000000.0,Spartak Moscow,Russia,0.0,out,summer,Serie A,2015,True,end of loan
+AC Milan,Mattia Destro,24,Italy,Centre-Forward,CF,16500000.0,AS Roma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+AC Milan,Luca Antonelli,28,Italy,Left-Back,LB,7500000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+AC Milan,Kevin-Prince Boateng,28,Ghana,Attacking Midfield,AM,3000000.0,Without Club,,,in,winter,Serie A,2015,False,
+AC Milan,Stephan El Shaarawy,23,Italy,Left Winger,LW,14000000.0,AS Roma,Italy,1400000.0,out,winter,Serie A,2015,True,loan with fee
+AC Milan,Andrea Petagna,20,Italy,Centre-Forward,CF,600000.0,Atalanta BC,Italy,1000000.0,out,winter,Serie A,2015,False,
+AC Milan,Nnamdi Oduamadi,25,Nigeria,Right Winger,RW,600000.0,HJK Helsinki,Finland,60000.0,out,winter,Serie A,2015,True,loan with fee
+AC Milan,Davide Di Molfetta,19,Italy,Left Winger,LW,275000.0,Rimini,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AC Milan,Nigel de Jong,31,Netherlands,Defensive Midfield,DM,4000000.0,LA Galaxy,United States,0.0,out,winter,Serie A,2015,False,
+AC Milan,Antonio Nocerino,30,Italy,Central Midfield,CM,1200000.0,Orlando City SC,United States,0.0,out,winter,Serie A,2015,False,
+AC Milan,Suso,22,Spain,Right Winger,RW,4000000.0,Genoa,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AC Milan,Matteo Pessina,18,Italy,Attacking Midfield,AM,250000.0,Catania,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AC Milan,Simone Verdi,23,Italy,Attacking Midfield,AM,3000000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Nikola Kalinic,27,Croatia,Centre-Forward,CF,7000000.0,Dnipro,Ukraine,5500000.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Mario Suárez,28,Spain,Defensive Midfield,DM,10000000.0,Atlético Madrid,Spain,5000000.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Jaime Báez,20,Uruguay,Left Winger,LW,2500000.0,Juventud,Uruguay,2300000.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Gilberto,22,Brazil,Right-Back,RB,1700000.0,Botafogo,Brazil,2000000.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Davide Astori,28,Italy,Centre-Back,CB,6000000.0,Cagliari Calcio,Italy,1500000.0,in,summer,Serie A,2015,True,loan with fee
+ACF Fiorentina,Jakub Blaszczykowski,29,Poland,Attacking Midfield,AM,10000000.0,Bor. Dortmund,Germany,1000000.0,in,summer,Serie A,2015,True,loan with fee
+ACF Fiorentina,Luigi Sepe,24,Italy,Goalkeeper,GK,4000000.0,SSC Napoli,Italy,750000.0,in,summer,Serie A,2015,True,loan with fee
+ACF Fiorentina,Luca Bittante,21,Italy,Right-Back,RB,1300000.0,Avellino,Italy,500000.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Joan Verdú,32,Spain,Attacking Midfield,AM,1000000.0,FC Baniyas,United Arab Emirates,0.0,in,summer,Serie A,2015,False,
+ACF Fiorentina,Stefan Savic,24,Montenegro,Centre-Back,CB,15000000.0,Atlético Madrid,Spain,12000000.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Joaquín,34,Spain,Right Winger,RW,1000000.0,Real Betis,Spain,1500000.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Cristiano Piccini,22,Italy,Right-Back,RB,700000.0,Real Betis,Spain,1500000.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Luca Bittante,21,Italy,Right-Back,RB,1300000.0,FC Empoli,Italy,800000.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Michele Camporese,23,Italy,Centre-Back,CB,1200000.0,FC Empoli,Italy,500000.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Mario Gómez,30,Germany,Centre-Forward,CF,10000000.0,Besiktas,Turkey,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Alberto Rosa Gastaldo,20,Italy,Central Midfield,CM,50000.0,Viareggio,Italy,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Maxwell Acosty,23,Ghana,Right Winger,RW,600000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Ahmed Hegazy,24,Egypt,Centre-Back,CB,400000.0,El Ahly,Egypt,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Nicolò Fazzi,20,Italy,Right Midfield,RM,400000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Juan Manuel Vargas,31,Peru,Left-Back,LB,2500000.0,Real Betis,Spain,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Alberto Aquilani,31,Italy,Central Midfield,CM,5000000.0,Sporting CP,Portugal,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Andrea Lazzari,30,Italy,Central Midfield,CM,1500000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Neto,25,Brazil,Goalkeeper,GK,9000000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Antonio Rosati,32,Italy,Goalkeeper,GK,500000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Steve Beleck,22,Cameroon,Centre-Forward,CF,350000.0,CFR Cluj,Romania,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,David Pizarro,35,Chile,Central Midfield,CM,500000.0,Wanderers,Chile,0.0,out,summer,Serie A,2015,False,
+ACF Fiorentina,Jacopo Petriccione,20,Italy,Defensive Midfield,DM,75000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Filippo Bandinelli,20,Italy,Central Midfield,CM,25000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Ryder Matos,22,Brazil,Second Striker,SS,2500000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,José María Basanta,31,Argentina,Centre-Back,CB,2800000.0,Monterrey,Mexico,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Joshua Brillante,22,Australia,Central Midfield,CM,600000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Saverio Madrigali,20,Italy,Centre-Back,CB,250000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Amidu Salifu,22,Ghana,Central Midfield,CM,1200000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Leonardo Capezzi,20,Italy,Defensive Midfield,DM,700000.0,Crotone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Axel Gulin,20,Italy,Right Winger,RW,100000.0,Pordenone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Lorenzo Venuti,20,Italy,Right-Back,RB,100000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+ACF Fiorentina,Mounir El Hamdaoui,30,Morocco,Centre-Forward,CF,700000.0,Without Club,,,out,summer,Serie A,2015,False,
+ACF Fiorentina,Cristiano Lupatelli,37,Italy,Goalkeeper,GK,100000.0,Retired,,,out,summer,Serie A,2015,False,
+ACF Fiorentina,Octávio,21,Brazil,Attacking Midfield,AM,400000.0,Botafogo,Brazil,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Jasmin Kurtic,26,Slovenia,Central Midfield,CM,3800000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Micah Richards,27,England,Right-Back,RB,7500000.0,Man City,England,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Alessandro Diamanti,32,Italy,Attacking Midfield,AM,3500000.0,GZ Evergrande,China,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Alberto Gilardino,32,Italy,Centre-Forward,CF,2500000.0,GZ Evergrande,China,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Aleandro Rosi,28,Italy,Right-Back,RB,800000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Mohamed Salah,23,Egypt,Right Winger,RW,12000000.0,Chelsea,England,0.0,out,summer,Serie A,2015,True,end of loan
+ACF Fiorentina,Andrés Schetino,21,Uruguay,Defensive Midfield,DM,550000.0,CA Fénix,Uruguay,3500000.0,in,winter,Serie A,2015,False,
+ACF Fiorentina,Mauro Zárate,28,Argentina,Second Striker,SS,3000000.0,West Ham,England,2100000.0,in,winter,Serie A,2015,False,
+ACF Fiorentina,Tino Costa,31,Argentina,Central Midfield,CM,3500000.0,Spartak Moscow,Russia,500000.0,in,winter,Serie A,2015,True,loan with fee
+ACF Fiorentina,Yohan Benalouane,28,Tunisia,Centre-Back,CB,3500000.0,Leicester,England,250000.0,in,winter,Serie A,2015,True,loan with fee
+ACF Fiorentina,Cristian Tello,24,Spain,Left Winger,LW,11000000.0,FC Barcelona,Spain,0.0,in,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Panagiotis Kone,28,Greece,Central Midfield,CM,4000000.0,Udinese Calcio,Italy,0.0,in,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Mario Suárez,28,Spain,Defensive Midfield,DM,8000000.0,Watford,England,5300000.0,out,winter,Serie A,2015,False,
+ACF Fiorentina,Ryder Matos,22,Brazil,Second Striker,SS,3500000.0,Udinese Calcio,Italy,5250000.0,out,winter,Serie A,2015,False,
+ACF Fiorentina,Ante Rebic,22,Croatia,Left Winger,LW,1000000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Nicolò Fazzi,20,Italy,Right Midfield,RM,400000.0,Crotone,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Joan Verdú,32,Spain,Attacking Midfield,AM,800000.0,Levante,Spain,0.0,out,winter,Serie A,2015,False,
+ACF Fiorentina,Oleksandr Yakovenko,28,Ukraine,Left Winger,LW,500000.0,Dynamo Kyiv,Ukraine,0.0,out,winter,Serie A,2015,False,
+ACF Fiorentina,Alessandro Bacci,20,Italy,Goalkeeper,GK,250000.0,Siena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Ricardo Bagadur,20,Croatia,Centre-Back,CB,150000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Marko Bakic,22,Montenegro,Central Midfield,CM,1200000.0,Belenenses SAD,Portugal,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Jaime Báez,20,Uruguay,Left Winger,LW,2300000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Andrés Schetino,21,Uruguay,Defensive Midfield,DM,550000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Giuseppe Rossi,28,Italy,Centre-Forward,CF,10000000.0,Levante,Spain,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Gilberto,22,Brazil,Right-Back,RB,1500000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Amidu Salifu,23,Ghana,Central Midfield,CM,1100000.0,Brescia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Axel Gulin,20,Italy,Right Winger,RW,75000.0,Catania,Italy,0.0,out,winter,Serie A,2015,True,free loan
+ACF Fiorentina,Rafal Wolski,23,Poland,Attacking Midfield,AM,1000000.0,Wisla Kraków,Poland,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Andrea Bertolacci,24,Italy,Central Midfield,CM,5000000.0,Genoa,Italy,8500000.0,in,summer,Serie A,2015,False,
+AS Roma,Leandro Paredes,21,Argentina,Defensive Midfield,DM,3700000.0,Boca Juniors,Argentina,6000000.0,in,summer,Serie A,2015,False,
+AS Roma,Mohamed Salah,23,Egypt,Right Winger,RW,18000000.0,Chelsea,England,5000000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Víctor Ibarbo,25,Colombia,Second Striker,SS,8000000.0,Cagliari Calcio,Italy,5000000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Ezequiel Ponce,18,Argentina,Centre-Forward,CF,6000000.0,Newell's,Argentina,4200000.0,in,summer,Serie A,2015,False,
+AS Roma,Nemanja Radonjic,19,Serbia,Left Winger,LW,50000.0,Empoli U19,Italy,4000000.0,in,summer,Serie A,2015,False,
+AS Roma,Edin Dzeko,29,Bosnia-Herzegovina,Centre-Forward,CF,20000000.0,Man City,England,4000000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Antonio Rüdiger,22,Germany,Centre-Back,CB,10000000.0,VfB Stuttgart,Germany,4000000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Lucas Digne,22,France,Left-Back,LB,10000000.0,Paris SG,France,2500000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Iago Falque,25,Spain,Right Winger,RW,4000000.0,Genoa,Italy,1000000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Matteo Politano,21,Italy,Right Winger,RW,2000000.0,Pescara,Italy,600000.0,in,summer,Serie A,2015,False,
+AS Roma,William Vainqueur,26,France,Defensive Midfield,DM,7000000.0,Dinamo Moscow,Russia,579000.0,in,summer,Serie A,2015,False,
+AS Roma,Norbert Gyomber,23,Slovakia,Centre-Back,CB,800000.0,Catania,Italy,500000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Umar Sadiq,18,Nigeria,Centre-Forward,CF,400000.0,Spezia U19,Italy,250000.0,in,summer,Serie A,2015,True,loan with fee
+AS Roma,Tomas Vestenicky,19,Slovakia,Centre-Forward,CF,200000.0,FC Nitra,Slovakia,0.0,in,summer,Serie A,2015,False,
+AS Roma,Tiago Casasola,20,Argentina,Right-Back,RB,400000.0,Fulham,England,0.0,in,summer,Serie A,2015,False,
+AS Roma,Wojciech Szczesny,25,Poland,Goalkeeper,GK,10000000.0,Arsenal,England,0.0,in,summer,Serie A,2015,True,free loan
+AS Roma,Emerson,21,Italy,Left-Back,LB,400000.0,Santos FC,Brazil,0.0,in,summer,Serie A,2015,True,free loan
+AS Roma,Miralem Pjanić,26,Bosnia-Herzegovina,Central Midfield,CM,35000000.0,Juventus,Italy,32000000.0,out,summer,Serie A,2015,False,
+AS Roma,Alessio Romagnoli,20,Italy,Centre-Back,CB,8500000.0,AC Milan,Italy,25000000.0,out,summer,Serie A,2015,False,
+AS Roma,Andrea Bertolacci,24,Italy,Central Midfield,CM,15000000.0,AC Milan,Italy,21000000.0,out,summer,Serie A,2015,False,
+AS Roma,Mapou Yanga-Mbiwa,26,France,Centre-Back,CB,6500000.0,Olympique Lyon,France,9400000.0,out,summer,Serie A,2015,False,
+AS Roma,Mattia Destro,24,Italy,Centre-Forward,CF,13000000.0,Bologna,Italy,8500000.0,out,summer,Serie A,2015,False,
+AS Roma,Federico Viviani,23,Italy,Defensive Midfield,DM,2800000.0,Hellas Verona,Italy,4000000.0,out,summer,Serie A,2015,False,
+AS Roma,Jose Cholevas,31,Greece,Left-Back,LB,2000000.0,Watford,England,2500000.0,out,summer,Serie A,2015,False,
+AS Roma,Víctor Ibarbo,25,Colombia,Second Striker,SS,8000000.0,Watford,England,2000000.0,out,summer,Serie A,2015,True,loan with fee
+AS Roma,Adem Ljajic,23,Serbia,Attacking Midfield,AM,13500000.0,Inter,Italy,1750000.0,out,summer,Serie A,2015,True,loan with fee
+AS Roma,Seydou Doumbia,27,Cote d'Ivoire,Centre-Forward,CF,15000000.0,CSKA Moscow,Russia,1000000.0,out,summer,Serie A,2015,True,loan with fee
+AS Roma,Junior Tallo,22,Cote d'Ivoire,Centre-Forward,CF,2000000.0,LOSC Lille,France,1000000.0,out,summer,Serie A,2015,False,
+AS Roma,Marquinho,29,Brazil,Attacking Midfield,AM,2000000.0,Udinese Calcio,Italy,500000.0,out,summer,Serie A,2015,False,
+AS Roma,Matteo Politano,21,Italy,Right Winger,RW,2000000.0,Sassuolo,Italy,100000.0,out,summer,Serie A,2015,True,loan with fee
+AS Roma,Simone Sini,23,Italy,Centre-Back,CB,200000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2015,False,
+AS Roma,Tomas Vestenicky,19,Slovakia,Centre-Forward,CF,200000.0,Modena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Gianluca Curci,30,Italy,Goalkeeper,GK,700000.0,1.FSV Mainz 05,Germany,0.0,out,summer,Serie A,2015,False,
+AS Roma,Deian Boldor,20,Romania,Centre-Back,CB,75000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,False,
+AS Roma,Sebastian Mladen,23,Romania,Centre-Back,CB,250000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,False,
+AS Roma,Filippo Scardina,23,Italy,Centre-Forward,CF,100000.0,Lupa Cast Rom,Italy,0.0,out,summer,Serie A,2015,False,
+AS Roma,Wesley Yamnaine,22,France,Left-Back,LB,75000.0,AS Fabrègues,France,0.0,out,summer,Serie A,2015,False,
+AS Roma,Simone Battaglia,20,Italy,Central Midfield,CM,150000.0,Monopoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Mattia Rosato,21,Italy,Centre-Back,CB,75000.0,Lupa Cast Rom,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Tiago Casasola,20,Argentina,Right-Back,RB,400000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Antonio Sanabria,19,Paraguay,Centre-Forward,CF,3500000.0,Sporting Gijón,Spain,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Leandro Paredes,21,Argentina,Defensive Midfield,DM,3500000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Matteo Ricci,21,Italy,Defensive Midfield,DM,225000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Alessandro Crescenzi,23,Italy,Left-Back,LB,2200000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Amato Ciciretti,21,Italy,Right Winger,RW,150000.0,Benevento,Italy,,out,summer,Serie A,2015,False,
+AS Roma,Paolo Frascatore,23,Italy,Left-Back,LB,275000.0,Reggiana,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Tomas Svedkauskas,21,Lithuania,Goalkeeper,GK,300000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Stefano Pettinari,23,Italy,Centre-Forward,CF,800000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Petar Golubovic,21,Serbia,Right-Back,RB,300000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Marco Frediani,21,Italy,Left Winger,LW,325000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Luca Mazzitelli,19,Italy,Central Midfield,CM,100000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Michele Somma,20,Italy,Centre-Back,CB,400000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Daniele Verde,19,Italy,Right Winger,RW,1000000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Lukasz Skorupski,24,Poland,Goalkeeper,GK,1500000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+AS Roma,Federico Balzaretti,33,Italy,Left-Back,LB,400000.0,Retired,,,out,summer,Serie A,2015,False,
+AS Roma,Leandro Paredes,21,Argentina,Defensive Midfield,DM,3700000.0,Boca Juniors,Argentina,0.0,out,summer,Serie A,2015,True,end of loan
+AS Roma,Davide Astori,28,Italy,Centre-Back,CB,8000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+AS Roma,Víctor Ibarbo,25,Colombia,Second Striker,SS,8500000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+AS Roma,Nicolás Spolli,32,Argentina,Centre-Back,CB,3500000.0,Catania,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+AS Roma,Iago Falque,26,Spain,Right Winger,RW,8000000.0,Genoa,Italy,7000000.0,in,winter,Serie A,2015,False,
+AS Roma,Ismail H'Maidat,20,Morocco,Central Midfield,CM,500000.0,Brescia,Italy,3150000.0,in,winter,Serie A,2015,False,
+AS Roma,Stephan El Shaarawy,23,Italy,Left Winger,LW,14000000.0,AC Milan,Italy,1400000.0,in,winter,Serie A,2015,True,loan with fee
+AS Roma,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,4000000.0,Sampdoria,Italy,1200000.0,in,winter,Serie A,2015,True,loan with fee
+AS Roma,Diego Perotti,27,Argentina,Left Winger,LW,9500000.0,Genoa,Italy,1000000.0,in,winter,Serie A,2015,True,loan with fee
+AS Roma,Nicola Falasco,22,Italy,Left-Back,LB,100000.0,Pistoiese,Italy,220000.0,in,winter,Serie A,2015,False,
+AS Roma,Gervinho,28,Cote d'Ivoire,Left Winger,LW,15000000.0,HB CFFC,China,18000000.0,out,winter,Serie A,2015,False,
+AS Roma,Luca Mazzitelli,20,Italy,Central Midfield,CM,1000000.0,Sassuolo,Italy,3500000.0,out,winter,Serie A,2015,False,
+AS Roma,Michele Somma,20,Italy,Centre-Back,CB,400000.0,Brescia,Italy,1800000.0,out,winter,Serie A,2015,False,
+AS Roma,Juan Iturbe,22,Paraguay,Left Winger,LW,15000000.0,Bournemouth,England,1200000.0,out,winter,Serie A,2015,True,loan with fee
+AS Roma,Seydou Doumbia,28,Cote d'Ivoire,Centre-Forward,CF,15000000.0,Newcastle,England,1000000.0,out,winter,Serie A,2015,True,loan with fee
+AS Roma,Alexis Ferrante,20,Italy,Centre-Forward,CF,225000.0,Imolese,Italy,0.0,out,winter,Serie A,2015,False,
+AS Roma,Nemanja Radonjic,19,Serbia,Left Winger,LW,50000.0,Cukaricki,Serbia,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Tomas Vestenicky,19,Slovakia,Centre-Forward,CF,200000.0,Cracovia,Poland,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Ashley Cole,35,England,Left-Back,LB,500000.0,LA Galaxy,United States,0.0,out,winter,Serie A,2015,False,
+AS Roma,Franck Cedric,20,Cameroon,Right Winger,RW,100000.0,Siena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Marco Frediani,21,Italy,Left Winger,LW,300000.0,Ancona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Francesco Di Mariano,19,Italy,Left Winger,LW,225000.0,Monopoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Nicola Falasco,22,Italy,Left-Back,LB,100000.0,Cesena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Ismail H'Maidat,20,Morocco,Central Midfield,CM,500000.0,Ascoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Arturo Calabresi,19,Italy,Centre-Back,CB,300000.0,Brescia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Kevin Méndez,20,Uruguay,Second Striker,SS,500000.0,Lausanne-Sport,Switzerland,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Stefano Pettinari,23,Italy,Centre-Forward,CF,650000.0,Como,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Daniele Verde,19,Italy,Right Winger,RW,900000.0,Pescara,Italy,0.0,out,winter,Serie A,2015,True,free loan
+AS Roma,Giammario Piscitella,22,Italy,Left Winger,LW,400000.0,Bassano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Luca Valzania,19,Italy,Central Midfield,CM,350000.0,Cesena,Italy,6200000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Rafael Tolói,24,Italy,Centre-Back,CB,5000000.0,São Paulo,Brazil,3870000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Jasmin Kurtic,26,Slovenia,Central Midfield,CM,3800000.0,Sassuolo,Italy,3200000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Franck Kessié,18,Cote d'Ivoire,Central Midfield,CM,300000.0,Stella Club,Cote d'Ivoire,1500000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Marten de Roon,24,Netherlands,Defensive Midfield,DM,1250000.0,Heerenveen,Netherlands,1300000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Isnik Alimi,21,Albania,Central Midfield,CM,125000.0,Chievo Verona,Italy,1200000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Boris Radunović,19,Serbia,Goalkeeper,GK,500000.0,Rad,Serbia,960000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Gaetano Monachello,21,Italy,Centre-Forward,CF,900000.0,Monaco,France,500000.0,in,summer,Serie A,2015,False,
+Atalanta BC,Davide Bassi,30,Italy,Goalkeeper,GK,800000.0,FC Empoli,Italy,0.0,in,summer,Serie A,2015,False,
+Atalanta BC,Marcos De Paula,31,Brazil,Centre-Forward,CF,50000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2015,False,
+Atalanta BC,Luca Zanotti,22,Italy,Goalkeeper,GK,75000.0,Pro Patria,Italy,,in,summer,Serie A,2015,False,
+Atalanta BC,Edoardo Ceria,20,Italy,Right Winger,RW,150000.0,Juventus,Italy,,in,summer,Serie A,2015,False,
+Atalanta BC,Gabriel Paletta,29,Italy,Centre-Back,CB,5000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Atalanta BC,Yohan Benalouane,28,Tunisia,Centre-Back,CB,1300000.0,Leicester,England,7000000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Daniele Baselli,23,Italy,Central Midfield,CM,3800000.0,Torino,Italy,6000000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Davide Zappacosta,23,Italy,Right Midfield,RM,5500000.0,Torino,Italy,4300000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Moussa Koné,25,Cote d'Ivoire,Central Midfield,CM,750000.0,Cesena,Italy,3650000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Federico Varano,20,Italy,Attacking Midfield,AM,225000.0,Cesena,Italy,2500000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Gianluca Barba,20,Italy,Central Midfield,CM,175000.0,Pescara,Italy,1500000.0,out,summer,Serie A,2015,False,
+Atalanta BC,Nana Welbeck,20,Ghana,Central Midfield,CM,250000.0,NK Krka,Slovenia,0.0,out,summer,Serie A,2015,False,
+Atalanta BC,Stefano Cason,20,Italy,Centre-Back,CB,100000.0,Melfi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Constantin Nica,22,Romania,Right-Back,RB,600000.0,Avellino,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Ákos Kecskés,19,Hungary,Centre-Back,CB,75000.0,Újpest FC,Hungary,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Richmond Boakye,22,Ghana,Centre-Forward,CF,2500000.0,Roda JC,Netherlands,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Daniele Capelli,29,Italy,Centre-Back,CB,700000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,False,
+Atalanta BC,Leonardo Gatto,23,Italy,Left Winger,LW,1000000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Antonio Palma,21,Italy,Central Midfield,CM,300000.0,Teramo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Doudou Mangni,22,Italy,Centre-Forward,CF,350000.0,Sanliurfaspor,Turkey,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Michele Canini,30,Italy,Centre-Back,CB,800000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Luigi Giorgi,28,Italy,Central Midfield,CM,600000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Antonio Palma,21,Italy,Central Midfield,CM,300000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Prince Gouano,21,France,Centre-Back,CB,1700000.0,Bolton,England,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Valerio Nava,21,Italy,Right-Back,RB,175000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Luigi Badji Djibo,20,Burkina Faso,Centre-Back,CB,75000.0,Maceratese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Edoardo Ceria,20,Italy,Right Winger,RW,150000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Franck Kessié,18,Cote d'Ivoire,Central Midfield,CM,300000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Nicolas Napol,19,Belgium,Centre-Forward,CF,75000.0,Avellino,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Cristiano Del Grosso,32,Italy,Left-Back,LB,300000.0,Bari,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Guido Marilungo,26,Italy,Centre-Forward,CF,500000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Francesco Rossi,24,Italy,Goalkeeper,GK,175000.0,Prato,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Davide Agazzi,22,Italy,Central Midfield,CM,200000.0,Catania,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Riccardo Cazzola,29,Italy,Central Midfield,CM,400000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Faisal Bangal,20,Mozambique,Centre-Forward,CF,50000.0,Tuttocuoio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Isnik Alimi,21,Albania,Central Midfield,CM,125000.0,Maceratese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Stefano Romano,20,Italy,Right Winger,RW,100000.0,Borgosesia,Italy,,out,summer,Serie A,2015,False,
+Atalanta BC,Davide Savi,19,Italy,Centre-Back,CB,50000.0,Chievo Verona,Italy,,out,summer,Serie A,2015,False,
+Atalanta BC,Luca Valzania,19,Italy,Central Midfield,CM,350000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Salvatore Molina,23,Italy,Right Midfield,RM,1100000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Alex Redolfi,21,Italy,Centre-Back,CB,200000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Mattia Caldara,21,Italy,Centre-Back,CB,400000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Matteo Contini,35,Italy,Centre-Back,CB,100000.0,Bari,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Rubén Bentancourt,22,Uruguay,Centre-Forward,CF,600000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Luca Milesi,22,Italy,Centre-Back,CB,125000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Matteo Scozzarella,27,Italy,Defensive Midfield,DM,500000.0,Trapani,Italy,,out,summer,Serie A,2015,False,
+Atalanta BC,Giuseppe Ungaro,20,Italy,Attacking Midfield,AM,75000.0,Mantova,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Luca Zanotti,21,Italy,Goalkeeper,GK,75000.0,Melfi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Simone Magnaghi,21,Italy,Centre-Forward,CF,400000.0,Cremonese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Nadir Minotti,23,Italy,Defensive Midfield,DM,700000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Roberto Gagliardini,21,Italy,Central Midfield,CM,700000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Alberto Almici,22,Italy,Right-Back,RB,500000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Atalanta BC,Giorgio Frezzolini,39,Italy,Goalkeeper,GK,50000.0,Retired,,,out,summer,Serie A,2015,False,
+Atalanta BC,Francesco Zanoni,19,Italy,Centre-Back,CB,25000.0,Without Club,,,out,summer,Serie A,2015,False,
+Atalanta BC,Nicolò Tonon,21,Italy,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Atalanta BC,Giuseppe Biava,38,Italy,Centre-Back,CB,300000.0,Retired,,,out,summer,Serie A,2015,False,
+Atalanta BC,Lionel Scaloni,37,Argentina,Right-Back,RB,100000.0,Retired,,,out,summer,Serie A,2015,False,
+Atalanta BC,Urby Emanuelson,29,Netherlands,Central Midfield,CM,2500000.0,Without Club,,,out,summer,Serie A,2015,False,
+Atalanta BC,Rolando Bianchi,32,Italy,Centre-Forward,CF,1000000.0,Bologna,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Atalanta BC,Vlada Avramov,36,Serbia,Goalkeeper,GK,400000.0,Torino,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Atalanta BC,Lorenzo Rosseti,20,Italy,Centre-Forward,CF,1000000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Atalanta BC,Mauricio Pinilla,30,Chile,Centre-Forward,CF,2200000.0,Genoa,Italy,2000000.0,in,winter,Serie A,2015,False,
+Atalanta BC,Remo Freuler,23,Switzerland,Central Midfield,CM,2000000.0,FC Luzern,Switzerland,1950000.0,in,winter,Serie A,2015,False,
+Atalanta BC,Andrea Petagna,20,Italy,Centre-Forward,CF,600000.0,AC Milan,Italy,1000000.0,in,winter,Serie A,2015,False,
+Atalanta BC,Berat Djimsiti,22,Albania,Centre-Back,CB,1000000.0,FC Zürich,Switzerland,0.0,in,winter,Serie A,2015,False,
+Atalanta BC,Marco Borriello,33,Italy,Centre-Forward,CF,800000.0,Carpi,Italy,0.0,in,winter,Serie A,2015,False,
+Atalanta BC,Alessandro Diamanti,32,Italy,Attacking Midfield,AM,2000000.0,GZ Evergrande,China,0.0,in,winter,Serie A,2015,True,free loan
+Atalanta BC,Serge Gakpé,28,Togo,Right Winger,RW,2500000.0,Genoa,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Atalanta BC,Alberto Grassi,20,Italy,Central Midfield,CM,2000000.0,SSC Napoli,Italy,8000000.0,out,winter,Serie A,2015,False,
+Atalanta BC,Maxi Moralez,28,Argentina,Attacking Midfield,AM,5000000.0,León,Mexico,5000000.0,out,winter,Serie A,2015,False,
+Atalanta BC,Richmond Boakye,22,Ghana,Centre-Forward,CF,2000000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Leonardo Gatto,23,Italy,Left Winger,LW,1000000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Germán Denis,34,Argentina,Centre-Forward,CF,1000000.0,Independiente,Argentina,0.0,out,winter,Serie A,2015,False,
+Atalanta BC,Emanuele Suagher,23,Italy,Centre-Back,CB,800000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Luca Zanotti,21,Italy,Goalkeeper,GK,75000.0,Pro Patria,Italy,,out,winter,Serie A,2015,False,
+Atalanta BC,Nadir Minotti,23,Italy,Defensive Midfield,DM,500000.0,Siena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Valerio Nava,21,Italy,Right-Back,RB,150000.0,Cittadella,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Andrea Petagna,20,Italy,Centre-Forward,CF,600000.0,Ascoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Michele Morelli,19,Italy,Right-Back,RB,25000.0,Mapello,Italy,,out,winter,Serie A,2015,False,
+Atalanta BC,Prince Gouano,22,France,Centre-Back,CB,1700000.0,Gaziantepspor,Turkey,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Doudou Mangni,22,Italy,Centre-Forward,CF,300000.0,Ascoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Marcos De Paula,32,Brazil,Centre-Forward,CF,50000.0,Resende,Brazil,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Salvatore Molina,24,Italy,Right Midfield,RM,1000000.0,Perugia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Atalanta BC,Edoardo Ceria,20,Italy,Right Winger,RW,125000.0,Feralpisalò,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Mattia Destro,24,Italy,Centre-Forward,CF,13000000.0,AS Roma,Italy,8500000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Ibrahima Mbaye,20,Senegal,Right-Back,RB,4000000.0,Inter,Italy,3500000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Luca Rossettini,30,Italy,Centre-Back,CB,1800000.0,Cagliari Calcio,Italy,2500000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Erick Pulgar,21,Chile,Defensive Midfield,DM,,CDUC,Chile,2280000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Anthony Mounier,27,France,Left Winger,LW,4500000.0,Montpellier,France,2000000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Godfred Donsah,19,Ghana,Central Midfield,CM,5500000.0,Cagliari Calcio,Italy,2000000.0,in,summer,Serie A,2015,True,loan with fee
+Bologna FC 1909,Lorenzo Crisetig,22,Italy,Defensive Midfield,DM,4000000.0,Inter,Italy,1800000.0,in,summer,Serie A,2015,True,loan with fee
+Bologna FC 1909,Marco Crimi,25,Italy,Central Midfield,CM,1100000.0,Latina Calcio,Italy,1000000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Amadou Diawara,17,Guinea,Defensive Midfield,DM,400000.0,San Marino,Italy,600000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Emil Krafth,21,Sweden,Right-Back,RB,900000.0,Helsingborg,Sweden,500000.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Emanuele Giaccherini,30,Italy,Left Midfield,LM,4500000.0,Sunderland,England,250000.0,in,summer,Serie A,2015,True,loan with fee
+Bologna FC 1909,Franco Brienza,36,Italy,Attacking Midfield,AM,300000.0,Cesena,Italy,0.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Matteo Brighi,34,Italy,Central Midfield,CM,400000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Antonio Mirante,31,Italy,Goalkeeper,GK,3000000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+Bologna FC 1909,Luca Rizzo,23,Italy,Central Midfield,CM,2000000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Filippo Falco,23,Italy,Second Striker,SS,900000.0,Lecce,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Bálint Vécsei,22,Hungary,Central Midfield,CM,300000.0,Honvéd,Hungary,,in,summer,Serie A,2015,False,
+Bologna FC 1909,Marko Krivicic,19,Slovenia,Central Midfield,CM,200000.0,FC Koper,Slovenia,0.0,in,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Saphir Taider,23,Algeria,Central Midfield,CM,6000000.0,Inter,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Bologna FC 1909,José Crespo,28,Spain,Centre-Back,CB,800000.0,Córdoba CF,Spain,500000.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Daniele Paponi,27,Italy,Centre-Forward,CF,200000.0,Latina Calcio,Italy,300000.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Daniele Cacia,32,Italy,Centre-Forward,CF,900000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Michele Pazienza,32,Italy,Defensive Midfield,DM,100000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Rolando Bianchi,32,Italy,Centre-Forward,CF,700000.0,RCD Mallorca,Spain,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Damjan Djokovic,25,Croatia,Central Midfield,CM,650000.0,G. Ajaccio,France,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Uros Radakovic,21,Serbia,Centre-Back,CB,200000.0,Sigma Olomouc,Czech Republic,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Mathías Abero,25,Uruguay,Left-Back,LB,100000.0,Nacional,Uruguay,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Luca Veratti,22,Italy,Centre-Forward,CF,50000.0,Melfi,Italy,0.0,out,summer,Serie A,2015,False,
+Bologna FC 1909,Nicola Camilloni,17,Italy,Right-Back,RB,,AJ Fano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Rubén Palomeque,20,Spain,Right-Back,RB,75000.0,Paganese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Matteo Malagoli,20,Italy,Goalkeeper,GK,50000.0,Santarcangelo,Italy,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Bálint Vécsei,22,Hungary,Central Midfield,CM,300000.0,Lecce,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,György Garics,31,Austria,Right-Back,RB,600000.0,SV Darmstadt 98,Germany,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Gianmarco Gerevini,22,Italy,Defensive Midfield,DM,125000.0,Atlético CP,Portugal,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Ferdinando Coppola,37,Italy,Goalkeeper,GK,100000.0,Hellas Verona,Italy,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Martí Riverola,24,Spain,Central Midfield,CM,400000.0,Foggia,Italy,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Lorenzo Paramatti,20,Italy,Centre-Back,CB,100000.0,Siena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Filippo Lorenzini,20,Italy,Centre-Back,CB,50000.0,Lucchese,Italy,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Francesco Bergamini,20,Italy,Central Midfield,CM,50000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Bologna FC 1909,Cesare Rickler,28,Italy,Centre-Back,CB,25000.0,Retired,,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Abdallah Yaisien,21,Egypt,Attacking Midfield,AM,250000.0,Without Club,,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Matuzalém,35,Brazil,Defensive Midfield,DM,500000.0,Without Club,,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Federico Casarini,25,Italy,Central Midfield,CM,900000.0,Without Club,,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Diego Pérez,35,Uruguay,Defensive Midfield,DM,100000.0,Retired,,,out,summer,Serie A,2015,False,
+Bologna FC 1909,Gennaro Troianiello,32,Italy,Right Winger,RW,150000.0,US Palermo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Karim Laribi,24,Tunisia,Attacking Midfield,AM,1400000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Marcel Büchel,24,Liechtenstein,Central Midfield,CM,600000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Riccardo Improta,21,Italy,Left Winger,LW,1100000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Daniel Bessa,22,Italy,Central Midfield,CM,500000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Gianluca Sansone,28,Italy,Centre-Forward,CF,1800000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Ibrahima Mbaye,20,Senegal,Right-Back,RB,4000000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Nenad Krsticic,24,Serbia,Central Midfield,CM,2500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Bologna FC 1909,Filippo Falco,23,Italy,Second Striker,SS,800000.0,Lecce,Italy,1200000.0,in,winter,Serie A,2015,False,
+Bologna FC 1909,Sergio Floccari,34,Italy,Centre-Forward,CF,500000.0,Sassuolo,Italy,500000.0,in,winter,Serie A,2015,False,
+Bologna FC 1909,Camilo Zúñiga,30,Colombia,Right-Back,RB,2500000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Kévin Constant,28,Guinea,Central Midfield,CM,1800000.0,Without Club,,,in,winter,Serie A,2015,False,
+Bologna FC 1909,Nico Pulzetti,31,Italy,Central Midfield,CM,600000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2015,False,
+Bologna FC 1909,Nicolò Scalini,20,Italy,Central Midfield,CM,75000.0,Imolese,Italy,0.0,out,winter,Serie A,2015,False,
+Bologna FC 1909,Riccardo Benatti,21,Italy,Right Winger,RW,50000.0,Castelvetro,Italy,0.0,out,winter,Serie A,2015,False,
+Bologna FC 1909,Marco Crimi,25,Italy,Central Midfield,CM,1100000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Rubén Palomeque,21,Spain,Right-Back,RB,75000.0,Lucchese,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Matteo Mancosu,31,Italy,Centre-Forward,CF,1000000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Luca Ceccarelli,32,Italy,Right-Back,RB,200000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Francesco Bergamini,21,Italy,Central Midfield,CM,50000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Filippo Falco,23,Italy,Second Striker,SS,800000.0,Cesena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Bologna FC 1909,Luca Camorani,19,Italy,Centre-Back,CB,75000.0,Otranto,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Kamil Wilczek,27,Poland,Centre-Forward,CF,850000.0,Piast Gliwice,Poland,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Francesco Benussi,33,Italy,Goalkeeper,GK,100000.0,Hellas Verona,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Vid Belec,25,Slovenia,Goalkeeper,GK,1500000.0,Inter,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Cristian Zaccardo,33,Italy,Centre-Back,CB,400000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Ryan Hiwat,19,Netherlands,Right Midfield,RM,75000.0,PSV U19,Netherlands,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Andrea Lazzari,30,Italy,Central Midfield,CM,1500000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Nicolás Spolli,32,Argentina,Centre-Back,CB,2000000.0,Catania,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Raphael Martinho,27,Brazil,Left Midfield,LM,1600000.0,Catania,Italy,0.0,in,summer,Serie A,2015,False,
+Carpi FC 1909,Federico Franchini,21,Italy,Right Midfield,RM,175000.0,Chievo Verona,Italy,,in,summer,Serie A,2015,False,
+Carpi FC 1909,Federico Gino,22,Uruguay,Central Midfield,CM,750000.0,Defensor,Uruguay,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Isaac Cofie,23,Ghana,Defensive Midfield,DM,2000000.0,Genoa,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Gaspar Iñíguez,21,Argentina,Central Midfield,CM,1400000.0,Granada CF,Spain,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Gabriel Silva,24,Brazil,Left-Back,LB,3800000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Igor Bubnjic,23,Croatia,Centre-Back,CB,1300000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Wallace Oliveira,21,Brazil,Right-Back,RB,2000000.0,Chelsea,England,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Zeljko Brkic,29,Serbia,Goalkeeper,GK,3200000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Luca Marrone,25,Italy,Centre-Back,CB,2500000.0,Juventus,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Ryder Matos,22,Brazil,Second Striker,SS,2500000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Matteo Fedele,23,Switzerland,Central Midfield,CM,600000.0,FC Sion,Switzerland,0.0,in,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Maicol Murano,18,Italy,Goalkeeper,GK,75000.0,Abano,Italy,,in,summer,Serie A,2015,False,
+Carpi FC 1909,Amarildo Sula,17,Albania,Centre-Forward,CF,,Lazio U19,Italy,,in,summer,Serie A,2015,False,
+Carpi FC 1909,Marco Borriello,33,Italy,Centre-Forward,CF,800000.0,Without Club,,,in,summer,Serie A,2015,False,
+Carpi FC 1909,Luca Cognigni,24,Italy,Centre-Forward,CF,100000.0,Ancona,Italy,50000.0,out,summer,Serie A,2015,False,
+Carpi FC 1909,Roberto Maurantonio,34,Italy,Goalkeeper,GK,50000.0,Akragas,Italy,0.0,out,summer,Serie A,2015,False,
+Carpi FC 1909,Giacomo Ridolfi,21,Italy,Attacking Midfield,AM,25000.0,Vis Pesaro,Italy,0.0,out,summer,Serie A,2015,False,
+Carpi FC 1909,Riccardo Marani,20,Italy,Goalkeeper,GK,50000.0,Veregra,Italy,0.0,out,summer,Serie A,2015,False,
+Carpi FC 1909,Gabriele Boilini,24,Italy,Left Winger,LW,50000.0,D. Porto Tolle,Italy,0.0,out,summer,Serie A,2015,False,
+Carpi FC 1909,Maicol Murano,19,Italy,Goalkeeper,GK,75000.0,San Paolo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Fabrizio Poli,26,Italy,Centre-Back,CB,500000.0,Novara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Ryan Hiwat,19,Netherlands,Right Midfield,RM,75000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Filippo Porcari,31,Italy,Defensive Midfield,DM,800000.0,Bari,Italy,,out,summer,Serie A,2015,False,
+Carpi FC 1909,Alessio Sabbione,23,Italy,Centre-Back,CB,150000.0,Crotone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Francesco Forte,23,Italy,Goalkeeper,GK,200000.0,Maceratese,Italy,,out,summer,Serie A,2015,False,
+Carpi FC 1909,Daniele Sarzi Puttini,19,Italy,Left-Back,LB,50000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Andrea Boron,22,Italy,Left-Back,LB,100000.0,Siena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Alberto Torelli,20,Italy,Central Midfield,CM,150000.0,Siena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Nicolò Sperotto,23,Italy,Left-Back,LB,125000.0,Arezzo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Carpi FC 1909,Matteo Brunelli,21,Italy,Goalkeeper,GK,150000.0,Chievo Verona,Italy,,out,summer,Serie A,2015,False,
+Carpi FC 1909,Renato Dossena,28,Italy,Goalkeeper,GK,100000.0,Retired,,,out,summer,Serie A,2015,False,
+Carpi FC 1909,Roberto Inglese,23,Italy,Centre-Forward,CF,500000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Massimiliano Gatto,19,Italy,Left Winger,LW,100000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Malick Mbaye,19,Senegal,Central Midfield,CM,250000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Emanuele Suagher,22,Italy,Centre-Back,CB,800000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Simon Laner,31,Italy,Central Midfield,CM,150000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Aljaz Struna,24,Slovenia,Centre-Back,CB,1000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Gabriel,22,Brazil,Goalkeeper,GK,2800000.0,AC Milan,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Nicola Pasini,24,Italy,Centre-Back,CB,250000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Salvatore Molina,23,Italy,Right Midfield,RM,1100000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Mario Pugliese,19,Italy,Central Midfield,CM,250000.0,Atalanta U19,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Marco Modolo,26,Italy,Centre-Back,CB,150000.0,Parma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Carpi FC 1909,Stefano Sabelli,23,Italy,Right-Back,RB,1500000.0,Bari,Italy,300000.0,in,winter,Serie A,2015,True,loan with fee
+Carpi FC 1909,Fabio Daprelà,24,Switzerland,Centre-Back,CB,800000.0,US Palermo,Italy,0.0,in,winter,Serie A,2015,False,
+Carpi FC 1909,Eddy Gnahoré,22,France,Central Midfield,CM,300000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Jonathan de Guzmán,28,Netherlands,Central Midfield,CM,4000000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Marco Crimi,25,Italy,Central Midfield,CM,1100000.0,Bologna,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Emanuele Suagher,23,Italy,Centre-Back,CB,800000.0,Atalanta BC,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Matteo Mancosu,31,Italy,Centre-Forward,CF,1000000.0,Bologna,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Simone Colombi,24,Italy,Goalkeeper,GK,900000.0,Cagliari Calcio,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Simone Verdi,23,Italy,Attacking Midfield,AM,3000000.0,AC Milan,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Filippo Porcari,31,Italy,Defensive Midfield,DM,700000.0,Bari,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Carpi FC 1909,Kamil Wilczek,28,Poland,Centre-Forward,CF,700000.0,Bröndby IF,Denmark,225000.0,out,winter,Serie A,2015,False,
+Carpi FC 1909,Nicolás Spolli,32,Argentina,Centre-Back,CB,1000000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2015,False,
+Carpi FC 1909,Francesco Benussi,34,Italy,Goalkeeper,GK,100000.0,Vicenza,Italy,0.0,out,winter,Serie A,2015,False,
+Carpi FC 1909,Marco Borriello,33,Italy,Centre-Forward,CF,800000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2015,False,
+Carpi FC 1909,Andrea Lazzari,31,Italy,Central Midfield,CM,1000000.0,Bari,Italy,0.0,out,winter,Serie A,2015,False,
+Carpi FC 1909,Nicolò Sperotto,23,Italy,Left-Back,LB,125000.0,Alessandria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Lucas Castro,26,Argentina,Attacking Midfield,AM,2800000.0,Catania,Italy,3500000.0,in,summer,Serie A,2015,False,
+Chievo Verona,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,2500000.0,KAA Gent,Belgium,1000000.0,in,summer,Serie A,2015,False,
+Chievo Verona,Paul-José Mpoku,23,DR Congo,Left Winger,LW,5000000.0,Standard Liège,Belgium,750000.0,in,summer,Serie A,2015,True,loan with fee
+Chievo Verona,Fabrizio Cacciatore,28,Italy,Right-Back,RB,1200000.0,Sampdoria,Italy,250000.0,in,summer,Serie A,2015,True,loan with fee
+Chievo Verona,Marco Calderoni,26,Italy,Left-Back,LB,400000.0,Bari,Italy,100000.0,in,summer,Serie A,2015,False,
+Chievo Verona,Massimo Gobbi,34,Italy,Left-Back,LB,300000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Valter Birsa,28,Slovenia,Attacking Midfield,AM,2000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Filippo Di Maio,18,Italy,Centre-Back,CB,75000.0,Catania U19,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Walter Bressan,34,Italy,Goalkeeper,GK,200000.0,Cesena,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Simone Pepe,31,Italy,Right Winger,RW,500000.0,Juventus,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Isaac Ntow,21,Ghana,Left-Back,LB,50000.0,Brescia,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Giampiero Pinzi,34,Italy,Central Midfield,CM,400000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2015,False,
+Chievo Verona,Gianni Manfrin,21,Italy,Left-Back,LB,450000.0,Modena,Italy,,in,summer,Serie A,2015,False,
+Chievo Verona,Davide Savi,19,Italy,Centre-Back,CB,50000.0,Atalanta BC,Italy,,in,summer,Serie A,2015,False,
+Chievo Verona,Matteo Brunelli,21,Italy,Goalkeeper,GK,150000.0,Carpi,Italy,,in,summer,Serie A,2015,False,
+Chievo Verona,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,3500000.0,Sampdoria,Italy,3280000.0,out,summer,Serie A,2015,False,
+Chievo Verona,Diego Farias,25,Brazil,Left Winger,LW,1800000.0,Cagliari Calcio,Italy,1200000.0,out,summer,Serie A,2015,False,
+Chievo Verona,Isnik Alimi,21,Albania,Central Midfield,CM,125000.0,Atalanta BC,Italy,1200000.0,out,summer,Serie A,2015,False,
+Chievo Verona,Edimar,29,Brazil,Left-Back,LB,600000.0,Rio Ave FC,Portugal,110000.0,out,summer,Serie A,2015,True,loan with fee
+Chievo Verona,Alessio Sestu,31,Italy,Right Winger,RW,400000.0,Virtus Entella,Italy,75000.0,out,summer,Serie A,2015,True,loan with fee
+Chievo Verona,Federico Scappi,21,Italy,Centre-Back,CB,50000.0,Luzzara,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Valerio Anastasi,25,Italy,Centre-Forward,CF,150000.0,Mantova,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Francesco Sabatucci,24,Italy,Centre-Back,CB,50000.0,Cavese,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Adrian Stoian,24,Romania,Left Winger,LW,800000.0,Crotone,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Dejan Lazarevic,25,Slovenia,Left Winger,LW,1000000.0,Antalyaspor,Turkey,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Marcos De Paula,31,Brazil,Centre-Forward,CF,50000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Malick Mbaye,19,Senegal,Central Midfield,CM,250000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Yves Baraye,23,Senegal,Right Winger,RW,325000.0,Parma,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Thomas Mangani,28,France,Central Midfield,CM,1000000.0,SCO Angers,France,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Simone Bentivoglio,30,Italy,Central Midfield,CM,150000.0,Modena,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Christian Puggioni,34,Italy,Goalkeeper,GK,300000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,False,
+Chievo Verona,Matteo Solini,22,Italy,Centre-Back,CB,125000.0,Renate,Italy,10000.0,out,summer,Serie A,2015,True,loan with fee
+Chievo Verona,Nicola Bellomo,24,Italy,Attacking Midfield,AM,1500000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Alessandro Sbaffo,25,Italy,Central Midfield,CM,500000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Massimiliano Gatto,19,Italy,Left Winger,LW,100000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Caleb Ekuban,21,Ghana,Right Winger,RW,200000.0,Renate,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Davide Savi,19,Italy,Centre-Back,CB,50000.0,Ischia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,N'Diaye Djiby,21,Senegal,Central Midfield,CM,100000.0,Cremonese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Armando Vajushi,23,Albania,Left Winger,LW,1800000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Juri Cisotti,22,Italy,Left Winger,LW,350000.0,Spezia Calcio,Italy,,out,summer,Serie A,2015,False,
+Chievo Verona,Isaac Ntow,21,Ghana,Left-Back,LB,50000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Filippo Di Maio,18,Italy,Centre-Back,CB,75000.0,Venezia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Michele Troiani,19,Italy,Right-Back,RB,300000.0,Benevento,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Raffaele Pucino,24,Italy,Right-Back,RB,500000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Ali Sowe,21,The Gambia,Centre-Forward,CF,500000.0,Modena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Matteo Brunelli,21,Italy,Goalkeeper,GK,150000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Simone Aldrovandi,21,Italy,Centre-Back,CB,100000.0,Modena,Italy,,out,summer,Serie A,2015,False,
+Chievo Verona,Federico Franchini,21,Italy,Right Midfield,RM,175000.0,Carpi,Italy,,out,summer,Serie A,2015,False,
+Chievo Verona,Alessandro Bassoli,25,Italy,Centre-Back,CB,175000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Simone Moschin,19,Italy,Goalkeeper,GK,75000.0,Renate,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Gianni Manfrin,21,Italy,Left-Back,LB,450000.0,Alessandria,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Tomasz Kupisz,25,Poland,Right Midfield,RM,600000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Marco Calderoni,26,Italy,Left-Back,LB,400000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Filippo Costa,20,Italy,Left-Back,LB,300000.0,Bournemouth U21,England,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Radoslav Kirilov,23,Bulgaria,Left Winger,LW,375000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Emanuele Gatto,20,Italy,Central Midfield,CM,250000.0,Cuneo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Mario Gargiulo,19,Italy,Central Midfield,CM,100000.0,Bassano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Amedeo Benedetti,23,Italy,Left-Back,LB,250000.0,Cittadella,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Myles Anderson,25,England,Centre-Back,CB,75000.0,L'Aquila,Italy,,out,summer,Serie A,2015,False,
+Chievo Verona,Ivan Provedel,21,Italy,Goalkeeper,GK,450000.0,Modena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Lorenzo Marchionni,20,Italy,Left Winger,LW,200000.0,Modena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Ansoumana Sané,19,Senegal,Left-Back,LB,200000.0,Pontedera,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Victor da Silva,20,Brazil,Attacking Midfield,AM,700000.0,Teramo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Chievo Verona,Sergio Viotti,25,Italy,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Serie A,2015,False,
+Chievo Verona,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,2500000.0,KAA Gent,Belgium,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Francesco Bardi,23,Italy,Goalkeeper,GK,8000000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Cristiano Biraghi,22,Italy,Left-Back,LB,2200000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Valter Birsa,28,Slovenia,Attacking Midfield,AM,2200000.0,AC Milan,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Rubén Botta,25,Argentina,Attacking Midfield,AM,4000000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Ezequiel Schelotto,26,Italy,Right-Back,RB,4200000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Isaac Cofie,23,Ghana,Defensive Midfield,DM,2400000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Giannis Fetfatzidis,24,Greece,Right Winger,RW,4000000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Nicola Pozzi,29,Italy,Centre-Forward,CF,1000000.0,Parma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Chievo Verona,Nikola Ninkovic,21,Serbia,Left Winger,LW,1000000.0,Partizan,Serbia,550000.0,in,winter,Serie A,2015,False,
+Chievo Verona,Nicolás Spolli,32,Argentina,Centre-Back,CB,1000000.0,Carpi,Italy,0.0,in,winter,Serie A,2015,False,
+Chievo Verona,Antonio Floro Flores,32,Italy,Centre-Forward,CF,1500000.0,Sassuolo,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Chievo Verona,Fabian Sporkslede,22,Netherlands,Right-Back,RB,200000.0,Without Club,,,in,winter,Serie A,2015,False,
+Chievo Verona,Alberto Paloschi,26,Italy,Centre-Forward,CF,6000000.0,Swansea,England,8800000.0,out,winter,Serie A,2015,False,
+Chievo Verona,Anders Christiansen,25,Denmark,Central Midfield,CM,500000.0,Malmö FF,Sweden,732000.0,out,winter,Serie A,2015,False,
+Chievo Verona,Matteo Messetti,20,Italy,Left Winger,LW,100000.0,Bardolino,Italy,0.0,out,winter,Serie A,2015,False,
+Chievo Verona,Marcão,23,Brazil,Goalkeeper,GK,50000.0,Rio Claro FC,Brazil,0.0,out,winter,Serie A,2015,False,
+Chievo Verona,Alessandro Sbaffo,25,Italy,Central Midfield,CM,600000.0,Avellino,Italy,,out,winter,Serie A,2015,False,
+Chievo Verona,Raffaele Pucino,24,Italy,Right-Back,RB,450000.0,Avellino,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Isaac Ntow,21,Ghana,Left-Back,LB,50000.0,Renate,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Oliver Posarelli,19,Italy,Centre-Back,CB,75000.0,Arzignano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Nicola Bellomo,24,Italy,Attacking Midfield,AM,1300000.0,Vicenza,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Ali Sowe,21,The Gambia,Centre-Forward,CF,400000.0,Lecce,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,N'Diaye Djiby,22,Senegal,Central Midfield,CM,75000.0,Lupa Cast Rom,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Fabian Sporkslede,22,Netherlands,Right-Back,RB,200000.0,Lupa Cast Rom,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Chievo Verona,Victor da Silva,21,Brazil,Attacking Midfield,AM,600000.0,NK Istra,Croatia,0.0,out,winter,Serie A,2015,True,free loan
+FC Empoli,Riccardo Saponara,23,Italy,Attacking Midfield,AM,3000000.0,AC Milan,Italy,4000000.0,in,summer,Serie A,2015,False,
+FC Empoli,Luca Bittante,21,Italy,Right-Back,RB,1300000.0,Fiorentina,Italy,800000.0,in,summer,Serie A,2015,False,
+FC Empoli,Raffaele Maiello,24,Italy,Defensive Midfield,DM,1500000.0,SSC Napoli,Italy,750000.0,in,summer,Serie A,2015,True,loan with fee
+FC Empoli,Michele Camporese,23,Italy,Centre-Back,CB,1200000.0,Fiorentina,Italy,500000.0,in,summer,Serie A,2015,False,
+FC Empoli,Marko Livaja,22,Croatia,Left Winger,LW,4000000.0,Rubin Kazan,Russia,300000.0,in,summer,Serie A,2015,True,loan with fee
+FC Empoli,Kastriot Dermaku,23,Albania,Centre-Back,CB,275000.0,Melfi,Italy,0.0,in,summer,Serie A,2015,False,
+FC Empoli,Andrea Costa,29,Italy,Centre-Back,CB,750000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+FC Empoli,Rade Krunic,21,Bosnia-Herzegovina,Central Midfield,CM,500000.0,Borac Cacak,Serbia,0.0,in,summer,Serie A,2015,False,
+FC Empoli,Marco Zambelli,29,Italy,Right-Back,RB,900000.0,Brescia,Italy,0.0,in,summer,Serie A,2015,False,
+FC Empoli,Lukasz Skorupski,24,Poland,Goalkeeper,GK,1500000.0,AS Roma,Italy,0.0,in,summer,Serie A,2015,True,free loan
+FC Empoli,Uros Cosic,22,Serbia,Centre-Back,CB,800000.0,Pescara,Italy,,in,summer,Serie A,2015,False,
+FC Empoli,Leandro Paredes,21,Argentina,Defensive Midfield,DM,3500000.0,AS Roma,Italy,0.0,in,summer,Serie A,2015,True,free loan
+FC Empoli,Marcel Büchel,24,Liechtenstein,Central Midfield,CM,600000.0,Juventus,Italy,0.0,in,summer,Serie A,2015,True,free loan
+FC Empoli,Mirko Valdifiori,29,Italy,Defensive Midfield,DM,6000000.0,SSC Napoli,Italy,5500000.0,out,summer,Serie A,2015,False,
+FC Empoli,Elseid Hysaj,21,Albania,Right-Back,RB,4500000.0,SSC Napoli,Italy,5000000.0,out,summer,Serie A,2015,False,
+FC Empoli,Davide Bassi,30,Italy,Goalkeeper,GK,800000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,False,
+FC Empoli,Matteo Ricci,21,Italy,Goalkeeper,GK,175000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Mateus Dos Santos,25,Brazil,Centre-Forward,CF,75000.0,Chieti,Italy,0.0,out,summer,Serie A,2015,False,
+FC Empoli,Francesco Tavano,36,Italy,Centre-Forward,CF,200000.0,Avellino,Italy,0.0,out,summer,Serie A,2015,False,
+FC Empoli,Leonardo Bianchi,23,Italy,Attacking Midfield,AM,50000.0,Rieti,Italy,0.0,out,summer,Serie A,2015,False,
+FC Empoli,Stefano Castellani,23,Italy,Centre-Forward,CF,125000.0,D. Porto Tolle,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Luca Martinelli,26,Italy,Centre-Back,CB,150000.0,ACR Messina,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Romano Perticone,28,Italy,Centre-Back,CB,400000.0,Trapani,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Alessio Agrifogli,19,Italy,Left-Back,LB,125000.0,Parma,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Franco Signorelli,24,Venezuela,Central Midfield,CM,500000.0,Ternana,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Roberto Silvestri,20,Italy,Right Midfield,RM,75000.0,Bucinese,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Gianmaria Bolognesi,19,Italy,Goalkeeper,GK,25000.0,Ghiviborgo,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Carlo Menichetti,19,Italy,Defensive Midfield,DM,75000.0,Ponsacco,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Elia Angeli,20,Italy,Centre-Forward,CF,25000.0,US Castelnuovo,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Dramane Konaté,21,Cote d'Ivoire,Centre-Back,CB,125000.0,Ancona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Ludovico Gargiulo,20,Italy,Central Midfield,CM,250000.0,Cremonese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+FC Empoli,Emanuele Rovini,20,Italy,Centre-Forward,CF,300000.0,Udinese Calcio,Italy,,out,summer,Serie A,2015,False,
+FC Empoli,Tiberio Guarente,29,Italy,Central Midfield,CM,400000.0,Retired,,,out,summer,Serie A,2015,False,
+FC Empoli,Luigi Sepe,24,Italy,Goalkeeper,GK,3000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Simone Verdi,22,Italy,Attacking Midfield,AM,3200000.0,Torino,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Matías Vecino,23,Uruguay,Central Midfield,CM,3200000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Riccardo Saponara,23,Italy,Attacking Midfield,AM,3000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Daniele Rugani,20,Italy,Centre-Back,CB,7500000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Michele Somma,20,Italy,Centre-Back,CB,200000.0,AS Roma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+FC Empoli,Lorenzo Ariaudo,26,Italy,Centre-Back,CB,600000.0,Sassuolo,Italy,0.0,in,winter,Serie A,2015,True,free loan
+FC Empoli,Federico Barba,22,Italy,Centre-Back,CB,1800000.0,VfB Stuttgart,Germany,1000000.0,out,winter,Serie A,2015,True,loan with fee
+FC Empoli,Ronaldo,25,Brazil,Defensive Midfield,DM,300000.0,Lazio,Italy,0.0,out,winter,Serie A,2015,False,
+FC Empoli,Ludovico Gargiulo,20,Italy,Central Midfield,CM,250000.0,Pistoiese,Italy,0.0,out,winter,Serie A,2015,True,free loan
+FC Empoli,Kastriot Dermaku,24,Albania,Centre-Back,CB,250000.0,Pavia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+FC Empoli,Andrea Valoriani,18,Italy,Goalkeeper,GK,50000.0,Fortis Juventus,Italy,0.0,out,winter,Serie A,2015,True,free loan
+FC Empoli,Matteo Biggeri,19,Italy,Goalkeeper,GK,75000.0,Legnago,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Frosinone Calcio,Modibo Diakité,28,France,Centre-Back,CB,1000000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2015,False,
+Frosinone Calcio,Aleksandar Tonev,25,Bulgaria,Left Winger,LW,1000000.0,Aston Villa,England,0.0,in,summer,Serie A,2015,False,
+Frosinone Calcio,Raman Chibsah,22,Ghana,Central Midfield,CM,1700000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Daniele Verde,19,Italy,Right Winger,RW,1000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Aleandro Rosi,28,Italy,Right-Back,RB,500000.0,Genoa,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Nicola Leali,22,Italy,Goalkeeper,GK,5000000.0,Juventus,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Daniel Pavlovic,27,Bosnia-Herzegovina,Left-Back,LB,750000.0,Grasshoppers,Switzerland,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Samuele Longo,23,Italy,Centre-Forward,CF,1500000.0,Inter,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Nicolás Castillo,22,Chile,Centre-Forward,CF,3000000.0,Club Brugge,Belgium,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Lys Gomis,25,Senegal,Goalkeeper,GK,700000.0,Torino,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Raffaele Schiavi,29,Italy,Centre-Back,CB,500000.0,Catania,Italy,200000.0,out,summer,Serie A,2015,False,
+Frosinone Calcio,Michele Mangiapelo,29,Italy,Goalkeeper,GK,150000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2015,False,
+Frosinone Calcio,Arturo Lupoli,28,Italy,Centre-Forward,CF,300000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,False,
+Frosinone Calcio,Damiano Zanon,32,Italy,Right-Back,RB,250000.0,Ternana,Italy,0.0,out,summer,Serie A,2015,False,
+Frosinone Calcio,Giuliano Regolanti,20,Italy,Centre-Forward,CF,125000.0,Matera,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Victor De Lucia,19,Italy,Goalkeeper,GK,50000.0,Latina Calcio,Italy,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Mirko Pigliacelli,22,Italy,Goalkeeper,GK,400000.0,Pescara,Italy,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Fabio Formato,21,Italy,Centre-Back,CB,50000.0,Prato,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Frosinone Calcio,Andrea Gessa,35,Italy,Right Midfield,RM,50000.0,Retired,,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Manuel Pamic,28,Croatia,Left-Back,LB,400000.0,Without Club,,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Enrico Crescenzi,21,Italy,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Daniele Frabotta,21,Italy,Centre-Back,CB,175000.0,Without Club,,,out,summer,Serie A,2015,False,
+Frosinone Calcio,Luis César Fraiz,22,Panama,Left-Back,LB,75000.0,Árabe Unido,Panama,0.0,out,summer,Serie A,2015,True,end of loan
+Frosinone Calcio,Uros Cosic,22,Serbia,Centre-Back,CB,800000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Frosinone Calcio,Federico Fois,17,Italy,Central Midfield,CM,50000.0,Bologna U19,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Frosinone Calcio,Mario Santana,33,Argentina,Second Striker,SS,250000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Frosinone Calcio,Oliver Kragl,25,Germany,Left Midfield,LM,700000.0,SV Ried,Austria,400000.0,in,winter,Serie A,2015,False,
+Frosinone Calcio,Francesco Bardi,24,Italy,Goalkeeper,GK,5000000.0,Inter,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Frosinone Calcio,Vasyl Pryima,24,Ukraine,Centre-Back,CB,800000.0,Torino,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Frosinone Calcio,Arlind Ajeti,22,Albania,Centre-Back,CB,300000.0,Without Club,,,in,winter,Serie A,2015,False,
+Frosinone Calcio,Modibo Diakité,28,France,Centre-Back,CB,1000000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2015,False,
+Frosinone Calcio,Alessio Proietti,19,Italy,Right-Back,RB,,Isola Liri,Italy,0.0,out,winter,Serie A,2015,False,
+Frosinone Calcio,Giuliano Regolanti,21,Italy,Centre-Forward,CF,125000.0,Prato,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Frosinone Calcio,Davide Bertoncini,24,Italy,Centre-Back,CB,200000.0,Modena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Luka Krajnc,20,Slovenia,Centre-Back,CB,1400000.0,Cesena,Italy,5000000.0,in,summer,Serie A,2015,False,
+Genoa CFC,Michael Ventre,19,Italy,Second Striker,SS,100000.0,Inter,Italy,3500000.0,in,summer,Serie A,2015,False,
+Genoa CFC,Leonardo Pavoletti,26,Italy,Centre-Forward,CF,2100000.0,Sassuolo,Italy,3000000.0,in,summer,Serie A,2015,False,
+Genoa CFC,Diego Capel,27,Spain,Left Winger,LW,3500000.0,Sporting CP,Portugal,1300000.0,in,summer,Serie A,2015,False,
+Genoa CFC,Cristian Ansaldi,28,Argentina,Left-Back,LB,6000000.0,Zenit S-Pb,Russia,650000.0,in,summer,Serie A,2015,True,loan with fee
+Genoa CFC,Issa Cissokho,30,Senegal,Right-Back,RB,2000000.0,FC Nantes,France,500000.0,in,summer,Serie A,2015,False,
+Genoa CFC,Serge Gakpé,28,Togo,Right Winger,RW,2500000.0,FC Nantes,France,0.0,in,summer,Serie A,2015,False,
+Genoa CFC,Darko Lazovic,24,Serbia,Left Midfield,LM,3000000.0,Red Star,Serbia,0.0,in,summer,Serie A,2015,False,
+Genoa CFC,Goran Pandev,31,North Macedonia,Second Striker,SS,2000000.0,Galatasaray,Turkey,0.0,in,summer,Serie A,2015,False,
+Genoa CFC,Samir Ujkani,27,Kosovo,Goalkeeper,GK,1000000.0,US Palermo,Italy,0.0,in,summer,Serie A,2015,False,
+Genoa CFC,Ezequiel Muñoz,24,Argentina,Centre-Back,CB,4000000.0,US Palermo,Italy,0.0,in,summer,Serie A,2015,False,
+Genoa CFC,Olivier Ntcham,19,France,Central Midfield,CM,500000.0,Man City U21,England,0.0,in,summer,Serie A,2015,True,free loan
+Genoa CFC,Blerim Dzemaili,29,Switzerland,Central Midfield,CM,4500000.0,Galatasaray,Turkey,0.0,in,summer,Serie A,2015,True,free loan
+Genoa CFC,Diogo Figueiras,24,Portugal,Right-Back,RB,3500000.0,Sevilla FC,Spain,0.0,in,summer,Serie A,2015,True,free loan
+Genoa CFC,Andrea Bertolacci,24,Italy,Central Midfield,CM,5000000.0,AS Roma,Italy,8500000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Luca Antonelli,28,Italy,Left-Back,LB,7500000.0,AC Milan,Italy,4500000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Juraj Kucka,28,Slovakia,Central Midfield,CM,6000000.0,AC Milan,Italy,4000000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Antonino Ragusa,25,Italy,Left Winger,LW,1500000.0,Cesena,Italy,2500000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Luka Krajnc,20,Slovenia,Centre-Back,CB,1400000.0,Cagliari Calcio,Italy,1750000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Giannis Fetfatzidis,24,Greece,Right Winger,RW,3500000.0,Ahli,Saudi Arabia,1500000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Iago Falque,25,Spain,Right Winger,RW,4000000.0,AS Roma,Italy,1000000.0,out,summer,Serie A,2015,True,loan with fee
+Genoa CFC,Leandro Greco,28,Italy,Central Midfield,CM,2800000.0,Hellas Verona,Italy,300000.0,out,summer,Serie A,2015,False,
+Genoa CFC,Rolando Mandragora,18,Italy,Defensive Midfield,DM,800000.0,Pescara,Italy,100000.0,out,summer,Serie A,2015,True,loan with fee
+Genoa CFC,Luca Antonini,33,Italy,Left-Back,LB,500000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,False,
+Genoa CFC,Sebastián Ribas,27,Uruguay,Centre-Forward,CF,,CA Fénix,Uruguay,0.0,out,summer,Serie A,2015,False,
+Genoa CFC,Enzo Di Santantonio,20,France,Defensive Midfield,DM,150000.0,Mantova,Italy,0.0,out,summer,Serie A,2015,False,
+Genoa CFC,Nicola Pasini,24,Italy,Centre-Back,CB,250000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2015,False,
+Genoa CFC,Rodney Strasser,25,Sierra Leone,Defensive Midfield,DM,300000.0,Lupa Cast Rom,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Orlando Held,21,Italy,Centre-Forward,CF,75000.0,Ligorna,Italy,,out,summer,Serie A,2015,False,
+Genoa CFC,Isaac Cofie,23,Ghana,Defensive Midfield,DM,2000000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Moro Alhassan,21,Ghana,Defensive Midfield,DM,150000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Anderson Abrazhda,19,Albania,Left Midfield,LM,50000.0,Casale,Italy,,out,summer,Serie A,2015,False,
+Genoa CFC,Diego Polenta,23,Uruguay,Centre-Back,CB,1600000.0,Nacional,Uruguay,,out,summer,Serie A,2015,False,
+Genoa CFC,Michael Ventre,19,Italy,Second Striker,SS,100000.0,Cosenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Lukas Zima,21,Czech Republic,Goalkeeper,GK,100000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Riccardo Improta,21,Italy,Left Winger,LW,1100000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Francesco Todisco,19,Italy,Centre-Back,CB,75000.0,Rimini,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Aleandro Rosi,28,Italy,Right-Back,RB,500000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Genoa CFC,Enis Nadarevic,27,Austria,Left Winger,LW,900000.0,Trapani,Italy,,out,summer,Serie A,2015,False,
+Genoa CFC,Francesco Di Marco,19,Italy,Left-Back,LB,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Genoa CFC,Alberto Marchiori,22,Italy,Centre-Back,CB,75000.0,Without Club,,,out,summer,Serie A,2015,False,
+Genoa CFC,Zaine Pierre,21,St. Lucia,Defensive Midfield,DM,25000.0,Without Club,,,out,summer,Serie A,2015,False,
+Genoa CFC,Mario Santana,33,Argentina,Second Striker,SS,250000.0,Without Club,,,out,summer,Serie A,2015,False,
+Genoa CFC,Marco Borriello,33,Italy,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Serie A,2015,False,
+Genoa CFC,Zakarya Bergdich,26,Morocco,Left-Back,LB,1500000.0,Real Valladolid,Spain,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Edenilson,25,Brazil,Central Midfield,CM,2000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Maxime Lestienne,23,Belgium,Left Winger,LW,9000000.0,Al-Arabi SC,Qatar,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Facundo Roncaglia,28,Argentina,Right-Back,RB,4000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,M'Baye Niang,20,Senegal,Centre-Forward,CF,5000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Lorenzo Ariaudo,26,Italy,Centre-Back,CB,1000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Leonardo Pavoletti,26,Italy,Centre-Forward,CF,2100000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Genoa CFC,Riccardo Fiamozzi,22,Italy,Right-Back,RB,450000.0,Pescara,Italy,1200000.0,in,winter,Serie A,2015,False,
+Genoa CFC,Luca Rigoni,31,Italy,Central Midfield,CM,5500000.0,US Palermo,Italy,500000.0,in,winter,Serie A,2015,False,
+Genoa CFC,Tim Matavz,27,Slovenia,Centre-Forward,CF,2500000.0,FC Augsburg,Germany,500000.0,in,winter,Serie A,2015,True,loan with fee
+Genoa CFC,Bruno Gomes,19,Brazil,Centre-Forward,CF,100000.0,Internacional,Brazil,400000.0,in,winter,Serie A,2015,True,loan with fee
+Genoa CFC,David Milinkovic,21,France,Left Winger,LW,100000.0,Salernitana,Italy,150000.0,in,winter,Serie A,2015,False,
+Genoa CFC,Suso,22,Spain,Right Winger,RW,4000000.0,AC Milan,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Genoa CFC,Alessio Cerci,28,Italy,Right Winger,RW,8500000.0,Atlético Madrid,Spain,0.0,in,winter,Serie A,2015,True,free loan
+Genoa CFC,Sebastián Gorga,21,Uruguay,Centre-Back,CB,750000.0,Nacional,Uruguay,,in,winter,Serie A,2015,False,
+Genoa CFC,Gabriel Silva,24,Brazil,Left-Back,LB,3500000.0,Udinese Calcio,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Genoa CFC,Rolando Mandragora,18,Italy,Defensive Midfield,DM,2000000.0,Juventus,Italy,9000000.0,out,winter,Serie A,2015,False,
+Genoa CFC,Iago Falque,26,Spain,Right Winger,RW,8000000.0,AS Roma,Italy,7000000.0,out,winter,Serie A,2015,False,
+Genoa CFC,Mauricio Pinilla,30,Chile,Centre-Forward,CF,2200000.0,Atalanta BC,Italy,2000000.0,out,winter,Serie A,2015,False,
+Genoa CFC,Diego Perotti,27,Argentina,Left Winger,LW,9500000.0,AS Roma,Italy,1000000.0,out,winter,Serie A,2015,True,loan with fee
+Genoa CFC,Samir Ujkani,27,Kosovo,Goalkeeper,GK,700000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Sebastián Gorga,21,Uruguay,Centre-Back,CB,750000.0,Nacional,Uruguay,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,David Milinkovic,21,France,Left Winger,LW,100000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Issa Cissokho,30,Senegal,Right-Back,RB,1000000.0,Bari,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Serge Gakpé,28,Togo,Right Winger,RW,2500000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Edoardo Caltabiano,19,Italy,Central Midfield,CM,25000.0,Borgorosso,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Genoa CFC,Rodney Strasser,25,Sierra Leone,Defensive Midfield,DM,200000.0,NK Zagreb,Croatia,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Federico Viviani,23,Italy,Defensive Midfield,DM,2800000.0,AS Roma,Italy,4000000.0,in,summer,Serie A,2015,False,
+Hellas Verona,Eros Pisano,28,Italy,Right-Back,RB,500000.0,US Palermo,Italy,1000000.0,in,summer,Serie A,2015,False,
+Hellas Verona,Filip Helander,22,Sweden,Centre-Back,CB,1500000.0,Malmö FF,Sweden,1000000.0,in,summer,Serie A,2015,False,
+Hellas Verona,Leandro Greco,28,Italy,Central Midfield,CM,2800000.0,Genoa,Italy,300000.0,in,summer,Serie A,2015,False,
+Hellas Verona,Samuel Souprayen,26,France,Centre-Back,CB,1000000.0,Dijon,France,0.0,in,summer,Serie A,2015,False,
+Hellas Verona,Luca Siligardi,27,Italy,Right Winger,RW,3000000.0,AS Livorno,Italy,0.0,in,summer,Serie A,2015,False,
+Hellas Verona,Mattia Valoti,21,Italy,Central Midfield,CM,450000.0,UC AlbinoLeffe,Italy,0.0,in,summer,Serie A,2015,False,
+Hellas Verona,Giampaolo Pazzini,30,Italy,Centre-Forward,CF,4000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,False,
+Hellas Verona,Michelangelo Albertazzi,24,Italy,Left-Back,LB,700000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,False,
+Hellas Verona,Ferdinando Coppola,37,Italy,Goalkeeper,GK,100000.0,Bologna,Italy,,in,summer,Serie A,2015,False,
+Hellas Verona,Cláudio Winck,21,Brazil,Right-Back,RB,750000.0,Internacional,Brazil,0.0,in,summer,Serie A,2015,True,free loan
+Hellas Verona,Pawel Wszolek,23,Poland,Right Winger,RW,700000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Hellas Verona,Matuzalém,35,Brazil,Defensive Midfield,DM,500000.0,Without Club,,,in,summer,Serie A,2015,False,
+Hellas Verona,Francesco Zampano,21,Italy,Right-Back,RB,1000000.0,Pescara,Italy,850000.0,out,summer,Serie A,2015,False,
+Hellas Verona,Fabio Alba,20,Italy,Central Midfield,CM,75000.0,Virtus Verona,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Gennaro Esposito,30,Italy,Defensive Midfield,DM,200000.0,Casalnuovese,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Ivan Martic,24,Switzerland,Right-Back,RB,500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Pierluigi Cappelluzzo,19,Italy,Centre-Forward,CF,200000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Pasquale De Vita,21,Italy,Attacking Midfield,AM,75000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Nenê,31,Brazil,Centre-Forward,CF,400000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Paolo Grossi,30,Italy,Central Midfield,CM,400000.0,Ternana,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Rafael Marques,31,Brazil,Centre-Back,CB,200000.0,Coritiba FC,Brazil,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Francesco Benussi,33,Italy,Goalkeeper,GK,100000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Javier Saviola,33,Argentina,Centre-Forward,CF,1000000.0,River Plate,Argentina,0.0,out,summer,Serie A,2015,False,
+Hellas Verona,Simon Laner,31,Italy,Central Midfield,CM,150000.0,FC Chiasso,Switzerland,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Alejandro González,27,Uruguay,Centre-Back,CB,900000.0,Ternana,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Enrico Bearzotti,18,Italy,Right Midfield,RM,75000.0,Padova,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Gino Ballarini,20,Argentina,Centre-Back,CB,50000.0,Dro,Italy,,out,summer,Serie A,2015,False,
+Hellas Verona,Harallamb Qaqi,21,Albania,Centre-Back,CB,25000.0,FK Partizani,Albania,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Hysen Memolla,23,Albania,Left-Back,LB,125000.0,FC Koper,Slovenia,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Filippo Boni,20,Italy,Centre-Back,CB,25000.0,Prato,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Simone Calvano,22,Italy,Central Midfield,CM,250000.0,Teramo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Lazaros Christodoulopoulos,28,Greece,Right Winger,RW,1600000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Marek Ocelka,18,Slovakia,attack,attack,50000.0,Siena U19,Italy,,out,summer,Serie A,2015,False,
+Hellas Verona,Amadou Samb,27,Senegal,Centre-Forward,CF,150000.0,KF Teuta,Albania,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Alberto Formigoni,20,Italy,attack,attack,25000.0,ASD DAK,Italy,,out,summer,Serie A,2015,False,
+Hellas Verona,Mattia Valoti,21,Italy,Central Midfield,CM,450000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Ernesto Torregrossa,23,Italy,Centre-Forward,CF,550000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Alessandro Gatto,21,Italy,Second Striker,SS,50000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Michael Rabusic,25,Czech Republic,Centre-Forward,CF,350000.0,Slovan Liberec,Czech Republic,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,David Speziale,21,Italy,Attacking Midfield,AM,150000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Nícolas,27,Brazil,Goalkeeper,GK,300000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Hellas Verona,Guillermo Rodríguez,31,Uruguay,Centre-Back,CB,300000.0,Without Club,,,out,summer,Serie A,2015,False,
+Hellas Verona,Alessandro Agostini,35,Italy,Left-Back,LB,300000.0,Retired,,,out,summer,Serie A,2015,False,
+Hellas Verona,Ivano Baldanzeddu,29,Italy,Right-Back,RB,250000.0,Without Club,,,out,summer,Serie A,2015,False,
+Hellas Verona,Oscar Arzamendia,21,Paraguay,Defensive Midfield,DM,100000.0,Without Club,,,out,summer,Serie A,2015,False,
+Hellas Verona,Mattia Valoti,21,Italy,Central Midfield,CM,450000.0,UC AlbinoLeffe,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Mounir Obbadi,32,Morocco,Central Midfield,CM,2000000.0,Monaco,France,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Panagiotis Tachtsidis,24,Greece,Defensive Midfield,DM,3000000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Gustavo Campanharo,23,Brazil,Defensive Midfield,DM,700000.0,Bragantino,Brazil,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Frederik Sörensen,23,Denmark,Centre-Back,CB,2400000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Nicolás López,21,Uruguay,Right Winger,RW,4500000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Davide Brivio,27,Italy,Left-Back,LB,1800000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Leandro Greco,28,Italy,Central Midfield,CM,2800000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Fernandinho,29,Brazil,Left Winger,LW,1500000.0,Grêmio,Brazil,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Eros Pisano,28,Italy,Right-Back,RB,500000.0,US Palermo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Hellas Verona,Ante Rebic,22,Croatia,Left Winger,LW,1000000.0,Fiorentina,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Samir,21,Brazil,Centre-Back,CB,4500000.0,Udinese Calcio,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Richard Marcone,23,Italy,Goalkeeper,GK,150000.0,Trapani,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Luca Marrone,25,Italy,Centre-Back,CB,2200000.0,Juventus,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Dominik Furman,23,Poland,Central Midfield,CM,800000.0,Toulouse,France,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Gilberto,22,Brazil,Right-Back,RB,1500000.0,Fiorentina,Italy,0.0,in,winter,Serie A,2015,True,free loan
+Hellas Verona,Urby Emanuelson,29,Netherlands,Central Midfield,CM,1300000.0,Without Club,,,in,winter,Serie A,2015,False,
+Hellas Verona,Emil Hallfreðsson,31,Iceland,Central Midfield,CM,3000000.0,Udinese Calcio,Italy,1000000.0,out,winter,Serie A,2015,False,
+Hellas Verona,Mattia Spezzani,23,Italy,Central Midfield,CM,125000.0,Ischia,Italy,0.0,out,winter,Serie A,2015,False,
+Hellas Verona,Matuzalém,35,Brazil,Defensive Midfield,DM,300000.0,Miami FC,United States,0.0,out,winter,Serie A,2015,False,
+Hellas Verona,Rafael Márquez,36,Mexico,Centre-Back,CB,500000.0,Atlas,Mexico,,out,winter,Serie A,2015,False,
+Hellas Verona,Simone Calvano,22,Italy,Central Midfield,CM,250000.0,Tuttocuoio,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Mattia Zaccagni,20,Italy,Attacking Midfield,AM,300000.0,Cittadella,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Rafael,33,Brazil,Goalkeeper,GK,1000000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Jacopo Sala,24,Italy,Right-Back,RB,2500000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,David Speziale,21,Italy,Attacking Midfield,AM,125000.0,Pro Piacenza,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Mattia Valoti,22,Italy,Central Midfield,CM,400000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Hellas Verona,Riccardo Ravasi,21,Italy,Centre-Forward,CF,75000.0,Pro Patria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Geoffrey Kondogbia,22,Central African Republic,Central Midfield,CM,16000000.0,Monaco,France,36000000.0,in,summer,Serie A,2015,False,
+Inter Milan,Ivan Perisic,26,Croatia,Left Winger,LW,13000000.0,VfL Wolfsburg,Germany,19000000.0,in,summer,Serie A,2015,False,
+Inter Milan,Xherdan Shaqiri,23,Switzerland,Right Winger,RW,18000000.0,FC Bayern,Germany,15000000.0,in,summer,Serie A,2015,False,
+Inter Milan,Jeison Murillo,23,Colombia,Centre-Back,CB,8000000.0,Granada CF,Spain,8000000.0,in,summer,Serie A,2015,False,
+Inter Milan,Felipe Melo,32,Brazil,Defensive Midfield,DM,7000000.0,Galatasaray,Turkey,4200000.0,in,summer,Serie A,2015,False,
+Inter Milan,Miranda,30,Brazil,Centre-Back,CB,22000000.0,Atlético Madrid,Spain,4000000.0,in,summer,Serie A,2015,True,loan with fee
+Inter Milan,Davide Santon,24,Italy,Right-Back,RB,7000000.0,Newcastle,England,3700000.0,in,summer,Serie A,2015,False,
+Inter Milan,Vincenzo Tommasone,20,Italy,Second Striker,SS,25000.0,Genoa U19,Italy,3700000.0,in,summer,Serie A,2015,False,
+Inter Milan,Stevan Jovetic,25,Montenegro,Centre-Forward,CF,15000000.0,Man City,England,2500000.0,in,summer,Serie A,2015,True,loan with fee
+Inter Milan,Adem Ljajic,23,Serbia,Attacking Midfield,AM,13500000.0,AS Roma,Italy,1750000.0,in,summer,Serie A,2015,True,loan with fee
+Inter Milan,Martín Montoya,24,Spain,Right-Back,RB,10000000.0,FC Barcelona,Spain,1300000.0,in,summer,Serie A,2015,True,loan with fee
+Inter Milan,Alex Telles,22,Brazil,Left-Back,LB,6500000.0,Galatasaray,Turkey,1300000.0,in,summer,Serie A,2015,True,loan with fee
+Inter Milan,Francesco Forte,22,Italy,Centre-Forward,CF,250000.0,AC Pisa,Italy,,in,summer,Serie A,2015,False,
+Inter Milan,Rey Manaj,18,Albania,Centre-Forward,CF,175000.0,Cremonese,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Inter Milan,Evans Kondogbia,26,Central African Republic,Centre-Forward,CF,100000.0,AC Arles,France,,in,summer,Serie A,2015,False,
+Inter Milan,Jonathan Biabiany,27,France,Right Winger,RW,4000000.0,Without Club,,,in,summer,Serie A,2015,False,
+Inter Milan,Mateo Kovacic,21,Croatia,Central Midfield,CM,22000000.0,Real Madrid,Spain,38000000.0,out,summer,Serie A,2015,False,
+Inter Milan,Xherdan Shaqiri,23,Switzerland,Right Winger,RW,17000000.0,Stoke City,England,17000000.0,out,summer,Serie A,2015,False,
+Inter Milan,Hernanes,30,Brazil,Central Midfield,CM,14000000.0,Juventus,Italy,13000000.0,out,summer,Serie A,2015,False,
+Inter Milan,Ricardo Álvarez,27,Argentina,Central Midfield,CM,11000000.0,Sunderland,England,10500000.0,out,summer,Serie A,2015,False,
+Inter Milan,Ibrahima Mbaye,20,Senegal,Right-Back,RB,4000000.0,Bologna,Italy,3500000.0,out,summer,Serie A,2015,False,
+Inter Milan,Michael Ventre,19,Italy,Second Striker,SS,100000.0,Genoa,Italy,3500000.0,out,summer,Serie A,2015,False,
+Inter Milan,Rubén Botta,25,Argentina,Attacking Midfield,AM,3000000.0,CF Pachuca,Mexico,2700000.0,out,summer,Serie A,2015,False,
+Inter Milan,Alfred Duncan,22,Ghana,Central Midfield,CM,4500000.0,Sampdoria,Italy,2600000.0,out,summer,Serie A,2015,False,
+Inter Milan,Joel Obi,24,Nigeria,Central Midfield,CM,2000000.0,Torino,Italy,2200000.0,out,summer,Serie A,2015,False,
+Inter Milan,Zdravko Kuzmanovic,27,Serbia,Central Midfield,CM,3000000.0,FC Basel,Switzerland,2000000.0,out,summer,Serie A,2015,False,
+Inter Milan,Lorenzo Crisetig,22,Italy,Defensive Midfield,DM,4000000.0,Bologna,Italy,1800000.0,out,summer,Serie A,2015,True,loan with fee
+Inter Milan,Rene Krhin,25,Slovenia,Central Midfield,CM,3000000.0,Granada CF,Spain,1300000.0,out,summer,Serie A,2015,False,
+Inter Milan,Marco Andreolli,29,Italy,Centre-Back,CB,2500000.0,Sevilla FC,Spain,1000000.0,out,summer,Serie A,2015,True,loan with fee
+Inter Milan,Lukas Spendlhofer,22,Austria,Centre-Back,CB,1000000.0,Sturm Graz,Austria,450000.0,out,summer,Serie A,2015,False,
+Inter Milan,Riccardo Bocalon,26,Italy,Centre-Forward,CF,450000.0,Alessandria,Italy,270000.0,out,summer,Serie A,2015,False,
+Inter Milan,Felipe,31,Brazil,Centre-Back,CB,700000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Ivica Ivusic,20,Croatia,Goalkeeper,GK,75000.0,NK Istra,Croatia,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Vid Belec,25,Slovenia,Goalkeeper,GK,1500000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Matteo Colombi,21,Italy,Centre-Forward,CF,100000.0,OltrepòVoghera,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Cristiano Biraghi,22,Italy,Left-Back,LB,2000000.0,Granada CF,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Valeriano Nchama,20,Equatorial Guinea,Central Midfield,CM,25000.0,Montebelluna,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Matías Silvestre,30,Argentina,Centre-Back,CB,3700000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Davide Moreo,20,Italy,Defensive Midfield,DM,50000.0,Caratese,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Leonardo Longo,20,Italy,Right-Back,RB,50000.0,Mantova,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Tidjane Baldé,18,Guinea-Bissau,Left Winger,LW,75000.0,Neves FC,Portugal,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Giovanni Zaro,21,Italy,Centre-Back,CB,100000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2015,False,
+Inter Milan,Simone Pasa,21,Italy,Defensive Midfield,DM,250000.0,Pordenone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Andrea Mira,20,Italy,Defensive Midfield,DM,50000.0,Piacenza,Italy,,out,summer,Serie A,2015,False,
+Inter Milan,Saphir Taider,23,Algeria,Central Midfield,CM,6000000.0,Bologna,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Lorenzo Tassi,20,Italy,Central Midfield,CM,500000.0,Savona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Ítalo,19,Brazil,Centre-Back,CB,50000.0,Bologna U19,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Stefano Dalla Riva,20,Italy,Left-Back,LB,25000.0,Castelfidardo,Italy,,out,summer,Serie A,2015,False,
+Inter Milan,Diego Mella,22,Italy,Attacking Midfield,AM,75000.0,ASD Villafranca,Italy,,out,summer,Serie A,2015,False,
+Inter Milan,Niccolò Belloni,21,Italy,Right Winger,RW,450000.0,Ternana,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Daniel Bessa,22,Italy,Central Midfield,CM,500000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Isaac Donkor,19,Ghana,Centre-Back,CB,500000.0,Bari,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Francesco Forte,22,Italy,Centre-Forward,CF,250000.0,Cremonese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Fabio Eguelfi,20,Italy,Left-Back,LB,100000.0,Cremonese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Andrea Bandini,21,Italy,Right-Back,RB,250000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Evans Kondogbia,26,Central African Republic,Centre-Forward,CF,100000.0,Renate,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Andrea Romanò,22,Italy,Central Midfield,CM,200000.0,Renate,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Francesco Bardi,23,Italy,Goalkeeper,GK,7000000.0,Espanyol,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Alessandro Feleppa,19,Italy,Goalkeeper,GK,50000.0,Pinerolo,Italy,,out,summer,Serie A,2015,False,
+Inter Milan,Nicolò Di Stefano,20,Italy,Centre-Back,CB,25000.0,Fenegrò,Italy,,out,summer,Serie A,2015,False,
+Inter Milan,George Puscas,19,Romania,Centre-Forward,CF,1000000.0,Bari,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Samuele Longo,23,Italy,Centre-Forward,CF,1500000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Inter Milan,Jacopo Galimberti,22,Italy,Centre-Back,CB,100000.0,Without Club,,,out,summer,Serie A,2015,False,
+Inter Milan,Jonathan,29,Brazil,Right-Back,RB,6000000.0,Without Club,,,out,summer,Serie A,2015,False,
+Inter Milan,Adama Fofana,25,Cote d'Ivoire,Centre-Forward,CF,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Inter Milan,Hugo Campagnaro,35,Argentina,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Serie A,2015,False,
+Inter Milan,Ezequiel Schelotto,26,Italy,Right-Back,RB,4000000.0,Without Club,,,out,summer,Serie A,2015,False,
+Inter Milan,Lukas Podolski,30,Germany,Second Striker,SS,12000000.0,Arsenal,England,0.0,out,summer,Serie A,2015,True,end of loan
+Inter Milan,Xherdan Shaqiri,23,Switzerland,Right Winger,RW,18000000.0,FC Bayern,Germany,0.0,out,summer,Serie A,2015,True,end of loan
+Inter Milan,Federico Bonazzoli,18,Italy,Centre-Forward,CF,2500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Inter Milan,Davide Santon,24,Italy,Right-Back,RB,7000000.0,Newcastle,England,0.0,out,summer,Serie A,2015,True,end of loan
+Inter Milan,Éder,29,Italy,Second Striker,SS,15000000.0,Sampdoria,Italy,2000000.0,in,winter,Serie A,2015,True,loan with fee
+Inter Milan,Edmund Hottor,22,Ghana,Central Midfield,CM,50000.0,Without Club,,,in,winter,Serie A,2015,False,
+Inter Milan,Fredy Guarín,29,Colombia,Central Midfield,CM,10500000.0,SH Shenhua,China,13000000.0,out,winter,Serie A,2015,False,
+Inter Milan,Álvaro Pereira,30,Uruguay,Left-Back,LB,2000000.0,Estudiantes,Argentina,2500000.0,out,winter,Serie A,2015,False,
+Inter Milan,Bocar Djumo,21,Portugal,Centre-Forward,CF,100000.0,Inter Leipzig,Germany,0.0,out,winter,Serie A,2015,False,
+Inter Milan,Vincenzo Tommasone,20,Italy,Second Striker,SS,25000.0,Paganese,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Fabio Eguelfi,20,Italy,Left-Back,LB,100000.0,Prato,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Francesco Forte,22,Italy,Centre-Forward,CF,250000.0,Teramo,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Dodô,23,Brazil,Left-Back,LB,5500000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Evans Kondogbia,26,Central African Republic,Centre-Forward,CF,75000.0,Jumilla,Spain,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Federico Dimarco,18,Italy,Left-Back,LB,600000.0,Ascoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Francesco Bardi,24,Italy,Goalkeeper,GK,5000000.0,Frosinone,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Andrea Ranocchia,27,Italy,Centre-Back,CB,7500000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Gaston Camara,19,Guinea,Right Winger,RW,400000.0,Modena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Geremy Lombardi,19,Dominican Republic,Centre-Forward,CF,100000.0,Monza,Italy,,out,winter,Serie A,2015,False,
+Inter Milan,Edmund Hottor,22,Ghana,Central Midfield,CM,50000.0,Atlético CP,Portugal,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Andrea Pinton,19,Italy,Centre-Back,CB,50000.0,Vicenza,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Inter Milan,Nemanja Vidic‎,34,Serbia,Centre-Back,CB,500000.0,Retired,,,out,winter,Serie A,2015,False,
+Juventus FC,Paulo Dybala,21,Argentina,Second Striker,SS,23000000.0,US Palermo,Italy,40000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Miralem Pjanić,26,Bosnia-Herzegovina,Central Midfield,CM,35000000.0,AS Roma,Italy,32000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Alex Sandro,24,Brazil,Left-Back,LB,20000000.0,FC Porto,Portugal,26000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Mario Mandzukic,29,Croatia,Centre-Forward,CF,26000000.0,Atlético Madrid,Spain,19000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Simone Zaza,24,Italy,Centre-Forward,CF,11000000.0,Sassuolo,Italy,18000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Roberto Pereyra,24,Argentina,Attacking Midfield,AM,13000000.0,Udinese Calcio,Italy,15000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Hernanes,30,Brazil,Central Midfield,CM,14000000.0,Inter,Italy,13000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Alberto Brignoli,23,Italy,Goalkeeper,GK,1500000.0,Ternana,Italy,2350000.0,in,summer,Serie A,2015,False,
+Juventus FC,Eric Lanini,21,Italy,Centre-Forward,CF,250000.0,US Palermo,Italy,2000000.0,in,summer,Serie A,2015,False,
+Juventus FC,Juan Cuadrado,27,Colombia,Right-Back,RB,30000000.0,Chelsea,England,1800000.0,in,summer,Serie A,2015,True,loan with fee
+Juventus FC,Andrés Tello,18,Colombia,Central Midfield,CM,500000.0,Envigado,Colombia,1600000.0,in,summer,Serie A,2015,False,
+Juventus FC,Mame Thiam,22,Senegal,Left Winger,LW,700000.0,Virtus Lanciano,Italy,1400000.0,in,summer,Serie A,2015,False,
+Juventus FC,Joyce Anacoura,20,Italy,Goalkeeper,GK,125000.0,Parma,Italy,750000.0,in,summer,Serie A,2015,False,
+Juventus FC,Mario Lemina,21,Gabon,Defensive Midfield,DM,3000000.0,Marseille,France,500000.0,in,summer,Serie A,2015,True,loan with fee
+Juventus FC,Gregorio Luperini,21,Italy,Central Midfield,CM,275000.0,Pontedera,Italy,99000.0,in,summer,Serie A,2015,False,
+Juventus FC,Neto,25,Brazil,Goalkeeper,GK,9000000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2015,False,
+Juventus FC,Alberto Cerri,19,Italy,Centre-Forward,CF,3200000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+Juventus FC,Sami Khedira,28,Germany,Central Midfield,CM,20000000.0,Real Madrid,Spain,0.0,in,summer,Serie A,2015,False,
+Juventus FC,Stefano Beltrame,22,Italy,Attacking Midfield,AM,350000.0,Sampdoria,Italy,,in,summer,Serie A,2015,False,
+Juventus FC,Arturo Vidal,28,Chile,Central Midfield,CM,42000000.0,FC Bayern,Germany,39250000.0,out,summer,Serie A,2015,False,
+Juventus FC,Angelo Ogbonna,27,Italy,Centre-Back,CB,9000000.0,West Ham,England,11000000.0,out,summer,Serie A,2015,False,
+Juventus FC,Domenico Berardi,20,Italy,Right Winger,RW,15000000.0,Sassuolo,Italy,10000000.0,out,summer,Serie A,2015,False,
+Juventus FC,Kingsley Coman,19,France,Left Winger,LW,3500000.0,FC Bayern,Germany,7000000.0,out,summer,Serie A,2015,True,loan with fee
+Juventus FC,Carlos Tevez,31,Argentina,Second Striker,SS,23000000.0,Boca Juniors,Argentina,6500000.0,out,summer,Serie A,2015,False,
+Juventus FC,Frederik Sörensen,23,Denmark,Centre-Back,CB,2000000.0,1. FC Köln,Germany,1780000.0,out,summer,Serie A,2015,False,
+Juventus FC,Edoardo Goldaniga,21,Italy,Centre-Back,CB,800000.0,US Palermo,Italy,1500000.0,out,summer,Serie A,2015,False,
+Juventus FC,Mbaye Diagne,23,Senegal,Centre-Forward,CF,800000.0,Újpest FC,Hungary,1150000.0,out,summer,Serie A,2015,False,
+Juventus FC,Mauricio Isla,27,Chile,Right-Back,RB,9000000.0,Marseille,France,1000000.0,out,summer,Serie A,2015,True,loan with fee
+Juventus FC,Andrés Tello,18,Colombia,Central Midfield,CM,500000.0,Cagliari Calcio,Italy,1000000.0,out,summer,Serie A,2015,True,loan with fee
+Juventus FC,Alberto Cerri,19,Italy,Centre-Forward,CF,3200000.0,Cagliari Calcio,Italy,1000000.0,out,summer,Serie A,2015,True,loan with fee
+Juventus FC,Ouasim Bouy,22,Morocco,Defensive Midfield,DM,450000.0,PEC Zwolle,Netherlands,100000.0,out,summer,Serie A,2015,True,loan with fee
+Juventus FC,Fernando Llorente,30,Spain,Centre-Forward,CF,12000000.0,Sevilla FC,Spain,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Laurentiu Branescu,21,Romania,Goalkeeper,GK,400000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Davide Cais,21,Italy,Centre-Forward,CF,100000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Stefano Padovan,21,Italy,Centre-Forward,CF,250000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Simone Pepe,31,Italy,Right Winger,RW,500000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Gianmarco Vannucchi,19,Italy,Goalkeeper,GK,50000.0,Alessandria,Italy,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Albert Roussos,19,Greece,Centre-Back,CB,100000.0,Cercle Brugge,Belgium,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Elvis Kabashi,21,Albania,Central Midfield,CM,100000.0,Pontedera,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Marcelo Djaló,22,Guinea-Bissau,Centre-Back,CB,200000.0,UCAM Murcia,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Marcelo Djaló,21,Guinea-Bissau,Centre-Back,CB,,Girona,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Marco Di Benedetto,19,Italy,Left Winger,LW,75000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Andrea Pirlo,36,Italy,Defensive Midfield,DM,1000000.0,NYCFC,United States,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Marco Storari,38,Italy,Goalkeeper,GK,500000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+Juventus FC,James Troisi,27,Australia,Attacking Midfield,AM,1500000.0,Ittihad,Saudi Arabia,0.0,out,summer,Serie A,2015,False,
+Juventus FC,Cristian Bunino,19,Italy,Centre-Forward,CF,300000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Anastasios Donis,18,Greece,Centre-Forward,CF,300000.0,FC Lugano,Switzerland,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Andrea Schiavone,22,Italy,Defensive Midfield,DM,900000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Nicolò Curti,20,Italy,Centre-Back,CB,75000.0,Pontedera,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Matteo Liviero,22,Italy,Left-Back,LB,200000.0,Lecce,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Gregorio Luperini,21,Italy,Central Midfield,CM,275000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Nicola Leali,22,Italy,Goalkeeper,GK,5000000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Fausto Rossi,24,Italy,Central Midfield,CM,2500000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Timothy Nocchi,25,Italy,Goalkeeper,GK,150000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Michele Cavion,20,Italy,Central Midfield,CM,200000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Vajebah Sakor,19,Norway,Defensive Midfield,DM,150000.0,KVC Westerlo,Belgium,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Marcel Büchel,24,Liechtenstein,Central Midfield,CM,600000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Filippo Penna,20,Italy,Centre-Back,CB,75000.0,Virtus Lanciano,Italy,,out,summer,Serie A,2015,False,
+Juventus FC,Luca Marrone,25,Italy,Centre-Back,CB,2500000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Paolo De Ceglie,28,Italy,Left-Back,LB,1500000.0,Marseille,France,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Francesco Margiotta,22,Italy,Centre-Forward,CF,150000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Vykintas Slivka,20,Lithuania,Central Midfield,CM,75000.0,FC Den Bosch,Netherlands,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Alberto Brignoli,23,Italy,Goalkeeper,GK,1500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Cristian Pasquato,26,Italy,Second Striker,SS,1400000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Edoardo Ceria,20,Italy,Right Winger,RW,150000.0,Atalanta BC,Italy,,out,summer,Serie A,2015,False,
+Juventus FC,Pol García,20,Spain,Centre-Back,CB,300000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Giacomo Volpe,19,Italy,Goalkeeper,GK,25000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Lorenzo Benucci,18,Italy,Left-Back,LB,50000.0,Prato,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Mame Thiam,22,Senegal,Left Winger,LW,700000.0,Zulte Waregem,Belgium,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Carlo Pinsoglio,25,Italy,Goalkeeper,GK,1000000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Christian Tavanti,20,Italy,Right-Back,RB,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Matteo Gerbaudo,20,Italy,Central Midfield,CM,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Luca Barlocco,20,Italy,Left-Back,LB,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Eros Castelletto,19,Italy,Central Midfield,CM,50000.0,Pordenone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Leonardo Spinazzola,22,Italy,Left-Back,LB,600000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Joyce Anacoura,20,Italy,Goalkeeper,GK,125000.0,Rimini,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Alessandro Degrassi,19,Italy,Left-Back,LB,50000.0,D. Porto Tolle,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Eric Lanini,21,Italy,Centre-Forward,CF,250000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Héctor Otín,19,Spain,Right Winger,RW,75000.0,Virtus Entella,Italy,,out,summer,Serie A,2015,False,
+Juventus FC,Gabriel,21,Brazil,Defensive Midfield,DM,1000000.0,CD Leganés,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Alberto Gallinetta,23,Italy,Goalkeeper,GK,100000.0,Cercle Brugge,Belgium,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Carlo Ilari,23,Italy,Central Midfield,CM,100000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Lorenzo Rosseti,20,Italy,Centre-Forward,CF,900000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Stefano Beltrame,22,Italy,Attacking Midfield,AM,350000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Juventus FC,Rassoul Gueye,19,Senegal,Centre-Back,CB,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Juventus FC,Roberto Pereyra,24,Argentina,Attacking Midfield,AM,13000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Juventus FC,Rômulo,28,Italy,Central Midfield,CM,7500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Juventus FC,Alessandro Matri,30,Italy,Centre-Forward,CF,6000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Juventus FC,Rolando Mandragora,18,Italy,Defensive Midfield,DM,2000000.0,Genoa,Italy,9000000.0,in,winter,Serie A,2015,False,
+Juventus FC,Albert Roussos,19,Greece,Centre-Back,CB,100000.0,Panthrakikos,Greece,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Alessandro Degrassi,19,Italy,Left-Back,LB,50000.0,AS Gubbio,Italy,0.0,out,winter,Serie A,2015,False,
+Juventus FC,Zoran Josipovic,20,Switzerland,Centre-Forward,CF,300000.0,FC Aarau,Switzerland,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Gregorio Luperini,21,Italy,Central Midfield,CM,200000.0,Pontedera,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Mattia Vitale,18,Italy,Left Midfield,LM,400000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Rolando Mandragora,18,Italy,Defensive Midfield,DM,2000000.0,Pescara,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Pol García,20,Spain,Centre-Back,CB,400000.0,Crotone,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Luca Marrone,25,Italy,Centre-Back,CB,2200000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Eric Lanini,21,Italy,Centre-Forward,CF,300000.0,Como,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Alberto Gallinetta,23,Italy,Goalkeeper,GK,100000.0,Naxxar Lions FC,Malta,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Younes Bnou Marzouk,19,Morocco,Centre-Forward,CF,200000.0,SCO Angers B,France,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Stefano Beltrame,22,Italy,Attacking Midfield,AM,300000.0,Pordenone,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Cristian Pasquato,26,Italy,Second Striker,SS,1300000.0,Pescara,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Juventus FC,Vajebah Sakor,19,Norway,Defensive Midfield,DM,100000.0,Vålerenga,Norway,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Sergej Milinković-Savić,20,Serbia,Central Midfield,CM,4000000.0,KRC Genk,Belgium,18000000.0,in,summer,Serie A,2015,False,
+SS Lazio,Dusan Basta,30,Serbia,Right-Back,RB,5500000.0,Udinese Calcio,Italy,10500000.0,in,summer,Serie A,2015,False,
+SS Lazio,Ricardo Kishna,20,Netherlands,Left Winger,LW,2750000.0,Ajax,Netherlands,3000000.0,in,summer,Serie A,2015,False,
+SS Lazio,Maurício,26,Brazil,Centre-Back,CB,5000000.0,Sporting CP,Portugal,2650000.0,in,summer,Serie A,2015,False,
+SS Lazio,Patric,22,Spain,Centre-Back,CB,800000.0,FC Barcelona B,Spain,500000.0,in,summer,Serie A,2015,False,
+SS Lazio,Wesley Hoedt,21,Netherlands,Centre-Back,CB,1500000.0,AZ Alkmaar,Netherlands,0.0,in,summer,Serie A,2015,False,
+SS Lazio,Alessandro Matri,31,Italy,Centre-Forward,CF,5000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,True,free loan
+SS Lazio,Ravel Morrison,22,Jamaica,Attacking Midfield,AM,3500000.0,Without Club,,,in,summer,Serie A,2015,False,
+SS Lazio,Luis Pedro Cavanda,24,Belgium,Right-Back,RB,2000000.0,Trabzonspor,Turkey,1750000.0,out,summer,Serie A,2015,False,
+SS Lazio,Emiliano Alfaro,27,Uruguay,Centre-Forward,CF,900000.0,Buriram Utd.,Thailand,420000.0,out,summer,Serie A,2015,False,
+SS Lazio,Lorik Cana,32,Albania,Defensive Midfield,DM,1300000.0,FC Nantes,France,200000.0,out,summer,Serie A,2015,False,
+SS Lazio,Bruno Pereirinha,27,Portugal,Right Winger,RW,600000.0,Atlético-PR,Brazil,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Ettore Mendicino,25,Italy,Centre-Forward,CF,275000.0,Siena,Italy,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Luca Crescenzi,23,Italy,Centre-Back,CB,75000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Ederson,29,Brazil,Attacking Midfield,AM,1000000.0,Flamengo,Brazil,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Mamadou Tounkara,19,Senegal,Centre-Forward,CF,500000.0,Crotone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Diego Novaretti,30,Argentina,Centre-Back,CB,500000.0,León,Mexico,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Cristian Ledesma,32,Italy,Defensive Midfield,DM,1000000.0,Santos FC,Brazil,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Michaël Ciani,31,France,Centre-Back,CB,1500000.0,Sporting CP,Portugal,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Alessandro Berardi,24,Italy,Goalkeeper,GK,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2015,False,
+SS Lazio,Antonio Rozzi,21,Italy,Centre-Forward,CF,450000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Cristiano Lombardi,20,Italy,Right Winger,RW,250000.0,Ancona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Álvaro González,30,Uruguay,Central Midfield,CM,2500000.0,Atlas,Mexico,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Brayan Perea,22,Colombia,Centre-Forward,CF,1500000.0,Troyes,France,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Enrico Zampa,23,Italy,Defensive Midfield,DM,175000.0,Ternana,Italy,,out,summer,Serie A,2015,False,
+SS Lazio,Vinícius,22,Brazil,Left-Back,LB,350000.0,FC Zürich,Switzerland,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Luca Crecco,19,Italy,Central Midfield,CM,1000000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Lorenzo Filippini,20,Italy,Left-Back,LB,250000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Thomas Strakosha,20,Albania,Goalkeeper,GK,300000.0,Salernitana,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Joseph Marie Minala,18,Cameroon,Central Midfield,CM,1000000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Josip Elez,21,Croatia,Centre-Back,CB,350000.0,Aarhus GF,Denmark,0.0,out,summer,Serie A,2015,True,free loan
+SS Lazio,Giuseppe Sculli,34,Italy,Left Winger,LW,100000.0,Without Club,,,out,summer,Serie A,2015,False,
+SS Lazio,Emiliano Ilari,21,Italy,Right-Back,RB,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+SS Lazio,Riccardo Perpetuini,24,Italy,Central Midfield,CM,175000.0,Without Club,,,out,summer,Serie A,2015,False,
+SS Lazio,Alessandro Di Mario,23,Italy,Centre-Forward,CF,25000.0,Without Club,,,out,summer,Serie A,2015,False,
+SS Lazio,Dusan Basta,30,Serbia,Right-Back,RB,5500000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+SS Lazio,Maurício,26,Brazil,Centre-Back,CB,5000000.0,Sporting CP,Portugal,0.0,out,summer,Serie A,2015,True,end of loan
+SS Lazio,Ivan Vargic,28,Croatia,Goalkeeper,GK,1500000.0,HNK Rijeka,Croatia,2600000.0,in,winter,Serie A,2015,False,
+SS Lazio,Milan Bisevac,32,Serbia,Centre-Back,CB,2000000.0,Olympique Lyon,France,0.0,in,winter,Serie A,2015,False,
+SS Lazio,Ronaldo,25,Brazil,Defensive Midfield,DM,300000.0,FC Empoli,Italy,0.0,in,winter,Serie A,2015,False,
+SS Lazio,Ronaldo,25,Brazil,Defensive Midfield,DM,300000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Mamadou Tounkara,20,Senegal,Centre-Forward,CF,500000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Ivan Vargic,28,Croatia,Goalkeeper,GK,1500000.0,HNK Rijeka,Croatia,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Luca Crecco,20,Italy,Central Midfield,CM,850000.0,Modena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Joseph Marie Minala,19,Cameroon,Central Midfield,CM,800000.0,Bari,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Christopher Oikonomidis,20,Australia,Left Winger,LW,200000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Franjo Prce,20,Croatia,Centre-Back,CB,150000.0,Salernitana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SS Lazio,Antonio Rozzi,21,Italy,Centre-Forward,CF,400000.0,Siena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Allan,24,Brazil,Central Midfield,CM,11500000.0,Udinese Calcio,Italy,11500000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Vlad Chiriches,25,Romania,Centre-Back,CB,6000000.0,Spurs,England,7000000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Mirko Valdifiori,29,Italy,Defensive Midfield,DM,6000000.0,FC Empoli,Italy,5500000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Elseid Hysaj,21,Albania,Right-Back,RB,4500000.0,FC Empoli,Italy,5000000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Pepe Reina,32,Spain,Goalkeeper,GK,4000000.0,FC Bayern,Germany,2000000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Raffaele Maiello,24,Italy,Defensive Midfield,DM,1500000.0,Crotone,Italy,1500000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Jacopo Dezi,23,Italy,Central Midfield,CM,1300000.0,Crotone,Italy,300000.0,in,summer,Serie A,2015,False,
+SSC Napoli,Nathaniel Chalobah,20,England,Defensive Midfield,DM,4000000.0,Chelsea,England,250000.0,in,summer,Serie A,2015,True,loan with fee
+SSC Napoli,Gabriel,22,Brazil,Goalkeeper,GK,2800000.0,AC Milan,Italy,0.0,in,summer,Serie A,2015,True,free loan
+SSC Napoli,Gökhan Inler,31,Switzerland,Defensive Midfield,DM,7500000.0,Leicester,England,7000000.0,out,summer,Serie A,2015,False,
+SSC Napoli,Eduardo Vargas,25,Chile,Second Striker,SS,6000000.0,TSG Hoffenheim,Germany,6000000.0,out,summer,Serie A,2015,False,
+SSC Napoli,Walter Gargano,30,Uruguay,Defensive Midfield,DM,5000000.0,Monterrey,Mexico,1500000.0,out,summer,Serie A,2015,False,
+SSC Napoli,Luigi Sepe,24,Italy,Goalkeeper,GK,4000000.0,Fiorentina,Italy,750000.0,out,summer,Serie A,2015,True,loan with fee
+SSC Napoli,Raffaele Maiello,24,Italy,Defensive Midfield,DM,1500000.0,FC Empoli,Italy,750000.0,out,summer,Serie A,2015,True,loan with fee
+SSC Napoli,Raffaele Maiello,23,Italy,Defensive Midfield,DM,1500000.0,Crotone,Italy,60000.0,out,summer,Serie A,2015,False,
+SSC Napoli,Roberto Colombo,39,Italy,Goalkeeper,GK,50000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+SSC Napoli,Duván Zapata,24,Colombia,Centre-Forward,CF,7500000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Miguel Britos,30,Uruguay,Centre-Back,CB,3500000.0,Watford,England,0.0,out,summer,Serie A,2015,False,
+SSC Napoli,Gennaro Tutino,18,Italy,Left Winger,LW,500000.0,Avellino,Italy,30000.0,out,summer,Serie A,2015,True,loan with fee
+SSC Napoli,Mariano Andújar,32,Argentina,Goalkeeper,GK,2000000.0,Estudiantes,Argentina,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Giuseppe Fornito,20,Italy,Central Midfield,CM,150000.0,Rimini,Italy,,out,summer,Serie A,2015,False,
+SSC Napoli,Nicolao Dumitru,23,Italy,Left Winger,LW,750000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Soma Novothny,21,Hungary,Centre-Forward,CF,200000.0,Diósgyőr,Hungary,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Daniele Celiento,20,Italy,Centre-Back,CB,75000.0,Siena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Emanuele Allegra,21,Italy,Centre-Back,CB,75000.0,Martina Franca,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Giuseppe Palma,21,Italy,Central Midfield,CM,150000.0,Ischia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Igor Lasicki,20,Poland,Centre-Back,CB,175000.0,Maceratese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Nikita Contini,19,Italy,Goalkeeper,GK,150000.0,SPAL,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Giuseppe Nicolao,21,Italy,Left-Back,LB,100000.0,Melfi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Roberto Insigne,21,Italy,Right Winger,RW,450000.0,Avellino,Italy,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Bruno Uvini,24,Brazil,Centre-Back,CB,500000.0,Twente FC,Netherlands,0.0,out,summer,Serie A,2015,True,free loan
+SSC Napoli,Francis Obeng,29,Ghana,Central Midfield,CM,175000.0,Without Club,,,out,summer,Serie A,2015,False,
+SSC Napoli,Daniele Donnarumma,23,Italy,Left-Back,LB,75000.0,Without Club,,,out,summer,Serie A,2015,False,
+SSC Napoli,Giandomenico Mesto,33,Italy,Right-Back,RB,700000.0,Without Club,,,out,summer,Serie A,2015,False,
+SSC Napoli,Michu,29,Spain,Second Striker,SS,7500000.0,Swansea,England,0.0,out,summer,Serie A,2015,True,end of loan
+SSC Napoli,Alberto Grassi,20,Italy,Central Midfield,CM,2000000.0,Atalanta BC,Italy,8000000.0,in,winter,Serie A,2015,False,
+SSC Napoli,Vasco Regini,25,Italy,Left-Back,LB,2700000.0,Sampdoria,Italy,1500000.0,in,winter,Serie A,2015,True,loan with fee
+SSC Napoli,Eddy Gnahoré,22,France,Central Midfield,CM,300000.0,Carrarese,Italy,150000.0,in,winter,Serie A,2015,False,
+SSC Napoli,Henrique,29,Brazil,Centre-Back,CB,2000000.0,Fluminense,Brazil,2000000.0,out,winter,Serie A,2015,False,
+SSC Napoli,Josip Radosevic,21,Croatia,Defensive Midfield,DM,1500000.0,SD Eibar,Spain,200000.0,out,winter,Serie A,2015,True,loan with fee
+SSC Napoli,Eddy Gnahoré,22,France,Central Midfield,CM,300000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Jonathan de Guzmán,28,Netherlands,Central Midfield,CM,4000000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Felice Gaetano,19,Italy,Central Midfield,CM,75000.0,Taranto,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Ignacio Fideleff,26,Argentina,Centre-Back,CB,600000.0,Nacional,Paraguay,,out,winter,Serie A,2015,False,
+SSC Napoli,Camilo Zúñiga,30,Colombia,Right-Back,RB,2500000.0,Bologna,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Igor Lasicki,20,Poland,Centre-Back,CB,175000.0,Rimini,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Gennaro Tutino,19,Italy,Left Winger,LW,400000.0,Bari,Italy,0.0,out,winter,Serie A,2015,True,free loan
+SSC Napoli,Jacopo Dezi,23,Italy,Central Midfield,CM,1000000.0,Bari,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Andrea Belotti,21,Italy,Centre-Forward,CF,5000000.0,US Palermo,Italy,8400000.0,in,summer,Serie A,2015,False,
+Torino FC,Daniele Baselli,23,Italy,Central Midfield,CM,3800000.0,Atalanta BC,Italy,6000000.0,in,summer,Serie A,2015,False,
+Torino FC,Davide Zappacosta,23,Italy,Right Midfield,RM,5500000.0,Atalanta BC,Italy,4300000.0,in,summer,Serie A,2015,False,
+Torino FC,Afriyie Acquah,23,Ghana,Central Midfield,CM,3000000.0,TSG Hoffenheim,Germany,3100000.0,in,summer,Serie A,2015,False,
+Torino FC,Joel Obi,24,Nigeria,Central Midfield,CM,2000000.0,Inter,Italy,2200000.0,in,summer,Serie A,2015,False,
+Torino FC,Danilo Avelar,26,Brazil,Centre-Back,CB,2200000.0,Cagliari Calcio,Italy,2000000.0,in,summer,Serie A,2015,False,
+Torino FC,Salvador Ichazo,23,Uruguay,Goalkeeper,GK,1600000.0,Danubio FC,Uruguay,1200000.0,in,summer,Serie A,2015,False,
+Torino FC,Sanjin Prcic,21,Bosnia-Herzegovina,Central Midfield,CM,1750000.0,Stade Rennais,France,0.0,in,summer,Serie A,2015,True,free loan
+Torino FC,Vasyl Pryima,24,Ukraine,Centre-Back,CB,1000000.0,Without Club,,,in,summer,Serie A,2015,False,
+Torino FC,Matteo Darmian,25,Italy,Right-Back,RB,12000000.0,Man Utd,England,18000000.0,out,summer,Serie A,2015,False,
+Torino FC,Marcelo Larrondo,26,Argentina,Centre-Forward,CF,600000.0,CA Rosario,Argentina,500000.0,out,summer,Serie A,2015,False,
+Torino FC,Antonio Barreca,20,Italy,Left-Back,LB,1000000.0,Cagliari Calcio,Italy,500000.0,out,summer,Serie A,2015,True,loan with fee
+Torino FC,Simone Verdi,22,Italy,Attacking Midfield,AM,3200000.0,AC Milan,Italy,450000.0,out,summer,Serie A,2015,False,
+Torino FC,Marko Vesovic,23,Montenegro,Right-Back,RB,700000.0,Spezia Calcio,Italy,300000.0,out,summer,Serie A,2015,False,
+Torino FC,Andrea Ientile,19,Italy,Centre-Back,CB,75000.0,Monza,Italy,0.0,out,summer,Serie A,2015,False,
+Torino FC,Alen Stevanovic,24,Serbia,Left Winger,LW,1400000.0,Partizan,Serbia,0.0,out,summer,Serie A,2015,False,
+Torino FC,Migjen Basha,28,Albania,Defensive Midfield,DM,800000.0,FC Luzern,Switzerland,0.0,out,summer,Serie A,2015,False,
+Torino FC,Alessandro Comentale,20,Italy,Defensive Midfield,DM,50000.0,Monza,Italy,0.0,out,summer,Serie A,2015,False,
+Torino FC,Stefano Ignico,21,Italy,Centre-Back,CB,50000.0,Pro Eureka,Italy,,out,summer,Serie A,2015,False,
+Torino FC,Vlada Avramov,36,Serbia,Goalkeeper,GK,300000.0,FC Tokyo,Japan,,out,summer,Serie A,2015,False,
+Torino FC,Lys Gomis,25,Senegal,Goalkeeper,GK,700000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Abou Diop,21,Senegal,Centre-Forward,CF,325000.0,Lecce,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Facundo Lescano,19,Argentina,Centre-Forward,CF,300000.0,Melfi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Francesco Tahiraj,18,Albania,Right Winger,RW,75000.0,DNŠ Zavrč,Slovenia,,out,summer,Serie A,2015,False,
+Torino FC,Emmanuel Gyasi,21,Ghana,Left Winger,LW,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Kevin Bonifazi,19,Italy,Centre-Back,CB,150000.0,Benevento,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Claudio Morra,20,Italy,Centre-Forward,CF,150000.0,Andria,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Mattia Aramu,20,Italy,Attacking Midfield,AM,400000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Pietro Barale,20,Italy,Central Midfield,CM,75000.0,Cuneo,Italy,,out,summer,Serie A,2015,False,
+Torino FC,Alfred Gomis,21,Senegal,Goalkeeper,GK,2000000.0,Cesena,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Sergiu Suciu,25,Romania,Central Midfield,CM,250000.0,Lecce,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Torino FC,Salvatore Masiello,33,Italy,Left-Back,LB,200000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Abdulai Muniru,22,Ghana,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Marco Sordi,19,Italy,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Luca Cargnino,20,Italy,defence,defence,50000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Barreto,29,Brazil,Second Striker,SS,500000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Rosario Rizzo,19,Italy,Left-Back,LB,100000.0,Without Club,,,out,summer,Serie A,2015,False,
+Torino FC,Omar El Kaddouri,24,Morocco,Central Midfield,CM,4000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Torino FC,Salvador Ichazo,23,Uruguay,Goalkeeper,GK,1500000.0,Danubio FC,Uruguay,0.0,out,summer,Serie A,2015,True,end of loan
+Torino FC,Álvaro González,30,Uruguay,Central Midfield,CM,2000000.0,Lazio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+Torino FC,Ciro Immobile,25,Italy,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,850000.0,in,winter,Serie A,2015,True,loan with fee
+Torino FC,Vasyl Pryima,24,Ukraine,Centre-Back,CB,1000000.0,Without Club,,,in,winter,Serie A,2015,False,
+Torino FC,Fabio Quagliarella,33,Italy,Centre-Forward,CF,3000000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Lys Gomis,26,Senegal,Goalkeeper,GK,600000.0,ACS Poli,Romania,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Sergiu Suciu,25,Romania,Central Midfield,CM,250000.0,Cremonese,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Juan Sánchez Miño,26,Argentina,Left-Back,LB,2800000.0,Cruzeiro,Brazil,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Facundo Lescano,19,Argentina,Centre-Forward,CF,300000.0,Monopoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Kevin Bonifazi,19,Italy,Centre-Back,CB,150000.0,Casertana,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Maurice Gomis,18,Senegal,Goalkeeper,GK,50000.0,Mestre,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Abou Diop,22,Senegal,Centre-Forward,CF,275000.0,Juve Stabia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Claudio Morra,21,Italy,Centre-Forward,CF,150000.0,Savona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Sanjin Prcic,22,Bosnia-Herzegovina,Central Midfield,CM,1400000.0,Perugia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Vasyl Pryima,24,Ukraine,Centre-Back,CB,800000.0,Frosinone,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Torino FC,Ousseynou Thiao,19,Senegal,Central Midfield,CM,125000.0,Without Club,,,out,winter,Serie A,2015,False,
+Torino FC,Amauri,35,Italy,Centre-Forward,CF,300000.0,Without Club,,,out,winter,Serie A,2015,False,
+UC Sampdoria,Luis Muriel,24,Colombia,Centre-Forward,CF,10000000.0,Udinese Calcio,Italy,12000000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Fernando,23,Brazil,Central Midfield,CM,9000000.0,Shakhtar D.,Ukraine,8000000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,3500000.0,Chievo Verona,Italy,3280000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Lucas Torreira,19,Uruguay,Defensive Midfield,DM,800000.0,Pescara,Italy,3000000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Alfred Duncan,22,Ghana,Central Midfield,CM,4500000.0,Inter,Italy,2600000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Michele Rocca,19,Italy,Central Midfield,CM,250000.0,Inter U19,Italy,400000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Pedro Pereira,17,Portugal,Right Midfield,RM,200000.0,Benfica U17,Portugal,190000.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Mattia Cassani,31,Italy,Right-Back,RB,1000000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Christian Puggioni,34,Italy,Goalkeeper,GK,300000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Édgar Barreto,30,Paraguay,Central Midfield,CM,5000000.0,US Palermo,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Matías Silvestre,30,Argentina,Centre-Back,CB,3700000.0,Inter,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Niklas Moisander,29,Finland,Centre-Back,CB,5500000.0,Ajax,Netherlands,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Jefferson Oliveira,25,Brazil,Centre-Back,CB,75000.0,Vicenza,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Andrea Coda,30,Italy,Centre-Back,CB,300000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2015,False,
+UC Sampdoria,Alberto Brignoli,23,Italy,Goalkeeper,GK,1500000.0,Juventus,Italy,0.0,in,summer,Serie A,2015,True,free loan
+UC Sampdoria,Carlos Carbonero,25,Colombia,Attacking Midfield,AM,3000000.0,CA Fénix,Uruguay,0.0,in,summer,Serie A,2015,True,free loan
+UC Sampdoria,Alejandro Rodríguez,24,Spain,Centre-Forward,CF,800000.0,Cesena,Italy,0.0,in,summer,Serie A,2015,True,free loan
+UC Sampdoria,Lazaros Christodoulopoulos,28,Greece,Right Winger,RW,1600000.0,Hellas Verona,Italy,0.0,in,summer,Serie A,2015,True,free loan
+UC Sampdoria,Antonio Cassano,33,Italy,Second Striker,SS,1000000.0,Without Club,,,in,summer,Serie A,2015,False,
+UC Sampdoria,Pedro Obiang,23,Equatorial Guinea,Central Midfield,CM,10000000.0,West Ham,England,6000000.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Stefano Okaka,25,Italy,Centre-Forward,CF,6000000.0,RSC Anderlecht,Belgium,3300000.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Bartosz Salamon,24,Poland,Centre-Back,CB,1500000.0,Cagliari Calcio,Italy,1500000.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Michele Fornasier,21,Italy,Centre-Back,CB,700000.0,Pescara,Italy,320000.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Fabrizio Cacciatore,28,Italy,Right-Back,RB,1200000.0,Chievo Verona,Italy,250000.0,out,summer,Serie A,2015,True,loan with fee
+UC Sampdoria,Marco Marchionni,35,Italy,Right Midfield,RM,300000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Simone Dejori,20,Italy,Left-Back,LB,50000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Federico Piovaccari,30,Italy,Centre-Forward,CF,1500000.0,Western Sydney,Australia,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Matías Rodríguez,29,Argentina,Right-Back,RB,1000000.0,U. de Chile,Chile,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Mattia Lombardo,20,Italy,Defensive Midfield,DM,100000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Davide Gavazzi,29,Italy,Central Midfield,CM,1300000.0,Avellino,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Andrea Magrassi,22,Italy,Centre-Forward,CF,125000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Massimo Volta,28,Italy,Centre-Back,CB,800000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Luca Rizzo,23,Italy,Central Midfield,CM,2000000.0,Bologna,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Sergio Romero,28,Argentina,Goalkeeper,GK,5000000.0,Man Utd,England,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Stefano Scappini,27,Italy,Centre-Forward,CF,175000.0,Pontedera,Italy,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Gonzalo Bergessio,30,Argentina,Centre-Forward,CF,2000000.0,Atlas,Mexico,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Samuel Eto'o,34,Cameroon,Centre-Forward,CF,2000000.0,Antalyaspor,Turkey,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Andelko Savic,22,Switzerland,Centre-Forward,CF,100000.0,Neuchâtel Xamax,Switzerland,0.0,out,summer,Serie A,2015,False,
+UC Sampdoria,Jefferson Oliveira,25,Brazil,Centre-Back,CB,75000.0,Atlético CP,Portugal,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Gianluca Sampietro,22,Italy,Central Midfield,CM,350000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Karlo Lulic,19,Croatia,Central Midfield,CM,800000.0,Bohemians 1905,Czech Republic,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Pawel Wszolek,23,Poland,Right Winger,RW,700000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Fabrice Olinga,19,Cameroon,Left Winger,LW,200000.0,Mouscron,Belgium,,out,summer,Serie A,2015,False,
+UC Sampdoria,Jakub Hromada,19,Slovakia,Defensive Midfield,DM,100000.0,FK Senica,Slovakia,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Alessandro De Vitis,23,Italy,Defensive Midfield,DM,200000.0,SPAL,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Stefano Beltrame,22,Italy,Attacking Midfield,AM,350000.0,Juventus,Italy,,out,summer,Serie A,2015,False,
+UC Sampdoria,Pontons Paz,20,Bolivia,Left Winger,LW,50000.0,Real Santa Cruz,Bolivia,,out,summer,Serie A,2015,False,
+UC Sampdoria,Matteo Caracciolo,20,Italy,Centre-Back,CB,50000.0,Bustese,Italy,,out,summer,Serie A,2015,False,
+UC Sampdoria,Luca Piana,21,Italy,Centre-Back,CB,200000.0,Pro Piacenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Mirko Eramo,26,Italy,Central Midfield,CM,400000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Alfred Duncan,22,Ghana,Central Midfield,CM,5000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Francesco Fedato,22,Italy,Left Winger,LW,750000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Wladimiro Falcone,20,Italy,Goalkeeper,GK,175000.0,Savona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,José Campaña,22,Spain,Central Midfield,CM,1100000.0,Alcorcón,Spain,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Gianluca Sansone,28,Italy,Centre-Forward,CF,1800000.0,Bari,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Gabriele Rolando,20,Italy,Right Midfield,RM,100000.0,Matera,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Simone Corazza,24,Italy,Centre-Forward,CF,350000.0,Novara,Italy,,out,summer,Serie A,2015,False,
+UC Sampdoria,Alessandro Martinelli,22,Switzerland,Central Midfield,CM,150000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Mattia Placido,20,Italy,Right-Back,RB,100000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Lucas Torreira,19,Uruguay,Defensive Midfield,DM,800000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+UC Sampdoria,Alessio Romagnoli,20,Italy,Centre-Back,CB,6500000.0,AS Roma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Alfred Duncan,22,Ghana,Central Midfield,CM,4500000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Matías Silvestre,30,Argentina,Centre-Back,CB,3700000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Luka Djordjevic,20,Montenegro,Centre-Forward,CF,1200000.0,Zenit S-Pb,Russia,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Alberto Frison,27,Italy,Goalkeeper,GK,1200000.0,Catania,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Luis Muriel,24,Colombia,Centre-Forward,CF,10000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Andrea Coda,30,Italy,Centre-Back,CB,300000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Ezequiel Muñoz,24,Argentina,Centre-Back,CB,4500000.0,US Palermo,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Afriyie Acquah,23,Ghana,Central Midfield,CM,3000000.0,TSG Hoffenheim,Germany,0.0,out,summer,Serie A,2015,True,end of loan
+UC Sampdoria,Milan Skriniar,20,Slovakia,Centre-Back,CB,600000.0,MSK Zilina,Slovakia,5200000.0,in,winter,Serie A,2015,False,
+UC Sampdoria,Ricardo Álvarez,27,Argentina,Central Midfield,CM,10000000.0,Sunderland,England,0.0,in,winter,Serie A,2015,False,
+UC Sampdoria,Fabio Quagliarella,33,Italy,Centre-Forward,CF,3000000.0,Torino,Italy,0.0,in,winter,Serie A,2015,True,free loan
+UC Sampdoria,Modibo Diakité,28,France,Centre-Back,CB,1000000.0,Frosinone,Italy,0.0,in,winter,Serie A,2015,False,
+UC Sampdoria,Dodô,23,Brazil,Left-Back,LB,5500000.0,Inter,Italy,0.0,in,winter,Serie A,2015,True,free loan
+UC Sampdoria,Andrea Ranocchia,27,Italy,Centre-Back,CB,7500000.0,Inter,Italy,0.0,in,winter,Serie A,2015,True,free loan
+UC Sampdoria,Jacopo Sala,24,Italy,Right-Back,RB,2500000.0,Hellas Verona,Italy,0.0,in,winter,Serie A,2015,True,free loan
+UC Sampdoria,Éder,29,Italy,Second Striker,SS,15000000.0,Inter,Italy,2000000.0,out,winter,Serie A,2015,True,loan with fee
+UC Sampdoria,Vasco Regini,25,Italy,Left-Back,LB,2700000.0,SSC Napoli,Italy,1500000.0,out,winter,Serie A,2015,True,loan with fee
+UC Sampdoria,Ervin Zukanovic,28,Bosnia-Herzegovina,Centre-Back,CB,4000000.0,AS Roma,Italy,1200000.0,out,winter,Serie A,2015,True,loan with fee
+UC Sampdoria,Andrea Magrassi,22,Italy,Centre-Forward,CF,125000.0,Mestre,Italy,0.0,out,winter,Serie A,2015,False,
+UC Sampdoria,Edoardo Oneto,19,Italy,Centre-Forward,CF,125000.0,Oviedo Vetusta,Spain,,out,winter,Serie A,2015,False,
+UC Sampdoria,Federico Bonazzoli,18,Italy,Centre-Forward,CF,3200000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+UC Sampdoria,Mattia Placido,20,Italy,Right-Back,RB,100000.0,Savona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+UC Sampdoria,Michele Rocca,19,Italy,Central Midfield,CM,300000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2015,True,free loan
+UC Sampdoria,Andrea Coda,30,Italy,Centre-Back,CB,300000.0,Pescara,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Palermo,Oscar Hiljemark,23,Sweden,Central Midfield,CM,2250000.0,PSV Eindhoven,Netherlands,2500000.0,in,summer,Serie A,2015,False,
+US Palermo,Abdelhamid El Kaoutari,25,Morocco,Centre-Back,CB,4000000.0,Montpellier,France,2000000.0,in,summer,Serie A,2015,False,
+US Palermo,Matheus Cassini,19,Brazil,Attacking Midfield,AM,250000.0,Corinthians,Brazil,1500000.0,in,summer,Serie A,2015,False,
+US Palermo,Edoardo Goldaniga,21,Italy,Centre-Back,CB,800000.0,Juventus,Italy,1500000.0,in,summer,Serie A,2015,False,
+US Palermo,Aleksandar Trajkovski,22,North Macedonia,Left Winger,LW,1200000.0,Zulte Waregem,Belgium,900000.0,in,summer,Serie A,2015,False,
+US Palermo,Ahmad Benali,23,Libya,Central Midfield,CM,1100000.0,Brescia,Italy,0.0,in,summer,Serie A,2015,False,
+US Palermo,Andrea Rispoli,26,Italy,Right Midfield,RM,1000000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+US Palermo,Uros Djurdjevic,21,Montenegro,Centre-Forward,CF,1000000.0,Vitesse,Netherlands,0.0,in,summer,Serie A,2015,False,
+US Palermo,Alberto Gilardino,33,Italy,Centre-Forward,CF,1500000.0,GZ Evergrande,China,0.0,in,summer,Serie A,2015,False,
+US Palermo,Nicolas Viola,25,Italy,Central Midfield,CM,900000.0,Ternana,Italy,,in,summer,Serie A,2015,False,
+US Palermo,Gastón Brugman,22,Uruguay,Defensive Midfield,DM,1300000.0,Pescara,Italy,0.0,in,summer,Serie A,2015,True,free loan
+US Palermo,Simone Colombi,24,Italy,Goalkeeper,GK,1000000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2015,True,free loan
+US Palermo,Paulo Dybala,21,Argentina,Second Striker,SS,23000000.0,Juventus,Italy,40000000.0,out,summer,Serie A,2015,False,
+US Palermo,Andrea Belotti,21,Italy,Centre-Forward,CF,5000000.0,Torino,Italy,8400000.0,out,summer,Serie A,2015,False,
+US Palermo,Eric Lanini,21,Italy,Centre-Forward,CF,250000.0,Juventus,Italy,2000000.0,out,summer,Serie A,2015,False,
+US Palermo,Eros Pisano,28,Italy,Right-Back,RB,500000.0,Hellas Verona,Italy,1000000.0,out,summer,Serie A,2015,False,
+US Palermo,Accursio Bentivegna,19,Italy,Left Winger,LW,800000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Édgar Barreto,30,Paraguay,Central Midfield,CM,5000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Ignacio Lores,24,Uruguay,Right Winger,RW,500000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Francesco Della Rocca,27,Italy,Central Midfield,CM,1200000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Giulio Sanseverino,21,Italy,Defensive Midfield,DM,200000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,João Silva,25,Portugal,Centre-Forward,CF,400000.0,Paços Ferreira,Portugal,0.0,out,summer,Serie A,2015,False,
+US Palermo,Granddi N'Goyi,27,DR Congo,Defensive Midfield,DM,800000.0,Dijon,France,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Julián Velázquez,24,Argentina,Centre-Back,CB,500000.0,Hajduk Split,Croatia,0.0,out,summer,Serie A,2015,False,
+US Palermo,Claudio Terzi,31,Italy,Centre-Back,CB,400000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Gennaro Troianiello,32,Italy,Right Winger,RW,150000.0,Salernitana,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Nicolas Viola,25,Italy,Central Midfield,CM,900000.0,Novara,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Riccardo Pellegrino,19,Italy,Left-Back,LB,50000.0,Gela,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Cephas Malele,21,Switzerland,Centre-Forward,CF,200000.0,Atlético CP,Portugal,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Silvio Vincenzo Calabrese,19,Italy,Centre-Forward,CF,50000.0,Vibonese,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Ezequiel Muñoz,24,Argentina,Centre-Back,CB,4000000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Samir Ujkani,27,Kosovo,Goalkeeper,GK,1000000.0,Genoa,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Davide Di Gennaro,27,Italy,Attacking Midfield,AM,2000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2015,False,
+US Palermo,Andrea Fulignati,20,Italy,Goalkeeper,GK,100000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Davide Petermann,20,Italy,Defensive Midfield,DM,100000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Carlos Embalo,20,Guinea-Bissau,Left Winger,LW,75000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Luca Fiordilino,18,Italy,Defensive Midfield,DM,125000.0,Cosenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Andrea Accardi,19,Italy,Right-Back,RB,50000.0,Trapani,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Ahmad Benali,23,Libya,Central Midfield,CM,1100000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Milan Milanovic,24,Serbia,Centre-Back,CB,300000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Simon Makienok,24,Denmark,Centre-Forward,CF,2000000.0,Charlton,England,0.0,out,summer,Serie A,2015,True,free loan
+US Palermo,Sol Bamba,30,Cote d'Ivoire,Centre-Back,CB,1400000.0,Leeds,England,,out,summer,Serie A,2015,False,
+US Palermo,Jevrem Kosnic,22,Serbia,Centre-Back,CB,200000.0,Without Club,,,out,summer,Serie A,2015,False,
+US Palermo,Emerson,20,Italy,Left-Back,LB,500000.0,Santos FC,Brazil,0.0,out,summer,Serie A,2015,True,end of loan
+US Palermo,Danilo Ortíz,23,Paraguay,Centre-Back,CB,800000.0,Cerro Porteño,Paraguay,0.0,out,summer,Serie A,2015,True,end of loan
+US Palermo,Andrea Rispoli,26,Italy,Right Midfield,RM,700000.0,Parma,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+US Palermo,Norbert Balogh,19,Hungary,Centre-Forward,CF,300000.0,Debrecen,Hungary,2200000.0,in,winter,Serie A,2015,False,
+US Palermo,Manuel Arteaga,21,Venezuela,Centre-Forward,CF,300000.0,Zulia FC,Venezuela,800000.0,in,winter,Serie A,2015,False,
+US Palermo,Josip Posavec,19,Croatia,Goalkeeper,GK,400000.0,Inter Zapresic,Croatia,500000.0,in,winter,Serie A,2015,False,
+US Palermo,Thiago Cionek,29,Poland,Centre-Back,CB,700000.0,Modena,Italy,350000.0,in,winter,Serie A,2015,False,
+US Palermo,Bryan Cristante,20,Italy,Central Midfield,CM,4000000.0,Benfica,Portugal,0.0,in,winter,Serie A,2015,True,free loan
+US Palermo,Luca Rigoni,31,Italy,Central Midfield,CM,5500000.0,Genoa,Italy,500000.0,out,winter,Serie A,2015,False,
+US Palermo,Fabio Daprelà,24,Switzerland,Centre-Back,CB,800000.0,Carpi,Italy,0.0,out,winter,Serie A,2015,False,
+US Palermo,Francesco Bolzoni,26,Italy,Central Midfield,CM,2500000.0,Novara,Italy,0.0,out,winter,Serie A,2015,False,
+US Palermo,Gabriele Zerbo,21,Italy,Second Striker,SS,75000.0,Concordia,Romania,0.0,out,winter,Serie A,2015,True,free loan
+US Palermo,Manuel Arteaga,21,Venezuela,Centre-Forward,CF,800000.0,Hajduk Split,Croatia,0.0,out,winter,Serie A,2015,True,free loan
+US Palermo,Matheus Cassini,19,Brazil,Attacking Midfield,AM,1000000.0,Inter Zapresic,Croatia,0.0,out,winter,Serie A,2015,True,free loan
+US Palermo,Abdelhamid El Kaoutari,25,Morocco,Centre-Back,CB,3000000.0,Stade Reims,France,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Domenico Berardi,20,Italy,Right Winger,RW,15000000.0,Juventus,Italy,10000000.0,in,summer,Serie A,2015,False,
+US Sassuolo,Grégoire Defrel,24,Martinique,Centre-Forward,CF,6000000.0,Cesena,Italy,7000000.0,in,summer,Serie A,2015,False,
+US Sassuolo,Lorenzo Pellegrini,19,Italy,Central Midfield,CM,250000.0,Roma U19,Italy,1250000.0,in,summer,Serie A,2015,False,
+US Sassuolo,Giovanni Sbrissa,18,Italy,Central Midfield,CM,600000.0,Vicenza,Italy,800000.0,in,summer,Serie A,2015,False,
+US Sassuolo,Matteo Politano,21,Italy,Right Winger,RW,2000000.0,AS Roma,Italy,100000.0,in,summer,Serie A,2015,True,loan with fee
+US Sassuolo,Cristian Dell'Orco,21,Italy,Left-Back,LB,225000.0,Parma,Italy,0.0,in,summer,Serie A,2015,False,
+US Sassuolo,Alfred Duncan,22,Ghana,Central Midfield,CM,5000000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2015,True,free loan
+US Sassuolo,Simone Zaza,24,Italy,Centre-Forward,CF,11000000.0,Juventus,Italy,18000000.0,out,summer,Serie A,2015,False,
+US Sassuolo,Jasmin Kurtic,26,Slovenia,Central Midfield,CM,3800000.0,Atalanta BC,Italy,3200000.0,out,summer,Serie A,2015,False,
+US Sassuolo,Leonardo Pavoletti,26,Italy,Centre-Forward,CF,2100000.0,Genoa,Italy,3000000.0,out,summer,Serie A,2015,False,
+US Sassuolo,Thomas Manfredini,35,Italy,Centre-Back,CB,300000.0,Vicenza,Italy,300000.0,out,summer,Serie A,2015,False,
+US Sassuolo,Matteo Brighi,34,Italy,Central Midfield,CM,400000.0,Bologna,Italy,0.0,out,summer,Serie A,2015,False,
+US Sassuolo,Cristian Dell'Orco,21,Italy,Left-Back,LB,225000.0,Novara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Aladje,21,Portugal,Centre-Forward,CF,350000.0,Prato,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Guido Gomez,21,Italy,Centre-Forward,CF,75000.0,Juve Stabia,Italy,,out,summer,Serie A,2015,False,
+US Sassuolo,Ettore Gliozzi,19,Italy,Centre-Forward,CF,150000.0,Südtirol,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Davide Lodesani,20,Italy,Left Winger,LW,50000.0,Foggia,Italy,,out,summer,Serie A,2015,False,
+US Sassuolo,Simone Perilli,20,Italy,Goalkeeper,GK,50000.0,Reggiana,Italy,,out,summer,Serie A,2015,False,
+US Sassuolo,Jonathan Rossini,26,Switzerland,Centre-Back,CB,500000.0,Savona,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Raman Chibsah,22,Ghana,Central Midfield,CM,1700000.0,Frosinone,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Giovanni Sbrissa,18,Italy,Central Midfield,CM,600000.0,Vicenza,Italy,0.0,out,summer,Serie A,2015,True,free loan
+US Sassuolo,Cesare Natali,36,Italy,Centre-Back,CB,200000.0,Without Club,,,out,summer,Serie A,2015,False,
+US Sassuolo,Ciro Polito,36,Italy,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Serie A,2015,False,
+US Sassuolo,Paolo Bianco,37,Italy,Centre-Back,CB,100000.0,Retired,,,out,summer,Serie A,2015,False,
+US Sassuolo,Saphir Taider,23,Algeria,Central Midfield,CM,8000000.0,Inter,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+US Sassuolo,Dejan Lazarevic,25,Slovenia,Left Winger,LW,1200000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+US Sassuolo,Anastasios Donis,18,Greece,Centre-Forward,CF,300000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+US Sassuolo,Domenico Berardi,20,Italy,Right Winger,RW,15000000.0,Juventus,Italy,0.0,out,summer,Serie A,2015,True,end of loan
+US Sassuolo,Stefano Sensi,20,Italy,Central Midfield,CM,3500000.0,Cesena,Italy,5250000.0,in,winter,Serie A,2015,False,
+US Sassuolo,Luca Mazzitelli,20,Italy,Central Midfield,CM,1000000.0,AS Roma,Italy,3500000.0,in,winter,Serie A,2015,False,
+US Sassuolo,Marcello Trotta,23,Italy,Centre-Forward,CF,2000000.0,Avellino,Italy,2800000.0,in,winter,Serie A,2015,False,
+US Sassuolo,Sergio Floccari,34,Italy,Centre-Forward,CF,500000.0,Bologna,Italy,500000.0,out,winter,Serie A,2015,False,
+US Sassuolo,Stefano Sensi,20,Italy,Central Midfield,CM,3500000.0,Cesena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Leonardo Fontanesi,19,Italy,Centre-Back,CB,300000.0,Cesena,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Aladje,22,Portugal,Centre-Forward,CF,275000.0,Ischia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Lorenzo Ariaudo,26,Italy,Centre-Back,CB,600000.0,FC Empoli,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Antonio Floro Flores,32,Italy,Centre-Forward,CF,1500000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+US Sassuolo,Luca Mazzitelli,20,Italy,Central Midfield,CM,1000000.0,Brescia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Iván Piris,26,Paraguay,Right-Back,RB,2300000.0,Maldonado,Uruguay,3500000.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Ali Adnan,21,Iraq,Left-Back,LB,2250000.0,C. Rizespor,Turkey,2200000.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Adalberto Peñaranda,18,Venezuela,Centre-Forward,CF,,Dep. La Guaira,Venezuela,770000.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Marquinho,29,Brazil,Attacking Midfield,AM,2000000.0,AS Roma,Italy,500000.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Duván Zapata,24,Colombia,Centre-Forward,CF,7500000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2015,True,free loan
+Udinese Calcio,Manuel Iturra,31,Chile,Defensive Midfield,DM,4000000.0,Granada CF,Spain,0.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Felipe,31,Brazil,Centre-Back,CB,700000.0,Inter,Italy,0.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Emanuel Insúa,24,Argentina,Left-Back,LB,2000000.0,Granada CF,Spain,0.0,in,summer,Serie A,2015,False,
+Udinese Calcio,Emanuele Rovini,20,Italy,Centre-Forward,CF,300000.0,FC Empoli,Italy,,in,summer,Serie A,2015,False,
+Udinese Calcio,Francesco Lodi,31,Italy,Defensive Midfield,DM,2000000.0,Without Club,,,in,summer,Serie A,2015,False,
+Udinese Calcio,Roberto Pereyra,24,Argentina,Attacking Midfield,AM,13000000.0,Juventus,Italy,15000000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Luis Muriel,24,Colombia,Centre-Forward,CF,10000000.0,Sampdoria,Italy,12000000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Allan,24,Brazil,Central Midfield,CM,11500000.0,SSC Napoli,Italy,11500000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Dusan Basta,30,Serbia,Right-Back,RB,5500000.0,Lazio,Italy,10500000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Matej Vydra,23,Czech Republic,Centre-Forward,CF,4000000.0,Watford,England,8400000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Douglas Santos,21,Brazil,Left-Back,LB,3250000.0,Atlético-MG,Brazil,3000000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Naldo,26,Brazil,Centre-Back,CB,2500000.0,Sporting CP,Portugal,3000000.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Marco Bertoia,20,Italy,Central Midfield,CM,75000.0,Sanvitese,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Andrea Coda,30,Italy,Centre-Back,CB,300000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Mattia Benedetti,19,Italy,Left-Back,LB,50000.0,Matelica,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Gabriel Torje,25,Romania,Right Winger,RW,3500000.0,Osmanlispor,Turkey,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Alexandre Coeff,23,France,Centre-Back,CB,600000.0,G. Ajaccio,France,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Rafael Romo,25,Venezuela,Goalkeeper,GK,200000.0,Watford,England,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Ivan Kelava,27,Croatia,Goalkeeper,GK,600000.0,Granada CF,Spain,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Giampiero Pinzi,34,Italy,Central Midfield,CM,400000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Álex Geijo,33,Spain,Centre-Forward,CF,300000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Abdoul Wahid Sissoko,25,Mali,Defensive Midfield,DM,1000000.0,RCD Mallorca,Spain,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Roberto Codromaz,19,Italy,Centre-Back,CB,75000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Allan Nyom,27,Cameroon,Right-Back,RB,4000000.0,Watford,England,0.0,out,summer,Serie A,2015,False,
+Udinese Calcio,Nicolás López,21,Uruguay,Right Winger,RW,4000000.0,Granada CF,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Filippo Berra,20,Italy,Right-Back,RB,250000.0,Pro Vercelli,Italy,,out,summer,Serie A,2015,False,
+Udinese Calcio,Davide Faraoni,23,Italy,Right Midfield,RM,1600000.0,Novara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Nabil Jaadi,19,Morocco,Right Winger,RW,750000.0,Recre Granada,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Neuton,25,Brazil,Centre-Back,CB,400000.0,Granada CF,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Emanuele Rovini,20,Italy,Centre-Forward,CF,300000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Daniele Mori,25,Italy,Centre-Back,CB,150000.0,Lucchese,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Jaime Romero,25,Spain,Right Winger,RW,700000.0,Real Zaragoza,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Frano Mlinar,23,Croatia,Central Midfield,CM,400000.0,Inter Zapresic,Croatia,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Simone Scuffet,19,Italy,Goalkeeper,GK,5500000.0,Como,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Melker Hallberg,19,Sweden,Central Midfield,CM,1400000.0,Vålerenga,Norway,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Gabriel Silva,24,Brazil,Left-Back,LB,3800000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Alexis Zapata,20,Colombia,Attacking Midfield,AM,200000.0,Perugia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Valerio Verre,21,Italy,Central Midfield,CM,2400000.0,Pescara,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Zeljko Brkic,29,Serbia,Goalkeeper,GK,3200000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Tom Syku,19,Albania,Centre-Back,CB,50000.0,Imolese,Italy,,out,summer,Serie A,2015,False,
+Udinese Calcio,Davide Marsura,21,Italy,Left Winger,LW,250000.0,Brescia,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Igor Bubnjic,23,Croatia,Centre-Back,CB,1300000.0,Carpi,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Mattia Tellan,20,Italy,Central Midfield,CM,75000.0,Cjarlins Muzane,Italy,,out,summer,Serie A,2015,False,
+Udinese Calcio,Adalberto Peñaranda,18,Venezuela,Centre-Forward,CF,,Granada CF,Spain,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Pape Dia,22,Senegal,Left Winger,LW,25000.0,Unknown,,,out,summer,Serie A,2015,False,
+Udinese Calcio,Jakub Jankto,19,Czech Republic,Left Midfield,LM,100000.0,Ascoli,Italy,0.0,out,summer,Serie A,2015,True,free loan
+Udinese Calcio,Ruben D'Incà,21,Italy,Right Winger,RW,75000.0,Belluno,Italy,,out,summer,Serie A,2015,False,
+Udinese Calcio,Masahudu Alhassan,22,Ghana,Left-Back,LB,1500000.0,Perugia,Italy,,out,summer,Serie A,2015,False,
+Udinese Calcio,Iván Piris,26,Paraguay,Right-Back,RB,2500000.0,Maldonado,Uruguay,0.0,out,summer,Serie A,2015,True,end of loan
+Udinese Calcio,Ryder Matos,22,Brazil,Second Striker,SS,3500000.0,Fiorentina,Italy,5250000.0,in,winter,Serie A,2015,False,
+Udinese Calcio,Samir,21,Brazil,Centre-Back,CB,4500000.0,Flamengo,Brazil,4000000.0,in,winter,Serie A,2015,False,
+Udinese Calcio,Andrija Balic,18,Croatia,Central Midfield,CM,3500000.0,Hajduk Split,Croatia,3000000.0,in,winter,Serie A,2015,False,
+Udinese Calcio,Gaspar Iñíguez,21,Argentina,Central Midfield,CM,1200000.0,Granada CF,Spain,1200000.0,in,winter,Serie A,2015,False,
+Udinese Calcio,Emil Hallfreðsson,31,Iceland,Central Midfield,CM,3000000.0,Hellas Verona,Italy,1000000.0,in,winter,Serie A,2015,False,
+Udinese Calcio,Zdravko Kuzmanovic,28,Serbia,Central Midfield,CM,2000000.0,FC Basel,Switzerland,0.0,in,winter,Serie A,2015,True,free loan
+Udinese Calcio,Adalberto Peñaranda,18,Venezuela,Centre-Forward,CF,500000.0,Watford,England,10600000.0,out,winter,Serie A,2015,False,
+Udinese Calcio,Lucas Evangelista,20,Brazil,Central Midfield,CM,3000000.0,Panathinaikos,Greece,120000.0,out,winter,Serie A,2015,True,loan with fee
+Udinese Calcio,Matías Campos Toro,26,Chile,Left-Back,LB,800000.0,Audax Italiano,Chile,,out,winter,Serie A,2015,False,
+Udinese Calcio,Neuton,25,Brazil,Centre-Back,CB,400000.0,Albacete,Spain,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Agostino Camigliano,21,Italy,Centre-Back,CB,300000.0,Trapani,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Panagiotis Kone,28,Greece,Central Midfield,CM,4000000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Gabriel Silva,24,Brazil,Left-Back,LB,3500000.0,Genoa,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Rodrigo Aguirre,21,Uruguay,Centre-Forward,CF,1400000.0,Perugia,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Daniele Mori,25,Italy,Centre-Back,CB,100000.0,Santarcangelo,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Manuel Iturra,31,Chile,Defensive Midfield,DM,2500000.0,Rayo Vallecano,Spain,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Melker Hallberg,20,Sweden,Central Midfield,CM,1000000.0,Hammarby,Sweden,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Nicolás López,22,Uruguay,Right Winger,RW,3500000.0,Nacional,Uruguay,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Samir,21,Brazil,Centre-Back,CB,4500000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Marquinho,29,Brazil,Attacking Midfield,AM,1400000.0,Ahli,Saudi Arabia,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Emanuel Insúa,24,Argentina,Left-Back,LB,1600000.0,Newell's,Argentina,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Wojciech Pawlowski,22,Poland,Goalkeeper,GK,250000.0,Rozwój Katowice,Poland,0.0,out,winter,Serie A,2015,True,free loan
+Udinese Calcio,Manuel Puntar,19,Italy,Central Midfield,CM,50000.0,Sestri Levante,Italy,,out,winter,Serie A,2015,False,

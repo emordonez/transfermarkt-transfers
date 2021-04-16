@@ -1,0 +1,641 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Laurent Koscielny,24.0,France,Centre-Back,CB,5000000.0,FC Lorient,France,12500000.0,in,summer,Premier League,2010,False,
+Arsenal FC,Sébastien Squillaci,30.0,France,Centre-Back,CB,8000000.0,Sevilla FC,Spain,6500000.0,in,summer,Premier League,2010,False,
+Arsenal FC,Marouane Chamakh,26.0,Morocco,Centre-Forward,CF,15000000.0,G. Bordeaux,France,0.0,in,summer,Premier League,2010,False,
+Arsenal FC,Eduardo,27.0,Croatia,Centre-Forward,CF,10500000.0,Shakhtar D.,Ukraine,7200000.0,out,summer,Premier League,2010,False,
+Arsenal FC,Armand Traoré,20.0,Senegal,Left-Back,LB,2500000.0,Juventus,Italy,500000.0,out,summer,Premier League,2010,True,loan with fee
+Arsenal FC,Fran Mérida,20.0,Spain,Central Midfield,CM,2000000.0,Atlético Madrid,Spain,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,Philippe Senderos,25.0,Switzerland,Centre-Back,CB,3000000.0,Fulham,England,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,Sol Campbell,35.0,England,Centre-Back,CB,1500000.0,Newcastle,England,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,Pedro Botelho,20.0,Brazil,Left-Back,LB,1000000.0,FC Cartagena,Spain,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Rene Steer,20.0,England,Left-Back,LB,225000.0,Staines Town FC,England,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,William Gallas,33.0,France,Centre-Back,CB,9000000.0,Spurs,England,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,Mikaël Silvestre,33.0,France,Centre-Back,CB,2500000.0,Werder Bremen,Germany,0.0,out,summer,Premier League,2010,False,
+Arsenal FC,Sanchez Watt,19.0,England,Left Winger,LW,150000.0,Leeds,England,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Nacer Barazite,20.0,Netherlands,Attacking Midfield,AM,750000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Vito Mannone,22.0,Italy,Goalkeeper,GK,1000000.0,Hull City,England,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Mark Randall,21.0,England,Central Midfield,CM,250000.0,Rotherham,England,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Gavin Hoyte,20.0,Trinidad and Tobago,Right-Back,RB,350000.0,Lincoln City,England,0.0,out,summer,Premier League,2010,True,free loan
+Arsenal FC,Kerrea Gilbert,23.0,England,Right-Back,RB,300000.0,Without Club,,,out,summer,Premier League,2010,False,
+Arsenal FC,Wellington Silva,18.0,Brazil,Right Winger,RW,800000.0,Fluminense,Brazil,4000000.0,in,winter,Premier League,2010,False,
+Arsenal FC,Ryo Miyaichi,18.0,Japan,Right Winger,RW,,Chukyo HS,Japan,,in,winter,Premier League,2010,False,
+Arsenal FC,Jens Lehmann,41.0,Germany,Goalkeeper,GK,,Career break,,,in,winter,Premier League,2010,False,
+Arsenal FC,Nacer Barazite,20.0,Netherlands,Attacking Midfield,AM,650000.0,Austria Vienna,Austria,400000.0,out,winter,Premier League,2010,False,
+Arsenal FC,Wellington Silva,18.0,Brazil,Right Winger,RW,800000.0,Levante,Spain,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Ryo Miyaichi,18.0,Japan,Right Winger,RW,,Feyenoord,Netherlands,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Jay Emmanuel-Thomas,20.0,England,Centre-Forward,CF,300000.0,Cardiff,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Aaron Ramsey,20.0,Wales,Central Midfield,CM,6000000.0,Cardiff,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Craig Eastmond,20.0,England,Defensive Midfield,DM,500000.0,Millwall,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Vito Mannone,22.0,Italy,Goalkeeper,GK,1000000.0,Hull City,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Mark Randall,21.0,England,Central Midfield,CM,250000.0,Rotherham,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Gavin Hoyte,20.0,Trinidad and Tobago,Right-Back,RB,350000.0,Lincoln City,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Henri Lansbury,20.0,England,Central Midfield,CM,600000.0,Norwich,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Aaron Ramsey,19.0,Wales,Central Midfield,CM,6000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2010,True,free loan
+Arsenal FC,Carlos Vela,21.0,Mexico,Right Winger,RW,5000000.0,West Brom,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Stephen Ireland,23.0,Ireland,Attacking Midfield,AM,13000000.0,Man City,England,9700000.0,in,summer,Premier League,2010,False,
+Aston Villa,James Milner,24.0,England,Central Midfield,CM,20000000.0,Man City,England,22000000.0,out,summer,Premier League,2010,False,
+Aston Villa,Nicky Shorey,29.0,England,Left-Back,LB,4000000.0,West Brom,England,1800000.0,out,summer,Premier League,2010,False,
+Aston Villa,Stephen O'Halloran,22.0,Ireland,Left-Back,LB,300000.0,Coventry,England,0.0,out,summer,Premier League,2010,False,
+Aston Villa,David Bevan,21.0,Ireland,Goalkeeper,GK,,Walsall,England,0.0,out,summer,Premier League,2010,False,
+Aston Villa,Wilfred Bouma,32.0,Netherlands,Left-Back,LB,3000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Premier League,2010,False,
+Aston Villa,Marlon Harewood,30.0,England,Centre-Forward,CF,2000000.0,Blackpool,England,0.0,out,summer,Premier League,2010,False,
+Aston Villa,Curtis Davies,25.0,England,Centre-Back,CB,4500000.0,Leicester,England,0.0,out,summer,Premier League,2010,True,free loan
+Aston Villa,Darren Bent,26.0,England,Centre-Forward,CF,18000000.0,Sunderland,England,21500000.0,in,winter,Premier League,2010,False,
+Aston Villa,Jean II Makoun,27.0,Cameroon,Defensive Midfield,DM,7500000.0,Olympique Lyon,France,6200000.0,in,winter,Premier League,2010,False,
+Aston Villa,Kyle Walker,20.0,England,Right-Back,RB,2000000.0,Spurs,England,0.0,in,winter,Premier League,2010,True,free loan
+Aston Villa,Michael Bradley,23.0,United States,Central Midfield,CM,5000000.0,Bor. M'gladbach,Germany,0.0,in,winter,Premier League,2010,True,free loan
+Aston Villa,Robert Pirès,37.0,France,Left Midfield,LM,1000000.0,Without Club,,,in,winter,Premier League,2010,False,
+Aston Villa,Curtis Davies,25.0,England,Centre-Back,CB,4500000.0,Birmingham,England,4000000.0,out,winter,Premier League,2010,False,
+Aston Villa,Steve Sidwell,28.0,England,Central Midfield,CM,3500000.0,Fulham,England,600000.0,out,winter,Premier League,2010,False,
+Aston Villa,Brad Guzan,26.0,United States,Goalkeeper,GK,1000000.0,Hull City,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Shane Lowry,21.0,Australia,Centre-Back,CB,,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,John Carew,31.0,Norway,Centre-Forward,CF,10000000.0,Stoke City,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Jonathan Hogg,22.0,England,Central Midfield,CM,,Portsmouth,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Isaiah Osbourne,23.0,England,Central Midfield,CM,500000.0,Sheff Wed,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Stephen Ireland,24.0,Ireland,Attacking Midfield,AM,13000000.0,Newcastle,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Arsenio Halfhuid,19.0,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Eric Lichaj,22.0,United States,Right-Back,RB,1000000.0,Leeds,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Barry Bannan,21.0,Scotland,Central Midfield,CM,3000000.0,Leeds,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Nathan Delfouneso,20.0,England,Centre-Forward,CF,3500000.0,Burnley,England,0.0,out,winter,Premier League,2010,True,free loan
+Aston Villa,Curtis Davies,25.0,England,Centre-Back,CB,4500000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Birmingham City,Ben Foster,27.0,England,Goalkeeper,GK,3000000.0,Man Utd,England,7000000.0,in,summer,Premier League,2010,False,
+Birmingham City,Nikola Zigic,29.0,Serbia,Centre-Forward,CF,8000000.0,Valencia,Spain,7000000.0,in,summer,Premier League,2010,False,
+Birmingham City,Jean Beausejour,26.0,Chile,Left-Back,LB,2500000.0,América,Mexico,4800000.0,in,summer,Premier League,2010,False,
+Birmingham City,Aleksandr Hleb,29.0,Belarus,Attacking Midfield,AM,7000000.0,FC Barcelona,Spain,1200000.0,in,summer,Premier League,2010,True,loan with fee
+Birmingham City,Matt Derbyshire,24.0,England,Centre-Forward,CF,4000000.0,Olympiacos,Greece,600000.0,in,summer,Premier League,2010,True,loan with fee
+Birmingham City,Martin Jiranek,31.0,Czech Republic,Centre-Back,CB,2500000.0,Spartak Moscow,Russia,600000.0,in,summer,Premier League,2010,False,
+Birmingham City,Enric Vallès,20.0,Spain,Defensive Midfield,DM,100000.0,NAC Breda,Netherlands,0.0,in,summer,Premier League,2010,False,
+Birmingham City,Gary McSheffrey,27.0,England,Left Winger,LW,1300000.0,Coventry,England,0.0,out,summer,Premier League,2010,False,
+Birmingham City,Artur Krysiak,20.0,Poland,Goalkeeper,GK,125000.0,Exeter City,England,0.0,out,summer,Premier League,2010,False,
+Birmingham City,Lee Carsley,36.0,Ireland,Defensive Midfield,DM,1250000.0,Coventry,England,0.0,out,summer,Premier League,2010,False,
+Birmingham City,Grégory Vignal,29.0,France,Left-Back,LB,600000.0,Atromitos Athen,Greece,0.0,out,summer,Premier League,2010,False,
+Birmingham City,Jake Jervis,18.0,England,Right Winger,RW,50000.0,Notts County,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Robin Shroot,22.0,Northern Ireland,Attacking Midfield,AM,50000.0,Cheltenham,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Jordon Mutch,18.0,England,Central Midfield,CM,300000.0,Watford,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Luke Hubbins,18.0,England,Right Midfield,RM,,Notts County,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Marcus Bent,32.0,England,Centre-Forward,CF,1500000.0,Wolves,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Garry O'Connor,27.0,Scotland,Centre-Forward,CF,1500000.0,Barnsley FC,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Jay O'Shea,22.0,Ireland,Central Midfield,CM,700000.0,Stevenage,England,0.0,out,summer,Premier League,2010,True,free loan
+Birmingham City,Franck Queudrue,31.0,France,Left-Back,LB,1480000.0,Without Club,,,out,summer,Premier League,2010,False,
+Birmingham City,Christian Benítez,24.0,Ecuador,Centre-Forward,CF,6000000.0,Santos Laguna,Mexico,0.0,out,summer,Premier League,2010,True,end of loan
+Birmingham City,Curtis Davies,25.0,England,Centre-Back,CB,4500000.0,Aston Villa,England,4000000.0,in,winter,Premier League,2010,False,
+Birmingham City,Obafemi Martins,26.0,Nigeria,Centre-Forward,CF,7200000.0,Rubin Kazan,Russia,400000.0,in,winter,Premier League,2010,True,loan with fee
+Birmingham City,David Bentley,26.0,England,Right Midfield,RM,8500000.0,Spurs,England,0.0,in,winter,Premier League,2010,True,free loan
+Birmingham City,Míchel,25.0,Spain,Central Midfield,CM,2500000.0,AEK Athens,Greece,175000.0,out,winter,Premier League,2010,True,loan with fee
+Birmingham City,Marcus Bent,32.0,England,Centre-Forward,CF,1000000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+Birmingham City,Jay O'Shea,22.0,Ireland,Central Midfield,CM,700000.0,Port Vale,England,0.0,out,winter,Premier League,2010,True,free loan
+Birmingham City,Jake Jervis,19.0,England,Right Winger,RW,50000.0,Hereford Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Birmingham City,Dan Preston,19.0,England,Centre-Back,CB,,Hereford Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Birmingham City,Garry O'Connor,27.0,Scotland,Centre-Forward,CF,1500000.0,Barnsley FC,England,0.0,out,winter,Premier League,2010,False,
+Birmingham City,Jay O'Shea,22.0,Ireland,Central Midfield,CM,700000.0,Stevenage,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Benjani,31.0,Zimbabwe,Centre-Forward,CF,5000000.0,Man City,England,0.0,in,summer,Premier League,2010,False,
+Blackburn Rovers,Mame Diouf,22.0,Senegal,Centre-Forward,CF,3000000.0,Man Utd,England,0.0,in,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Hérold Goulon,22.0,France,Centre-Back,CB,2000000.0,Without Club,,,in,summer,Premier League,2010,False,
+Blackburn Rovers,Steven Reid,29.0,Ireland,Right-Back,RB,3000000.0,West Brom,England,0.0,out,summer,Premier League,2010,False,
+Blackburn Rovers,Andy Haworth,21.0,England,Right Midfield,RM,50000.0,Bury,England,0.0,out,summer,Premier League,2010,False,
+Blackburn Rovers,Michael Hall,19.0,England,Left-Back,LB,,Accrington,England,0.0,out,summer,Premier League,2010,False,
+Blackburn Rovers,Zak Jones,21.0,England,Goalkeeper,GK,,Forest Green,England,0.0,out,summer,Premier League,2010,False,
+Blackburn Rovers,Nick Blackman,20.0,Barbados,Centre-Forward,CF,150000.0,Motherwell FC,Scotland,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Zurab Khizanishvili,28.0,Georgia,Centre-Back,CB,750000.0,Reading,England,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Maceo Rigters,26.0,Netherlands,Centre-Forward,CF,500000.0,Willem II,Netherlands,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Lars Jacobsen,30.0,Denmark,Right-Back,RB,2000000.0,West Ham,England,0.0,out,summer,Premier League,2010,False,
+Blackburn Rovers,Alex Marrow,20.0,England,Central Midfield,CM,50000.0,Crystal Palace,England,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Jake Kean,19.0,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Jason Brown,28.0,Wales,Goalkeeper,GK,500000.0,Leeds,England,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Frank Fielding,22.0,England,Goalkeeper,GK,250000.0,Derby,England,0.0,out,summer,Premier League,2010,True,free loan
+Blackburn Rovers,Alan Judge,21.0,Ireland,Left Midfield,LM,50000.0,Notts County,England,,out,summer,Premier League,2010,False,
+Blackburn Rovers,Yildiray Bastürk,31.0,Turkey,Attacking Midfield,AM,1500000.0,Retired,,,out,summer,Premier League,2010,False,
+Blackburn Rovers,Mauro Formica,22.0,Argentina,Attacking Midfield,AM,3500000.0,Newell's,Argentina,4000000.0,in,winter,Premier League,2010,False,
+Blackburn Rovers,Jermaine Jones,29.0,United States,Defensive Midfield,DM,5000000.0,FC Schalke 04,Germany,600000.0,in,winter,Premier League,2010,True,loan with fee
+Blackburn Rovers,Rubén Rochina,19.0,Spain,Right Winger,RW,500000.0,FC Barcelona B,Spain,450000.0,in,winter,Premier League,2010,False,
+Blackburn Rovers,Roque Santa Cruz,29.0,Paraguay,Centre-Forward,CF,7000000.0,Man City,England,0.0,in,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Hérold Goulon,22.0,France,Centre-Back,CB,2000000.0,Without Club,,,in,winter,Premier League,2010,False,
+Blackburn Rovers,Alex Marrow,20.0,England,Central Midfield,CM,50000.0,Crystal Palace,England,275000.0,out,winter,Premier League,2010,False,
+Blackburn Rovers,Nick Blackman,21.0,Barbados,Centre-Forward,CF,150000.0,Aberdeen FC,Scotland,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Amine Linganzi,21.0,Congo,Central Midfield,CM,,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Pascal Chimbonda,31.0,Guadeloupe,Centre-Back,CB,4000000.0,QPR,England,0.0,out,winter,Premier League,2010,False,
+Blackburn Rovers,Aaron Doran,19.0,Ireland,Right Midfield,RM,,Inverness CT,Scotland,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Gavin Gunning,20.0,Ireland,Centre-Back,CB,,Motherwell FC,Scotland,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,El-Hadji Diouf,30.0,Senegal,Centre-Forward,CF,3500000.0,Rangers,Scotland,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Frank Fielding,22.0,England,Goalkeeper,GK,250000.0,Derby,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Jason Brown,28.0,Wales,Goalkeeper,GK,500000.0,Cardiff,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Zac Aley,19.0,England,Centre-Forward,CF,,Morecambe FC,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Jason Lowe,19.0,England,Defensive Midfield,DM,,Oldham Athletic,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Frank Fielding,22.0,England,Goalkeeper,GK,250000.0,Derby,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Gavin Gunning,19.0,Ireland,Centre-Back,CB,,Bury,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackburn Rovers,Jason Brown,28.0,Wales,Goalkeeper,GK,500000.0,Leyton Orient,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Elliot Grandin,22.0,France,Right Winger,RW,100000.0,CSKA Sofia,Bulgaria,1500000.0,in,summer,Premier League,2010,False,
+Blackpool FC,DJ Campbell,28.0,England,Centre-Forward,CF,1500000.0,Leicester,England,1500000.0,in,summer,Premier League,2010,False,
+Blackpool FC,Chris Basham,21.0,England,Centre-Back,CB,1000000.0,Bolton,England,1400000.0,in,summer,Premier League,2010,False,
+Blackpool FC,Craig Cathcart,21.0,Northern Ireland,Centre-Back,CB,1000000.0,Man Utd U23,England,625000.0,in,summer,Premier League,2010,False,
+Blackpool FC,Matt Phillips,19.0,Scotland,Right Winger,RW,200000.0,Wycombe,England,400000.0,in,summer,Premier League,2010,False,
+Blackpool FC,Luke Varney,27.0,England,Centre-Forward,CF,1250000.0,Derby,England,0.0,in,summer,Premier League,2010,True,free loan
+Blackpool FC,Marlon Harewood,30.0,England,Centre-Forward,CF,2000000.0,Aston Villa,England,0.0,in,summer,Premier League,2010,False,
+Blackpool FC,Malaury Martin,21.0,France,Defensive Midfield,DM,350000.0,Monaco,France,0.0,in,summer,Premier League,2010,False,
+Blackpool FC,Dekel Keinan,25.0,Israel,Centre-Back,CB,900000.0,Maccabi Haifa,Israel,0.0,in,summer,Premier League,2010,False,
+Blackpool FC,David Carney,26.0,Australia,Left Winger,LW,750000.0,Twente FC,Netherlands,0.0,in,summer,Premier League,2010,False,
+Blackpool FC,Ludovic Sylvestre,26.0,France,Central Midfield,CM,1200000.0,Mladá Boleslav,Czech Republic,,in,summer,Premier League,2010,False,
+Blackpool FC,Richard Kingson,32.0,Ghana,Goalkeeper,GK,500000.0,Wigan,England,,in,summer,Premier League,2010,False,
+Blackpool FC,Ben Burgess,28.0,Ireland,Centre-Forward,CF,1250000.0,Notts County,England,700000.0,out,summer,Premier League,2010,False,
+Blackpool FC,Al Bangura,22.0,Sierra Leone,Central Midfield,CM,500000.0,Mersin IY,Turkey,0.0,out,summer,Premier League,2010,False,
+Blackpool FC,Daniel Nardiello,27.0,Wales,Centre-Forward,CF,750000.0,Exeter City,England,0.0,out,summer,Premier League,2010,False,
+Blackpool FC,Hameur Bouazza,25.0,Algeria,Right Winger,RW,1500000.0,AC Arles,France,0.0,out,summer,Premier League,2010,False,
+Blackpool FC,Stephen McPhee,29.0,Scotland,attack,attack,300000.0,Retired,,,out,summer,Premier League,2010,False,
+Blackpool FC,Danny Mitchley,20.0,England,Centre-Forward,CF,500000.0,Without Club,,,out,summer,Premier League,2010,False,
+Blackpool FC,Joe Martin,21.0,England,Left-Back,LB,200000.0,Without Club,,,out,summer,Premier League,2010,False,
+Blackpool FC,Stephen Dobbie,27.0,Scotland,Centre-Forward,CF,750000.0,Swansea,England,0.0,out,summer,Premier League,2010,True,end of loan
+Blackpool FC,Sergey Kornilenko,27.0,Belarus,Centre-Forward,CF,3000000.0,Zenit S-Pb,Russia,300000.0,in,winter,Premier League,2010,True,loan with fee
+Blackpool FC,Salaheddine Sbaï,25.0,Morocco,Left-Back,LB,200000.0,Nîmes Olympique,France,0.0,in,winter,Premier League,2010,False,
+Blackpool FC,Andy Reid,28.0,Ireland,Left Midfield,LM,5000000.0,Sunderland,England,0.0,in,winter,Premier League,2010,False,
+Blackpool FC,James Beattie,32.0,England,Centre-Forward,CF,2000000.0,Rangers,Scotland,0.0,in,winter,Premier League,2010,True,free loan
+Blackpool FC,Jason Puncheon,24.0,England,Attacking Midfield,AM,450000.0,Southampton,England,0.0,in,winter,Premier League,2010,True,free loan
+Blackpool FC,Louis Almond,18.0,England,Centre-Forward,CF,50000.0,Barrow,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Ishmel Demontagnac,22.0,England,Left Winger,LW,250000.0,Stockport,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Stephen Husband,20.0,Scotland,Central Midfield,CM,250000.0,Stockport,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Ashley Eastham,19.0,England,Centre-Back,CB,25000.0,Cheltenham,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Mark Halstead,20.0,England,Goalkeeper,GK,50000.0,Kettering Town,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Dekel Keinan,26.0,Israel,Centre-Back,CB,1000000.0,Cardiff,England,0.0,out,winter,Premier League,2010,False,
+Blackpool FC,Jason Euell,33.0,Jamaica,Second Striker,SS,750000.0,Doncaster,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Rob Edwards,28.0,Wales,Centre-Back,CB,1500000.0,Norwich,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Marlon Harewood,31.0,England,Centre-Forward,CF,2000000.0,Barnsley FC,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Danny Coid,29.0,England,Right-Back,RB,250000.0,Rotherham,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Ashley Eastham,19.0,England,Centre-Back,CB,25000.0,Carlisle United,England,0.0,out,winter,Premier League,2010,True,free loan
+Blackpool FC,Mark Halstead,20.0,England,Goalkeeper,GK,50000.0,Barrow,England,0.0,out,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Marcos Alonso,19.0,Spain,Left-Back,LB,,RM Castilla,Spain,2400000.0,in,summer,Premier League,2010,False,
+Bolton Wanderers,Tom Eaves,17.0,England,Centre-Forward,CF,50000.0,Oldham Athletic,England,245000.0,in,summer,Premier League,2010,False,
+Bolton Wanderers,Martin Petrov,31.0,Bulgaria,Left Winger,LW,9000000.0,Man City,England,0.0,in,summer,Premier League,2010,False,
+Bolton Wanderers,Robbie Blake,34.0,England,Second Striker,SS,1500000.0,Burnley,England,0.0,in,summer,Premier League,2010,False,
+Bolton Wanderers,Ivan Klasnic,30.0,Croatia,Centre-Forward,CF,4500000.0,FC Nantes,France,0.0,in,summer,Premier League,2010,False,
+Bolton Wanderers,Rodrigo,19.0,Spain,Centre-Forward,CF,4500000.0,Benfica,Portugal,0.0,in,summer,Premier League,2010,True,free loan
+Bolton Wanderers,Chris Basham,21.0,England,Centre-Back,CB,1000000.0,Blackpool,England,1400000.0,out,summer,Premier League,2010,False,
+Bolton Wanderers,Nicky Hunt,26.0,England,Centre-Back,CB,1200000.0,Bristol City,England,0.0,out,summer,Premier League,2010,False,
+Bolton Wanderers,Ricardo Vaz Tê,23.0,Portugal,Right Winger,RW,250000.0,Panionios,Greece,0.0,out,summer,Premier League,2010,False,
+Bolton Wanderers,Danny Ward,18.0,England,Centre-Forward,CF,50000.0,Coventry,England,0.0,out,summer,Premier League,2010,True,free loan
+Bolton Wanderers,Danny Shittu,30.0,Nigeria,Centre-Back,CB,1000000.0,Millwall,England,0.0,out,summer,Premier League,2010,False,
+Bolton Wanderers,Tope Obadeyi,20.0,England,Left Winger,LW,,Shrewsbury,England,0.0,out,summer,Premier League,2010,True,free loan
+Bolton Wanderers,Ali Al Habsi,28.0,Oman,Goalkeeper,GK,750000.0,Wigan,England,0.0,out,summer,Premier League,2010,True,free loan
+Bolton Wanderers,Andrew O'Brien,31.0,Ireland,Centre-Back,CB,2000000.0,Leeds,England,,out,summer,Premier League,2010,False,
+Bolton Wanderers,Chris Stokes,19.0,England,Left-Back,LB,50000.0,Without Club,,,out,summer,Premier League,2010,False,
+Bolton Wanderers,Gavin McCann,32.0,England,Central Midfield,CM,2000000.0,Retired,,,out,summer,Premier League,2010,False,
+Bolton Wanderers,Ivan Klasnic,30.0,Croatia,Centre-Forward,CF,4500000.0,FC Nantes,France,0.0,out,summer,Premier League,2010,True,end of loan
+Bolton Wanderers,Vladimir Weiss,20.0,Slovakia,Left Winger,LW,1500000.0,Man City,England,0.0,out,summer,Premier League,2010,True,end of loan
+Bolton Wanderers,David Wheater,23.0,England,Centre-Back,CB,3500000.0,Middlesbrough,England,2750000.0,in,winter,Premier League,2010,False,
+Bolton Wanderers,Daniel Sturridge,21.0,England,Centre-Forward,CF,4000000.0,Chelsea,England,0.0,in,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Stuart McDonald,,N/A,Central Midfield,CM,,Gretna,Scotland,0.0,out,winter,Premier League,2010,False,
+Bolton Wanderers,Ricardo Gardner,32.0,Jamaica,Left-Back,LB,1500000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Danny Ward,19.0,England,Centre-Forward,CF,50000.0,Huddersfield,England,0.0,out,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Jlloyd Samuel,29.0,Trinidad and Tobago,Defensive Midfield,DM,1500000.0,Cardiff,England,0.0,out,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Danny Shittu,30.0,Nigeria,Centre-Back,CB,1000000.0,Millwall,England,0.0,out,winter,Premier League,2010,False,
+Bolton Wanderers,Tope Obadeyi,20.0,England,Left Winger,LW,,Shrewsbury,England,0.0,out,winter,Premier League,2010,True,free loan
+Bolton Wanderers,Andrew O'Brien,31.0,Ireland,Centre-Back,CB,2000000.0,Leeds,England,,out,winter,Premier League,2010,False,
+Bolton Wanderers,Riga Mustapha,29.0,Netherlands,Right Winger,RW,1000000.0,Without Club,,,out,winter,Premier League,2010,False,
+Chelsea FC,Ramires,23.0,Brazil,Central Midfield,CM,10500000.0,Benfica,Portugal,22000000.0,in,summer,Premier League,2010,False,
+Chelsea FC,Yossi Benayoun,30.0,Israel,Right Winger,RW,10500000.0,Liverpool,England,7000000.0,in,summer,Premier League,2010,False,
+Chelsea FC,Tomas Kalas,17.0,Czech Republic,Centre-Back,CB,,Sigma Olomouc,Czech Republic,6000000.0,in,summer,Premier League,2010,False,
+Chelsea FC,Matej Delac,17.0,Croatia,Goalkeeper,GK,1500000.0,Inter Zapresic,Croatia,3000000.0,in,summer,Premier League,2010,False,
+Chelsea FC,Ricardo Carvalho,32.0,Portugal,Centre-Back,CB,17500000.0,Real Madrid,Spain,8000000.0,out,summer,Premier League,2010,False,
+Chelsea FC,Miroslav Stoch,20.0,Slovakia,Left Winger,LW,4500000.0,Fenerbahce,Turkey,5500000.0,out,summer,Premier League,2010,False,
+Chelsea FC,Franco Di Santo,21.0,Argentina,Centre-Forward,CF,2500000.0,Wigan,England,2400000.0,out,summer,Premier League,2010,False,
+Chelsea FC,Scott Sinclair,21.0,England,Left Winger,LW,1500000.0,Swansea,England,600000.0,out,summer,Premier League,2010,False,
+Chelsea FC,Juliano Belletti,34.0,Brazil,Right-Back,RB,4500000.0,Fluminense,Brazil,0.0,out,summer,Premier League,2010,False,
+Chelsea FC,Joe Cole,28.0,England,Attacking Midfield,AM,21000000.0,Liverpool,England,0.0,out,summer,Premier League,2010,False,
+Chelsea FC,Michael Ballack,33.0,Germany,Central Midfield,CM,20000000.0,Bay. Leverkusen,Germany,0.0,out,summer,Premier League,2010,False,
+Chelsea FC,Tomas Kalas,17.0,Czech Republic,Centre-Back,CB,,Sigma Olomouc,Czech Republic,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Ryan Bertrand,21.0,England,Left-Back,LB,750000.0,Nottm Forest,England,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Deco,32.0,Portugal,Attacking Midfield,AM,10000000.0,Fluminense,Brazil,0.0,out,summer,Premier League,2010,False,
+Chelsea FC,Slobodan Rajkovic,21.0,Serbia,Centre-Back,CB,2500000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Nemanja Matic,22.0,Serbia,Defensive Midfield,DM,2000000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Matej Delac,17.0,Croatia,Goalkeeper,GK,1500000.0,Vitesse,Netherlands,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Michael Mancienne,22.0,England,Centre-Back,CB,3000000.0,Wolves,England,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Conor Clifford,19.0,Ireland,Central Midfield,CM,,Plymouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Chelsea FC,Fernando Torres,26.0,Spain,Centre-Forward,CF,50000000.0,Liverpool,England,58500000.0,in,winter,Premier League,2010,False,
+Chelsea FC,David Luiz,23.0,Brazil,Centre-Back,CB,14000000.0,Benfica,Portugal,25000000.0,in,winter,Premier League,2010,False,
+Chelsea FC,Gaël Kakuta,19.0,DR Congo,Attacking Midfield,AM,1000000.0,Fulham,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Patrick van Aanholt,20.0,Netherlands,Left-Back,LB,1000000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Daniel Sturridge,21.0,England,Centre-Forward,CF,4000000.0,Bolton,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Conor Clifford,19.0,Ireland,Central Midfield,CM,,Notts County,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Jeffrey Bruma,19.0,Netherlands,Centre-Back,CB,2000000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Fabio Borini,19.0,Italy,Left Winger,LW,100000.0,Swansea,England,0.0,out,winter,Premier League,2010,True,free loan
+Chelsea FC,Conor Clifford,19.0,Ireland,Central Midfield,CM,,Plymouth,England,0.0,out,winter,Premier League,2010,True,free loan
+Everton FC,Magaye Gueye,19.0,Senegal,Centre-Forward,CF,900000.0,R. Strasbourg,France,1400000.0,in,summer,Premier League,2010,False,
+Everton FC,Jan Mucha,27.0,Slovakia,Goalkeeper,GK,3200000.0,Legia Warszawa,Poland,0.0,in,summer,Premier League,2010,False,
+Everton FC,Jermaine Beckford,26.0,Jamaica,Centre-Forward,CF,1500000.0,Leeds,England,0.0,in,summer,Premier League,2010,False,
+Everton FC,John Ruddy,23.0,England,Goalkeeper,GK,750000.0,Norwich,England,600000.0,out,summer,Premier League,2010,False,
+Everton FC,Lukas Jutkiewicz,21.0,England,Centre-Forward,CF,800000.0,Coventry,England,600000.0,out,summer,Premier League,2010,False,
+Everton FC,Joseph Yobo,29.0,Nigeria,Centre-Back,CB,8000000.0,Fenerbahce,Turkey,600000.0,out,summer,Premier League,2010,True,loan with fee
+Everton FC,Dan Gosling,20.0,England,Central Midfield,CM,3000000.0,Newcastle,England,0.0,out,summer,Premier League,2010,False,
+Everton FC,Carlo Nash,36.0,England,Goalkeeper,GK,250000.0,Stoke City,England,0.0,out,summer,Premier League,2010,False,
+Everton FC,Anton Peterlin,23.0,United States,Central Midfield,CM,50000.0,Plymouth,England,0.0,out,summer,Premier League,2010,False,
+Everton FC,Iain Turner,26.0,Scotland,Goalkeeper,GK,500000.0,Coventry,England,0.0,out,summer,Premier League,2010,True,free loan
+Everton FC,James Vaughan,22.0,England,Centre-Forward,CF,1500000.0,Crystal Palace,England,0.0,out,summer,Premier League,2010,True,free loan
+Everton FC,Apostolos Vellios,19.0,Greece,Centre-Forward,CF,600000.0,Iraklis,Greece,300000.0,in,winter,Premier League,2010,False,
+Everton FC,Steven Pienaar,28.0,South Africa,Left Winger,LW,9500000.0,Spurs,England,3600000.0,out,winter,Premier League,2010,False,
+Everton FC,Yakubu Aiyegbeni,28.0,Nigeria,Centre-Forward,CF,12000000.0,Leicester,England,1200000.0,out,winter,Premier League,2010,True,loan with fee
+Everton FC,Kieran Agard,21.0,England,Centre-Forward,CF,,Peterborough,England,0.0,out,winter,Premier League,2010,True,free loan
+Everton FC,Kieran Agard,21.0,England,Centre-Forward,CF,,Kilmarnock FC,Scotland,0.0,out,winter,Premier League,2010,True,free loan
+Everton FC,Iain Turner,27.0,Scotland,Goalkeeper,GK,500000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Everton FC,Shane Duffy,19.0,Ireland,Centre-Back,CB,,Burnley,England,0.0,out,winter,Premier League,2010,True,free loan
+Fulham FC,Mousa Dembélé,23.0,Belgium,Central Midfield,CM,7500000.0,AZ Alkmaar,Netherlands,6000000.0,in,summer,Premier League,2010,False,
+Fulham FC,Rafik Halliche,23.0,Algeria,Centre-Back,CB,2000000.0,Benfica,Portugal,2500000.0,in,summer,Premier League,2010,False,
+Fulham FC,Carlos Salcido,30.0,Mexico,Centre-Back,CB,6000000.0,PSV Eindhoven,Netherlands,1950000.0,in,summer,Premier League,2010,False,
+Fulham FC,Philippe Senderos,25.0,Switzerland,Centre-Back,CB,3000000.0,Arsenal,England,0.0,in,summer,Premier League,2010,False,
+Fulham FC,Jonathan Greening,31.0,England,Central Midfield,CM,3500000.0,West Brom,England,0.0,in,summer,Premier League,2010,False,
+Fulham FC,Chris Smalling,20.0,England,Centre-Back,CB,2000000.0,Man Utd,England,8000000.0,out,summer,Premier League,2010,False,
+Fulham FC,Paul Konchesky,29.0,England,Left-Back,LB,4000000.0,Liverpool,England,4200000.0,out,summer,Premier League,2010,False,
+Fulham FC,Bruno Luz,21.0,Portugal,Left Winger,LW,,Apol. Limassol,Cyprus,250000.0,out,summer,Premier League,2010,False,
+Fulham FC,Toni Kallio,31.0,Finland,Centre-Back,CB,500000.0,Viking FK,Norway,0.0,out,summer,Premier League,2010,False,
+Fulham FC,Michael Uwezu,19.0,England,Centre-Forward,CF,100000.0,Dulwich Hamlet FC,England,0.0,out,summer,Premier League,2010,False,
+Fulham FC,Elliot Omozusi,22.0,England,Right-Back,RB,750000.0,Leyton Orient,England,0.0,out,summer,Premier League,2010,False,
+Fulham FC,Stefan Payne,18.0,England,Centre-Forward,CF,75000.0,Gillingham FC,England,0.0,out,summer,Premier League,2010,False,
+Fulham FC,Wayne Brown,21.0,England,Attacking Midfield,AM,1500000.0,Bristol Rovers,England,0.0,out,summer,Premier League,2010,False,
+Fulham FC,Erik Nevland,32.0,Norway,Centre-Forward,CF,2000000.0,Viking FK,Norway,0.0,out,summer,Premier League,2010,False,
+Fulham FC,King Gyan,21.0,Ghana,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Premier League,2010,False,
+Fulham FC,Andranik Teymourian,27.0,Iran,Defensive Midfield,DM,750000.0,Without Club,,,out,summer,Premier League,2010,False,
+Fulham FC,Stefano Okaka,20.0,Italy,Centre-Forward,CF,4000000.0,AS Roma,Italy,0.0,out,summer,Premier League,2010,True,end of loan
+Fulham FC,Jonathan Greening,31.0,England,Central Midfield,CM,3500000.0,West Brom,England,0.0,out,summer,Premier League,2010,True,end of loan
+Fulham FC,Steve Sidwell,28.0,England,Central Midfield,CM,3500000.0,Aston Villa,England,600000.0,in,winter,Premier League,2010,False,
+Fulham FC,Gaël Kakuta,19.0,DR Congo,Attacking Midfield,AM,1000000.0,Chelsea,England,0.0,in,winter,Premier League,2010,True,free loan
+Fulham FC,Eidur Gudjohnsen,32.0,Iceland,Centre-Forward,CF,3000000.0,Stoke City,England,0.0,in,winter,Premier League,2010,True,free loan
+Fulham FC,David Elm,27.0,Sweden,Centre-Forward,CF,1000000.0,Elfsborg,Sweden,360000.0,out,winter,Premier League,2010,False,
+Fulham FC,Rob Milsom,24.0,England,Central Midfield,CM,,Aberdeen FC,Scotland,0.0,out,winter,Premier League,2010,False,
+Fulham FC,Eddie Johnson,26.0,United States,Centre-Forward,CF,1000000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Fulham FC,Björn Helge Riise,27.0,Norway,Right Midfield,RM,1500000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+Fulham FC,Kagisho Dikgacoi,26.0,South Africa,Central Midfield,CM,1000000.0,Crystal Palace,England,0.0,out,winter,Premier League,2010,True,free loan
+Fulham FC,Diomansy Kamara,30.0,Senegal,Right Winger,RW,2000000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Fulham FC,Fredrik Stoor,26.0,Sweden,Right-Back,RB,750000.0,Vålerenga,Norway,,out,winter,Premier League,2010,False,
+Fulham FC,Neil Etheridge,21.0,Philippines,Goalkeeper,GK,250000.0,Charlton,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,Raúl Meireles,27.0,Portugal,Central Midfield,CM,11000000.0,FC Porto,Portugal,13000000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Christian Poulsen,30.0,Denmark,Defensive Midfield,DM,5500000.0,Juventus,Italy,5480000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Paul Konchesky,29.0,England,Left-Back,LB,4000000.0,Fulham,England,4200000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Brad Jones,28.0,Australia,Goalkeeper,GK,1500000.0,Middlesbrough,England,2800000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Danny Wilson,18.0,Scotland,Centre-Back,CB,1000000.0,Rangers,Scotland,2750000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Jonjo Shelvey,18.0,England,Central Midfield,CM,950000.0,Charlton,England,2000000.0,in,summer,Premier League,2010,False,
+Liverpool FC,Milan Jovanovic,29.0,Serbia,Left Winger,LW,8500000.0,Standard Liège,Belgium,0.0,in,summer,Premier League,2010,False,
+Liverpool FC,Joe Cole,28.0,England,Attacking Midfield,AM,21000000.0,Chelsea,England,0.0,in,summer,Premier League,2010,False,
+Liverpool FC,Javier Mascherano,26.0,Argentina,Defensive Midfield,DM,26000000.0,FC Barcelona,Spain,20000000.0,out,summer,Premier League,2010,False,
+Liverpool FC,Yossi Benayoun,30.0,Israel,Right Winger,RW,10500000.0,Chelsea,England,7000000.0,out,summer,Premier League,2010,False,
+Liverpool FC,Albert Riera,28.0,Spain,Left Winger,LW,14000000.0,Olympiacos,Greece,6000000.0,out,summer,Premier League,2010,False,
+Liverpool FC,Krisztián Németh,21.0,Hungary,Centre-Forward,CF,1500000.0,Olympiacos,Greece,1200000.0,out,summer,Premier League,2010,False,
+Liverpool FC,Damien Plessis,22.0,France,Defensive Midfield,DM,500000.0,Panathinaikos,Greece,800000.0,out,summer,Premier League,2010,False,
+Liverpool FC,Emiliano Insúa,21.0,Argentina,Left-Back,LB,6500000.0,Galatasaray,Turkey,750000.0,out,summer,Premier League,2010,True,loan with fee
+Liverpool FC,Nabil El Zhar,24.0,Morocco,Right Winger,RW,500000.0,PAOK Salonika,Greece,250000.0,out,summer,Premier League,2010,True,loan with fee
+Liverpool FC,Nikolay Mihaylov,22.0,Bulgaria,Goalkeeper,GK,1000000.0,Twente FC,Netherlands,0.0,out,summer,Premier League,2010,False,
+Liverpool FC,Daniel Ayala,19.0,Spain,Centre-Back,CB,750000.0,Hull City,England,0.0,out,summer,Premier League,2010,True,free loan
+Liverpool FC,Diego Cavalieri,27.0,Brazil,Goalkeeper,GK,2000000.0,Cesena,Italy,0.0,out,summer,Premier League,2010,False,
+Liverpool FC,Alberto Aquilani,26.0,Italy,Central Midfield,CM,13000000.0,Juventus,Italy,0.0,out,summer,Premier League,2010,True,free loan
+Liverpool FC,Philipp Degen,27.0,Switzerland,Right-Back,RB,1500000.0,VfB Stuttgart,Germany,0.0,out,summer,Premier League,2010,True,free loan
+Liverpool FC,Robbie Threlfall,21.0,England,Left-Back,LB,100000.0,Bradford,England,0.0,out,summer,Premier League,2010,False,
+Liverpool FC,David Martin,24.0,England,Goalkeeper,GK,200000.0,MK Dons,England,0.0,out,summer,Premier League,2010,False,
+Liverpool FC,Péter Gulácsi,20.0,Hungary,Goalkeeper,GK,,Tranmere Rovers,England,0.0,out,summer,Premier League,2010,True,free loan
+Liverpool FC,Lauri Dalla Valle,18.0,Finland,Centre-Forward,CF,,Fulham U23,England,,out,summer,Premier League,2010,False,
+Liverpool FC,Andy Carroll,22.0,England,Centre-Forward,CF,2500000.0,Newcastle,England,41000000.0,in,winter,Premier League,2010,False,
+Liverpool FC,Luis Suárez,24.0,Uruguay,Centre-Forward,CF,25000000.0,Ajax,Netherlands,26500000.0,in,winter,Premier League,2010,False,
+Liverpool FC,Fernando Torres,26.0,Spain,Centre-Forward,CF,50000000.0,Chelsea,England,58500000.0,out,winter,Premier League,2010,False,
+Liverpool FC,Ryan Babel,24.0,Netherlands,Left Winger,LW,6500000.0,TSG Hoffenheim,Germany,7000000.0,out,winter,Premier League,2010,False,
+Liverpool FC,Charles Itandje,28.0,Cameroon,Goalkeeper,GK,1250000.0,Atromitos Athen,Greece,0.0,out,winter,Premier League,2010,False,
+Liverpool FC,Nathan Eccleston,20.0,England,Centre-Forward,CF,,Charlton,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,Paul Konchesky,29.0,England,Left-Back,LB,4000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,András Simon,20.0,Hungary,Centre-Forward,CF,,Excelsior,Netherlands,0.0,out,winter,Premier League,2010,False,
+Liverpool FC,Daniel Ayala,20.0,Spain,Centre-Back,CB,750000.0,Derby,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,Brad Jones,28.0,Australia,Goalkeeper,GK,1500000.0,Derby,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,Dani Pacheco,20.0,Spain,Left Winger,LW,100000.0,Norwich,England,0.0,out,winter,Premier League,2010,True,free loan
+Liverpool FC,Stephen Darby,22.0,England,Right-Back,RB,,Notts County,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,Yaya Touré,27.0,Cote d'Ivoire,Central Midfield,CM,18000000.0,FC Barcelona,Spain,30000000.0,in,summer,Premier League,2010,False,
+Manchester City,Mario Balotelli,20.0,Italy,Centre-Forward,CF,26000000.0,Inter,Italy,29500000.0,in,summer,Premier League,2010,False,
+Manchester City,David Silva,24.0,Spain,Attacking Midfield,AM,32000000.0,Valencia,Spain,28750000.0,in,summer,Premier League,2010,False,
+Manchester City,Aleksandar Kolarov,24.0,Serbia,Left-Back,LB,9000000.0,Lazio,Italy,23860000.0,in,summer,Premier League,2010,False,
+Manchester City,James Milner,24.0,England,Central Midfield,CM,20000000.0,Aston Villa,England,22000000.0,in,summer,Premier League,2010,False,
+Manchester City,Jérôme Boateng,21.0,Germany,Centre-Back,CB,15000000.0,Hamburger SV,Germany,12500000.0,in,summer,Premier League,2010,False,
+Manchester City,Mohammed Abu,18.0,Ghana,Defensive Midfield,DM,,SC Accra,Ghana,,in,summer,Premier League,2010,False,
+Manchester City,Robinho,26.0,Brazil,Left Winger,LW,28000000.0,AC Milan,Italy,21000000.0,out,summer,Premier League,2010,False,
+Manchester City,Stephen Ireland,23.0,Ireland,Attacking Midfield,AM,13000000.0,Aston Villa,England,9700000.0,out,summer,Premier League,2010,False,
+Manchester City,Javier Garrido,25.0,Spain,Left-Back,LB,2500000.0,Lazio,Italy,2500000.0,out,summer,Premier League,2010,False,
+Manchester City,Valeri Bojinov,24.0,Bulgaria,Centre-Forward,CF,6200000.0,Parma,Italy,2000000.0,out,summer,Premier League,2010,False,
+Manchester City,Vladimir Weiss,20.0,Slovakia,Left Winger,LW,3000000.0,Rangers,Scotland,600000.0,out,summer,Premier League,2010,True,loan with fee
+Manchester City,Martin Petrov,31.0,Bulgaria,Left Winger,LW,9000000.0,Bolton,England,0.0,out,summer,Premier League,2010,False,
+Manchester City,Gunnar Nielsen,23.0,Faroe Islands,Goalkeeper,GK,250000.0,Tranmere Rovers,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Karl Moore,21.0,Ireland,Attacking Midfield,AM,50000.0,UCD,Ireland,0.0,out,summer,Premier League,2010,False,
+Manchester City,Benjani,31.0,Zimbabwe,Centre-Forward,CF,5000000.0,Blackburn,England,0.0,out,summer,Premier League,2010,False,
+Manchester City,Ryan McGivern,20.0,Northern Ireland,Left-Back,LB,100000.0,Walsall,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Nedum Onuoha,23.0,England,Centre-Back,CB,4500000.0,Sunderland,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Craig Bellamy,31.0,Wales,Left Winger,LW,12000000.0,Cardiff,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Felipe Caicedo,21.0,Ecuador,Centre-Forward,CF,4000000.0,Levante,Spain,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Mohammed Abu,18.0,Ghana,Defensive Midfield,DM,,Strømsgodset,Norway,0.0,out,summer,Premier League,2010,True,free loan
+Manchester City,Sylvinho,36.0,Brazil,Left-Back,LB,1000000.0,Retired,,,out,summer,Premier League,2010,False,
+Manchester City,Kelvin Etuhu,22.0,Nigeria,Defensive Midfield,DM,750000.0,Without Club,,,out,summer,Premier League,2010,False,
+Manchester City,Márton Fülöp,27.0,Hungary,Goalkeeper,GK,3000000.0,Sunderland,England,0.0,out,summer,Premier League,2010,True,end of loan
+Manchester City,Edin Dzeko,24.0,Bosnia-Herzegovina,Centre-Forward,CF,30000000.0,VfL Wolfsburg,Germany,37000000.0,in,winter,Premier League,2010,False,
+Manchester City,Emmanuel Adebayor,26.0,Togo,Centre-Forward,CF,23000000.0,Real Madrid,Spain,4000000.0,out,winter,Premier League,2010,True,loan with fee
+Manchester City,Wayne Bridge,30.0,England,Left-Back,LB,6000000.0,West Ham,England,350000.0,out,winter,Premier League,2010,True,loan with fee
+Manchester City,Ben Mee,21.0,England,Centre-Back,CB,,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,Abdisalam Ibrahim,19.0,Norway,Central Midfield,CM,100000.0,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,Roque Santa Cruz,29.0,Paraguay,Centre-Forward,CF,7000000.0,Blackburn,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,Javan Vidal,21.0,England,Right-Back,RB,100000.0,Chesterfield FC,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,David González,28.0,Colombia,Goalkeeper,GK,,Leeds,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,Donal McDermott,21.0,Ireland,Attacking Midfield,AM,,Bournemouth,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester City,John Guidetti,18.0,Sweden,Centre-Forward,CF,50000.0,Burnley,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Bebé,20.0,Portugal,Left Winger,LW,100000.0,Vit. Guimarães,Portugal,8800000.0,in,summer,Premier League,2010,False,
+Manchester United,Chris Smalling,20.0,England,Centre-Back,CB,2000000.0,Fulham,England,8000000.0,in,summer,Premier League,2010,False,
+Manchester United,Chicharito,22.0,Mexico,Centre-Forward,CF,6000000.0,Chivas,Mexico,7500000.0,in,summer,Premier League,2010,False,
+Manchester United,Zoran Tosic,23.0,Serbia,Right Winger,RW,5500000.0,CSKA Moscow,Russia,9500000.0,out,summer,Premier League,2010,False,
+Manchester United,Ben Foster,27.0,England,Goalkeeper,GK,3000000.0,Birmingham,England,7000000.0,out,summer,Premier League,2010,False,
+Manchester United,Tom Heaton,24.0,England,Goalkeeper,GK,1500000.0,Cardiff,England,0.0,out,summer,Premier League,2010,False,
+Manchester United,David Gray,22.0,Scotland,Right-Back,RB,400000.0,Preston,England,0.0,out,summer,Premier League,2010,False,
+Manchester United,Sam Hewson,21.0,England,Central Midfield,CM,,Altrincham,England,0.0,out,summer,Premier League,2010,False,
+Manchester United,James Chester,21.0,Wales,Centre-Back,CB,50000.0,Carlisle United,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Mame Diouf,22.0,Senegal,Centre-Forward,CF,3000000.0,Blackburn,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Danny Drinkwater,20.0,England,Central Midfield,CM,150000.0,Cardiff,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Danny Welbeck,19.0,England,Centre-Forward,CF,2500000.0,Sunderland,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Rodrigo Possebon,21.0,Italy,Central Midfield,CM,800000.0,Santos FC,Brazil,0.0,out,summer,Premier League,2010,False,
+Manchester United,Tom Cleverley,21.0,England,Central Midfield,CM,750000.0,Wigan,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Conor Devlin,18.0,Northern Ireland,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Ritchie De Laet,21.0,Belgium,Right-Back,RB,1250000.0,Sheff Utd,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Reece Brown,18.0,England,Centre-Back,CB,,Bradford,England,0.0,out,summer,Premier League,2010,True,free loan
+Manchester United,Scott Moffatt,19.0,England,Centre-Back,CB,,Without Club,,,out,summer,Premier League,2010,False,
+Manchester United,Anders Lindegaard,26.0,Denmark,Goalkeeper,GK,3200000.0,Aalesund,Norway,5000000.0,in,winter,Premier League,2010,False,
+Manchester United,Federico Macheda,19.0,Italy,Centre-Forward,CF,1500000.0,Sampdoria,Italy,465000.0,out,winter,Premier League,2010,True,loan with fee
+Manchester United,James Chester,21.0,Wales,Centre-Back,CB,50000.0,Hull City,England,350000.0,out,winter,Premier League,2010,False,
+Manchester United,Ben Amos,20.0,England,Goalkeeper,GK,,Oldham Athletic,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Ritchie De Laet,22.0,Belgium,Right-Back,RB,1250000.0,Portsmouth,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Joe Dudgeon,20.0,Northern Ireland,Left-Back,LB,,Carlisle United,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Danny Drinkwater,20.0,England,Central Midfield,CM,750000.0,Watford,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Ritchie De Laet,21.0,Belgium,Right-Back,RB,1250000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Manchester United,Gary Neville,35.0,England,Right-Back,RB,2500000.0,Retired,,,out,winter,Premier League,2010,False,
+Newcastle United,Cheik Tioté,24.0,Cote d'Ivoire,Defensive Midfield,DM,3500000.0,Twente FC,Netherlands,4280000.0,in,summer,Premier League,2010,False,
+Newcastle United,Hatem Ben Arfa,23.0,France,Attacking Midfield,AM,7000000.0,Marseille,France,2500000.0,in,summer,Premier League,2010,True,loan with fee
+Newcastle United,James Perch,24.0,England,Defensive Midfield,DM,1000000.0,Nottm Forest,England,1200000.0,in,summer,Premier League,2010,False,
+Newcastle United,Dan Gosling,20.0,England,Central Midfield,CM,3000000.0,Everton,England,0.0,in,summer,Premier League,2010,False,
+Newcastle United,Sol Campbell,35.0,England,Centre-Back,CB,1500000.0,Arsenal,England,0.0,in,summer,Premier League,2010,False,
+Newcastle United,Fraser Forster,22.0,England,Goalkeeper,GK,500000.0,Celtic,Scotland,750000.0,out,summer,Premier League,2010,True,loan with fee
+Newcastle United,Kazenga LuaLua,19.0,England,Left Winger,LW,500000.0,Brighton,England,0.0,out,summer,Premier League,2010,True,free loan
+Newcastle United,Ben Tozer,20.0,England,Centre-Back,CB,500000.0,Northampton,England,0.0,out,summer,Premier League,2010,True,free loan
+Newcastle United,Nicky Butt,35.0,England,Central Midfield,CM,2200000.0,Career break,,,out,summer,Premier League,2010,False,
+Newcastle United,Fabrice Pancrate,30.0,France,Right Winger,RW,1300000.0,Without Club,,,out,summer,Premier League,2010,False,
+Newcastle United,Jonny Godsmark,20.0,England,midfield,midfield,25000.0,Without Club,,,out,summer,Premier League,2010,False,
+Newcastle United,Wesley Ngo Baheng,20.0,France,Centre-Forward,CF,50000.0,Without Club,,,out,summer,Premier League,2010,False,
+Newcastle United,Fitz Hall,29.0,England,Centre-Back,CB,2000000.0,QPR,England,0.0,out,summer,Premier League,2010,True,end of loan
+Newcastle United,Hatem Ben Arfa,23.0,France,Attacking Midfield,AM,7000000.0,Marseille,France,6000000.0,in,winter,Premier League,2010,False,
+Newcastle United,Stephen Ireland,24.0,Ireland,Attacking Midfield,AM,13000000.0,Aston Villa,England,0.0,in,winter,Premier League,2010,True,free loan
+Newcastle United,Shefki Kuqi,34.0,Finland,Centre-Forward,CF,750000.0,Swansea,England,0.0,in,winter,Premier League,2010,False,
+Newcastle United,Andy Carroll,22.0,England,Centre-Forward,CF,2500000.0,Liverpool,England,41000000.0,out,winter,Premier League,2010,False,
+Newcastle United,Matthew Grieve,20.0,England,Centre-Back,CB,,Stockport,England,0.0,out,winter,Premier League,2010,True,free loan
+Newcastle United,Jóan Símun Edmundsson,19.0,Faroe Islands,Attacking Midfield,AM,,Gateshead FC,England,0.0,out,winter,Premier League,2010,True,free loan
+Newcastle United,Tamás Kádár,20.0,Hungary,Centre-Back,CB,500000.0,Huddersfield,England,0.0,out,winter,Premier League,2010,True,free loan
+Newcastle United,Wayne Routledge,26.0,England,Left Winger,LW,1500000.0,QPR,England,0.0,out,winter,Premier League,2010,True,free loan
+Newcastle United,Ryan Donaldson,19.0,England,Right Winger,RW,,Hartlepool Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Newcastle United,Xisco,24.0,Spain,Centre-Forward,CF,2000000.0,Dep. La Coruña,Spain,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Kenwyne Jones,25.0,Trinidad and Tobago,Centre-Forward,CF,10000000.0,Sunderland,England,9700000.0,in,summer,Premier League,2010,False,
+Stoke City,Marc Wilson,23.0,Ireland,Centre-Back,CB,2500000.0,Portsmouth,England,3600000.0,in,summer,Premier League,2010,False,
+Stoke City,Jonathan Walters,26.0,Ireland,Right Winger,RW,1750000.0,Ipswich,England,3300000.0,in,summer,Premier League,2010,False,
+Stoke City,Eidur Gudjohnsen,31.0,Iceland,Centre-Forward,CF,3000000.0,Monaco,France,2500000.0,in,summer,Premier League,2010,False,
+Stoke City,Carlo Nash,36.0,England,Goalkeeper,GK,250000.0,Everton,England,0.0,in,summer,Premier League,2010,False,
+Stoke City,Jermaine Pennant,27.0,England,Right Winger,RW,2500000.0,Real Zaragoza,Spain,0.0,in,summer,Premier League,2010,True,free loan
+Stoke City,James Beattie,32.0,England,Centre-Forward,CF,4000000.0,Rangers,Scotland,1800000.0,out,summer,Premier League,2010,False,
+Stoke City,Andy Griffin,31.0,England,Right-Back,RB,1200000.0,Reading,England,475000.0,out,summer,Premier League,2010,False,
+Stoke City,Amdy Fayé,33.0,Senegal,Defensive Midfield,DM,1000000.0,Leeds,England,0.0,out,summer,Premier League,2010,False,
+Stoke City,Steve Simonsen,31.0,England,Goalkeeper,GK,750000.0,Sheff Utd,England,0.0,out,summer,Premier League,2010,False,
+Stoke City,Diego Arismendi,22.0,Uruguay,Defensive Midfield,DM,1500000.0,Barnsley FC,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Louis Moult,18.0,England,Centre-Forward,CF,,Bradford,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Ibrahima Sonko,29.0,Senegal,Centre-Back,CB,1000000.0,Portsmouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Carl Dickinson,23.0,England,Left-Back,LB,800000.0,Portsmouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Ben Marshall,19.0,England,Right Midfield,RM,50000.0,Carlisle United,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Warwick Alexander,18.0,England,attack,attack,,Rugby Town,England,0.0,out,summer,Premier League,2010,False,
+Stoke City,Liam Lawrence,28.0,Ireland,Attacking Midfield,AM,3000000.0,Portsmouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Stoke City,Dave Kitson,30.0,England,Centre-Forward,CF,2500000.0,Portsmouth,England,,out,summer,Premier League,2010,False,
+Stoke City,Jermaine Pennant,27.0,England,Right Winger,RW,2500000.0,Real Zaragoza,Spain,2000000.0,in,winter,Premier League,2010,False,
+Stoke City,John Carew,31.0,Norway,Centre-Forward,CF,10000000.0,Aston Villa,England,0.0,in,winter,Premier League,2010,True,free loan
+Stoke City,Tuncay Sanli,29.0,Turkey,Left Winger,LW,6500000.0,VfL Wolfsburg,Germany,4500000.0,out,winter,Premier League,2010,False,
+Stoke City,Andrew Davies,26.0,England,Centre-Back,CB,750000.0,Walsall,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Louis Moult,18.0,England,Centre-Forward,CF,,Mansfield Town,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Eidur Gudjohnsen,32.0,Iceland,Centre-Forward,CF,3000000.0,Fulham,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Alex Hedley,18.0,England,defence,defence,,Nantwich Town,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Andrew Davies,26.0,England,Centre-Back,CB,750000.0,Middlesbrough,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Michael Tonge,27.0,England,Central Midfield,CM,500000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Danny Pugh,28.0,England,Left-Back,LB,1500000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Matthew Lund,19.0,Northern Ireland,Central Midfield,CM,,Hereford Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Stoke City,Liam Lawrence,29.0,Ireland,Attacking Midfield,AM,3000000.0,Portsmouth,England,,out,winter,Premier League,2010,False,
+Sunderland AFC,Asamoah Gyan,24.0,Ghana,Centre-Forward,CF,11000000.0,Stade Rennais,France,16000000.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Simon Mignolet,22.0,Belgium,Goalkeeper,GK,2500000.0,Sint-Truiden,Belgium,2500000.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Marcos Angeleri,27.0,Argentina,Centre-Back,CB,3500000.0,Estudiantes,Argentina,1800000.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Titus Bramble,28.0,England,Centre-Back,CB,4000000.0,Wigan,England,1200000.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Ahmed Elmohamady,22.0,Egypt,Right-Back,RB,2000000.0,Enppi SC,Egypt,600000.0,in,summer,Premier League,2010,True,loan with fee
+Sunderland AFC,Cristian Riveros,27.0,Paraguay,Defensive Midfield,DM,3000000.0,CD Cruz Azul,Mexico,0.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Billy Knott,17.0,England,Central Midfield,CM,,Chelsea U18,England,0.0,in,summer,Premier League,2010,False,
+Sunderland AFC,Nedum Onuoha,23.0,England,Centre-Back,CB,4500000.0,Man City,England,0.0,in,summer,Premier League,2010,True,free loan
+Sunderland AFC,Danny Welbeck,19.0,England,Centre-Forward,CF,2500000.0,Man Utd,England,0.0,in,summer,Premier League,2010,True,free loan
+Sunderland AFC,Kenwyne Jones,25.0,Trinidad and Tobago,Centre-Forward,CF,10000000.0,Stoke City,England,9700000.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Lorik Cana,26.0,Albania,Defensive Midfield,DM,12000000.0,Galatasaray,Turkey,4500000.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Martyn Waghorn,20.0,England,Centre-Forward,CF,900000.0,Leicester,England,3600000.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Daryl Murphy,27.0,Ireland,Centre-Forward,CF,1500000.0,Celtic,Scotland,1700000.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Márton Fülöp,27.0,Hungary,Goalkeeper,GK,3000000.0,Ipswich,England,425000.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Jack Colback,20.0,England,Defensive Midfield,DM,,Ipswich,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Ryan Noble,19.0,England,Centre-Forward,CF,,Derby,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,George McCartney,29.0,Northern Ireland,Left-Back,LB,3000000.0,Leeds,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Teemu Tainio,30.0,Finland,Defensive Midfield,DM,2500000.0,Ajax,Netherlands,0.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Matthew Kilgallon,26.0,England,Centre-Back,CB,1500000.0,Middlesbrough,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Roy O'Donovan,24.0,Ireland,Centre-Forward,CF,750000.0,Coventry,England,0.0,out,summer,Premier League,2010,False,
+Sunderland AFC,Michael Liddle,20.0,Ireland,Left-Back,LB,50000.0,Leyton Orient,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Jean-Yves M'voto,21.0,France,Centre-Back,CB,275000.0,Oldham Athletic,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Oumare Tounkara,20.0,France,Centre-Forward,CF,,Oldham Athletic,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Nyron Nosworthy,29.0,Jamaica,Centre-Back,CB,2500000.0,Sheff Utd,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Andy Reid,28.0,Ireland,Left Midfield,LM,5000000.0,Sheff Utd,England,0.0,out,summer,Premier League,2010,True,free loan
+Sunderland AFC,Stéphane Sessègnon,26.0,Benin,Attacking Midfield,AM,8500000.0,Paris SG,France,7000000.0,in,winter,Premier League,2010,False,
+Sunderland AFC,Sulley Muntari,26.0,Ghana,Central Midfield,CM,11000000.0,Inter,Italy,0.0,in,winter,Premier League,2010,True,free loan
+Sunderland AFC,Darren Bent,26.0,England,Centre-Forward,CF,18000000.0,Aston Villa,England,21500000.0,out,winter,Premier League,2010,False,
+Sunderland AFC,Paulo da Silva,30.0,Paraguay,Centre-Back,CB,2500000.0,Real Zaragoza,Spain,350000.0,out,winter,Premier League,2010,False,
+Sunderland AFC,Matthew Kilgallon,27.0,England,Centre-Back,CB,1500000.0,Doncaster,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Trevor Carson,22.0,Northern Ireland,Goalkeeper,GK,250000.0,Lincoln City,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,David Healy,31.0,Northern Ireland,Centre-Forward,CF,1000000.0,Rangers,Scotland,0.0,out,winter,Premier League,2010,False,
+Sunderland AFC,Andy Reid,28.0,Ireland,Left Midfield,LM,5000000.0,Blackpool,England,0.0,out,winter,Premier League,2010,False,
+Sunderland AFC,Robbie Weir,22.0,Northern Ireland,Central Midfield,CM,,Tranmere Rovers,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Trevor Carson,22.0,Northern Ireland,Goalkeeper,GK,250000.0,Brentford,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Jordan Cook,21.0,England,Second Striker,SS,50000.0,Walsall,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Jack Colback,20.0,England,Defensive Midfield,DM,,Ipswich,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Andy Reid,28.0,Ireland,Left Midfield,LM,5000000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,David Healy,31.0,Northern Ireland,Centre-Forward,CF,1000000.0,Doncaster,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Robbie Weir,21.0,Northern Ireland,Central Midfield,CM,,York City,England,0.0,out,winter,Premier League,2010,True,free loan
+Sunderland AFC,Adam Reed,19.0,Philippines,Defensive Midfield,DM,,Brentford,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Rafael van der Vaart,27.0,Netherlands,Attacking Midfield,AM,15000000.0,Real Madrid,Spain,10500000.0,in,summer,Premier League,2010,False,
+Tottenham Hotspur,Sandro,21.0,Brazil,Defensive Midfield,DM,9000000.0,Internacional,Brazil,10000000.0,in,summer,Premier League,2010,False,
+Tottenham Hotspur,Stipe Pletikosa,31.0,Croatia,Goalkeeper,GK,2700000.0,Spartak Moscow,Russia,700000.0,in,summer,Premier League,2010,True,loan with fee
+Tottenham Hotspur,William Gallas,33.0,France,Centre-Back,CB,9000000.0,Arsenal,England,0.0,in,summer,Premier League,2010,False,
+Tottenham Hotspur,Adel Taarabt,21.0,Morocco,Attacking Midfield,AM,2200000.0,QPR,England,1200000.0,out,summer,Premier League,2010,False,
+Tottenham Hotspur,Kyle Walker,20.0,England,Right-Back,RB,2000000.0,QPR,England,235000.0,out,summer,Premier League,2010,True,loan with fee
+Tottenham Hotspur,Jonathan Obika,19.0,England,Centre-Forward,CF,125000.0,Crystal Palace,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Ben Alnwick,23.0,England,Goalkeeper,GK,,Leeds,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Kyle Naughton,21.0,England,Right-Back,RB,2000000.0,Leicester,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Paul-José Mpoku,18.0,DR Congo,Left Winger,LW,,Leyton Orient,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Steven Caulker,18.0,England,Centre-Back,CB,,Bristol City,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Adam Smith,19.0,England,Right-Back,RB,300000.0,Bournemouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Jake Livermore,20.0,England,Defensive Midfield,DM,300000.0,Ipswich,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Danny Rose,20.0,England,Left-Back,LB,500000.0,Bristol City,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Jonathan Obika,20.0,England,Centre-Forward,CF,125000.0,Yeovil Town,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Ryan Mason,19.0,England,Central Midfield,CM,50000.0,Doncaster,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Andros Townsend,19.0,England,Right Winger,RW,,Ipswich,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,John Bostock,18.0,Trinidad and Tobago,Central Midfield,CM,300000.0,Hull City,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Oscar Jansson,19.0,Sweden,Goalkeeper,GK,50000.0,Northampton,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,David Button,21.0,England,Goalkeeper,GK,125000.0,Plymouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Tottenham Hotspur,Dorian Dervite,22.0,France,Centre-Back,CB,500000.0,Villarreal CF B,Spain,0.0,out,summer,Premier League,2010,False,
+Tottenham Hotspur,Jimmy Walker,36.0,England,Goalkeeper,GK,150000.0,Without Club,,,out,summer,Premier League,2010,False,
+Tottenham Hotspur,Eidur Gudjohnsen,31.0,Iceland,Centre-Forward,CF,4500000.0,Monaco,France,0.0,out,summer,Premier League,2010,True,end of loan
+Tottenham Hotspur,Steven Pienaar,28.0,South Africa,Left Winger,LW,9500000.0,Everton,England,3600000.0,in,winter,Premier League,2010,False,
+Tottenham Hotspur,Bongani Khumalo,23.0,South Africa,Centre-Back,CB,1000000.0,SuperSport Utd.,South Africa,1800000.0,in,winter,Premier League,2010,False,
+Tottenham Hotspur,Simon Dawkins,23.0,Jamaica,Left Winger,LW,50000.0,Without Club,,,in,winter,Premier League,2010,False,
+Tottenham Hotspur,Robbie Keane,30.0,Ireland,Centre-Forward,CF,10000000.0,West Ham,England,1200000.0,out,winter,Premier League,2010,True,loan with fee
+Tottenham Hotspur,Giovani dos Santos,21.0,Mexico,Second Striker,SS,5500000.0,Racing,Spain,300000.0,out,winter,Premier League,2010,True,loan with fee
+Tottenham Hotspur,Jonathan Obika,20.0,England,Centre-Forward,CF,125000.0,Swindon Town,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Ben Alnwick,23.0,England,Goalkeeper,GK,,Leeds,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Kyle Naughton,21.0,England,Right-Back,RB,2000000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Cameron Lancaster,18.0,England,Centre-Forward,CF,,Dag & Red FC,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Jake Livermore,21.0,England,Defensive Midfield,DM,300000.0,Leeds,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Bongani Khumalo,24.0,South Africa,Centre-Back,CB,1000000.0,Preston,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Andros Townsend,19.0,England,Right Winger,RW,500000.0,Millwall,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Ben Alnwick,24.0,England,Goalkeeper,GK,100000.0,Doncaster,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Mirko Ranieri,18.0,Italy,Goalkeeper,GK,,Basingstoke,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Jonathan Obika,20.0,England,Centre-Forward,CF,125000.0,Peterborough,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Jamie O'Hara,24.0,England,Central Midfield,CM,5000000.0,Wolves,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Tom Carroll,18.0,England,Central Midfield,CM,,Leyton Orient,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Andros Townsend,19.0,England,Right Winger,RW,500000.0,Watford,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,David Bentley,26.0,England,Right Midfield,RM,8500000.0,Birmingham,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Harry Kane,17.0,England,Centre-Forward,CF,,Leyton Orient,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Kyle Walker,20.0,England,Right-Back,RB,2000000.0,Aston Villa,England,0.0,out,winter,Premier League,2010,True,free loan
+Tottenham Hotspur,Simon Dawkins,23.0,Jamaica,Left Winger,LW,50000.0,Quakes,United States,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Peter Odemwingie,29.0,Nigeria,Right Winger,RW,5800000.0,Loko Moscow,Russia,3000000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Somen Tchoyi,27.0,Cameroon,Attacking Midfield,AM,3500000.0,RB Salzburg,Austria,3000000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Marc-Antoine Fortuné,29.0,French Guiana,Centre-Forward,CF,4500000.0,Celtic,Scotland,3000000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Boaz Myhill,27.0,Wales,Goalkeeper,GK,3500000.0,Hull City,England,1800000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Nicky Shorey,29.0,England,Left-Back,LB,4000000.0,Aston Villa,England,1800000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Gabriel Tamas,26.0,Romania,Centre-Back,CB,3500000.0,AJ Auxerre,France,930000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Craig Dawson,20.0,England,Centre-Back,CB,200000.0,Rochdale,England,300000.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Steven Reid,29.0,Ireland,Right-Back,RB,3000000.0,Blackburn,England,0.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Pablo Ibáñez,28.0,Spain,Centre-Back,CB,2800000.0,Atlético Madrid,Spain,0.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Paul Scharner,30.0,Austria,Centre-Back,CB,4500000.0,Wigan,England,0.0,in,summer,Premier League,2010,False,
+West Bromwich Albion,Cameron Gayle,18.0,England,Right-Back,RB,,Víkingur,Iceland,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Filipe Teixeira,29.0,Portugal,Right Winger,RW,800000.0,Metalurg D.,Ukraine,0.0,out,summer,Premier League,2010,False,
+West Bromwich Albion,Robert Koren,29.0,Slovenia,Attacking Midfield,AM,3200000.0,Hull City,England,0.0,out,summer,Premier League,2010,False,
+West Bromwich Albion,Jonathan Greening,31.0,England,Central Midfield,CM,3500000.0,Fulham,England,0.0,out,summer,Premier League,2010,False,
+West Bromwich Albion,Reuben Reid,21.0,England,Centre-Forward,CF,200000.0,Walsall,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Andwelé Slory,27.0,Netherlands,Right Winger,RW,2000000.0,Levski Sofia,Bulgaria,0.0,out,summer,Premier League,2010,False,
+West Bromwich Albion,Marcus Haber,21.0,Canada,Centre-Forward,CF,100000.0,St. Johnstone,Scotland,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Craig Dawson,20.0,England,Centre-Back,CB,200000.0,Rochdale,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Leon Barnett,24.0,England,Centre-Back,CB,2500000.0,Norwich,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Luke Daniels,22.0,England,Goalkeeper,GK,125000.0,Charlton,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Chris Wood,18.0,New Zealand,Centre-Forward,CF,750000.0,Barnsley FC,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Luke Moore,24.0,England,Centre-Forward,CF,2000000.0,Derby,England,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Borja Valero,25.0,Spain,Central Midfield,CM,5000000.0,Villarreal,Spain,0.0,out,summer,Premier League,2010,True,free loan
+West Bromwich Albion,Gabriel Tamas,26.0,Romania,Centre-Back,CB,3400000.0,AJ Auxerre,France,0.0,out,summer,Premier League,2010,True,end of loan
+West Bromwich Albion,Carlos Vela,21.0,Mexico,Right Winger,RW,5000000.0,Arsenal,England,0.0,in,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Leon Barnett,25.0,England,Centre-Back,CB,2500000.0,Norwich,England,850000.0,out,winter,Premier League,2010,False,
+West Bromwich Albion,Luke Daniels,23.0,England,Goalkeeper,GK,125000.0,Bristol Rovers,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Joe Mattock,20.0,England,Left-Back,LB,1000000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Ishmael Miller,23.0,England,Centre-Forward,CF,3000000.0,QPR,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Romaine Sawyers,19.0,St. Kitts & Nevis,Central Midfield,CM,50000.0,Port Vale,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Reuben Reid,22.0,England,Centre-Forward,CF,500000.0,Oldham Athletic,England,0.0,out,winter,Premier League,2010,False,
+West Bromwich Albion,Roman Bednár,27.0,Czech Republic,Centre-Forward,CF,2500000.0,Ankaragücü,Turkey,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Chris Wood,18.0,New Zealand,Centre-Forward,CF,750000.0,Brighton,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Gianni Zuiverloon,23.0,Netherlands,Centre-Back,CB,4000000.0,Ipswich,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Roman Bednár,27.0,Czech Republic,Centre-Forward,CF,2500000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Lateef Elford-Alliyu,18.0,England,Centre-Forward,CF,50000.0,Tranmere Rovers,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Luke Daniels,22.0,England,Goalkeeper,GK,125000.0,Rochdale,England,0.0,out,winter,Premier League,2010,True,free loan
+West Bromwich Albion,Luke Moore,24.0,England,Centre-Forward,CF,1500000.0,Swansea,England,,out,winter,Premier League,2010,False,
+West Ham United,Pablo Barrera,23.0,Mexico,Right Winger,RW,3500000.0,UNAM Pumas,Mexico,4800000.0,in,summer,Premier League,2010,False,
+West Ham United,Winston Reid,22.0,New Zealand,Centre-Back,CB,1500000.0,FC Midtjylland,Denmark,4200000.0,in,summer,Premier League,2010,False,
+West Ham United,Frédéric Piquionne,31.0,Martinique,Centre-Forward,CF,4500000.0,Olympique Lyon,France,1200000.0,in,summer,Premier League,2010,False,
+West Ham United,Ruud Boffin,22.0,Belgium,Goalkeeper,GK,400000.0,MVV Maastricht,Netherlands,300000.0,in,summer,Premier League,2010,False,
+West Ham United,Thomas Hitzlsperger,28.0,Germany,Central Midfield,CM,5500000.0,Lazio,Italy,0.0,in,summer,Premier League,2010,False,
+West Ham United,Tal Ben Haim,28.0,Israel,Centre-Back,CB,3500000.0,Portsmouth,England,0.0,in,summer,Premier League,2010,True,free loan
+West Ham United,Lars Jacobsen,30.0,Denmark,Right-Back,RB,2000000.0,Blackburn,England,0.0,in,summer,Premier League,2010,False,
+West Ham United,Victor Obinna,23.0,Nigeria,Second Striker,SS,4000000.0,Inter,Italy,0.0,in,summer,Premier League,2010,True,free loan
+West Ham United,Alessandro Diamanti,27.0,Italy,Attacking Midfield,AM,5000000.0,Brescia,Italy,2200000.0,out,summer,Premier League,2010,False,
+West Ham United,Fabio Daprelà,19.0,Switzerland,Centre-Back,CB,500000.0,Brescia,Italy,750000.0,out,summer,Premier League,2010,False,
+West Ham United,Terry Dixon,20.0,Ireland,Centre-Forward,CF,,Stevenage,England,0.0,out,summer,Premier League,2010,False,
+West Ham United,Danny Kearns,18.0,Ireland,Right Midfield,RM,,Dundalk FC,Ireland,0.0,out,summer,Premier League,2010,False,
+West Ham United,Danny Uchechi,20.0,Nigeria,Attacking Midfield,AM,,FC Dender,Nigeria,0.0,out,summer,Premier League,2010,False,
+West Ham United,Ilan,29.0,Brazil,Centre-Forward,CF,3300000.0,Internacional,Brazil,0.0,out,summer,Premier League,2010,False,
+West Ham United,Frank Nouble,18.0,England,Centre-Forward,CF,1000000.0,Swansea,England,0.0,out,summer,Premier League,2010,True,free loan
+West Ham United,Freddie Sears,20.0,England,Left Winger,LW,1000000.0,Scunthorpe Utd.,England,0.0,out,summer,Premier League,2010,True,free loan
+West Ham United,Benni McCarthy,33.0,South Africa,Centre-Forward,CF,2500000.0,Without Club,,,out,summer,Premier League,2010,False,
+West Ham United,Guillermo Franco,33.0,Mexico,Centre-Forward,CF,3500000.0,Without Club,,,out,summer,Premier League,2010,False,
+West Ham United,Tony Brookes,19.0,England,Centre-Back,CB,,Without Club,,,out,summer,Premier League,2010,False,
+West Ham United,Gary O'Neil,27.0,England,Central Midfield,CM,2750000.0,Middlesbrough,England,2900000.0,in,winter,Premier League,2010,False,
+West Ham United,Robbie Keane,30.0,Ireland,Centre-Forward,CF,10000000.0,Spurs,England,1200000.0,in,winter,Premier League,2010,True,loan with fee
+West Ham United,Demba Ba,25.0,Senegal,Centre-Forward,CF,9000000.0,TSG Hoffenheim,Germany,800000.0,in,winter,Premier League,2010,False,
+West Ham United,Wayne Bridge,30.0,England,Left-Back,LB,6000000.0,Man City,England,350000.0,in,winter,Premier League,2010,True,loan with fee
+West Ham United,Paul McCallum,17.0,England,Centre-Forward,CF,,Dulwich Hamlet FC,England,75000.0,in,winter,Premier League,2010,False,
+West Ham United,Valon Behrami,25.0,Switzerland,Defensive Midfield,DM,8000000.0,Fiorentina,Italy,2000000.0,out,winter,Premier League,2010,False,
+West Ham United,Frank Nouble,19.0,England,Centre-Forward,CF,1000000.0,Barnsley FC,England,0.0,out,winter,Premier League,2010,True,free loan
+West Ham United,Jordan Spence,20.0,England,Right-Back,RB,,Bristol City,England,0.0,out,winter,Premier League,2010,True,free loan
+West Ham United,Kieron Dyer,32.0,England,Right Midfield,RM,2500000.0,Ipswich,England,0.0,out,winter,Premier League,2010,True,free loan
+West Ham United,Frank Nouble,19.0,England,Centre-Forward,CF,1000000.0,Charlton,England,0.0,out,winter,Premier League,2010,True,free loan
+West Ham United,Freddie Sears,20.0,England,Left Winger,LW,1000000.0,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Wigan Athletic,Ronnie Stam,26.0,Netherlands,Right-Back,RB,3500000.0,Twente FC,Netherlands,4000000.0,in,summer,Premier League,2010,False,
+Wigan Athletic,Mauro Boselli,25.0,Argentina,Centre-Forward,CF,7500000.0,Estudiantes,Argentina,3700000.0,in,summer,Premier League,2010,False,
+Wigan Athletic,Franco Di Santo,21.0,Argentina,Centre-Forward,CF,2500000.0,Chelsea,England,2400000.0,in,summer,Premier League,2010,False,
+Wigan Athletic,James McArthur,22.0,Scotland,Central Midfield,CM,1750000.0,Hamilton Acad.,Scotland,600000.0,in,summer,Premier League,2010,False,
+Wigan Athletic,Antolín Alcaraz,27.0,Paraguay,Centre-Back,CB,3000000.0,Club Brugge,Belgium,0.0,in,summer,Premier League,2010,False,
+Wigan Athletic,Steven Caldwell,29.0,Scotland,Centre-Back,CB,2500000.0,Burnley,England,0.0,in,summer,Premier League,2010,False,
+Wigan Athletic,Tom Cleverley,21.0,England,Central Midfield,CM,750000.0,Man Utd,England,0.0,in,summer,Premier League,2010,True,free loan
+Wigan Athletic,Ali Al Habsi,28.0,Oman,Goalkeeper,GK,750000.0,Bolton,England,0.0,in,summer,Premier League,2010,True,free loan
+Wigan Athletic,Titus Bramble,28.0,England,Centre-Back,CB,4000000.0,Sunderland,England,1200000.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Jason Scotland,31.0,Trinidad and Tobago,Centre-Forward,CF,2000000.0,Ipswich,England,1200000.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Tomasz Cywka,22.0,Poland,Defensive Midfield,DM,250000.0,Derby,England,0.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Tomasz Kupisz,20.0,Poland,Right Midfield,RM,250000.0,Jagiellonia,Poland,0.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Mario Melchiot,33.0,Netherlands,Right-Back,RB,3500000.0,Umm Salal SC,Qatar,0.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Paul Scharner,30.0,Austria,Centre-Back,CB,4500000.0,West Brom,England,0.0,out,summer,Premier League,2010,False,
+Wigan Athletic,Jason Koumas,30.0,Wales,Attacking Midfield,AM,2000000.0,Cardiff,England,0.0,out,summer,Premier League,2010,True,free loan
+Wigan Athletic,Antonio Amaya,27.0,Spain,Centre-Back,CB,750000.0,Rayo Vallecano,Spain,0.0,out,summer,Premier League,2010,True,free loan
+Wigan Athletic,Richard Kingson,32.0,Ghana,Goalkeeper,GK,500000.0,Blackpool,England,,out,summer,Premier League,2010,False,
+Wigan Athletic,Olivier Kapo,29.0,France,Attacking Midfield,AM,1800000.0,Without Club,,,out,summer,Premier League,2010,False,
+Wigan Athletic,Marcelo Moreno,23.0,Bolivia,Centre-Forward,CF,3500000.0,Shakhtar D.,Ukraine,0.0,out,summer,Premier League,2010,True,end of loan
+Wigan Athletic,Vladimir Stojkovic,26.0,Serbia,Goalkeeper,GK,1000000.0,Sporting CP,Portugal,0.0,out,summer,Premier League,2010,True,end of loan
+Wigan Athletic,Conor Sammon,24.0,Ireland,Centre-Forward,CF,300000.0,Kilmarnock FC,Scotland,700000.0,in,winter,Premier League,2010,False,
+Wigan Athletic,Adrián López,23.0,Spain,Centre-Back,CB,500000.0,Dep. La Coruña,Spain,0.0,in,winter,Premier League,2010,False,
+Wigan Athletic,Mauro Boselli,25.0,Argentina,Centre-Forward,CF,7500000.0,Genoa,Italy,1000000.0,out,winter,Premier League,2010,True,loan with fee
+Wigan Athletic,Lee Nicholls,18.0,England,Goalkeeper,GK,,Shrewsbury,England,0.0,out,winter,Premier League,2010,True,free loan
+Wigan Athletic,Won-hee Cho,27.0,"Korea, South",Defensive Midfield,DM,1500000.0,GZ Evergrande,China,0.0,out,winter,Premier League,2010,False,
+Wigan Athletic,Lee Nicholls,18.0,England,Goalkeeper,GK,50000.0,Sheff Wed,England,0.0,out,winter,Premier League,2010,True,free loan
+Wigan Athletic,Rachid Bouaouzan,26.0,Netherlands,Left Midfield,LM,500000.0,Helsingborg,Sweden,0.0,out,winter,Premier League,2010,False,
+Wigan Athletic,Lee Nicholls,18.0,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,winter,Premier League,2010,True,free loan
+Wigan Athletic,Chris Kirkland,29.0,England,Goalkeeper,GK,5500000.0,Leicester,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Steven Fletcher,23.0,Scotland,Centre-Forward,CF,4500000.0,Burnley,England,7200000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Stephen Hunt,28.0,Ireland,Left Midfield,LM,5000000.0,Hull City,England,3600000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Jelle Van Damme,26.0,Belgium,Centre-Back,CB,4500000.0,RSC Anderlecht,Belgium,3250000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Steven Mouyokolo,23.0,France,Centre-Back,CB,1000000.0,Hull City,England,3000000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Adlène Guédioura,24.0,Algeria,Central Midfield,CM,500000.0,RSC Charleroi,Belgium,2300000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Matt Doherty,18.0,Ireland,Right-Back,RB,,Bohemians,Ireland,90000.0,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Marcus Bent,32.0,England,Centre-Forward,CF,1500000.0,Birmingham,England,0.0,in,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Michael Mancienne,22.0,England,Centre-Back,CB,3000000.0,Chelsea,England,0.0,in,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Jake Cassidy,17.0,Wales,Centre-Forward,CF,,Airbus UK BFC,Wales,,in,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Andrew Surman,23.0,England,Central Midfield,CM,1500000.0,Norwich,England,1680000.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Jason Shackell,26.0,England,Centre-Back,CB,1250000.0,Barnsley FC,England,785000.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Chris Iwelumo,31.0,Scotland,Centre-Forward,CF,2000000.0,Burnley,England,475000.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,George Friend,22.0,England,Left-Back,LB,250000.0,Doncaster,England,0.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Dan Jones,23.0,England,Left-Back,LB,225000.0,Sheff Wed,England,0.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Stefan Maierhofer,27.0,Austria,Centre-Forward,CF,1250000.0,MSV Duisburg,Germany,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Sam Vokes,20.0,Wales,Centre-Forward,CF,750000.0,Bristol City,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Andy Keogh,24.0,Ireland,Centre-Forward,CF,1500000.0,Cardiff,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Carl Ikeme,24.0,Nigeria,Goalkeeper,GK,750000.0,Leicester,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,David Davis,19.0,England,Central Midfield,CM,,Walsall,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Greg Halford,25.0,England,Centre-Back,CB,2000000.0,Portsmouth,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Scott Malone,19.0,England,Left-Back,LB,100000.0,Burton Albion,England,0.0,out,summer,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Matt Hill,29.0,England,Left-Back,LB,500000.0,Barnsley FC,England,0.0,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Matt Murray,29.0,England,Goalkeeper,GK,500000.0,Retired,,,out,summer,Premier League,2010,False,
+Wolverhampton Wanderers,Segundo Castillo,28.0,Ecuador,Defensive Midfield,DM,2000000.0,Red Star,Serbia,0.0,out,summer,Premier League,2010,True,end of loan
+Wolverhampton Wanderers,Adlène Guédioura,24.0,Algeria,Central Midfield,CM,500000.0,RSC Charleroi,Belgium,0.0,out,summer,Premier League,2010,True,end of loan
+Wolverhampton Wanderers,Adam Hammill,22.0,England,Right Winger,RW,1000000.0,Barnsley FC,England,600000.0,in,winter,Premier League,2010,False,
+Wolverhampton Wanderers,Leigh Griffiths,20.0,Scotland,Centre-Forward,CF,900000.0,Dundee FC,Scotland,175000.0,in,winter,Premier League,2010,False,
+Wolverhampton Wanderers,Jamie O'Hara,24.0,England,Central Midfield,CM,5000000.0,Spurs,England,0.0,in,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Adriano Basso,35.0,Brazil,Goalkeeper,GK,,Without Club,,,in,winter,Premier League,2010,False,
+Wolverhampton Wanderers,Jelle Van Damme,27.0,Belgium,Centre-Back,CB,4500000.0,Standard Liège,Belgium,3500000.0,out,winter,Premier League,2010,False,
+Wolverhampton Wanderers,John Dunleavy,19.0,Ireland,Centre-Back,CB,,Barnet,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,David Davis,19.0,England,Central Midfield,CM,,Shrewsbury,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Andy Keogh,24.0,Ireland,Centre-Forward,CF,1500000.0,Bristol City,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Sam Winnall,20.0,England,Centre-Forward,CF,,Burton Albion,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Sam Vokes,21.0,Wales,Centre-Forward,CF,750000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Jamie Reckord,18.0,England,Left-Back,LB,,Northampton,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Danny Batth,20.0,England,Centre-Back,CB,100000.0,Sheff Wed,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Sam Vokes,21.0,Wales,Centre-Forward,CF,750000.0,Norwich,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Greg Halford,25.0,England,Centre-Back,CB,2000000.0,Portsmouth,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Scott Malone,19.0,England,Left-Back,LB,100000.0,Burton Albion,England,0.0,out,winter,Premier League,2010,True,free loan
+Wolverhampton Wanderers,Matt Hill,29.0,England,Left-Back,LB,500000.0,Barnsley FC,England,0.0,out,winter,Premier League,2010,False,
+Wolverhampton Wanderers,Danny Batth,20.0,England,Centre-Back,CB,100000.0,Sheff Utd,England,0.0,out,winter,Premier League,2010,True,free loan

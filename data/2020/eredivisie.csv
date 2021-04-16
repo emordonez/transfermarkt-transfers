@@ -1,0 +1,527 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+ADO Den Haag,Amar Catic,21,Bosnia-Herzegovina,Centre-Forward,CF,275000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Ravel Morrison,27,Jamaica,Attacking Midfield,AM,600000.0,Sheff Utd,England,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Vicente Besuijen,19,Netherlands,Right Winger,RW,75000.0,Roma U19,Italy,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Pascu,20,Spain,Central Midfield,CM,200000.0,Valencia B,Spain,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Peet Bijen,25,Netherlands,Centre-Back,CB,475000.0,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Ricardo Kishna,25,Netherlands,Left Winger,LW,300000.0,Lazio,Italy,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Kees de Boer,20,Netherlands,Central Midfield,CM,,Swansea U23,Wales,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Luuk Koopmans,26,Netherlands,Goalkeeper,GK,475000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Boy Kemper,21,Netherlands,Centre-Back,CB,400000.0,Ajax U21,Netherlands,,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Andrei Ratiu,22,Romania,Right-Back,RB,300000.0,Villarreal CF B,Spain,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Samy Bourard,24,Belgium,Attacking Midfield,AM,400000.0,FC Eindhoven,Netherlands,,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Jonas Arweiler,23,Germany,Centre-Forward,CF,450000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Dante Rigo,21,Belgium,Defensive Midfield,DM,800000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,David Philipp,20,Germany,Right Winger,RW,200000.0,W. Bremen II,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Lassana Faye,22,Netherlands,Left-Back,LB,350000.0,Sparta R.,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Ilay Elmkies,20,Israel,Central Midfield,CM,525000.0,TSG Hoffenheim,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Dario Del Fabro,25,Italy,Centre-Back,CB,350000.0,Juventus U23,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Nikolaos Karelis,28,Greece,Centre-Forward,CF,800000.0,Without Club,,,in,summer,Eredivisie,2020,False,
+ADO Den Haag,Thom Haye,25,Netherlands,Defensive Midfield,DM,400000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Thijmen Goppel,23,Netherlands,Right Winger,RW,325000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Dion Malone,31,Suriname,Defensive Midfield,DM,550000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Tom Beugelsdijk,30,Netherlands,Centre-Back,CB,475000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Lex Immers,34,Netherlands,Attacking Midfield,AM,400000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Erik Falkenburg,32,Netherlands,Attacking Midfield,AM,400000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Elson Hooi,28,Curacao,Right Winger,RW,475000.0,Muaither SC,Qatar,0.0,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Lorenzo van Kleef,19,Netherlands,Right-Back,RB,75000.0,FC Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Robin Polley,21,Ghana,Right-Back,RB,50000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Dehninio Muringen,21,Netherlands,Centre-Back,CB,50000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Mike Havekotte,24,Netherlands,Goalkeeper,GK,75000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Aaron Meijers,32,Netherlands,Left-Back,LB,550000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Danny Bakker,25,Netherlands,Central Midfield,CM,650000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+ADO Den Haag,Tomas Necid,30,Czech Republic,Centre-Forward,CF,650000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Hennos Asmelash,21,Netherlands,Right-Back,RB,275000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Jordan Spence,30,England,Right-Back,RB,400000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+ADO Den Haag,Luuk Koopmans,26,Netherlands,Goalkeeper,GK,475000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Aleksandar Bjelica,26,Serbia,Centre-Back,CB,300000.0,Korona Kielce,Poland,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Sam Stubbs,21,England,Centre-Back,CB,250000.0,Boro U23,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,George Thomas,23,Wales,Attacking Midfield,AM,250000.0,Leicester,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Laurens De Bock,27,Belgium,Left-Back,LB,550000.0,Leeds,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Mick van Buren,27,Netherlands,Right Winger,RW,600000.0,Slavia Prague,Czech Republic,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Tudor Baluta,21,Romania,Defensive Midfield,DM,3600000.0,Brighton,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Omar Bogle,27,England,Centre-Forward,CF,600000.0,Cardiff,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Mark Duffy,34,England,Right Midfield,RM,400000.0,Sheff Utd,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+ADO Den Haag,Martin Fraisl,27,Austria,Goalkeeper,GK,600000.0,SV Sandhausen,Germany,0.0,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Tomislav Gomelt,26,Croatia,Central Midfield,CM,200000.0,Crotone,Italy,0.0,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Youness Mokhtar,29,Morocco,Left Winger,LW,2000000.0,Columbus Crew,United States,0.0,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Juan Familia-Castillo,20,Netherlands,Left-Back,LB,1300000.0,Chelsea U23,England,0.0,in,winter,Eredivisie,2020,True,free loan
+ADO Den Haag,Bobby Adekanye,21,Netherlands,Right Winger,RW,800000.0,Lazio,Italy,0.0,in,winter,Eredivisie,2020,True,free loan
+ADO Den Haag,Daryl Janmaat,31,Netherlands,Centre-Back,CB,3000000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Marko Vejinović,30,Netherlands,Central Midfield,CM,900000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Nasser El Khayati,31,Netherlands,Attacking Midfield,AM,2000000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Gianni Zuiverloon,33,Netherlands,Centre-Back,CB,300000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+ADO Den Haag,Samy Bourard,24,Belgium,Attacking Midfield,AM,400000.0,Fehérvár,Hungary,200000.0,out,winter,Eredivisie,2020,False,
+ADO Den Haag,Nikolaos Karelis,28,Greece,Centre-Forward,CF,800000.0,Panetolikos,Greece,0.0,out,winter,Eredivisie,2020,False,
+ADO Den Haag,Evan Rottier,18,Netherlands,Centre-Forward,CF,75000.0,TOP Oss,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+ADO Den Haag,Ravel Morrison,27,Jamaica,Attacking Midfield,AM,600000.0,Without Club,,,out,winter,Eredivisie,2020,False,
+AZ Alkmaar,Jesper Karlsson,22,Sweden,Left Winger,LW,900000.0,Elfsborg,Sweden,2600000.0,in,summer,Eredivisie,2020,False,
+AZ Alkmaar,Hobie Verhulst,27,Netherlands,Goalkeeper,GK,450000.0,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+AZ Alkmaar,Timo Letschert,27,Netherlands,Centre-Back,CB,950000.0,Hamburger SV,Germany,0.0,in,summer,Eredivisie,2020,False,
+AZ Alkmaar,Yukinari Sugawara,20,Japan,Right-Back,RB,1800000.0,Nagoya Grampus,Japan,,in,summer,Eredivisie,2020,False,
+AZ Alkmaar,Juan Familia-Castillo,20,Netherlands,Left-Back,LB,1300000.0,Chelsea U23,England,0.0,in,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Bruno Martins Indi,28,Netherlands,Centre-Back,CB,3500000.0,Stoke City,England,0.0,in,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Oussama Idrissi,24,Morocco,Left Winger,LW,12000000.0,Sevilla FC,Spain,12000000.0,out,summer,Eredivisie,2020,False,
+AZ Alkmaar,Ondrej Mihalik,23,Czech Republic,Centre-Forward,CF,325000.0,Viktoria Plzen,Czech Republic,850000.0,out,summer,Eredivisie,2020,False,
+AZ Alkmaar,Stijn Wuytens,30,Belgium,Centre-Back,CB,1200000.0,Lommel SK,Belgium,0.0,out,summer,Eredivisie,2020,False,
+AZ Alkmaar,Leon Bergsma,23,Netherlands,Centre-Back,CB,325000.0,FC Aarau,Switzerland,0.0,out,summer,Eredivisie,2020,False,
+AZ Alkmaar,Mees Hoedemakers,22,Netherlands,Defensive Midfield,DM,500000.0,SC Cambuur,Netherlands,,out,summer,Eredivisie,2020,False,
+AZ Alkmaar,Jasper Schendelaar,19,Netherlands,Goalkeeper,GK,675000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Rody de Boer,22,Netherlands,Goalkeeper,GK,750000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Thomas Ouwejan,23,Netherlands,Left-Back,LB,2400000.0,Udinese Calcio,Italy,0.0,out,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Joris Kramer,24,Netherlands,Centre-Back,CB,300000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+AZ Alkmaar,Yukinari Sugawara,20,Japan,Right-Back,RB,1800000.0,Nagoya Grampus,Japan,0.0,out,summer,Eredivisie,2020,True,end of loan
+AZ Alkmaar,Ferdy Druijf,22,Netherlands,Centre-Forward,CF,2000000.0,KV Mechelen,Belgium,0.0,out,winter,Eredivisie,2020,True,free loan
+AZ Alkmaar,Thijs Oosting,20,Netherlands,Attacking Midfield,AM,600000.0,RKC Waalwijk,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+AZ Alkmaar,Ron Vlaar,35,Netherlands,Centre-Back,CB,600000.0,Retired,,,out,winter,Eredivisie,2020,False,
+Ajax Amsterdam,Antony,20,Brazil,Right Winger,RW,18000000.0,São Paulo,Brazil,15750000.0,in,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Davy Klaassen,27,Netherlands,Central Midfield,CM,12000000.0,Werder Bremen,Germany,11000000.0,in,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Mohammed Kudus,19,Ghana,Attacking Midfield,AM,9000000.0,Nordsjaelland,Denmark,9000000.0,in,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Sean Klaiber,26,Netherlands,Right-Back,RB,2400000.0,FC Utrecht,Netherlands,4250000.0,in,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Maarten Stekelenburg,37,Netherlands,Goalkeeper,GK,550000.0,Everton,England,0.0,in,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Hakim Ziyech,27,Morocco,Right Winger,RW,40000000.0,Chelsea,England,40000000.0,out,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Donny van de Beek,23,Netherlands,Central Midfield,CM,44000000.0,Man Utd,England,39000000.0,out,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Sergiño Dest,19,United States,Right-Back,RB,18000000.0,FC Barcelona,Spain,21000000.0,out,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Joël Veltman,28,Netherlands,Centre-Back,CB,8000000.0,Brighton,England,1000000.0,out,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Benjamin van Leer,28,Netherlands,Goalkeeper,GK,725000.0,Sparta R.,Netherlands,,out,summer,Eredivisie,2020,False,
+Ajax Amsterdam,Kik Pierie,19,Netherlands,Centre-Back,CB,3000000.0,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Răzvan Marin,24,Romania,Central Midfield,CM,8000000.0,Cagliari Calcio,Italy,0.0,out,summer,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Lisandro Magallán,26,Argentina,Centre-Back,CB,4800000.0,Crotone,Italy,0.0,out,summer,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Carel Eiting,22,Netherlands,Central Midfield,CM,4500000.0,Huddersfield,England,0.0,out,summer,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Noa Lang,21,Netherlands,Left Winger,LW,3500000.0,Club Brugge,Belgium,0.0,out,summer,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Bruno Varela,25,Portugal,Goalkeeper,GK,2400000.0,Benfica,Portugal,0.0,out,summer,Eredivisie,2020,True,end of loan
+Ajax Amsterdam,Ryan Babel,33,Netherlands,Left Winger,LW,2000000.0,Galatasaray,Turkey,0.0,out,summer,Eredivisie,2020,True,end of loan
+Ajax Amsterdam,Sébastien Haller,26,Cote d'Ivoire,Centre-Forward,CF,30000000.0,West Ham,England,22500000.0,in,winter,Eredivisie,2020,False,
+Ajax Amsterdam,Oussama Idrissi,24,Morocco,Left Winger,LW,9000000.0,Sevilla FC,Spain,0.0,in,winter,Eredivisie,2020,True,free loan
+Ajax Amsterdam,Quincy Promes,29,Netherlands,Left Winger,LW,15000000.0,Spartak Moscow,Russia,8500000.0,out,winter,Eredivisie,2020,False,
+Ajax Amsterdam,Klaas-Jan Huntelaar,37,Netherlands,Centre-Forward,CF,800000.0,FC Schalke 04,Germany,0.0,out,winter,Eredivisie,2020,False,
+FC Emmen,Simon Tibbling,25,Sweden,Central Midfield,CM,1300000.0,Bröndby IF,Denmark,350000.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Lucas Bernadou,19,France,Central Midfield,CM,,Paris SG B,France,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Behadil Sabani,20,Kosovo,Defensive Midfield,DM,25000.0,M'gladbach II,Germany,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Sekou Sidibe,19,Belgium,Right Winger,RW,350000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Collin Seedorf,25,Netherlands,Right-Back,RB,275000.0,FC Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Ricardo van Rhijn,29,Netherlands,Right-Back,RB,650000.0,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Felix Wiedwald,30,Germany,Goalkeeper,GK,475000.0,E. Frankfurt,Germany,0.0,in,summer,Eredivisie,2020,False,
+FC Emmen,Caner Cavlan,28,Netherlands,Left-Back,LB,475000.0,Austria Vienna,Austria,,in,summer,Eredivisie,2020,False,
+FC Emmen,Denis Granecny,21,Czech Republic,Left-Back,LB,350000.0,Banik Ostrava,Czech Republic,0.0,in,summer,Eredivisie,2020,True,free loan
+FC Emmen,Michaël Heylen,26,Belgium,Centre-Back,CB,400000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Freddy Quispel,19,Netherlands,Centre-Forward,CF,50000.0,VfB Oldenburg,Germany,0.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Jafar Arias,25,Curacao,Centre-Forward,CF,400000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Matthias Hamrol,26,Germany,Goalkeeper,GK,325000.0,Wehen Wiesbaden,Germany,0.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Wouter Marinus,25,Netherlands,Attacking Midfield,AM,300000.0,ZZVV,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Leon Sopic,19,Croatia,Centre-Back,CB,75000.0,Din. Zagreb II,Croatia,25000.0,out,summer,Eredivisie,2020,False,
+FC Emmen,Henk Bos,27,Netherlands,Central Midfield,CM,125000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Emmen,Daniel Camara Bos,21,Netherlands,Right-Back,RB,50000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Emmen,Tom Hiariej,31,Netherlands,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Emmen,Lorenzo Burnet,29,Netherlands,Left-Back,LB,325000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Emmen,Jan-Niklas Beste,21,Germany,Left-Back,LB,350000.0,Werder Bremen,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Emmen,Filip Ugrinic,21,Switzerland,Central Midfield,CM,525000.0,FC Luzern,Switzerland,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Emmen,Luka Adzic,21,Serbia,Left Winger,LW,900000.0,RSC Anderlecht,Belgium,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Emmen,Kerim Frei,26,Turkey,Left Winger,LW,525000.0,Basaksehir,Turkey,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Emmen,Pontus Dahlberg,21,Sweden,Goalkeeper,GK,900000.0,Watford,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Emmen,Kerim Frei,27,Turkey,Left Winger,LW,500000.0,Basaksehir,Turkey,0.0,in,winter,Eredivisie,2020,False,
+FC Emmen,Paul Gladon,28,Netherlands,Centre-Forward,CF,475000.0,Willem II,Netherlands,0.0,in,winter,Eredivisie,2020,False,
+FC Emmen,Jari Vlak,22,Netherlands,Defensive Midfield,DM,375000.0,FC Volendam,Netherlands,,in,winter,Eredivisie,2020,False,
+FC Emmen,Jean-Pierre Rhyner,24,Peru,Centre-Back,CB,300000.0,Cádiz CF,Spain,0.0,in,winter,Eredivisie,2020,True,free loan
+FC Emmen,Luka Adzic,22,Serbia,Left Winger,LW,900000.0,RSC Anderlecht,Belgium,0.0,in,winter,Eredivisie,2020,True,free loan
+FC Emmen,Michael Verrips,24,Netherlands,Goalkeeper,GK,800000.0,Sheff Utd,England,0.0,in,winter,Eredivisie,2020,True,free loan
+FC Emmen,Donis Avdijaj,24,Kosovo,Left Winger,LW,800000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+FC Emmen,Donis Avdijaj,24,Kosovo,Left Winger,LW,700000.0,AEL Limassol,Cyprus,0.0,out,winter,Eredivisie,2020,False,
+FC Emmen,Collin Seedorf,25,Netherlands,Right-Back,RB,275000.0,FC Eindhoven,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+FC Emmen,Behadil Sabani,21,Kosovo,Defensive Midfield,DM,25000.0,RW Koblenz,Germany,0.0,out,winter,Eredivisie,2020,False,
+FC Emmen,Anco Jansen,31,Netherlands,Left Winger,LW,550000.0,NAC Breda,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+FC Emmen,Michael Chacón,26,Netherlands,Central Midfield,CM,650000.0,Atl. Nacional,Colombia,,out,winter,Eredivisie,2020,False,
+FC Groningen,Jörgen Strand Larsen,20,Norway,Centre-Forward,CF,300000.0,Sarpsborg 08,Norway,1100000.0,in,summer,Eredivisie,2020,False,
+FC Groningen,Patrick Joosten,24,Netherlands,Left Winger,LW,725000.0,FC Utrecht,Netherlands,600000.0,in,summer,Eredivisie,2020,False,
+FC Groningen,Damil Dankerlui,23,Suriname,Right-Back,RB,650000.0,Willem II,Netherlands,375000.0,in,summer,Eredivisie,2020,False,
+FC Groningen,Wessel Dammers,25,Netherlands,Centre-Back,CB,400000.0,Fortuna Sittard,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Groningen,Nigel Bertrams,27,Netherlands,Goalkeeper,GK,400000.0,MVV Maastricht,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Groningen,Ko Itakura,23,Japan,Centre-Back,CB,800000.0,Man City,England,0.0,in,summer,Eredivisie,2020,True,free loan
+FC Groningen,Miguel Ángel Leal,23,Spain,Right-Back,RB,200000.0,Villarreal,Spain,0.0,in,summer,Eredivisie,2020,True,free loan
+FC Groningen,Alessio Da Cruz,23,Netherlands,Left Winger,LW,1900000.0,Parma,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+FC Groningen,Arjen Robben,36,Netherlands,Right Winger,RW,,Career break,,,in,summer,Eredivisie,2020,False,
+FC Groningen,Deyovaisio Zeefuik,22,Netherlands,Right-Back,RB,2700000.0,Hertha BSC,Germany,4000000.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Ajdin Hrustic,24,Australia,Attacking Midfield,AM,650000.0,E. Frankfurt,Germany,1000000.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Tom van de Looi,21,Netherlands,Central Midfield,CM,425000.0,Brescia,Italy,450000.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Django Warmerdam,24,Netherlands,Left-Back,LB,650000.0,FC Utrecht,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Mike te Wierik,28,Netherlands,Centre-Back,CB,1200000.0,Derby,England,0.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Amir Absalem,23,Netherlands,Left-Back,LB,325000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+FC Groningen,Jan Hoekstra,22,Netherlands,Goalkeeper,GK,300000.0,Roda JC,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Groningen,Nicklas Strunck Jakobsen,21,Denmark,Central Midfield,CM,450000.0,Esbjerg fB,Denmark,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Groningen,Romano Postema,18,Netherlands,Centre-Forward,CF,200000.0,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Groningen,Marco van Duin,33,Netherlands,Goalkeeper,GK,75000.0,Retired,,,out,summer,Eredivisie,2020,False,
+FC Groningen,Tapmahoe Sopacua,20,Netherlands,Right-Back,RB,75000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Groningen,Ko Itakura,23,Japan,Centre-Back,CB,800000.0,Man City,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Groningen,Joel Asoro,21,Sweden,Centre-Forward,CF,1300000.0,Swansea,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Groningen,Daishawn Redan,19,Netherlands,Centre-Forward,CF,3600000.0,Hertha BSC,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Groningen,Per Kristian Bratveit,24,Norway,Goalkeeper,GK,800000.0,Djurgarden,Sweden,0.0,in,winter,Eredivisie,2020,True,free loan
+FC Groningen,Mike te Wierik,28,Netherlands,Centre-Back,CB,1200000.0,Derby,England,,in,winter,Eredivisie,2020,False,
+FC Groningen,Paulos Abraham,18,Sweden,Left Winger,LW,2000000.0,AIK,Sweden,0.0,in,winter,Eredivisie,2020,True,free loan
+FC Groningen,Görkem Can,20,Turkey,Centre-Back,CB,50000.0,Denizlispor,Turkey,0.0,out,winter,Eredivisie,2020,False,
+FC Groningen,Nigel Bertrams,28,Netherlands,Goalkeeper,GK,400000.0,PEC Zwolle,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+FC Utrecht,Django Warmerdam,24,Netherlands,Left-Back,LB,650000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+FC Utrecht,Eljero Elia,33,Netherlands,Left Winger,LW,700000.0,Basaksehir,Turkey,0.0,in,summer,Eredivisie,2020,False,
+FC Utrecht,Mimoun Mahi,26,Morocco,Centre-Forward,CF,2400000.0,FC Zürich,Switzerland,0.0,in,summer,Eredivisie,2020,False,
+FC Utrecht,Moussa Sylla,20,France,Centre-Forward,CF,2700000.0,Monaco,France,0.0,in,summer,Eredivisie,2020,False,
+FC Utrecht,Eric Oelschlägel,25,Germany,Goalkeeper,GK,250000.0,Bor. Dortmund,Germany,0.0,in,summer,Eredivisie,2020,False,
+FC Utrecht,Daniel Arzani,21,Australia,Left Winger,LW,900000.0,Man City,England,0.0,in,summer,Eredivisie,2020,True,free loan
+FC Utrecht,Sean Klaiber,26,Netherlands,Right-Back,RB,2400000.0,Ajax,Netherlands,4250000.0,out,summer,Eredivisie,2020,False,
+FC Utrecht,Patrick Joosten,24,Netherlands,Left Winger,LW,725000.0,FC Groningen,Netherlands,600000.0,out,summer,Eredivisie,2020,False,
+FC Utrecht,Jean-Christophe Bahebeck,27,France,Centre-Forward,CF,1200000.0,Partizan,Serbia,0.0,out,summer,Eredivisie,2020,False,
+FC Utrecht,Rico Strieder,27,Germany,Defensive Midfield,DM,800000.0,PEC Zwolle,Netherlands,,out,summer,Eredivisie,2020,False,
+FC Utrecht,Vaclav Cerny,22,Czech Republic,Right Winger,RW,650000.0,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Utrecht,Mitchell van Rooijen,21,Netherlands,Defensive Midfield,DM,300000.0,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Utrecht,Jonas Arweiler,23,Germany,Centre-Forward,CF,450000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Utrecht,Nick Venema,21,Netherlands,Centre-Forward,CF,1800000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+FC Utrecht,Dario Dumic,28,Bosnia-Herzegovina,Centre-Back,CB,1000000.0,Twente FC,Netherlands,,out,summer,Eredivisie,2020,False,
+FC Utrecht,Lamine Sané,33,Senegal,Centre-Back,CB,475000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+FC Utrecht,Issah Abass,21,Ghana,Centre-Forward,CF,800000.0,1.FSV Mainz 05,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Utrecht,Jeroen Zoet,29,Netherlands,Goalkeeper,GK,5500000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Utrecht,Kristoffer Peterson,25,Sweden,Left Winger,LW,1600000.0,Swansea,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+FC Utrecht,Hidde ter Avest,23,Netherlands,Right-Back,RB,1600000.0,Udinese Calcio,Italy,0.0,in,winter,Eredivisie,2020,False,
+FC Utrecht,Benaissa Benamar,23,Morocco,Centre-Back,CB,450000.0,Telstar,Netherlands,,in,winter,Eredivisie,2020,False,
+FC Utrecht,Remco Balk,19,Netherlands,Right Winger,RW,350000.0,Groningen U21,Netherlands,,in,winter,Eredivisie,2020,False,
+FC Utrecht,Leon Guwara,24,Germany,Left-Back,LB,700000.0,VVV-Venlo,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+FC Utrecht,Justin Lonwijk,21,Netherlands,Attacking Midfield,AM,450000.0,Viborg FF,Denmark,0.0,out,winter,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Francesco Antonucci,21,Belgium,Attacking Midfield,AM,1200000.0,Monaco B,France,2200000.0,in,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,João Carlos Teixeira,27,Portugal,Attacking Midfield,AM,1500000.0,Vit. Guimarães,Portugal,1600000.0,in,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Mark Diemers,26,Netherlands,Central Midfield,CM,1600000.0,Fortuna Sittard,Netherlands,1200000.0,in,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Uros Spajic,27,Serbia,Centre-Back,CB,6500000.0,Krasnodar,Russia,500000.0,in,summer,Eredivisie,2020,True,loan with fee
+Feyenoord Rotterdam,Christian Conteh,20,Germany,Left Winger,LW,450000.0,FC St. Pauli II,Germany,400000.0,in,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Bryan Linssen,29,Netherlands,Left Winger,LW,2400000.0,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Renato Tapia,25,Peru,Defensive Midfield,DM,2400000.0,Celta de Vigo,Spain,0.0,out,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Calvin Verdonk,23,Netherlands,Left-Back,LB,1600000.0,Famalicão,Portugal,0.0,out,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Jan-Arie van der Heijden,32,Netherlands,Centre-Back,CB,650000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Feyenoord Rotterdam,Liam Kelly,24,Ireland,Central Midfield,CM,475000.0,Oxford United,England,0.0,out,summer,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Wouter Burger,19,Netherlands,Central Midfield,CM,1300000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Francesco Antonucci,21,Belgium,Attacking Midfield,AM,1200000.0,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Rick Karsdorp,25,Netherlands,Right-Back,RB,3200000.0,AS Roma,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Feyenoord Rotterdam,Edgar Ié,26,Portugal,Centre-Back,CB,2400000.0,Trabzonspor,Turkey,0.0,out,summer,Eredivisie,2020,True,end of loan
+Feyenoord Rotterdam,Oguzhan Özyakup,27,Turkey,Central Midfield,CM,1700000.0,Besiktas,Turkey,0.0,out,summer,Eredivisie,2020,True,end of loan
+Feyenoord Rotterdam,Lucas Pratto,32,Argentina,Centre-Forward,CF,2400000.0,River Plate,Argentina,0.0,in,winter,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Aliou Balde,18,Senegal,Right Winger,RW,,Diambars,Senegal,40000.0,in,winter,Eredivisie,2020,False,
+Feyenoord Rotterdam,Luciano Narsingh,30,Netherlands,Right Winger,RW,800000.0,Twente FC,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,George Johnston,22,Scotland,Centre-Back,CB,250000.0,Wigan,England,0.0,out,winter,Eredivisie,2020,True,free loan
+Feyenoord Rotterdam,Sven van Beek,26,Netherlands,Centre-Back,CB,650000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Fortuna Sittard,Emil Hansson,22,Sweden,Left Winger,LW,800000.0,Hannover 96,Germany,400000.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Ben Rienstra,30,Netherlands,Central Midfield,CM,400000.0,Kayserispor,Turkey,150000.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,George Cox,22,England,Left-Back,LB,75000.0,Brighton U23,England,50000.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Yanick van Osch,23,Netherlands,Goalkeeper,GK,400000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Roel Janssen,30,Netherlands,Centre-Back,CB,300000.0,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Joshua Wehking,20,Germany,Goalkeeper,GK,50000.0,Hamburger SV II,Germany,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Sebastian Polter,29,Germany,Centre-Forward,CF,1600000.0,Union Berlin,Germany,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Özgür Aktas,23,Netherlands,Centre-Back,CB,50000.0,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Mike van Beijnen,21,Netherlands,Right-Back,RB,50000.0,Genclerbirligi,Turkey,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Mats Seuntjens,28,Netherlands,Attacking Midfield,AM,900000.0,Genclerbirligi,Turkey,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Veron Parkes,18,England,Centre-Forward,CF,,West Ham U18,England,0.0,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Zian Flemming,22,Netherlands,Attacking Midfield,AM,800000.0,PEC Zwolle,Netherlands,,in,summer,Eredivisie,2020,False,
+Fortuna Sittard,Jaroslaw Jach,26,Poland,Centre-Back,CB,525000.0,Crystal Palace,England,0.0,in,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Samuel Moutoussamy,24,DR Congo,Central Midfield,CM,2200000.0,FC Nantes,France,0.0,in,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Mark Diemers,26,Netherlands,Central Midfield,CM,1600000.0,Feyenoord,Netherlands,1200000.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Amadou Ciss,20,Senegal,Left Midfield,LM,900000.0,Amiens SC,France,1200000.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Job van de Walle,22,Netherlands,Goalkeeper,GK,50000.0,Sportclub '25,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Bo Breukers,21,Netherlands,Central Midfield,CM,100000.0,Groene Ster,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Wessel Dammers,25,Netherlands,Centre-Back,CB,400000.0,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Luc Tinnemans,22,Netherlands,Defensive Midfield,DM,50000.0,EVV Echt,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Rowen Koot,21,Netherlands,Goalkeeper,GK,75000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Azbe Jug,28,Slovenia,Goalkeeper,GK,300000.0,NK Maribor,Slovenia,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Lazar Kojic,20,Serbia,Central Midfield,CM,200000.0,Proleter,Serbia,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Patrik Raitanen,19,Finland,Centre-Back,CB,75000.0,SPAL U19,Italy,0.0,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Dimitrios Ioannidis,20,Germany,Right-Back,RB,100000.0,SF Lotte,Germany,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Jacky Donkor,21,Belgium,Left Winger,LW,75000.0,FC Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Bassala Sambou,22,Germany,Centre-Forward,CF,150000.0,Randers FC,Denmark,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Veron Parkes,18,England,Centre-Forward,CF,,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Richie Musaba,19,Netherlands,Attacking Midfield,AM,100000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,André Vidigal,22,Portugal,Left Winger,LW,525000.0,Estoril Praia,Portugal,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Grégoire Amiot,25,France,Centre-Back,CB,300000.0,Falkenberg,Sweden,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Rasmus Karjalainen,24,Finland,Centre-Forward,CF,300000.0,Örebro SK,Sweden,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Özgür Aktas,23,Netherlands,Centre-Back,CB,50000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Fortuna Sittard,Áron Dobos,20,Hungary,Right Winger,RW,150000.0,Szeged,Hungary,,out,summer,Eredivisie,2020,False,
+Fortuna Sittard,Felix Passlack,22,Germany,Right-Back,RB,1300000.0,Bor. Dortmund,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Àlex Carbonell,22,Spain,Central Midfield,CM,325000.0,Valencia,Spain,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Vitalie Damascan,21,Moldova,Centre-Forward,CF,725000.0,Torino,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Leandro Fernandes,20,Netherlands,Central Midfield,CM,175000.0,Juventus U23,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,George Cox,22,England,Left-Back,LB,75000.0,Brighton U23,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Carlos Faya,18,Venezuela,Central Midfield,CM,,APC U20,Venezuela,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Nikolai Baden Frederiksen,20,Denmark,Centre-Forward,CF,250000.0,Juventus U23,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Fortuna Sittard,Leroy George,33,Netherlands,Left Winger,LW,200000.0,Without Club,,0.0,in,winter,Eredivisie,2020,False,
+Fortuna Sittard,Mickaël Tirpan,27,Belgium,Right-Back,RB,950000.0,Kasimpasa,Turkey,0.0,in,winter,Eredivisie,2020,True,free loan
+Fortuna Sittard,Thibaud Verlinden,21,Belgium,Right Winger,RW,250000.0,Stoke City,England,,in,winter,Eredivisie,2020,False,
+Fortuna Sittard,Dimitrios Emmanouilidis,20,Greece,Right Winger,RW,700000.0,Panathinaikos,Greece,0.0,in,winter,Eredivisie,2020,True,free loan
+Fortuna Sittard,Dario van den Buijs,25,Belgium,Centre-Back,CB,650000.0,Beerschot V.A.,Belgium,0.0,in,winter,Eredivisie,2020,True,free loan
+Fortuna Sittard,Piet Velthuizen,34,Netherlands,Goalkeeper,GK,300000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+Fortuna Sittard,Branislav Ninaj,26,Slovakia,Centre-Back,CB,475000.0,Sepsi OSK,Romania,,out,winter,Eredivisie,2020,False,
+Fortuna Sittard,Djibril Dianessy,24,France,Right Winger,RW,300000.0,MVV Maastricht,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Fortuna Sittard,Jorrit Smeets,25,Netherlands,Defensive Midfield,DM,650000.0,Almere City,Netherlands,,out,winter,Eredivisie,2020,False,
+Fortuna Sittard,Alexei Coselev,27,Moldova,Goalkeeper,GK,1300000.0,Júbilo Iwata,Japan,,out,winter,Eredivisie,2020,False,
+Fortuna Sittard,Adnan Ugur,19,Belgium,Central Midfield,CM,150000.0,FC Dordrecht,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Heracles Almelo,Delano Burgzorg,21,Netherlands,Left Winger,LW,525000.0,Spezia Calcio,Italy,290000.0,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Mateo Les,20,Croatia,Centre-Back,CB,,Din. Zagreb II,Croatia,220000.0,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Rai Vloet,25,Netherlands,Attacking Midfield,AM,500000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Luca de la Torre,22,United States,Central Midfield,CM,450000.0,Fulham,England,0.0,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Daniel Mesenhöler,25,Germany,Goalkeeper,GK,250000.0,Viktoria Köln,Germany,0.0,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Noah Fadiga,20,Belgium,Right-Back,RB,275000.0,Club NXT,Belgium,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Sinan Bakis,26,Turkey,Centre-Forward,CF,650000.0,Admira Wacker,Austria,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Marco Rente,23,Germany,Centre-Back,CB,150000.0,B. Dortmund II,Germany,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Kasper Lunding,21,Denmark,Right Midfield,RM,300000.0,Aarhus GF,Denmark,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Rohat Agca,18,Netherlands,Central Midfield,CM,,FC Twente U19,Netherlands,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Ismail Azzaoui,22,Belgium,Right Winger,RW,350000.0,Without Club,,,in,summer,Eredivisie,2020,False,
+Heracles Almelo,Cyriel Dessers,25,Nigeria,Centre-Forward,CF,3200000.0,KRC Genk,Belgium,4000000.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Niels Leemhuis,22,Netherlands,Attacking Midfield,AM,75000.0,Excelsior '31,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Joey Konings,22,Netherlands,Centre-Forward,CF,450000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Jelle van Benthem,21,Netherlands,Centre-Back,CB,50000.0,SV Straelen,Germany,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Reuven Niemeijer,25,Netherlands,Attacking Midfield,AM,350000.0,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Dario van den Buijs,24,Belgium,Centre-Back,CB,650000.0,Beerschot V.A.,Belgium,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Jesper Drost,27,Netherlands,Attacking Midfield,AM,475000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Maximilian Rossmann,25,Germany,Centre-Back,CB,550000.0,Viktoria Köln,Germany,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Sebastian Jakubiak,27,Germany,Central Midfield,CM,300000.0,1.FC Magdeburg,Germany,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Dabney dos Santos,24,Netherlands,Left Winger,LW,400000.0,FC Sheriff,Moldova,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Stephen Sama,27,Germany,Centre-Back,CB,200000.0,Accrington,England,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Mohammed Osman,26,Syria,Central Midfield,CM,1400000.0,Al-Kharaitiyat,Qatar,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Alexander Merkel,28,Kazakhstan,Central Midfield,CM,1000000.0,Faisaly,Saudi Arabia,0.0,out,summer,Eredivisie,2020,False,
+Heracles Almelo,Mauro Júnior,21,Brazil,Attacking Midfield,AM,2300000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Heracles Almelo,Delano Burgzorg,21,Netherlands,Left Winger,LW,525000.0,Spezia Calcio,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Heracles Almelo,Ahmed Kutucu,20,Turkey,Centre-Forward,CF,3500000.0,FC Schalke 04,Germany,0.0,in,winter,Eredivisie,2020,True,free loan
+Heracles Almelo,Melih Ibrahimoglu,20,Turkey,Attacking Midfield,AM,450000.0,Rapid Vienna,Austria,,in,winter,Eredivisie,2020,False,
+Heracles Almelo,Elias Sierra,19,Belgium,Central Midfield,CM,450000.0,KRC Genk,Belgium,,in,winter,Eredivisie,2020,False,
+Heracles Almelo,Silvester van der Water,24,Netherlands,Right Winger,RW,900000.0,Orlando City SC,United States,1200000.0,out,winter,Eredivisie,2020,False,
+Heracles Almelo,Jeremy Cijntje,23,Curacao,Left Winger,LW,350000.0,Waasl.-Beveren,Belgium,0.0,out,winter,Eredivisie,2020,True,free loan
+PEC Zwolle,Jesper Drost,27,Netherlands,Attacking Midfield,AM,475000.0,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+PEC Zwolle,Rico Strieder,27,Germany,Defensive Midfield,DM,800000.0,FC Utrecht,Netherlands,,in,summer,Eredivisie,2020,False,
+PEC Zwolle,Slobodan Tedic,20,Serbia,Centre-Forward,CF,3000000.0,Man City U23,England,0.0,in,summer,Eredivisie,2020,True,free loan
+PEC Zwolle,Immanuel Pherai,19,Netherlands,Attacking Midfield,AM,800000.0,Bor. Dortmund,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+PEC Zwolle,Gustavo Hamer,23,Netherlands,Defensive Midfield,DM,800000.0,Coventry,England,1500000.0,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Lennart Thy,28,Germany,Centre-Forward,CF,675000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Rick Dekker,25,Netherlands,Defensive Midfield,DM,525000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Stanley Elbers,28,Netherlands,Right Winger,RW,400000.0,FC Hermannstadt,Romania,0.0,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Vito van Crooij,24,Netherlands,Right Winger,RW,800000.0,VVV-Venlo,Netherlands,,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Zian Flemming,22,Netherlands,Attacking Midfield,AM,800000.0,Fortuna Sittard,Netherlands,,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Etiënne Reijnen,33,Netherlands,Centre-Back,CB,325000.0,Retired,,,out,summer,Eredivisie,2020,False,
+PEC Zwolle,Dennis Johnsen,22,Norway,Left Winger,LW,625000.0,Ajax U21,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+PEC Zwolle,Rico Strieder,27,Germany,Defensive Midfield,DM,800000.0,FC Utrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+PEC Zwolle,Virgil Misidjan,27,Netherlands,Right Winger,RW,1000000.0,1.FC Nuremberg,Germany,0.0,in,winter,Eredivisie,2020,False,
+PEC Zwolle,Nigel Bertrams,28,Netherlands,Goalkeeper,GK,400000.0,FC Groningen,Netherlands,0.0,in,winter,Eredivisie,2020,False,
+PEC Zwolle,Benson Manuel,23,Belgium,Right Winger,RW,1400000.0,Royal Antwerp,Belgium,0.0,in,winter,Eredivisie,2020,True,free loan
+PEC Zwolle,Thomas Buitink,20,Netherlands,Centre-Forward,CF,800000.0,Vitesse,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+PEC Zwolle,Clint Leemans,25,Netherlands,Central Midfield,CM,650000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+PSV Eindhoven,Ibrahim Sangaré,22,Cote d'Ivoire,Defensive Midfield,DM,9500000.0,Toulouse,France,9000000.0,in,summer,Eredivisie,2020,False,
+PSV Eindhoven,Philipp Max,26,Germany,Left-Back,LB,15000000.0,FC Augsburg,Germany,8000000.0,in,summer,Eredivisie,2020,False,
+PSV Eindhoven,Vincent Müller,20,Germany,Goalkeeper,GK,300000.0,Würzb. Kickers,Germany,500000.0,in,summer,Eredivisie,2020,False,
+PSV Eindhoven,Eran Zahavi,33,Israel,Centre-Forward,CF,5200000.0,GZ City,China,0.0,in,summer,Eredivisie,2020,False,
+PSV Eindhoven,Mario Götze,28,Germany,Attacking Midfield,AM,10500000.0,Bor. Dortmund,Germany,0.0,in,summer,Eredivisie,2020,False,
+PSV Eindhoven,Yvon Mvogo,26,Switzerland,Goalkeeper,GK,2400000.0,RB Leipzig,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Adrian Fein,21,Germany,Defensive Midfield,DM,5000000.0,FC Bayern,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Marco van Ginkel,27,Netherlands,Central Midfield,CM,3200000.0,Chelsea,England,0.0,in,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Sam Lammers,23,Netherlands,Centre-Forward,CF,7000000.0,Atalanta BC,Italy,9000000.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Jeroen Zoet,29,Netherlands,Goalkeeper,GK,5500000.0,Spezia Calcio,Italy,1500000.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Robbin Ruiter,33,Netherlands,Goalkeeper,GK,1200000.0,Willem II,Netherlands,200000.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Luuk Koopmans,26,Netherlands,Goalkeeper,GK,475000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Yanick van Osch,23,Netherlands,Goalkeeper,GK,400000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Hidde Jurjus,26,Netherlands,Goalkeeper,GK,625000.0,KFC Uerdingen,Germany,0.0,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Ritsu Doan,22,Japan,Right Winger,RW,6300000.0,Arm. Bielefeld,Germany,0.0,out,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Michal Sadilek,21,Czech Republic,Central Midfield,CM,3200000.0,Slovan Liberec,Czech Republic,0.0,out,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Dante Rigo,21,Belgium,Defensive Midfield,DM,800000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Bruma,25,Portugal,Right Winger,RW,6500000.0,Olympiacos,Greece,0.0,out,summer,Eredivisie,2020,True,free loan
+PSV Eindhoven,Ibrahim Afellay,34,Netherlands,Left Midfield,LM,475000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Daniel Schwaab,31,Germany,Centre-Back,CB,2800000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+PSV Eindhoven,Ricardo Rodríguez,27,Switzerland,Left-Back,LB,5500000.0,AC Milan,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+PSV Eindhoven,Konstantinos Mitroglou,32,Greece,Centre-Forward,CF,1600000.0,Galatasaray,Turkey,0.0,out,summer,Eredivisie,2020,True,end of loan
+PSV Eindhoven,Jorrit Hendrix,25,Netherlands,Defensive Midfield,DM,4000000.0,Spartak Moscow,Russia,500000.0,out,winter,Eredivisie,2020,False,
+PSV Eindhoven,Derrick Luckassen,25,Netherlands,Centre-Back,CB,1800000.0,Kasimpasa,Turkey,0.0,out,winter,Eredivisie,2020,True,free loan
+RKC Waalwijk,James Efmorfidis,24,Greece,Right Winger,RW,400000.0,Almere City,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Konstantinos Lamprou,28,Greece,Goalkeeper,GK,550000.0,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Nicolas Olsak,28,Israel,Defensive Midfield,DM,400000.0,Maccabi Netanya,Israel,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Vurnon Anita,31,Curacao,Defensive Midfield,DM,725000.0,CSKA-Sofia,Bulgaria,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Finn Stokkers,24,Netherlands,Centre-Forward,CF,550000.0,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Ola John,28,Netherlands,Left Winger,LW,1300000.0,Vit. Guimarães,Portugal,0.0,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Thierry Lutonda,19,Belgium,Left-Back,LB,350000.0,RSC Anderlecht,Belgium,0.0,in,summer,Eredivisie,2020,True,free loan
+RKC Waalwijk,Ahmed Touba,22,Algeria,Centre-Back,CB,300000.0,Club Brugge,Belgium,,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Ayman Azhil,19,Morocco,Defensive Midfield,DM,,Bay. Leverkusen,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+RKC Waalwijk,Cyril Ngonge,20,Belgium,Right Winger,RW,725000.0,Club Brugge,Belgium,,in,summer,Eredivisie,2020,False,
+RKC Waalwijk,Vitalie Damascan,21,Moldova,Centre-Forward,CF,750000.0,Torino,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+RKC Waalwijk,Henrico Drost,33,Netherlands,Centre-Back,CB,200000.0,ASWH,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Daan Rienstra,27,Netherlands,Central Midfield,CM,325000.0,Volos NPS,Greece,0.0,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Ingo van Weert,26,Netherlands,Centre-Back,CB,150000.0,Stomil Olsztyn,Poland,0.0,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Mario Bilate,29,Netherlands,Centre-Forward,CF,325000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Nando Nöstlinger,22,Belgium,Central Midfield,CM,100000.0,Lokeren-Temse,Belgium,20000.0,out,summer,Eredivisie,2020,True,loan with fee
+RKC Waalwijk,Kees Heemskerk,29,Netherlands,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Fabian Sporkslede,26,Netherlands,Right-Back,RB,325000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+RKC Waalwijk,Hannes Delcroix,21,Belgium,Centre-Back,CB,450000.0,RSC Anderlecht,Belgium,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Dylan Vente,21,Netherlands,Centre-Forward,CF,450000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Stanley Elbers,28,Netherlands,Right Winger,RW,400000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Clint Leemans,24,Netherlands,Central Midfield,CM,550000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Tijjani Reijnders,21,Netherlands,Central Midfield,CM,625000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Stefan Velkov,23,Bulgaria,Centre-Back,CB,325000.0,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Emil Hansson,22,Sweden,Left Winger,LW,800000.0,Hannover 96,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+RKC Waalwijk,Yassin Oukili,20,Netherlands,Central Midfield,CM,,Vitesse U21,Netherlands,,in,winter,Eredivisie,2020,False,
+RKC Waalwijk,Shawn Adewoye,20,Belgium,Centre-Back,CB,250000.0,KRC Genk,Belgium,,in,winter,Eredivisie,2020,False,
+RKC Waalwijk,Thijs Oosting,20,Netherlands,Attacking Midfield,AM,600000.0,AZ Alkmaar,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+RKC Waalwijk,Teun van Grunsven,21,Netherlands,Centre-Back,CB,25000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+RKC Waalwijk,Nicolas Olsak,29,Israel,Defensive Midfield,DM,400000.0,B. Jerusalem,Israel,0.0,out,winter,Eredivisie,2020,False,
+RKC Waalwijk,Nigel Langras,19,Netherlands,Right-Back,RB,50000.0,Without Club,,,out,winter,Eredivisie,2020,False,
+SC Heerenveen,Henk Veerman,29,Netherlands,Centre-Forward,CF,800000.0,FC St. Pauli,Germany,1500000.0,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Pawel Bochniewicz,24,Poland,Centre-Back,CB,750000.0,Górnik Zabrze,Poland,1400000.0,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Stanislav Shopov,18,Bulgaria,Attacking Midfield,AM,250000.0,Botev Plovdiv,Bulgaria,150000.0,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Jan Bekkema,24,Netherlands,Goalkeeper,GK,,SV Straelen,Germany,0.0,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Erwin Mulder,31,Netherlands,Goalkeeper,GK,600000.0,Swansea,England,0.0,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Sieben Dewaele,21,Belgium,Defensive Midfield,DM,1600000.0,RSC Anderlecht,Belgium,0.0,in,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Joaquín Fernández,21,Uruguay,Centre-Back,CB,,River Plate,Uruguay,,in,summer,Eredivisie,2020,False,
+SC Heerenveen,Oliver Batista Meier,19,Germany,Attacking Midfield,AM,1500000.0,FC Bayern II,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Ulysses Llanez,19,United States,Right Winger,RW,125000.0,Wolfsburg II,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Jan Paul van Hecke,20,Netherlands,Centre-Back,CB,1800000.0,Brighton,England,0.0,in,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Benjamin Nygren,19,Sweden,Right Winger,RW,2700000.0,KRC Genk,Belgium,0.0,in,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Chidera Ejuke,22,Nigeria,Left Winger,LW,5500000.0,CSKA Moscow,Russia,11500000.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Hicham Faik,28,Netherlands,Defensive Midfield,DM,800000.0,Faisaly,Saudi Arabia,700000.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Trevor Doornbusch,21,Netherlands,Goalkeeper,GK,100000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Filip Bednarek,27,Poland,Goalkeeper,GK,250000.0,Lech Poznan,Poland,0.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Ricardo van Rhijn,29,Netherlands,Right-Back,RB,650000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Daniel Höegh,29,Denmark,Centre-Back,CB,800000.0,FC Midtjylland,Denmark,0.0,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Jordy Bruijn,23,Netherlands,Defensive Midfield,DM,550000.0,NEC Nijmegen,Netherlands,,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Emil Frederiksen,19,Denmark,Attacking Midfield,AM,250000.0,SönderjyskE,Denmark,,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Runar Espejord,24,Norway,Centre-Forward,CF,325000.0,Tromsø IL,Norway,0.0,out,summer,Eredivisie,2020,True,free loan
+SC Heerenveen,Warner Hahn,28,Suriname,Goalkeeper,GK,1200000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+SC Heerenveen,Jens Odgaard,21,Denmark,Centre-Forward,CF,2300000.0,Sassuolo,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+SC Heerenveen,Sven Botman,20,Netherlands,Centre-Back,CB,1300000.0,Ajax U21,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+SC Heerenveen,Van Hau Doan,21,Vietnam,Left-Back,LB,150000.0,Hanoi FC,Vietnam,0.0,out,summer,Eredivisie,2020,True,end of loan
+SC Heerenveen,Alen Halilovic,24,Croatia,Attacking Midfield,AM,1400000.0,AC Milan,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+SC Heerenveen,Tibor Halilovic,25,Croatia,Defensive Midfield,DM,800000.0,HNK Rijeka,Croatia,1500000.0,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Rami Kaib,23,Sweden,Left-Back,LB,400000.0,Elfsborg,Sweden,500000.0,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Siem de Jong,31,Netherlands,Attacking Midfield,AM,1000000.0,Cincinnati,United States,0.0,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Ariel Harush,32,Israel,Goalkeeper,GK,350000.0,FC Nitra,Slovakia,0.0,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Syb van Ottele,18,Netherlands,Centre-Back,CB,250000.0,NEC Nijmegen,Netherlands,,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Lasse Schöne,34,Denmark,Defensive Midfield,DM,800000.0,Without Club,,,in,winter,Eredivisie,2020,False,
+SC Heerenveen,Andreas Skovgaard,23,Denmark,Centre-Back,CB,700000.0,Örebro SK,Sweden,0.0,out,winter,Eredivisie,2020,False,
+SC Heerenveen,Joaquín Fernández,22,Uruguay,Centre-Back,CB,100000.0,Mvd City Torque,Uruguay,0.0,out,winter,Eredivisie,2020,True,free loan
+Sparta Rotterdam,Mario Engels,26,Germany,Left Winger,LW,475000.0,SV Sandhausen,Germany,100000.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Tom Beugelsdijk,30,Netherlands,Centre-Back,CB,475000.0,ADO Den Haag,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Maduka Okoye,20,Nigeria,Goalkeeper,GK,150000.0,Düsseldorf II,Germany,0.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Danzell Gravenberch,26,Netherlands,Centre-Forward,CF,275000.0,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Michaël Heylen,26,Belgium,Centre-Back,CB,400000.0,FC Emmen,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Lennart Thy,28,Germany,Centre-Forward,CF,675000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Reda Kharchouch,24,Netherlands,Centre-Forward,CF,400000.0,Telstar,Netherlands,,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Benjamin van Leer,28,Netherlands,Goalkeeper,GK,725000.0,Ajax,Netherlands,,in,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Aaron Meijers,32,Netherlands,Left-Back,LB,550000.0,ADO Den Haag,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Sparta Rotterdam,Wouter Burger,19,Netherlands,Central Midfield,CM,1300000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Sparta Rotterdam,Ragnar Ache,21,Germany,Centre-Forward,CF,900000.0,E. Frankfurt,Germany,2000000.0,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Jurgen Mattheij,27,Netherlands,Centre-Back,CB,650000.0,CSKA-Sofia,Bulgaria,0.0,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Bradley Martis,22,Curacao,Left-Back,LB,25000.0,NK Celje,Slovenia,0.0,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Elayis Tavsan,19,Netherlands,Right Winger,RW,425000.0,NEC Nijmegen,Netherlands,,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Lassana Faye,22,Netherlands,Left-Back,LB,350000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Sparta Rotterdam,Mohamed Rayhi,26,Netherlands,Left Winger,LW,650000.0,Al-Batin,Saudi Arabia,,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Suently Alberto,24,Curacao,Centre-Back,CB,100000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+Sparta Rotterdam,Dante Rigo,21,Belgium,Defensive Midfield,DM,800000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Sparta Rotterdam,Khalid Karami,30,Netherlands,Right-Back,RB,400000.0,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Sparta Rotterdam,Joël Piroe,20,Netherlands,Centre-Forward,CF,725000.0,PSV U21,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Sparta Rotterdam,Patrick Joosten,24,Netherlands,Left Winger,LW,725000.0,FC Utrecht,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Sparta Rotterdam,Lorenzo Soares Fonseca,23,Cape Verde,Centre-Back,CB,150000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+Twente Enschede FC,Gijs Smal,22,Netherlands,Left-Back,LB,400000.0,FC Volendam,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Twente Enschede FC,Lazaros Lamprou,22,Greece,Left Winger,LW,1200000.0,PAOK Salonika,Greece,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Vaclav Cerny,22,Czech Republic,Right Winger,RW,650000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Nathan Markelo,21,Netherlands,Right-Back,RB,,Everton U23,England,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Kik Pierie,19,Netherlands,Centre-Back,CB,3000000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Alexander Jeremejeff,26,Sweden,Centre-Forward,CF,650000.0,Dynamo Dresden,Germany,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Danilo,21,Brazil,Centre-Forward,CF,1000000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Tyronne Ebuehi,24,Nigeria,Right-Back,RB,550000.0,Benfica B,Portugal,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Dario Dumic,28,Bosnia-Herzegovina,Centre-Back,CB,1000000.0,FC Utrecht,Netherlands,,in,summer,Eredivisie,2020,False,
+Twente Enschede FC,Luka Ilic,21,Serbia,Attacking Midfield,AM,1200000.0,Man City,England,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Halil Dervisoglu,20,Turkey,Centre-Forward,CF,1800000.0,Brentford,England,0.0,in,summer,Eredivisie,2020,True,free loan
+Twente Enschede FC,Jorn Brondeel,26,Belgium,Goalkeeper,GK,300000.0,Willem II,Netherlands,50000.0,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Aitor Cantalapiedra,24,Spain,Right Winger,RW,1600000.0,Panathinaikos,Greece,0.0,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Peet Bijen,25,Netherlands,Centre-Back,CB,475000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Haris Vuckic,27,Slovenia,Centre-Forward,CF,650000.0,Real Zaragoza,Spain,0.0,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Emil Berggreen,27,Denmark,Centre-Forward,CF,400000.0,Greuther Fürth,Germany,0.0,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Xandro Schenk,27,Netherlands,Centre-Back,CB,525000.0,Al-Batin,Saudi Arabia,,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Javier Espinosa,27,Spain,Central Midfield,CM,1000000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Tim Hölscher,25,Germany,Attacking Midfield,AM,400000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Paul Verhaegh,36,Netherlands,Right-Back,RB,250000.0,Retired,,,out,summer,Eredivisie,2020,False,
+Twente Enschede FC,Rafik Zekhnini,22,Norway,Left Winger,LW,775000.0,Fiorentina,Italy,0.0,out,summer,Eredivisie,2020,True,end of loan
+Twente Enschede FC,José Matos,25,Spain,Left-Back,LB,650000.0,Cádiz CF,Spain,0.0,out,summer,Eredivisie,2020,True,end of loan
+Twente Enschede FC,Keito Nakamura,19,Japan,Left Winger,LW,800000.0,Gamba Osaka,Japan,0.0,out,summer,Eredivisie,2020,True,end of loan
+Twente Enschede FC,Calvin Verdonk,23,Netherlands,Left-Back,LB,1600000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Twente Enschede FC,Oriol Busquets,21,Spain,Defensive Midfield,DM,2300000.0,FC Barcelona B,Spain,0.0,out,summer,Eredivisie,2020,True,end of loan
+Twente Enschede FC,Issah Abass,22,Ghana,Centre-Forward,CF,1000000.0,1.FSV Mainz 05,Germany,0.0,in,winter,Eredivisie,2020,True,free loan
+Twente Enschede FC,Luciano Narsingh,30,Netherlands,Right Winger,RW,800000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+Twente Enschede FC,Lindon Selahi,21,Albania,Central Midfield,CM,725000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Georgios Giakoumakis,25,Greece,Centre-Forward,CF,325000.0,AEK Athens,Greece,200000.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Guus Hupperts,28,Netherlands,Right Winger,RW,300000.0,KSC Lokeren,Belgium,0.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Lukas Schmitz,31,Germany,Left-Back,LB,600000.0,Wolfsberger AC,Austria,0.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Jafar Arias,25,Curacao,Centre-Forward,CF,400000.0,FC Emmen,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Arjan Swinkels,35,Netherlands,Centre-Back,CB,200000.0,KV Mechelen,Belgium,0.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Nezar S'rifi,20,Belgium,Central Midfield,CM,,Lierse Kemp U21,Belgium,0.0,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Roy Gelmi,25,Switzerland,Centre-Back,CB,600000.0,FC Thun,Switzerland,,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Vito van Crooij,24,Netherlands,Right Winger,RW,800000.0,PEC Zwolle,Netherlands,,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Zinédine Machach,24,France,Attacking Midfield,AM,400000.0,SSC Napoli,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+VVV-Venlo,Ante Coric,23,Croatia,Attacking Midfield,AM,1700000.0,AS Roma,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+VVV-Venlo,Joshua John,31,Aruba,Left Winger,LW,300000.0,Without Club,,,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Torino Hunte,29,Netherlands,Left Winger,LW,225000.0,Without Club,,,in,summer,Eredivisie,2020,False,
+VVV-Venlo,Roel Janssen,30,Netherlands,Centre-Back,CB,300000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Nils Röseler,28,Germany,Centre-Back,CB,650000.0,SV Sandhausen,Germany,0.0,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Haji Wright,22,United States,Centre-Forward,CF,350000.0,SönderjyskE,Denmark,0.0,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Johnatan Opoku,30,Netherlands,Attacking Midfield,AM,525000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Peter van Ooijen,28,Netherlands,Left Winger,LW,550000.0,KFC Uerdingen,Germany,0.0,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Richard Neudecker,23,Germany,Central Midfield,CM,475000.0,1860 Munich,Germany,,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Lee Cattermole,32,England,Defensive Midfield,DM,,Retired,,,out,summer,Eredivisie,2020,False,
+VVV-Venlo,Jerome Sinclair,23,England,Centre-Forward,CF,475000.0,Watford,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+VVV-Venlo,John Yeboah,20,Germany,Left Winger,LW,575000.0,VfL Wolfsburg,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+VVV-Venlo,Oussama Darfalou,26,Algeria,Centre-Forward,CF,800000.0,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+VVV-Venlo,Thomas Bruns,28,Netherlands,Central Midfield,CM,650000.0,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+VVV-Venlo,Roy Gelmi,25,Switzerland,Centre-Back,CB,600000.0,FC Thun,Switzerland,0.0,out,summer,Eredivisie,2020,True,end of loan
+VVV-Venlo,Kristopher Da Graca,22,Sweden,Centre-Back,CB,500000.0,IFK Göteborg,Sweden,,in,winter,Eredivisie,2020,False,
+VVV-Venlo,Leon Guwara,24,Germany,Left-Back,LB,700000.0,FC Utrecht,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Christos Donis,26,Greece,Central Midfield,CM,750000.0,Ascoli,Italy,0.0,in,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Anastasios Donis,24,Greece,Centre-Forward,CF,2000000.0,Stade Reims,France,0.0,in,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Meritan Shabani,21,Germany,Attacking Midfield,AM,325000.0,Wolves U23,England,0.0,in,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Evert Linthorst,20,Netherlands,Central Midfield,CM,800000.0,Ittihad Kalba,United Arab Emirates,600000.0,out,winter,Eredivisie,2020,False,
+VVV-Venlo,Stan van Dijck,20,Netherlands,Centre-Back,CB,75000.0,Roda JC,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+VVV-Venlo,Aaron Bastiaans,18,Netherlands,Left Winger,LW,150000.0,Helmond Sport,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Oussama Tannane,26,Morocco,Attacking Midfield,AM,1000000.0,Saint-Étienne,France,0.0,in,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Maximilian Wittek,24,Germany,Left-Back,LB,800000.0,Greuther Fürth,Germany,0.0,in,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Loïs Openda,20,Belgium,Centre-Forward,CF,4000000.0,Club Brugge,Belgium,0.0,in,summer,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Jacob Rasmussen,23,Denmark,Centre-Back,CB,2800000.0,Fiorentina,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Armando Broja,18,Albania,Centre-Forward,CF,1000000.0,Chelsea U23,England,0.0,in,summer,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Idrissa Touré,22,Germany,Central Midfield,CM,400000.0,Juventus U23,Italy,0.0,in,summer,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Tim Matavz,31,Slovenia,Centre-Forward,CF,1600000.0,Al-Wahda FC,United Arab Emirates,0.0,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Julian Lelieveld,22,Netherlands,Right-Back,RB,400000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Konstantinos Lamprou,28,Greece,Goalkeeper,GK,550000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Bryan Linssen,29,Netherlands,Left Winger,LW,2400000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Özgür Aktas,23,Netherlands,Centre-Back,CB,50000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Khalid Karami,30,Netherlands,Right-Back,RB,400000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+Vitesse Arnhem,Charly Musonda Jr.,23,Belgium,Attacking Midfield,AM,1000000.0,Chelsea,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Armando Obispo,21,Netherlands,Centre-Back,CB,800000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Jay-Roy Grot,22,Netherlands,Centre-Forward,CF,800000.0,Leeds,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Oussama Tannane,26,Morocco,Attacking Midfield,AM,1000000.0,Saint-Étienne,France,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Nouha Dicko,28,Mali,Centre-Forward,CF,1200000.0,Hull City,England,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Joshua Brenet,26,Netherlands,Right-Back,RB,2400000.0,TSG Hoffenheim,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+Vitesse Arnhem,Dominik Oroz,20,Croatia,Centre-Back,CB,500000.0,FC Liefering,Austria,,in,winter,Eredivisie,2020,False,
+Vitesse Arnhem,Noah Ohio,18,Netherlands,Centre-Forward,CF,,RB Leipzig U19,Germany,0.0,in,winter,Eredivisie,2020,True,free loan
+Vitesse Arnhem,Max Clark,25,England,Left-Back,LB,600000.0,Hull City,England,0.0,out,winter,Eredivisie,2020,False,
+Vitesse Arnhem,Filip Möller Delaveris,20,Norway,Left Winger,LW,300000.0,Brann,Norway,,out,winter,Eredivisie,2020,False,
+Vitesse Arnhem,Roy Beerens,33,Netherlands,Right Winger,RW,400000.0,Retired,,,out,winter,Eredivisie,2020,False,
+Vitesse Arnhem,Thomas Buitink,20,Netherlands,Centre-Forward,CF,800000.0,PEC Zwolle,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Mike Trésor Ndayishimiye,21,Belgium,Attacking Midfield,AM,3600000.0,NEC Nijmegen,Netherlands,500000.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Leeroy Owusu,23,Netherlands,Right-Back,RB,650000.0,De Graafschap,Netherlands,325000.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Robbin Ruiter,33,Netherlands,Goalkeeper,GK,1200000.0,PSV Eindhoven,Netherlands,200000.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Jorn Brondeel,26,Belgium,Goalkeeper,GK,300000.0,Twente FC,Netherlands,50000.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Derrick Köhn,21,Germany,Left-Back,LB,500000.0,FC Bayern II,Germany,0.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Kwasi Okyere Wriedt,25,Ghana,Centre-Forward,CF,800000.0,FC Bayern II,Germany,0.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Jan-Arie van der Heijden,32,Netherlands,Centre-Back,CB,650000.0,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,John Yeboah,20,Germany,Left Winger,LW,575000.0,VfL Wolfsburg,Germany,,in,summer,Eredivisie,2020,False,
+Willem II Tilburg,Ole Romeny,20,Netherlands,Centre-Forward,CF,400000.0,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2020,True,free loan
+Willem II Tilburg,Damil Dankerlui,23,Suriname,Right-Back,RB,650000.0,FC Groningen,Netherlands,375000.0,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Timon Wellenreuther,24,Germany,Goalkeeper,GK,1000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Fernando Lewis,27,Netherlands,Right Winger,RW,725000.0,Quick Boys,Netherlands,0.0,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Michael Woud,21,New Zealand,Goalkeeper,GK,300000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2020,True,free loan
+Willem II Tilburg,Atakan Akkaynak,21,Germany,Central Midfield,CM,250000.0,C. Rizespor,Turkey,,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Justin Ogenia,21,Curacao,Right-Back,RB,200000.0,FC Eindhoven,Netherlands,,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Georgios Strezos,24,Greece,Goalkeeper,GK,325000.0,Without Club,,,out,summer,Eredivisie,2020,False,
+Willem II Tilburg,Marios Vrousai,21,Greece,Left Winger,LW,900000.0,Olympiacos,Greece,0.0,out,summer,Eredivisie,2020,True,end of loan
+Willem II Tilburg,João Queirós,22,Portugal,Centre-Back,CB,450000.0,1. FC Köln,Germany,0.0,out,summer,Eredivisie,2020,True,end of loan
+Willem II Tilburg,Mike Trésor Ndayishimiye,21,Belgium,Attacking Midfield,AM,3600000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2020,True,end of loan
+Willem II Tilburg,Lindon Selahi,21,Albania,Central Midfield,CM,725000.0,Twente FC,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Arijanet Muric,22,Kosovo,Goalkeeper,GK,1500000.0,Man City,England,0.0,in,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Ian Smeulers,21,Netherlands,Left-Back,LB,75000.0,Feyenoord U21,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Sven van Beek,26,Netherlands,Centre-Back,CB,650000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Paul Gladon,28,Netherlands,Centre-Forward,CF,475000.0,FC Emmen,Netherlands,0.0,out,winter,Eredivisie,2020,False,
+Willem II Tilburg,Dylan Ryan,20,Australia,Centre-Back,CB,100000.0,Melbourne,Australia,0.0,out,winter,Eredivisie,2020,True,free loan
+Willem II Tilburg,Michael Woud,22,New Zealand,Goalkeeper,GK,500000.0,Almere City,Netherlands,,out,winter,Eredivisie,2020,False,
+Willem II Tilburg,John Yeboah,20,Germany,Left Winger,LW,575000.0,Almere City,Netherlands,0.0,out,winter,Eredivisie,2020,True,free loan

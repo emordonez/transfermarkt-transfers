@@ -1,0 +1,456 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1. FC Köln,Ellyes Skhiri,24,Tunisia,Defensive Midfield,DM,12000000.0,Montpellier,France,6000000.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Sebastiaan Bornauw,20,Belgium,Centre-Back,CB,4000000.0,RSC Anderlecht,Belgium,6000000.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Birger Verstraete,25,Belgium,Defensive Midfield,DM,4000000.0,KAA Gent,Belgium,4000000.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Kingsley Ehizibue,24,Nigeria,Right-Back,RB,2000000.0,PEC Zwolle,Netherlands,2000000.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Kingsley Schindler,25,Germany,Right Winger,RW,3000000.0,Holstein Kiel,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Julian Krahl,19,Germany,Goalkeeper,GK,200000.0,RB Leipzig,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1. FC Köln,Serhou Guirassy,23,France,Centre-Forward,CF,3500000.0,Amiens SC,France,6000000.0,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Tim Handwerker,21,Germany,Left-Back,LB,1000000.0,1.FC Nuremberg,Germany,300000.0,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Jannes Horn,22,Germany,Left-Back,LB,2500000.0,Hannover 96,Germany,100000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+1. FC Köln,Chris Führich,21,Germany,Right Winger,RW,150000.0,B. Dortmund II,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Johannes Geis,25,Germany,Defensive Midfield,DM,2000000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Jan-Christoph Bartels,20,Germany,Goalkeeper,GK,250000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,Tomas Ostrak,19,Czech Republic,Attacking Midfield,AM,100000.0,TSV Hartberg,Austria,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,João Queirós,21,Portugal,Centre-Back,CB,800000.0,Willem II,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,Frederik Sörensen,27,Denmark,Centre-Back,CB,1500000.0,BSC Young Boys,Switzerland,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,Yann Aurel Bisseck,18,Germany,Centre-Back,CB,250000.0,Roda JC,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,Salih Özcan,21,Germany,Central Midfield,CM,2000000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1. FC Köln,Nikolas Nartey,19,Denmark,Central Midfield,CM,300000.0,VfB Stuttgart,Germany,,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Matthias Lehmann,36,Germany,Defensive Midfield,DM,250000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+1. FC Köln,Mark Uth,28,Germany,Second Striker,SS,5500000.0,FC Schalke 04,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+1. FC Köln,Elvis Rexhbecaj,22,Germany,Central Midfield,CM,5000000.0,VfL Wolfsburg,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+1. FC Köln,Toni Leistner,29,Germany,Centre-Back,CB,2500000.0,QPR,England,0.0,in,winter,1 Bundesliga,2019,True,free loan
+1. FC Köln,Matthias Bader,22,Germany,Right-Back,RB,500000.0,SV Darmstadt 98,Germany,450000.0,out,winter,1 Bundesliga,2019,False,
+1. FC Köln,Louis Schaub,25,Austria,Attacking Midfield,AM,4000000.0,Hamburger SV,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1. FC Köln,Darko Churlinov,19,North Macedonia,Left Winger,LW,400000.0,VfB Stuttgart,Germany,,out,winter,1 Bundesliga,2019,False,
+1. FC Köln,Lasse Sobiech,29,Germany,Centre-Back,CB,1200000.0,Mouscron,Belgium,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1. FC Köln,Vincent Koziello,24,France,Central Midfield,CM,1500000.0,Paris FC,France,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Anthony Ujah,28,Nigeria,Centre-Forward,CF,1500000.0,1.FSV Mainz 05,Germany,2000000.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Marvin Friedrich,23,Germany,Centre-Back,CB,3000000.0,FC Augsburg,Germany,2000000.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Marcus Ingvartsen,23,Denmark,Attacking Midfield,AM,1500000.0,KRC Genk,Belgium,1500000.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Robert Andrich,24,Germany,Central Midfield,CM,600000.0,1.FC Heidenheim,Germany,1000000.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Suleiman Abdullahi,22,Nigeria,Centre-Forward,CF,2000000.0,E. Braunschweig,Germany,500000.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Marius Bülter,26,Germany,Left Winger,LW,400000.0,1.FC Magdeburg,Germany,400000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+1.FC Union Berlin,Julius Kade,20,Germany,Central Midfield,CM,400000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Florian Flecker,23,Austria,Right Midfield,RM,900000.0,TSV Hartberg,Austria,0.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Christian Gentner,33,Germany,Central Midfield,CM,1500000.0,VfB Stuttgart,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Sheraldo Becker,24,Suriname,Right Winger,RW,1250000.0,ADO Den Haag,Netherlands,0.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Neven Subotic,30,Germany,Centre-Back,CB,4000000.0,Saint-Étienne,France,0.0,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Manuel Schmiedebach,30,Germany,Defensive Midfield,DM,1000000.0,Hannover 96,Germany,,in,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Moritz Nicolas,21,Germany,Goalkeeper,GK,150000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Keven Schlotterbeck,22,Germany,Centre-Back,CB,1000000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Marvin Friedrich,23,Germany,Centre-Back,CB,3000000.0,FC Augsburg,Germany,1000000.0,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Marcel Hartel,23,Germany,Attacking Midfield,AM,1250000.0,Arm. Bielefeld,Germany,250000.0,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Lennart Moser,19,Germany,Goalkeeper,GK,100000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Eroll Zejnullahu,24,Kosovo,Central Midfield,CM,300000.0,Carl Zeiss Jena,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Cihan Kahraman,20,Turkey,Attacking Midfield,AM,150000.0,Berliner AK,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Peter Kurzweg,25,Germany,Left-Back,LB,250000.0,FC Ingolstadt,Germany,,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Berkan Taz,20,Germany,Left Winger,LW,125000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Lars Dietz,22,Germany,Centre-Back,CB,250000.0,Viktoria Köln,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Fabian Schönheim,32,Germany,Centre-Back,CB,200000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Marc Torrejón,33,Spain,Centre-Back,CB,250000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+1.FC Union Berlin,Manuel Schmiedebach,30,Germany,Defensive Midfield,DM,1000000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+1.FC Union Berlin,Suleiman Abdullahi,22,Nigeria,Centre-Forward,CF,2000000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+1.FC Union Berlin,Robert Zulj,27,Austria,Attacking Midfield,AM,1500000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+1.FC Union Berlin,Carlos Mané,25,Portugal,Right Winger,RW,1750000.0,Sporting CP,Portugal,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+1.FC Union Berlin,Yunus Malli,27,Turkey,Attacking Midfield,AM,3500000.0,VfL Wolfsburg,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Lennard Maloney,20,United States,Centre-Back,CB,150000.0,Chemnitzer FC,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Nicolai Rapp,23,Germany,Centre-Back,CB,600000.0,SV Darmstadt 98,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FC Union Berlin,Lennart Moser,20,Germany,Goalkeeper,GK,100000.0,Cercle Brugge,Belgium,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Jeremiah St. Juste,22,Netherlands,Centre-Back,CB,7500000.0,Feyenoord,Netherlands,8000000.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Edimilson Fernandes,23,Switzerland,Central Midfield,CM,8000000.0,West Ham,England,7500000.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Aarón Martín,22,Spain,Left-Back,LB,20000000.0,Espanyol,Spain,6000000.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Ronaël Pierre-Gabriel,21,France,Right-Back,RB,4000000.0,Monaco,France,5500000.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Jonathan Meier,19,Germany,Left-Back,LB,100000.0,FC Bayern II,Germany,1200000.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Taiwo Awoniyi,21,Nigeria,Centre-Forward,CF,4500000.0,Liverpool,England,500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+1.FSV Mainz 05,Dong-won Ji,28,"Korea, South",Centre-Forward,CF,1750000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Omer Hanin,21,Israel,Goalkeeper,GK,300000.0,Hapoel Hadera,Israel,0.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Ádám Szalai,31,Hungary,Centre-Forward,CF,3000000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Jean-Philippe Gbamin,23,Cote d'Ivoire,Defensive Midfield,DM,28000000.0,Everton,England,25000000.0,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Anthony Ujah,28,Nigeria,Centre-Forward,CF,1500000.0,Union Berlin,Germany,2000000.0,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,José Rodríguez,24,Spain,Central Midfield,CM,1250000.0,Málaga CF,Spain,0.0,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Emil Berggreen,26,Denmark,Centre-Forward,CF,500000.0,Twente FC,Netherlands,0.0,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Gerrit Holtmann,24,Germany,Left Winger,LW,1500000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Jannik Huth,25,Germany,Goalkeeper,GK,300000.0,SC Paderborn,Germany,,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Issah Abass,20,Ghana,Centre-Forward,CF,1250000.0,FC Utrecht,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Gaëtan Bussmann,28,France,Left-Back,LB,400000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Giulio Donati,29,Italy,Right-Back,RB,1500000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,René Adler,34,Germany,Goalkeeper,GK,500000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Niko Bungert,32,Germany,Centre-Back,CB,200000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+1.FSV Mainz 05,Aarón Martín,22,Spain,Left-Back,LB,20000000.0,Espanyol,Spain,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+1.FSV Mainz 05,Jeffrey Bruma,28,Netherlands,Centre-Back,CB,4000000.0,VfL Wolfsburg,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Alexandru Maxim,29,Romania,Attacking Midfield,AM,2000000.0,Gaziantep FK,Turkey,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Aaron Seydel,23,Germany,Centre-Forward,CF,400000.0,Jahn Regensburg,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+1.FSV Mainz 05,Ahmet Gürleyen,20,Germany,Centre-Back,CB,400000.0,FC Liefering,Austria,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Bayer 04 Leverkusen,Kerem Demirbay,25,Germany,Central Midfield,CM,32000000.0,TSG Hoffenheim,Germany,32000000.0,in,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Moussa Diaby,19,France,Left Winger,LW,12000000.0,Paris SG,France,15000000.0,in,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Nadiem Amiri,22,Germany,Attacking Midfield,AM,17000000.0,TSG Hoffenheim,Germany,9000000.0,in,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Daley Sinkgraven,23,Netherlands,Left-Back,LB,3000000.0,Ajax,Netherlands,5000000.0,in,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Julian Brandt,23,Germany,Attacking Midfield,AM,50000000.0,Bor. Dortmund,Germany,25000000.0,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Dominik Kohr,25,Germany,Central Midfield,CM,4000000.0,E. Frankfurt,Germany,8500000.0,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Thorsten Kirschbaum,32,Germany,Goalkeeper,GK,200000.0,VVV-Venlo,Netherlands,0.0,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Tomasz Kucz,20,Poland,Goalkeeper,GK,250000.0,Guimarães B,Portugal,0.0,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Sam Schreck,20,Germany,Attacking Midfield,AM,400000.0,FC Groningen,Netherlands,,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Jan Boller,19,Germany,Centre-Back,CB,200000.0,LASK,Austria,,out,summer,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Tin Jedvaj,23,Croatia,Centre-Back,CB,7500000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Bayer 04 Leverkusen,Isaac Kiese Thelin,27,Sweden,Centre-Forward,CF,2500000.0,RSC Anderlecht,Belgium,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Bayer 04 Leverkusen,Edmond Tapsoba,20,Burkina Faso,Centre-Back,CB,4500000.0,Vit. Guimarães,Portugal,18000000.0,in,winter,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Exequiel Palacios,21,Argentina,Central Midfield,CM,25000000.0,River Plate,Argentina,17000000.0,in,winter,1 Bundesliga,2019,False,
+Bayer 04 Leverkusen,Joel Pohjanpalo,25,Finland,Centre-Forward,CF,1000000.0,Hamburger SV,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Bayer 04 Leverkusen,Panagiotis Retsos,21,Greece,Centre-Back,CB,9000000.0,Sheff Utd,England,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Bayern Munich,Lucas Hernández,23,France,Left-Back,LB,70000000.0,Atlético Madrid,Spain,80000000.0,in,summer,1 Bundesliga,2019,False,
+Bayern Munich,Benjamin Pavard,23,France,Right-Back,RB,30000000.0,VfB Stuttgart,Germany,35000000.0,in,summer,1 Bundesliga,2019,False,
+Bayern Munich,Philippe Coutinho,27,Brazil,Attacking Midfield,AM,90000000.0,FC Barcelona,Spain,8500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Bayern Munich,Michaël Cuisance,20,France,Central Midfield,CM,5000000.0,Bor. M'gladbach,Germany,8000000.0,in,summer,1 Bundesliga,2019,False,
+Bayern Munich,Ivan Perisic,30,Croatia,Left Winger,LW,30000000.0,Inter,Italy,5000000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Bayern Munich,Fiete Arp,19,Germany,Centre-Forward,CF,4000000.0,Hamburger SV,Germany,3000000.0,in,summer,1 Bundesliga,2019,False,
+Bayern Munich,Mats Hummels,30,Germany,Centre-Back,CB,35000000.0,Bor. Dortmund,Germany,30500000.0,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,Renato Sanches,22,Portugal,Central Midfield,CM,18000000.0,LOSC Lille,France,20000000.0,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,Marco Friedl,21,Austria,Centre-Back,CB,2500000.0,Werder Bremen,Germany,3500000.0,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,Rafinha,33,Brazil,Right-Back,RB,3000000.0,Flamengo,Brazil,0.0,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,Franck Ribéry,36,France,Left Winger,LW,4000000.0,Fiorentina,Italy,0.0,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,Adrian Fein,20,Germany,Defensive Midfield,DM,750000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Bayern Munich,Arjen Robben,35,Netherlands,Right Winger,RW,4000000.0,Career break,,,out,summer,1 Bundesliga,2019,False,
+Bayern Munich,James Rodríguez,27,Colombia,Attacking Midfield,AM,50000000.0,Real Madrid,Spain,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Bayern Munich,Álvaro Odriozola,24,Spain,Right-Back,RB,20000000.0,Real Madrid,Spain,0.0,in,winter,1 Bundesliga,2019,True,free loan
+Borussia Dortmund,Mats Hummels,30,Germany,Centre-Back,CB,35000000.0,FC Bayern,Germany,30500000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Nico Schulz,26,Germany,Left-Back,LB,25000000.0,TSG Hoffenheim,Germany,25500000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Thorgan Hazard,26,Belgium,Left Winger,LW,38000000.0,Bor. M'gladbach,Germany,25500000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Julian Brandt,23,Germany,Attacking Midfield,AM,50000000.0,Bay. Leverkusen,Germany,25000000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Paco Alcácer,25,Spain,Centre-Forward,CF,37000000.0,FC Barcelona,Spain,21000000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Mateu Morey Bauzà,19,Spain,Right-Back,RB,300000.0,Barça U19,Spain,0.0,in,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Abdou Diallo,23,Senegal,Centre-Back,CB,35000000.0,Paris SG,France,32000000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Maximilian Philipp,25,Germany,Second Striker,SS,13000000.0,Dinamo Moscow,Russia,20000000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Alexander Isak,19,Sweden,Centre-Forward,CF,8000000.0,Real Sociedad,Spain,6500000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Sebastian Rode,28,Germany,Central Midfield,CM,3000000.0,E. Frankfurt,Germany,4000000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Shinji Kagawa,30,Japan,Attacking Midfield,AM,6000000.0,Real Zaragoza,Spain,3000000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Dortmund,Jeremy Toljan,24,Germany,Right-Back,RB,3000000.0,Sassuolo,Italy,2250000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Borussia Dortmund,Marius Wolf,24,Germany,Right Winger,RW,8000000.0,Hertha BSC,Germany,2000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Borussia Dortmund,André Schürrle,28,Germany,Left Winger,LW,12000000.0,Spartak Moscow,Russia,1000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Borussia Dortmund,Ömer Toprak,30,Turkey,Centre-Back,CB,5000000.0,Werder Bremen,Germany,1000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Borussia Dortmund,Felix Passlack,21,Germany,Right-Back,RB,1500000.0,Fortuna Sittard,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Borussia Dortmund,Sergio Gómez,18,Spain,Attacking Midfield,AM,3000000.0,SD Huesca,Spain,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Borussia Dortmund,Paco Alcácer,25,Spain,Centre-Forward,CF,37000000.0,FC Barcelona,Spain,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Borussia Dortmund,Christian Pulisic,20,United States,Right Winger,RW,60000000.0,Chelsea,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Borussia Dortmund,Erling Haaland,19,Norway,Centre-Forward,CF,45000000.0,RB Salzburg,Austria,20000000.0,in,winter,1 Bundesliga,2019,False,
+Borussia Dortmund,Emre Can,26,Germany,Centre-Back,CB,30000000.0,Juventus,Italy,1000000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+Borussia Dortmund,Paco Alcácer,26,Spain,Centre-Forward,CF,42000000.0,Villarreal,Spain,23000000.0,out,winter,1 Bundesliga,2019,False,
+Borussia Dortmund,Julian Weigl,24,Germany,Defensive Midfield,DM,23000000.0,Benfica,Portugal,20000000.0,out,winter,1 Bundesliga,2019,False,
+Borussia Dortmund,Jacob Bruun Larsen,21,Denmark,Left Winger,LW,12000000.0,TSG Hoffenheim,Germany,9000000.0,out,winter,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Stefan Lainer,26,Austria,Right-Back,RB,12500000.0,RB Salzburg,Austria,12500000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Breel Embolo,22,Switzerland,Centre-Forward,CF,14000000.0,FC Schalke 04,Germany,11000000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Marcus Thuram,21,France,Left Winger,LW,9000000.0,Guingamp,France,9000000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Ramy Bensebaini,24,Algeria,Left-Back,LB,8000000.0,Stade Rennais,France,8000000.0,in,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Max Grün,32,Germany,Goalkeeper,GK,150000.0,SV Darmstadt 98,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Thorgan Hazard,26,Belgium,Left Winger,LW,38000000.0,Bor. Dortmund,Germany,25500000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Michaël Cuisance,20,France,Central Midfield,CM,5000000.0,FC Bayern,Germany,8000000.0,out,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Michael Lang,28,Switzerland,Right-Back,RB,4500000.0,Werder Bremen,Germany,600000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Borussia Mönchengladbach,Josip Drmic,26,Switzerland,Centre-Forward,CF,3000000.0,Norwich,England,0.0,out,summer,1 Bundesliga,2019,False,
+Borussia Mönchengladbach,Moritz Nicolas,21,Germany,Goalkeeper,GK,150000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Borussia Mönchengladbach,Jordan Beyer,19,Germany,Centre-Back,CB,2500000.0,Hamburger SV,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Borussia Mönchengladbach,Andreas Poulsen,20,Denmark,Left-Back,LB,1500000.0,Austria Vienna,Austria,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Borussia Mönchengladbach,Julio Villalba,21,Paraguay,Centre-Forward,CF,500000.0,SCR Altach,Austria,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Luka Jovic,21,Serbia,Centre-Forward,CF,60000000.0,Benfica,Portugal,22340000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Djibril Sow,22,Switzerland,Central Midfield,CM,9000000.0,BSC Young Boys,Switzerland,10000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Martin Hinteregger,26,Austria,Centre-Back,CB,16000000.0,FC Augsburg,Germany,9000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Dominik Kohr,25,Germany,Central Midfield,CM,4000000.0,Bay. Leverkusen,Germany,8500000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Kevin Trapp,29,Germany,Goalkeeper,GK,10000000.0,Paris SG,France,7000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Bas Dost,30,Netherlands,Centre-Forward,CF,17000000.0,Sporting CP,Portugal,7000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Filip Kostic,26,Serbia,Left Midfield,LM,22000000.0,Hamburger SV,Germany,6000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Dejan Joveljic,19,Serbia,Centre-Forward,CF,4000000.0,Red Star,Serbia,4000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Sebastian Rode,28,Germany,Central Midfield,CM,3000000.0,Bor. Dortmund,Germany,4000000.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Rodrigo Zalazar,19,Uruguay,Central Midfield,CM,50000.0,A. Malagueño,Spain,0.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Erik Durm,27,Germany,Right-Back,RB,2000000.0,Huddersfield,England,0.0,in,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,André Silva,23,Portugal,Centre-Forward,CF,22000000.0,AC Milan,Italy,0.0,in,summer,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Luka Jovic,21,Serbia,Centre-Forward,CF,60000000.0,Real Madrid,Spain,63000000.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Sébastien Haller,25,Cote d'Ivoire,Centre-Forward,CF,40000000.0,West Ham,England,50000000.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Jetro Willems,25,Netherlands,Left-Back,LB,5000000.0,Newcastle,England,1000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+Eintracht Frankfurt,Andersson Ordóñez,25,Ecuador,Centre-Back,CB,600000.0,LDU Quito,Ecuador,450000.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Danny Blum,28,Germany,Left Winger,LW,500000.0,VfL Bochum,Germany,250000.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Max Besuschkow,22,Germany,Central Midfield,CM,400000.0,Jahn Regensburg,Germany,100000.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Deji Beyreuther,19,Germany,Left-Back,LB,100000.0,Hoffenheim II,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Nicolai Müller,32,Germany,Attacking Midfield,AM,1500000.0,Western Sydney,Australia,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Marc Stendera,23,Germany,Central Midfield,CM,1500000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Branimir Hrgota,26,Sweden,Centre-Forward,CF,600000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Nelson Mandela Mbouhom,20,Cameroon,Central Midfield,CM,200000.0,SF Lotte,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Rodrigo Zalazar,19,Uruguay,Central Midfield,CM,50000.0,Korona Kielce,Poland,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Mischa Häuser,19,Germany,Right Midfield,RM,150000.0,FSV Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Tobias Stirl,19,Germany,Goalkeeper,GK,200000.0,Wolfsburg II,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Noel Knothe,20,Germany,Centre-Back,CB,100000.0,Nuremberg II,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Patrice Kabuya,19,Germany,Right Winger,RW,200000.0,Hamburger SV II,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Tuta,20,Brazil,Centre-Back,CB,1800000.0,KV Kortrijk,Belgium,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Ante Rebic,25,Croatia,Left Winger,LW,40000000.0,AC Milan,Italy,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Taleb Tawatha,27,Israel,Left-Back,LB,1000000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Luka Jovic,21,Serbia,Centre-Forward,CF,60000000.0,Benfica,Portugal,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Eintracht Frankfurt,Filip Kostic,26,Serbia,Left Midfield,LM,22000000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Eintracht Frankfurt,Kevin Trapp,28,Germany,Goalkeeper,GK,10000000.0,Paris SG,France,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Eintracht Frankfurt,Sebastian Rode,28,Germany,Central Midfield,CM,3000000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Eintracht Frankfurt,Martin Hinteregger,26,Austria,Centre-Back,CB,16000000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Eintracht Frankfurt,Stefan Ilsanker,30,Austria,Defensive Midfield,DM,3000000.0,RB Leipzig,Germany,500000.0,in,winter,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Simon Falette,27,Guinea,Centre-Back,CB,3500000.0,Fenerbahce,Turkey,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Eintracht Frankfurt,Nicolai Müller,32,Germany,Attacking Midfield,AM,1500000.0,Western Sydney,Australia,0.0,out,winter,1 Bundesliga,2019,False,
+Eintracht Frankfurt,Dejan Joveljic,20,Serbia,Centre-Forward,CF,4000000.0,RSC Anderlecht,Belgium,0.0,out,winter,1 Bundesliga,2019,True,free loan
+FC Augsburg,Tomas Koubek,26,Czech Republic,Goalkeeper,GK,6000000.0,Stade Rennais,France,7500000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Iago,22,Brazil,Left-Back,LB,2000000.0,Internacional,Brazil,6500000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Rubén Vargas,20,Switzerland,Left Winger,LW,4000000.0,FC Luzern,Switzerland,4000000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Carlos Gruezo,24,Ecuador,Defensive Midfield,DM,2000000.0,FC Dallas,United States,4000000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Florian Niederlechner,28,Germany,Centre-Forward,CF,3500000.0,SC Freiburg,Germany,2500000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Reece Oxford,20,England,Centre-Back,CB,4000000.0,West Ham,England,2000000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Noah Joel Sarenren Bazee,22,Nigeria,Right Winger,RW,1250000.0,Hannover 96,Germany,1700000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Felix Uduokhai,21,Germany,Centre-Back,CB,3500000.0,VfL Wolfsburg,Germany,1500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+FC Augsburg,Marvin Friedrich,23,Germany,Centre-Back,CB,3000000.0,Union Berlin,Germany,1000000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Mads Pedersen,22,Denmark,Left-Back,LB,900000.0,Nordsjaelland,Denmark,800000.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Marek Suchy,31,Czech Republic,Centre-Back,CB,2250000.0,FC Basel,Switzerland,0.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Stephan Lichtsteiner,35,Switzerland,Right-Back,RB,1500000.0,Arsenal,England,0.0,in,summer,1 Bundesliga,2019,False,
+FC Augsburg,Tin Jedvaj,23,Croatia,Centre-Back,CB,7500000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2019,True,free loan
+FC Augsburg,Martin Hinteregger,26,Austria,Centre-Back,CB,16000000.0,E. Frankfurt,Germany,9000000.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Jonathan Schmid,29,France,Right-Back,RB,5000000.0,SC Freiburg,Germany,4000000.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Kevin Danso,20,Austria,Centre-Back,CB,8000000.0,Southampton,England,4000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Augsburg,Marvin Friedrich,23,Germany,Centre-Back,CB,3000000.0,Union Berlin,Germany,2000000.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Dong-won Ji,28,"Korea, South",Centre-Forward,CF,1750000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Konstantinos Stafylidis,25,Greece,Left-Back,LB,3000000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Ja-cheol Koo,30,"Korea, South",Central Midfield,CM,3500000.0,Al-Gharafa SC,Qatar,0.0,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Takashi Usami,27,Japan,Centre-Forward,CF,1500000.0,Gamba Osaka,Japan,,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Julian Günther-Schmidt,24,Germany,Centre-Forward,CF,250000.0,Carl Zeiss Jena,Germany,,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Tim Rieder,25,Germany,Defensive Midfield,DM,300000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+FC Augsburg,Christoph Janker,34,Germany,defence,defence,100000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Jan-Ingwer Callsen-Bracker,34,Germany,Centre-Back,CB,100000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Caiuby,31,Brazil,Second Striker,SS,500000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+FC Augsburg,Gregor Kobel,21,Switzerland,Goalkeeper,GK,6000000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+FC Augsburg,Reece Oxford,20,England,Centre-Back,CB,4000000.0,West Ham,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+FC Augsburg,Eduard Löwen,22,Germany,Central Midfield,CM,7000000.0,Hertha BSC,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+FC Augsburg,Michael Gregoritsch,25,Austria,Second Striker,SS,7000000.0,FC Schalke 04,Germany,500000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+FC Augsburg,Mads Pedersen,23,Denmark,Left-Back,LB,900000.0,FC Zürich,Switzerland,0.0,out,winter,1 Bundesliga,2019,True,free loan
+FC Augsburg,Caiuby,31,Brazil,Second Striker,SS,500000.0,Without Club,,,out,winter,1 Bundesliga,2019,False,
+FC Schalke 04,Ozan Kabak,19,Turkey,Centre-Back,CB,15000000.0,VfB Stuttgart,Germany,15000000.0,in,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Benito Raman,24,Belgium,Left Winger,LW,12000000.0,F. Düsseldorf,Germany,6500000.0,in,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Bernard Tekpetey,21,Ghana,Right Winger,RW,2500000.0,SC Paderborn,Germany,2500000.0,in,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Markus Schubert,21,Germany,Goalkeeper,GK,1000000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Jonjoe Kenny,22,England,Right-Back,RB,5000000.0,Everton,England,0.0,in,summer,1 Bundesliga,2019,True,free loan
+FC Schalke 04,Juan Miranda,19,Spain,Left-Back,LB,5000000.0,FC Barcelona,Spain,0.0,in,summer,1 Bundesliga,2019,True,free loan
+FC Schalke 04,Breel Embolo,22,Switzerland,Centre-Forward,CF,14000000.0,Bor. M'gladbach,Germany,11000000.0,out,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Ralf Fährmann,30,Germany,Goalkeeper,GK,5000000.0,Norwich,England,3000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Yevgen Konoplyanka,29,Ukraine,Left Winger,LW,6500000.0,Shakhtar D.,Ukraine,1500000.0,out,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Sebastian Rudy,29,Germany,Defensive Midfield,DM,9000000.0,TSG Hoffenheim,Germany,850000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Cedric Teuchert,22,Germany,Centre-Forward,CF,1500000.0,Hannover 96,Germany,500000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Bernard Tekpetey,21,Ghana,Right Winger,RW,2500000.0,F. Düsseldorf,Germany,500000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Hamza Mendyl,21,Morocco,Left-Back,LB,4000000.0,Dijon,France,500000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Benjamin Goller,20,Germany,Right Winger,RW,400000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Pablo Insua,25,Spain,Centre-Back,CB,1500000.0,SD Huesca,Spain,0.0,out,summer,1 Bundesliga,2019,True,free loan
+FC Schalke 04,Sascha Riether,36,Germany,Right-Back,RB,300000.0,Retired,,,out,summer,1 Bundesliga,2019,False,
+FC Schalke 04,Jeffrey Bruma,27,Netherlands,Centre-Back,CB,2500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+FC Schalke 04,Jean-Clair Todibo,20,France,Centre-Back,CB,10000000.0,FC Barcelona,Spain,1500000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Michael Gregoritsch,25,Austria,Second Striker,SS,7000000.0,FC Augsburg,Germany,500000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Nabil Bentaleb,25,Algeria,Central Midfield,CM,5000000.0,Newcastle,England,1000000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Steven Skrzybski,27,Germany,Right Winger,RW,2700000.0,F. Düsseldorf,Germany,200000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+FC Schalke 04,Fabian Reese,22,Germany,Right Winger,RW,600000.0,Holstein Kiel,Germany,100000.0,out,winter,1 Bundesliga,2019,False,
+FC Schalke 04,Jonas Carls,22,Germany,Left-Back,LB,200000.0,Viktoria Köln,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+FC Schalke 04,Mark Uth,28,Germany,Second Striker,SS,5500000.0,1. FC Köln,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+FC Schalke 04,Ralf Fährmann,31,Germany,Goalkeeper,GK,2000000.0,Brann,Norway,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Nana Ampomah,23,Ghana,Left Winger,LW,2500000.0,Waasl.-Beveren,Belgium,2800000.0,in,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Bernard Tekpetey,21,Ghana,Right Winger,RW,2500000.0,FC Schalke 04,Germany,500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Fortuna Düsseldorf,Erik Thommy,24,Germany,Left Midfield,LM,3000000.0,VfB Stuttgart,Germany,500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Fortuna Düsseldorf,Thomas Pledl,25,Germany,Right Winger,RW,1000000.0,FC Ingolstadt,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Florian Kastenmeier,22,Germany,Goalkeeper,GK,100000.0,Stuttgart II,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Markus Suttner,32,Austria,Left-Back,LB,1500000.0,Brighton,England,0.0,in,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Kelvin Ofori,18,Ghana,Attacking Midfield,AM,,Right to Dream,Ghana,0.0,in,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Zack Steffen,24,United States,Goalkeeper,GK,5000000.0,Man City,England,0.0,in,summer,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Lewis Baker,24,England,Central Midfield,CM,4000000.0,Chelsea,England,0.0,in,summer,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Kasim Adams,24,Ghana,Centre-Back,CB,7000000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Benito Raman,24,Belgium,Left Winger,LW,12000000.0,FC Schalke 04,Germany,6500000.0,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Marvin Ducksch,25,Germany,Centre-Forward,CF,1500000.0,Hannover 96,Germany,1500000.0,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Havard Nielsen,26,Norway,Centre-Forward,CF,750000.0,Greuther Fürth,Germany,100000.0,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Kianz Froese,23,Canada,Attacking Midfield,AM,150000.0,Saarbrücken,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Emir Kujovic,31,Sweden,Centre-Forward,CF,250000.0,Djurgarden,Sweden,0.0,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Jannick Theißen,21,Germany,Goalkeeper,GK,100000.0,Rot-Weiß Erfurt,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Emmanuel Iyoha,21,Germany,Centre-Forward,CF,900000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Jaroslav Drobny,39,Czech Republic,Goalkeeper,GK,100000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Dodi Lukebakio,21,Belgium,Right Winger,RW,18000000.0,Watford,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Fortuna Düsseldorf,Takashi Usami,27,Japan,Centre-Forward,CF,1500000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Fortuna Düsseldorf,Marcin Kaminski,27,Poland,Centre-Back,CB,3500000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Fortuna Düsseldorf,Markus Suttner,32,Austria,Left-Back,LB,1500000.0,Brighton,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Fortuna Düsseldorf,Dawid Kownacki,22,Poland,Centre-Forward,CF,7500000.0,Sampdoria,Italy,6750000.0,in,winter,1 Bundesliga,2019,False,
+Fortuna Düsseldorf,Steven Skrzybski,27,Germany,Right Winger,RW,2700000.0,FC Schalke 04,Germany,200000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+Fortuna Düsseldorf,Valon Berisha,26,Kosovo,Central Midfield,CM,5000000.0,Lazio,Italy,0.0,in,winter,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Zanka,29,Denmark,Centre-Back,CB,3000000.0,Fenerbahce,Turkey,0.0,in,winter,1 Bundesliga,2019,True,free loan
+Fortuna Düsseldorf,Davor Lovren,21,Croatia,Left Winger,LW,400000.0,Slaven Belupo,Croatia,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Dodi Lukebakio,21,Belgium,Right Winger,RW,18000000.0,Watford,England,20000000.0,in,summer,1 Bundesliga,2019,False,
+Hertha BSC,Eduard Löwen,22,Germany,Central Midfield,CM,7000000.0,1.FC Nuremberg,Germany,7000000.0,in,summer,1 Bundesliga,2019,False,
+Hertha BSC,Daishawn Redan,18,Netherlands,Centre-Forward,CF,,Chelsea U23,England,2700000.0,in,summer,1 Bundesliga,2019,False,
+Hertha BSC,Marko Grujic,23,Serbia,Defensive Midfield,DM,20000000.0,Liverpool,England,2000000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Hertha BSC,Marius Wolf,24,Germany,Right Winger,RW,8000000.0,Bor. Dortmund,Germany,2000000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+Hertha BSC,Dedryck Boyata,28,Belgium,Centre-Back,CB,2000000.0,Celtic,Scotland,0.0,in,summer,1 Bundesliga,2019,False,
+Hertha BSC,Valentino Lazaro,23,Austria,Right Midfield,RM,17000000.0,Inter,Italy,22400000.0,out,summer,1 Bundesliga,2019,False,
+Hertha BSC,Fabian Lustenberger,31,Switzerland,Centre-Back,CB,2500000.0,BSC Young Boys,Switzerland,0.0,out,summer,1 Bundesliga,2019,False,
+Hertha BSC,Jonathan Klinsmann,22,United States,Goalkeeper,GK,150000.0,FC St. Gallen,Switzerland,0.0,out,summer,1 Bundesliga,2019,False,
+Hertha BSC,Julius Kade,20,Germany,Central Midfield,CM,400000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+Hertha BSC,Marius Gersbeck,24,Germany,Goalkeeper,GK,350000.0,Karlsruher SC,Germany,45000.0,out,summer,1 Bundesliga,2019,False,
+Hertha BSC,Marko Grujic,23,Serbia,Defensive Midfield,DM,20000000.0,Liverpool,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Hertha BSC,Derrick Luckassen,23,Netherlands,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+Hertha BSC,Lucas Tousart,22,France,Defensive Midfield,DM,20000000.0,Olympique Lyon,France,25000000.0,in,winter,1 Bundesliga,2019,False,
+Hertha BSC,Krzysztof Piatek,24,Poland,Centre-Forward,CF,32000000.0,AC Milan,Italy,24000000.0,in,winter,1 Bundesliga,2019,False,
+Hertha BSC,Matheus Cunha,20,Brazil,Centre-Forward,CF,13000000.0,RB Leipzig,Germany,18000000.0,in,winter,1 Bundesliga,2019,False,
+Hertha BSC,Santiago Ascacíbar,22,Argentina,Defensive Midfield,DM,10000000.0,VfB Stuttgart,Germany,10000000.0,in,winter,1 Bundesliga,2019,False,
+Hertha BSC,Davie Selke,25,Germany,Centre-Forward,CF,10000000.0,Werder Bremen,Germany,1000000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+Hertha BSC,Sidney Friede,21,Germany,Central Midfield,CM,700000.0,Wehen Wiesbaden,Germany,0.0,out,winter,1 Bundesliga,2019,False,
+Hertha BSC,Lucas Tousart,22,France,Defensive Midfield,DM,20000000.0,Olympique Lyon,France,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Eduard Löwen,22,Germany,Central Midfield,CM,7000000.0,FC Augsburg,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Maurice Covic,21,Germany,Left Winger,LW,250000.0,Ascoli,Italy,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Ondrej Duda,25,Slovakia,Attacking Midfield,AM,13000000.0,Norwich,England,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Dennis Jastrzembski,19,Poland,Left Winger,LW,500000.0,SC Paderborn,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+Hertha BSC,Daishawn Redan,18,Netherlands,Centre-Forward,CF,4000000.0,FC Groningen,Netherlands,0.0,out,winter,1 Bundesliga,2019,True,free loan
+RB Leipzig,Ademola Lookman,21,England,Left Winger,LW,20000000.0,Everton,England,18000000.0,in,summer,1 Bundesliga,2019,False,
+RB Leipzig,Christopher Nkunku,21,France,Attacking Midfield,AM,12000000.0,Paris SG,France,13000000.0,in,summer,1 Bundesliga,2019,False,
+RB Leipzig,Hannes Wolf,20,Austria,Attacking Midfield,AM,12000000.0,RB Salzburg,Austria,12000000.0,in,summer,1 Bundesliga,2019,False,
+RB Leipzig,Luan Cândido,18,Brazil,Left-Back,LB,4000000.0,Palmeiras U20,Brazil,8000000.0,in,summer,1 Bundesliga,2019,False,
+RB Leipzig,Patrik Schick,23,Czech Republic,Centre-Forward,CF,15000000.0,AS Roma,Italy,3500000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+RB Leipzig,Ethan Ampadu,18,Wales,Centre-Back,CB,10000000.0,Chelsea,England,650000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+RB Leipzig,Philipp Tschauner,33,Germany,Goalkeeper,GK,400000.0,Hannover 96,Germany,350000.0,in,summer,1 Bundesliga,2019,False,
+RB Leipzig,Bruma,24,Portugal,Right Winger,RW,10000000.0,PSV Eindhoven,Netherlands,12000000.0,out,summer,1 Bundesliga,2019,False,
+RB Leipzig,Jean-Kévin Augustin,22,France,Centre-Forward,CF,16000000.0,Monaco,France,4000000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+RB Leipzig,Julian Krahl,19,Germany,Goalkeeper,GK,200000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+RB Leipzig,Atinc Nukan,26,Turkey,Centre-Back,CB,500000.0,Göztepe,Turkey,0.0,out,summer,1 Bundesliga,2019,False,
+RB Leipzig,Marius Müller,25,Germany,Goalkeeper,GK,500000.0,FC Luzern,Switzerland,,out,summer,1 Bundesliga,2019,False,
+RB Leipzig,Emile Smith Rowe,18,England,Attacking Midfield,AM,4000000.0,Arsenal U23,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+RB Leipzig,Dani Olmo,21,Spain,Attacking Midfield,AM,35000000.0,Dinamo Zagreb,Croatia,22000000.0,in,winter,1 Bundesliga,2019,False,
+RB Leipzig,Angeliño,23,Spain,Left-Back,LB,16000000.0,Man City,England,2000000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+RB Leipzig,Matheus Cunha,20,Brazil,Centre-Forward,CF,13000000.0,Hertha BSC,Germany,18000000.0,out,winter,1 Bundesliga,2019,False,
+RB Leipzig,Diego Demme,28,Germany,Defensive Midfield,DM,17000000.0,SSC Napoli,Italy,10250000.0,out,winter,1 Bundesliga,2019,False,
+RB Leipzig,Marcelo Saracchi,21,Uruguay,Left-Back,LB,10000000.0,Galatasaray,Turkey,500000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+RB Leipzig,Stefan Ilsanker,30,Austria,Defensive Midfield,DM,3000000.0,E. Frankfurt,Germany,500000.0,out,winter,1 Bundesliga,2019,False,
+RB Leipzig,Elias Abouchabaka,19,Germany,Attacking Midfield,AM,200000.0,Guimarães B,Portugal,0.0,out,winter,1 Bundesliga,2019,False,
+RB Leipzig,Luan Cândido,18,Brazil,Left-Back,LB,4000000.0,RB Bragantino,Brazil,0.0,out,winter,1 Bundesliga,2019,True,free loan
+RB Leipzig,Jean-Kévin Augustin,22,France,Centre-Forward,CF,14000000.0,Leeds,England,0.0,out,winter,1 Bundesliga,2019,True,free loan
+SC Freiburg,Vincenzo Grifo,26,Italy,Left Winger,LW,9000000.0,TSG Hoffenheim,Germany,7000000.0,in,summer,1 Bundesliga,2019,False,
+SC Freiburg,Jonathan Schmid,29,France,Right-Back,RB,5000000.0,FC Augsburg,Germany,4000000.0,in,summer,1 Bundesliga,2019,False,
+SC Freiburg,Luca Itter,20,Germany,Left-Back,LB,2000000.0,VfL Wolfsburg,Germany,2500000.0,in,summer,1 Bundesliga,2019,False,
+SC Freiburg,Woo-yeong Jeong,19,"Korea, South",Right Winger,RW,2000000.0,FC Bayern II,Germany,2000000.0,in,summer,1 Bundesliga,2019,False,
+SC Freiburg,Chang-hoon Kwon,25,"Korea, South",Right Winger,RW,5500000.0,Dijon,France,2000000.0,in,summer,1 Bundesliga,2019,False,
+SC Freiburg,Tim Kleindienst,24,Germany,Centre-Forward,CF,1500000.0,1.FC Heidenheim,Germany,3000000.0,out,summer,1 Bundesliga,2019,False,
+SC Freiburg,Florian Niederlechner,28,Germany,Centre-Forward,CF,3500000.0,FC Augsburg,Germany,2500000.0,out,summer,1 Bundesliga,2019,False,
+SC Freiburg,Vincent Sierro,23,Switzerland,Central Midfield,CM,3000000.0,BSC Young Boys,Switzerland,1500000.0,out,summer,1 Bundesliga,2019,False,
+SC Freiburg,Jonas Föhrenbach,23,Germany,Left-Back,LB,750000.0,1.FC Heidenheim,Germany,500000.0,out,summer,1 Bundesliga,2019,False,
+SC Freiburg,Fabian Schleusener,27,Germany,Right Winger,RW,850000.0,1.FC Nuremberg,Germany,450000.0,out,summer,1 Bundesliga,2019,False,
+SC Freiburg,Patrick Kammerbauer,22,Germany,Defensive Midfield,DM,400000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Pascal Stenzel,23,Germany,Right-Back,RB,4000000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Chima Okoroji,22,England,Left-Back,LB,200000.0,Jahn Regensburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Christoph Daferner,21,Germany,Centre-Forward,CF,250000.0,Erzgebirge Aue,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Constantin Frommann,21,Germany,Goalkeeper,GK,200000.0,Sonnenhof-Gr.,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Keven Schlotterbeck,22,Germany,Centre-Back,CB,1000000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Freiburg,Vincenzo Grifo,26,Italy,Left Winger,LW,9000000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+SC Freiburg,Marco Terrazzino,28,Germany,Attacking Midfield,AM,1000000.0,Dynamo Dresden,Germany,75000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+SC Freiburg,Jérôme Gondorf,31,Germany,Central Midfield,CM,1000000.0,Karlsruher SC,Germany,75000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+SC Freiburg,Woo-yeong Jeong,20,"Korea, South",Right Winger,RW,2000000.0,FC Bayern II,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Rifet Kapic,23,Bosnia-Herzegovina,Central Midfield,CM,650000.0,Grasshoppers,Switzerland,150000.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Jan-Luca Rumpf,19,Germany,Centre-Back,CB,,Spfr. Siegen,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Cauly,23,Brazil,Attacking Midfield,AM,1000000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Marcel Hilßner,24,Germany,Attacking Midfield,AM,400000.0,Hansa Rostock,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Johannes Dörfler,22,Germany,Right-Back,RB,250000.0,KFC Uerdingen,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Luca Kilian,19,Germany,Centre-Back,CB,125000.0,B. Dortmund II,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Streli Mamba,25,Germany,Centre-Forward,CF,550000.0,Energie Cottbus,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Abdelhamid Sabiri,22,Germany,Attacking Midfield,AM,1500000.0,Huddersfield,England,0.0,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Jannik Huth,25,Germany,Goalkeeper,GK,300000.0,1.FSV Mainz 05,Germany,,in,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Gerrit Holtmann,24,Germany,Left Winger,LW,1500000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Laurent Jans,26,Luxembourg,Right-Back,RB,700000.0,FC Metz,France,0.0,in,summer,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Bernard Tekpetey,21,Ghana,Right Winger,RW,2500000.0,FC Schalke 04,Germany,2500000.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Philipp Klement,26,Germany,Attacking Midfield,AM,2500000.0,VfB Stuttgart,Germany,2500000.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Luca Pfeiffer,22,Germany,Centre-Forward,CF,200000.0,Würzb. Kickers,Germany,200000.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Lukas Boeder,22,Germany,Right-Back,RB,350000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Felix Herzenbruch,26,Germany,Left-Back,LB,150000.0,RW Essen,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Julius Düker,23,Germany,Centre-Forward,CF,250000.0,SV Meppen,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Olivér Schindler,19,Hungary,Central Midfield,CM,100000.0,SV Lippstadt 08,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Sergio Gucciardo,20,Turkey,Left Winger,LW,100000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Sascha Heil,20,Germany,Centre-Back,CB,100000.0,FC Gießen,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Mohammed Kamara,21,Liberia,Centre-Forward,CF,100000.0,LA Galaxy II,United States,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Tobias Schwede,25,Germany,Left Midfield,LM,450000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Sergio Gucciardo,20,Turkey,Left Winger,LW,100000.0,SV Lippstadt 08,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Phillip Tietz,21,Germany,Centre-Forward,CF,350000.0,Wehen Wiesbaden,Germany,,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Felix Drinkuth,24,Germany,Attacking Midfield,AM,200000.0,Hallescher FC,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Leon Fesser,24,Germany,Centre-Back,CB,100000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+SC Paderborn 07,Samúel Fridjónsson,23,Iceland,Defensive Midfield,DM,500000.0,Vålerenga,Norway,400000.0,in,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Dennis Srbeny,25,Germany,Centre-Forward,CF,1000000.0,Norwich,England,200000.0,in,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Antony Evans,21,England,Attacking Midfield,AM,,Everton U23,England,,in,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Dennis Jastrzembski,19,Poland,Left Winger,LW,500000.0,Hertha BSC,Germany,0.0,in,winter,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Cauly,24,Brazil,Attacking Midfield,AM,1500000.0,Ludogorets,Bulgaria,600000.0,out,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Khiry Shelton,26,United States,Centre-Forward,CF,500000.0,Kansas,United States,0.0,out,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Michael Ratajczak,37,Germany,Goalkeeper,GK,100000.0,Hannover 96,Germany,0.0,out,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Babacar Gueye,25,Senegal,Centre-Forward,CF,600000.0,Karlsruher SC,Germany,0.0,out,winter,1 Bundesliga,2019,False,
+SC Paderborn 07,Marcel Hilßner,24,Germany,Attacking Midfield,AM,400000.0,Hallescher FC,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+SC Paderborn 07,Johannes Dörfler,23,Germany,Right-Back,RB,250000.0,FSV Zwickau,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Niclas Füllkrug,26,Germany,Centre-Forward,CF,8000000.0,Hannover 96,Germany,6500000.0,in,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Marco Friedl,21,Austria,Centre-Back,CB,2500000.0,FC Bayern,Germany,3500000.0,in,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Ömer Toprak,30,Turkey,Centre-Back,CB,5000000.0,Bor. Dortmund,Germany,1000000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+SV Werder Bremen,Michael Lang,28,Switzerland,Right-Back,RB,4500000.0,Bor. M'gladbach,Germany,600000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+SV Werder Bremen,Leonardo Bittencourt,25,Germany,Attacking Midfield,AM,7000000.0,TSG Hoffenheim,Germany,600000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+SV Werder Bremen,Benjamin Goller,20,Germany,Right Winger,RW,400000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Max Kruse,31,Germany,Second Striker,SS,12000000.0,Fenerbahce,Turkey,0.0,out,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Ole Käuper,22,Germany,Defensive Midfield,DM,350000.0,Carl Zeiss Jena,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Aron Jóhannsson,28,United States,Centre-Forward,CF,750000.0,Hammarby,Sweden,0.0,out,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Robert Bauer,24,Germany,Centre-Back,CB,2000000.0,Arsenal Tula,Russia,0.0,out,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Martin Harnik,32,Austria,Right Winger,RW,2000000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Thore Jacobsen,22,Germany,Defensive Midfield,DM,300000.0,1.FC Magdeburg,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Niklas Schmidt,21,Germany,Attacking Midfield,AM,600000.0,VfL Osnabrück,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Jan-Niklas Beste,20,Germany,Left-Back,LB,500000.0,FC Emmen,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Michael Zetterer,23,Germany,Goalkeeper,GK,350000.0,PEC Zwolle,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Jean Manuel Mbom,19,Germany,Central Midfield,CM,200000.0,KFC Uerdingen,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Felix Beijmo,21,Sweden,Right-Back,RB,1250000.0,Malmö FF,Sweden,0.0,out,summer,1 Bundesliga,2019,True,free loan
+SV Werder Bremen,Thanos Petsos,28,Greece,Defensive Midfield,DM,250000.0,Without Club,,,out,summer,1 Bundesliga,2019,False,
+SV Werder Bremen,Marco Friedl,21,Austria,Centre-Back,CB,2500000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+SV Werder Bremen,Davie Selke,25,Germany,Centre-Forward,CF,10000000.0,Hertha BSC,Germany,1000000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+SV Werder Bremen,Kevin Vogt,28,Germany,Centre-Back,CB,10000000.0,TSG Hoffenheim,Germany,750000.0,in,winter,1 Bundesliga,2019,True,loan with fee
+SV Werder Bremen,Felix Beijmo,22,Sweden,Right-Back,RB,1200000.0,Greuther Fürth,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Diadié Samassékou,23,Mali,Defensive Midfield,DM,20000000.0,RB Salzburg,Austria,14000000.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Robert Skov,23,Denmark,Right Winger,RW,13000000.0,FC Copenhagen,Denmark,10000000.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Ihlas Bebou,25,Togo,Right Winger,RW,12000000.0,Hannover 96,Germany,8500000.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Sargis Adamyan,26,Armenia,Centre-Forward,CF,3000000.0,Jahn Regensburg,Germany,1500000.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Sebastian Rudy,29,Germany,Defensive Midfield,DM,9000000.0,FC Schalke 04,Germany,850000.0,in,summer,1 Bundesliga,2019,True,loan with fee
+TSG 1899 Hoffenheim,Philipp Pentke,34,Germany,Goalkeeper,GK,300000.0,Jahn Regensburg,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Konstantinos Stafylidis,25,Greece,Left-Back,LB,3000000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Jürgen Locadia,25,Netherlands,Centre-Forward,CF,12000000.0,Brighton,England,0.0,in,summer,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Joelinton,22,Brazil,Centre-Forward,CF,35000000.0,Newcastle,England,44000000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Kerem Demirbay,25,Germany,Central Midfield,CM,32000000.0,Bay. Leverkusen,Germany,32000000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Nico Schulz,26,Germany,Left-Back,LB,25000000.0,Bor. Dortmund,Germany,25500000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Nadiem Amiri,22,Germany,Attacking Midfield,AM,17000000.0,Bay. Leverkusen,Germany,9000000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Vincenzo Grifo,26,Italy,Left Winger,LW,9000000.0,SC Freiburg,Germany,7000000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Antonio Colak,25,Croatia,Centre-Forward,CF,2000000.0,HNK Rijeka,Croatia,850000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Leonardo Bittencourt,25,Germany,Attacking Midfield,AM,7000000.0,Werder Bremen,Germany,600000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+TSG 1899 Hoffenheim,Robin Hack,20,Germany,Left Winger,LW,500000.0,1.FC Nuremberg,Germany,500000.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Gregor Kobel,21,Switzerland,Goalkeeper,GK,6000000.0,VfB Stuttgart,Germany,500000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+TSG 1899 Hoffenheim,David Otto,20,Germany,Centre-Forward,CF,1000000.0,1.FC Heidenheim,Germany,200000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+TSG 1899 Hoffenheim,Ádám Szalai,31,Hungary,Centre-Forward,CF,3000000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Felipe Pires,24,Brazil,Left Winger,LW,1500000.0,Fortaleza,Brazil,0.0,out,summer,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Justin Hoogma,21,Netherlands,Centre-Back,CB,2500000.0,FC Utrecht,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Kasim Adams,24,Ghana,Centre-Back,CB,7000000.0,F. Düsseldorf,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Reiss Nelson,19,England,Right Winger,RW,17000000.0,Arsenal U23,England,0.0,out,summer,1 Bundesliga,2019,True,end of loan
+TSG 1899 Hoffenheim,Munas Dabbur,27,Israel,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,12000000.0,in,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Jacob Bruun Larsen,21,Denmark,Left Winger,LW,12000000.0,Bor. Dortmund,Germany,9000000.0,in,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Michael Esser,32,Germany,Goalkeeper,GK,500000.0,Hannover 96,Germany,0.0,in,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Kevin Vogt,28,Germany,Centre-Back,CB,10000000.0,Werder Bremen,Germany,750000.0,out,winter,1 Bundesliga,2019,True,loan with fee
+TSG 1899 Hoffenheim,Lukas Rupp,29,Germany,Central Midfield,CM,3000000.0,Norwich,England,500000.0,out,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Philipp Ochs,22,Germany,Left Winger,LW,300000.0,Hannover 96,Germany,0.0,out,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Robert Zulj,27,Austria,Attacking Midfield,AM,1000000.0,VfL Bochum,Germany,,out,winter,1 Bundesliga,2019,False,
+TSG 1899 Hoffenheim,Bruno Nazário,24,Brazil,Attacking Midfield,AM,500000.0,Botafogo,Brazil,0.0,out,winter,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Joshua Brenet,25,Netherlands,Right-Back,RB,3000000.0,Vitesse,Netherlands,0.0,out,winter,1 Bundesliga,2019,True,free loan
+TSG 1899 Hoffenheim,Felipe Pires,24,Brazil,Left Winger,LW,900000.0,HNK Rijeka,Croatia,0.0,out,winter,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Xaver Schlager,21,Austria,Central Midfield,CM,15000000.0,RB Salzburg,Austria,15000000.0,in,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Kevin Mbabu,24,Switzerland,Right-Back,RB,10000000.0,BSC Young Boys,Switzerland,9200000.0,in,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,João Victor,25,Brazil,Left Winger,LW,3000000.0,LASK,Austria,3500000.0,in,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Paulo Otávio,24,Brazil,Left-Back,LB,1000000.0,FC Ingolstadt,Germany,1100000.0,in,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Lukas Nmecha,20,Germany,Centre-Forward,CF,1000000.0,Man City U23,England,0.0,in,summer,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Landry Dimata,21,Belgium,Centre-Forward,CF,7000000.0,RSC Anderlecht,Belgium,5000000.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Victor Osimhen,20,Nigeria,Centre-Forward,CF,13000000.0,RSC Charleroi,Belgium,3500000.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Luca Itter,20,Germany,Left-Back,LB,2000000.0,SC Freiburg,Germany,2500000.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Riechedly Bazoer,22,Netherlands,Centre-Back,CB,2500000.0,Vitesse,Netherlands,1500000.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Felix Uduokhai,21,Germany,Centre-Back,CB,3500000.0,FC Augsburg,Germany,1500000.0,out,summer,1 Bundesliga,2019,True,loan with fee
+VfL Wolfsburg,Paul Seguin,24,Germany,Central Midfield,CM,1000000.0,Greuther Fürth,Germany,300000.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Sebastian Jung,29,Germany,Right-Back,RB,500000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Paul Verhaegh,35,Netherlands,Right-Back,RB,750000.0,Twente FC,Netherlands,0.0,out,summer,1 Bundesliga,2019,False,
+VfL Wolfsburg,Marvin Stefaniak,24,Germany,Attacking Midfield,AM,500000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Paul-Georges Ntep,27,Cameroon,Left Winger,LW,1500000.0,Kayserispor,Turkey,0.0,out,summer,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,John Yeboah,19,Germany,Left Winger,LW,800000.0,VVV-Venlo,Netherlands,0.0,out,summer,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Marin Pongracic,22,Croatia,Centre-Back,CB,6000000.0,RB Salzburg,Austria,10000000.0,in,winter,1 Bundesliga,2019,False,
+VfL Wolfsburg,Elvis Rexhbecaj,22,Germany,Central Midfield,CM,5000000.0,1. FC Köln,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Yunus Malli,27,Turkey,Attacking Midfield,AM,3500000.0,Union Berlin,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Jeffrey Bruma,28,Netherlands,Centre-Back,CB,4000000.0,1.FSV Mainz 05,Germany,0.0,out,winter,1 Bundesliga,2019,True,free loan
+VfL Wolfsburg,Paul-Georges Ntep,27,Cameroon,Left Winger,LW,600000.0,Without Club,,,out,winter,1 Bundesliga,2019,False,

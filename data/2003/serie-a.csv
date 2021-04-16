@@ -1,0 +1,723 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Kaká,21,Brazil,Attacking Midfield,AM,,São Paulo,Brazil,8500000.0,in,summer,Serie A,2003,False,
+AC Milan,Alessandro Budel,22,Italy,Defensive Midfield,DM,,Triestina,Italy,2000000.0,in,summer,Serie A,2003,False,
+AC Milan,Giuseppe Ticli,24,Italy,Left Midfield,LM,,Inter,Italy,1500000.0,in,summer,Serie A,2003,False,
+AC Milan,Filippo Porcari,19,Italy,Defensive Midfield,DM,,Parma U19,Italy,1000000.0,in,summer,Serie A,2003,False,
+AC Milan,Cafú,33,Brazil,Right-Back,RB,,AS Roma,Italy,0.0,in,summer,Serie A,2003,False,
+AC Milan,Giuseppe Pancaro,31,Italy,Right-Back,RB,,Lazio,Italy,0.0,in,summer,Serie A,2003,True,free loan
+AC Milan,Patrick Kalambay,19,Italy,Right Midfield,RM,,Ancona,Italy,,in,summer,Serie A,2003,False,
+AC Milan,José Mari,24,Spain,Centre-Forward,CF,,Villarreal,Spain,9000000.0,out,summer,Serie A,2003,False,
+AC Milan,Luca Antonini,20,Italy,Left-Back,LB,,Sampdoria,Italy,2000000.0,out,summer,Serie A,2003,False,
+AC Milan,Cyril Domoraud,31,Cote d'Ivoire,Centre-Back,CB,,Espanyol,Spain,1500000.0,out,summer,Serie A,2003,False,
+AC Milan,Fabricio Coloccini,21,Argentina,Centre-Back,CB,,Villarreal,Spain,250000.0,out,summer,Serie A,2003,True,loan with fee
+AC Milan,Roque Júnior,26,Brazil,Centre-Back,CB,,Leeds,England,100000.0,out,summer,Serie A,2003,True,loan with fee
+AC Milan,Demetrio Albertini,31,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,out,summer,Serie A,2003,False,
+AC Milan,Ibrahim Bá,29,France,Right Midfield,RM,,Bolton,England,0.0,out,summer,Serie A,2003,False,
+AC Milan,Catilina Aubameyang,19,Gabon,Left Midfield,LM,,Triestina,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Paolo Sammarco,20,Italy,Central Midfield,CM,,Prato,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,José Chamot,34,Argentina,Centre-Back,CB,,CD Leganés,Spain,0.0,out,summer,Serie A,2003,False,
+AC Milan,Samuele Dalla Bona,22,Italy,Central Midfield,CM,,Bologna,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Marco Donadel,20,Italy,Defensive Midfield,DM,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Gabriele Aldegani,27,Italy,Goalkeeper,GK,,Rimini,Italy,,out,summer,Serie A,2003,False,
+AC Milan,Thomas Helveg,32,Denmark,Right-Back,RB,,Inter,Italy,,out,summer,Serie A,2003,False,
+AC Milan,Andrea Rabito,23,Italy,Right Winger,RW,,AS Livorno,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Alessandro Budel,22,Italy,Defensive Midfield,DM,,Lecce,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Emanuele D'Anna,21,Italy,Right Midfield,RM,,Piacenza,Italy,,out,summer,Serie A,2003,False,
+AC Milan,Simone Giovanni Brunelli,20,Italy,Goalkeeper,GK,,Pro Sesto,Italy,,out,summer,Serie A,2003,False,
+AC Milan,Vitali Kutuzov,23,Belarus,Centre-Forward,CF,,Avellino,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Filippo Porcari,19,Italy,Defensive Midfield,DM,,Padova,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,Giuseppe Ticli,24,Italy,Left Midfield,LM,,Calcio Monza,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Milan,William Nava,18,Italy,midfield,midfield,,Without Club,,,out,summer,Serie A,2003,False,
+AC Milan,Nicola Pozzi,17,Italy,Centre-Forward,CF,,Cesena,Italy,2000000.0,in,winter,Serie A,2003,False,
+AC Milan,Roque Júnior,27,Brazil,Centre-Back,CB,,Siena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Milan,Mohamed Sarr,20,Senegal,Centre-Back,CB,,Atalanta BC,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Milan,Rivaldo,31,Brazil,Attacking Midfield,AM,,Cruzeiro,Brazil,0.0,out,winter,Serie A,2003,False,
+AC Milan,Alessandro Budel,22,Italy,Defensive Midfield,DM,,Genoa,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Sébastien Frey,23,France,Goalkeeper,GK,,Inter,Italy,21000000.0,in,summer,Serie A,2003,False,
+AC Parma,Emiliano Moretti,22,Italy,Centre-Back,CB,,Juventus,Italy,1800000.0,in,summer,Serie A,2003,False,
+AC Parma,Domenico Morfeo,27,Italy,Attacking Midfield,AM,,Inter,Italy,1000000.0,in,summer,Serie A,2003,True,loan with fee
+AC Parma,Anthony Seric,24,Croatia,Left-Back,LB,,Hellas Verona,Italy,0.0,in,summer,Serie A,2003,True,free loan
+AC Parma,Manuele Blasi,22,Italy,Central Midfield,CM,,Juventus,Italy,0.0,in,summer,Serie A,2003,True,free loan
+AC Parma,Marco Donadel,20,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,in,summer,Serie A,2003,True,free loan
+AC Parma,Benny Carbone,31,Italy,Second Striker,SS,,Como,Italy,,in,summer,Serie A,2003,False,
+AC Parma,Vincenzo Sicignano,28,Italy,Goalkeeper,GK,,US Palermo,Italy,,in,summer,Serie A,2003,False,
+AC Parma,Marcello Castellini,30,Italy,Centre-Back,CB,,Bologna,Italy,,in,summer,Serie A,2003,False,
+AC Parma,Adrian Mutu,24,Romania,Centre-Forward,CF,,Chelsea,England,19000000.0,out,summer,Serie A,2003,False,
+AC Parma,Evanilson,27,Brazil,Right-Back,RB,,Bor. Dortmund,Germany,15000000.0,out,summer,Serie A,2003,False,
+AC Parma,Marco Di Vaio,26,Italy,Centre-Forward,CF,,Juventus,Italy,14000000.0,out,summer,Serie A,2003,False,
+AC Parma,Emiliano Bonazzoli,24,Italy,Centre-Forward,CF,,Reggina,Italy,4500000.0,out,summer,Serie A,2003,False,
+AC Parma,Savo Milosevic,29,Serbia,Centre-Forward,CF,,Celta de Vigo,Spain,2000000.0,out,summer,Serie A,2003,True,loan with fee
+AC Parma,Vratislav Gresko,25,Slovakia,Left-Back,LB,,Blackburn,England,1800000.0,out,summer,Serie A,2003,False,
+AC Parma,Matteo Brighi,22,Italy,Central Midfield,CM,,Brescia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Parma,Francesco Ruopolo,20,Italy,Centre-Forward,CF,,Cittadella,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Parma,Emiliano Moretti,22,Italy,Centre-Back,CB,,Bologna,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Parma,Sergey Gurenko,30,Belarus,Right-Back,RB,,Loko Moscow,Russia,,out,summer,Serie A,2003,False,
+AC Parma,Stefano Torrisi,32,Italy,Centre-Back,CB,,Reggina,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Gianluca Falsini,27,Italy,Left-Back,LB,,Reggina,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Alain Roger Bangoura,20,Guinea,defence,defence,,FC Brüssel,Belgium,,out,summer,Serie A,2003,False,
+AC Parma,Sabri Lamouchi,31,France,Central Midfield,CM,,Inter,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Alfonso De Lucia,19,Italy,Goalkeeper,GK,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Parma,Alessandro Pierini,30,Italy,Centre-Back,CB,,Udinese,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Roberto Massaro,19,Italy,Centre-Forward,CF,,Como,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Sebastiano Siviglia,30,Italy,Centre-Back,CB,,Lecce,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Parma,Paolo Poggi,32,Italy,Centre-Forward,CF,,Ancona,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Aimo Diana,25,Italy,Right Midfield,RM,,Sampdoria,Italy,,out,summer,Serie A,2003,False,
+AC Parma,Claudio Taffarel,37,Brazil,Goalkeeper,GK,,Retired,,,out,summer,Serie A,2003,False,
+AC Parma,Sébastien Frey,23,France,Goalkeeper,GK,,Inter,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Parma,Ianis Zicu,20,Romania,Attacking Midfield,AM,,Inter,Italy,215000.0,in,winter,Serie A,2003,True,loan with fee
+AC Parma,Marco Amelia,21,Italy,Goalkeeper,GK,,AS Livorno,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Parma,Alessandro Potenza,19,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Parma,Fabrizio Cammarata,28,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Parma,Mirko Stefani,19,Italy,Centre-Back,CB,,Prato,Italy,,in,winter,Serie A,2003,False,
+AC Parma,Adriano,21,Brazil,Centre-Forward,CF,,Inter,Italy,23400000.0,out,winter,Serie A,2003,False,
+AC Parma,Júnior,30,Brazil,Left-Back,LB,,Siena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Emanuele Filippini,30,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,out,winter,Serie A,2003,False,
+AC Parma,Tonino Sorrentino,18,Italy,Centre-Forward,CF,,Avellino,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Hidetoshi Nakata,26,Japan,Attacking Midfield,AM,,Bologna,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Gaetano Grieco,21,Italy,Centre-Forward,CF,,Genoa,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Jorge Bolaño,26,Colombia,Central Midfield,CM,,Lecce,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Parma,Vincenzo Sicignano,29,Italy,Goalkeeper,GK,,Lecce,Italy,,out,winter,Serie A,2003,False,
+AC Parma,Johnnier Montaño,20,Colombia,Attacking Midfield,AM,,Indep. Santa Fe,Colombia,,out,winter,Serie A,2003,False,
+AC Perugia,Al-Saadi Al Gaddafi,30,Libya,Attacking Midfield,AM,,Al-Ittihad,Libya,0.0,in,summer,Serie A,2003,False,
+AC Perugia,Jay Bothroyd,21,England,Centre-Forward,CF,,Coventry,England,0.0,in,summer,Serie A,2003,False,
+AC Perugia,Gaël Genevier,21,France,Defensive Midfield,DM,,Olymp. Lyon B,France,0.0,in,summer,Serie A,2003,False,
+AC Perugia,Jamal Alioui,21,Morocco,Right-Back,RB,,Olymp. Lyon B,France,0.0,in,summer,Serie A,2003,False,
+AC Perugia,Souleymane Diamoutene,20,Mali,Centre-Back,CB,,Lucchese,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Sasa Bjelanovic,24,Croatia,Centre-Forward,CF,,Como,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Massimo Margiotta,25,Venezuela,Second Striker,SS,,Vicenza,Italy,0.0,in,summer,Serie A,2003,True,free loan
+AC Perugia,Giovanni Ignoffo,26,Italy,Centre-Back,CB,,Avellino,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Alessandro Iannuzzi,27,Italy,attack,attack,,Messina Peloro,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Stefano Pardini,27,Italy,Goalkeeper,GK,,Sambenedettese,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Guglielmo Stendardo,22,Italy,Centre-Back,CB,,Salernitana,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Fabio Filippi,30,Italy,midfield,midfield,,Sambenedettese,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Maurizio Baciocchi,26,Italy,attack,attack,,Todi Calcio,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Domenico Di Dio,21,Italy,Goalkeeper,GK,,Catania,Italy,,in,summer,Serie A,2003,False,
+AC Perugia,Rahman Rezaei,28,Iran,Centre-Back,CB,,Messina Peloro,Italy,0.0,out,summer,Serie A,2003,False,
+AC Perugia,Konstantinos Louboutis,24,Greece,Left-Back,LB,,Siena,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Perugia,Daniele Cacciaglia,21,Italy,Central Midfield,CM,,Comprensorio,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Perugia,Mauro Milanese,31,Italy,Left-Back,LB,,Ancona,Italy,,out,summer,Serie A,2003,False,
+AC Perugia,Sean Sogliano,32,Italy,Centre-Back,CB,,Napoli,Italy,,out,summer,Serie A,2003,False,
+AC Perugia,Tiago Calvano,22,Brazil,Centre-Back,CB,,FC Barcelona B,Spain,,out,summer,Serie A,2003,False,
+AC Perugia,Giuseppe Aprea,26,Italy,Goalkeeper,GK,,Sambenedettese,Italy,,out,summer,Serie A,2003,False,
+AC Perugia,Héctor Tapia,25,Chile,Centre-Forward,CF,,LOSC Lille,France,,out,summer,Serie A,2003,False,
+AC Perugia,Gennaro Delvecchio,25,Italy,Central Midfield,CM,,Catania,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Perugia,Lorenzo Crocetti,19,Italy,Centre-Forward,CF,,Vis Pesaro,Italy,,out,summer,Serie A,2003,False,
+AC Perugia,Hilário Leal,29,Portugal,Right-Back,RB,,Sambenedettese,Italy,,out,summer,Serie A,2003,False,
+AC Perugia,Guglielmo Stendardo,22,Italy,Centre-Back,CB,,Catania,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AC Perugia,Al-Saadi Al Gaddafi,30,Libya,Attacking Midfield,AM,,Ban,,,out,summer,Serie A,2003,False,
+AC Perugia,Sebastiano Rossi,38,Italy,Goalkeeper,GK,,Retired,,,out,summer,Serie A,2003,False,
+AC Perugia,Fabrizio Miccoli,24,Italy,Centre-Forward,CF,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Manuele Blasi,22,Italy,Central Midfield,CM,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Roberto Baronio,25,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Andrea Caracciolo,21,Italy,Centre-Forward,CF,,Brescia,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Cyril Gona,18,Nigeria,Defensive Midfield,DM,,Brescia,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,William Viali,28,Italy,Centre-Back,CB,,US Palermo,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Luigi Pagliuca,23,Italy,Right Winger,RW,,Prato,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AC Perugia,Fabrizio Ravanelli,35,Italy,Centre-Forward,CF,,Dundee FC,Scotland,0.0,in,winter,Serie A,2003,False,
+AC Perugia,Dario Hübner,36,Italy,Centre-Forward,CF,,Ancona,Italy,0.0,in,winter,Serie A,2003,False,
+AC Perugia,Marcelo Zalayeta,25,Uruguay,Centre-Forward,CF,,Juventus,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Ferdinand Coly,30,Senegal,Right-Back,RB,,Lens,France,0.0,in,winter,Serie A,2003,False,
+AC Perugia,Vangelis Nastos,23,Greece,Right-Back,RB,,PAOK Salonika,Greece,0.0,in,winter,Serie A,2003,False,
+AC Perugia,Francesco Zerbini,24,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Salvatore Fresi,31,Italy,Centre-Back,CB,,Juventus,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Christian Manfredini,28,Cote d'Ivoire,Left Winger,LW,,Lazio,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Gabriele Scandurra,25,Italy,Centre-Forward,CF,,Sambenedettese,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Fabiano,24,Brazil,Left-Back,LB,,São Paulo,Brazil,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Domenico Maietta,21,Italy,Centre-Back,CB,,Avellino,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Roberto Cardinale,22,Italy,Centre-Back,CB,,Salernitana,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Eusebio Di Francesco,34,Italy,Central Midfield,CM,,Ancona,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Paul Codrea,22,Romania,Central Midfield,CM,,US Palermo,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Al-Saadi Al Gaddafi,30,Libya,Attacking Midfield,AM,,Ban,,,in,winter,Serie A,2003,False,
+AC Perugia,Félix Benito,25,Argentina,Right-Back,RB,,San Lorenzo,Argentina,,in,winter,Serie A,2003,False,
+AC Perugia,Franco Brienza,24,Italy,Attacking Midfield,AM,,US Palermo,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Carlos Arano,23,Argentina,Left-Back,LB,,Siena,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Luigi Giandomenico,25,Italy,Attacking Midfield,AM,,Reggiana,Italy,0.0,in,winter,Serie A,2003,True,free loan
+AC Perugia,Hany Said,23,Egypt,Sweeper,SW,,Fiorentina,Italy,,in,winter,Serie A,2003,False,
+AC Perugia,Zisis Vryzas,30,Greece,Centre-Forward,CF,,Fiorentina,Italy,2500000.0,out,winter,Serie A,2003,False,
+AC Perugia,Giovanni Tedesco,31,Italy,Right Midfield,RM,,Genoa,Italy,0.0,out,winter,Serie A,2003,False,
+AC Perugia,Jamal Alioui,21,Morocco,Right-Back,RB,,Catania,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Perugia,Emanuele Berrettoni,22,Italy,Second Striker,SS,,Catania,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Fabio Grosso,26,Italy,Left-Back,LB,,US Palermo,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Sasa Bjelanovic,24,Croatia,Centre-Forward,CF,,Genoa,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Gaël Genevier,21,France,Defensive Midfield,DM,,Catania,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AC Perugia,Alessandro Iannuzzi,28,Italy,attack,attack,,Pescara,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Hany Said,23,Egypt,Sweeper,SW,,Pistoiese,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Fabio Filippi,31,Italy,midfield,midfield,,Sambenedettese,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Domenico Di Dio,21,Italy,Goalkeeper,GK,,Sambenedettese,Italy,,out,winter,Serie A,2003,False,
+AC Perugia,Al-Saadi Al Gaddafi,30,Libya,Attacking Midfield,AM,,Ban,,,out,winter,Serie A,2003,False,
+AC Perugia,Maurizio Baciocchi,26,Italy,attack,attack,,Orvietana,Italy,,out,winter,Serie A,2003,False,
+AS Roma,Cristian Chivu,22,Romania,Centre-Back,CB,,Ajax,Netherlands,18000000.0,in,summer,Serie A,2003,False,
+AS Roma,Olivier Dacourt,28,France,Defensive Midfield,DM,,Leeds,England,6000000.0,in,summer,Serie A,2003,False,
+AS Roma,John Carew,23,Norway,Centre-Forward,CF,,Valencia,Spain,2000000.0,in,summer,Serie A,2003,True,loan with fee
+AS Roma,Cristiano Lupatelli,25,Italy,Goalkeeper,GK,,Chievo Verona,Italy,,in,summer,Serie A,2003,False,
+AS Roma,Raffaele Coscia,20,Italy,Goalkeeper,GK,,Tivoli,Italy,,in,summer,Serie A,2003,False,
+AS Roma,Cafú,33,Brazil,Right-Back,RB,,AC Milan,Italy,0.0,out,summer,Serie A,2003,False,
+AS Roma,Francesco Antonioli,33,Italy,Goalkeeper,GK,,Sampdoria,Italy,0.0,out,summer,Serie A,2003,False,
+AS Roma,Leandro Cufré,25,Argentina,Left-Back,LB,,Siena,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Gianni Guigou,28,Uruguay,Defensive Midfield,DM,,Siena,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Diego Fuser,34,Italy,Right Midfield,RM,,Torino,Italy,0.0,out,summer,Serie A,2003,False,
+AS Roma,Alberto Aquilani,18,Italy,Central Midfield,CM,,Triestina,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Gabriel Batistuta,34,Argentina,Centre-Forward,CF,,Al-Arabi SC,Qatar,0.0,out,summer,Serie A,2003,False,
+AS Roma,Damiano Ferronetti,18,Italy,Centre-Back,CB,,Triestina,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Daniele De Vezze,23,Italy,Central Midfield,CM,,Fiorentina,Italy,,out,summer,Serie A,2003,False,
+AS Roma,Massimo Bonanni,21,Italy,Left Midfield,LM,,Vicenza,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Christian Scarlato,19,Italy,midfield,midfield,,Teramo,Italy,0.0,out,summer,Serie A,2003,True,free loan
+AS Roma,Ivan Tomic,27,Serbia,Defensive Midfield,DM,,Rayo Vallecano,Spain,,out,summer,Serie A,2003,False,
+AS Roma,Davide Bombardini,29,Italy,Left Midfield,LM,,Salernitana,Italy,,out,summer,Serie A,2003,False,
+AS Roma,Aldair,37,Brazil,Centre-Back,CB,,Without Club,,,out,summer,Serie A,2003,False,
+AS Roma,Massimo Marazzina,28,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+AS Roma,Olivier Dacourt,28,France,Defensive Midfield,DM,,Leeds,England,0.0,out,summer,Serie A,2003,True,end of loan
+AS Roma,Denis Boshnjaku,19,Albania,Centre-Forward,CF,,Lazio,Italy,200000.0,in,winter,Serie A,2003,False,
+AS Roma,Luigi Sartor,28,Italy,Right-Back,RB,,Ancona,Italy,0.0,out,winter,Serie A,2003,True,free loan
+AS Roma,Christian Scarlato,20,Italy,midfield,midfield,,Grosseto,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Ancona Calcio,Stefano Lombardi,26,Italy,Centre-Back,CB,,Inter,Italy,115000.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Dario Hübner,36,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Daniel Andersson,25,Sweden,Centre-Back,CB,,AC Venezia 1907,Italy,0.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Goran Pandev,19,North Macedonia,Second Striker,SS,,Inter,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Ancona Calcio,Sergio Marcon,32,Italy,Goalkeeper,GK,,Ternana,Italy,0.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Mads Jörgensen,24,Denmark,Right Midfield,RM,,Bröndby IF,Denmark,0.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Milan Rapaic,29,Croatia,Left Midfield,LM,,Hajduk Split,Croatia,0.0,in,summer,Serie A,2003,False,
+Ancona Calcio,Mauro Milanese,31,Italy,Left-Back,LB,,Perugia,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Daniele Berretta,31,Italy,Defensive Midfield,DM,,Atalanta BC,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Salvatore Bruno,23,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Ancona Calcio,Alessio Scarpi,30,Italy,Goalkeeper,GK,,Inter,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Ivano Cortelli,23,Italy,Goalkeeper,GK,,Unknown,,,in,summer,Serie A,2003,False,
+Ancona Calcio,William Viali,28,Italy,Centre-Back,CB,,US Palermo,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Ancona Calcio,Andrea Sussi,29,Italy,Left-Back,LB,,Ternana,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Giovanni Goracci,18,Italy,midfield,midfield,,Unknown,,,in,summer,Serie A,2003,False,
+Ancona Calcio,Paolo Poggi,32,Italy,Centre-Forward,CF,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Fábio Bilica,24,Brazil,Centre-Back,CB,,Brescia,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Eusebio Di Francesco,33,Italy,Central Midfield,CM,,Piacenza,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Marco Esposito,23,Italy,Centre-Back,CB,,Cittadella,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Vincenzo Sommese,27,Italy,Right Winger,RW,,Torino,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Davide Carrus,24,Italy,Defensive Midfield,DM,,Cagliari Calcio,Italy,,in,summer,Serie A,2003,False,
+Ancona Calcio,Marco Schenardi,35,Italy,Right Midfield,RM,,Narnese Calcio,Italy,0.0,out,summer,Serie A,2003,False,
+Ancona Calcio,Francesco Montervino,25,Italy,Central Midfield,CM,,Napoli,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Mattia Graffiedi,23,Italy,Centre-Forward,CF,,Fiorentina,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Francesco Mignogna,19,Italy,Left Winger,LW,,Taranto,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Alessio D'Imporzano,20,Italy,midfield,midfield,,Castel di Sangro,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Andrea Mussi,25,Italy,Centre-Forward,CF,,Varese,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Ancona Calcio,Oscar Magoni,35,Italy,Defensive Midfield,DM,,Triestina,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Tiziano De Patre,34,Italy,Left Midfield,LM,,Giulianova,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Pier Graziano Gori,23,Italy,Goalkeeper,GK,,Fermana,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Stefano Mundula,27,Italy,midfield,midfield,,Cesena,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Giuseppe Vives,22,Italy,Defensive Midfield,DM,,Giugliano,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Patrick Kalambay,19,Italy,Right Midfield,RM,,AC Milan,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Giacomo Dicara,33,Italy,Centre-Back,CB,,Pescara,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Emiliano Tarana,24,Italy,Right Winger,RW,,Piacenza,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Massimiliano Scaglia,26,Italy,Left-Back,LB,,Fiorentina,Italy,,out,summer,Serie A,2003,False,
+Ancona Calcio,Dmytro Koltsov,21,Ukraine,midfield,midfield,,Unknown,,0.0,out,summer,Serie A,2003,True,free loan
+Ancona Calcio,Raffaele Costantino,27,Italy,attack,attack,,Retired,,,out,summer,Serie A,2003,False,
+Ancona Calcio,Giovanni Passiglia,21,Italy,Defensive Midfield,DM,,Arezzo,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Igor Budan,23,Croatia,Centre-Forward,CF,,US Palermo,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Luca Antonini,20,Italy,Left-Back,LB,,Milan,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Dejan Robnik,18,Slovenia,Centre-Forward,CF,,Inter U19,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Mohamed Sarr,19,Senegal,Centre-Back,CB,,Milan,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Stanley Ibe,18,Nigeria,Centre-Forward,CF,,Genoa U19,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Anselmo Robbiati,33,Italy,Left Winger,LW,,Inter,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Stefano Lombardi,26,Italy,Centre-Back,CB,,Inter,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Alessio Scarpi,30,Italy,Goalkeeper,GK,,Inter,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Ancona Calcio,Jardel,30,Brazil,Centre-Forward,CF,,Bolton,England,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Dino Baggio,32,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Magnus Hedman,30,Sweden,Goalkeeper,GK,,Celtic,Scotland,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Corrado Grabbi,28,Italy,Centre-Forward,CF,,Blackburn,England,,in,winter,Serie A,2003,False,
+Ancona Calcio,Luciano Zavagno,26,Argentina,Left-Back,LB,,Derby,England,,in,winter,Serie A,2003,False,
+Ancona Calcio,Luigi Sartor,28,Italy,Right-Back,RB,,AS Roma,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Roberto Goretti,27,Italy,Defensive Midfield,DM,,Reggiana,Italy,,in,winter,Serie A,2003,False,
+Ancona Calcio,Sean Sogliano,32,Italy,Centre-Back,CB,,Napoli,Italy,,in,winter,Serie A,2003,False,
+Ancona Calcio,Luis Helguera,27,Spain,Defensive Midfield,DM,,Udinese,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Emanuele Pesoli,23,Italy,Centre-Back,CB,,Lupa Frascati,Italy,,in,winter,Serie A,2003,False,
+Ancona Calcio,Cristian Bucchi,26,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,,in,winter,Serie A,2003,False,
+Ancona Calcio,Alessandro Potenza,19,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Ancona Calcio,Dario Hübner,36,Italy,Centre-Forward,CF,,Perugia,Italy,0.0,out,winter,Serie A,2003,False,
+Ancona Calcio,Mads Jörgensen,25,Denmark,Right Midfield,RM,,Stabæk Fotball,Norway,0.0,out,winter,Serie A,2003,False,
+Ancona Calcio,Dmytro Koltsov,21,Ukraine,midfield,midfield,,Ferentino,Italy,0.0,out,winter,Serie A,2003,False,
+Ancona Calcio,Liborio Zuppardo,18,Italy,Centre-Forward,CF,,Morro d'Oro Calcio,Italy,0.0,out,winter,Serie A,2003,False,
+Ancona Calcio,Marco Roccati,28,Italy,Goalkeeper,GK,,Fiorentina,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Andrea Sussi,30,Italy,Left-Back,LB,,Bologna,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Paolo Poggi,32,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Pietro Parente,32,Italy,midfield,midfield,,AC Venezia 1907,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Pasquale Luiso,34,Italy,Centre-Forward,CF,,Catanzaro,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Salvatore Russo,32,Italy,Left-Back,LB,,Salernitana,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Fábio Bilica,24,Brazil,Centre-Back,CB,,Goiás EC,Brazil,,out,winter,Serie A,2003,False,
+Ancona Calcio,Eusebio Di Francesco,34,Italy,Central Midfield,CM,,Perugia,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Roberto Maltagliati,34,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Davide Carrus,24,Italy,Defensive Midfield,DM,,Fiorentina,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Alessio Scarpi,30,Italy,Goalkeeper,GK,,Genoa,Italy,,out,winter,Serie A,2003,False,
+Ancona Calcio,Dario Baccin,27,Italy,Right-Back,RB,,Ascoli,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Ancona Calcio,Marko Perovic,31,Serbia,Attacking Midfield,AM,,Napoli,Italy,,out,winter,Serie A,2003,False,
+Bologna FC 1909,Guly,29,Argentina,Left Midfield,LM,,Inter,Italy,85000.0,in,summer,Serie A,2003,True,loan with fee
+Bologna FC 1909,Alexander Manninger,26,Austria,Goalkeeper,GK,,Torino,Italy,0.0,in,summer,Serie A,2003,False,
+Bologna FC 1909,Samuele Dalla Bona,22,Italy,Central Midfield,CM,,AC Milan,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Igli Tare,30,Albania,Centre-Forward,CF,,Brescia,Italy,0.0,in,summer,Serie A,2003,False,
+Bologna FC 1909,Fausto Rossini,25,Italy,Centre-Forward,CF,,Atalanta BC,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Emanuele Troise,24,Italy,Centre-Back,CB,,Napoli,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Juarez,29,Brazil,Right-Back,RB,,Como,Italy,,in,summer,Serie A,2003,False,
+Bologna FC 1909,Jonatan Binotto,28,Italy,Right Winger,RW,,Inter,Italy,,in,summer,Serie A,2003,False,
+Bologna FC 1909,Fulvio Fedi,18,Italy,midfield,midfield,,Torino U19,Italy,,in,summer,Serie A,2003,False,
+Bologna FC 1909,Emiliano Moretti,22,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Cesare Natali,24,Italy,Centre-Back,CB,,Atalanta BC,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Julio Cruz,28,Argentina,Centre-Forward,CF,,Inter,Italy,9500000.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Pierre Womé,24,Cameroon,Left-Back,LB,,Espanyol,Spain,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Giulio Falcone,29,Italy,Centre-Back,CB,,Sampdoria,Italy,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Michele Paramatti,35,Italy,Left-Back,LB,,Reggiana,Italy,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Ferdinando Coppola,25,Italy,Goalkeeper,GK,,Ascoli,Italy,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Giacomo Cipriani,22,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Paolo Vanoli,30,Italy,Left-Back,LB,,Rangers,Scotland,0.0,out,summer,Serie A,2003,False,
+Bologna FC 1909,Renato Olive,32,Italy,Central Midfield,CM,,Napoli,Italy,,out,summer,Serie A,2003,False,
+Bologna FC 1909,Andrea Ardito,26,Italy,Defensive Midfield,DM,,Siena,Italy,,out,summer,Serie A,2003,False,
+Bologna FC 1909,Marcello Castellini,30,Italy,Centre-Back,CB,,AC Parma,Italy,,out,summer,Serie A,2003,False,
+Bologna FC 1909,Vlado Smit,23,Serbia,Left-Back,LB,,Atalanta BC,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Luigi Della Rocca,18,Italy,Centre-Forward,CF,,Catania,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Bologna FC 1909,Alessandro Frara,20,Italy,Defensive Midfield,DM,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Bologna FC 1909,Emiliano Salvetti,29,Italy,Attacking Midfield,AM,,Hellas Verona,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Bologna FC 1909,Steve Gohouri,22,Cote d'Ivoire,Centre-Back,CB,,Yverdon-Sport,Switzerland,0.0,out,summer,Serie A,2003,True,end of loan
+Bologna FC 1909,Hidetoshi Nakata,26,Japan,Attacking Midfield,AM,,AC Parma,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Bologna FC 1909,Andrea Sussi,30,Italy,Left-Back,LB,,Ancona,Italy,,in,winter,Serie A,2003,False,
+Bologna FC 1909,Luigi Della Rocca,19,Italy,Centre-Forward,CF,,Atalanta BC,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Bologna FC 1909,Juarez,30,Brazil,Right-Back,RB,,Siena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Brescia Calcio,Luigi Di Biagio,32,Italy,Defensive Midfield,DM,,Inter,Italy,0.0,in,summer,Serie A,2003,False,
+Brescia Calcio,Rambo,17,Brazil,Centre-Back,CB,,Grêmio,Brazil,0.0,in,summer,Serie A,2003,False,
+Brescia Calcio,Marc Nygaard,26,Denmark,Centre-Forward,CF,,Roda JC,Netherlands,,in,summer,Serie A,2003,False,
+Brescia Calcio,Filippo Maniero,30,Italy,Centre-Forward,CF,,US Palermo,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Brescia Calcio,Alberoni,19,Brazil,Defensive Midfield,DM,,Inter U19,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Brescia Calcio,Matteo Brighi,22,Italy,Central Midfield,CM,,AC Parma,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Brescia Calcio,Giuseppe Colucci,22,Italy,Central Midfield,CM,,Hellas Verona,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Brescia Calcio,Tiziano Ramon,32,Italy,Goalkeeper,GK,,Triestina,Italy,,in,summer,Serie A,2003,False,
+Brescia Calcio,Stefano Mauri,23,Italy,Attacking Midfield,AM,,Modena,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Brescia Calcio,Sebastián Saja,24,Argentina,Goalkeeper,GK,,San Lorenzo,Argentina,,in,summer,Serie A,2003,False,
+Brescia Calcio,Stephen Appiah,22,Ghana,Defensive Midfield,DM,,Juventus,Italy,8000000.0,out,summer,Serie A,2003,False,
+Brescia Calcio,Luca Toni,26,Italy,Centre-Forward,CF,,US Palermo,Italy,6000000.0,out,summer,Serie A,2003,False,
+Brescia Calcio,Pavel Srnicek,35,Czech Republic,Goalkeeper,GK,,Portsmouth,England,0.0,out,summer,Serie A,2003,False,
+Brescia Calcio,Pep Guardiola,32,Spain,Defensive Midfield,DM,,Al-Ahli SC,Qatar,0.0,out,summer,Serie A,2003,False,
+Brescia Calcio,Igli Tare,30,Albania,Centre-Forward,CF,,Bologna,Italy,0.0,out,summer,Serie A,2003,False,
+Brescia Calcio,Davide Micillo,32,Italy,Goalkeeper,GK,,Ascoli,Italy,,out,summer,Serie A,2003,False,
+Brescia Calcio,Raúl González,27,Argentina,attack,attack,,Cosenza,Italy,,out,summer,Serie A,2003,False,
+Brescia Calcio,Andrés Yllana,28,Argentina,Central Midfield,CM,,Gimnasia,Argentina,,out,summer,Serie A,2003,False,
+Brescia Calcio,Simone Dallamano,19,Italy,Left-Back,LB,,Lumezzane,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Brescia Calcio,Fábio Bilica,24,Brazil,Centre-Back,CB,,Ancona,Italy,,out,summer,Serie A,2003,False,
+Brescia Calcio,Vladimir Sladojevic,19,Bosnia-Herzegovina,Centre-Forward,CF,,Górnik Zabrze,Poland,,out,summer,Serie A,2003,False,
+Brescia Calcio,Mitchel Brown,21,Honduras,Centre-Forward,CF,,Suchitepéquez,Guatemala,,out,summer,Serie A,2003,False,
+Brescia Calcio,Marc Nygaard,26,Denmark,Centre-Forward,CF,,Catania,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Brescia Calcio,Roberto Baggio,37,Italy,Second Striker,SS,,Retired,,,out,summer,Serie A,2003,False,
+Brescia Calcio,Michel Zanfretta,19,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2003,False,
+Brescia Calcio,Matteo Sereni,28,Italy,Goalkeeper,GK,,Ipswich,England,0.0,out,summer,Serie A,2003,True,end of loan
+Brescia Calcio,Anthony Seric,24,Croatia,Left-Back,LB,,Hellas Verona,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Brescia Calcio,Paolo Castellini,24,Italy,Left-Back,LB,,Torino,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Brescia Calcio,Marc Nygaard,27,Denmark,Centre-Forward,CF,,Vicenza,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Brescia Calcio,Rambo,17,Brazil,Centre-Back,CB,,Górnik Zabrze,Poland,0.0,out,winter,Serie A,2003,False,
+Brescia Calcio,Mario Salgado,22,Chile,Centre-Forward,CF,,Wüstenrot Sbg,Austria,0.0,out,winter,Serie A,2003,True,free loan
+Brescia Calcio,Antonio Filippini,30,Italy,Right Midfield,RM,,US Palermo,Italy,,out,winter,Serie A,2003,False,
+Brescia Calcio,Sebastián Saja,24,Argentina,Goalkeeper,GK,,Rayo Vallecano,Spain,,out,winter,Serie A,2003,False,
+Chievo Verona,Amauri,23,Italy,Centre-Forward,CF,,FC Empoli,Italy,4500000.0,in,summer,Serie A,2003,False,
+Chievo Verona,Luigi Sala,29,Italy,Centre-Back,CB,,Atalanta BC,Italy,500000.0,in,summer,Serie A,2003,True,loan with fee
+Chievo Verona,Giuseppe Sculli,22,Italy,Left Winger,LW,,Juventus,Italy,450000.0,in,summer,Serie A,2003,True,loan with fee
+Chievo Verona,Mauricio Pinilla,19,Chile,Centre-Forward,CF,,Inter,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Daniele Gastaldello,20,Italy,Centre-Back,CB,,Juventus,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Matteo Paro,20,Italy,Central Midfield,CM,,Juventus,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Andrea Barzagli,22,Italy,Centre-Back,CB,,Ascoli,Italy,0.0,in,summer,Serie A,2003,False,
+Chievo Verona,Guido Lippi,21,Italy,Goalkeeper,GK,,Aglianese,Italy,0.0,in,summer,Serie A,2003,False,
+Chievo Verona,Luca Marchegiani,37,Italy,Goalkeeper,GK,,Lazio,Italy,0.0,in,summer,Serie A,2003,False,
+Chievo Verona,Giorgio Frezzolini,27,Italy,Goalkeeper,GK,,Lecce,Italy,,in,summer,Serie A,2003,False,
+Chievo Verona,Stefano Morrone,24,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Mario Santana,21,Argentina,Second Striker,SS,,US Palermo,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Marco Malagò,24,Italy,Centre-Back,CB,,Genoa,Italy,,in,summer,Serie A,2003,False,
+Chievo Verona,Roberto Baronio,25,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Francesco Carbone,24,Italy,Right-Back,RB,,Triestina,Italy,,in,summer,Serie A,2003,False,
+Chievo Verona,Salvatore Bruno,23,Italy,Centre-Forward,CF,,Ascoli,Italy,,in,summer,Serie A,2003,False,
+Chievo Verona,Daniel Chafer,21,Argentina,attack,attack,,CA Colón U20,Argentina,,in,summer,Serie A,2003,False,
+Chievo Verona,Andrea Mengoni,19,Italy,Centre-Back,CB,,Castel di Sangro,Italy,,in,summer,Serie A,2003,False,
+Chievo Verona,Franco Semioli,23,Italy,Right Winger,RW,,Inter,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Chievo Verona,Nicola Legrottaglie,26,Italy,Centre-Back,CB,,Juventus,Italy,7550000.0,out,summer,Serie A,2003,False,
+Chievo Verona,Marco Ambrosio,30,Italy,Goalkeeper,GK,,Chelsea,England,0.0,out,summer,Serie A,2003,False,
+Chievo Verona,Vojislav Dragovic,20,Serbia,Goalkeeper,GK,,FK Obilic,Serbia,0.0,out,summer,Serie A,2003,False,
+Chievo Verona,Massimo Marazzina,28,Italy,Centre-Forward,CF,,Sampdoria,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Lilian Nalis,31,France,Central Midfield,CM,,Leicester,England,0.0,out,summer,Serie A,2003,False,
+Chievo Verona,Luigi Beghetto,29,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,out,summer,Serie A,2003,False,
+Chievo Verona,Gianluca Grassadonia,31,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2003,False,
+Chievo Verona,Marcos De Paula,19,Brazil,Centre-Forward,CF,,Cittadella,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Fabio Firmani,25,Italy,Central Midfield,CM,,Catania,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Marco Veronese,27,Italy,Centre-Forward,CF,,Spezia,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Andrea Mengoni,19,Italy,Centre-Back,CB,,Chieti,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Francesco Carbone,23,Italy,Right-Back,RB,,Ascoli,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Paolo Codognola,22,Italy,Goalkeeper,GK,,Calcio Monza,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Giuseppe Aquaro,20,Switzerland,Centre-Back,CB,,Melfi,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Michael Zago,22,Italy,Central Midfield,CM,,Melfi,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Daniel Chafer,21,Argentina,attack,attack,,Virtus Lanciano,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Salvatore Bruno,23,Italy,Centre-Forward,CF,,Ancona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Stefano Lorenzi,26,Italy,Centre-Back,CB,,Atalanta BC,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Mattia Passarini,22,Italy,Goalkeeper,GK,,Comprensorio,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Francesco Carbone,23,Italy,Right-Back,RB,,Triestina,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Cristiano Lupatelli,25,Italy,Goalkeeper,GK,,AS Roma,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Stefano Garzon,21,Italy,Defensive Midfield,DM,,Acireale,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Davide Succi,21,Italy,Centre-Forward,CF,,Como,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Francesco Magnanelli,18,Italy,Defensive Midfield,DM,,Fiorentina,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Tommaso Chiecchi,23,Italy,Centre-Back,CB,,Foggia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Emanuele Pesaresi,26,Italy,Left-Back,LB,,Ternana,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Eugenio Corini,32,Italy,Defensive Midfield,DM,,US Palermo,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Luciano,27,Brazil,Right Midfield,RM,,Inter,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Chievo Verona,Moreno Longo,27,Italy,Right-Back,RB,,Teramo,Italy,,out,summer,Serie A,2003,False,
+Chievo Verona,Oliver Bierhoff,35,Germany,Centre-Forward,CF,,Retired,,,out,summer,Serie A,2003,False,
+Chievo Verona,Daniel Andersson,25,Sweden,Centre-Back,CB,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Chievo Verona,Fredrik Risp,22,Sweden,Centre-Back,CB,,IFK Göteborg,Sweden,0.0,out,summer,Serie A,2003,True,end of loan
+Chievo Verona,Ivano Della Morte,28,Italy,Central Midfield,CM,,Vicenza,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Chievo Verona,Sasa Bjelanovic,24,Croatia,Centre-Forward,CF,,Como,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Chievo Verona,Maurizio D'Angelo,34,Italy,Centre-Back,CB,,Napoli,Italy,0.0,in,winter,Serie A,2003,False,
+Chievo Verona,Simone Bonomi,23,Italy,Left-Back,LB,,Siena,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Chievo Verona,César,24,Brazil,Centre-Back,CB,,Fluminense,Brazil,,in,winter,Serie A,2003,False,
+Chievo Verona,Juninho,19,Brazil,Central Midfield,CM,,Junior,Brazil,0.0,in,winter,Serie A,2003,True,free loan
+Chievo Verona,Alfredo Cariello,24,Italy,Left Midfield,LM,,Giulianova,Italy,,in,winter,Serie A,2003,False,
+Chievo Verona,John Mensah,21,Ghana,Centre-Back,CB,,Modena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Björn Runström,19,Sweden,Centre-Forward,CF,,Hammarby,Sweden,0.0,out,winter,Serie A,2003,False,
+Chievo Verona,Massimo Marazzina,29,Italy,Centre-Forward,CF,,Modena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Salvatore Bruno,24,Italy,Centre-Forward,CF,,Bari,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Daniele Franceschini,27,Italy,Left Midfield,LM,,Lecce,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Ivone De Franceschi,30,Italy,Left Winger,LW,,Bari,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Marcos De Paula,20,Brazil,Centre-Forward,CF,,Imolese,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Chievo Verona,Davide Succi,22,Italy,Centre-Forward,CF,,SPAL,Italy,0.0,out,winter,Serie A,2003,True,free loan
+FC Empoli,Luca Bucci,34,Italy,Goalkeeper,GK,,Torino,Italy,0.0,in,summer,Serie A,2003,False,
+FC Empoli,Jorge Vargas,27,Chile,Centre-Back,CB,,Reggina,Italy,0.0,in,summer,Serie A,2003,False,
+FC Empoli,Paolo Zanetti,20,Italy,Defensive Midfield,DM,,Vicenza,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Riccardo Bonetto,24,Italy,Left-Back,LB,,Ascoli,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Mirco Gasparetto,23,Italy,Centre-Forward,CF,,Prato,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Maurizio Lanzaro,21,Italy,Centre-Back,CB,,Cosenza,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Pasquale Foggia,20,Italy,Attacking Midfield,AM,,Treviso,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Federico Vettori,20,Italy,Centre-Back,CB,,Prato,Italy,,in,summer,Serie A,2003,False,
+FC Empoli,Daniele Balli,36,Italy,Goalkeeper,GK,,Without Club,,,in,summer,Serie A,2003,False,
+FC Empoli,Amauri,23,Italy,Centre-Forward,CF,,Chievo Verona,Italy,4500000.0,out,summer,Serie A,2003,False,
+FC Empoli,Gianluca Berti,36,Italy,Goalkeeper,GK,,US Palermo,Italy,0.0,out,summer,Serie A,2003,False,
+FC Empoli,Gianluca Atzori,32,Italy,defence,defence,,US Palermo,Italy,,out,summer,Serie A,2003,False,
+FC Empoli,Ighli Vannucchi,25,Italy,Attacking Midfield,AM,,US Palermo,Italy,,out,summer,Serie A,2003,False,
+FC Empoli,Francesco Lodi,19,Italy,Defensive Midfield,DM,,Vicenza,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Empoli,Andrea Raggi,19,Italy,Centre-Back,CB,,Carrarese,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Empoli,Claudio Coralli,20,Italy,Centre-Forward,CF,,Meda,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Empoli,Marco Barollo,30,Italy,midfield,midfield,,Retired,,,out,summer,Serie A,2003,False,
+FC Empoli,Gaetano Grieco,20,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+FC Empoli,Luca Saudati,24,Italy,Centre-Forward,CF,,Atalanta BC,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+FC Empoli,Marco Borriello,21,Italy,Centre-Forward,CF,,Milan,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+FC Empoli,Nicola Padoin,24,Italy,Defensive Midfield,DM,,Prato,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+FC Empoli,Ighli Vannucchi,26,Italy,Attacking Midfield,AM,,US Palermo,Italy,0.0,in,winter,Serie A,2003,True,free loan
+FC Empoli,Alessandro Agostini,24,Italy,Left-Back,LB,,Cagliari Calcio,Italy,490000.0,out,winter,Serie A,2003,False,
+FC Empoli,Roberto Mirri,25,Italy,Centre-Back,CB,,RAEC Mons,Belgium,,out,winter,Serie A,2003,False,
+FC Empoli,Marco Carparelli,27,Italy,Second Striker,SS,,Como,Italy,,out,winter,Serie A,2003,False,
+FC Internazionale,Julio Cruz,28,Argentina,Centre-Forward,CF,,Bologna,Italy,9500000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Andy van der Meyde,23,Netherlands,Right Winger,RW,,Ajax,Netherlands,6000000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Jérémie Bréchet,24,France,Centre-Back,CB,,Olympique Lyon,France,3000000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Mauricio Pinilla,19,Chile,Centre-Forward,CF,,U. de Chile,Chile,2800000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Ianis Zicu,19,Romania,Attacking Midfield,AM,,Dinamo,Romania,2500000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Kily González,29,Argentina,Left Midfield,LM,,Valencia,Spain,2500000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Khalilou Fadiga,28,Senegal,Left Winger,LW,,AJ Auxerre,France,300000.0,in,summer,Serie A,2003,False,
+FC Internazionale,Georgios Karagounis,26,Greece,Central Midfield,CM,,Panathinaikos,Greece,0.0,in,summer,Serie A,2003,False,
+FC Internazionale,Thomas Helveg,32,Denmark,Right-Back,RB,,AC Milan,Italy,,in,summer,Serie A,2003,False,
+FC Internazionale,Sabri Lamouchi,31,France,Central Midfield,CM,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+FC Internazionale,Luciano,27,Brazil,Right Midfield,RM,,Chievo Verona,Italy,0.0,in,summer,Serie A,2003,True,free loan
+FC Internazionale,Franco Semioli,23,Italy,Right Winger,RW,,Torino,Italy,,in,summer,Serie A,2003,False,
+FC Internazionale,Matteo Giordano,18,Italy,Centre-Back,CB,,Milan U19,Italy,,in,summer,Serie A,2003,False,
+FC Internazionale,Hernán Crespo,28,Argentina,Centre-Forward,CF,,Chelsea,England,26000000.0,out,summer,Serie A,2003,False,
+FC Internazionale,Sébastien Frey,23,France,Goalkeeper,GK,,AC Parma,Italy,21000000.0,out,summer,Serie A,2003,False,
+FC Internazionale,Giuseppe Ticli,24,Italy,Left Midfield,LM,,AC Milan,Italy,1500000.0,out,summer,Serie A,2003,False,
+FC Internazionale,Domenico Morfeo,27,Italy,Attacking Midfield,AM,,AC Parma,Italy,1000000.0,out,summer,Serie A,2003,True,loan with fee
+FC Internazionale,Stefano Lombardi,26,Italy,Centre-Back,CB,,Ancona,Italy,115000.0,out,summer,Serie A,2003,False,
+FC Internazionale,Guly,29,Argentina,Left Midfield,LM,,Bologna,Italy,85000.0,out,summer,Serie A,2003,True,loan with fee
+FC Internazionale,Aco Stojkov,20,North Macedonia,Left Winger,LW,,Górnik Zabrze,Poland,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Sérgio Conceição,28,Portugal,Right Winger,RW,,Lazio,Italy,0.0,out,summer,Serie A,2003,False,
+FC Internazionale,Luigi Di Biagio,32,Italy,Defensive Midfield,DM,,Brescia,Italy,0.0,out,summer,Serie A,2003,False,
+FC Internazionale,Goran Pandev,19,North Macedonia,Second Striker,SS,,Ancona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Gonzalo Sorondo,23,Uruguay,Centre-Back,CB,,Standard Liège,Belgium,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Ümit Davala,29,Turkey,Right Midfield,RM,,Werder Bremen,Germany,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Mauricio Pinilla,19,Chile,Centre-Forward,CF,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Mathieu Moreau,20,France,Goalkeeper,GK,,Spezia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Stéphane Dalmat,24,France,Central Midfield,CM,,Spurs,England,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Nicola Ventola,25,Italy,Centre-Forward,CF,,Siena,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Julien Brellier,21,France,Central Midfield,CM,,Legnano,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Antonio Pacheco,27,Uruguay,Second Striker,SS,,Albacete,Spain,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Franco Semioli,23,Italy,Right Winger,RW,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Alessio Scarpi,30,Italy,Goalkeeper,GK,,Ancona,Italy,,out,summer,Serie A,2003,False,
+FC Internazionale,Simone Brunelli,15,Italy,Goalkeeper,GK,,Pro Sesto,Italy,,out,summer,Serie A,2003,False,
+FC Internazionale,Jonatan Binotto,28,Italy,Right Winger,RW,,Bologna,Italy,,out,summer,Serie A,2003,False,
+FC Internazionale,Anselmo Robbiati,33,Italy,Left Winger,LW,,Grosseto,Italy,,out,summer,Serie A,2003,False,
+FC Internazionale,Paolo Ginestra,24,Italy,Goalkeeper,GK,,Vis Pesaro,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Alberto Quadri,20,Italy,Defensive Midfield,DM,,Padova,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Nelson Vivas,33,Argentina,Right-Back,RB,,River Plate,Argentina,,out,summer,Serie A,2003,False,
+FC Internazionale,Luca Ceccarelli,20,Italy,Centre-Back,CB,,Spezia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Dimitar Makriev,19,Bulgaria,Centre-Forward,CF,,Górnik Zabrze,Poland,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Mattia Altobelli,19,Italy,Attacking Midfield,AM,,Spezia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+FC Internazionale,Michele Serena,33,Italy,Left-Back,LB,,Retired,,,out,summer,Serie A,2003,False,
+FC Internazionale,Gabriel Batistuta,34,Argentina,Centre-Forward,CF,,AS Roma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+FC Internazionale,Adriano,21,Brazil,Centre-Forward,CF,,AC Parma,Italy,23400000.0,in,winter,Serie A,2003,False,
+FC Internazionale,Dejan Stanković,25,Serbia,Central Midfield,CM,,Lazio,Italy,4000000.0,in,winter,Serie A,2003,False,
+FC Internazionale,Horacio Peralta,21,Uruguay,Centre-Forward,CF,,Nacional,Uruguay,,in,winter,Serie A,2003,False,
+FC Internazionale,Ianis Zicu,20,Romania,Attacking Midfield,AM,,AC Parma,Italy,215000.0,out,winter,Serie A,2003,True,loan with fee
+FC Internazionale,Drazen Brncic,32,Croatia,Attacking Midfield,AM,,MVV Maastricht,Netherlands,0.0,out,winter,Serie A,2003,False,
+FC Internazionale,Aco Stojkov,20,North Macedonia,Left Winger,LW,,Castel di Sangro,Italy,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Mauricio Pinilla,19,Chile,Centre-Forward,CF,,Celta de Vigo,Spain,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Matteo Giordano,19,Italy,Centre-Back,CB,,Castel di Sangro,Italy,0.0,out,winter,Serie A,2003,False,
+FC Internazionale,Alessandro Potenza,19,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Mario Rebecchi,20,Italy,Central Midfield,CM,,Genoa,Italy,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Nicola Beati,20,Italy,Defensive Midfield,DM,,Triestina,Italy,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Horacio Peralta,21,Uruguay,Centre-Forward,CF,,Nacional,Uruguay,0.0,out,winter,Serie A,2003,True,free loan
+FC Internazionale,Alessandro Potenza,19,Italy,Centre-Back,CB,,Ancona,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Marco Di Vaio,26,Italy,Centre-Forward,CF,,AC Parma,Italy,14000000.0,in,summer,Serie A,2003,False,
+Juventus FC,Stephen Appiah,22,Ghana,Defensive Midfield,DM,,Brescia,Italy,8000000.0,in,summer,Serie A,2003,False,
+Juventus FC,Nicola Legrottaglie,26,Italy,Centre-Back,CB,,Chievo Verona,Italy,7550000.0,in,summer,Serie A,2003,False,
+Juventus FC,Rubén Olivera,20,Uruguay,Central Midfield,CM,,Danubio FC,Uruguay,6240000.0,in,summer,Serie A,2003,False,
+Juventus FC,Roberto Merenda,19,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,in,summer,Serie A,2003,False,
+Juventus FC,Luigi Lavecchia,21,Italy,Right Midfield,RM,,Ascoli,Italy,,in,summer,Serie A,2003,False,
+Juventus FC,Andrea Gasbarroni,21,Italy,Second Striker,SS,,US Palermo,Italy,2700000.0,out,summer,Serie A,2003,False,
+Juventus FC,Emiliano Moretti,22,Italy,Centre-Back,CB,,AC Parma,Italy,1800000.0,out,summer,Serie A,2003,False,
+Juventus FC,Marcelo Salas,28,Chile,Centre-Forward,CF,,River Plate,Argentina,500000.0,out,summer,Serie A,2003,True,loan with fee
+Juventus FC,Giuseppe Sculli,22,Italy,Left Winger,LW,,Chievo Verona,Italy,450000.0,out,summer,Serie A,2003,True,loan with fee
+Juventus FC,Davide Baiocco,28,Italy,Defensive Midfield,DM,,Reggina,Italy,250000.0,out,summer,Serie A,2003,False,
+Juventus FC,Aboubacar Fofana,20,France,Left Midfield,LM,,Millwall,England,0.0,out,summer,Serie A,2003,False,
+Juventus FC,Landry Bonnefoi,19,France,Goalkeeper,GK,,Messina Peloro,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Matteo Paro,20,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Daniele Gastaldello,20,Italy,Centre-Back,CB,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Luigi Lavecchia,21,Italy,Right Midfield,RM,,Messina Peloro,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Mattia Cassani,19,Italy,Right-Back,RB,,Hellas Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Felice Piccolo,19,Italy,Centre-Back,CB,,Como,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Manuele Blasi,22,Italy,Central Midfield,CM,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Andrea Gentile,23,Italy,Central Midfield,CM,,Messina Peloro,Italy,,out,summer,Serie A,2003,False,
+Juventus FC,Cristian Zenoni,26,Italy,Right-Back,RB,,Sampdoria,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Radovane El Alaoudi,19,Morocco,midfield,midfield,,Valenzana Mado,Italy,,out,summer,Serie A,2003,False,
+Juventus FC,Tomás Guzmán,21,Paraguay,Attacking Midfield,AM,,Messina Peloro,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Massimiliano Vieri,24,Australia,Centre-Forward,CF,,Napoli,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Juventus FC,Francesco Scardina,21,Italy,Centre-Back,CB,,FC Crotone,Italy,,out,summer,Serie A,2003,False,
+Juventus FC,Roberto Merenda,19,Italy,Centre-Back,CB,,Cosenza,Italy,,out,summer,Serie A,2003,False,
+Juventus FC,Rubén Olivera,20,Uruguay,Central Midfield,CM,,Danubio FC,Uruguay,0.0,out,summer,Serie A,2003,True,end of loan
+Juventus FC,Marco Di Vaio,26,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Juventus FC,Edgar Davids,30,Netherlands,Central Midfield,CM,,FC Barcelona,Spain,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Marcelo Zalayeta,25,Uruguay,Centre-Forward,CF,,Perugia,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Daniele Gastaldello,20,Italy,Centre-Back,CB,,FC Crotone,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Athirson,26,Brazil,Left-Back,LB,,Flamengo,Brazil,0.0,out,winter,Serie A,2003,False,
+Juventus FC,Rubén Olivera,20,Uruguay,Central Midfield,CM,,Atlético Madrid,Spain,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Matteo Paro,20,Italy,Central Midfield,CM,,FC Crotone,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Salvatore Fresi,31,Italy,Centre-Back,CB,,Perugia,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Juventus FC,Roberto Merenda,19,Italy,Centre-Back,CB,,Cosenza,Italy,,out,winter,Serie A,2003,False,
+Modena FC,Vedin Music,30,Bosnia-Herzegovina,Left-Back,LB,,Como,Italy,3000000.0,in,summer,Serie A,2003,False,
+Modena FC,Nicola Amoruso,28,Italy,Centre-Forward,CF,,Como,Italy,0.0,in,summer,Serie A,2003,False,
+Modena FC,Matteo Pivotto,28,Italy,Right-Back,RB,,US Palermo,Italy,0.0,in,summer,Serie A,2003,False,
+Modena FC,Riccardo Allegretti,25,Italy,Central Midfield,CM,,Como,Italy,,in,summer,Serie A,2003,False,
+Modena FC,Cristian Stellini,29,Italy,Left-Back,LB,,Como,Italy,,in,summer,Serie A,2003,False,
+Modena FC,Lorenzo Del Sole,18,Italy,midfield,midfield,,Carpi,Italy,,in,summer,Serie A,2003,False,
+Modena FC,Antonio Marasco,33,Italy,Defensive Midfield,DM,,US Palermo,Italy,,in,summer,Serie A,2003,False,
+Modena FC,Marcello Albino,31,Italy,Left Winger,LW,,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2003,False,
+Modena FC,Rune Pedersen,23,Denmark,Goalkeeper,GK,,Aarhus GF,Denmark,0.0,out,summer,Serie A,2003,False,
+Modena FC,Stefano Mauri,23,Italy,Attacking Midfield,AM,,Brescia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Modena FC,Marco Zamboni,25,Italy,Centre-Back,CB,,Napoli,Italy,,out,summer,Serie A,2003,False,
+Modena FC,Alessandro Zamperini,20,Italy,Centre-Back,CB,,Ascoli,Italy,,out,summer,Serie A,2003,False,
+Modena FC,Andrea Quaglia,31,Italy,Centre-Back,CB,,Torres,Italy,,out,summer,Serie A,2003,False,
+Modena FC,Andrea Fabbrini,28,Italy,Centre-Forward,CF,,Torino,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Modena FC,Giacomo Ferrari,35,Italy,Centre-Forward,CF,,UC AlbinoLeffe,Italy,,out,summer,Serie A,2003,False,
+Modena FC,Enrico Po,18,Italy,midfield,midfield,,Carpi,Italy,,out,summer,Serie A,2003,False,
+Modena FC,Giuseppe Sculli,22,Italy,Left Winger,LW,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Modena FC,Emiliano Moretti,22,Italy,Centre-Back,CB,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Modena FC,Giuseppe Colucci,22,Italy,Central Midfield,CM,,Hellas Verona,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Modena FC,Antonio Marasco,33,Italy,Defensive Midfield,DM,,US Palermo,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Modena FC,Maurizio Domizzi,23,Italy,Centre-Back,CB,,Sampdoria,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,John Mensah,21,Ghana,Centre-Back,CB,,Chievo Verona,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,Massimo Marazzina,29,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,Paul Dalglish,26,Scotland,Centre-Forward,CF,,Linfield,Northern Ireland,0.0,in,winter,Serie A,2003,False,
+Modena FC,Alessandro Grandoni,26,Italy,Centre-Back,CB,,Sampdoria,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,David Limbersky,20,Czech Republic,Left-Back,LB,,Viktoria Plzen,Czech Republic,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,Stephen Makinwa,20,Nigeria,Centre-Forward,CF,,Genoa,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Modena FC,Nicola Corrent,24,Italy,Central Midfield,CM,,Ternana,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Modena FC,Cristian Stellini,29,Italy,Left-Back,LB,,Genoa,Italy,,out,winter,Serie A,2003,False,
+Modena FC,Mathias Altamirano,18,Italy,Goalkeeper,GK,,Trento,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Modena FC,Carlo Taldo,31,Italy,Centre-Forward,CF,,Catania,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Reggina Calcio,Emiliano Bonazzoli,24,Italy,Centre-Forward,CF,,AC Parma,Italy,4500000.0,in,summer,Serie A,2003,False,
+Reggina Calcio,Davide Baiocco,28,Italy,Defensive Midfield,DM,,Juventus,Italy,250000.0,in,summer,Serie A,2003,False,
+Reggina Calcio,Andrea Sottil,29,Italy,Centre-Back,CB,,Udinese,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Simone Giacchetta,33,Italy,Centre-Back,CB,,Genoa,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Roberto Stellone,25,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Reggina Calcio,Giacomo Tedesco,27,Italy,Central Midfield,CM,,Cosenza,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Gianluca Falsini,27,Italy,Left-Back,LB,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,,Udinese,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Stefano Torrisi,32,Italy,Centre-Back,CB,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+Reggina Calcio,Jorge Vargas,27,Chile,Centre-Back,CB,,FC Empoli,Italy,0.0,out,summer,Serie A,2003,False,
+Reggina Calcio,Mamede,29,Portugal,Central Midfield,CM,,Messina Peloro,Italy,0.0,out,summer,Serie A,2003,False,
+Reggina Calcio,Giovanni Morabito,24,Italy,Left-Back,LB,,Genoa,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Reggina Calcio,Ricardo Verón,22,Argentina,Central Midfield,CM,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Reggina Calcio,Massimo Rastelli,34,Italy,Right Winger,RW,,Como,Italy,,out,summer,Serie A,2003,False,
+Reggina Calcio,Gianluca Savoldi,27,Italy,Centre-Forward,CF,,Napoli,Italy,,out,summer,Serie A,2003,False,
+Reggina Calcio,Nicola Carlo Pagani,25,Italy,Centre-Back,CB,,Pescara,Italy,,out,summer,Serie A,2003,False,
+Reggina Calcio,Nassim Mendil,24,France,Centre-Forward,CF,,Spezia,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Reggina Calcio,Riccardo Alderuccio,19,Italy,Centre-Back,CB,,Gela,Italy,,out,summer,Serie A,2003,False,
+Reggina Calcio,Salvatore Vicari,22,Italy,Right Midfield,RM,,Ascoli,Italy,,out,summer,Serie A,2003,False,
+Reggina Calcio,Erjon Bogdani,26,Albania,Centre-Forward,CF,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Reggina Calcio,Roberto Mafucci,18,Italy,attack,attack,,Retired,,,out,summer,Serie A,2003,False,
+Reggina Calcio,Roberto Cardinale,22,Italy,Centre-Back,CB,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Bruno Cirillo,26,Italy,Centre-Back,CB,,Lecce,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Gianluca Falsini,27,Italy,Left-Back,LB,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Aimo Diana,25,Italy,Right Midfield,RM,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Stefano Torrisi,32,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Emiliano Bonazzoli,24,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Reggina Calcio,Juan Sara,27,Argentina,Centre-Forward,CF,,Dundee FC,Scotland,0.0,in,winter,Serie A,2003,False,
+Reggina Calcio,Christophe Meoli,18,Switzerland,Defensive Midfield,DM,,Lausanne-Sport,Switzerland,0.0,in,winter,Serie A,2003,False,
+Reggina Calcio,Gianluca Comotto,25,Italy,Right-Back,RB,,Torino,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Reggina Calcio,Ferdinando Coppola,25,Italy,Goalkeeper,GK,,Ascoli,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Reggina Calcio,Gonzalo Martínez,28,Colombia,Right-Back,RB,,Napoli,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Reggina Calcio,Julio de León,24,Honduras,Attacking Midfield,AM,,Fiorentina,Italy,,out,winter,Serie A,2003,False,
+Reggina Calcio,Martin Lejsal,21,Czech Republic,Goalkeeper,GK,,Slovan Liberec,Czech Republic,0.0,out,winter,Serie A,2003,True,free loan
+Robur Siena,Tore André Flo,30,Norway,Centre-Forward,CF,,Sunderland,England,1500000.0,in,summer,Serie A,2003,False,
+Robur Siena,Generoso Rossi,24,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,800000.0,in,summer,Serie A,2003,False,
+Robur Siena,Carlos Arano,23,Argentina,Left-Back,LB,,Racing Club,Argentina,400000.0,in,summer,Serie A,2003,False,
+Robur Siena,Bruno Cirillo,26,Italy,Centre-Back,CB,,Lecce,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Robur Siena,Enrico Chiesa,32,Italy,Centre-Forward,CF,,Lazio,Italy,0.0,in,summer,Serie A,2003,False,
+Robur Siena,Leandro Cufré,25,Argentina,Left-Back,LB,,AS Roma,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Robur Siena,Gianni Guigou,28,Uruguay,Defensive Midfield,DM,,AS Roma,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Robur Siena,Daniele Delli Carri,31,Italy,Centre-Back,CB,,Torino,Italy,0.0,in,summer,Serie A,2003,False,
+Robur Siena,Konstantinos Louboutis,24,Greece,Left-Back,LB,,Perugia,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Robur Siena,Roberto D'Aversa,27,Italy,Central Midfield,CM,,Ternana,Italy,,in,summer,Serie A,2003,False,
+Robur Siena,Paolo Foglio,27,Italy,Right-Back,RB,,Atalanta BC,Italy,,in,summer,Serie A,2003,False,
+Robur Siena,Fernando,22,Brazil,Defensive Midfield,DM,,Juventude,Brazil,,in,summer,Serie A,2003,False,
+Robur Siena,Andrea Ardito,26,Italy,Defensive Midfield,DM,,Bologna,Italy,,in,summer,Serie A,2003,False,
+Robur Siena,Nicola Ventola,25,Italy,Centre-Forward,CF,,Inter,Italy,0.0,in,summer,Serie A,2003,True,free loan
+Robur Siena,Luigi Martinelli,32,Italy,Right-Back,RB,,Ascoli,Italy,0.0,out,summer,Serie A,2003,False,
+Robur Siena,Lampros Vangelis,21,Greece,Central Midfield,CM,,PAOK Salonika,Greece,0.0,out,summer,Serie A,2003,False,
+Robur Siena,André Leone,24,Brazil,Centre-Back,CB,,Ituano,Brazil,0.0,out,summer,Serie A,2003,False,
+Robur Siena,Aliyu Datti,21,Nigeria,Centre-Forward,CF,,Standard Liège,Belgium,,out,summer,Serie A,2003,False,
+Robur Siena,Massimo Brambilla,30,Italy,Central Midfield,CM,,Cagliari Calcio,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Matteo Gianello,27,Italy,Goalkeeper,GK,,Cisco Lodigiani,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Robur Siena,Davide Mandelli,26,Italy,Centre-Back,CB,,Torino,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Ruggero Radice,31,Italy,Left-Back,LB,,Piacenza,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Luca Cavallo,30,Italy,Right Midfield,RM,,Genoa,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Stefano Ghirardello,30,Italy,Centre-Forward,CF,,Genoa,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Reinaldo,19,Brazil,Attacking Midfield,AM,,Quilmes,Argentina,,out,summer,Serie A,2003,False,
+Robur Siena,Pierpaolo Bresciani,32,Italy,Right Winger,RW,,Sansovino,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Christian Scalzo,31,Italy,attack,attack,,Spezia,Italy,,out,summer,Serie A,2003,False,
+Robur Siena,Andrea Mazzantini,34,Italy,Goalkeeper,GK,,Retired,,,out,summer,Serie A,2003,False,
+Robur Siena,Giuseppe Taglialatela,34,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2003,False,
+Robur Siena,Daniele Martinelli,21,Italy,Centre-Back,CB,,Torino,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,Ghislain Akassou,28,Cote d'Ivoire,Centre-Back,CB,,Pistoiese,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,Francesco Carbone,23,Italy,Right-Back,RB,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,André Pinga,22,Brazil,Attacking Midfield,AM,,Torino,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,Alessandro Agostini,23,Italy,Left-Back,LB,,FC Empoli,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,Andrea Ardito,26,Italy,Defensive Midfield,DM,,Bologna,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+Robur Siena,Roque Júnior,27,Brazil,Centre-Back,CB,,AC Milan,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Robur Siena,Júnior,30,Brazil,Left-Back,LB,,AC Parma,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Robur Siena,Nikola Lazetic,25,Serbia,Right Winger,RW,,Lazio,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Robur Siena,Simone Vergassola,27,Italy,Defensive Midfield,DM,,Torino,Italy,,in,winter,Serie A,2003,False,
+Robur Siena,Juarez,30,Brazil,Right-Back,RB,,Bologna,Italy,0.0,in,winter,Serie A,2003,True,free loan
+Robur Siena,Carlos Arano,23,Argentina,Left-Back,LB,,Perugia,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Robur Siena,Simone Bonomi,23,Italy,Left-Back,LB,,Chievo Verona,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Robur Siena,Antonio Morello,26,Italy,Right Winger,RW,,Catanzaro,Italy,,out,winter,Serie A,2003,False,
+Robur Siena,Vincenzo Riccio,29,Italy,Central Midfield,CM,,Benevento,Italy,,out,winter,Serie A,2003,False,
+Robur Siena,Paolo Foglio,28,Italy,Right-Back,RB,,Genoa,Italy,0.0,out,winter,Serie A,2003,True,free loan
+SS Lazio,Ousmane Dabo,26,France,Defensive Midfield,DM,,Atalanta BC,Italy,8880000.0,in,summer,Serie A,2003,False,
+SS Lazio,Luciano Zauri,25,Italy,Right-Back,RB,,Atalanta BC,Italy,5950000.0,in,summer,Serie A,2003,False,
+SS Lazio,Roberto Muzzi,31,Italy,Centre-Forward,CF,,Udinese,Italy,3200000.0,in,summer,Serie A,2003,False,
+SS Lazio,Demetrio Albertini,31,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,in,summer,Serie A,2003,False,
+SS Lazio,Duccio Innocenti,27,Italy,Centre-Back,CB,,Bari,Italy,0.0,in,summer,Serie A,2003,False,
+SS Lazio,Sérgio Conceição,28,Portugal,Right Winger,RW,,Inter,Italy,0.0,in,summer,Serie A,2003,False,
+SS Lazio,Matteo Sereni,28,Italy,Goalkeeper,GK,,Ipswich,England,,in,summer,Serie A,2003,False,
+SS Lazio,Fabrizio Casazza,32,Italy,Goalkeeper,GK,,Sampdoria,Italy,,in,summer,Serie A,2003,False,
+SS Lazio,Gaizka Mendieta,29,Spain,Right Midfield,RM,,Middlesbrough,England,3500000.0,out,summer,Serie A,2003,True,loan with fee
+SS Lazio,Duccio Innocenti,27,Italy,Centre-Back,CB,,Atalanta BC,Italy,1150000.0,out,summer,Serie A,2003,False,
+SS Lazio,Luca Marchegiani,37,Italy,Goalkeeper,GK,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,False,
+SS Lazio,Diego Simeone,33,Argentina,Central Midfield,CM,,Atlético Madrid,Spain,0.0,out,summer,Serie A,2003,False,
+SS Lazio,Enrico Chiesa,32,Italy,Centre-Forward,CF,,Siena,Italy,0.0,out,summer,Serie A,2003,False,
+SS Lazio,Patrizio Pascucci,19,Italy,attack,attack,,Everton U21,England,0.0,out,summer,Serie A,2003,False,
+SS Lazio,Roberto Baronio,25,Italy,Defensive Midfield,DM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+SS Lazio,Emanuele Concetti,25,Italy,Goalkeeper,GK,,Catania,Italy,,out,summer,Serie A,2003,False,
+SS Lazio,Giuseppe Pancaro,31,Italy,Right-Back,RB,,AC Milan,Italy,0.0,out,summer,Serie A,2003,True,free loan
+SS Lazio,Alessandro Gazzi,20,Italy,Defensive Midfield,DM,,Viterbese,Italy,,out,summer,Serie A,2003,False,
+SS Lazio,Felice Evacuo,20,Italy,Centre-Forward,CF,,Viterbese,Italy,,out,summer,Serie A,2003,False,
+SS Lazio,Lucas Castromán,22,Argentina,Attacking Midfield,AM,,Vélez Sarsfield,Argentina,,out,summer,Serie A,2003,False,
+SS Lazio,Daniel Ola,20,Nigeria,Centre-Back,CB,,Teramo,Italy,,out,summer,Serie A,2003,False,
+SS Lazio,Christian Manfredini,28,Cote d'Ivoire,Left Winger,LW,,Fiorentina,Italy,0.0,out,summer,Serie A,2003,True,free loan
+SS Lazio,Alessandro Volpe,20,Italy,Central Midfield,CM,,Cisco Roma,Italy,0.0,out,summer,Serie A,2003,True,free loan
+SS Lazio,Pierpaolo Masi,20,Italy,midfield,midfield,,Cisco Lodigiani,Italy,0.0,out,summer,Serie A,2003,True,free loan
+SS Lazio,Dejan Stanković,25,Serbia,Central Midfield,CM,,Inter,Italy,4000000.0,out,winter,Serie A,2003,False,
+SS Lazio,Denis Boshnjaku,19,Albania,Centre-Forward,CF,,AS Roma,Italy,200000.0,out,winter,Serie A,2003,False,
+SS Lazio,Sérgio Conceição,29,Portugal,Right Winger,RW,,FC Porto,Portugal,0.0,out,winter,Serie A,2003,False,
+SS Lazio,Dino Baggio,32,Italy,Defensive Midfield,DM,,Ancona,Italy,0.0,out,winter,Serie A,2003,True,free loan
+SS Lazio,Nikola Lazetic,25,Serbia,Right Winger,RW,,Siena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+SS Lazio,Christian Manfredini,28,Cote d'Ivoire,Left Winger,LW,,Perugia,Italy,0.0,out,winter,Serie A,2003,True,free loan
+UC Sampdoria,Luca Antonini,20,Italy,Left-Back,LB,,AC Milan,Italy,2000000.0,in,summer,Serie A,2003,False,
+UC Sampdoria,Giulio Falcone,29,Italy,Centre-Back,CB,,Bologna,Italy,0.0,in,summer,Serie A,2003,False,
+UC Sampdoria,Massimo Marazzina,28,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,in,summer,Serie A,2003,True,free loan
+UC Sampdoria,Francesco Antonioli,33,Italy,Goalkeeper,GK,,AS Roma,Italy,0.0,in,summer,Serie A,2003,False,
+UC Sampdoria,Atsushi Yanagisawa,26,Japan,Centre-Forward,CF,,Kashima Antlers,Japan,0.0,in,summer,Serie A,2003,False,
+UC Sampdoria,Francis Zé,21,Cameroon,Right Winger,RW,,Cremonese,Italy,0.0,in,summer,Serie A,2003,False,
+UC Sampdoria,Cristiano Doni,30,Italy,Attacking Midfield,AM,,Atalanta BC,Italy,,in,summer,Serie A,2003,False,
+UC Sampdoria,Aimo Diana,25,Italy,Right Midfield,RM,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+UC Sampdoria,Cristian Zenoni,26,Italy,Right-Back,RB,,Juventus,Italy,0.0,in,summer,Serie A,2003,True,free loan
+UC Sampdoria,Moris Carrozzieri,22,Italy,Centre-Back,CB,,Teramo,Italy,,in,summer,Serie A,2003,False,
+UC Sampdoria,Emanuele Bianchi,18,Italy,Goalkeeper,GK,,Lucchese,Italy,,in,summer,Serie A,2003,False,
+UC Sampdoria,Giampaolo Calzi,17,Italy,Defensive Midfield,DM,,Castellettese,Italy,,in,summer,Serie A,2003,False,
+UC Sampdoria,Massimo Paganin,32,Italy,Centre-Back,CB,,Vicenza,Italy,0.0,out,summer,Serie A,2003,False,
+UC Sampdoria,Fabrizio Casazza,32,Italy,Goalkeeper,GK,,Lazio,Italy,,out,summer,Serie A,2003,False,
+UC Sampdoria,Andrea Bernini,30,Italy,Right Midfield,RM,,Napoli,Italy,,out,summer,Serie A,2003,False,
+UC Sampdoria,Fabio Tricarico,33,Italy,midfield,midfield,,Spezia,Italy,,out,summer,Serie A,2003,False,
+UC Sampdoria,Johan Michel Romeo,18,France,midfield,midfield,,Giugliano,Italy,,out,summer,Serie A,2003,False,
+UC Sampdoria,Sandro Cois,30,Italy,Defensive Midfield,DM,,Retired,,,out,summer,Serie A,2003,False,
+UC Sampdoria,Olmo Pozzo,19,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2003,False,
+UC Sampdoria,Davide Pinato,39,Italy,Goalkeeper,GK,,Retired,,,out,summer,Serie A,2003,False,
+UC Sampdoria,Jorge Bolaño,26,Colombia,Central Midfield,CM,,AC Parma,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+UC Sampdoria,Salvatore Miceli,29,Italy,Defensive Midfield,DM,,Piacenza,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+UC Sampdoria,Mattia Cassani,19,Italy,Right-Back,RB,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+UC Sampdoria,Andrea Gasbarroni,21,Italy,Second Striker,SS,,Juventus,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+UC Sampdoria,Andrea Rabito,23,Italy,Right Winger,RW,,Milan,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+UC Sampdoria,Giacomo Cipriani,23,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,in,winter,Serie A,2003,False,
+UC Sampdoria,Antonio Floro Flores,20,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,in,winter,Serie A,2003,True,free loan
+UC Sampdoria,Maurizio Domizzi,23,Italy,Centre-Back,CB,,Modena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+UC Sampdoria,Alessandro Grandoni,26,Italy,Centre-Back,CB,,Modena,Italy,0.0,out,winter,Serie A,2003,True,free loan
+UC Sampdoria,Corrado Colombo,24,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,out,winter,Serie A,2003,True,free loan
+US Lecce,Sebastiano Siviglia,30,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,in,summer,Serie A,2003,True,free loan
+US Lecce,Marco Amelia,21,Italy,Goalkeeper,GK,,AS Livorno,Italy,0.0,in,summer,Serie A,2003,True,free loan
+US Lecce,Marco Cassetti,26,Italy,Right-Back,RB,,Hellas Verona,Italy,,in,summer,Serie A,2003,False,
+US Lecce,Alessandro Budel,22,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,in,summer,Serie A,2003,True,free loan
+US Lecce,Bruno Cirillo,26,Italy,Centre-Back,CB,,Siena,Italy,0.0,out,summer,Serie A,2003,True,free loan
+US Lecce,Sebastjan Cimirotic,28,Slovenia,Centre-Forward,CF,,NK Olimpija,Slovenia,0.0,out,summer,Serie A,2003,False,
+US Lecce,Giorgio Frezzolini,27,Italy,Goalkeeper,GK,,Chievo Verona,Italy,,out,summer,Serie A,2003,False,
+US Lecce,Gianluca Colonnello,30,Italy,Left-Back,LB,,Pescara,Italy,,out,summer,Serie A,2003,False,
+US Lecce,Aldo Osorio,29,Argentina,Centre-Forward,CF,,CA Talleres,Argentina,0.0,out,summer,Serie A,2003,True,free loan
+US Lecce,Nicolas Laspalles,31,France,Right-Back,RB,,FC Nantes,France,0.0,out,summer,Serie A,2003,True,end of loan
+US Lecce,Giorgio Di Vicino,22,Italy,Attacking Midfield,AM,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+US Lecce,Alfonso Camorani,25,Italy,Central Midfield,CM,,Salernitana,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+US Lecce,Marco Donadel,20,Italy,Defensive Midfield,DM,,Milan,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+US Lecce,Generoso Rossi,24,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2003,True,end of loan
+US Lecce,Wilfried Dalmat,21,Saint-Martin,Right Winger,RW,,Grenoble,France,0.0,in,winter,Serie A,2003,True,free loan
+US Lecce,Mariano Stendardo,20,Italy,Centre-Back,CB,,Napoli,Italy,0.0,in,winter,Serie A,2003,True,free loan
+US Lecce,Daniele Franceschini,27,Italy,Left Midfield,LM,,Chievo Verona,Italy,0.0,in,winter,Serie A,2003,True,free loan
+US Lecce,Jorge Bolaño,26,Colombia,Central Midfield,CM,,AC Parma,Italy,0.0,in,winter,Serie A,2003,True,free loan
+US Lecce,Nicola Mariniello,26,Italy,Right Midfield,RM,,Foggia,Italy,0.0,in,winter,Serie A,2003,True,free loan
+US Lecce,Vincenzo Sicignano,29,Italy,Goalkeeper,GK,,AC Parma,Italy,,in,winter,Serie A,2003,False,
+US Lecce,Luigi Piangerelli,30,Italy,Defensive Midfield,DM,,Fiorentina,Italy,,out,winter,Serie A,2003,False,
+US Lecce,Alberto Savino,30,Italy,Centre-Back,CB,,Ternana,Italy,,out,winter,Serie A,2003,False,
+US Lecce,Djuric Winklaar,21,Curacao,Left Midfield,LM,,SPAL,Italy,0.0,out,winter,Serie A,2003,True,free loan
+US Lecce,Marco Testa,20,Italy,Central Midfield,CM,,SPAL,Italy,,out,winter,Serie A,2003,False,
+US Lecce,Carmine Nuzzaci,20,Italy,midfield,midfield,,Castel di Sangro,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Henok Goitom,18,Eritrea,Centre-Forward,CF,,Vasalund U19,Sweden,0.0,in,summer,Serie A,2003,False,
+Udinese Calcio,Alessandro Pierini,30,Italy,Centre-Back,CB,,AC Parma,Italy,,in,summer,Serie A,2003,False,
+Udinese Calcio,Michele Pazienza,20,Italy,Defensive Midfield,DM,,Foggia,Italy,,in,summer,Serie A,2003,False,
+Udinese Calcio,Asamoah Gyan,17,Ghana,Centre-Forward,CF,,Liberty Prof.,Ghana,,in,summer,Serie A,2003,False,
+Udinese Calcio,Luis Helguera,27,Spain,Defensive Midfield,DM,,Alavés,Spain,,in,summer,Serie A,2003,False,
+Udinese Calcio,Toni Bernal,26,Spain,Goalkeeper,GK,,Ciudad Murcia,Spain,,in,summer,Serie A,2003,False,
+Udinese Calcio,Dino Fava,26,Italy,Centre-Forward,CF,,Triestina,Italy,,in,summer,Serie A,2003,False,
+Udinese Calcio,Lucas Castromán,22,Argentina,Attacking Midfield,AM,,Vélez Sarsfield,Argentina,0.0,in,summer,Serie A,2003,True,free loan
+Udinese Calcio,Roberto Muzzi,31,Italy,Centre-Forward,CF,,Lazio,Italy,3200000.0,out,summer,Serie A,2003,False,
+Udinese Calcio,Dimitrios Nalitzis,27,Greece,Centre-Forward,CF,,AEK Athens,Greece,200000.0,out,summer,Serie A,2003,False,
+Udinese Calcio,Warley,25,Brazil,Centre-Forward,CF,,São Caetano,Brazil,0.0,out,summer,Serie A,2003,False,
+Udinese Calcio,Terrence Genaux,20,Belgium,Centre-Back,CB,,CS Visé,Belgium,,out,summer,Serie A,2003,False,
+Udinese Calcio,Feliciano Magro,24,Switzerland,Attacking Midfield,AM,,Grasshoppers,Switzerland,,out,summer,Serie A,2003,False,
+Udinese Calcio,Luis Helguera,27,Spain,Defensive Midfield,DM,,Fiorentina,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Udinese Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,,Reggina,Italy,,out,summer,Serie A,2003,False,
+Udinese Calcio,Pavel Grznar,24,Czech Republic,Left-Back,LB,,C. Budejovice,Czech Republic,,out,summer,Serie A,2003,False,
+Udinese Calcio,Sergio Almirón,22,Argentina,Central Midfield,CM,,Hellas Verona,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Udinese Calcio,Zlatan Muslimovic,22,Bosnia-Herzegovina,Centre-Forward,CF,,Padova,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Udinese Calcio,Mauricio Pineda,27,Argentina,Left-Back,LB,,Lanús,Argentina,,out,summer,Serie A,2003,False,
+Udinese Calcio,Roberto Sosa,28,Argentina,Centre-Forward,CF,,Ascoli,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Udinese Calcio,Anthony Basso,23,France,Goalkeeper,GK,,Chieti,Italy,0.0,out,summer,Serie A,2003,True,free loan
+Udinese Calcio,Thomas Thorninger,30,Denmark,Centre-Forward,CF,,Aarhus GF,Denmark,,out,summer,Serie A,2003,False,
+Udinese Calcio,Samuel Caballero,28,Honduras,Centre-Back,CB,,Salernitana,Italy,,out,summer,Serie A,2003,False,
+Udinese Calcio,Andrea Sottil,29,Italy,Centre-Back,CB,,Reggina,Italy,,out,summer,Serie A,2003,False,
+Udinese Calcio,Giorgio Podimani,20,Italy,defence,defence,,Retired,,,out,summer,Serie A,2003,False,
+Udinese Calcio,Diego Gavilán,23,Paraguay,Central Midfield,CM,,Newcastle,England,0.0,in,winter,Serie A,2003,True,free loan
+Udinese Calcio,Siyabonga Nomvethe,26,South Africa,Centre-Forward,CF,,Salernitana,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Julio Gutiérrez,24,Chile,Centre-Forward,CF,,Pescara,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Thomas Manfredini,23,Italy,Centre-Back,CB,,Fiorentina,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Mohammed Gargo,28,Ghana,Centre-Back,CB,,Genoa,Italy,,out,winter,Serie A,2003,False,
+Udinese Calcio,Roberto Sosa,28,Argentina,Centre-Forward,CF,,Messina Peloro,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Luis Helguera,27,Spain,Defensive Midfield,DM,,Ancona,Italy,0.0,out,winter,Serie A,2003,True,free loan
+Udinese Calcio,Giuseppe Gemiti,22,Germany,Left-Back,LB,,Genoa,Italy,0.0,out,winter,Serie A,2003,True,free loan

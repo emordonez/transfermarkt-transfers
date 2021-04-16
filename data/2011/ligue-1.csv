@@ -1,0 +1,477 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Ajaccio,Damien Tibéri,25,France,Left Midfield,LM,700000.0,CS Sedan,France,200000.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Mehdi Mostefa,27,Algeria,Defensive Midfield,DM,750000.0,Nîmes Olympique,France,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Paul Lasne,22,France,Defensive Midfield,DM,500000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Frédéric Sammaritano,25,France,Attacking Midfield,AM,1400000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Samuel Bouhours,24,France,Left-Back,LB,900000.0,Le Mans FC,France,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Guillermo Ochoa,25,Mexico,Goalkeeper,GK,8000000.0,América,Mexico,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Leyti N'Diaye,25,Senegal,Centre-Back,CB,1000000.0,Marseille,France,0.0,in,summer,Ligue 1,2011,True,free loan
+AC Ajaccio,Jackson Mendy,24,Senegal,Centre-Back,CB,500000.0,Grenoble,France,0.0,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Ilan,30,Brazil,Centre-Forward,CF,500000.0,Without Club,,,in,summer,Ligue 1,2011,False,
+AC Ajaccio,Jean-François Rivière,34,France,Centre-Forward,CF,400000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2011,False,
+AC Ajaccio,Toufik Guerabis,19,Algeria,Defensive Midfield,DM,150000.0,Amnéville,France,0.0,out,summer,Ligue 1,2011,False,
+AC Ajaccio,Julien Viale,29,France,Centre-Forward,CF,200000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2011,False,
+AC Ajaccio,Billy Modeste,23,France,Centre-Back,CB,50000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2011,False,
+AC Ajaccio,Laurent Bernardi,23,France,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+AC Ajaccio,Paul Lasne,22,France,Defensive Midfield,DM,500000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+AC Ajaccio,Eduardo,31,Brazil,Centre-Forward,CF,850000.0,Lens,France,0.0,in,winter,Ligue 1,2011,False,
+AC Ajaccio,Felipe Saad,28,Brazil,Centre-Back,CB,500000.0,Évian,France,0.0,in,winter,Ligue 1,2011,False,
+AC Ajaccio,David Gigliotti,26,France,Centre-Forward,CF,300000.0,AC Arles,France,0.0,in,winter,Ligue 1,2011,False,
+AC Ajaccio,Jackson Mendy,24,Senegal,Centre-Back,CB,500000.0,APO Levadiakos,Greece,0.0,out,winter,Ligue 1,2011,False,
+AC Ajaccio,Andy Delort,20,Algeria,Centre-Forward,CF,600000.0,FC Metz,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AJ Auxerre,Issam Jemâa,27,Tunisia,Centre-Forward,CF,1700000.0,Lens,France,2000000.0,in,summer,Ligue 1,2011,False,
+AJ Auxerre,Rudy Haddad,26,Israel,Attacking Midfield,AM,1000000.0,LB Châteauroux,France,750000.0,in,summer,Ligue 1,2011,False,
+AJ Auxerre,Omar Kossoko,23,Benin,Right Winger,RW,,Amiens SC,France,0.0,in,summer,Ligue 1,2011,False,
+AJ Auxerre,Édouard Cissé,33,France,Defensive Midfield,DM,1500000.0,Marseille,France,0.0,in,summer,Ligue 1,2011,False,
+AJ Auxerre,Ben Sahar,21,Israel,Centre-Forward,CF,1500000.0,Espanyol,Spain,0.0,in,summer,Ligue 1,2011,True,free loan
+AJ Auxerre,Yonathan Del Valle,21,Venezuela,Left Winger,LW,250000.0,Táchira,Venezuela,,in,summer,Ligue 1,2011,False,
+AJ Auxerre,Jean-Pascal Mignot,30,France,Centre-Back,CB,3750000.0,Saint-Étienne,France,2000000.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Benoît Pedretti,30,France,Defensive Midfield,DM,6500000.0,LOSC Lille,France,1500000.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Valter Birsa,24,Slovenia,Attacking Midfield,AM,3500000.0,Genoa,Italy,0.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Julien Quercia,24,France,Centre-Forward,CF,1600000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Rémy Riou,23,France,Goalkeeper,GK,800000.0,Toulouse,France,0.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Maxime Bourgeois,20,France,Left Winger,LW,500000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AJ Auxerre,Willy Maeyens,22,France,Goalkeeper,GK,300000.0,Besançon RC,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AJ Auxerre,Frédéric Sammaritano,25,France,Attacking Midfield,AM,1400000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Ireneusz Jelen,30,Poland,Centre-Forward,CF,5500000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Jo-gook Jeong,27,"Korea, South",Centre-Forward,CF,900000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AJ Auxerre,Steeven Langil,23,Martinique,Left Winger,LW,1700000.0,CS Sedan,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AJ Auxerre,Johnson Soumahoro,23,Cote d'Ivoire,Centre-Back,CB,50000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+AJ Auxerre,Georges Mandjeck,23,Cameroon,Defensive Midfield,DM,2000000.0,Stade Rennais,France,1000000.0,in,winter,Ligue 1,2011,False,
+AJ Auxerre,Olivier Kapo,31,France,Attacking Midfield,AM,750000.0,Without Club,,,in,winter,Ligue 1,2011,False,
+AJ Auxerre,Vincent Acapandié,21,France,Right-Back,RB,50000.0,AC Arles,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AJ Auxerre,Issam Jemâa,28,Tunisia,Centre-Forward,CF,1500000.0,Stade Brest 29,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AJ Auxerre,Alexandre Licata,27,France,Centre-Forward,CF,500000.0,Retired,,,out,winter,Ligue 1,2011,False,
+AS Nancy-Lorraine,Benjamin Moukandjo,22,Cameroon,Centre-Forward,CF,1500000.0,Monaco,France,2500000.0,in,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Alexandre Cuvillier,25,France,Left Midfield,LM,1700000.0,US Boulogne,France,1000000.0,in,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Lossémy Karaboué,23,Cote d'Ivoire,Central Midfield,CM,1500000.0,CS Sedan,France,900000.0,in,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Guy Ndy Assembé,25,Cameroon,Goalkeeper,GK,1000000.0,FC Nantes,France,800000.0,in,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Salif Sané,20,Senegal,Centre-Back,CB,350000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Distel Zola,22,DR Congo,Defensive Midfield,DM,500000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Daniel Niculae,28,Romania,Centre-Forward,CF,1800000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Thomas Mangani,24,France,Central Midfield,CM,1500000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Jo-gook Jeong,27,"Korea, South",Centre-Forward,CF,900000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Julien Féret,28,France,Attacking Midfield,AM,5000000.0,Stade Rennais,France,4000000.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Alfred N'Diaye,21,Senegal,Defensive Midfield,DM,1700000.0,Bursaspor,Turkey,2800000.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Youssouf Hadji,31,Morocco,Centre-Forward,CF,3500000.0,Stade Rennais,France,1700000.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Mickaël Chrétien Basser,27,Morocco,Right-Back,RB,3000000.0,Bursaspor,Turkey,400000.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Landry N'Guémo,25,Cameroon,Defensive Midfield,DM,4000000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Benjamin Gavanon,30,France,Central Midfield,CM,1500000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Gennaro Bracigliano,31,France,Goalkeeper,GK,2000000.0,Marseille,France,0.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Bocundji Ca,24,Guinea-Bissau,Defensive Midfield,DM,800000.0,Stade Reims,France,0.0,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Marama Vahirua,31,Tahiti,Centre-Forward,CF,3000000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Pascal Berenguer,30,France,Defensive Midfield,DM,2500000.0,Lens,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Ronan Le Crom,36,France,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+AS Nancy-Lorraine,Alexandre Cuvillier,25,France,Left Midfield,LM,1700000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+AS Nancy-Lorraine,Yohan Mollo,22,France,Right-Back,RB,2000000.0,Granada CF,Spain,150000.0,in,winter,Ligue 1,2011,True,loan with fee
+AS Nancy-Lorraine,Sébastien Puygrenier,29,France,Centre-Back,CB,1000000.0,Zenit S-Pb,Russia,0.0,in,winter,Ligue 1,2011,False,
+AS Nancy-Lorraine,Moustapha Sall,26,Senegal,Centre-Back,CB,900000.0,Saint-Étienne,France,0.0,in,winter,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Samba Diakité,23,Mali,Defensive Midfield,DM,4250000.0,QPR,England,400000.0,out,winter,Ligue 1,2011,True,loan with fee
+AS Nancy-Lorraine,Jonathan Brison,28,France,Left-Back,LB,2000000.0,Saint-Étienne,France,300000.0,out,winter,Ligue 1,2011,False,
+AS Nancy-Lorraine,Fouad Rachid,20,Comoros,Defensive Midfield,DM,150000.0,SAS Epinal,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Alexandre Cuvillier,25,France,Left Midfield,LM,1500000.0,Lens,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Aatif Chahechouhe,25,Morocco,Attacking Midfield,AM,300000.0,Chern. Burgas,Bulgaria,0.0,out,winter,Ligue 1,2011,False,
+AS Nancy-Lorraine,Distel Zola,22,DR Congo,Defensive Midfield,DM,400000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Nancy-Lorraine,Paul Alo'o Efoulou,27,Cameroon,Centre-Forward,CF,1900000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Stéphane Ruffier,24,France,Goalkeeper,GK,8000000.0,Monaco,France,3000000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Lynel Kitambala,22,France,Centre-Forward,CF,2800000.0,FC Lorient,France,2500000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Jean-Pascal Mignot,30,France,Centre-Back,CB,3750000.0,AJ Auxerre,France,2000000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Max Gradel,23,Cote d'Ivoire,Left Winger,LW,750000.0,Leeds,England,2000000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Jérémy Clément,26,France,Defensive Midfield,DM,4000000.0,Paris SG,France,1800000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Fabien Lemoine,24,France,Defensive Midfield,DM,4000000.0,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Banel Nicolita,26,Romania,Right Winger,RW,1800000.0,Steaua Bukarest,Romania,700000.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Florent Sinama-Pongolle,26,France,Second Striker,SS,3500000.0,Sporting CP,Portugal,500000.0,in,summer,Ligue 1,2011,True,loan with fee
+AS Saint-Étienne,Paulão,28,Brazil,Centre-Back,CB,2500000.0,Braga,Portugal,0.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Steed Malbranque,31,France,Central Midfield,CM,6000000.0,Sunderland,England,0.0,in,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Dimitri Payet,24,France,Left Winger,LW,9000000.0,LOSC Lille,France,9000000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Blaise Matuidi,24,France,Central Midfield,CM,8000000.0,Paris SG,France,8000000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Emmanuel Rivière,21,Martinique,Centre-Forward,CF,5250000.0,Toulouse,France,6000000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Kevin Mirallas,23,Belgium,Right Winger,RW,4500000.0,Olympiacos,Greece,2500000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Gonzalo Bergessio,27,Argentina,Centre-Forward,CF,3000000.0,Catania,Italy,1900000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Gelson Fernandes,24,Switzerland,Defensive Midfield,DM,3500000.0,Leicester,England,500000.0,out,summer,Ligue 1,2011,True,loan with fee
+AS Saint-Étienne,Carlos Bocanegra,32,United States,Centre-Back,CB,2500000.0,Rangers,Scotland,460000.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Jérémie Janot,34,France,Goalkeeper,GK,1000000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Christophe Landrin,34,France,Central Midfield,CM,1500000.0,AC Arles,France,0.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Jessy Moulin,25,France,Goalkeeper,GK,150000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Vincent Planté,30,France,Goalkeeper,GK,600000.0,Guingamp,France,0.0,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Guirane N'Daw,27,Senegal,Defensive Midfield,DM,1500000.0,Birmingham,England,0.0,out,summer,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Boubacar Mansaly,23,Senegal,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Steed Malbranque,31,France,Central Midfield,CM,3000000.0,Career break,,,out,summer,Ligue 1,2011,False,
+AS Saint-Étienne,Pierre-Emerick Aubameyang,22,Gabon,Centre-Forward,CF,4000000.0,AC Milan,Italy,1800000.0,in,winter,Ligue 1,2011,False,
+AS Saint-Étienne,Jonathan Brison,28,France,Left-Back,LB,2000000.0,AS Nancy,France,300000.0,in,winter,Ligue 1,2011,False,
+AS Saint-Étienne,Danijel Aleksic,20,Serbia,Attacking Midfield,AM,500000.0,Genoa,Italy,0.0,in,winter,Ligue 1,2011,False,
+AS Saint-Étienne,Gelson Fernandes,25,Switzerland,Defensive Midfield,DM,3500000.0,Udinese Calcio,Italy,500000.0,out,winter,Ligue 1,2011,True,loan with fee
+AS Saint-Étienne,Moustapha Sall,26,Senegal,Centre-Back,CB,900000.0,AS Nancy,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Idriss Saadi,19,Algeria,Centre-Forward,CF,600000.0,Stade Reims,France,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Paulão,29,Brazil,Centre-Back,CB,2500000.0,Real Betis,Spain,0.0,out,winter,Ligue 1,2011,True,free loan
+AS Saint-Étienne,Boubacar Sanogo,29,Cote d'Ivoire,Centre-Forward,CF,850000.0,Without Club,,,out,winter,Ligue 1,2011,False,
+Dijon FCO,Brice Jovial,27,Guadeloupe,Centre-Forward,CF,1000000.0,AC Le Havre,France,2000000.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Samuel Souprayen,22,France,Centre-Back,CB,1500000.0,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Grégory Thil,31,France,Centre-Forward,CF,750000.0,US Boulogne,France,800000.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Younousse Sankharé,21,Senegal,Central Midfield,CM,1000000.0,Paris SG,France,500000.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Thomas Guerbert,22,France,Attacking Midfield,AM,,Luzenac AP,France,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Abdoulaye Méïté,30,Cote d'Ivoire,Centre-Back,CB,2000000.0,West Brom,England,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Zakaria Diallo,24,France,Centre-Back,CB,200000.0,RSC Charleroi,Belgium,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Christopher Joufreau,19,France,Left Winger,LW,,US Changé,France,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Cédric Varrault,31,France,Centre-Back,CB,600000.0,Panionios,Greece,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Baptiste Reynet,20,France,Goalkeeper,GK,,FC Martigues,France,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Daisuke Matsui,30,Japan,Left Midfield,LM,1000000.0,Grenoble,France,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Kentin Olive,15,France,Centre-Back,CB,,PSG Youth,France,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Sekou Baradji,27,France,Defensive Midfield,DM,600000.0,Hapoel Raanana,Israel,0.0,in,summer,Ligue 1,2011,False,
+Dijon FCO,Damien Marcq,22,France,Defensive Midfield,DM,2500000.0,SM Caen,France,0.0,in,summer,Ligue 1,2011,True,free loan
+Dijon FCO,Sebastián Ribas,23,Uruguay,Centre-Forward,CF,3000000.0,Genoa,Italy,0.0,out,summer,Ligue 1,2011,False,
+Dijon FCO,Stéphane Morisot,33,France,Defensive Midfield,DM,200000.0,FC Rouen 1899,France,0.0,out,summer,Ligue 1,2011,False,
+Dijon FCO,Florent Ogier,22,France,Centre-Back,CB,400000.0,Besançon RC,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Dijon FCO,Jérôme Martin,25,France,Defensive Midfield,DM,200000.0,US Orléans,France,0.0,out,summer,Ligue 1,2011,False,
+Dijon FCO,Youcef Touati,22,Algeria,Attacking Midfield,AM,,Red Star FC 93,France,0.0,out,summer,Ligue 1,2011,False,
+Dijon FCO,Ruddy M'Passi,21,Congo,Centre-Forward,CF,,Atl. Baleares,Spain,0.0,out,summer,Ligue 1,2011,False,
+Dijon FCO,Raphaël Cacérès,23,France,Centre-Forward,CF,400000.0,Troyes,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Dijon FCO,Franck Grandel,33,Guadeloupe,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+Dijon FCO,Mickaël Isabey,36,France,Right Midfield,RM,,Retired,,,out,summer,Ligue 1,2011,False,
+Dijon FCO,Charley Fomen,21,Cameroon,Left-Back,LB,750000.0,Marseille,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Dijon FCO,Lhadji Badiane,24,France,Right Winger,RW,400000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Dijon FCO,Younousse Sankharé,21,Senegal,Central Midfield,CM,1000000.0,Paris SG,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Dijon FCO,Nicolas Seguin,21,France,Centre-Back,CB,200000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Dijon FCO,Zié Diabaté,22,Cote d'Ivoire,Left-Back,LB,900000.0,Dinamo,Romania,500000.0,in,winter,Ligue 1,2011,False,
+Dijon FCO,Bennard Kumordzi,26,Ghana,Defensive Midfield,DM,2000000.0,Panionios,Greece,300000.0,in,winter,Ligue 1,2011,False,
+Dijon FCO,Koro Koné,22,Cote d'Ivoire,Centre-Forward,CF,350000.0,Spartak Trnava,Slovakia,250000.0,in,winter,Ligue 1,2011,False,
+Dijon FCO,Hakeem Achour,22,France,Left Winger,LW,,US Ivry,France,0.0,in,winter,Ligue 1,2011,False,
+Dijon FCO,Gaël Kakuta,20,DR Congo,Attacking Midfield,AM,4500000.0,Chelsea,England,0.0,in,winter,Ligue 1,2011,True,free loan
+Dijon FCO,Christophe Mandanne,26,France,Centre-Forward,CF,650000.0,Guingamp,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Dijon FCO,Mehdi Courgnaud,21,France,Right Winger,RW,500000.0,AC Arles,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Dijon FCO,Christopher Joufreau,19,France,Left Winger,LW,150000.0,Poiré-sur-Vie,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Dijon FCO,Alexis Zywiecki,27,France,Centre-Back,CB,400000.0,Fréjus-St-Raph.,France,0.0,out,winter,Ligue 1,2011,False,
+Dijon FCO,Mickaël Isabey,36,France,Right Midfield,RM,,Retired,,,out,winter,Ligue 1,2011,False,
+FC Girondins Bordeaux,Nicolas Maurice-Belay,26,France,Left Midfield,LM,2700000.0,FC Sochaux,France,0.0,in,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Landry N'Guémo,25,Cameroon,Defensive Midfield,DM,4000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Andre Poko,18,Gabon,Defensive Midfield,DM,,US Bitam,Gabon,,in,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Fernando,30,Brazil,Defensive Midfield,DM,3000000.0,Shabab,Saudi Arabia,6000000.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Alou Diarra,29,France,Defensive Midfield,DM,12000000.0,Marseille,France,5000000.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Wendel,29,Brazil,Left Midfield,LM,6000000.0,Ittihad,Saudi Arabia,1500000.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Ulrich Ramé,38,France,Goalkeeper,GK,500000.0,CS Sedan,France,0.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Paul Lasne,22,France,Defensive Midfield,DM,500000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Pierre Ducasse,24,France,Defensive Midfield,DM,1800000.0,Lens,France,0.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Fernando Cavenaghi,27,Argentina,Centre-Forward,CF,1500000.0,River Plate,Argentina,0.0,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,Salif Sané,20,Senegal,Centre-Back,CB,350000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2011,True,free loan
+FC Girondins Bordeaux,Maxime Poundjé,18,France,Left-Back,LB,,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2011,True,free loan
+FC Girondins Bordeaux,Matthieu Saunier,21,France,Centre-Back,CB,400000.0,Troyes,France,,out,summer,Ligue 1,2011,False,
+FC Girondins Bordeaux,André,20,Brazil,Centre-Forward,CF,3500000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Girondins Bordeaux,Mariano,25,Brazil,Right-Back,RB,3500000.0,Fluminense,Brazil,3000000.0,in,winter,Ligue 1,2011,False,
+FC Girondins Bordeaux,Ludovic Obraniak,27,Poland,Attacking Midfield,AM,3750000.0,LOSC Lille,France,1000000.0,in,winter,Ligue 1,2011,False,
+FC Girondins Bordeaux,Vujadin Savic,21,Serbia,Centre-Back,CB,1000000.0,Dynamo Dresden,Germany,0.0,out,winter,Ligue 1,2011,True,free loan
+FC Girondins Bordeaux,Grzegorz Krychowiak,21,Poland,Defensive Midfield,DM,1000000.0,FC Nantes,France,0.0,out,winter,Ligue 1,2011,True,free loan
+FC Girondins Bordeaux,Floyd Ayité,22,Togo,Left Winger,LW,700000.0,Stade Reims,France,0.0,out,winter,Ligue 1,2011,False,
+FC Girondins Bordeaux,Anthony Modeste,23,France,Centre-Forward,CF,4750000.0,Blackburn,England,0.0,out,winter,Ligue 1,2011,True,free loan
+FC Lorient,Kévin Monnet-Paquet,22,France,Left Winger,LW,2500000.0,Lens,France,3000000.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Innocent Emeghara,22,Switzerland,Centre-Forward,CF,1200000.0,Grasshoppers,Switzerland,2500000.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Mathieu Coutadeur,25,France,Central Midfield,CM,3000000.0,Monaco,France,2000000.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Gilles Sunu,20,Togo,Centre-Forward,CF,500000.0,Arsenal Res.,England,1500000.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Jérémie Janot,34,France,Goalkeeper,GK,1000000.0,Saint-Étienne,France,0.0,in,summer,Ligue 1,2011,True,free loan
+FC Lorient,Julien Quercia,24,France,Centre-Forward,CF,1600000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Florent Chaigneau,27,France,Goalkeeper,GK,,Poiré-sur-Vie,France,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Adama Touré,19,Mali,Central Midfield,CM,150000.0,Paris SG,France,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Pedrinho,26,Portugal,Right-Back,RB,1300000.0,Coimbra,Portugal,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Tristan Do,18,Thailand,Right-Back,RB,150000.0,R. Strasbourg B,France,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Lucas Mareque,28,Argentina,Left-Back,LB,1200000.0,Independiente,Argentina,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Cheick Touré,18,Cote d'Ivoire,Centre-Back,CB,,Fulham U23,England,0.0,in,summer,Ligue 1,2011,False,
+FC Lorient,Joel Campbell,19,Costa Rica,Centre-Forward,CF,,Arsenal,England,0.0,in,summer,Ligue 1,2011,True,free loan
+FC Lorient,Jérémie Aliadière,28,France,Centre-Forward,CF,900000.0,Without Club,,,in,summer,Ligue 1,2011,False,
+FC Lorient,Kévin Gameiro,24,France,Centre-Forward,CF,13500000.0,Paris SG,France,11000000.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Jérémy Morel,27,Madagascar,Centre-Back,CB,3300000.0,Marseille,France,2500000.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Lynel Kitambala,22,France,Centre-Forward,CF,2800000.0,Saint-Étienne,France,2500000.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Rafik Bouderbal,23,Algeria,Right Winger,RW,50000.0,AS Lyon-Duchère,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,James Fanchone,31,France,Right Winger,RW,900000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Lionel Cappone,32,France,Goalkeeper,GK,600000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Morgan Amalfitano,26,France,Right Winger,RW,6500000.0,Marseille,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Alban Joinel,31,France,Goalkeeper,GK,200000.0,Carquefou,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Franco Sosa,30,Argentina,Right-Back,RB,1900000.0,Boca Juniors,Argentina,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Antoine Buron,27,France,Right Winger,RW,150000.0,FC Dieppe,France,0.0,out,summer,Ligue 1,2011,False,
+FC Lorient,Cheick Touré,18,Cote d'Ivoire,Centre-Back,CB,,Bayonne,France,0.0,out,summer,Ligue 1,2011,True,free loan
+FC Lorient,Olivier Monterrubio,34,France,Left Winger,LW,,Retired,,,out,summer,Ligue 1,2011,False,
+FC Lorient,Guillaume Gégousse,21,France,Central Midfield,CM,200000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Lorient,Pierre Ducasse,24,France,Defensive Midfield,DM,1800000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Lorient,Francis Coquelin,20,France,Defensive Midfield,DM,1300000.0,Arsenal Res.,England,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Lorient,Kévin Monnet-Paquet,22,France,Left Winger,LW,2500000.0,Lens,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Lorient,Gilles Sunu,20,Togo,Centre-Forward,CF,500000.0,Arsenal Res.,England,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Lorient,Wesley Lautoa,24,France,Centre-Back,CB,1000000.0,CS Sedan,France,2000000.0,in,winter,Ligue 1,2011,False,
+FC Lorient,Ladislas Douniama,25,Congo,Second Striker,SS,400000.0,Guingamp,France,100000.0,in,winter,Ligue 1,2011,False,
+FC Lorient,Lamine Gassama,22,Senegal,Right-Back,RB,700000.0,Olympique Lyon,France,0.0,in,winter,Ligue 1,2011,False,
+FC Lorient,Gabriel Peñalba,27,Argentina,Central Midfield,CM,650000.0,Argentinos Jrs.,Argentina,0.0,out,winter,Ligue 1,2011,False,
+FC Lorient,Adama Touré,20,Mali,Central Midfield,CM,150000.0,Sporting B,Spain,0.0,out,winter,Ligue 1,2011,False,
+FC Lorient,Fabien Robert,23,France,Left Midfield,LM,600000.0,Doncaster,England,0.0,out,winter,Ligue 1,2011,True,free loan
+FC Lorient,Sebastián Dubarbier,25,Argentina,Left-Back,LB,850000.0,Córdoba CF,Spain,0.0,out,winter,Ligue 1,2011,True,free loan
+FC Sochaux-Montbéliard,Sébastien Corchia,20,France,Right-Back,RB,2500000.0,Le Mans FC,France,2000000.0,in,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Abdoul Camara,21,Guinea,Left Winger,LW,1000000.0,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Sébastien Roudet,30,France,Attacking Midfield,AM,2500000.0,Lens,France,0.0,in,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Steven Mouyokolo,24,France,Centre-Back,CB,1500000.0,Wolves,England,0.0,in,summer,Ligue 1,2011,True,free loan
+FC Sochaux-Montbéliard,Brown Ideye,22,Nigeria,Centre-Forward,CF,6000000.0,Dynamo Kyiv,Ukraine,9000000.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Matthieu Dreyer,22,France,Goalkeeper,GK,700000.0,Fréjus-St-Raph.,France,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Jacques Faty,27,Senegal,Centre-Back,CB,2500000.0,Sivasspor,Turkey,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Nicolas Maurice-Belay,26,France,Left Midfield,LM,2700000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Maxime Josse,24,France,Centre-Back,CB,700000.0,Litex Lovech,Bulgaria,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Boukary Dramé,26,Senegal,Left-Back,LB,1700000.0,Chievo Verona,Italy,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Vaclav Sverkos,27,Czech Republic,Centre-Forward,CF,900000.0,Banik Ostrava,Czech Republic,0.0,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Frédéric Duplus,21,France,Right-Back,RB,500000.0,Guingamp,France,0.0,out,summer,Ligue 1,2011,True,free loan
+FC Sochaux-Montbéliard,Badara Sène,26,Senegal,Defensive Midfield,DM,200000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Geoffrey Tulasne,23,France,Central Midfield,CM,600000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Ivan Stevanovic,28,Serbia,Right-Back,RB,550000.0,Retired,,,out,summer,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Yaya Banana,20,Cameroon,Centre-Back,CB,1000000.0,Esperance,Tunisia,1500000.0,in,winter,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,King Osanga,21,Nigeria,Right Winger,RW,700000.0,ES Sahel,Tunisia,250000.0,in,winter,Ligue 1,2011,False,
+FC Sochaux-Montbéliard,Thierry Doubai,23,Cote d'Ivoire,Defensive Midfield,DM,1400000.0,Udinese Calcio,Italy,0.0,in,winter,Ligue 1,2011,True,free loan
+FC Sochaux-Montbéliard,Kévin Anin,25,France,Central Midfield,CM,3000000.0,OGC Nice,France,2500000.0,out,winter,Ligue 1,2011,False,
+FC Toulouse,Emmanuel Rivière,21,Martinique,Centre-Forward,CF,5250000.0,Saint-Étienne,France,6000000.0,in,summer,Ligue 1,2011,False,
+FC Toulouse,Umut Bulut,28,Turkey,Centre-Forward,CF,6000000.0,Trabzonspor,Turkey,3800000.0,in,summer,Ligue 1,2011,False,
+FC Toulouse,Pavle Ninkov,26,Serbia,Right-Back,RB,3000000.0,Red Star,Serbia,1740000.0,in,summer,Ligue 1,2011,False,
+FC Toulouse,Aymen Abdennour,21,Tunisia,Centre-Back,CB,1200000.0,ES Sahel,Tunisia,500000.0,in,summer,Ligue 1,2011,False,
+FC Toulouse,Rémy Riou,23,France,Goalkeeper,GK,800000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2011,False,
+FC Toulouse,Luan,22,Brazil,Left Winger,LW,1500000.0,Palmeiras,Brazil,3150000.0,out,summer,Ligue 1,2011,False,
+FC Toulouse,Xavier Pentecôte,25,France,Centre-Forward,CF,1200000.0,OGC Nice,France,1200000.0,out,summer,Ligue 1,2011,False,
+FC Toulouse,Mauro Cetto,29,Argentina,Centre-Back,CB,3200000.0,US Palermo,Italy,450000.0,out,summer,Ligue 1,2011,False,
+FC Toulouse,Florian Aigouy,20,France,Centre-Back,CB,150000.0,Tarbes Pyrénées,France,0.0,out,summer,Ligue 1,2011,False,
+FC Toulouse,Sören Larsen,29,Denmark,Centre-Forward,CF,700000.0,Aarhus GF,Denmark,0.0,out,summer,Ligue 1,2011,False,
+FC Toulouse,Jean-Joël Perrier-Doumbé,32,Cameroon,Right-Back,RB,300000.0,Retired,,,out,summer,Ligue 1,2011,False,
+FC Toulouse,Fodé Mansare,29,Guinea,Left Winger,LW,1400000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Toulouse,Mathieu Valverde,28,France,Goalkeeper,GK,1500000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Toulouse,Adrián Gunino,22,Uruguay,Right-Back,RB,2000000.0,Danubio FC,Uruguay,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Toulouse,Yannis Tafer,20,Algeria,Right Midfield,RM,1000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Toulouse,Federico Santander,20,Paraguay,Centre-Forward,CF,1800000.0,Guaraní,Paraguay,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Toulouse,Luis Mejía,20,Panama,Goalkeeper,GK,75000.0,CA Fénix,Uruguay,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Toulouse,Serge Aurier,19,Cote d'Ivoire,Right-Back,RB,2000000.0,Lens,France,1300000.0,in,winter,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Mohammed Rabiu,21,Ghana,Defensive Midfield,DM,300000.0,Udinese Calcio,Italy,1000000.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Cédric Mongongu,22,DR Congo,Centre-Back,CB,4000000.0,Monaco,France,500000.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Stephan Andersen,29,Denmark,Goalkeeper,GK,2000000.0,Bröndby IF,Denmark,350000.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Saber Khalifa,24,Tunisia,Centre-Forward,CF,700000.0,Esperance,Tunisia,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Jérôme Leroy,36,France,Attacking Midfield,AM,1000000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Fabrice Ehret,31,France,Left-Back,LB,750000.0,1. FC Köln,Germany,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Sidney Govou,31,France,Right Winger,RW,4000000.0,Panathinaikos,Greece,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Jonathan Mensah,20,Ghana,Centre-Back,CB,700000.0,Udinese Calcio,Italy,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Daniel Wass,22,Denmark,Right-Back,RB,2500000.0,Benfica,Portugal,0.0,in,summer,Ligue 1,2011,True,free loan
+FC Évian Thonon Gaillard,Steven Fula Pitu,17,France,Left-Back,LB,,Rodez AF,France,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Christian Poulsen,31,Denmark,Defensive Midfield,DM,3000000.0,Liverpool,England,0.0,in,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Jonathan Roufosse,26,France,Second Striker,SS,300000.0,Cannes,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Mathieu Lafon,27,France,Central Midfield,CM,400000.0,Cannes,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Antoine Ponroy,25,France,Centre-Back,CB,,Stade Lavallois,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Pierre Bouby,27,France,Central Midfield,CM,600000.0,FC Metz,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Oumar Pouye,23,Senegal,Centre-Forward,CF,600000.0,FC Metz,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Pape Ibra M'Boup,23,Senegal,Centre-Back,CB,250000.0,AS Cherbourg,France,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Caçapa,35,Brazil,Centre-Back,CB,400000.0,Avaí FC,Brazil,0.0,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Patrick N'Tolla,23,Cameroon,Right-Back,RB,,Le Mont LS,Switzerland,,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Patrick N'Tolla,23,France,midfield,midfield,,Le Mont LS,Switzerland,,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Nicolas Goussé,35,France,Centre-Forward,CF,,Retired,,,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Amaury Borel,24,France,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+FC Évian Thonon Gaillard,Mohammed Rabiu,21,Ghana,Defensive Midfield,DM,300000.0,Udinese Calcio,Italy,0.0,out,summer,Ligue 1,2011,True,end of loan
+FC Évian Thonon Gaillard,Thomas Kahlenberg,28,Denmark,Central Midfield,CM,2000000.0,VfL Wolfsburg,Germany,0.0,in,winter,Ligue 1,2011,True,free loan
+FC Évian Thonon Gaillard,Felipe Saad,28,Brazil,Centre-Back,CB,500000.0,AC Ajaccio,France,0.0,out,winter,Ligue 1,2011,False,
+LOSC Lille,Dimitri Payet,24,France,Left Winger,LW,9000000.0,Saint-Étienne,France,9000000.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Ronny Rodelin,21,France,Right Winger,RW,1500000.0,FC Nantes,France,1500000.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Benoît Pedretti,30,France,Defensive Midfield,DM,6500000.0,AJ Auxerre,France,1500000.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Marko Basa,28,Montenegro,Centre-Back,CB,3200000.0,Loko Moscow,Russia,1500000.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,David Rozehnal,30,Czech Republic,Centre-Back,CB,2500000.0,Hamburger SV,Germany,500000.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Vincent Enyeama,28,Nigeria,Goalkeeper,GK,2000000.0,Hapoel Tel Aviv,Israel,0.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Laurent Bonnart,31,France,Right-Back,RB,1750000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Joe Cole,29,England,Attacking Midfield,AM,8000000.0,Liverpool,England,0.0,in,summer,Ligue 1,2011,True,free loan
+LOSC Lille,Ireneusz Jelen,30,Poland,Centre-Forward,CF,5500000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2011,False,
+LOSC Lille,Gervinho,24,Cote d'Ivoire,Left Winger,LW,15000000.0,Arsenal,England,12000000.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Adil Rami,25,France,Centre-Back,CB,12000000.0,Valencia,Spain,6000000.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Yohan Cabaye,25,France,Central Midfield,CM,11000000.0,Newcastle,England,5000000.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Émerson Conceição,25,Brazil,Left-Back,LB,2500000.0,Benfica,Portugal,2000000.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Nicolas Fauvergue,26,France,Centre-Forward,CF,900000.0,CS Sedan,France,900000.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Cédric Baseya,23,DR Congo,Centre-Forward,CF,300000.0,AS Cherbourg,France,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Pierre-Alain Frau,31,France,Centre-Forward,CF,2500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Jerry Vandam,22,France,Right-Back,RB,700000.0,SM Caen,France,0.0,out,summer,Ligue 1,2011,True,free loan
+LOSC Lille,Peter Franquart,26,France,Centre-Back,CB,600000.0,RAEC Mons,Belgium,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Ludovic Butelle,28,France,Goalkeeper,GK,750000.0,AC Arles,France,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Arnaud Souquet,19,France,Right-Back,RB,250000.0,Paris FC,France,0.0,out,summer,Ligue 1,2011,True,free loan
+LOSC Lille,Emil Lyng,21,Denmark,Second Striker,SS,350000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,Stéphane Dumont,28,France,Defensive Midfield,DM,1300000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,False,
+LOSC Lille,David Rozehnal,30,Czech Republic,Centre-Back,CB,2500000.0,Hamburger SV,Germany,0.0,out,summer,Ligue 1,2011,True,end of loan
+LOSC Lille,Nolan Roux,23,France,Centre-Forward,CF,4750000.0,Stade Brest 29,France,8000000.0,in,winter,Ligue 1,2011,False,
+LOSC Lille,John Jairo Ruiz,18,Costa Rica,Left Winger,LW,1000000.0,Saprissa,Costa Rica,1200000.0,in,winter,Ligue 1,2011,False,
+LOSC Lille,Mauro Cetto,29,Argentina,Centre-Back,CB,2500000.0,US Palermo,Italy,200000.0,in,winter,Ligue 1,2011,True,loan with fee
+LOSC Lille,Moussa Sow,26,Senegal,Centre-Forward,CF,12000000.0,Fenerbahce,Turkey,10000000.0,out,winter,Ligue 1,2011,False,
+LOSC Lille,Ludovic Obraniak,27,Poland,Attacking Midfield,AM,3750000.0,G. Bordeaux,France,1000000.0,out,winter,Ligue 1,2011,False,
+LOSC Lille,Alexandre Oukidja,23,Algeria,Goalkeeper,GK,200000.0,Bayonne,France,0.0,out,winter,Ligue 1,2011,True,free loan
+LOSC Lille,Omar Wade,21,Senegal,Centre-Forward,CF,150000.0,Boluspor,Turkey,0.0,out,winter,Ligue 1,2011,True,free loan
+Montpellier HSC,Henri Bedimo,27,Cameroon,Left-Back,LB,1500000.0,Lens,France,2000000.0,in,summer,Ligue 1,2011,False,
+Montpellier HSC,Jonathan Tinhan,22,Benin,Centre-Forward,CF,250000.0,Grenoble,France,0.0,in,summer,Ligue 1,2011,False,
+Montpellier HSC,Hilton,33,Brazil,Centre-Back,CB,900000.0,Marseille,France,0.0,in,summer,Ligue 1,2011,False,
+Montpellier HSC,Emir Spahic,30,Bosnia-Herzegovina,Centre-Back,CB,4500000.0,Sevilla FC,Spain,2000000.0,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Romain Armand,24,France,Centre-Forward,CF,350000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Mickaël Nelson,21,France,Right-Back,RB,150000.0,Babelsberg 03,Germany,0.0,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Guillaume Legras,21,France,Central Midfield,CM,150000.0,FC Martigues,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Montpellier HSC,Adrien Coulomb,20,France,Attacking Midfield,AM,50000.0,Vannes,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Montpellier HSC,Anthony Scribe,23,France,Goalkeeper,GK,,USC Corte,France,0.0,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Jonas Martin,21,France,Central Midfield,CM,200000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Montpellier HSC,Teddy Mézague,21,France,Centre-Back,CB,50000.0,FC Martigues,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Montpellier HSC,Xavier Collin,36,France,Left-Back,LB,,Retired,,,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Nenad Dzodic,34,Serbia,Centre-Back,CB,250000.0,Retired,,,out,summer,Ligue 1,2011,False,
+Montpellier HSC,Hasan Kabze,29,Turkey,Centre-Forward,CF,1000000.0,Orduspor,Turkey,0.0,out,winter,Ligue 1,2011,False,
+Montpellier HSC,Bengali-Fodé Koita,21,Guinea,Centre-Forward,CF,450000.0,Lens,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Montpellier HSC,Nenad Dzodic,34,Serbia,Centre-Back,CB,250000.0,Retired,,,out,winter,Ligue 1,2011,False,
+OGC Nice,Fabián Monzón,24,Argentina,Left-Back,LB,1200000.0,Boca Juniors,Argentina,2100000.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Abraham Gneki Guié,25,Cote d'Ivoire,Centre-Forward,CF,1600000.0,Tours FC,France,1500000.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Xavier Pentecôte,25,France,Centre-Forward,CF,1200000.0,Toulouse,France,1200000.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Didier Digard,25,France,Defensive Midfield,DM,2300000.0,Middlesbrough,England,800000.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Camel Meriem,31,France,Attacking Midfield,AM,1000000.0,AC Arles,France,0.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Kévin Gomis,22,France,Centre-Back,CB,800000.0,Naval,Portugal,0.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Fabrice Abriel,32,France,Central Midfield,CM,2000000.0,Marseille,France,0.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Franck Dja Djédjé,25,Cote d'Ivoire,Right Winger,RW,1000000.0,AC Arles,France,0.0,in,summer,Ligue 1,2011,False,
+OGC Nice,Mickael Pote,26,Benin,Centre-Forward,CF,600000.0,Dynamo Dresden,Germany,100000.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Chaouki Ben Saada,27,Tunisia,Attacking Midfield,AM,2000000.0,Lens,France,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Habib Bamogo,29,Burkina Faso,Second Striker,SS,1000000.0,Panetolikos,Greece,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Mamadou Bagayoko,32,Mali,Centre-Forward,CF,600000.0,PAS Giannina,Greece,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Julien Berthomier,21,France,Centre-Back,CB,,Red Star FC 93,France,0.0,out,summer,Ligue 1,2011,True,free loan
+OGC Nice,Adeílson,25,Brazil,Centre-Forward,CF,300000.0,Tombense,Brazil,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Ismaël Gace,24,France,Centre-Back,CB,1200000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Danijel Ljuboja,32,Serbia,Centre-Forward,CF,1500000.0,Legia Warszawa,Poland,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Abeiku Quansah,20,Ghana,Defensive Midfield,DM,200000.0,Arsenal Kyiv,Ukraine,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Grégory Paisley,34,France,Left-Back,LB,750000.0,Guingamp,France,0.0,out,summer,Ligue 1,2011,False,
+OGC Nice,Alain Cantareil,27,France,Left-Back,LB,650000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+OGC Nice,Lionel Létizi,38,France,Goalkeeper,GK,,Retired,,,out,summer,Ligue 1,2011,False,
+OGC Nice,Didier Digard,24,France,Defensive Midfield,DM,2300000.0,Middlesbrough,England,0.0,out,summer,Ligue 1,2011,True,end of loan
+OGC Nice,Abdou Traoré,23,Mali,Central Midfield,CM,1200000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+OGC Nice,David Bellion,28,France,Centre-Forward,CF,1600000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+OGC Nice,Kévin Anin,25,France,Central Midfield,CM,3000000.0,FC Sochaux,France,2500000.0,in,winter,Ligue 1,2011,False,
+OGC Nice,Elliot Grandin,24,France,Right Winger,RW,2000000.0,Blackpool,England,250000.0,in,winter,Ligue 1,2011,True,loan with fee
+OGC Nice,Larrys Mabiala,24,DR Congo,Centre-Back,CB,1250000.0,Karabükspor,Turkey,500000.0,out,winter,Ligue 1,2011,False,
+OGC Nice,Jonathan Quartey,23,Ghana,Centre-Back,CB,200000.0,Without Club,,,out,winter,Ligue 1,2011,False,
+OGC Nice,Emerse Faé,27,Cote d'Ivoire,Central Midfield,CM,3000000.0,Retired,,,out,winter,Ligue 1,2011,False,
+Olympique Lyon,Bakary Koné,23,Burkina Faso,Centre-Back,CB,1000000.0,Guingamp,France,2000000.0,in,summer,Ligue 1,2011,False,
+Olympique Lyon,Gueïda Fofana,20,France,Defensive Midfield,DM,2000000.0,AC Le Havre,France,1800000.0,in,summer,Ligue 1,2011,False,
+Olympique Lyon,Mouhamadou Dabo,24,France,Right-Back,RB,5000000.0,Sevilla FC,Spain,800000.0,in,summer,Ligue 1,2011,False,
+Olympique Lyon,Mathieu Valverde,28,France,Goalkeeper,GK,900000.0,Without Club,,,in,summer,Ligue 1,2011,False,
+Olympique Lyon,Jérémy Toulalan,27,France,Defensive Midfield,DM,18000000.0,Málaga CF,Spain,11000000.0,out,summer,Ligue 1,2011,False,
+Olympique Lyon,Miralem Pjanić,21,Bosnia-Herzegovina,Central Midfield,CM,9000000.0,AS Roma,Italy,11000000.0,out,summer,Ligue 1,2011,False,
+Olympique Lyon,César Delgado,29,Argentina,Right Winger,RW,5500000.0,Monterrey,Mexico,0.0,out,summer,Ligue 1,2011,False,
+Olympique Lyon,Mathieu Gorgelin,21,France,Goalkeeper,GK,200000.0,Red Star FC 93,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Lyon,Enzo Réale,19,France,Central Midfield,CM,150000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Lyon,Harry Novillo,19,Martinique,Left Winger,LW,250000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Lyon,Pape Diakhaté,27,Senegal,Centre-Back,CB,3750000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Ligue 1,2011,True,end of loan
+Olympique Lyon,Hamdan Al Kamali,22,United Arab Emirates,Centre-Back,CB,,Al-Wahda FC,United Arab Emirates,0.0,in,winter,Ligue 1,2011,True,free loan
+Olympique Lyon,Mathieu Valverde,28,France,Goalkeeper,GK,900000.0,Without Club,,,in,winter,Ligue 1,2011,False,
+Olympique Lyon,Lamine Gassama,22,Senegal,Right-Back,RB,700000.0,FC Lorient,France,0.0,out,winter,Ligue 1,2011,False,
+Olympique Lyon,Ishak Belfodil,20,Algeria,Centre-Forward,CF,900000.0,Bologna,Italy,0.0,out,winter,Ligue 1,2011,True,free loan
+Olympique Marseille,Alou Diarra,29,France,Defensive Midfield,DM,12000000.0,G. Bordeaux,France,5000000.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Nicolas N'Koulou,21,Cameroon,Centre-Back,CB,5000000.0,Monaco,France,3500000.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Jérémy Morel,27,Madagascar,Centre-Back,CB,3300000.0,FC Lorient,France,2500000.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Morgan Amalfitano,26,France,Right Winger,RW,6500000.0,FC Lorient,France,0.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Gennaro Bracigliano,31,France,Goalkeeper,GK,2000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Djimi Traoré,31,Mali,Centre-Back,CB,1000000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,False,
+Olympique Marseille,Taye Taiwo,26,Nigeria,Left-Back,LB,8500000.0,AC Milan,Italy,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Gabriel Heinze,33,Argentina,Centre-Back,CB,2500000.0,AS Roma,Italy,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Jules Goda,22,Cameroon,Goalkeeper,GK,50000.0,Portimonense,Portugal,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Mohamed Dennoun,25,France,Attacking Midfield,AM,,ASO Chlef,Algeria,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Leyti N'Diaye,25,Senegal,Centre-Back,CB,1000000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Hilton,33,Brazil,Centre-Back,CB,900000.0,Montpellier,France,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Charley Fomen,22,Cameroon,Left-Back,LB,750000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Fabrice Abriel,32,France,Central Midfield,CM,2000000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Brandão,31,Brazil,Centre-Forward,CF,2500000.0,Grêmio,Brazil,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Alexander N'Doumbou,19,Gabon,Defensive Midfield,DM,150000.0,US Orléans,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Édouard Cissé,33,France,Defensive Midfield,DM,1500000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2011,False,
+Olympique Marseille,Kevin Osei,20,Ghana,Right Winger,RW,150000.0,Bayonne,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Pape M'Bow,23,Senegal,Centre-Back,CB,250000.0,RAEC Mons,Belgium,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Senah Mango,19,Togo,Centre-Back,CB,250000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Olympique Marseille,Lucho González,31,Argentina,Central Midfield,CM,9000000.0,FC Porto,Portugal,0.0,out,winter,Ligue 1,2011,False,
+Olympique Marseille,Julien Rodriguez,33,France,Centre-Back,CB,300000.0,Retired,,,out,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Javier Pastore,22,Argentina,Attacking Midfield,AM,21000000.0,US Palermo,Italy,42000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Kévin Gameiro,24,France,Centre-Forward,CF,13500000.0,FC Lorient,France,11000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Blaise Matuidi,24,France,Central Midfield,CM,8000000.0,Saint-Étienne,France,8000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Jérémy Ménez,24,France,Right Winger,RW,15000000.0,AS Roma,Italy,8000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Mohamed Sissoko,26,Mali,Defensive Midfield,DM,7500000.0,Juventus,Italy,8000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Salvatore Sirigu,24,Italy,Goalkeeper,GK,10000000.0,US Palermo,Italy,3900000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Milan Bisevac,27,Serbia,Centre-Back,CB,4500000.0,Valenciennes FC,France,3200000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Diego Lugano,30,Uruguay,Centre-Back,CB,14000000.0,Fenerbahce,Turkey,3000000.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Nicolas Douchez,31,France,Goalkeeper,GK,6000000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Jérémy Clément,26,France,Defensive Midfield,DM,4000000.0,Saint-Étienne,France,1800000.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Younousse Sankharé,21,Senegal,Central Midfield,CM,1000000.0,Dijon,France,500000.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Tripy Makonda,21,France,Left-Back,LB,500000.0,Stade Brest 29,France,500000.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Apoula Edel,25,Armenia,Goalkeeper,GK,2000000.0,Hapoel Tel Aviv,Israel,0.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Adama Touré,19,Mali,Central Midfield,CM,150000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Ludovic Giuly,35,France,Right Winger,RW,1500000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Jean-Eudes Maurice,25,Haiti,Centre-Forward,CF,500000.0,Lens,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Paris Saint-Germain,Granddi N'Goyi,23,DR Congo,Defensive Midfield,DM,900000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Paris Saint-Germain,Claude Makélélé,38,France,Defensive Midfield,DM,,Retired,,,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Grégory Coupet,38,France,Goalkeeper,GK,,Retired,,,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Sammy Traoré,35,Mali,Centre-Back,CB,300000.0,Retired,,,out,summer,Ligue 1,2011,False,
+Paris Saint-Germain,Thiago Motta,29,Italy,Defensive Midfield,DM,15000000.0,Inter,Italy,11500000.0,in,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Alex,29,Brazil,Centre-Back,CB,13000000.0,Chelsea,England,5000000.0,in,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Maxwell,30,Brazil,Left-Back,LB,7000000.0,FC Barcelona,Spain,3500000.0,in,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Ronan Le Crom,37,France,Goalkeeper,GK,50000.0,Without Club,,,in,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Mevlüt Erdinc,24,Turkey,Centre-Forward,CF,7250000.0,Stade Rennais,France,6600000.0,out,winter,Ligue 1,2011,False,
+Paris Saint-Germain,Loïck Landre,19,France,Centre-Back,CB,250000.0,Clermont Foot,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Paris Saint-Germain,Éverton Santos,25,Brazil,Centre-Forward,CF,300000.0,Seongnam Ilhwa,"Korea, South",0.0,out,winter,Ligue 1,2011,False,
+SM Caen,Pierre-Alain Frau,31,France,Centre-Forward,CF,2500000.0,LOSC Lille,France,0.0,in,summer,Ligue 1,2011,False,
+SM Caen,Jerry Vandam,22,France,Right-Back,RB,700000.0,LOSC Lille,France,0.0,in,summer,Ligue 1,2011,True,free loan
+SM Caen,Frédéric Bulot,20,Gabon,Left Winger,LW,500000.0,Monaco,France,0.0,in,summer,Ligue 1,2011,False,
+SM Caen,Fayçal Fajr,22,Morocco,Central Midfield,CM,,Fréjus-St-Raph.,France,0.0,in,summer,Ligue 1,2011,False,
+SM Caen,Ibrahima Tandia,18,Mali,Left Winger,LW,300000.0,FC Sochaux B,France,0.0,in,summer,Ligue 1,2011,False,
+SM Caen,Yannick M'Bone,18,Cameroon,Centre-Back,CB,,Apejes FC,Cameroon,0.0,in,summer,Ligue 1,2011,False,
+SM Caen,Youssef El Arabi,24,Morocco,Centre-Forward,CF,6500000.0,Hilal,Saudi Arabia,7500000.0,out,summer,Ligue 1,2011,False,
+SM Caen,Sambou Yatabaré,22,Mali,Central Midfield,CM,1300000.0,Monaco,France,1000000.0,out,summer,Ligue 1,2011,False,
+SM Caen,Julien Toudic,25,France,Centre-Forward,CF,750000.0,Lens,France,500000.0,out,summer,Ligue 1,2011,False,
+SM Caen,Ismaïla N'Diaye,23,Senegal,Defensive Midfield,DM,600000.0,KV Kortrijk,Belgium,0.0,out,summer,Ligue 1,2011,False,
+SM Caen,Pablo Barzola,27,Argentina,Right-Back,RB,1000000.0,Argentinos Jrs.,Argentina,0.0,out,summer,Ligue 1,2011,False,
+SM Caen,Romain Inez,24,France,Centre-Back,CB,400000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2011,False,
+SM Caen,Thibault Moulin,21,France,Central Midfield,CM,500000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2011,True,free loan
+SM Caen,Rajiv van La Parra,20,Netherlands,Left Winger,LW,400000.0,Heerenveen,Netherlands,0.0,out,summer,Ligue 1,2011,False,
+SM Caen,Damien Marcq,22,France,Defensive Midfield,DM,2500000.0,Dijon,France,0.0,out,summer,Ligue 1,2011,True,free loan
+SM Caen,Yohan Mollo,21,France,Right-Back,RB,1800000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+SM Caen,Aurélien Montaroup,26,France,Left-Back,LB,500000.0,Dinamo Minsk,Belarus,300000.0,in,winter,Ligue 1,2011,False,
+SM Caen,Benjamin Morel,24,France,Right Winger,RW,150000.0,Clermont Foot,France,0.0,out,winter,Ligue 1,2011,False,
+SM Caen,Grégory Tafforeau,35,France,Left-Back,LB,800000.0,Retired,,,out,winter,Ligue 1,2011,False,
+Stade Brest 29,Johan Martial,20,France,Centre-Back,CB,800000.0,SC Bastia,France,800000.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Diallo Guidileye,21,Mauritania,Defensive Midfield,DM,1200000.0,Troyes,France,700000.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Tripy Makonda,21,France,Left-Back,LB,500000.0,Paris SG,France,500000.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Lionel Cappone,32,France,Goalkeeper,GK,600000.0,FC Lorient,France,0.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Eden Ben Basat,24,Israel,Centre-Forward,CF,400000.0,Hapoel Haifa,Israel,0.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,John Culma,30,Colombia,Defensive Midfield,DM,700000.0,Maccabi Haifa,Israel,0.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Jonathan Zebina,33,France,Centre-Back,CB,1000000.0,Brescia,Italy,0.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Joan Hartock,24,Martinique,Goalkeeper,GK,100000.0,Olymp. Lyon B,France,0.0,in,summer,Ligue 1,2011,False,
+Stade Brest 29,Santiago Gentiletti,26,Argentina,Centre-Back,CB,1500000.0,Argentinos Jrs.,Argentina,0.0,in,summer,Ligue 1,2011,True,free loan
+Stade Brest 29,Fodie Traoré,26,France,Defensive Midfield,DM,200000.0,US Orléans,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Gaëtan Deneuve,26,France,Goalkeeper,GK,350000.0,Fréjus-St-Raph.,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Thomas Cotty,24,France,Left-Back,LB,50000.0,Concarneau,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Yvan Bourgis,31,France,Right-Back,RB,400000.0,Retired,,,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Théophile N'Tamé,26,Cameroon,Centre-Back,CB,150000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Filippos Darlas,27,Greece,Left-Back,LB,600000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+Stade Brest 29,Granddi N'Goyi,23,DR Congo,Defensive Midfield,DM,900000.0,Paris SG,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Stade Brest 29,Johan Martial,20,France,Centre-Back,CB,800000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Stade Brest 29,Alexandre Alphonse,29,Guadeloupe,Centre-Forward,CF,850000.0,FC Zürich,Switzerland,500000.0,in,winter,Ligue 1,2011,False,
+Stade Brest 29,Issam Jemâa,28,Tunisia,Centre-Forward,CF,1500000.0,AJ Auxerre,France,0.0,in,winter,Ligue 1,2011,True,free loan
+Stade Brest 29,Abel Khaled,19,Algeria,Right Winger,RW,100000.0,SAS Epinal,France,,in,winter,Ligue 1,2011,False,
+Stade Brest 29,Abdoul Wahid Sissoko,21,Mali,Defensive Midfield,DM,1200000.0,Udinese Calcio,Italy,0.0,in,winter,Ligue 1,2011,True,free loan
+Stade Brest 29,Nolan Roux,23,France,Centre-Forward,CF,4750000.0,LOSC Lille,France,8000000.0,out,winter,Ligue 1,2011,False,
+Stade Brest 29,Richard Soumah,25,Guinea,Left-Back,LB,750000.0,SCO Angers,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Stade Rennais FC,Julien Féret,28,France,Attacking Midfield,AM,5000000.0,AS Nancy,France,4000000.0,in,summer,Ligue 1,2011,False,
+Stade Rennais FC,Jonathan Pitroipa,25,Burkina Faso,Right Winger,RW,4500000.0,Hamburger SV,Germany,3500000.0,in,summer,Ligue 1,2011,False,
+Stade Rennais FC,Youssouf Hadji,31,Morocco,Centre-Forward,CF,3500000.0,AS Nancy,France,1700000.0,in,summer,Ligue 1,2011,False,
+Stade Rennais FC,Chris Mavinga,20,DR Congo,Centre-Back,CB,850000.0,Liverpool U23,England,1000000.0,in,summer,Ligue 1,2011,False,
+Stade Rennais FC,Benoît Costil,23,France,Goalkeeper,GK,1000000.0,CS Sedan,France,0.0,in,summer,Ligue 1,2011,False,
+Stade Rennais FC,Samuel Souprayen,22,France,Centre-Back,CB,1500000.0,Dijon,France,1500000.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Fabien Lemoine,24,France,Defensive Midfield,DM,4000000.0,Saint-Étienne,France,1500000.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Abdoul Camara,21,Guinea,Left Winger,LW,1000000.0,FC Sochaux,France,1500000.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Bira Dembélé,23,France,Centre-Back,CB,350000.0,CS Sedan,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Sylvain Marveaux,25,France,Attacking Midfield,AM,7500000.0,Newcastle,England,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Jérôme Leroy,36,France,Attacking Midfield,AM,1000000.0,Évian,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Nicolas Douchez,31,France,Goalkeeper,GK,6000000.0,Paris SG,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Lhadji Badiane,24,France,Right Winger,RW,400000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,Franck Julienne,20,France,Right Winger,RW,150000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Stade Rennais FC,Johann Carrasso,23,France,Goalkeeper,GK,1000000.0,Monaco,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Stade Rennais FC,Gaëtan Caro,21,France,Central Midfield,CM,50000.0,AFC Compiègne,France,0.0,out,summer,Ligue 1,2011,False,
+Stade Rennais FC,John Verhoek,22,Netherlands,Centre-Forward,CF,800000.0,ADO Den Haag,Netherlands,0.0,out,summer,Ligue 1,2011,True,free loan
+Stade Rennais FC,Mevlüt Erdinc,24,Turkey,Centre-Forward,CF,7250000.0,Paris SG,France,6600000.0,in,winter,Ligue 1,2011,False,
+Stade Rennais FC,Georges Mandjeck,23,Cameroon,Defensive Midfield,DM,2000000.0,AJ Auxerre,France,1000000.0,out,winter,Ligue 1,2011,False,
+Valenciennes FC,Gil,24,Brazil,Centre-Back,CB,3000000.0,Aparecida,Brazil,3000000.0,in,summer,Ligue 1,2011,False,
+Valenciennes FC,Kenny Lala,19,France,Right-Back,RB,,Paris FC,France,100000.0,in,summer,Ligue 1,2011,False,
+Valenciennes FC,Arnaud Brocard,25,France,Goalkeeper,GK,200000.0,Troyes,France,0.0,in,summer,Ligue 1,2011,False,
+Valenciennes FC,Milan Bisevac,27,Serbia,Centre-Back,CB,4500000.0,Paris SG,France,3200000.0,out,summer,Ligue 1,2011,False,
+Valenciennes FC,Nicolas Pallois,23,France,Centre-Back,CB,500000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2011,True,free loan
+Valenciennes FC,Jonathan Lacourt,24,France,Central Midfield,CM,500000.0,Without Club,,,out,summer,Ligue 1,2011,False,
+Valenciennes FC,Grégory Wimbée,39,France,Goalkeeper,GK,,Retired,,,out,summer,Ligue 1,2011,False,
+Valenciennes FC,Steeven Langil,23,Martinique,Left Winger,LW,1700000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2011,True,end of loan
+Valenciennes FC,Dusan Djuric,27,Sweden,Central Midfield,CM,1900000.0,FC Zürich,Switzerland,500000.0,in,winter,Ligue 1,2011,False,
+Valenciennes FC,Pape Camara,20,Senegal,Defensive Midfield,DM,1000000.0,Standard Liège,Belgium,500000.0,in,winter,Ligue 1,2011,False,
+Valenciennes FC,Tae-hee Nam,20,"Korea, South",Attacking Midfield,AM,850000.0,Lekhwiya,Qatar,1000000.0,out,winter,Ligue 1,2011,False,
+Valenciennes FC,Francis Massampu,20,France,Centre-Forward,CF,150000.0,Bayonne,France,0.0,out,winter,Ligue 1,2011,True,free loan
+Valenciennes FC,Guillaume Loriot,25,France,Central Midfield,CM,600000.0,US Boulogne,France,0.0,out,winter,Ligue 1,2011,False,
+Valenciennes FC,Rafael,31,Brazil,Centre-Back,CB,400000.0,Atlético-PR,Brazil,0.0,out,winter,Ligue 1,2011,False,

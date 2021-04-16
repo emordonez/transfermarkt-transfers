@@ -1,0 +1,335 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1.FC Nuremberg,Gláuber,22,Brazil,Centre-Back,CB,1500000.0,Palmeiras,Brazil,500000.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Leon Benko,22,Croatia,Centre-Forward,CF,750000.0,Varteks,Croatia,400000.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Ralf Schmidt,20,Germany,Left-Back,LB,400000.0,Carl Zeiss Jena,Germany,200000.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Petar Jelic,19,Bosnia-Herzegovina,Centre-Forward,CF,,Modrica Maxima,Bosnia-Herzegovina,100000.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Joshua Kennedy,23,Australia,Centre-Forward,CF,1000000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Marco Engelhardt,25,Germany,Defensive Midfield,DM,1300000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Tomás Galásek,33,Czech Republic,Defensive Midfield,DM,2500000.0,Ajax,Netherlands,0.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Gerald Sibon,32,Netherlands,Centre-Forward,CF,1500000.0,PSV Eindhoven,Netherlands,0.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Vratislav Gresko,29,Slovakia,Left-Back,LB,2000000.0,Blackburn,England,0.0,in,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Dean Heffernan,26,Australia,Left-Back,LB,300000.0,Central Coast,Australia,0.0,in,summer,1 Bundesliga,2006,True,free loan
+1.FC Nuremberg,Michael Beauchamp,25,Australia,Centre-Back,CB,275000.0,Central Coast,Australia,0.0,in,summer,1 Bundesliga,2006,True,free loan
+1.FC Nuremberg,Stefan Kießling,22,Germany,Centre-Forward,CF,5000000.0,Bay. Leverkusen,Germany,6500000.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Sezer Öztürk,20,Turkey,Attacking Midfield,AM,500000.0,Manisaspor,Turkey,300000.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Maik Wagefeld,25,Germany,Defensive Midfield,DM,750000.0,Hansa Rostock,Germany,200000.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Benjamin Lense,27,Germany,Right-Back,RB,600000.0,VfL Bochum,Germany,200000.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Philipp Tschauner,20,Germany,Goalkeeper,GK,250000.0,1860 Munich,Germany,150000.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Ralf Schmidt,20,Germany,Left-Back,LB,400000.0,Carl Zeiss Jena,Germany,75000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+1.FC Nuremberg,Sven Müller,26,Germany,Right Midfield,RM,750000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Lars Müller,30,Germany,Left-Back,LB,600000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Markus Daun,25,Germany,Centre-Forward,CF,500000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Mario Cantaluppi,32,Switzerland,Defensive Midfield,DM,2500000.0,FC Luzern,Switzerland,0.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Adel Chedli,29,Tunisia,Central Midfield,CM,600000.0,FC Sion,Switzerland,0.0,out,summer,1 Bundesliga,2006,False,
+1.FC Nuremberg,Petar Jelic,19,Bosnia-Herzegovina,Centre-Forward,CF,650000.0,Carl Zeiss Jena,Germany,0.0,out,summer,1 Bundesliga,2006,True,free loan
+1.FC Nuremberg,Gláuber,22,Brazil,Centre-Back,CB,1500000.0,Palmeiras,Brazil,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+1.FC Nuremberg,Matthew Spiranovic,18,Australia,Centre-Back,CB,50000.0,A.I.S.,Australia,50000.0,in,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Edú,24,Brazil,Centre-Forward,CF,1500000.0,VfL Bochum,Germany,1000000.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Chadli Amri,21,Algeria,Right Winger,RW,750000.0,Saarbrücken,Germany,500000.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Imre Szabics,25,Hungary,Second Striker,SS,700000.0,1. FC Köln,Germany,250000.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Mimoun Azaouagh,23,Germany,Attacking Midfield,AM,800000.0,FC Schalke 04,Germany,150000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+1.FSV Mainz 05,Du-ri Cha,25,"Korea, South",Right-Back,RB,1000000.0,E. Frankfurt,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Markus Feulner,24,Germany,Central Midfield,CM,1800000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Daniel Ischdonat,30,Germany,Goalkeeper,GK,175000.0,Eintracht Trier,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Marius Niculae,25,Romania,Centre-Forward,CF,1800000.0,Standard Liège,Belgium,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Bakary Diakité,25,Mali,Second Striker,SS,350000.0,SV Wehen,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Ralph Gunesch,22,Germany,Centre-Back,CB,250000.0,FC St. Pauli,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Antônio da Silva,28,Brazil,Attacking Midfield,AM,4000000.0,VfB Stuttgart,Germany,1500000.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Michael Thurk,30,Germany,Centre-Forward,CF,3250000.0,E. Frankfurt,Germany,1500000.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Mathias Abel,25,Germany,Centre-Back,CB,1500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Dennis Weiland,31,Germany,Left Midfield,LM,300000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Benjamin Auer,25,Germany,Centre-Forward,CF,2000000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Claudius Weber,28,Germany,Centre-Forward,CF,50000.0,VfB Lübeck,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Nassim Banouas,19,Germany,Centre-Back,CB,,Spfr. Siegen,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Tom Geißler,22,Germany,Central Midfield,CM,600000.0,Erzgebirge Aue,Germany,25000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+1.FSV Mainz 05,Tamás Bódog,35,Hungary,Centre-Back,CB,150000.0,Career break,,,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Niclas Weiland,33,Germany,Right Winger,RW,250000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Mohamed Zidan,24,Egypt,Second Striker,SS,3800000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+1.FSV Mainz 05,Mohamed Zidan,25,Egypt,Second Striker,SS,3800000.0,Werder Bremen,Germany,2800000.0,in,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Leon Andreasen,23,Denmark,Central Midfield,CM,2300000.0,Werder Bremen,Germany,200000.0,in,winter,1 Bundesliga,2006,True,loan with fee
+1.FSV Mainz 05,Elkin Soto,26,Colombia,Central Midfield,CM,500000.0,Once Caldas,Colombia,0.0,in,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Christoph Teinert,26,Germany,Centre-Forward,CF,600000.0,Unterhaching,Germany,,in,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Edú,25,Brazil,Centre-Forward,CF,1500000.0,Suwon Bluewings,"Korea, South",1400000.0,out,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Christof Babatz,32,Germany,Defensive Midfield,DM,500000.0,TuS Koblenz,Germany,50000.0,out,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Tobias Damm,23,Germany,Centre-Forward,CF,250000.0,Wuppertaler SV,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+1.FSV Mainz 05,Conor Casey,25,United States,Centre-Forward,CF,700000.0,Toronto FC,United States,0.0,out,winter,1 Bundesliga,2006,False,
+1.FSV Mainz 05,Christoph Teinert,26,Germany,Centre-Forward,CF,600000.0,FC Augsburg,Germany,15000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+1.FSV Mainz 05,Bakary Diakité,26,Mali,Second Striker,SS,350000.0,TuS Koblenz,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+Alemannia Aachen,Matthias Lehmann,23,Germany,Defensive Midfield,DM,1600000.0,1860 Munich,Germany,900000.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Nico Herzig,22,Germany,Centre-Back,CB,1000000.0,W. Burghausen,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Emmanuel Krontiris,23,Germany,Centre-Forward,CF,300000.0,1860 Munich,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Jeffrey Leiwakabessy,25,Netherlands,Left-Back,LB,650000.0,NEC Nijmegen,Netherlands,0.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Vedad Ibisevic,21,Bosnia-Herzegovina,Centre-Forward,CF,250000.0,Paris SG,France,0.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Szilard Nemeth,28,Slovakia,Second Striker,SS,3500000.0,Middlesbrough,England,0.0,in,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Willi Landgraf,37,Germany,Right-Back,RB,100000.0,Schalke 04 II,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Florian Bruns,26,Germany,Defensive Midfield,DM,400000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Goran Šukalo,24,Slovenia,Defensive Midfield,DM,500000.0,TuS Koblenz,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Bernd Rauw,26,Belgium,Centre-Back,CB,250000.0,MVV Maastricht,Netherlands,0.0,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Erwin Koen,27,Netherlands,Left Winger,LW,550000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Erik Meijer,36,Netherlands,Centre-Forward,CF,350000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+Alemannia Aachen,Emil Noll,28,Germany,Centre-Back,CB,550000.0,TuS Koblenz,Germany,50000.0,out,winter,1 Bundesliga,2006,False,
+Arminia Bielefeld,Christian Eigler,22,Germany,Right Winger,RW,1750000.0,Greuther Fürth,Germany,1000000.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Marcel Ndjeng,24,Cameroon,Right Midfield,RM,1100000.0,SC Paderborn,Germany,500000.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Jonas Kamper,23,Denmark,Right Midfield,RM,400000.0,Bröndby IF,Denmark,400000.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Markus Bollmann,25,Germany,Centre-Back,CB,800000.0,SC Paderborn,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Jörg Böhme,32,Germany,Left Midfield,LM,500000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Thorben Marx,25,Germany,Defensive Midfield,DM,1000000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Abdelaziz Ahanfouf,28,Morocco,Centre-Forward,CF,1800000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Marc Ziegler,30,Germany,Goalkeeper,GK,400000.0,Saarbrücken,Germany,0.0,in,summer,1 Bundesliga,2006,True,free loan
+Arminia Bielefeld,Umut Kocin,18,Turkey,Attacking Midfield,AM,,Hamburg U19,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Isaac Boakye,24,Ghana,Centre-Forward,CF,2800000.0,VfL Wolfsburg,Germany,1200000.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Michael Fink,24,Germany,Defensive Midfield,DM,1700000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Roberto Pinto,27,Portugal,Right Midfield,RM,500000.0,Grasshoppers,Switzerland,0.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Marco Küntzel,30,Germany,Centre-Forward,CF,1000000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Massimilian Porcello,26,Germany,Central Midfield,CM,750000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Dennis Eilhoff,23,Germany,Goalkeeper,GK,500000.0,TuS Koblenz,Germany,0.0,out,summer,1 Bundesliga,2006,True,free loan
+Arminia Bielefeld,Christian Wieczorek,20,Germany,Attacking Midfield,AM,150000.0,FC Vaduz,Switzerland,25000.0,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Detlev Dammeier,37,Germany,Defensive Midfield,DM,250000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+Arminia Bielefeld,Diego León,22,Spain,Attacking Midfield,AM,300000.0,RM Castilla,Spain,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Arminia Bielefeld,Radomir Djalovic,23,Montenegro,Centre-Forward,CF,600000.0,NK Zagreb,Croatia,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Bayer 04 Leverkusen,Stefan Kießling,22,Germany,Centre-Forward,CF,5000000.0,1.FC Nuremberg,Germany,6500000.0,in,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Karim Haggui,22,Tunisia,Centre-Back,CB,4000000.0,R. Strasbourg,France,2780000.0,in,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Sergej Barbarez,34,Bosnia-Herzegovina,Second Striker,SS,3000000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Dimitar Berbatov,25,Bulgaria,Centre-Forward,CF,17000000.0,Spurs,England,15700000.0,out,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Jacek Krzynowek,30,Poland,Left Midfield,LM,3250000.0,VfL Wolfsburg,Germany,1350000.0,out,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Clemens Fritz,25,Germany,Central Midfield,CM,2500000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Jens Nowotny,32,Germany,Sweeper,SW,2000000.0,Dinamo Zagreb,Croatia,0.0,out,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Tom Starke,25,Germany,Goalkeeper,GK,650000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Bayer 04 Leverkusen,Josip Tadic,19,Croatia,Centre-Forward,CF,400000.0,Dinamo Zagreb,Croatia,500000.0,out,winter,1 Bundesliga,2006,False,
+Bayern Munich,Lukas Podolski,21,Germany,Second Striker,SS,12000000.0,1. FC Köln,Germany,10000000.0,in,summer,1 Bundesliga,2006,False,
+Bayern Munich,Daniel Van Buyten,28,Belgium,Centre-Back,CB,14000000.0,Hamburger SV,Germany,8000000.0,in,summer,1 Bundesliga,2006,False,
+Bayern Munich,Mark van Bommel,29,Netherlands,Defensive Midfield,DM,12000000.0,FC Barcelona,Spain,6000000.0,in,summer,1 Bundesliga,2006,False,
+Bayern Munich,Paolo Guerrero,22,Peru,Centre-Forward,CF,3000000.0,Hamburger SV,Germany,2500000.0,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Michael Ballack,29,Germany,Central Midfield,CM,35000000.0,Chelsea,England,0.0,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Zé Roberto,31,Brazil,Left Midfield,LM,8500000.0,Nacional,Uruguay,0.0,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Bixente Lizarazu,36,France,Left-Back,LB,1000000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Jens Jeremies,32,Germany,Defensive Midfield,DM,1000000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Jan Schlösser,23,Germany,Goalkeeper,GK,100000.0,Without Club,,,out,summer,1 Bundesliga,2006,False,
+Bayern Munich,Julio dos Santos,23,Paraguay,Central Midfield,CM,1500000.0,VfL Wolfsburg,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+Bayern Munich,Sebastian Deisler,27,Germany,Right Midfield,RM,5000000.0,Retired,,,out,winter,1 Bundesliga,2006,False,
+Borussia Dortmund,Nelson Haedo Valdez,22,Paraguay,Centre-Forward,CF,5000000.0,Werder Bremen,Germany,4700000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Alex Frei,26,Switzerland,Centre-Forward,CF,10000000.0,Stade Rennais,France,4099999.9999999995,in,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Tinga,28,Brazil,Central Midfield,CM,3000000.0,Internacional,Brazil,2900000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Martin Amedick,23,Germany,Centre-Back,CB,750000.0,E. Braunschweig,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Steven Pienaar,24,South Africa,Left Winger,LW,3500000.0,Ajax,Netherlands,0.0,in,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Tomas Rosicky,25,Czech Republic,Attacking Midfield,AM,11000000.0,Arsenal,England,10000000.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,David Odonkor,22,Germany,Right Winger,RW,4500000.0,Real Betis,Spain,6500000.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Nizamettin Caliskan,19,Turkey,Central Midfield,CM,250000.0,Manisaspor,Turkey,250000.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Delron Buckley,28,South Africa,Left Winger,LW,800000.0,FC Basel,Switzerland,200000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+Borussia Dortmund,Dennis Gentenaar,30,Netherlands,Goalkeeper,GK,1200000.0,Ajax,Netherlands,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Salvatore Gambino,22,Germany,Second Striker,SS,800000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Jan Koller,33,Czech Republic,Centre-Forward,CF,6500000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Cedric van der Gun,27,Netherlands,Centre-Forward,CF,500000.0,FC Utrecht,Netherlands,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Dortmund,Marcel Höttecke,19,Germany,Goalkeeper,GK,50000.0,Rot Weiss Ahlen,Germany,500000.0,in,winter,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Federico Insúa,26,Argentina,Attacking Midfield,AM,4500000.0,Boca Juniors,Argentina,4500000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,David Degen,23,Switzerland,Right Midfield,RM,1800000.0,FC Basel,Switzerland,1000000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Christofer Heimeroth,24,Germany,Goalkeeper,GK,400000.0,FC Schalke 04,Germany,750000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Sebastian Svärd,23,Denmark,Defensive Midfield,DM,700000.0,Arsenal,England,300000.0,in,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Michael Delura,21,Germany,Right Winger,RW,700000.0,FC Schalke 04,Germany,100000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+Borussia Mönchengladbach,Thomas Broich,25,Germany,Attacking Midfield,AM,1700000.0,1. FC Köln,Germany,500000.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Sead Ramovic,27,Germany,Goalkeeper,GK,175000.0,Tromsø IL,Norway,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Jörg Böhme,32,Germany,Left Midfield,LM,500000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Darius Kampa,29,Germany,Goalkeeper,GK,350000.0,Zalaegerszeg,Hungary,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Niels Oude Kamphuis,28,Netherlands,Defensive Midfield,DM,1750000.0,Twente FC,Netherlands,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Jeff Strasser,31,Luxembourg,Centre-Back,CB,1500000.0,R. Strasbourg,France,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Milan Fukal,31,Czech Republic,Centre-Back,CB,800000.0,FK Jablonec,Czech Republic,0.0,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Krisztián Lisztes,29,Hungary,Attacking Midfield,AM,400000.0,Without Club,,,out,summer,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Mikkel Thygesen,22,Denmark,Central Midfield,CM,1300000.0,FC Midtjylland,Denmark,1950000.0,in,winter,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Steve Gohouri,25,Cote d'Ivoire,Centre-Back,CB,1500000.0,BSC Young Boys,Switzerland,1500000.0,in,winter,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Alexander Baumjohann,19,Germany,Attacking Midfield,AM,100000.0,FC Schalke 04,Germany,250000.0,in,winter,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Thomas Helveg,35,Denmark,Right-Back,RB,300000.0,Odense BK,Denmark,0.0,out,winter,1 Bundesliga,2006,False,
+Borussia Mönchengladbach,Vaclav Sverkos,23,Czech Republic,Centre-Forward,CF,1000000.0,Austria Vienna,Austria,0.0,out,winter,1 Bundesliga,2006,True,free loan
+Eintracht Frankfurt,Michael Thurk,30,Germany,Centre-Forward,CF,3250000.0,1.FSV Mainz 05,Germany,1500000.0,in,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Naohiro Takahara,27,Japan,Centre-Forward,CF,1500000.0,Hamburger SV,Germany,750000.0,in,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Michael Fink,24,Germany,Defensive Midfield,DM,1700000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Albert Streit,26,Germany,Right Winger,RW,3200000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Sotiris Kyrgiakos,26,Greece,Centre-Back,CB,7000000.0,Rangers,Scotland,0.0,in,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Francisco Copado,32,Germany,Second Striker,SS,1600000.0,TSG Hoffenheim,Germany,300000.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Alexander Schur,34,Germany,Defensive Midfield,DM,300000.0,SF Seligenstadt,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Stefan Lexa,29,Austria,Right Winger,RW,750000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Du-ri Cha,25,"Korea, South",Right-Back,RB,1000000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Robert Cue,22,Germany,Goalkeeper,GK,50000.0,FSV Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Jurica Puljiz,26,Croatia,Centre-Back,CB,100000.0,Siroki Brijeg,Bosnia-Herzegovina,0.0,out,summer,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Marcel Heller,20,Germany,Right Midfield,RM,100000.0,Spfr. Siegen,Germany,40000.0,in,winter,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Daniyel Cimen,21,Germany,Centre-Back,CB,500000.0,E. Braunschweig,Germany,200000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+Eintracht Frankfurt,Alexander Huber,21,Tajikistan,Right-Back,RB,150000.0,E. Braunschweig,Germany,100000.0,out,winter,1 Bundesliga,2006,False,
+Eintracht Frankfurt,Dominik Stroh-Engel,21,Germany,Centre-Forward,CF,150000.0,SV Wehen,Germany,80000.0,out,winter,1 Bundesliga,2006,False,
+FC Energie Cottbus,Vlad Munteanu,25,Romania,Left Midfield,LM,500000.0,Dinamo,Romania,200000.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Daniel Ziebig,23,Germany,Left-Back,LB,500000.0,Hamburger SV,Germany,150000.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Stiven Rivic,20,Croatia,Attacking Midfield,AM,200000.0,NK Istra,Croatia,135000.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Przemyslaw Trytko,18,Poland,Centre-Forward,CF,,Gwarek Zabrze,Poland,50000.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Gerhard Tremmel,27,Germany,Goalkeeper,GK,625000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Jiayi Shao,26,China,Left Midfield,LM,750000.0,1860 Munich,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Marco Küntzel,30,Germany,Centre-Forward,CF,1000000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Mariusz Kukielka,29,Poland,Centre-Back,CB,500000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Igor Mitreski,27,North Macedonia,Centre-Back,CB,1500000.0,B. Jerusalem,Israel,0.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Lukasz Kanik,18,Poland,Centre-Back,CB,,Gornik U19,Poland,25000.0,in,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Youssef Mokhtari,27,Morocco,Attacking Midfield,AM,1000000.0,MSV Duisburg,Germany,200000.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Gregg Berhalter,32,United States,Centre-Back,CB,600000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Daniel Gomez,27,France,Centre-Forward,CF,500000.0,FC Metz,France,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Martin Hysky,30,Czech Republic,Centre-Back,CB,600000.0,RW Essen,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Daniel Frahn,19,Germany,Centre-Forward,CF,50000.0,Hertha BSC II,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Kenan Sahin,21,Turkey,Centre-Forward,CF,250000.0,TuS Koblenz,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Markus Dworrak,28,Germany,Left Winger,LW,550000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Dr. Gunnar Berntsen,28,Germany,Goalkeeper,GK,250000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+FC Energie Cottbus,Daniel Ziebig,23,Germany,Left-Back,LB,500000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+FC Energie Cottbus,Ervin Skela,30,Albania,Attacking Midfield,AM,1100000.0,Ascoli,Italy,0.0,in,winter,1 Bundesliga,2006,False,
+FC Energie Cottbus,Mario Cvitanovic,31,Croatia,Centre-Back,CB,700000.0,Dinamo Zagreb,Croatia,0.0,in,winter,1 Bundesliga,2006,False,
+FC Schalke 04,Mathias Abel,25,Germany,Centre-Back,CB,1500000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Halil Altintop,23,Turkey,Attacking Midfield,AM,7500000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Peter Lövenkrands,26,Denmark,Centre-Forward,CF,3400000.0,Rangers,Scotland,0.0,in,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Christofer Heimeroth,24,Germany,Goalkeeper,GK,400000.0,Bor. M'gladbach,Germany,750000.0,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Mimoun Azaouagh,23,Germany,Attacking Midfield,AM,800000.0,1.FSV Mainz 05,Germany,150000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+FC Schalke 04,Michael Delura,21,Germany,Right Winger,RW,700000.0,Bor. M'gladbach,Germany,100000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+FC Schalke 04,Christian Poulsen,26,Denmark,Defensive Midfield,DM,8000000.0,Sevilla FC,Spain,0.0,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Thomas Kläsener,29,Germany,Centre-Back,CB,300000.0,RW Essen,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Simon Cziommer,25,Germany,Central Midfield,CM,1000000.0,AZ Alkmaar,Netherlands,0.0,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Niko Bungert,19,Germany,Centre-Back,CB,100000.0,K. Offenbach,Germany,15000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+FC Schalke 04,Ebbe Sand,33,Denmark,Centre-Forward,CF,1250000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Marco van Hoogdalem,34,Netherlands,Centre-Back,CB,75000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Tomasz Waldoch,35,Poland,Centre-Back,CB,300000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+FC Schalke 04,Frank Rost,33,Germany,Goalkeeper,GK,5000000.0,Hamburger SV,Germany,1500000.0,out,winter,1 Bundesliga,2006,False,
+FC Schalke 04,Alexander Baumjohann,19,Germany,Attacking Midfield,AM,100000.0,Bor. M'gladbach,Germany,250000.0,out,winter,1 Bundesliga,2006,False,
+FC Schalke 04,Mathias Abel,25,Germany,Centre-Back,CB,1500000.0,Hamburger SV,Germany,150000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+Hamburger SV,Vincent Kompany,20,Belgium,Centre-Back,CB,13500000.0,RSC Anderlecht,Belgium,10500000.0,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Joris Mathijsen,26,Netherlands,Centre-Back,CB,6000000.0,AZ Alkmaar,Netherlands,6000000.0,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Boubacar Sanogo,23,Cote d'Ivoire,Centre-Forward,CF,4000000.0,1.FC K'lautern,Germany,3800000.0,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Juan Pablo Sorín,30,Argentina,Left-Back,LB,5500000.0,Villarreal,Spain,3000000.0,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Paolo Guerrero,22,Peru,Centre-Forward,CF,3000000.0,FC Bayern,Germany,2500000.0,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Danijel Ljuboja,27,Serbia,Centre-Forward,CF,3750000.0,VfB Stuttgart,Germany,850000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+Hamburger SV,Collin Benjamin,27,Namibia,Defensive Midfield,DM,800000.0,Career break,,,in,summer,1 Bundesliga,2006,False,
+Hamburger SV,Khalid Boulahrouz,24,Netherlands,Centre-Back,CB,13000000.0,Chelsea,England,13200000.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Daniel Van Buyten,28,Belgium,Centre-Back,CB,14000000.0,FC Bayern,Germany,8000000.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Naohiro Takahara,27,Japan,Centre-Forward,CF,1500000.0,E. Frankfurt,Germany,750000.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Daniel Ziebig,23,Germany,Left-Back,LB,500000.0,Energie Cottbus,Germany,150000.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Stefan Beinlich,34,Germany,Attacking Midfield,AM,1500000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Charles Takyi,21,Ghana,Attacking Midfield,AM,250000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Sergej Barbarez,34,Bosnia-Herzegovina,Second Striker,SS,3000000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hamburger SV,Mustafa Kucukovic,19,Germany,Centre-Forward,CF,500000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2006,True,free loan
+Hamburger SV,Miso Brecko,22,Slovenia,Right-Back,RB,550000.0,Erzgebirge Aue,Germany,30000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+Hamburger SV,Aílton,32,Brazil,Centre-Forward,CF,2500000.0,Besiktas,Turkey,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Hamburger SV,Ivica Olic,27,Croatia,Centre-Forward,CF,5250000.0,CSKA Moscow,Russia,2000000.0,in,winter,1 Bundesliga,2006,False,
+Hamburger SV,Frank Rost,33,Germany,Goalkeeper,GK,5000000.0,FC Schalke 04,Germany,1500000.0,in,winter,1 Bundesliga,2006,False,
+Hamburger SV,Mathias Abel,25,Germany,Centre-Back,CB,1500000.0,FC Schalke 04,Germany,150000.0,in,winter,1 Bundesliga,2006,True,loan with fee
+Hamburger SV,Benjamin Lauth,25,Germany,Centre-Forward,CF,1500000.0,VfB Stuttgart,Germany,400000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+Hamburger SV,Markus Karl,20,Germany,Defensive Midfield,DM,250000.0,Greuther Fürth,Germany,100000.0,out,winter,1 Bundesliga,2006,False,
+Hannover 96,Gunnar Heidar Thorvaldsson,24,Iceland,Centre-Forward,CF,1200000.0,Halmstads BK,Sweden,500000.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Erik Jendrisek,19,Slovakia,Centre-Forward,CF,700000.0,Ruzomberok,Slovakia,500000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+Hannover 96,Szabolcs Huszti,23,Hungary,Central Midfield,CM,1000000.0,FC Metz,France,300000.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Christoffer Andersson,27,Sweden,Right-Back,RB,1500000.0,Lillestrøm SK,Norway,200000.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Timo Nagy,23,Germany,Left-Back,LB,400000.0,W. Burghausen,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Arnold Bruggink,28,Netherlands,Attacking Midfield,AM,1250000.0,Heerenveen,Netherlands,0.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Richard Golz,38,Germany,Goalkeeper,GK,200000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Frank Fahrenhorst,28,Germany,Centre-Back,CB,3250000.0,Werder Bremen,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+Hannover 96,Per Mertesacker,21,Germany,Centre-Back,CB,10000000.0,Werder Bremen,Germany,4700000.0,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Daniel Stendel,32,Germany,Right Winger,RW,300000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Mohamadou Idrissou,26,Cameroon,Centre-Forward,CF,600000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Christoph Dabrowski,28,Germany,Defensive Midfield,DM,2200000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Denis Wolf,23,Philippines,Attacking Midfield,AM,200000.0,F. Düsseldorf,Germany,30000.0,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Roman Wallner,24,Austria,Centre-Forward,CF,750000.0,Austria Vienna,Austria,,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Ricardo Sousa,27,Portugal,Attacking Midfield,AM,800000.0,Boavista,Portugal,0.0,out,summer,1 Bundesliga,2006,True,free loan
+Hannover 96,Sezai Demircan,21,Turkey,Left Winger,LW,75000.0,Kasimpasa,Turkey,,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Thomas Christiansen,33,Spain,Centre-Forward,CF,800000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+Hannover 96,Michael Delura,20,Germany,Right Winger,RW,700000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Hannover 96,Jonas Troest,21,Denmark,Centre-Back,CB,800000.0,Odense BK,Denmark,0.0,out,winter,1 Bundesliga,2006,False,
+Hannover 96,Timo Nagy,23,Germany,Left-Back,LB,400000.0,W. Burghausen,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+Hertha BSC,Marko Pantelic,27,Serbia,Centre-Forward,CF,3800000.0,Red Star,Serbia,2600000.0,in,summer,1 Bundesliga,2006,False,
+Hertha BSC,Srdjan Lakic,22,Croatia,Centre-Forward,CF,,Kamen Ingrad,Croatia,500000.0,in,summer,1 Bundesliga,2006,False,
+Hertha BSC,Christian Giménez,31,Argentina,Centre-Forward,CF,1000000.0,Marseille,France,0.0,in,summer,1 Bundesliga,2006,True,free loan
+Hertha BSC,Marcelinho Paraíba,31,Brazil,Attacking Midfield,AM,10000000.0,Trabzonspor,Turkey,2500000.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Alexander Madlung,23,Germany,Centre-Back,CB,1400000.0,VfL Wolfsburg,Germany,1300000.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Sejad Salihovic,21,Bosnia-Herzegovina,Central Midfield,CM,350000.0,TSG Hoffenheim,Germany,250000.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Oliver Schröder,26,Germany,Defensive Midfield,DM,1500000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Gerhard Tremmel,27,Germany,Goalkeeper,GK,625000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Niko Kovac,34,Croatia,Defensive Midfield,DM,1500000.0,RB Salzburg,Austria,0.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Thorben Marx,25,Germany,Defensive Midfield,DM,1000000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Alexander Ludwig,22,Germany,Central Midfield,CM,400000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+Hertha BSC,Pascal Bieler,20,Germany,Left-Back,LB,200000.0,RW Essen,Germany,50000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+Hertha BSC,Marko Pantelic,27,Serbia,Centre-Forward,CF,3500000.0,Red Star,Serbia,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Hertha BSC,Vaclav Sverkos,22,Czech Republic,Centre-Forward,CF,1000000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+Hertha BSC,Mineiro,31,Brazil,Defensive Midfield,DM,3000000.0,São Paulo,Brazil,0.0,in,winter,1 Bundesliga,2006,False,
+Hertha BSC,Christopher Samba,22,Congo,Centre-Back,CB,500000.0,Blackburn,England,500000.0,out,winter,1 Bundesliga,2006,False,
+Hertha BSC,Solomon Okoronkwo,19,Nigeria,Centre-Forward,CF,400000.0,RW Essen,Germany,50000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+SV Werder Bremen,Diego,21,Brazil,Attacking Midfield,AM,8000000.0,FC Porto,Portugal,6000000.0,in,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Per Mertesacker,21,Germany,Centre-Back,CB,10000000.0,Hannover 96,Germany,4700000.0,in,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Hugo Almeida,22,Portugal,Centre-Forward,CF,2500000.0,FC Porto,Portugal,1000000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+SV Werder Bremen,Christian Vander,25,Germany,Goalkeeper,GK,300000.0,VfL Bochum,Germany,200000.0,in,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Clemens Fritz,25,Germany,Central Midfield,CM,2500000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Pierre Womé,27,Cameroon,Left-Back,LB,5000000.0,Inter,Italy,0.0,in,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Nelson Haedo Valdez,22,Paraguay,Centre-Forward,CF,5000000.0,Bor. Dortmund,Germany,4700000.0,out,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Johan Micoud,32,France,Attacking Midfield,AM,8500000.0,G. Bordeaux,France,3000000.0,out,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Marco Stier,22,Germany,Left Winger,LW,150000.0,FC Bayern II,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Pekka Lagerblom,23,Finland,Defensive Midfield,DM,500000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,Francis Banecki,20,Germany,Centre-Back,CB,200000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2006,True,free loan
+SV Werder Bremen,Frank Fahrenhorst,28,Germany,Centre-Back,CB,3250000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+SV Werder Bremen,John Jairo Mosquera,18,Colombia,Centre-Forward,CF,500000.0,W. Burghausen,Germany,0.0,out,summer,1 Bundesliga,2006,True,free loan
+SV Werder Bremen,Jelle Van Damme,22,Belgium,Centre-Back,CB,1250000.0,Southampton,England,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+SV Werder Bremen,Christian Vander,25,Germany,Goalkeeper,GK,300000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+SV Werder Bremen,Markus Rosenberg,24,Sweden,Centre-Forward,CF,4500000.0,Ajax,Netherlands,3000000.0,in,winter,1 Bundesliga,2006,False,
+SV Werder Bremen,Peter Niemeyer,23,Germany,Defensive Midfield,DM,2500000.0,Twente FC,Netherlands,450000.0,in,winter,1 Bundesliga,2006,False,
+SV Werder Bremen,Mohamed Zidan,25,Egypt,Second Striker,SS,3800000.0,1.FSV Mainz 05,Germany,2800000.0,out,winter,1 Bundesliga,2006,False,
+SV Werder Bremen,Leon Andreasen,23,Denmark,Central Midfield,CM,2300000.0,1.FSV Mainz 05,Germany,200000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+VfB Stuttgart,Ricardo Osorio,26,Mexico,Right-Back,RB,3000000.0,CD Cruz Azul,Mexico,3500000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Arthur Boka,23,Cote d'Ivoire,Left-Back,LB,2350000.0,R. Strasbourg,France,3000000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Alexander Farnerud,22,Sweden,Central Midfield,CM,2000000.0,R. Strasbourg,France,2000000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Danijel Ljuboja,27,Serbia,Centre-Forward,CF,3750000.0,Paris SG,France,2000000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Antônio da Silva,28,Brazil,Attacking Midfield,AM,4000000.0,1.FSV Mainz 05,Germany,1500000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Roberto Hilbert,21,Germany,Right-Back,RB,1500000.0,Greuther Fürth,Germany,1300000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Pável Pardo,29,Mexico,Defensive Midfield,DM,2000000.0,América,Mexico,1000000.0,in,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Andreas Hinkel,24,Germany,Right-Back,RB,4000000.0,Sevilla FC,Spain,4000000.0,out,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Jesper Grönkjaer,28,Denmark,Left Winger,LW,4000000.0,FC Copenhagen,Denmark,2000000.0,out,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Christian Tiffert,24,Germany,Defensive Midfield,DM,2500000.0,RB Salzburg,Austria,1300000.0,out,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Danijel Ljuboja,27,Serbia,Centre-Forward,CF,3750000.0,Hamburger SV,Germany,850000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+VfB Stuttgart,Boris Zivkovic,30,Croatia,Right-Back,RB,700000.0,Hajduk Split,Croatia,0.0,out,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Mario Carevic,24,Croatia,Left Midfield,LM,750000.0,Hajduk Split,Croatia,0.0,out,summer,1 Bundesliga,2006,True,free loan
+VfB Stuttgart,Élson,25,Brazil,Attacking Midfield,AM,500000.0,Goiás EC,Brazil,0.0,out,summer,1 Bundesliga,2006,True,free loan
+VfB Stuttgart,Élson,24,Brazil,Attacking Midfield,AM,500000.0,Cruzeiro,Brazil,0.0,out,summer,1 Bundesliga,2006,True,free loan
+VfB Stuttgart,Zvonimir Soldo,38,Croatia,Defensive Midfield,DM,500000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+VfB Stuttgart,Danijel Ljuboja,27,Serbia,Centre-Forward,CF,3750000.0,Paris SG,France,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+VfB Stuttgart,Benjamin Lauth,25,Germany,Centre-Forward,CF,1500000.0,Hamburger SV,Germany,400000.0,in,winter,1 Bundesliga,2006,True,loan with fee
+VfB Stuttgart,Jon Dahl Tomasson,30,Denmark,Centre-Forward,CF,6000000.0,Villarreal,Spain,500000.0,out,winter,1 Bundesliga,2006,True,loan with fee
+VfB Stuttgart,Silvio Meißner,33,Germany,Defensive Midfield,DM,1300000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+VfB Stuttgart,Bernd Nehrig,20,Germany,Defensive Midfield,DM,350000.0,Unterhaching,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+VfL Bochum,Ivo Ilicevic,19,Croatia,Left Winger,LW,250000.0,SV Darmstadt 98,Germany,600000.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Theofanis Gekas,26,Greece,Centre-Forward,CF,2750000.0,Panathinaikos,Greece,500000.0,in,summer,1 Bundesliga,2006,True,loan with fee
+VfL Bochum,Benjamin Lense,27,Germany,Right-Back,RB,600000.0,1.FC Nuremberg,Germany,200000.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Christoph Dabrowski,28,Germany,Defensive Midfield,DM,2200000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Oliver Schröder,26,Germany,Defensive Midfield,DM,1500000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Alexander Bade,35,Germany,Goalkeeper,GK,400000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Benjamin Auer,25,Germany,Centre-Forward,CF,2000000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Bochum,Edú,24,Brazil,Centre-Forward,CF,1500000.0,1.FSV Mainz 05,Germany,1000000.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Christian Vander,25,Germany,Goalkeeper,GK,300000.0,Werder Bremen,Germany,200000.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Mamadou Diabang,27,Senegal,Centre-Forward,CF,700000.0,FC Augsburg,Germany,200000.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Sascha Höhle,23,Germany,midfield,midfield,50000.0,Wattenscheid 09,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Claus Costa,22,Germany,Defensive Midfield,DM,50000.0,F. Düsseldorf,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Haluk Türkeri,19,Turkey,Centre-Forward,CF,100000.0,Karlsruhe II,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Alexander Thamm,23,Germany,Centre-Back,CB,75000.0,Preußen Münster,Germany,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Moharram Navidkia,23,Iran,Attacking Midfield,AM,750000.0,Sepahan,Iran,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Rein van Duijnhoven,38,Netherlands,Goalkeeper,GK,500000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,Sören Colding,33,Denmark,Right-Back,RB,650000.0,Retired,,,out,summer,1 Bundesliga,2006,False,
+VfL Bochum,China,25,Brazil,Right-Back,RB,600000.0,Flamengo,Brazil,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+VfL Bochum,Joël Epalle,28,Cameroon,Right Winger,RW,1500000.0,Iraklis,Greece,600000.0,in,winter,1 Bundesliga,2006,False,
+VfL Bochum,Anthar Yahia,24,Algeria,Centre-Back,CB,1750000.0,OGC Nice,France,50000.0,in,winter,1 Bundesliga,2006,True,loan with fee
+VfL Bochum,Jaroslav Drobny,27,Czech Republic,Goalkeeper,GK,800000.0,Without Club,,0.0,in,winter,1 Bundesliga,2006,False,
+VfL Bochum,Ersan Tekkan,22,Germany,Attacking Midfield,AM,150000.0,Antalyaspor,Turkey,100000.0,out,winter,1 Bundesliga,2006,False,
+VfL Bochum,Benjamin Auer,25,Germany,Centre-Forward,CF,2000000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+VfL Bochum,Thomas Rathgeber,21,Germany,Centre-Forward,CF,300000.0,Unterhaching,Germany,0.0,out,winter,1 Bundesliga,2006,True,free loan
+VfL Wolfsburg,Jonathan Santana,24,Paraguay,Central Midfield,CM,4500000.0,River Plate,Argentina,3600000.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Jacek Krzynowek,30,Poland,Left Midfield,LM,3250000.0,Bay. Leverkusen,Germany,1350000.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Alexander Madlung,23,Germany,Centre-Back,CB,1400000.0,Hertha BSC,Germany,1300000.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Isaac Boakye,24,Ghana,Centre-Forward,CF,2800000.0,Arm. Bielefeld,Germany,1200000.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Michael Stegmayer,21,Germany,Left-Back,LB,250000.0,FC Bayern II,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Uwe Möhrle,26,Germany,Centre-Back,CB,1000000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Andrés D'Alessandro,25,Argentina,Attacking Midfield,AM,5750000.0,Real Zaragoza,Spain,1000000.0,out,summer,1 Bundesliga,2006,True,loan with fee
+VfL Wolfsburg,Maik Franz,24,Germany,Centre-Back,CB,1000000.0,Karlsruher SC,Germany,120000.0,out,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Levan Tskitishvili,29,Georgia,Left Midfield,LM,800000.0,Panionios,Greece,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Steve Marlet,32,France,Centre-Forward,CF,750000.0,FC Lorient,France,0.0,out,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Matthias Langkamp,22,Germany,Centre-Back,CB,400000.0,Grasshoppers,Switzerland,0.0,out,summer,1 Bundesliga,2006,True,free loan
+VfL Wolfsburg,Abuda,20,Brazil,Centre-Forward,CF,400000.0,Germ. Beerschot,Belgium,0.0,out,summer,1 Bundesliga,2006,True,free loan
+VfL Wolfsburg,Stefan Schnoor,35,Germany,Centre-Back,CB,400000.0,Without Club,,,out,summer,1 Bundesliga,2006,False,
+VfL Wolfsburg,Bojan Neziri,24,Serbia,Left-Back,LB,800000.0,Metalurg D.,Ukraine,0.0,out,summer,1 Bundesliga,2006,True,end of loan
+VfL Wolfsburg,Marcelinho Paraíba,31,Brazil,Attacking Midfield,AM,10000000.0,Trabzonspor,Turkey,2750000.0,in,winter,1 Bundesliga,2006,False,
+VfL Wolfsburg,Kamani Hill,21,United States,Centre-Forward,CF,300000.0,UCLA Bruins,United States,0.0,in,winter,1 Bundesliga,2006,False,
+VfL Wolfsburg,Julio dos Santos,23,Paraguay,Central Midfield,CM,1500000.0,FC Bayern,Germany,0.0,in,winter,1 Bundesliga,2006,True,free loan
+VfL Wolfsburg,Karsten Fischer,22,Germany,Defensive Midfield,DM,400000.0,SC Paderborn,Germany,,out,winter,1 Bundesliga,2006,False,
+VfL Wolfsburg,Rick Hoogendorp,31,Netherlands,Centre-Forward,CF,800000.0,ADO Den Haag,Netherlands,0.0,out,winter,1 Bundesliga,2006,True,free loan

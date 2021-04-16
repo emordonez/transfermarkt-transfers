@@ -1,0 +1,811 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Belenenses SAD,Gerso,25.0,Guinea-Bissau,Left Winger,LW,1250000.0,Estoril Praia,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,João Diogo,28.0,Portugal,Right-Back,RB,1250000.0,Marítimo,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Mica Pinto,23.0,Luxembourg,Left-Back,LB,400000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Fernando Llorente,25.0,Spain,Central Midfield,CM,400000.0,ACS Poli,Romania,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Domingos Duarte,21.0,Portugal,Centre-Back,CB,400000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Vítor Gomes,28.0,Portugal,Central Midfield,CM,650000.0,Moreirense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Luís Silva,23.0,Portugal,Central Midfield,CM,900000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Florent Hanin,26.0,France,Left-Back,LB,400000.0,FC St. Gallen,Switzerland,0.0,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Dinis Almeida,21.0,Portugal,Centre-Back,CB,200000.0,Monaco B,France,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Joel Pereira,20.0,Portugal,Goalkeeper,GK,,Man Utd U23,England,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Komnen Andric,21.0,Serbia,Centre-Forward,CF,350000.0,OFK Beograd,Serbia,,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Oriol Rosell,23.0,Spain,Defensive Midfield,DM,1000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,André Moreira,20.0,Portugal,Goalkeeper,GK,1000000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,João Palhinha,21.0,Portugal,Defensive Midfield,DM,1250000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Hassan Yebda,32.0,Algeria,Central Midfield,CM,1000000.0,Without Club,,,in,summer,Primeira Liga,2016,False,
+Belenenses SAD,Rúben Pinto,24.0,Portugal,Defensive Midfield,DM,2000000.0,CSKA-Sofia,Bulgaria,50000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Belenenses SAD,Diogo Ribeiro,25.0,Portugal,Centre-Forward,CF,350000.0,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Adélcio Varela,20.0,Portugal,Left-Back,LB,25000.0,AC Malveira,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Fernando Llorente,25.0,Spain,Central Midfield,CM,350000.0,ACS Poli,Romania,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Gonçalo Tavares,19.0,Portugal,Right-Back,RB,50000.0,Real SC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Rafael Floro,22.0,Portugal,Left-Back,LB,200000.0,Lusitano FCV,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Juanto Ortuño,24.0,Spain,Centre-Forward,CF,400000.0,Ponferradina,Spain,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Ricardo Ribeiro,26.0,Portugal,Goalkeeper,GK,600000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Ruizinho,27.0,Portugal,Central Midfield,CM,200000.0,Operário,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Filipe Mendes,31.0,Portugal,Goalkeeper,GK,150000.0,Real SC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,André Almeida,21.0,Portugal,Centre-Back,CB,100000.0,Real SC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Nuno Tomás,20.0,Portugal,Centre-Back,CB,50000.0,Real SC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Matt Jones,30.0,England,Goalkeeper,GK,600000.0,Elm City,United States,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,João Amorim,23.0,Portugal,Right-Back,RB,750000.0,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Ricardo Fernandes,21.0,Portugal,Goalkeeper,GK,,Fafe,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,André Teixeira,22.0,Portugal,Centre-Back,CB,250000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Gonçalo Gregório,21.0,Portugal,Centre-Forward,CF,,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Abel Aguilar,31.0,Colombia,Defensive Midfield,DM,1500000.0,Deportivo Cali,Colombia,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Fábio Nunes,23.0,Portugal,Left Winger,LW,500000.0,Tondela,Portugal,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Rafael Leme Amorim,28.0,Brazil,Centre-Back,CB,750000.0,Tondela,Portugal,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Tiago Duque,22.0,Portugal,Centre-Back,CB,325000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Traquina,27.0,Portugal,Right Winger,RW,450000.0,Coimbra,Portugal,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Adélcio Varela,20.0,Portugal,Left-Back,LB,25000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Tiago Almeida,25.0,Cape Verde,Right-Back,RB,750000.0,Moreirense,Portugal,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Ricardo Dias,25.0,Portugal,Defensive Midfield,DM,1000000.0,Feirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Tiago Silva,23.0,Portugal,Attacking Midfield,AM,750000.0,Feirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Belenenses SAD,Filipe Ferreira,25.0,Portugal,Left-Back,LB,1250000.0,Paços Ferreira,Portugal,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Tonel,36.0,Portugal,Centre-Back,CB,200000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Carlos Martins,34.0,Portugal,Attacking Midfield,AM,500000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+Belenenses SAD,Dálcio,19.0,Portugal,Attacking Midfield,AM,900000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Belenenses SAD,André Geraldes,25.0,Portugal,Right-Back,RB,1000000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Belenenses SAD,Marko Bakic,22.0,Montenegro,Central Midfield,CM,1200000.0,Fiorentina,Italy,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Belenenses SAD,Edgar Ié,22.0,Portugal,Centre-Back,CB,250000.0,Villarreal CF B,Spain,0.0,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Fábio Nunes,24.0,Portugal,Left Winger,LW,500000.0,Tondela,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Juanto Ortuño,24.0,Spain,Centre-Forward,CF,300000.0,Ponferradina,Spain,0.0,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Cristiano Figueiredo,26.0,Portugal,Goalkeeper,GK,500000.0,Panetolikos,Greece,0.0,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Lukas Spalvis,22.0,Lithuania,Centre-Forward,CF,2000000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Belenenses SAD,Maurides,22.0,Brazil,Centre-Forward,CF,850000.0,Internacional,Brazil,,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Diogo Viana,26.0,Portugal,Right-Back,RB,2200000.0,CSKA-Sofia,Bulgaria,,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Robert Ahman-Persson,29.0,Sweden,Defensive Midfield,DM,600000.0,Örebro SK,Sweden,,in,winter,Primeira Liga,2016,False,
+Belenenses SAD,Gerso,25.0,Guinea-Bissau,Left Winger,LW,1250000.0,Kansas,United States,1500000.0,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,Palmeira,27.0,Portugal,Centre-Back,CB,350000.0,Real SC,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,Luís Silva,24.0,Portugal,Central Midfield,CM,500000.0,Cova Piedade,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Belenenses SAD,Gonçalo Brandão,30.0,Portugal,Centre-Back,CB,1500000.0,Estoril Praia,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,André Almeida,21.0,Portugal,Centre-Back,CB,200000.0,FC Stumbras,Lithuania,0.0,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,Rafael Veloso,23.0,Portugal,Goalkeeper,GK,250000.0,Valdres FK,Norway,0.0,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,Fábio Sturgeon,22.0,Portugal,Right Winger,RW,2500000.0,Vit. Guimarães,Portugal,,out,winter,Primeira Liga,2016,False,
+Belenenses SAD,Komnen Andric,21.0,Serbia,Centre-Forward,CF,350000.0,Zalgiris,Lithuania,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Edu Machado,26.0,Portugal,Right-Back,RB,500000.0,Chaves,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Joao Talocha,26.0,Portugal,Left-Back,LB,,Vizela,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Digas,23.0,Portugal,Right Winger,RW,,Salgueiros 08,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Mickaël Meira,22.0,Portugal,Goalkeeper,GK,300000.0,Atlético CP,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,André Schembri,30.0,Malta,Centre-Forward,CF,750000.0,Omonia Nikosia,Cyprus,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Mohamed Daf,22.0,Senegal,Central Midfield,CM,200000.0,RSC Charleroi,Belgium,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Lucas Tagliapietra,25.0,Brazil,Centre-Back,CB,300000.0,Hamilton Acad.,Scotland,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Fábio Espinho,30.0,Portugal,Attacking Midfield,AM,700000.0,Málaga CF,Spain,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Emin Makhmudov,24.0,Azerbaijan,Central Midfield,CM,300000.0,KS Samara,Russia,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Erivelto,27.0,Brazil,Centre-Forward,CF,700000.0,Al-Mesaimeer,Qatar,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Idé Colubali,22.0,Guinea-Bissau,Centre-Forward,CF,,Alcanenense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Boavista FC,Iuri Medeiros,22.0,Portugal,Right Winger,RW,5000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Lovro Medic,25.0,Croatia,Centre-Forward,CF,400000.0,NK Zagreb,Croatia,,in,summer,Primeira Liga,2016,False,
+Boavista FC,Carraça,23.0,Portugal,Right-Back,RB,250000.0,Santa Clara,Portugal,,in,summer,Primeira Liga,2016,False,
+Boavista FC,Kamran Agayev,30.0,Azerbaijan,Goalkeeper,GK,500000.0,Without Club,,,in,summer,Primeira Liga,2016,False,
+Boavista FC,Mika,25.0,Portugal,Goalkeeper,GK,2000000.0,Sunderland,England,1500000.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Afonso Figueiredo,23.0,Portugal,Left-Back,LB,750000.0,Stade Rennais,France,270000.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Nuno Pereira,20.0,Portugal,Attacking Midfield,AM,50000.0,Sousense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Uche Nwofor,24.0,Nigeria,Centre-Forward,CF,250000.0,AS Trencin,Slovakia,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Mario Martínez,31.0,Spain,Attacking Midfield,AM,400000.0,PGS Kissamikos,Greece,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Ivan Machado,19.0,Portugal,Attacking Midfield,AM,,FC Pedras Rubras,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Reuben Gabriel,25.0,Nigeria,Central Midfield,CM,400000.0,AS Trencin,Slovakia,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,André Fonseca,20.0,Portugal,Goalkeeper,GK,50000.0,Oliveirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Emmanuel Hackman,21.0,Ghana,Right-Back,RB,200000.0,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Yoro Ly,27.0,Senegal,Right Winger,RW,100000.0,Ilves,Finland,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Imanol Iriberri,29.0,Argentina,Centre-Forward,CF,250000.0,Crucero,Argentina,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Miguel Pereira,20.0,Portugal,Right-Back,RB,50000.0,FC Pedras Rubras,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Alex Júnior,23.0,Haiti,Left-Back,LB,50000.0,Camacha,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Gabriel Souza,18.0,Brazil,Goalkeeper,GK,,FC Pedras Rubras,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Rúben Ribeiro,28.0,Portugal,Central Midfield,CM,500000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Diogo Gouveia,21.0,Portugal,Defensive Midfield,DM,50000.0,Cesarense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Paulo Vinícius,31.0,Brazil,Centre-Back,CB,1000000.0,Apol. Limassol,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Zé Manuel,25.0,Portugal,Centre-Forward,CF,800000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Boavista FC,Luisinho,26.0,Portugal,Right Midfield,RM,750000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Douglas Abner,20.0,Brazil,Attacking Midfield,AM,150000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Ibrahima Faye,23.0,Senegal,Left Winger,LW,50000.0,Cesarense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Boavista FC,Lucas Rocha,24.0,Brazil,Centre-Back,CB,350000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Kamran Agayev,31.0,Azerbaijan,Goalkeeper,GK,500000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Cláudio Lopes,23.0,Portugal,Right-Back,RB,,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Cristian Cangá,23.0,Colombia,Centre-Forward,CF,75000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Ancelmo Júnior,26.0,Brazil,Attacking Midfield,AM,100000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Gideão,28.0,Brazil,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Ian Pereira,19.0,Brazil,Right-Back,RB,50000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Boavista FC,Aymen Tahar,26.0,Algeria,Central Midfield,CM,600000.0,Steaua Bukarest,Romania,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Boavista FC,Aidi Fulangxisi,26.0,China,Left-Back,LB,50000.0,DL Yifang,China,0.0,in,winter,Primeira Liga,2016,False,
+Boavista FC,Rochinha,21.0,Portugal,Right Winger,RW,200000.0,Standard U21,Belgium,,in,winter,Primeira Liga,2016,False,
+Boavista FC,Davi Mbala,23.0,DR Congo,Left Winger,LW,500000.0,Penafiel,Portugal,,in,winter,Primeira Liga,2016,False,
+Boavista FC,Vagner,30.0,Brazil,Goalkeeper,GK,800000.0,Mouscron,Belgium,0.0,in,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Iván Bulos,23.0,Peru,Centre-Forward,CF,350000.0,O'Higgins,Chile,0.0,in,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Erivelto,28.0,Brazil,Centre-Forward,CF,700000.0,Covilhã,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+Boavista FC,Samu,20.0,Portugal,Attacking Midfield,AM,150000.0,Fafe,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Digas,24.0,Portugal,Right Winger,RW,250000.0,Fafe,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Mohamed Daf,22.0,Senegal,Central Midfield,CM,250000.0,Gafanha,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Diogo Gouveia,21.0,Portugal,Defensive Midfield,DM,50000.0,S. João Ver,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Douglas Abner,21.0,Brazil,Attacking Midfield,AM,150000.0,Salgueiros 08,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Lovro Medic,26.0,Croatia,Centre-Forward,CF,400000.0,Gafanha,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Boavista FC,Michael Uchebo,26.0,Nigeria,Centre-Forward,CF,350000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+CD Feirense,Peçanha,36.0,Brazil,Goalkeeper,GK,100000.0,FC Viitorul,Romania,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Vítor Bruno,26.0,Portugal,Left-Back,LB,450000.0,CFR Cluj,Romania,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Luís Aurélio,27.0,Portugal,Central Midfield,CM,850000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Alex Kakuba,25.0,Uganda,Left-Back,LB,400000.0,Estoril Praia,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Herve Tchami,28.0,Cameroon,Right Winger,RW,200000.0,Giresunspor,Turkey,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Jean Sony Alcénat,30.0,Haiti,Right-Back,RB,350000.0,Steaua Bukarest,Romania,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Guima,30.0,Portugal,Centre-Forward,CF,100000.0,CFR Cluj,Romania,0.0,in,summer,Primeira Liga,2016,False,
+CD Feirense,Rena,22.0,Portugal,Right-Back,RB,25000.0,Cesarense,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Luís Rocha,29.0,Portugal,Centre-Back,CB,300000.0,Freamunde,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Paulo Monteiro,31.0,Portugal,Centre-Back,CB,500000.0,União Madeira,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Tiago Silva,23.0,Portugal,Attacking Midfield,AM,750000.0,Belenenses SAD,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Ricardo Dias,25.0,Portugal,Defensive Midfield,DM,1000000.0,Belenenses SAD,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Vaná Alves,25.0,Brazil,Goalkeeper,GK,500000.0,Coritiba FC,Brazil,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Flávio,22.0,Brazil,Centre-Back,CB,125000.0,Náutico,Brazil,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Anastasios Karamanos,25.0,Greece,Centre-Forward,CF,600000.0,Olympiacos,Greece,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Feirense,William Tchuameni,19.0,Cameroon,Centre-Forward,CF,,Unisport de Bafang,Cameroon,,in,summer,Primeira Liga,2016,False,
+CD Feirense,Tiago Jogo,25.0,Portugal,Central Midfield,CM,250000.0,Cesarense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Rena,22.0,Portugal,Right-Back,RB,25000.0,Cesarense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Renato Maia,20.0,Portugal,Left-Back,LB,25000.0,Oliveirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Hélder Castro,30.0,Portugal,Central Midfield,CM,50000.0,Olympiakos N.,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Serginho,30.0,Portugal,Left-Back,LB,350000.0,US Créteil-L,France,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Agostinho Carvalho,23.0,Portugal,Centre-Back,CB,300000.0,Fafe,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Magique,23.0,Cote d'Ivoire,Left Winger,LW,500000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Joca,20.0,Portugal,Centre-Back,CB,25000.0,Esmoriz,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Giorgi Makaridze,26.0,Georgia,Goalkeeper,GK,500000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Diogo Silvestre,26.0,Brazil,Left-Back,LB,700000.0,Estudiantes,Argentina,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Rafael Porcellis,29.0,Brazil,Centre-Forward,CF,200000.0,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Ima Lino,19.0,Portugal,Goalkeeper,GK,,Dragões,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Nuno Diogo,35.0,Portugal,Centre-Back,CB,75000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Feirense,Mica,21.0,Portugal,Right-Back,RB,150000.0,Gafanha,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Nandinho,19.0,Portugal,Left-Back,LB,50000.0,Sanjoanense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Mika,28.0,Portugal,Centre-Back,CB,400000.0,Trofense,Portugal,,out,summer,Primeira Liga,2016,False,
+CD Feirense,Dele Alampasu,19.0,Nigeria,Goalkeeper,GK,75000.0,Cesarense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Feirense,Sunday Emmanuel,24.0,Nigeria,Centre-Forward,CF,250000.0,Thanh Hoa FC,Vietnam,,out,summer,Primeira Liga,2016,False,
+CD Feirense,Kukula,23.0,Cape Verde,Centre-Forward,CF,500000.0,Marítimo B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,Luís Ribeiro,24.0,Portugal,Goalkeeper,GK,50000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,João Vieira,24.0,Portugal,Centre-Forward,CF,500000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,Kizito,22.0,Uganda,Centre-Forward,CF,600000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,José Alí Meza,25.0,Venezuela,Centre-Forward,CF,50000.0,Táchira,Venezuela,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,Vasco Rocha,27.0,Portugal,Central Midfield,CM,500000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,Alex Kakuba,25.0,Uganda,Left-Back,LB,400000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Feirense,Babanco,31.0,Cape Verde,Central Midfield,CM,500000.0,AEL Limassol,Cyprus,0.0,in,winter,Primeira Liga,2016,False,
+CD Feirense,Pelé,25.0,Guinea-Bissau,Defensive Midfield,DM,3500000.0,Benfica B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+CD Feirense,Wellington,29.0,Brazil,Centre-Forward,CF,300000.0,AEL Limassol,Cyprus,0.0,in,winter,Primeira Liga,2016,False,
+CD Feirense,Edson Farias,25.0,Brazil,Right Winger,RW,800000.0,Bucheon FC,"Korea, South",,in,winter,Primeira Liga,2016,False,
+CD Feirense,Hugo Seco,28.0,Portugal,Right Winger,RW,500000.0,Cherno More,Bulgaria,,in,winter,Primeira Liga,2016,False,
+CD Feirense,Vieirinha,20.0,Portugal,Attacking Midfield,AM,50000.0,Sanjoanense,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+CD Feirense,Herve Tchami,28.0,Cameroon,Right Winger,RW,200000.0,Hajer,Saudi Arabia,0.0,out,winter,Primeira Liga,2016,False,
+CD Feirense,Semedo,28.0,Cape Verde,Defensive Midfield,DM,600000.0,Apol. Limassol,Cyprus,,out,winter,Primeira Liga,2016,False,
+CD Feirense,Tiago Jogo,25.0,Portugal,Central Midfield,CM,250000.0,Gafanha,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+CD Feirense,Guima,30.0,Portugal,Centre-Forward,CF,100000.0,Retired,,,out,winter,Primeira Liga,2016,False,
+CD Nacional,Nelson Bonilla,25.0,El Salvador,Centre-Forward,CF,550000.0,Zira FC,Azerbaijan,100000.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,Vítor São Bento,23.0,Portugal,Goalkeeper,GK,200000.0,Farense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,Okacha Hamzaoui,25.0,Algeria,Centre-Forward,CF,450000.0,MO Béjaïa,Algeria,0.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,Luís Silva,23.0,Portugal,Central Midfield,CM,1000000.0,Chaves,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,Tiago Rodrigues,24.0,Portugal,Attacking Midfield,AM,2000000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Ohoulo Framelin,19.0,Cameroon,Goalkeeper,GK,,Alcanenense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,César Martins,23.0,Brazil,Centre-Back,CB,2250000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Ricardo Gomes,24.0,Cape Verde,Centre-Forward,CF,500000.0,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Nacional,Víctor García,22.0,Venezuela,Right-Back,RB,1500000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Roniel,22.0,Brazil,Right Winger,RW,500000.0,Anápolis-GO,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Tobias Figueiredo,22.0,Portugal,Centre-Back,CB,2500000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Vítor Gonçalves,24.0,Portugal,Attacking Midfield,AM,550000.0,Gil Vicente,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Nacional,Sinan Bolat,27.0,Turkey,Goalkeeper,GK,500000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Vítor Hugo,21.0,Brazil,Defensive Midfield,DM,,Angra-RJ,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Boubacar Fofana,26.0,Guinea,Defensive Midfield,DM,500000.0,Al-Ettifaq,Saudi Arabia,300000.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Miguel Rodrigues,23.0,Portugal,Centre-Back,CB,500000.0,Panetolikos,Greece,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,João Aurélio,27.0,Portugal,Right-Back,RB,2500000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Nenê Bonilha,24.0,Brazil,Central Midfield,CM,500000.0,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Alan Henrique,25.0,Brazil,Centre-Back,CB,75000.0,Umm Salal SC,Qatar,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Luís Aurélio,27.0,Portugal,Central Midfield,CM,850000.0,Feirense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Gottardi,31.0,Brazil,Goalkeeper,GK,900000.0,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Hicham Belkaroui,25.0,Algeria,Centre-Back,CB,500000.0,Esperance,Tunisia,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Luís Silva,23.0,Portugal,Central Midfield,CM,900000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,Sérgio Duarte,23.0,Portugal,Defensive Midfield,DM,75000.0,Salgueiros,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Nacional,João Camacho,22.0,Portugal,Right Midfield,RM,,Celta Vigo B,Spain,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Diogo Coelho,22.0,Portugal,Centre-Back,CB,500000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Filipe Ferreira,19.0,Portugal,Goalkeeper,GK,50000.0,Olhanense,Portugal,,out,summer,Primeira Liga,2016,False,
+CD Nacional,Edgar Abreu,22.0,Portugal,Central Midfield,CM,300000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Nacional,Paulinho,23.0,Brazil,Attacking Midfield,AM,250000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+CD Nacional,Tiquinho Soares,25.0,Brazil,Centre-Forward,CF,750000.0,Paraibano-PB,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Nacional,Joan Román,23.0,Spain,Left Winger,LW,500000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Nacional,Rodrigo Pinho,25.0,Brazil,Centre-Forward,CF,300000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Nacional,Ricardo Gomes,24.0,Cape Verde,Centre-Forward,CF,500000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Nacional,Filipe Gonçalves,32.0,Portugal,Defensive Midfield,DM,300000.0,Slask Wroclaw,Poland,0.0,in,winter,Primeira Liga,2016,False,
+CD Nacional,Dejan Mezga,31.0,Croatia,Attacking Midfield,AM,400000.0,NK Maribor,Slovenia,0.0,in,winter,Primeira Liga,2016,False,
+CD Nacional,Fernando Aristeguieta,24.0,Venezuela,Centre-Forward,CF,750000.0,FC Nantes,France,0.0,in,winter,Primeira Liga,2016,True,free loan
+CD Nacional,Zequinha,30.0,Portugal,Left Winger,LW,750000.0,Arouca,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+CD Nacional,Adriano Facchini,33.0,Brazil,Goalkeeper,GK,350000.0,Karabükspor,Turkey,,in,winter,Primeira Liga,2016,False,
+CD Nacional,Zizo,21.0,Egypt,Left Winger,LW,350000.0,Lierse SK,Belgium,0.0,in,winter,Primeira Liga,2016,True,free loan
+CD Nacional,Aly Ghazal,24.0,Egypt,Defensive Midfield,DM,2500000.0,GZ H. Zhicheng,China,2600000.0,out,winter,Primeira Liga,2016,False,
+CD Nacional,Rui Silva,22.0,Portugal,Goalkeeper,GK,1000000.0,Granada CF,Spain,1000000.0,out,winter,Primeira Liga,2016,False,
+CD Nacional,Nelson Bonilla,26.0,El Salvador,Centre-Forward,CF,300000.0,Gaziantep BB,Turkey,0.0,out,winter,Primeira Liga,2016,True,free loan
+CD Tondela,Fernando Ferreira,29.0,Portugal,Attacking Midfield,AM,500000.0,Marítimo,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Tondela,Muhammad Candé,24.0,Guinea-Bissau,Left-Back,LB,200000.0,Portimonense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Tondela,David Bruno,24.0,Portugal,Right-Back,RB,500000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Miguel Cardoso,22.0,Portugal,Right Winger,RW,250000.0,Dep. La Coruña,Spain,0.0,in,summer,Primeira Liga,2016,False,
+CD Tondela,Elnur Cafarov,19.0,Azerbaijan,Left Winger,LW,150000.0,Xäzär Länkäran,Azerbaijan,0.0,in,summer,Primeira Liga,2016,False,
+CD Tondela,Ricardo Janota,29.0,Portugal,Goalkeeper,GK,200000.0,Académico Viseu,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CD Tondela,Dylan Flores,23.0,Costa Rica,Attacking Midfield,AM,100000.0,Saprissa,Costa Rica,,in,summer,Primeira Liga,2016,False,
+CD Tondela,Fábio Nunes,23.0,Portugal,Left Winger,LW,500000.0,Belenenses SAD,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Tondela,Zé Turbo,19.0,Guinea-Bissau,Centre-Forward,CF,300000.0,Inter U19,Italy,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Crislan,24.0,Brazil,Centre-Forward,CF,1000000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Pité,21.0,Portugal,Left Midfield,LM,500000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Alassane També,24.0,Mali,Right-Back,RB,500000.0,Genoa,Italy,,in,summer,Primeira Liga,2016,False,
+CD Tondela,Vitali Lystsov,20.0,Russia,Centre-Back,CB,650000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Jaílson,25.0,Brazil,Right-Back,RB,1000000.0,Anápolis-GO,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Murilo,20.0,Brazil,Left Winger,LW,,Mirassol-SP,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Claude Gonçalves,22.0,Portugal,Defensive Midfield,DM,600000.0,AC Ajaccio,France,,in,summer,Primeira Liga,2016,False,
+CD Tondela,Rafael Leme Amorim,28.0,Brazil,Centre-Back,CB,750000.0,Belenenses SAD,Portugal,,in,summer,Primeira Liga,2016,False,
+CD Tondela,Lucas Souza,25.0,Brazil,Defensive Midfield,DM,500000.0,AEL Limassol,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Markus Berger,31.0,Austria,Centre-Back,CB,350000.0,Grödig,Austria,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Nuno Santos,36.0,Portugal,Left-Back,LB,100000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Luís Alberto,32.0,Brazil,Defensive Midfield,DM,250000.0,Chaves,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Nathan Júnior,27.0,Brazil,Centre-Forward,CF,1000000.0,Al-Fateh,Saudi Arabia,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Luis Tinoco,29.0,Portugal,Left-Back,LB,500000.0,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Eñaut Zubikarai,32.0,Spain,Goalkeeper,GK,800000.0,Auckland City,New Zealand,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Elnur Cafarov,19.0,Azerbaijan,Left Winger,LW,150000.0,NK Dugopolje,Croatia,0.0,out,summer,Primeira Liga,2016,False,
+CD Tondela,Adílio Varela,19.0,Portugal,Right Winger,RW,50000.0,GD Tourizense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+CD Tondela,Steven Thicot,29.0,France,Centre-Back,CB,500000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+CD Tondela,Piojo,31.0,Argentina,Second Striker,SS,250000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+CD Tondela,Junior Oto'o,22.0,Gabon,Right-Back,RB,500000.0,Braga B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Dolly Menga,23.0,Angola,Centre-Forward,CF,500000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Bruno Nascimento,25.0,Brazil,defence,defence,700000.0,1. FC Köln,Germany,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Romário Baldé,19.0,Guinea-Bissau,Centre-Forward,CF,800000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Wanderson Lima,21.0,Brazil,Right-Back,RB,50000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Billal Sebaihi,24.0,France,Central Midfield,CM,300000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Karl,23.0,Brazil,Central Midfield,CM,100000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CD Tondela,Pedro Nuno,21.0,Portugal,Attacking Midfield,AM,400000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+CD Tondela,Ruca,26.0,Portugal,Left-Back,LB,500000.0,Vitória Setúbal,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+CD Tondela,Heliardo,25.0,Brazil,Centre-Forward,CF,150000.0,Cianorte,Brazil,,in,winter,Primeira Liga,2016,False,
+CD Tondela,Yordan Osorio,22.0,Venezuela,Centre-Back,CB,300000.0,Zamora,Venezuela,,in,winter,Primeira Liga,2016,False,
+CD Tondela,Amido Baldé,25.0,Guinea-Bissau,Centre-Forward,CF,400000.0,Marítimo,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+CD Tondela,Fábio Nunes,24.0,Portugal,Left Winger,LW,500000.0,Belenenses SAD,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+CD Tondela,Alassane També,25.0,Mali,Right-Back,RB,400000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+CD Tondela,Muhammad Candé,25.0,Guinea-Bissau,Left-Back,LB,500000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+CS Marítimo,Coronas,25.0,Portugal,Right-Back,RB,400000.0,Moreirense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Esquerdinha,25.0,Brazil,Central Midfield,CM,250000.0,KF Skënderbeu,Albania,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Gottardi,31.0,Brazil,Goalkeeper,GK,900000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Shaher Mansour,24.0,Saudi Arabia,Attacking Midfield,AM,50000.0,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Felipe Manoel,26.0,Brazil,Defensive Midfield,DM,,Rio Preto EC,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Christianno,24.0,Brazil,Left-Back,LB,500000.0,Sport Recife,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Jean Cleber,26.0,Brazil,Central Midfield,CM,100000.0,CSA,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Erdem Sen,27.0,Belgium,Defensive Midfield,DM,2200000.0,Gaziantepspor,Turkey,0.0,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Brito,28.0,Cape Verde,Right Winger,RW,750000.0,C.R.D. Libolo,Angola,,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Bruno Nunes,25.0,Brazil,Centre-Forward,CF,,Mirassol-SP,Brazil,,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Régis Silva,26.0,Brazil,Defensive Midfield,DM,250000.0,Juazeiro-CE,Brazil,,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Samuel Santos,26.0,Brazil,Right-Back,RB,,Botafogo-SP,Brazil,,in,summer,Primeira Liga,2016,False,
+CS Marítimo,Amido Baldé,25.0,Guinea-Bissau,Centre-Forward,CF,800000.0,Benfica Luanda,Angola,,in,summer,Primeira Liga,2016,False,
+CS Marítimo,João Diogo,28.0,Portugal,Right-Back,RB,1250000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Romain Salin,31.0,France,Goalkeeper,GK,1250000.0,Guingamp,France,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Rúben,26.0,Portugal,Left-Back,LB,2500000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Fernando Ferreira,29.0,Portugal,Attacking Midfield,AM,500000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Régis Silva,26.0,Brazil,Defensive Midfield,DM,250000.0,Mogi Mirim,Brazil,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Lynneeker,22.0,Brazil,Right Winger,RW,100000.0,Flamurtari FC,Albania,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Romário,24.0,Brazil,Centre-Back,CB,200000.0,São Paulo,Brazil,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Christianno,24.0,Brazil,Left-Back,LB,500000.0,Vila Nova FC,Brazil,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Felipe Manoel,26.0,Brazil,Defensive Midfield,DM,75000.0,Bragantino,Brazil,0.0,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Pana,24.0,Angola,Defensive Midfield,DM,250000.0,Chaves,Portugal,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Wellington,26.0,Brazil,Goalkeeper,GK,250000.0,NorthEast Utd.,India,0.0,out,summer,Primeira Liga,2016,True,free loan
+CS Marítimo,Bruno Nunes,26.0,Brazil,Centre-Forward,CF,,Without Club,,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Ulysse Diallo,23.0,Mali,Centre-Forward,CF,250000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Briguel,37.0,Portugal,Right-Back,RB,50000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Alireza Haghighi,28.0,Iran,Goalkeeper,GK,400000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Damien Plessis,28.0,France,Defensive Midfield,DM,350000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+CS Marítimo,Tiago Rodrigues,24.0,Portugal,Attacking Midfield,AM,2000000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+CS Marítimo,Alhassane Keita,24.0,Guinea,Centre-Forward,CF,400000.0,SKN St. Pölten,Austria,0.0,in,winter,Primeira Liga,2016,False,
+CS Marítimo,Amir Abedzadeh,23.0,Iran,Goalkeeper,GK,100000.0,Barreirense,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+CS Marítimo,Zainadine Júnior,28.0,Mozambique,Centre-Back,CB,1000000.0,TJ Teda,China,0.0,in,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Adul Seidi,24.0,Guinea-Bissau,Centre-Forward,CF,,Castelo Branco,Portugal,,in,winter,Primeira Liga,2016,False,
+CS Marítimo,Rafael Broetto,26.0,Brazil,Goalkeeper,GK,75000.0,FC Stumbras,Lithuania,,in,winter,Primeira Liga,2016,False,
+CS Marítimo,Abdul Basit,,Ghana,Attacking Midfield,AM,75000.0,FC Stumbras,Lithuania,0.0,in,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Luís Martins,24.0,Portugal,Left-Back,LB,300000.0,Granada CF,Spain,0.0,in,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Esquerdinha,26.0,Brazil,Central Midfield,CM,250000.0,Madureira-RJ,Brazil,0.0,out,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Dirceu,28.0,Brazil,Centre-Back,CB,700000.0,Figueirense FC,Brazil,,out,winter,Primeira Liga,2016,False,
+CS Marítimo,Amido Baldé,25.0,Guinea-Bissau,Centre-Forward,CF,400000.0,Tondela,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Gevaro Nepomuceno,24.0,Curacao,Left Winger,LW,350000.0,Famalicão,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+CS Marítimo,Samuel Santos,26.0,Brazil,Right-Back,RB,100000.0,Botafogo-SP,Brazil,,out,winter,Primeira Liga,2016,False,
+CS Marítimo,Baba Diawara,28.0,Senegal,Centre-Forward,CF,400000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+FC Arouca,Ânderson Luís,27.0,Brazil,Right-Back,RB,1500000.0,Estoril Praia,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Arouca,Rafael Crivellaro,27.0,Brazil,Attacking Midfield,AM,300000.0,Wisla Kraków,Poland,0.0,in,summer,Primeira Liga,2016,False,
+FC Arouca,Vítor Costa,22.0,Brazil,Left-Back,LB,200000.0,Inter de Lages,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Arouca,André Santos,27.0,Portugal,Defensive Midfield,DM,1000000.0,FC Metz,France,0.0,in,summer,Primeira Liga,2016,False,
+FC Arouca,Sancidino Silva,22.0,Guinea-Bissau,Left Winger,LW,250000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Arouca,Bruno Lopes,21.0,Brazil,Centre-Forward,CF,750000.0,Criciúma EC,Brazil,,in,summer,Primeira Liga,2016,False,
+FC Arouca,Marlon de Jesús,24.0,Ecuador,Centre-Forward,CF,750000.0,Monterrey,Mexico,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Arouca,Thiago Carleto,27.0,Brazil,Left-Back,LB,750000.0,São Paulo,Brazil,,in,summer,Primeira Liga,2016,False,
+FC Arouca,Kuca,27.0,Cape Verde,Left Winger,LW,750000.0,Karabükspor,Turkey,,in,summer,Primeira Liga,2016,False,
+FC Arouca,Lucas Lima,24.0,Brazil,Left-Back,LB,1000000.0,FC Nantes,France,1100000.0,out,summer,Primeira Liga,2016,False,
+FC Arouca,David Simão,26.0,Portugal,Central Midfield,CM,1500000.0,CSKA-Sofia,Bulgaria,0.0,out,summer,Primeira Liga,2016,False,
+FC Arouca,Pintassilgo,31.0,Portugal,Right Midfield,RM,500000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+FC Arouca,Idrissa Coulibaly,28.0,Mali,Centre-Back,CB,150000.0,US Ben Guerdane,Tunisia,0.0,out,summer,Primeira Liga,2016,False,
+FC Arouca,Thiago Carleto,27.0,Brazil,Left-Back,LB,750000.0,Linense-SP,Brazil,0.0,out,summer,Primeira Liga,2016,False,
+FC Arouca,Roberto,27.0,Portugal,Centre-Forward,CF,800000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Arouca,Lucas Colitto,22.0,Argentina,Left Winger,LW,150000.0,Herediano,Costa Rica,,out,summer,Primeira Liga,2016,False,
+FC Arouca,Hugo Monteiro,31.0,Portugal,Right Winger,RW,300000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+FC Arouca,Emiliano Albín,27.0,Uruguay,Right-Back,RB,300000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+FC Arouca,Tomas Dabo,22.0,Guinea-Bissau,Right-Back,RB,500000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+FC Arouca,Maurides,22.0,Brazil,Centre-Forward,CF,850000.0,Internacional,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Arouca,Ivo Rodrigues,21.0,Portugal,Left Winger,LW,1500000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Arouca,Jaílson,25.0,Brazil,Right-Back,RB,1000000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Arouca,Tomané,24.0,Portugal,Centre-Forward,CF,500000.0,Panetolikos,Greece,0.0,in,winter,Primeira Liga,2016,False,
+FC Arouca,Gilson Costa,20.0,Portugal,Defensive Midfield,DM,350000.0,Benfica B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Keirrison,28.0,Brazil,Centre-Forward,CF,400000.0,Londrina-PR,Brazil,,in,winter,Primeira Liga,2016,False,
+FC Arouca,Jefre Vargas,22.0,Venezuela,Right-Back,RB,375000.0,Caracas FC,Venezuela,0.0,in,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Sinan Bolat,28.0,Turkey,Goalkeeper,GK,500000.0,FC Porto B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Sami,28.0,Guinea-Bissau,Left Winger,LW,2500000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Gegé,28.0,Cape Verde,Centre-Back,CB,1000000.0,Paços Ferreira,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+FC Arouca,Jorginho,21.0,Guinea-Bissau,Left Winger,LW,150000.0,Saint-Étienne,France,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Zequinha,30.0,Portugal,Left Winger,LW,750000.0,Nacional,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+FC Arouca,Tucka,20.0,Portugal,Centre-Forward,CF,75000.0,Limianos,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Arouca,Thiago Carleto,27.0,Brazil,Left-Back,LB,750000.0,Linense-SP,Brazil,0.0,out,winter,Primeira Liga,2016,False,
+FC Arouca,Bruno Lopes,21.0,Brazil,Centre-Forward,CF,750000.0,Brasil-RS,Brazil,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Yerjet Yerzat,23.0,China,Goalkeeper,GK,,Gondomar,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Pedrinho,23.0,Portugal,Attacking Midfield,AM,650000.0,Freamunde,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Ivo Rodrigues,21.0,Portugal,Left Winger,LW,1500000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Leandro Silva,22.0,Portugal,Central Midfield,CM,1000000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Rabiola,27.0,Portugal,Centre-Forward,CF,850000.0,Coimbra,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Gleison,21.0,Brazil,Second Striker,SS,650000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Pedro Monteiro,22.0,Portugal,Centre-Back,CB,500000.0,Braga B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,João Pinho,24.0,Portugal,Goalkeeper,GK,150000.0,Oliveirense,Portugal,,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Welthon,24.0,Brazil,Centre-Forward,CF,300000.0,Tapajós-PA,Brazil,,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Mateus da Silva,24.0,Brazil,Defensive Midfield,DM,,Tombense,Brazil,,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Filipe Ferreira,25.0,Portugal,Left-Back,LB,1250000.0,Belenenses SAD,Portugal,,in,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Ricardo Valente,25.0,Portugal,Left Winger,LW,1750000.0,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Shi Tang,21.0,China,Left Winger,LW,75000.0,MZ Hakka,China,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Diogo Jota,19.0,Portugal,Left Winger,LW,3000000.0,Atlético Madrid,Spain,7000000.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Bruno Moreira,28.0,Portugal,Centre-Forward,CF,2750000.0,Buriram Utd.,Thailand,0.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Hélder Lopes,27.0,Portugal,Left-Back,LB,1500000.0,UD Las Palmas,Spain,0.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Edson Farias,24.0,Brazil,Right Winger,RW,800000.0,Bucheon FC,"Korea, South",0.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Rodrigo Antônio,28.0,Brazil,Defensive Midfield,DM,500000.0,Bnei Sakhnin,Israel,0.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Manuel José,35.0,Portugal,Right Winger,RW,100000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+FC Paços de Ferreira,Marco Ribeiro,21.0,Portugal,Goalkeeper,GK,200000.0,Gondomar,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Bruno Sousa,20.0,Portugal,Right-Back,RB,25000.0,Gondomar,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Sodiq Fatai,20.0,Nigeria,Left Winger,LW,50000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Raúl Almeida,18.0,Portugal,Centre-Forward,CF,100000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Fábio Cardoso,22.0,Portugal,Centre-Back,CB,1500000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Paços de Ferreira,Roniel,22.0,Brazil,Right Winger,RW,500000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Paços de Ferreira,Pelé,24.0,Guinea-Bissau,Defensive Midfield,DM,3000000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Paços de Ferreira,Fábio Martins,22.0,Portugal,Left Winger,LW,1000000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Paços de Ferreira,Ponck,21.0,Cape Verde,Centre-Back,CB,250000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Paços de Ferreira,Tony Taylor,27.0,Panama,Right Winger,RW,250000.0,NYCFC,United States,0.0,in,winter,Primeira Liga,2016,False,
+FC Paços de Ferreira,Luiz Phellype,23.0,Brazil,Centre-Forward,CF,500000.0,Estoril Praia,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+FC Paços de Ferreira,Gegé,28.0,Cape Verde,Centre-Back,CB,1000000.0,Arouca,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+FC Paços de Ferreira,Filipe Melo,27.0,Portugal,Defensive Midfield,DM,500000.0,Sheff Wed,England,0.0,in,winter,Primeira Liga,2016,True,free loan
+FC Paços de Ferreira,Diego Medeiros,23.0,Brazil,Left Winger,LW,300000.0,Famalicão,Portugal,,in,winter,Primeira Liga,2016,False,
+FC Porto,Felipe,27.0,Brazil,Centre-Back,CB,6000000.0,Corinthians,Brazil,8199999.999999999,in,summer,Primeira Liga,2016,False,
+FC Porto,Alex Telles,23.0,Brazil,Left-Back,LB,8500000.0,Galatasaray,Turkey,7350000.0,in,summer,Primeira Liga,2016,False,
+FC Porto,Laurent Depoitre,27.0,Belgium,Centre-Forward,CF,6500000.0,KAA Gent,Belgium,7000000.0,in,summer,Primeira Liga,2016,False,
+FC Porto,Willy Boly,25.0,Cote d'Ivoire,Centre-Back,CB,2750000.0,Braga,Portugal,6500000.0,in,summer,Primeira Liga,2016,False,
+FC Porto,Miguel Layún,28.0,Mexico,Right Midfield,RM,7000000.0,Watford,England,6000000.0,in,summer,Primeira Liga,2016,False,
+FC Porto,Zé Manuel,25.0,Portugal,Centre-Forward,CF,800000.0,Boavista,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+FC Porto,João Carlos Teixeira,23.0,Portugal,Attacking Midfield,AM,1000000.0,Liverpool U23,England,0.0,in,summer,Primeira Liga,2016,False,
+FC Porto,Diogo Jota,19.0,Portugal,Left Winger,LW,7000000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Porto,Óliver Torres,21.0,Spain,Central Midfield,CM,14000000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+FC Porto,Maicon,27.0,Brazil,Centre-Back,CB,8000000.0,São Paulo,Brazil,5750000.0,out,summer,Primeira Liga,2016,False,
+FC Porto,Vincent Aboubakar,24.0,Cameroon,Centre-Forward,CF,10500000.0,Besiktas,Turkey,2500000.0,out,summer,Primeira Liga,2016,True,loan with fee
+FC Porto,Nabil Ghilas,26.0,Algeria,Centre-Forward,CF,1800000.0,Gaziantepspor,Turkey,2000000.0,out,summer,Primeira Liga,2016,False,
+FC Porto,Hyun-jun Suk,25.0,"Korea, South",Centre-Forward,CF,3500000.0,Trabzonspor,Turkey,750000.0,out,summer,Primeira Liga,2016,True,loan with fee
+FC Porto,Josué,25.0,Portugal,Attacking Midfield,AM,5000000.0,Galatasaray,Turkey,700000.0,out,summer,Primeira Liga,2016,True,loan with fee
+FC Porto,Licá,27.0,Portugal,Left Winger,LW,1500000.0,Nottm Forest,England,358000.0,out,summer,Primeira Liga,2016,False,
+FC Porto,Tiago Rodrigues,24.0,Portugal,Attacking Midfield,AM,2000000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Hernâni,25.0,Portugal,Right Winger,RW,2500000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Abdoulaye Ba,25.0,Senegal,Centre-Back,CB,2500000.0,Alanyaspor,Turkey,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Sami,27.0,Guinea-Bissau,Left Winger,LW,2000000.0,Akhisar Belediye,Turkey,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Moussa Marega,25.0,Mali,Second Striker,SS,3000000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Rafa Soares,21.0,Portugal,Left-Back,LB,1000000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,José Ángel,26.0,Spain,Left-Back,LB,2000000.0,Villarreal,Spain,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Andrés Fernández,29.0,Spain,Goalkeeper,GK,1500000.0,Villarreal,Spain,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Zé Manuel,25.0,Portugal,Centre-Forward,CF,800000.0,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Gonçalo Paciência,22.0,Portugal,Centre-Forward,CF,1500000.0,Olympiacos,Greece,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Alberto Bueno,28.0,Spain,Second Striker,SS,4000000.0,Granada CF,Spain,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Bruno Martins Indi,24.0,Netherlands,Centre-Back,CB,10000000.0,Stoke City,England,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Diego Reyes,23.0,Mexico,Centre-Back,CB,4000000.0,Espanyol,Spain,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Walter,27.0,Brazil,Centre-Forward,CF,3000000.0,Goiás EC,Brazil,0.0,out,summer,Primeira Liga,2016,True,free loan
+FC Porto,Helton,38.0,Brazil,Goalkeeper,GK,100000.0,Career break,,,out,summer,Primeira Liga,2016,False,
+FC Porto,Miguel Layún,28.0,Mexico,Right Midfield,RM,7000000.0,Watford,England,0.0,out,summer,Primeira Liga,2016,True,end of loan
+FC Porto,Tiquinho Soares,26.0,Brazil,Centre-Forward,CF,1000000.0,Vit. Guimarães,Portugal,5600000.0,in,winter,Primeira Liga,2016,False,
+FC Porto,Evandro,30.0,Brazil,Attacking Midfield,AM,2000000.0,Hull City,England,2500000.0,out,winter,Primeira Liga,2016,False,
+FC Porto,Silvestre Varela,31.0,Portugal,Left Winger,LW,2800000.0,Kayserispor,Turkey,500000.0,out,winter,Primeira Liga,2016,False,
+FC Porto,Gonçalo Paciência,22.0,Portugal,Centre-Forward,CF,1000000.0,Rio Ave FC,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Hyun-jun Suk,25.0,"Korea, South",Centre-Forward,CF,2700000.0,Debrecen,Hungary,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Juan Fernando Quintero,23.0,Colombia,Attacking Midfield,AM,5000000.0,Indep. Medellín,Colombia,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Adrián López,29.0,Spain,Centre-Forward,CF,4000000.0,Villarreal,Spain,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Abdoulaye Ba,26.0,Senegal,Centre-Back,CB,1700000.0,1860 Munich,Germany,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Alberto Bueno,28.0,Spain,Second Striker,SS,3000000.0,CD Leganés,Spain,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Sérgio Oliveira,24.0,Portugal,Central Midfield,CM,2500000.0,FC Nantes,France,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Sami,28.0,Guinea-Bissau,Left Winger,LW,2500000.0,Arouca,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Kelvin,23.0,Brazil,Right Winger,RW,3000000.0,Vasco da Gama,Brazil,0.0,out,winter,Primeira Liga,2016,True,free loan
+FC Porto,Walter,27.0,Brazil,Centre-Forward,CF,2750000.0,Atlético-GO,Brazil,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Pedro Queirós,31.0,Portugal,Right-Back,RB,1000000.0,Astra Giurgiu,Romania,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Ricardo Nunes,33.0,Portugal,Goalkeeper,GK,300000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Rafa Lopes,24.0,Portugal,Centre-Forward,CF,1000000.0,Coimbra,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Chico Ramos,21.0,Portugal,Central Midfield,CM,1000000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Luís Alberto,32.0,Brazil,Defensive Midfield,DM,250000.0,Tondela,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Freire,26.0,Brazil,Centre-Back,CB,600000.0,Apol. Limassol,Cyprus,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Felipe Lopes,28.0,Brazil,Centre-Back,CB,750000.0,VfL Wolfsburg,Germany,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Nemanja Petrovic,24.0,Serbia,Left-Back,LB,500000.0,Partizan,Serbia,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Paulinho,25.0,Portugal,Right-Back,RB,850000.0,União Madeira,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Chaves,Ponck,21.0,Cape Verde,Centre-Back,CB,350000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,William,24.0,Brazil,Centre-Forward,CF,200000.0,Kayserispor,Turkey,,in,summer,Primeira Liga,2016,False,
+GD Chaves,Mathaus,25.0,Cape Verde,Centre-Back,CB,100000.0,Académico Viseu,Portugal,,in,summer,Primeira Liga,2016,False,
+GD Chaves,Rodrigo Battaglia,25.0,Argentina,Central Midfield,CM,1000000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Hamdou Elhouni,22.0,Libya,Left Winger,LW,50000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Fábio Martins,22.0,Portugal,Left Winger,LW,1000000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Pana,24.0,Angola,Defensive Midfield,DM,250000.0,Marítimo,Portugal,,in,summer,Primeira Liga,2016,False,
+GD Chaves,Simon Vukcevic,30.0,Montenegro,Right Winger,RW,400000.0,EN Paralimniou,Cyprus,,in,summer,Primeira Liga,2016,False,
+GD Chaves,Emanuel Novo,23.0,Portugal,Goalkeeper,GK,125000.0,Famalicão,Portugal,,in,summer,Primeira Liga,2016,False,
+GD Chaves,Lamine Ba,22.0,Guinea-Bissau,Centre-Back,CB,100000.0,Oliveirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Pana,24.0,Angola,Defensive Midfield,DM,200000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Mike Moura,26.0,Portugal,Right-Back,RB,200000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Luís Pinto,34.0,Portugal,Attacking Midfield,AM,150000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Stéphane Dasse,26.0,Burkina Faso,Left-Back,LB,250000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Bruno Magalhães,34.0,Portugal,Central Midfield,CM,50000.0,Mirandela,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,André Fontes,31.0,Portugal,Attacking Midfield,AM,350000.0,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Luís Silva,23.0,Portugal,Central Midfield,CM,1000000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Diogo Cunha,30.0,Portugal,Attacking Midfield,AM,500000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Edu Machado,26.0,Portugal,Right-Back,RB,500000.0,Boavista,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Paulo Ribeiro,32.0,Portugal,Goalkeeper,GK,200000.0,Vizela,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Barry,34.0,Portugal,Centre-Forward,CF,100000.0,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,João Reis,24.0,Portugal,Left Midfield,LM,400000.0,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Siaka Bamba,26.0,Cote d'Ivoire,Defensive Midfield,DM,400000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Miguel Ângelo,31.0,Portugal,Centre-Back,CB,150000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Chaves,Miguel Oliveira,32.0,Portugal,Centre-Back,CB,200000.0,Vizela,Portugal,,out,summer,Primeira Liga,2016,False,
+GD Chaves,Latyr Fall,22.0,Senegal,Attacking Midfield,AM,,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+GD Chaves,Iniesta,19.0,Portugal,Right Midfield,RM,,Pedras Salgadas,Portugal,,out,summer,Primeira Liga,2016,False,
+GD Chaves,Simon Vukcevic,31.0,Montenegro,Right Winger,RW,400000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+GD Chaves,Diogo Coelho,22.0,Portugal,Centre-Back,CB,500000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Chaves,Sandro Lima,25.0,Brazil,Centre-Forward,CF,400000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Chaves,Tozé Marreco,28.0,Portugal,Centre-Forward,CF,600000.0,Mouscron,Belgium,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Chaves,Rafael Batatinha,26.0,Brazil,Right Winger,RW,350000.0,Santa Clara,Portugal,50000.0,in,winter,Primeira Liga,2016,False,
+GD Chaves,Renan Bressan,28.0,Belarus,Attacking Midfield,AM,1000000.0,APOEL Nicosia,Cyprus,0.0,in,winter,Primeira Liga,2016,False,
+GD Chaves,Nuno André Coelho,31.0,Portugal,Centre-Back,CB,900000.0,Kansas,United States,0.0,in,winter,Primeira Liga,2016,False,
+GD Chaves,Davidson,25.0,Brazil,Left Winger,LW,200000.0,Covilhã,Portugal,,in,winter,Primeira Liga,2016,False,
+GD Chaves,José Xavier,19.0,Portugal,Centre-Forward,CF,25000.0,Guimarães B,Portugal,,in,winter,Primeira Liga,2016,False,
+GD Chaves,Pedro Tiba,28.0,Portugal,Central Midfield,CM,2000000.0,Braga,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Victor Massaia,24.0,Brazil,Centre-Back,CB,400000.0,Santa Clara,Portugal,,in,winter,Primeira Liga,2016,False,
+GD Chaves,Rodrigo,24.0,Brazil,Right-Back,RB,150000.0,FC Porto B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Rafael Assis,26.0,Brazil,Defensive Midfield,DM,800000.0,Braga,Portugal,1420000.0,out,winter,Primeira Liga,2016,False,
+GD Chaves,Freire,27.0,Brazil,Centre-Back,CB,600000.0,Shimizu S-Pulse,Japan,500000.0,out,winter,Primeira Liga,2016,False,
+GD Chaves,Paulinho,25.0,Portugal,Right-Back,RB,1000000.0,Braga,Portugal,350000.0,out,winter,Primeira Liga,2016,False,
+GD Chaves,Luís Alberto,33.0,Brazil,Defensive Midfield,DM,300000.0,Desportivo Aves,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+GD Chaves,José Xavier,19.0,Portugal,Centre-Forward,CF,25000.0,Pedras Salgadas,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Lamine Ba,22.0,Guinea-Bissau,Centre-Back,CB,100000.0,Pedras Salgadas,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Mathaus,26.0,Cape Verde,Centre-Back,CB,100000.0,Freamunde,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Chaves,Gustavo,32.0,Brazil,Centre-Forward,CF,50000.0,Pedras Salgadas,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Joel,24.0,Portugal,Left-Back,LB,150000.0,Mafra,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,João Basso,19.0,Brazil,Centre-Back,CB,150000.0,Paraná,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,João Afonso,26.0,Portugal,Centre-Back,CB,1500000.0,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Tocantins,20.0,Brazil,Second Striker,SS,400000.0,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Mattheus,21.0,Brazil,Attacking Midfield,AM,500000.0,Flamengo,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Aílton,21.0,Brazil,Left-Back,LB,200000.0,Fluminense,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Paulo Henrique,27.0,Brazil,Centre-Forward,CF,1500000.0,SH Shenhua,China,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Oumar Diakhite,22.0,Senegal,Centre-Back,CB,300000.0,Olhanense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Dmytro Yarchuk,22.0,Ukraine,Defensive Midfield,DM,150000.0,Girnyk-Sport,Ukraine,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Thiago Cardoso,24.0,Brazil,Centre-Back,CB,200000.0,Macaé,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Thierry Graça,21.0,Cape Verde,Goalkeeper,GK,25000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Luís Ribeiro,24.0,Portugal,Goalkeeper,GK,50000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,José Moreira,34.0,Portugal,Goalkeeper,GK,50000.0,Olhanense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Eduardo,23.0,Brazil,Attacking Midfield,AM,750000.0,Fluminense,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Konstantin Bazelyuk,23.0,Russia,Centre-Forward,CF,400000.0,CSKA Moscow,Russia,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Alisson Farias,20.0,Brazil,Left Midfield,LM,500000.0,Internacional,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Bruno Gomes,20.0,Brazil,Centre-Forward,CF,500000.0,Internacional,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Léo Bonatini,22.0,Brazil,Centre-Forward,CF,2000000.0,Hilal,Saudi Arabia,5500000.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Anderson Esiti,22.0,Nigeria,Defensive Midfield,DM,1000000.0,KAA Gent,Belgium,1500000.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Diego Carlos,23.0,Brazil,Centre-Back,CB,1000000.0,FC Nantes,France,1300000.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Bruno Miguel,33.0,Portugal,Centre-Back,CB,150000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Dieguinho,24.0,Brazil,Right Winger,RW,500000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Gladestony,23.0,Brazil,Defensive Midfield,DM,75000.0,Catania,Italy,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Alex Kakuba,25.0,Uganda,Left-Back,LB,400000.0,Feirense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Leandro Chaparro,25.0,Argentina,Attacking Midfield,AM,650000.0,Freamunde,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Leandro Borges,24.0,Portugal,Left Winger,LW,300000.0,Fafe,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Rúben Dionísio,20.0,Portugal,Goalkeeper,GK,100000.0,Almancilense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Wanderson,23.0,Brazil,Centre-Back,CB,50000.0,Juv. Évora,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Rui Caniço,20.0,Portugal,Centre-Forward,CF,,Sintrense,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,João Falque,22.0,Brazil,Centre-Forward,CF,50000.0,Juv. Évora,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Babanco,30.0,Cape Verde,Central Midfield,CM,1000000.0,AEL Limassol,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Gerso,25.0,Guinea-Bissau,Left Winger,LW,1250000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Ânderson Luís,27.0,Brazil,Right-Back,RB,1500000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Frédéric Mendy,27.0,Guinea-Bissau,Centre-Forward,CF,400000.0,Ulsan Hyundai,"Korea, South",0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Pawel Kieszek,32.0,Poland,Goalkeeper,GK,1250000.0,Córdoba CF,Spain,0.0,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Morelatto,22.0,Brazil,Attacking Midfield,AM,150000.0,Mafra,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Douglas Cordeiro,21.0,Brazil,Central Midfield,CM,25000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Tijane,25.0,Portugal,Left Winger,LW,100000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+GD Estoril Praia,Georgemy,20.0,Brazil,Goalkeeper,GK,100000.0,Cruzeiro,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Oumar Diakhite,22.0,Senegal,Centre-Back,CB,300000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Mattheus,21.0,Brazil,Attacking Midfield,AM,500000.0,Flamengo,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Michael,23.0,Brazil,Centre-Forward,CF,750000.0,Fluminense,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Marion,24.0,Brazil,Left Winger,LW,750000.0,Atlético-MG,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Pedro Botelho,26.0,Brazil,Left-Back,LB,500000.0,Atlético-PR,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+GD Estoril Praia,Carlinhos,22.0,Brazil,Attacking Midfield,AM,450000.0,Monte Azul-SP,Brazil,180000.0,in,winter,Primeira Liga,2016,False,
+GD Estoril Praia,André Claro,25.0,Portugal,Second Striker,SS,1750000.0,Vitória Setúbal,Portugal,100000.0,in,winter,Primeira Liga,2016,False,
+GD Estoril Praia,Nuno Lopes,30.0,Portugal,Right-Back,RB,600000.0,Apol. Limassol,Cyprus,0.0,in,winter,Primeira Liga,2016,False,
+GD Estoril Praia,Gonçalo Brandão,30.0,Portugal,Centre-Back,CB,1500000.0,Belenenses SAD,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+GD Estoril Praia,Allano,21.0,Brazil,Right Winger,RW,750000.0,Cruzeiro,Brazil,0.0,in,winter,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Licá,28.0,Portugal,Left Winger,LW,1500000.0,Nottm Forest,England,0.0,in,winter,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Luiz Phellype,23.0,Brazil,Centre-Forward,CF,500000.0,Paços Ferreira,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+GD Estoril Praia,Billal Sebaihi,24.0,France,Central Midfield,CM,250000.0,Manisaspor,Turkey,0.0,out,winter,Primeira Liga,2016,False,
+GD Estoril Praia,Diogo Baltazar,21.0,Portugal,Defensive Midfield,DM,100000.0,1º Dezembro,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+GD Estoril Praia,Yohan Tavares,28.0,Portugal,Centre-Back,CB,2750000.0,Bangkok Utd.,Thailand,0.0,out,winter,Primeira Liga,2016,False,
+Moreirense FC,Pedro Taborda,38.0,Portugal,Goalkeeper,GK,50000.0,Covilhã,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Cauê,27.0,Brazil,Defensive Midfield,DM,600000.0,Hapoel Tel Aviv,Israel,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Ousmane Dramé,23.0,France,Left Winger,LW,300000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Pedro Rebocho,21.0,Portugal,Left-Back,LB,850000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Jander,27.0,Brazil,Left-Back,LB,500000.0,Desportivo Aves,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Diego Ivo,27.0,Brazil,Centre-Back,CB,250000.0,São Bernardo-SP,Brazil,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Giorgi Makaridze,26.0,Georgia,Goalkeeper,GK,500000.0,Feirense,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Moreirense FC,David Ramírez,23.0,Costa Rica,Centre-Forward,CF,275000.0,Saprissa,Costa Rica,0.0,in,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Tiago Almeida,25.0,Cape Verde,Right-Back,RB,750000.0,Belenenses SAD,Portugal,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Neto,24.0,Brazil,Attacking Midfield,AM,,São Caetano,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Benjamín Ubierna,24.0,Peru,Defensive Midfield,DM,475000.0,Juan Aurich,Peru,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Diego Galo,32.0,Brazil,Centre-Back,CB,500000.0,União Madeira,Portugal,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Roberto,27.0,Portugal,Centre-Forward,CF,800000.0,Arouca,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Frédéric Maciel,22.0,Portugal,Right Winger,RW,400000.0,Mouscron,Belgium,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Daniel Podence,20.0,Portugal,Right Winger,RW,1500000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Tiago Morgado,23.0,Portugal,Central Midfield,CM,50000.0,Real SC,Portugal,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Bakary Bouba Saré,26.0,Burkina Faso,Central Midfield,CM,1500000.0,Without Club,,,in,summer,Primeira Liga,2016,False,
+Moreirense FC,Coronas,25.0,Portugal,Right-Back,RB,400000.0,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Ramón Cardozo,30.0,Paraguay,Centre-Forward,CF,600000.0,CD Capiatá,Paraguay,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Filipe Gonçalves,31.0,Portugal,Defensive Midfield,DM,750000.0,Slask Wroclaw,Poland,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Rafa Sousa,27.0,Portugal,Defensive Midfield,DM,400000.0,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Nilson,40.0,Brazil,Goalkeeper,GK,50000.0,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Evaldo,34.0,Brazil,Left-Back,LB,350000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Danielson,35.0,Brazil,Centre-Back,CB,150000.0,Cova Piedade,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Caleb Gomina,19.0,Ghana,Centre-Forward,CF,200000.0,Felgueiras,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Vítor Gomes,28.0,Portugal,Central Midfield,CM,650000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Patrick Andrade,23.0,Cape Verde,Attacking Midfield,AM,200000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Ernest Ohemeng,20.0,Ghana,Left Winger,LW,450000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Ricardo Almeida,19.0,Portugal,Centre-Forward,CF,150000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,João Vieira,24.0,Portugal,Centre-Forward,CF,500000.0,Vizela,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,João Sousa,22.0,Portugal,Centre-Back,CB,150000.0,Vizela,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,Victor Braga,24.0,Brazil,Goalkeeper,GK,50000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Moreirense FC,André Marques,28.0,Portugal,Left-Back,LB,200000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Moreirense FC,Benjamín Ubierna,24.0,Peru,Defensive Midfield,DM,475000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Moreirense FC,João Palhinha,20.0,Portugal,Defensive Midfield,DM,500000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Moreirense FC,Iuri Medeiros,21.0,Portugal,Right Winger,RW,3000000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Moreirense FC,Rafael Martins,27.0,Brazil,Centre-Forward,CF,1500000.0,Levante,Spain,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Moreirense FC,Fábio Espinho,30.0,Portugal,Attacking Midfield,AM,750000.0,Málaga CF,Spain,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Moreirense FC,Fernando Alexandre,31.0,Portugal,Defensive Midfield,DM,500000.0,Coimbra,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Modou Sougou,32.0,Senegal,Right Winger,RW,750000.0,Sheff Wed,England,0.0,in,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Ary Papel,22.0,Angola,Left Winger,LW,250000.0,Sporting B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Alex,25.0,Portugal,Left Winger,LW,600000.0,Vit. Guimarães,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Wallyson Mallmann,22.0,Brazil,Defensive Midfield,DM,1000000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Bakary Bouba Saré,26.0,Burkina Faso,Central Midfield,CM,1500000.0,Without Club,,,in,winter,Primeira Liga,2016,False,
+Moreirense FC,Ença Fati,23.0,Portugal,Left Winger,LW,400000.0,Leixões,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Patrick Andrade,23.0,Cape Verde,Attacking Midfield,AM,150000.0,Salgueiros 08,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Moreirense FC,Benjamín Ubierna,24.0,Peru,Defensive Midfield,DM,475000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+Rio Ave FC,Rúben Ribeiro,28.0,Portugal,Central Midfield,CM,500000.0,Boavista,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Rio Ave FC,Gil Dias,19.0,Portugal,Right Winger,RW,500000.0,Monaco,France,0.0,in,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Nadjack,22.0,Guinea-Bissau,Right-Back,RB,,Reus Deportiu,Spain,0.0,in,summer,Primeira Liga,2016,False,
+Rio Ave FC,Rafa Soares,21.0,Portugal,Left-Back,LB,1000000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Leandrinho,22.0,Brazil,Central Midfield,CM,500000.0,Santos FC,Brazil,,in,summer,Primeira Liga,2016,False,
+Rio Ave FC,Tafsir Chérif,21.0,Guinea,Left Winger,LW,250000.0,Monaco B,France,0.0,in,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Yonathan Del Valle,26.0,Venezuela,Left Winger,LW,2400000.0,Bursaspor,Turkey,225000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Rio Ave FC,Renan Bressan,27.0,Belarus,Attacking Midfield,AM,2000000.0,APOEL Nicosia,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+Rio Ave FC,Ukra,28.0,Portugal,Right Winger,RW,2500000.0,Al-Fateh,Saudi Arabia,0.0,out,summer,Primeira Liga,2016,False,
+Rio Ave FC,Zé Pedro,23.0,Portugal,Centre-Forward,CF,100000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Rio Ave FC,Iuri Gomes,19.0,Macao,Left Winger,LW,50000.0,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Rafael Miranda,20.0,Portugal,Right Winger,RW,50000.0,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Filipe Almeida,19.0,Portugal,Centre-Back,CB,,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Óscar Barros,19.0,Portugal,Right-Back,RB,,Cinfães,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Rio Ave FC,Hélder Postiga,34.0,Portugal,Centre-Forward,CF,750000.0,Atl. Kolkata,India,0.0,out,summer,Primeira Liga,2016,False,
+Rio Ave FC,Silvério,20.0,Portugal,Centre-Back,CB,100000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,José Postiga,20.0,Portugal,Centre-Forward,CF,100000.0,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,William Jebor,24.0,Liberia,Centre-Forward,CF,300000.0,Wydad AC,Morocco,0.0,out,summer,Primeira Liga,2016,True,free loan
+Rio Ave FC,Pedro Paulo,22.0,Brazil,Centre-Forward,CF,150000.0,Cruzeiro,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Rio Ave FC,Zé Paulo,22.0,Brazil,Central Midfield,CM,250000.0,Corinthians,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Rio Ave FC,Joris Kayembe,21.0,Belgium,Left-Back,LB,1500000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Rio Ave FC,Edimar,30.0,Brazil,Left-Back,LB,850000.0,Chievo Verona,Italy,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Rio Ave FC,Kuca,26.0,Cape Verde,Left Winger,LW,750000.0,Karabükspor,Turkey,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Rio Ave FC,Gonçalo Paciência,22.0,Portugal,Centre-Forward,CF,1000000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Rio Ave FC,Bruno Teles,30.0,Brazil,Left-Back,LB,1000000.0,América-MG,Brazil,0.0,in,winter,Primeira Liga,2016,False,
+Rio Ave FC,Adama Traoré,21.0,Mali,Central Midfield,CM,5000000.0,Monaco,France,0.0,in,winter,Primeira Liga,2016,True,free loan
+Rio Ave FC,Radosav Petrovic,27.0,Serbia,Defensive Midfield,DM,2000000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Rio Ave FC,Filipe Augusto,23.0,Brazil,Defensive Midfield,DM,800000.0,Benfica,Portugal,2000000.0,out,winter,Primeira Liga,2016,False,
+Rio Ave FC,Alhassan Wakaso,25.0,Ghana,Defensive Midfield,DM,2000000.0,FC Lorient,France,1000000.0,out,winter,Primeira Liga,2016,False,
+SC Braga,Tomás Martínez,21.0,Argentina,Attacking Midfield,AM,400000.0,River Plate,Argentina,1300000.0,in,summer,Primeira Liga,2016,False,
+SC Braga,Marko Bakic,22.0,Montenegro,Central Midfield,CM,1500000.0,Fiorentina,Italy,900000.0,in,summer,Primeira Liga,2016,False,
+SC Braga,Lazar Rosic,23.0,Serbia,Centre-Back,CB,600000.0,Vojvodina,Serbia,750000.0,in,summer,Primeira Liga,2016,False,
+SC Braga,Luis Aguiar,30.0,Uruguay,Central Midfield,CM,650000.0,Peñarol,Uruguay,0.0,in,summer,Primeira Liga,2016,False,
+SC Braga,Rui Fonte,26.0,Portugal,Centre-Forward,CF,2000000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+SC Braga,Ricardo Horta,21.0,Portugal,Second Striker,SS,1500000.0,Málaga CF,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+SC Braga,Emiliano Velázquez,22.0,Uruguay,Centre-Back,CB,1500000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+SC Braga,Douglas Coutinho,22.0,Brazil,Centre-Forward,CF,1500000.0,Atlético-PR,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+SC Braga,Oscar Benítez,23.0,Argentina,Left Winger,LW,3000000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+SC Braga,Rafa Silva,23.0,Portugal,Right Midfield,RM,15000000.0,Benfica,Portugal,16000000.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Wallace,21.0,Brazil,Centre-Back,CB,6000000.0,Lazio,Italy,8000000.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Willy Boly,25.0,Cote d'Ivoire,Centre-Back,CB,2750000.0,FC Porto,Portugal,6500000.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Stanislav Kritsyuk,25.0,Russia,Goalkeeper,GK,4000000.0,Krasnodar,Russia,4000000.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Felipe Pardo,25.0,Colombia,Right Winger,RW,6000000.0,Olympiacos,Greece,1500000.0,out,summer,Primeira Liga,2016,False,
+SC Braga,João Pedro,30.0,Portugal,Right-Back,RB,1500000.0,Apol. Limassol,Cyprus,0.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Rambé,26.0,Cape Verde,Centre-Forward,CF,350000.0,Univ. Craiova,Romania,0.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Luíz Carlos,31.0,Brazil,Central Midfield,CM,2000000.0,Ahli,Saudi Arabia,0.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Aarón Ñíguez,27.0,Spain,Right Winger,RW,700000.0,CD Tenerife,Spain,0.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Vincent Sasso,25.0,France,Centre-Back,CB,1000000.0,Sheff Wed,England,0.0,out,summer,Primeira Liga,2016,False,
+SC Braga,Fábio Martins,22.0,Portugal,Left Winger,LW,1000000.0,Chaves,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Crislan,24.0,Brazil,Centre-Forward,CF,1000000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Rodrigo Battaglia,25.0,Argentina,Central Midfield,CM,1000000.0,Chaves,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Danilo Barbosa,20.0,Brazil,Defensive Midfield,DM,7000000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Arghus,28.0,Brazil,Centre-Back,CB,250000.0,Excelsior,Netherlands,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Joan Román,23.0,Spain,Left Winger,LW,400000.0,Slask Wroclaw,Poland,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Alef,21.0,Brazil,Defensive Midfield,DM,500000.0,Umm Salal SC,Qatar,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Tiago Gomes,30.0,Portugal,Left-Back,LB,1250000.0,Apol. Limassol,Cyprus,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Joãozinho,26.0,Portugal,Left-Back,LB,600000.0,KV Kortrijk,Belgium,,out,summer,Primeira Liga,2016,False,
+SC Braga,Dolly Menga,23.0,Angola,Centre-Forward,CF,500000.0,Hapoel Tel Aviv,Israel,0.0,out,summer,Primeira Liga,2016,True,free loan
+SC Braga,Rui Fonte,26.0,Portugal,Centre-Forward,CF,2000000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+SC Braga,Filipe Augusto,22.0,Brazil,Defensive Midfield,DM,2000000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+SC Braga,Josué,25.0,Portugal,Attacking Midfield,AM,5000000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+SC Braga,Rafael Assis,26.0,Brazil,Defensive Midfield,DM,800000.0,Chaves,Portugal,1420000.0,in,winter,Primeira Liga,2016,False,
+SC Braga,Paulinho,25.0,Portugal,Right-Back,RB,1000000.0,Chaves,Portugal,350000.0,in,winter,Primeira Liga,2016,False,
+SC Braga,Fede Cartabia,24.0,Argentina,Right Winger,RW,1500000.0,Dep. La Coruña,Spain,0.0,in,winter,Primeira Liga,2016,True,free loan
+SC Braga,Xeka,22.0,Portugal,Central Midfield,CM,300000.0,LOSC Lille,France,200000.0,out,winter,Primeira Liga,2016,True,loan with fee
+SC Braga,Stian Ringstad,25.0,Norway,Left-Back,LB,600000.0,Strømsgodset,Norway,0.0,out,winter,Primeira Liga,2016,False,
+SC Braga,Crislan,24.0,Brazil,Centre-Forward,CF,800000.0,Vegalta Sendai,Japan,46000.0,out,winter,Primeira Liga,2016,True,loan with fee
+SC Braga,Dolly Menga,23.0,Angola,Centre-Forward,CF,500000.0,FC Ashdod,Israel,25000.0,out,winter,Primeira Liga,2016,True,loan with fee
+SC Braga,Danilo Barbosa,20.0,Brazil,Defensive Midfield,DM,7000000.0,Standard Liège,Belgium,0.0,out,winter,Primeira Liga,2016,True,free loan
+SC Braga,Pedro Tiba,28.0,Portugal,Central Midfield,CM,2000000.0,Chaves,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+SC Braga,Marko Bakic,23.0,Montenegro,Central Midfield,CM,1500000.0,Alcorcón,Spain,0.0,out,winter,Primeira Liga,2016,True,free loan
+SC Braga,Luis Aguiar,30.0,Uruguay,Central Midfield,CM,650000.0,Without Club,,,out,winter,Primeira Liga,2016,False,
+SL Benfica,Rafa Silva,23.0,Portugal,Right Midfield,RM,15000000.0,Braga,Portugal,16000000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Konstantinos Mitroglou,28.0,Greece,Centre-Forward,CF,9500000.0,Fulham,England,7000000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Franco Cervi,22.0,Argentina,Left Midfield,LM,5500000.0,CA Rosario,Argentina,5700000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Oscar Benítez,23.0,Argentina,Left Winger,LW,750000.0,Lanús,Argentina,4400000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Guillermo Celis,23.0,Colombia,Defensive Midfield,DM,650000.0,Junior FC,Colombia,2300000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,André Horta,19.0,Portugal,Central Midfield,CM,1500000.0,Vitória Setúbal,Portugal,400000.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,André Carrillo,25.0,Peru,Right Winger,RW,10000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Andrija Zivkovic,19.0,Serbia,Right Winger,RW,6500000.0,Partizan,Serbia,0.0,in,summer,Primeira Liga,2016,False,
+SL Benfica,Danilo Barbosa,20.0,Brazil,Defensive Midfield,DM,7000000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Renato Sanches,18.0,Portugal,Central Midfield,CM,20000000.0,FC Bayern,Germany,35000000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Nico Gaitán,28.0,Argentina,Attacking Midfield,AM,30000000.0,Atlético Madrid,Spain,25000000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Nélson Oliveira,25.0,Portugal,Centre-Forward,CF,3000000.0,Norwich,England,5850000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Mehdi Carcela-González,27.0,Morocco,Right Winger,RW,5000000.0,Granada CF,Spain,4000000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Talisca,22.0,Brazil,Attacking Midfield,AM,7500000.0,Besiktas,Turkey,4000000.0,out,summer,Primeira Liga,2016,True,loan with fee
+SL Benfica,Bebé,26.0,Portugal,Left Winger,LW,2000000.0,SD Eibar,Spain,1500000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Jorge Rojas,23.0,Paraguay,Right Midfield,RM,2000000.0,Cerro Porteño,Paraguay,1000000.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Bruno Varela,21.0,Portugal,Goalkeeper,GK,800000.0,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Luís Felipe,25.0,Brazil,Right-Back,RB,500000.0,Oeste FC-SP,Brazil,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,César Martins,23.0,Brazil,Centre-Back,CB,2250000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Diego Lopes,22.0,Brazil,Attacking Midfield,AM,3500000.0,América-MG,Brazil,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Filip Djuricic,24.0,Serbia,Attacking Midfield,AM,4000000.0,Sampdoria,Italy,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Marçal,27.0,Brazil,Left-Back,LB,2000000.0,Guingamp,France,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Steven Vitória,29.0,Canada,Centre-Back,CB,600000.0,Lechia Gdansk,Poland,0.0,out,summer,Primeira Liga,2016,False,
+SL Benfica,Oscar Benítez,23.0,Argentina,Left Winger,LW,3000000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Ola John,24.0,Netherlands,Left Winger,LW,5000000.0,Wolves,England,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Luis Fariña,25.0,Argentina,Attacking Midfield,AM,1500000.0,Asteras Tripoli,Greece,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Hélder Costa,22.0,Angola,Right Winger,RW,2500000.0,Wolves,England,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Victor Andrade,20.0,Brazil,Left Winger,LW,1500000.0,1860 Munich,Germany,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Hany Mukhtar,21.0,Germany,Attacking Midfield,AM,1000000.0,Bröndby IF,Denmark,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Derley,28.0,Brazil,Centre-Forward,CF,3500000.0,Chiapas FC,Mexico,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Daniel Candeias,28.0,Portugal,Right Winger,RW,1500000.0,Alanyaspor,Turkey,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Bryan Cristante,21.0,Italy,Central Midfield,CM,3000000.0,Pescara,Italy,0.0,out,summer,Primeira Liga,2016,True,free loan
+SL Benfica,Rúben Amorim,32.0,Portugal,Central Midfield,CM,750000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+SL Benfica,Sílvio,28.0,Portugal,Right-Back,RB,2000000.0,Atlético Madrid,Spain,0.0,out,summer,Primeira Liga,2016,True,end of loan
+SL Benfica,Konstantinos Mitroglou,28.0,Greece,Centre-Forward,CF,9500000.0,Fulham,England,0.0,out,summer,Primeira Liga,2016,True,end of loan
+SL Benfica,Marcelo Hermes,22.0,Brazil,Left-Back,LB,500000.0,Grêmio,Brazil,2910000.0,in,winter,Primeira Liga,2016,False,
+SL Benfica,Pedro Pereira,19.0,Portugal,Right Midfield,RM,2000000.0,Sampdoria,Italy,2660000.0,in,winter,Primeira Liga,2016,False,
+SL Benfica,Filipe Augusto,23.0,Brazil,Defensive Midfield,DM,800000.0,Rio Ave FC,Portugal,2000000.0,in,winter,Primeira Liga,2016,False,
+SL Benfica,Pedro Nuno,21.0,Portugal,Attacking Midfield,AM,400000.0,Coimbra,Portugal,400000.0,in,winter,Primeira Liga,2016,False,
+SL Benfica,Gonçalo Guedes,20.0,Portugal,Left Winger,LW,9000000.0,Paris SG,France,30000000.0,out,winter,Primeira Liga,2016,False,
+SL Benfica,Hélder Costa,23.0,Angola,Right Winger,RW,3000000.0,Wolves,England,15000000.0,out,winter,Primeira Liga,2016,False,
+SL Benfica,Pedro Nuno,21.0,Portugal,Attacking Midfield,AM,400000.0,Tondela,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Filip Djuricic,25.0,Serbia,Attacking Midfield,AM,3000000.0,Sampdoria,Italy,0.0,out,winter,Primeira Liga,2016,False,
+SL Benfica,Luís Felipe,25.0,Brazil,Right-Back,RB,400000.0,Vitória Setúbal,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+SL Benfica,Diego Lopes,22.0,Brazil,Attacking Midfield,AM,3000000.0,Panetolikos,Greece,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Adel Taarabt,27.0,Morocco,Attacking Midfield,AM,800000.0,Genoa,Italy,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Ola John,24.0,Netherlands,Left Winger,LW,5000000.0,Dep. La Coruña,Spain,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Bryan Cristante,21.0,Italy,Central Midfield,CM,2000000.0,Atalanta BC,Italy,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Oscar Benítez,24.0,Argentina,Left Winger,LW,3000000.0,Boca Juniors,Argentina,0.0,out,winter,Primeira Liga,2016,True,free loan
+SL Benfica,Guillermo Celis,23.0,Colombia,Defensive Midfield,DM,2000000.0,Vit. Guimarães,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Sporting CP,Bas Dost,27.0,Netherlands,Centre-Forward,CF,7500000.0,VfL Wolfsburg,Germany,11850000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Alan Ruiz,22.0,Argentina,Attacking Midfield,AM,2200000.0,San Lorenzo,Argentina,4840000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Bruno Paulista,20.0,Brazil,Defensive Midfield,DM,1000000.0,EC Bahia,Brazil,3500000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Luc Castaignos,23.0,Netherlands,Centre-Forward,CF,3000000.0,E. Frankfurt,Germany,2500000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Elias,31.0,Brazil,Central Midfield,CM,7000000.0,Corinthians,Brazil,2500000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Lukas Spalvis,21.0,Lithuania,Centre-Forward,CF,2000000.0,Aalborg BK,Denmark,1610000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Radosav Petrovic,27.0,Serbia,Defensive Midfield,DM,2500000.0,Dynamo Kyiv,Ukraine,1000000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Douglas,28.0,Netherlands,Centre-Back,CB,3000000.0,Trabzonspor,Turkey,1000000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,André,25.0,Brazil,Centre-Forward,CF,4000000.0,Corinthians,Brazil,1000000.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Marcelo Meli,24.0,Argentina,Central Midfield,CM,4000000.0,Boca Juniors,Argentina,270000.0,in,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,Beto,34.0,Portugal,Goalkeeper,GK,2000000.0,Sevilla FC,Spain,0.0,in,summer,Primeira Liga,2016,False,
+Sporting CP,Joel Campbell,24.0,Costa Rica,Centre-Forward,CF,8000000.0,Arsenal,England,0.0,in,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Lazar Markovic,22.0,Serbia,Right Winger,RW,14000000.0,Liverpool,England,0.0,in,summer,Primeira Liga,2016,True,free loan
+Sporting CP,João Mário,23.0,Portugal,Central Midfield,CM,30000000.0,Inter,Italy,40000000.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,Islam Slimani,28.0,Algeria,Centre-Forward,CF,22000000.0,Leicester,England,31000000.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,Naldo,28.0,Brazil,Centre-Back,CB,3750000.0,Krasnodar,Russia,4500000.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,Carlos Mané,22.0,Portugal,Right Winger,RW,4500000.0,VfB Stuttgart,Germany,1650000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,Teófilo Gutiérrez,31.0,Colombia,Centre-Forward,CF,3500000.0,CA Rosario,Argentina,500000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,Ewerton,27.0,Brazil,Centre-Back,CB,2750000.0,1.FC K'lautern,Germany,200000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,Wallyson Mallmann,22.0,Brazil,Defensive Midfield,DM,1250000.0,Standard Liège,Belgium,125000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,Simeon Slavchev,22.0,Bulgaria,Defensive Midfield,DM,1250000.0,Lechia Gdansk,Poland,50000.0,out,summer,Primeira Liga,2016,True,loan with fee
+Sporting CP,André Carrillo,25.0,Peru,Right Winger,RW,10000000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,Iuri Medeiros,22.0,Portugal,Right Winger,RW,5000000.0,Boavista,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Alberto Aquilani,32.0,Italy,Central Midfield,CM,3000000.0,Pescara,Italy,0.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,Hernán Barcos,32.0,Argentina,Centre-Forward,CF,2500000.0,Vélez Sarsfield,Argentina,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,André Martins,26.0,Portugal,Central Midfield,CM,1500000.0,Olympiacos,Greece,0.0,out,summer,Primeira Liga,2016,False,
+Sporting CP,João Palhinha,21.0,Portugal,Defensive Midfield,DM,1250000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Oriol Rosell,23.0,Spain,Defensive Midfield,DM,1000000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Daniel Podence,20.0,Portugal,Right Winger,RW,1500000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Miguel Lopes,29.0,Portugal,Right-Back,RB,3000000.0,Akhisar Belediye,Turkey,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Tobias Figueiredo,22.0,Portugal,Centre-Back,CB,2500000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Sporting CP,Douglas,29.0,Netherlands,Centre-Back,CB,2500000.0,Ban,,,out,summer,Primeira Liga,2016,False,
+Sporting CP,Zakaria Labyad,23.0,Morocco,Attacking Midfield,AM,2000000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Sporting CP,Sebastián Coates,26.0,Uruguay,Centre-Back,CB,6000000.0,Sunderland,England,4720000.0,in,winter,Primeira Liga,2016,False,
+Sporting CP,Elias,31.0,Brazil,Central Midfield,CM,5000000.0,Atlético-MG,Brazil,2500000.0,out,winter,Primeira Liga,2016,False,
+Sporting CP,André,26.0,Brazil,Centre-Forward,CF,4000000.0,Sport Recife,Brazil,1200000.0,out,winter,Primeira Liga,2016,False,
+Sporting CP,Junya Tanaka,29.0,Japan,Centre-Forward,CF,2500000.0,Vissel Kobe,Japan,430000.0,out,winter,Primeira Liga,2016,False,
+Sporting CP,João Pereira,32.0,Portugal,Right-Back,RB,1500000.0,Trabzonspor,Turkey,300000.0,out,winter,Primeira Liga,2016,False,
+Sporting CP,Hernán Barcos,32.0,Argentina,Centre-Forward,CF,1500000.0,LDU Quito,Ecuador,0.0,out,winter,Primeira Liga,2016,False,
+Sporting CP,Fabrice Fokobo,23.0,Cameroon,Defensive Midfield,DM,500000.0,Famalicão,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Sporting CP,Lukas Spalvis,22.0,Lithuania,Centre-Forward,CF,2000000.0,Belenenses SAD,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Sporting CP,Radosav Petrovic,27.0,Serbia,Defensive Midfield,DM,2000000.0,Rio Ave FC,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Sporting CP,Wallyson Mallmann,22.0,Brazil,Defensive Midfield,DM,1000000.0,Moreirense,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Tiquinho Soares,25.0,Brazil,Centre-Forward,CF,750000.0,Paraibano-PB,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Rúben,26.0,Portugal,Left-Back,LB,2500000.0,Marítimo,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,João Aurélio,27.0,Portugal,Right-Back,RB,2500000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Moussa Marega,25.0,Mali,Second Striker,SS,3000000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Hernâni,25.0,Portugal,Right Winger,RW,2500000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Rafael Miranda,31.0,Brazil,Defensive Midfield,DM,550000.0,Ferroviária,Brazil,,in,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Georgemy,20.0,Brazil,Goalkeeper,GK,100000.0,Cruzeiro,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Prince Gouano,22.0,France,Centre-Back,CB,1700000.0,Atalanta BC,Italy,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Bernard Mensah,21.0,Ghana,Attacking Midfield,AM,1500000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Paolo Hurtado,26.0,Peru,Attacking Midfield,AM,1500000.0,Reading,England,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,David Texeira,25.0,Uruguay,Centre-Forward,CF,500000.0,Without Club,,,in,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Cafú,23.0,Portugal,Central Midfield,CM,2000000.0,FC Lorient,France,2000000.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Dalbert,22.0,Brazil,Left-Back,LB,750000.0,OGC Nice,France,2000000.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Luís Rocha,23.0,Portugal,Left-Back,LB,750000.0,Panetolikos,Greece,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Tomané,23.0,Portugal,Centre-Forward,CF,700000.0,Panetolikos,Greece,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Pedro Correia,29.0,Portugal,Right-Back,RB,250000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Assis,26.0,Brazil,Goalkeeper,GK,400000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Ricardo Gomes,24.0,Cape Verde,Centre-Forward,CF,500000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,João Afonso,26.0,Portugal,Centre-Back,CB,1500000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Bruno Alves,26.0,Portugal,Central Midfield,CM,500000.0,Desportivo Aves,Portugal,,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Inters Gui,24.0,Cote d'Ivoire,Attacking Midfield,AM,300000.0,FC Chiasso,Switzerland,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Ricardo Valente,25.0,Portugal,Left Winger,LW,1750000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Bakary Bouba Saré,26.0,Burkina Faso,Central Midfield,CM,1500000.0,Without Club,,,out,summer,Primeira Liga,2016,False,
+Vitória Guimarães SC,Breno,21.0,Brazil,Left-Back,LB,750000.0,Grêmio,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Santiago Montoya,24.0,Colombia,Attacking Midfield,AM,750000.0,Vasco da Gama,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Otávio,21.0,Brazil,Attacking Midfield,AM,3250000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Henrique Dourado,26.0,Brazil,Centre-Forward,CF,3000000.0,Mirassol-SP,Brazil,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Paolo Hurtado,25.0,Peru,Attacking Midfield,AM,1500000.0,Reading,England,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Oriol Rosell,23.0,Spain,Defensive Midfield,DM,1000000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,João Teixeira,22.0,Portugal,Attacking Midfield,AM,1000000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Victor Andrade,20.0,Brazil,Left Winger,LW,1500000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Guimarães SC,Rafael Martins,27.0,Brazil,Centre-Forward,CF,1000000.0,Levante,Spain,500000.0,in,winter,Primeira Liga,2016,False,
+Vitória Guimarães SC,Tiquinho Soares,25.0,Brazil,Centre-Forward,CF,1000000.0,Paraibano-PB,Brazil,500000.0,in,winter,Primeira Liga,2016,False,
+Vitória Guimarães SC,Fábio Sturgeon,22.0,Portugal,Right Winger,RW,2500000.0,Belenenses SAD,Portugal,,in,winter,Primeira Liga,2016,False,
+Vitória Guimarães SC,Guillermo Celis,23.0,Colombia,Defensive Midfield,DM,2000000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Tiquinho Soares,26.0,Brazil,Centre-Forward,CF,1000000.0,FC Porto,Portugal,5600000.0,out,winter,Primeira Liga,2016,False,
+Vitória Guimarães SC,João Pedro,23.0,Portugal,Central Midfield,CM,1000000.0,LA Galaxy,United States,1450000.0,out,winter,Primeira Liga,2016,False,
+Vitória Guimarães SC,Francis,26.0,Brazil,Right Winger,RW,150000.0,Botafogo-SP,Brazil,0.0,out,winter,Primeira Liga,2016,True,free loan
+Vitória Guimarães SC,Alex,25.0,Portugal,Left Winger,LW,600000.0,Moreirense,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Vasco Fernandes,29.0,Portugal,Centre-Back,CB,800000.0,Pandurii,Romania,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,André Geraldes,25.0,Portugal,Right-Back,RB,1000000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Ryan Gauld,20.0,Scotland,Attacking Midfield,AM,1500000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Fábio Cardoso,22.0,Portugal,Centre-Back,CB,1500000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Bruno Varela,21.0,Portugal,Goalkeeper,GK,800000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Pedro Trigueira,28.0,Portugal,Goalkeeper,GK,750000.0,Coimbra,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Nenê Bonilha,24.0,Brazil,Central Midfield,CM,500000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,João Amaral,24.0,Portugal,Right Winger,RW,,FC Pedras Rubras,Portugal,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Edinho,34.0,Portugal,Centre-Forward,CF,300000.0,Sanliurfaspor,Turkey,0.0,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Nuno Santos,21.0,Portugal,Left Winger,LW,750000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Thiago,23.0,Brazil,Centre-Forward,CF,750000.0,São Carlos,Brazil,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Mikel Agu,23.0,Nigeria,Defensive Midfield,DM,1300000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Pedro Pinto,21.0,Portugal,Centre-Back,CB,350000.0,Leixões,Portugal,,in,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Zé Manuel,25.0,Portugal,Centre-Forward,CF,800000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,André Horta,19.0,Portugal,Central Midfield,CM,1500000.0,Benfica,Portugal,400000.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Tiago Valente,31.0,Portugal,Centre-Back,CB,400000.0,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,William Alves,29.0,Brazil,Centre-Back,CB,500000.0,Al-Batin,Saudi Arabia,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Alexandre Cardoso,24.0,Brazil,Defensive Midfield,DM,75000.0,Trofense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Cléber,24.0,Brazil,Centre-Back,CB,50000.0,Trofense,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Valdumar,18.0,Guinea-Bissau,Centre-Forward,CF,,Mafra,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Shaher Mansour,24.0,Saudi Arabia,Attacking Midfield,AM,50000.0,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Kiko,23.0,Portugal,Left-Back,LB,400000.0,Port Vale,England,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Dani,34.0,Portugal,Defensive Midfield,DM,350000.0,Vizela,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Paulo Tavares,30.0,Portugal,Attacking Midfield,AM,700000.0,Port Vale,England,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Miguel Lázaro,21.0,Portugal,Goalkeeper,GK,100000.0,Castelo Branco,Portugal,0.0,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Fábio Pala,23.0,Portugal,Right-Back,RB,100000.0,Casa Pia,Portugal,,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Miguel Lourenço,24.0,Portugal,Centre-Back,CB,300000.0,Zira FC,Azerbaijan,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Marlon,21.0,Portugal,Defensive Midfield,DM,200000.0,Real SC,Portugal,,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Mohcine Hassan,21.0,Morocco,Centre-Forward,CF,300000.0,Freamunde,Portugal,0.0,out,summer,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Forbes,27.0,Guinea-Bissau,Centre-Forward,CF,250000.0,Anadia FC,Portugal,,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Peixinho,23.0,Portugal,Defensive Midfield,DM,100000.0,Retired,,,out,summer,Primeira Liga,2016,False,
+Vitória Setúbal FC,Ricardo Nunes,33.0,Portugal,Goalkeeper,GK,300000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Setúbal FC,Maciej Makuszewski,26.0,Poland,Right Winger,RW,750000.0,Lechia Gdansk,Poland,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Setúbal FC,Salim Cissé,23.0,Guinea,Centre-Forward,CF,850000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2016,True,end of loan
+Vitória Setúbal FC,João Carvalho,19.0,Portugal,Attacking Midfield,AM,1000000.0,Benfica B,Portugal,0.0,in,winter,Primeira Liga,2016,True,free loan
+Vitória Setúbal FC,Luís Felipe,25.0,Brazil,Right-Back,RB,400000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2016,False,
+Vitória Setúbal FC,André Claro,25.0,Portugal,Second Striker,SS,1750000.0,Estoril Praia,Portugal,100000.0,out,winter,Primeira Liga,2016,False,
+Vitória Setúbal FC,Ruca,26.0,Portugal,Left-Back,LB,500000.0,Tondela,Portugal,0.0,out,winter,Primeira Liga,2016,False,
+Vitória Setúbal FC,Diogo Ferreira,19.0,Portugal,Goalkeeper,GK,,Fabril Barreiro,Portugal,0.0,out,winter,Primeira Liga,2016,True,free loan

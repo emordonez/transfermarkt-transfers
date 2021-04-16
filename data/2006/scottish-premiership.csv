@@ -1,0 +1,322 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aberdeen FC,Karim Touzani,25.0,Netherlands,Defensive Midfield,DM,750000.0,Twente FC,Netherlands,0.0,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Dyron Daal,22.0,Curacao,Centre-Forward,CF,,FC Omniworld,Netherlands,0.0,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Daniel Smith,19.0,England,Left-Back,LB,50000.0,Sunderland,England,0.0,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Lee Miller,23.0,Scotland,Centre-Forward,CF,600000.0,Dundee United,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Dyron Daal,23.0,Curacao,Centre-Forward,CF,300000.0,Dundee FC,Scotland,,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Derek Soutar,25.0,Scotland,Goalkeeper,GK,350000.0,Dundee FC,Scotland,,in,summer,Scottish Premiership,2006,False,
+Aberdeen FC,John Stewart,20.0,Scotland,Centre-Forward,CF,50000.0,Falkirk,Scotland,90000.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Ryan Esson,27.0,Scotland,Goalkeeper,GK,50000.0,Shrewsbury,England,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Kevin McNaughton,23.0,Scotland,Right-Back,RB,450000.0,Cardiff,England,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Neil MacFarlane,28.0,Scotland,Central Midfield,CM,50000.0,Gretna,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Danny Griffin,28.0,Northern Ireland,Right-Back,RB,400000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Markus Paatelainen,23.0,Finland,midfield,midfield,125000.0,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Stevie Crawford,32.0,Scotland,Centre-Forward,CF,350000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Ashley McInnes,19.0,Scotland,Right Winger,RW,50000.0,Peterhead,Scotland,,out,summer,Scottish Premiership,2006,False,
+Aberdeen FC,Ferne Snoyl,21.0,Netherlands,Left-Back,LB,350000.0,Feyenoord,Netherlands,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Aberdeen FC,Craig Brewster,39.0,Scotland,Centre-Forward,CF,50000.0,Dundee United,Scotland,0.0,in,winter,Scottish Premiership,2006,False,
+Aberdeen FC,Steven Craig,25.0,Scotland,Centre-Forward,CF,100000.0,Livingston FC,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Aberdeen FC,Dyron Daal,23.0,Curacao,Centre-Forward,CF,300000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Aberdeen FC,Kyle Macaulay,20.0,Scotland,Attacking Midfield,AM,50000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Aberdeen FC,Greg Kelly,19.0,Scotland,Goalkeeper,GK,50000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Jan Vennegoor of Hesselink,27.0,Netherlands,Centre-Forward,CF,8500000.0,PSV Eindhoven,Netherlands,4900000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Jiri Jarosik,28.0,Czech Republic,Centre-Back,CB,6500000.0,Chelsea,England,3500000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Thomas Gravesen,30.0,Denmark,Defensive Midfield,DM,3500000.0,Real Madrid,Spain,3000000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Artur Boruc,26.0,Poland,Goalkeeper,GK,4500000.0,Legia Warszawa,Poland,1500000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Lee Naylor,26.0,England,Left-Back,LB,1000000.0,Wolves,England,1000000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Evander Sno,19.0,Netherlands,Defensive Midfield,DM,1000000.0,Feyenoord,Netherlands,400000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Derek Riordan,23.0,Scotland,Centre-Forward,CF,2500000.0,Hibernian FC,Scotland,225000.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Kenny Miller,26.0,Scotland,Centre-Forward,CF,1250000.0,Wolves,England,0.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Gary Caldwell,24.0,Scotland,Centre-Back,CB,1350000.0,Hibernian FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Celtic FC,Stiliyan Petrov,27.0,Bulgaria,Central Midfield,CM,7350000.0,Aston Villa,England,10000000.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Stanislav Varga,33.0,Slovakia,Centre-Back,CB,2000000.0,Sunderland,England,1650000.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Ross Wallace,21.0,Scotland,Right Midfield,RM,1250000.0,Sunderland,England,1300000.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Stephen Pearson,23.0,Scotland,Central Midfield,CM,850000.0,Derby,England,1130000.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,John Hartson,31.0,Wales,Centre-Forward,CF,6000000.0,West Brom,England,750000.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Mohammed Camara,31.0,Guinea,Left-Back,LB,2250000.0,Derby,England,0.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Gary Irvine,21.0,Scotland,Right-Back,RB,,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Celtic FC,Charlie Mulgrew,20.0,Scotland,Centre-Back,CB,150000.0,Wolves,England,0.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Paul Lawson,22.0,Scotland,Defensive Midfield,DM,175000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Celtic FC,Ross Harris,21.0,Scotland,Right Winger,RW,,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Adam Virgo,23.0,Scotland,Centre-Back,CB,1500000.0,Coventry,England,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Celtic FC,Michael Gardyne,20.0,Scotland,Right Winger,RW,,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Celtic FC,Paul McGowan,18.0,Scotland,Central Midfield,CM,,Morton,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Celtic FC,Dion Dublin,37.0,England,Centre-Forward,CF,1000000.0,Norwich,England,0.0,out,summer,Scottish Premiership,2006,False,
+Celtic FC,Artur Boruc,26.0,Poland,Goalkeeper,GK,4500000.0,Legia Warszawa,Poland,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Celtic FC,Paul Hartley,30.0,Scotland,Central Midfield,CM,1750000.0,Heart of Midl.,Scotland,1660000.0,in,winter,Scottish Premiership,2006,False,
+Celtic FC,Jean-Joël Perrier-Doumbé,28.0,Cameroon,Right-Back,RB,80000.0,Stade Rennais,France,210000.0,in,winter,Scottish Premiership,2006,True,loan with fee
+Celtic FC,Steven Pressley,33.0,Scotland,Centre-Back,CB,1500000.0,Heart of Midl.,Scotland,0.0,in,winter,Scottish Premiership,2006,False,
+Celtic FC,Mark Brown,25.0,Scotland,Goalkeeper,GK,450000.0,Inverness CT,Scotland,0.0,in,winter,Scottish Premiership,2006,False,
+Celtic FC,Shaun Maloney,24.0,Scotland,Attacking Midfield,AM,3000000.0,Aston Villa,England,1500000.0,out,winter,Scottish Premiership,2006,False,
+Celtic FC,Alan Thompson,33.0,England,Left Midfield,LM,3500000.0,Leeds,England,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Diarmuid O'Carroll,19.0,Ireland,Centre-Forward,CF,,Ross County,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Rocco Quinn,20.0,Scotland,Central Midfield,CM,50000.0,Kilmarnock FC,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Paul Lawson,22.0,Scotland,Defensive Midfield,DM,175000.0,St. Mirren,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Michael McGovern,22.0,Northern Ireland,Goalkeeper,GK,50000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Scott Cuthbert,19.0,Scotland,Centre-Back,CB,125000.0,Livingston FC,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,David Marshall,21.0,Scotland,Goalkeeper,GK,1250000.0,Norwich,England,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Celtic FC,Jim O'Brien,19.0,Scotland,Central Midfield,CM,,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Dundee United FC,Jon Daly,23.0,Ireland,Centre-Forward,CF,50000.0,Hartlepool Utd.,England,700000.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Noel Hunt,23.0,Ireland,Centre-Forward,CF,600000.0,Dunfermline A.,Scotland,75000.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,David Proctor,22.0,Scotland,Centre-Back,CB,250000.0,Inverness CT,Scotland,50000.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Craig Conway,21.0,Scotland,Attacking Midfield,AM,50000.0,Ayr United,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Steven Robb,24.0,Scotland,Left Winger,LW,400000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Grant Smith,26.0,Scotland,Defensive Midfield,DM,,Bristol City,England,0.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Lee Wilkie,26.0,Scotland,Centre-Back,CB,350000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Christian Kalvenes,29.0,Norway,Left-Back,LB,,Brann,Norway,0.0,in,summer,Scottish Premiership,2006,False,
+Dundee United FC,Grant Smith,26.0,Scotland,Defensive Midfield,DM,150000.0,HJK Helsinki,Finland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,David Fernández,30.0,Spain,Attacking Midfield,AM,500000.0,Kilmarnock FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Craig Samson,21.0,Scotland,Goalkeeper,GK,50000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Grant Brebner,28.0,Scotland,Defensive Midfield,DM,400000.0,Melbourne,Australia,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Derek McInnes,34.0,Scotland,Defensive Midfield,DM,450000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Jim McIntyre,34.0,Scotland,Left Winger,LW,350000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Lee Miller,23.0,Scotland,Centre-Forward,CF,600000.0,Aberdeen FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Paul Ritchie,30.0,Scotland,Centre-Back,CB,600000.0,Omonia Nikosia,Cyprus,,out,summer,Scottish Premiership,2006,False,
+Dundee United FC,Barry Callaghan,19.0,Scotland,Right-Back,RB,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Dundee United FC,Morgaro Gomis,21.0,Senegal,Defensive Midfield,DM,,Cowdenbeath,Scotland,75000.0,in,winter,Scottish Premiership,2006,False,
+Dundee United FC,Seán Dillon,23.0,Ireland,Centre-Back,CB,,Shelbourne,Ireland,75000.0,in,winter,Scottish Premiership,2006,False,
+Dundee United FC,David Proctor,22.0,Scotland,Centre-Back,CB,350000.0,Airdrie United,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Dundee United FC,Alan Archibald,29.0,Scotland,Centre-Back,CB,450000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Dundee United FC,Craig Brewster,39.0,Scotland,Centre-Forward,CF,50000.0,Aberdeen FC,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Dundee United FC,Lee Wilkie,26.0,Scotland,Centre-Back,CB,350000.0,Ross County,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Dundee United FC,Garry Kenneth,19.0,Scotland,Centre-Back,CB,100000.0,Cowdenbeath,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Phil McGuire,26.0,Scotland,Centre-Back,CB,600000.0,Doncaster,England,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Roddy McKenzie,30.0,Scotland,Goalkeeper,GK,50000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Jim McIntyre,34.0,Scotland,Left Winger,LW,350000.0,Dundee United,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Calum Woods,19.0,England,Right-Back,RB,,Liverpool U18,England,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Dorus de Vries,25.0,Netherlands,Goalkeeper,GK,600000.0,ADO Den Haag,Netherlands,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Owen Morrison,24.0,Northern Ireland,Left Midfield,LM,,Bradford,England,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Sol Bamba,21.0,Cote d'Ivoire,Centre-Back,CB,200000.0,Without Club,,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Noel Whelan,31.0,England,Centre-Forward,CF,100000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Stevie Crawford,32.0,Scotland,Centre-Forward,CF,350000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Scott Doherty,16.0,Scotland,midfield,midfield,,Livingston FC,Scotland,45000.0,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Jim Hamilton,30.0,Scotland,Centre-Forward,CF,450000.0,Motherwell FC,Scotland,,in,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Noel Hunt,23.0,Ireland,Centre-Forward,CF,600000.0,Dundee United,Scotland,75000.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Lee Makel,34.0,England,Attacking Midfield,AM,400000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Andy Campbell,27.0,England,Centre-Forward,CF,125000.0,Halifax Town,England,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Derek Young,26.0,Scotland,Central Midfield,CM,350000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Bryn Halliwell,25.0,England,Goalkeeper,GK,250000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Sean Murdoch,19.0,Scotland,Goalkeeper,GK,,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Yannick Zambernardi,28.0,France,Centre-Back,CB,550000.0,FC Istres,France,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Bartosz Tarachulski,31.0,Poland,Centre-Forward,CF,300000.0,PAE Veria,Greece,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Simon Donnelly,31.0,Scotland,Right Winger,RW,350000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Iain Campbell,21.0,Scotland,Left-Back,LB,150000.0,Kilmarnock FC,Scotland,,out,summer,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Craig Wilson,20.0,Scotland,Right-Back,RB,125000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Allan McGregor,24.0,Scotland,Goalkeeper,GK,500000.0,Rangers,Scotland,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Dunfermline Athletic FC,Adam Hammill,18.0,England,Right Winger,RW,,Liverpool U23,England,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Stephen Glass,30.0,Scotland,Left Midfield,LM,850000.0,Hibernian FC,Scotland,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Jamie Harris,27.0,Wales,Centre-Back,CB,,Shelbourne,Ireland,0.0,in,winter,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Tam McManus,25.0,Scotland,Centre-Forward,CF,375000.0,Falkirk,Scotland,0.0,in,winter,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Bobby Ryan,27.0,Ireland,midfield,midfield,,Shelbourne,Ireland,10000.0,in,winter,Scottish Premiership,2006,False,
+Dunfermline Athletic FC,Jim O'Brien,19.0,Scotland,Central Midfield,CM,,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Sean Murdoch,20.0,Scotland,Goalkeeper,GK,,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Dunfermline Athletic FC,Craig Wilson,20.0,Scotland,Right-Back,RB,125000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Falkirk FC,John Stewart,20.0,Scotland,Centre-Forward,CF,50000.0,Aberdeen FC,Scotland,90000.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Jeroen Lambers,25.0,Netherlands,Goalkeeper,GK,50000.0,FC Groningen,Netherlands,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Graham Barrett,24.0,Ireland,Centre-Forward,CF,750000.0,Coventry,England,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Mark Stewart,18.0,Scotland,Centre-Forward,CF,,Partick Thistle FC U20,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Scott Higgins,30.0,Australia,Goalkeeper,GK,,Unknown,,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Cédric Uras,28.0,France,Centre-Back,CB,1300000.0,Clermont Foot,France,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Anthony Stokes,18.0,Ireland,Centre-Forward,CF,100000.0,Arsenal Res.,England,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Falkirk FC,Tam McManus,25.0,Scotland,Centre-Forward,CF,375000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Falkirk FC,Stephen Manson,21.0,Scotland,Right Winger,RW,50000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Derek Colquhoun,21.0,Scotland,attack,attack,,Falkirk Juniors,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Lecsinel Jean-François,19.0,Haiti,Centre-Back,CB,75000.0,Guingamp,France,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Andy Lawrie,27.0,Scotland,Right-Back,RB,350000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Thomas Nishan Litjens,21.0,Netherlands,Centre-Back,CB,,Wuppertaler SV,Germany,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Scott MacKenzie,35.0,Scotland,midfield,midfield,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Densill Theobald,24.0,Trinidad and Tobago,Central Midfield,CM,250000.0,Caledonia AIA,Trinidad and Tobago,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Neil Scally,27.0,Scotland,Central Midfield,CM,150000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Daniel McBreen,29.0,Australia,Centre-Forward,CF,350000.0,Scunthorpe Utd.,England,0.0,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Paul McAloney,20.0,Scotland,Defensive Midfield,DM,50000.0,East Stirling,Scotland,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Allan Ferguson,37.0,Scotland,Goalkeeper,GK,150000.0,Stranraer,Scotland,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Mark Ramsay,20.0,Scotland,Attacking Midfield,AM,,Dundonald Bluebell JFC,Scotland,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Ian MacSween,22.0,Scotland,Centre-Forward,CF,100000.0,Berwick Rangers,England,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Fouzi Mesaoudi,25.0,Netherlands,Defensive Midfield,DM,100000.0,Alphen,Netherlands,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Craig McPherson,34.0,Scotland,Left Midfield,LM,100000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Darren Hill,24.0,Scotland,Goalkeeper,GK,75000.0,Without Club,,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,John Hughes,41.0,Scotland,Centre-Back,CB,50000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Falkirk FC,Kasper Schmeichel,20.0,Denmark,Goalkeeper,GK,250000.0,Man City,England,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Falkirk FC,Dean Holden,27.0,Northern Ireland,Centre-Back,CB,,Peterborough,England,0.0,in,winter,Scottish Premiership,2006,False,
+Falkirk FC,Carl Finnigan,20.0,England,Centre-Forward,CF,,Newcastle U23,England,25000.0,in,winter,Scottish Premiership,2006,False,
+Falkirk FC,Tam McManus,25.0,Scotland,Centre-Forward,CF,375000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Falkirk FC,Scott Higgins,30.0,Australia,Goalkeeper,GK,300000.0,Maccabi Herzliya,Israel,,out,winter,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Mauricio Pinilla,22.0,Chile,Centre-Forward,CF,2500000.0,Sporting CP,Portugal,900000.0,in,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Christos Karypidis,23.0,Greece,Centre-Back,CB,950000.0,PAOK Salonika,Greece,478000.0,in,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Arnus Lekevicius,22.0,Lithuania,Goalkeeper,GK,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Andrius Velicka,27.0,Lithuania,Centre-Forward,CF,,FBK Kaunas,Lithuania,,in,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Roman Bednár,23.0,Czech Republic,Centre-Forward,CF,1250000.0,FBK Kaunas,Lithuania,,in,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Marius Zaliukas,22.0,Lithuania,Centre-Back,CB,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Denis McLaughlin,19.0,Ireland,Centre-Forward,CF,,Berwick Rangers,England,75000.0,out,summer,Scottish Premiership,2006,True,loan with fee
+Heart of Midlothian FC,Gary Tierney,20.0,Scotland,Defensive Midfield,DM,150000.0,Airdrie United,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Chris Hackett,23.0,England,Right Midfield,RM,200000.0,Millwall,England,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Jamie McAllister,28.0,Scotland,Left-Back,LB,500000.0,Bristol City,England,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Lee Johnson,25.0,England,Central Midfield,CM,250000.0,Bristol City,England,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Jason Thomson,18.0,Scotland,Right-Back,RB,,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Ludek Straceny,29.0,Czech Republic,midfield,midfield,500000.0,Viktoria Zizkov,Czech Republic,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Andy Webster,24.0,Scotland,Centre-Back,CB,1250000.0,Wigan,England,0.0,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Calum Elliot,19.0,Scotland,Centre-Forward,CF,1000000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Matthew Doherty,19.0,Northern Ireland,Right Winger,RW,,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Hjálmar Thórarinsson,20.0,Iceland,Centre-Forward,CF,250000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Raïs M'Bolhi,20.0,Algeria,Goalkeeper,GK,50000.0,Ethn. Piraeus,Greece,,out,summer,Scottish Premiership,2006,False,
+Heart of Midlothian FC,John Neil,18.0,Scotland,Right Midfield,RM,75000.0,Hamilton Acad.,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Camazzola,23.0,Brazil,Defensive Midfield,DM,500000.0,Juventude,Brazil,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Heart of Midlothian FC,Martin Petras,26.0,Slovakia,Right-Back,RB,750000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Heart of Midlothian FC,Tiago Costa,21.0,Portugal,Right-Back,RB,,Benfica B,Portugal,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Heart of Midlothian FC,Roman Bednár,23.0,Czech Republic,Centre-Forward,CF,1250000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Heart of Midlothian FC,Arkadiusz Klimek,31.0,Poland,Centre-Forward,CF,550000.0,FBK Kaunas,Lithuania,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Laryea Kingston,26.0,Ghana,Central Midfield,CM,700000.0,Loko Moscow,Russia,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Linas Pilibaitis,21.0,Lithuania,Central Midfield,CM,,FBK Kaunas,Lithuania,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Tomas Kancelskis,31.0,Lithuania,Centre-Back,CB,,FBK Kaunas,Lithuania,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Paul Hartley,30.0,Scotland,Central Midfield,CM,1750000.0,Celtic,Scotland,1660000.0,out,winter,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Denis McLaughlin,19.0,Ireland,Centre-Forward,CF,,Raith Rovers,Scotland,100000.0,out,winter,Scottish Premiership,2006,True,loan with fee
+Heart of Midlothian FC,Steven Pressley,33.0,Scotland,Centre-Back,CB,1500000.0,Celtic,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Jamie Mole,18.0,England,Centre-Forward,CF,350000.0,Livingston FC,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Mauricio Pinilla,23.0,Chile,Centre-Forward,CF,2500000.0,U. de Chile,Chile,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Craig Sives,20.0,Scotland,Centre-Back,CB,150000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Milan Barjaktarevic,19.0,Sweden,Goalkeeper,GK,50000.0,Kalmar FF,Sweden,,out,winter,Scottish Premiership,2006,False,
+Heart of Midlothian FC,Jamie MacDonald,20.0,Scotland,Goalkeeper,GK,200000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Juho Mäkelä,23.0,Finland,Centre-Forward,CF,450000.0,FC Thun,Switzerland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,John Neil,19.0,Scotland,Right Midfield,RM,75000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Heart of Midlothian FC,Hjálmar Thórarinsson,21.0,Iceland,Centre-Forward,CF,250000.0,Fram Reykjavík,Iceland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Hibernian FC,Yves Makabu-Makalambay,21.0,DR Congo,Goalkeeper,GK,75000.0,Chelsea Res.,England,0.0,in,summer,Scottish Premiership,2006,False,
+Hibernian FC,Rob Jones,26.0,England,Centre-Back,CB,150000.0,Grimsby Town,England,0.0,in,summer,Scottish Premiership,2006,False,
+Hibernian FC,Shelton Martis,23.0,Curacao,Centre-Back,CB,,Darlington,England,0.0,in,summer,Scottish Premiership,2006,False,
+Hibernian FC,Keegan Ayre,18.0,Canada,Attacking Midfield,AM,,Columbia Lions,United States,0.0,in,summer,Scottish Premiership,2006,False,
+Hibernian FC,Merouane Zemmama,22.0,Morocco,Attacking Midfield,AM,,Raja Casablanca,Morocco,,in,summer,Scottish Premiership,2006,False,
+Hibernian FC,Derek Riordan,23.0,Scotland,Centre-Forward,CF,2500000.0,Celtic,Scotland,225000.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Gary Caldwell,24.0,Scotland,Centre-Back,CB,1350000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Gary Smith,35.0,Scotland,Centre-Back,CB,250000.0,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Dermot McCaffrey,20.0,Northern Ireland,Left-Back,LB,,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Hibernian FC,Kyle Bryson,19.0,Scotland,defence,defence,,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Ryan Pow,19.0,Scotland,attack,attack,,Brechin City,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Antonio Murray,21.0,England,Centre-Forward,CF,300000.0,Histon FC,England,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Paul Dalglish,29.0,Scotland,Centre-Forward,CF,300000.0,Houston,United States,0.0,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Kevin McDonald,21.0,England,Left Midfield,LM,150000.0,Airdrie United,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Hibernian FC,Steven Notman,19.0,Scotland,Central Midfield,CM,75000.0,Berwick Rangers,England,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Hibernian FC,Jonathan Baillie,21.0,Scotland,Centre-Back,CB,125000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Gordon Marshall,42.0,Scotland,Goalkeeper,GK,50000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Hibernian FC,Kevin McCann,19.0,Scotland,Right-Back,RB,,Dumbarton,Scotland,275000.0,in,winter,Scottish Premiership,2006,False,
+Hibernian FC,Thomas Sowunmi,28.0,Hungary,Centre-Forward,CF,300000.0,Slovácko,Czech Republic,0.0,in,winter,Scottish Premiership,2006,False,
+Hibernian FC,Damon Gray,18.0,England,Centre-Forward,CF,,Newcastle U18,England,0.0,in,winter,Scottish Premiership,2006,False,
+Hibernian FC,Kevin Thomson,22.0,Scotland,Central Midfield,CM,450000.0,Rangers,Scotland,3000000.0,out,winter,Scottish Premiership,2006,False,
+Hibernian FC,Oumar Kondé,27.0,Switzerland,Centre-Back,CB,300000.0,Panionios,Greece,0.0,out,winter,Scottish Premiership,2006,False,
+Hibernian FC,Amadou Konté,25.0,France,Centre-Forward,CF,400000.0,PS Kalamata,Greece,0.0,out,winter,Scottish Premiership,2006,False,
+Hibernian FC,Stephen Glass,30.0,Scotland,Left Midfield,LM,850000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Hibernian FC,Zbigniew Malkowski,29.0,Poland,Goalkeeper,GK,800000.0,Gretna,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Hibernian FC,Sam Morrow,21.0,Northern Ireland,Centre-Forward,CF,425000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Hibernian FC,Jay Shields,21.0,Scotland,Central Midfield,CM,100000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Inverness Caledonian Thistle FC,John Rankin,23.0,Scotland,Central Midfield,CM,50000.0,Ross County,Scotland,100000.0,in,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Iain Vigurs,18.0,Scotland,Left Midfield,LM,,Elgin City,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Gary McSwegan,35.0,Scotland,Centre-Forward,CF,50000.0,Ross County,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Garry Wood,18.0,Scotland,Centre-Forward,CF,,Elgin City,Scotland,,in,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,David Proctor,22.0,Scotland,Centre-Back,CB,250000.0,Dundee United,Scotland,50000.0,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Alan Morgan,23.0,Scotland,Left Midfield,LM,250000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Inverness Caledonian Thistle FC,Juanjo Carricondo,29.0,Spain,Left Winger,LW,100000.0,Granada CF,Spain,0.0,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Tom Parratt,20.0,Scotland,Right-Back,RB,200000.0,Hamilton Acad.,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Liam Fox,22.0,Scotland,Central Midfield,CM,350000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Ben Jackson,,England,attack,attack,75000.0,AFC Hornchurch,England,,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Ally Ridgers,24.0,Scotland,Goalkeeper,GK,50000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Inverness Caledonian Thistle FC,Ally Ridgers,24.0,Scotland,Goalkeeper,GK,50000.0,Clachnacuddin,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Inverness Caledonian Thistle FC,Chris Finnegan,21.0,Scotland,attack,attack,75000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Markus Paatelainen,23.0,Finland,midfield,midfield,125000.0,Cowdenbeath,Scotland,,in,winter,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Ally Ridgers,24.0,Scotland,Goalkeeper,GK,50000.0,Clachnacuddin,Scotland,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Inverness Caledonian Thistle FC,Mark Brown,25.0,Scotland,Goalkeeper,GK,450000.0,Celtic,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Liam Keogh,25.0,Scotland,midfield,midfield,300000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Inverness Caledonian Thistle FC,Stuart Golabek,32.0,Scotland,Left-Back,LB,200000.0,Livingston FC,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Kilmarnock FC,David Fernández,30.0,Spain,Attacking Midfield,AM,500000.0,Dundee United,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Grant Murray,30.0,Scotland,Centre-Back,CB,400000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Andy Barrowman,21.0,Scotland,Centre-Forward,CF,75000.0,Walsall,England,0.0,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Craig Bryson,20.0,Scotland,Central Midfield,CM,,Clyde FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Chad Harpur,23.0,South Africa,Goalkeeper,GK,50000.0,Maritzburg Utd.,South Africa,,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Iain Campbell,21.0,Scotland,Left-Back,LB,150000.0,Dunfermline A.,Scotland,,in,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Gary McDonald,24.0,Scotland,Central Midfield,CM,50000.0,Oldham Athletic,England,0.0,out,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Georgios Fotakis,24.0,Greece,Central Midfield,CM,1000000.0,AE Larisa,Greece,0.0,out,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Marlon Rojas,26.0,Trinidad and Tobago,Left Midfield,LM,250000.0,Silverbacks,United States,0.0,out,summer,Scottish Premiership,2006,False,
+Kilmarnock FC,Robert Campbell,20.0,Scotland,Left-Back,LB,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Chad Harpur,23.0,South Africa,Goalkeeper,GK,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Andy Barrowman,21.0,Scotland,Centre-Forward,CF,75000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Lindsay Wilson,27.0,Australia,Left Midfield,LM,400000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Scottish Premiership,2006,True,end of loan
+Kilmarnock FC,Momo Sylla,29.0,Guinea,Right Winger,RW,1650000.0,Leicester,England,350000.0,in,winter,Scottish Premiership,2006,False,
+Kilmarnock FC,Rocco Quinn,20.0,Scotland,Central Midfield,CM,50000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Aimé Koudou,30.0,Cote d'Ivoire,Centre-Forward,CF,,Airdrie United,Scotland,0.0,in,winter,Scottish Premiership,2006,False,
+Kilmarnock FC,Wullie Gibson,22.0,Scotland,Left Midfield,LM,50000.0,Queen o. t. S.,Scotland,,in,winter,Scottish Premiership,2006,False,
+Kilmarnock FC,Tim Clancy,22.0,Ireland,Right-Back,RB,50000.0,AFC Hornchurch,England,,in,winter,Scottish Premiership,2006,False,
+Kilmarnock FC,Stevie Murray,23.0,Scotland,Left Winger,LW,50000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Jamie Adams,19.0,Scotland,Central Midfield,CM,50000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Kilmarnock FC,Thomas Coyne,19.0,Scotland,Centre-Forward,CF,50000.0,Dumbarton,Scotland,,out,winter,Scottish Premiership,2006,False,
+Motherwell FC,Ross McCormack,19.0,Scotland,Second Striker,SS,500000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+Motherwell FC,Keith Lasley,26.0,Scotland,Defensive Midfield,DM,50000.0,Plymouth,England,0.0,in,summer,Scottish Premiership,2006,False,
+Motherwell FC,Calum Elliot,19.0,Scotland,Centre-Forward,CF,1000000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Motherwell FC,Stevie Hammell,24.0,Scotland,Left-Back,LB,450000.0,Southend United,England,0.0,out,summer,Scottish Premiership,2006,False,
+Motherwell FC,Kenny Wright,20.0,Scotland,attack,attack,50000.0,Stranraer,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Motherwell FC,Abel Thermeus,23.0,Haiti,Centre-Forward,CF,150000.0,Levante B,Spain,0.0,out,summer,Scottish Premiership,2006,False,
+Motherwell FC,Jim Hamilton,30.0,Scotland,Centre-Forward,CF,450000.0,Dunfermline A.,Scotland,,out,summer,Scottish Premiership,2006,False,
+Motherwell FC,Scott Leitch,37.0,Scotland,Central Midfield,CM,50000.0,Retired,,,out,summer,Scottish Premiership,2006,False,
+Motherwell FC,Danny Murphy,23.0,Ireland,Left-Back,LB,,Cork City,Ireland,150000.0,in,winter,Scottish Premiership,2006,False,
+Motherwell FC,Krisztián Vadócz,21.0,Hungary,Central Midfield,CM,350000.0,AJ Auxerre,France,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Motherwell FC,Paul Keegan,34.0,Ireland,Central Midfield,CM,200000.0,St. Patricks,Ireland,0.0,in,winter,Scottish Premiership,2006,False,
+Motherwell FC,Trevor Molloy,29.0,Ireland,Centre-Forward,CF,,St. Patricks,Ireland,0.0,in,winter,Scottish Premiership,2006,False,
+Motherwell FC,Richie Foran,26.0,Ireland,Left Winger,LW,750000.0,Southend United,England,300000.0,out,winter,Scottish Premiership,2006,False,
+Motherwell FC,Bobby Donnelly,19.0,Scotland,Centre-Back,CB,150000.0,Stranraer,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Motherwell FC,Adam Coakley,19.0,Scotland,attack,attack,100000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+Motherwell FC,Shaun Fagan,22.0,Scotland,Central Midfield,CM,350000.0,Stenhousemuir,Scotland,,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Filip Sebo,22.0,Slovakia,Centre-Forward,CF,1100000.0,Austria Vienna,Austria,2500000.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Jérémy Clément,21.0,France,Defensive Midfield,DM,1750000.0,Olympique Lyon,France,1500000.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Karl Svensson,22.0,Sweden,Centre-Back,CB,900000.0,IFK Göteborg,Sweden,900000.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Sasa Papac,26.0,Bosnia-Herzegovina,Left-Back,LB,2000000.0,Austria Vienna,Austria,500000.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Libor Sionko,29.0,Czech Republic,Right Winger,RW,2250000.0,Austria Vienna,Austria,0.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Lionel Létizi,33.0,France,Goalkeeper,GK,1500000.0,Paris SG,France,0.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Antoine Ponroy,20.0,France,Centre-Back,CB,,Rennes B,France,0.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Amadou Makhtar N'Diaye,24.0,Senegal,Defensive Midfield,DM,300000.0,Yverdon-Sport,Switzerland,0.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,William Stanger,21.0,France,Defensive Midfield,DM,,Rennes B,France,0.0,in,summer,Scottish Premiership,2006,False,
+Rangers FC,Lee Martin,19.0,England,Attacking Midfield,AM,1250000.0,Man Utd,England,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Phil Bardsley,21.0,Scotland,Right-Back,RB,75000.0,Man Utd,England,0.0,in,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Zurab Khizanishvili,24.0,Georgia,Centre-Back,CB,2500000.0,Blackburn,England,750000.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Hamed Namouchi,22.0,Tunisia,Attacking Midfield,AM,1500000.0,FC Lorient,France,750000.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Fernando Ricksen,30.0,Netherlands,Right-Back,RB,6250000.0,Zenit S-Pb,Russia,150000.0,out,summer,Scottish Premiership,2006,True,loan with fee
+Rangers FC,Ronald Waterreus,35.0,Netherlands,Goalkeeper,GK,2500000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Steven Campbell,19.0,Scotland,Centre-Back,CB,,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Olivier Bernard,26.0,France,Left-Back,LB,3000000.0,Newcastle,England,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Peter Lövenkrands,26.0,Denmark,Centre-Forward,CF,3400000.0,FC Schalke 04,Germany,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Dany N'Guessan,18.0,France,Centre-Forward,CF,50000.0,Boston United,England,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Robert Davidson,20.0,Scotland,Attacking Midfield,AM,50000.0,Boston United,England,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Callum Reidford,19.0,Scotland,Goalkeeper,GK,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+Rangers FC,Alex Rae,36.0,Scotland,Central Midfield,CM,500000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Bob Malcolm,25.0,Scotland,Centre-Back,CB,1500000.0,Derby,England,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Gary MacKenzie,20.0,Scotland,Centre-Back,CB,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Marc Kalenga,21.0,France,midfield,midfield,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Ross McCormack,19.0,Scotland,Second Striker,SS,500000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Sotiris Kyrgiakos,26.0,Greece,Centre-Back,CB,7000000.0,E. Frankfurt,Germany,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Marvin Andrews,30.0,Trinidad and Tobago,Centre-Back,CB,1500000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2006,False,
+Rangers FC,José-Karl Pierre-Fanfan,31.0,Martinique,Centre-Back,CB,1750000.0,Without Club,,,out,summer,Scottish Premiership,2006,False,
+Rangers FC,Kevin Thomson,22.0,Scotland,Central Midfield,CM,450000.0,Hibernian FC,Scotland,3000000.0,in,winter,Scottish Premiership,2006,False,
+Rangers FC,Andy Webster,24.0,Scotland,Centre-Back,CB,1250000.0,Wigan,England,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Rangers FC,David Weir,36.0,Scotland,Centre-Back,CB,1000000.0,Everton,England,0.0,in,winter,Scottish Premiership,2006,False,
+Rangers FC,Ugo Ehiogu,34.0,England,Centre-Back,CB,3000000.0,Middlesbrough,England,0.0,in,winter,Scottish Premiership,2006,False,
+Rangers FC,Adda Djeziri,18.0,Denmark,Second Striker,SS,,BK Frem,Denmark,0.0,in,winter,Scottish Premiership,2006,True,free loan
+Rangers FC,Jérémy Clément,22.0,France,Defensive Midfield,DM,3500000.0,Paris SG,France,2000000.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Fernando Ricksen,30.0,Netherlands,Right-Back,RB,3000000.0,Zenit S-Pb,Russia,1250000.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Dany N'Guessan,19.0,France,Centre-Forward,CF,50000.0,Lincoln City,England,375000.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Moses Ashikodi,19.0,Antigua and Barbuda,Centre-Forward,CF,100000.0,Watford,England,100000.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Brian Gilmour,19.0,Scotland,Central Midfield,CM,,Clyde FC,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,William Stanger,21.0,France,Defensive Midfield,DM,100000.0,Paris SG B,France,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Lionel Létizi,33.0,France,Goalkeeper,GK,1500000.0,OGC Nice,France,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Derek Carcary,20.0,Scotland,Right Winger,RW,50000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Julien Rodriguez,28.0,France,Centre-Back,CB,3000000.0,Marseille,France,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Marvin Andrews,30.0,Trinidad and Tobago,Centre-Back,CB,1500000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2006,False,
+Rangers FC,Rob Giacomi,20.0,Canada,Goalkeeper,GK,,KSK Beveren,Belgium,,out,winter,Scottish Premiership,2006,False,
+St. Mirren FC,Stuart Balmer,37.0,Scotland,Right-Back,RB,75000.0,Hamilton Acad.,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+St. Mirren FC,Garry Brady,29.0,Scotland,Central Midfield,CM,400000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+St. Mirren FC,Richard Brittain,22.0,Scotland,Right Midfield,RM,50000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+St. Mirren FC,Alex Burke,28.0,Scotland,Central Midfield,CM,50000.0,Ross County,Scotland,0.0,in,summer,Scottish Premiership,2006,False,
+St. Mirren FC,Arturs Vaiculis,16.0,Latvia,Goalkeeper,GK,,Skonto Academy,Latvia,,in,summer,Scottish Premiership,2006,False,
+St. Mirren FC,John Baird,20.0,Scotland,Centre-Forward,CF,50000.0,Stenhousemuir,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+St. Mirren FC,Brian McGinty,29.0,Scotland,Centre-Forward,CF,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2006,True,free loan
+St. Mirren FC,Iain Anderson,28.0,Scotland,Right Winger,RW,450000.0,Ross County,Scotland,,out,summer,Scottish Premiership,2006,False,
+St. Mirren FC,Stephen O'Donnell,23.0,Scotland,Central Midfield,CM,50000.0,Clyde FC,Scotland,475000.0,in,winter,Scottish Premiership,2006,False,
+St. Mirren FC,Eddie Malone,21.0,Scotland,Left-Back,LB,50000.0,Clyde FC,Scotland,375000.0,in,winter,Scottish Premiership,2006,False,
+St. Mirren FC,Paul Lawson,22.0,Scotland,Defensive Midfield,DM,175000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2006,True,free loan
+St. Mirren FC,Simon Lappin,24.0,Scotland,Central Midfield,CM,450000.0,Norwich,England,250000.0,out,winter,Scottish Premiership,2006,False,
+St. Mirren FC,Brian McGinty,29.0,Scotland,Centre-Forward,CF,50000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan
+St. Mirren FC,John Baird,21.0,Scotland,Centre-Forward,CF,50000.0,Montrose,Scotland,0.0,out,winter,Scottish Premiership,2006,True,free loan

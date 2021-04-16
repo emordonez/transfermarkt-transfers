@@ -1,0 +1,530 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AS Monaco,Aleksandr Golovin,22,Russia,Attacking Midfield,AM,25000000.0,CSKA Moscow,Russia,30000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Benjamin Henrichs,21,Germany,Right-Back,RB,12000000.0,Bay. Leverkusen,Germany,20000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Willem Geubbels,16,France,Left Winger,LW,6000000.0,Olympique Lyon,France,20000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Jean-Eudes Aholou,24,Cote d'Ivoire,Defensive Midfield,DM,3000000.0,R. Strasbourg,France,14000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Nacer Chadli,29,Belgium,Left Winger,LW,15000000.0,West Brom,England,12000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Antonio Barreca,23,Italy,Left-Back,LB,3500000.0,Torino,Italy,10000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Pelé,26,Guinea-Bissau,Defensive Midfield,DM,4000000.0,Rio Ave FC,Portugal,7200000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Ronaël Pierre-Gabriel,20,France,Right-Back,RB,4000000.0,Saint-Étienne,France,6000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Jonathan Panzo,17,England,Centre-Back,CB,,Chelsea U18,England,3000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Samuel Grandsir,21,France,Right Winger,RW,5000000.0,Troyes,France,3000000.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Sofiane Diop,18,France,Attacking Midfield,AM,,Rennes B,France,0.0,in,summer,Ligue 1,2018,False,
+AS Monaco,Kylian Mbappé,19,France,Centre-Forward,CF,120000000.0,Paris SG,France,145000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Thomas Lemar,22,France,Attacking Midfield,AM,65000000.0,Atlético Madrid,Spain,72000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Fabinho,24,Brazil,Defensive Midfield,DM,45000000.0,Liverpool,England,45000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Terence Kongolo,24,Netherlands,Centre-Back,CB,10000000.0,Huddersfield,England,20000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Rachid Ghezzal,26,Algeria,Right Winger,RW,4000000.0,Leicester,England,14000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Soualiho Meïté,24,France,Central Midfield,CM,8000000.0,Torino,Italy,11500000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Adama Diakhaby,22,France,Left Winger,LW,5000000.0,Huddersfield,England,10000000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,João Moutinho,31,Portugal,Central Midfield,CM,10000000.0,Wolves,England,5600000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Keita Baldé,23,Senegal,Left Winger,LW,30000000.0,Inter,Italy,5000000.0,out,summer,Ligue 1,2018,True,loan with fee
+AS Monaco,Rúben Vinagre,19,Portugal,Left-Back,LB,500000.0,Wolves,England,2250000.0,out,summer,Ligue 1,2018,False,
+AS Monaco,Adrien Bongiovanni,18,Belgium,Attacking Midfield,AM,,Cercle Brugge,Belgium,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Jonathan Mexique,23,France,Central Midfield,CM,200000.0,SO Cholet,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Gabriel Boschilia,22,Brazil,Attacking Midfield,AM,4500000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Ibrahima Diallo,19,France,Defensive Midfield,DM,,Stade Brest 29,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Gil Dias,21,Portugal,Right Winger,RW,3000000.0,Nottm Forest,England,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Jorge,22,Brazil,Left-Back,LB,12000000.0,FC Porto,Portugal,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Monaco,Elderson,30,Nigeria,Left-Back,LB,700000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+AS Monaco,Lacina Traore,28,Cote d'Ivoire,Centre-Forward,CF,2500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+AS Monaco,Fodé Ballo-Touré,22,Senegal,Left-Back,LB,7000000.0,LOSC Lille,France,11000000.0,in,winter,Ligue 1,2018,False,
+AS Monaco,Cesc Fàbregas,31,Spain,Central Midfield,CM,25000000.0,Chelsea,England,9000000.0,in,winter,Ligue 1,2018,False,
+AS Monaco,Naldo,36,Brazil,Centre-Back,CB,1000000.0,FC Schalke 04,Germany,2000000.0,in,winter,Ligue 1,2018,False,
+AS Monaco,Lyle Foster,18,South Africa,Centre-Forward,CF,175000.0,Orlando Pirates,South Africa,1200000.0,in,winter,Ligue 1,2018,False,
+AS Monaco,William Vainqueur,30,France,Defensive Midfield,DM,1250000.0,Antalyaspor,Turkey,450000.0,in,winter,Ligue 1,2018,True,loan with fee
+AS Monaco,Gelson Martins,23,Portugal,Right Winger,RW,20000000.0,Atlético Madrid,Spain,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Monaco,Carlos Vinícius,23,Brazil,Centre-Forward,CF,5000000.0,SSC Napoli,Italy,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Monaco,Georges-Kevin N'Koudou,23,France,Left Winger,LW,7000000.0,Spurs,England,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Monaco,Adrien Silva,29,Portugal,Central Midfield,CM,15000000.0,Leicester,England,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Monaco,Antonio Barreca,23,Italy,Left-Back,LB,7000000.0,Newcastle,England,1150000.0,out,winter,Ligue 1,2018,True,loan with fee
+AS Monaco,Almamy Touré,22,France,Right-Back,RB,8000000.0,E. Frankfurt,Germany,750000.0,out,winter,Ligue 1,2018,False,
+AS Monaco,Loïc Badiashile,20,France,Goalkeeper,GK,800000.0,Stade Rennais,France,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Adama Traoré,23,Mali,Central Midfield,CM,4000000.0,Cercle Brugge,Belgium,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Samuel Grandsir,22,France,Right Winger,RW,3500000.0,R. Strasbourg,France,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Pelé,27,Guinea-Bissau,Defensive Midfield,DM,6000000.0,Nottm Forest,England,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Youssef Aït Bennasser,22,Morocco,Central Midfield,CM,10000000.0,Saint-Étienne,France,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Gil Dias,22,Portugal,Right Winger,RW,3000000.0,Olympiacos,Greece,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Youri Tielemans,21,Belgium,Central Midfield,CM,18000000.0,Leicester,England,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Monaco,Jorge,23,Brazil,Left-Back,LB,3000000.0,Santos FC,Brazil,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Wahbi Khazri,27,Tunisia,Centre-Forward,CF,10000000.0,Sunderland,England,7000000.0,in,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Rémy Cabella,28,France,Attacking Midfield,AM,9000000.0,Marseille,France,6000000.0,in,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Franck Honorat,22,France,Right Winger,RW,800000.0,Clermont Foot,France,2000000.0,in,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Yannis Salibur,27,France,Right Winger,RW,5000000.0,Guingamp,France,0.0,in,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Timothée Kolodziejczak,26,France,Centre-Back,CB,2500000.0,Tigres UANL,Mexico,0.0,in,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Ronaël Pierre-Gabriel,20,France,Right-Back,RB,4000000.0,Monaco,France,6000000.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Saidy Janko,22,Switzerland,Right-Back,RB,3000000.0,FC Porto,Portugal,2200000.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Vincent Pajot,27,France,Defensive Midfield,DM,2500000.0,SCO Angers,France,1000000.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Anthony Maisonnial,20,France,Goalkeeper,GK,600000.0,FC Sion,Switzerland,0.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Kévin Théophile-Catherine,28,Martinique,Centre-Back,CB,4000000.0,Dinamo Zagreb,Croatia,0.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Jonathan Bamba,22,France,Left Winger,LW,8000000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2018,False,
+AS Saint-Étienne,Alexis Guendouz,22,France,Goalkeeper,GK,100000.0,Pau FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Léo Lacroix,26,Switzerland,Centre-Back,CB,2500000.0,Hamburger SV,Germany,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Oussama Tannane,24,Morocco,Attacking Midfield,AM,1500000.0,FC Utrecht,Netherlands,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Franck Honorat,22,France,Right Winger,RW,800000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Jorginho,22,Guinea-Bissau,Left Winger,LW,700000.0,CSKA-Sofia,Bulgaria,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Alexandros Katranis,20,Greece,Left-Back,LB,750000.0,Mouscron,Belgium,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Habib Maïga,22,Cote d'Ivoire,Defensive Midfield,DM,1200000.0,FC Metz,France,0.0,out,summer,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Hernani,24,Brazil,Defensive Midfield,DM,4000000.0,Zenit S-Pb,Russia,0.0,out,summer,Ligue 1,2018,True,end of loan
+AS Saint-Étienne,Rémy Cabella,28,France,Attacking Midfield,AM,9000000.0,Marseille,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+AS Saint-Étienne,Paul-Georges Ntep,25,Cameroon,Left Winger,LW,4000000.0,VfL Wolfsburg,Germany,0.0,out,summer,Ligue 1,2018,True,end of loan
+AS Saint-Étienne,Youssef Aït Bennasser,22,Morocco,Central Midfield,CM,10000000.0,Monaco,France,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Valentín Vada,22,Argentina,Central Midfield,CM,4000000.0,G. Bordeaux,France,0.0,in,winter,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Ole Selnaes,24,Norway,Defensive Midfield,DM,8000000.0,Shenzhen FC,China,5500000.0,out,winter,Ligue 1,2018,False,
+AS Saint-Étienne,Cheikh M'Bengue,30,Senegal,Left-Back,LB,2000000.0,Shenzhen FC,China,4000000.0,out,winter,Ligue 1,2018,False,
+AS Saint-Étienne,Mahdi Camara,20,France,Central Midfield,CM,150000.0,Stade Lavallois,France,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Alexandros Katranis,20,Greece,Left-Back,LB,650000.0,Atromitos Athen,Greece,0.0,out,winter,Ligue 1,2018,True,free loan
+AS Saint-Étienne,Assane Dioussé,21,Senegal,Defensive Midfield,DM,5000000.0,Chievo Verona,Italy,0.0,out,winter,Ligue 1,2018,True,free loan
+Amiens SC,Saman Ghoddos,24,Iran,Attacking Midfield,AM,1750000.0,Östersund,Sweden,4000000.0,in,summer,Ligue 1,2018,False,
+Amiens SC,Juan Ferney Otero,23,Colombia,Right Winger,RW,3000000.0,Estudiantes,Argentina,2140000.0,in,summer,Ligue 1,2018,False,
+Amiens SC,Rafal Kurzawa,25,Poland,Left Winger,LW,2000000.0,Górnik Zabrze,Poland,850000.0,in,summer,Ligue 1,2018,False,
+Amiens SC,Eddy Gnahoré,24,France,Central Midfield,CM,1300000.0,US Palermo,Italy,500000.0,in,summer,Ligue 1,2018,True,loan with fee
+Amiens SC,Matthieu Dreyer,29,France,Goalkeeper,GK,300000.0,SM Caen,France,0.0,in,summer,Ligue 1,2018,False,
+Amiens SC,Emil Krafth,24,Sweden,Right-Back,RB,1500000.0,Bologna,Italy,0.0,in,summer,Ligue 1,2018,True,free loan
+Amiens SC,Alexis Blin,21,France,Defensive Midfield,DM,5000000.0,Toulouse,France,0.0,in,summer,Ligue 1,2018,True,free loan
+Amiens SC,Ganso,28,Brazil,Attacking Midfield,AM,2000000.0,Sevilla FC,Spain,0.0,in,summer,Ligue 1,2018,True,free loan
+Amiens SC,Nathan Dekoke,23,France,Left-Back,LB,200000.0,US Avranches,France,,in,summer,Ligue 1,2018,False,
+Amiens SC,Tanguy Ndombélé,21,France,Central Midfield,CM,25000000.0,Olympique Lyon,France,8000000.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Guessouma Fofana,25,France,Central Midfield,CM,800000.0,Guingamp,France,1000000.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Harrison Manzala,24,DR Congo,Right Winger,RW,1500000.0,SCO Angers,France,1000000.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Sekou Baradji,34,France,Defensive Midfield,DM,200000.0,Istres FC,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Madih Talal,21,France,Central Midfield,CM,150000.0,Entente SSG,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Amiens SC,Guy N'Gosso,33,Cameroon,Defensive Midfield,DM,250000.0,Quevilly Rouen,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Nathan Dekoke,22,France,Left-Back,LB,200000.0,US Avranches,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Amiens SC,Brighton Labeau,22,France,Centre-Forward,CF,150000.0,FC Villefranche,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Amiens SC,Raphaël Adiceam,28,France,Goalkeeper,GK,150000.0,RC France,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Georges Gope-Fenepej,29,Neukaledonien,Left Midfield,LM,300000.0,Le Mans FC,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Yannick Mamilonne,26,Guadeloupe,Centre-Forward,CF,300000.0,Paris FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Amiens SC,Emmanuel Bourgaud,30,France,Right Midfield,RM,600000.0,Red Star FC,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Jean-Christophe Bouet,34,France,Goalkeeper,GK,200000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2018,False,
+Amiens SC,Issa Cissokho,33,Senegal,Right-Back,RB,500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Amiens SC,Serge Gakpé,31,Togo,Right Winger,RW,900000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Amiens SC,Julien Ielsch,35,France,Left-Back,LB,250000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Amiens SC,Ivan Bilus,25,Croatia,Central Midfield,CM,25000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Amiens SC,Charly Charrier,32,France,Attacking Midfield,AM,500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Amiens SC,Jean-Luc Dompé,22,France,Left Winger,LW,750000.0,Standard Liège,Belgium,0.0,out,summer,Ligue 1,2018,True,end of loan
+Amiens SC,Gaël Kakuta,27,DR Congo,Attacking Midfield,AM,6000000.0,HB CFFC,China,0.0,out,summer,Ligue 1,2018,True,end of loan
+Amiens SC,Lacina Traore,28,Cote d'Ivoire,Centre-Forward,CF,2500000.0,Monaco,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Amiens SC,Danilo Avelar,29,Brazil,Centre-Back,CB,1500000.0,Torino,Italy,0.0,out,summer,Ligue 1,2018,True,end of loan
+Amiens SC,Serhou Guirassy,22,France,Centre-Forward,CF,2000000.0,1. FC Köln,Germany,0.0,in,winter,Ligue 1,2018,True,free loan
+Amiens SC,Erik Pieters,30,Netherlands,Left-Back,LB,6000000.0,Stoke City,England,0.0,in,winter,Ligue 1,2018,True,free loan
+Amiens SC,Sanasi Sy,19,France,Left-Back,LB,150000.0,AFC Tubize,Belgium,0.0,out,winter,Ligue 1,2018,True,free loan
+Amiens SC,Rafal Kurzawa,26,Poland,Left Winger,LW,2000000.0,FC Midtjylland,Denmark,0.0,out,winter,Ligue 1,2018,True,free loan
+Amiens SC,Bachibou Koita,24,Niger,Centre-Forward,CF,200000.0,FC Ashdod,Israel,,out,winter,Ligue 1,2018,False,
+Amiens SC,Réda Rabeï,24,France,Attacking Midfield,AM,100000.0,US Avranches,France,0.0,out,winter,Ligue 1,2018,True,free loan
+Dijon FCO,Naïm Sliti,25,Tunisia,Left Winger,LW,7000000.0,LOSC Lille,France,2000000.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Nayef Aguerd,22,Morocco,Centre-Back,CB,900000.0,FUS Rabat,Morocco,1600000.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Rúnar Alex Rúnarsson,23,Iceland,Goalkeeper,GK,500000.0,Nordsjaelland,Denmark,1600000.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Yoann Gourcuff,32,France,Attacking Midfield,AM,2000000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Mickaël Alphonse,28,Guadeloupe,Right-Back,RB,900000.0,FC Sochaux,France,0.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Senou Coulibaly,23,France,Centre-Back,CB,,FC Mantois,France,0.0,in,summer,Ligue 1,2018,False,
+Dijon FCO,Laurent Ciman,33,Belgium,Centre-Back,CB,1250000.0,Los Angeles FC,United States,,in,summer,Ligue 1,2018,False,
+Dijon FCO,Jules Keita,19,Guinea,Left Winger,LW,,Without Club,,,in,summer,Ligue 1,2018,False,
+Dijon FCO,Baptiste Reynet,27,France,Goalkeeper,GK,5000000.0,Toulouse,France,4000000.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Enzo Basilio,23,France,Goalkeeper,GK,100000.0,Concarneau,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Jessy Benet,23,France,Central Midfield,CM,300000.0,Grenoble,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Benjamin Leroy,29,France,Goalkeeper,GK,700000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Eden Massouema,21,Congo,Defensive Midfield,DM,150000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Dijon FCO,Vincent Rüfli,30,Switzerland,Right-Back,RB,900000.0,Paris FC,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Ádám Lang,25,Hungary,Centre-Back,CB,1250000.0,CFR Cluj,Romania,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Erwan Maury,22,France,Defensive Midfield,DM,200000.0,Rodez AF,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Dylan Bahamboula,23,Congo,Attacking Midfield,AM,600000.0,Astra Giurgiu,Romania,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Cédric Varrault,38,France,Centre-Back,CB,250000.0,JS Beaulieu,France,0.0,out,summer,Ligue 1,2018,False,
+Dijon FCO,Naïm Sliti,25,Tunisia,Left Winger,LW,7000000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Dijon FCO,Papy Djilobodji,29,Senegal,Centre-Back,CB,5500000.0,Sunderland,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+Dijon FCO,Xeka,23,Portugal,Central Midfield,CM,5500000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Dijon FCO,Sory Kaba,23,Guinea,Centre-Forward,CF,2000000.0,Elche CF,Spain,4000000.0,in,winter,Ligue 1,2018,False,
+Dijon FCO,Laurent Ciman,33,Belgium,Centre-Back,CB,1250000.0,Toronto FC,United States,0.0,out,winter,Ligue 1,2018,False,
+Dijon FCO,Yoann Gourcuff,32,France,Attacking Midfield,AM,2000000.0,Career break,,,out,winter,Ligue 1,2018,False,
+EA Guingamp,Sikou Niakaté,19,France,Centre-Back,CB,800000.0,Valenciennes FC,France,2500000.0,in,summer,Ligue 1,2018,False,
+EA Guingamp,Guessouma Fofana,25,France,Central Midfield,CM,800000.0,Amiens SC,France,1000000.0,in,summer,Ligue 1,2018,False,
+EA Guingamp,Nolan Roux,30,France,Centre-Forward,CF,3500000.0,FC Metz,France,0.0,in,summer,Ligue 1,2018,False,
+EA Guingamp,Ronny Rodelin,28,France,Right Winger,RW,5000000.0,SM Caen,France,,in,summer,Ligue 1,2018,False,
+EA Guingamp,Clément Grenier,27,France,Central Midfield,CM,4000000.0,Stade Rennais,France,4000000.0,out,summer,Ligue 1,2018,False,
+EA Guingamp,Théo Guivarch,22,France,Goalkeeper,GK,150000.0,SO Cholet,France,0.0,out,summer,Ligue 1,2018,True,free loan
+EA Guingamp,Jonathan Martins Pereira,32,France,Right-Back,RB,1500000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2018,False,
+EA Guingamp,Mustapha Diallo,32,Senegal,Defensive Midfield,DM,1500000.0,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2018,False,
+EA Guingamp,Jérémy Livolant,20,France,Right Midfield,RM,150000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2018,True,free loan
+EA Guingamp,Jimmy Briand,33,France,Centre-Forward,CF,2500000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2018,False,
+EA Guingamp,Yannis Salibur,27,France,Right Winger,RW,5000000.0,Saint-Étienne,France,0.0,out,summer,Ligue 1,2018,True,free loan
+EA Guingamp,Sikou Niakaté,19,France,Centre-Back,CB,800000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+EA Guingamp,Thibault Giresse,37,France,Left Midfield,LM,250000.0,Retired,,,out,summer,Ligue 1,2018,False,
+EA Guingamp,Karim Achahbar,22,Morocco,Left Winger,LW,250000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+EA Guingamp,Benjamin Angoua,31,Cote d'Ivoire,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+EA Guingamp,Abdoul Camara,28,Guinea,Left Winger,LW,1000000.0,Retired,,,out,summer,Ligue 1,2018,False,
+EA Guingamp,Johan Larsson,28,Sweden,Right-Back,RB,1500000.0,Bröndby IF,Denmark,0.0,in,winter,Ligue 1,2018,False,
+EA Guingamp,Mehdi Merghem,21,France,Attacking Midfield,AM,600000.0,LB Châteauroux,France,0.0,in,winter,Ligue 1,2018,False,
+EA Guingamp,Alexandre Mendy,24,Guinea-Bissau,Centre-Forward,CF,2500000.0,G. Bordeaux,France,0.0,in,winter,Ligue 1,2018,True,free loan
+EA Guingamp,Didier Ndong,24,Gabon,Central Midfield,CM,8000000.0,Without Club,,,in,winter,Ligue 1,2018,False,
+EA Guingamp,Papy Djilobodji,30,Senegal,Centre-Back,CB,5500000.0,Without Club,,,in,winter,Ligue 1,2018,False,
+EA Guingamp,Nathaël Julan,22,France,Centre-Forward,CF,2000000.0,Valenciennes FC,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Samuel Kalu,20,Nigeria,Right Winger,RW,5000000.0,KAA Gent,Belgium,8500000.0,in,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Toma Basic,21,Croatia,Central Midfield,CM,1350000.0,Hajduk Split,Croatia,3500000.0,in,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Andreas Cornelius,25,Denmark,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,1390000.0,in,summer,Ligue 1,2018,True,loan with fee
+FC Girondins Bordeaux,Jimmy Briand,33,France,Centre-Forward,CF,2500000.0,Guingamp,France,0.0,in,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Sergi Palencia,22,Spain,Right-Back,RB,2500000.0,FC Barcelona,Spain,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Yann Karamoh,20,France,Right Winger,RW,7000000.0,Inter,Italy,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Malcom,21,Brazil,Right Winger,RW,45000000.0,FC Barcelona,Spain,41000000.0,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Diego Rolán,25,Uruguay,Centre-Forward,CF,3500000.0,Dep. La Coruña,Spain,6000000.0,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Gaëtan Laborde,24,France,Centre-Forward,CF,4000000.0,Montpellier,France,3000000.0,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Jonathan Cafú,27,Brazil,Right Winger,RW,4000000.0,Red Star,Serbia,700000.0,out,summer,Ligue 1,2018,True,loan with fee
+FC Girondins Bordeaux,Diego Contento,28,Germany,Left-Back,LB,1500000.0,F. Düsseldorf,Germany,0.0,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Olivier Verdon,22,Benin,Centre-Back,CB,150000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Daniel Mancini,21,Argentina,Right Winger,RW,1000000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Paul Bernardoni,21,France,Goalkeeper,GK,2000000.0,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Aaron Boupendza,21,Gabon,Centre-Forward,CF,,G. Ajaccio,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Paul Baysse,30,France,Centre-Back,CB,2500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Younès Kaabouni,23,France,Defensive Midfield,DM,400000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+FC Girondins Bordeaux,Soualiho Meïté,24,France,Central Midfield,CM,8000000.0,Monaco,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Girondins Bordeaux,Martin Braithwaite,27,Denmark,Centre-Forward,CF,8000000.0,Middlesbrough,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Girondins Bordeaux,Yacine Adli,18,France,Attacking Midfield,AM,4000000.0,Paris SG,France,5500000.0,in,winter,Ligue 1,2018,False,
+FC Girondins Bordeaux,Josh Maja,20,Nigeria,Centre-Forward,CF,250000.0,Sunderland,England,1500000.0,in,winter,Ligue 1,2018,False,
+FC Girondins Bordeaux,Raoul Bellanova,18,Italy,Right-Back,RB,,Milan U19,Italy,700000.0,in,winter,Ligue 1,2018,False,
+FC Girondins Bordeaux,Théo Pellenard,24,France,Left-Back,LB,2000000.0,SCO Angers,France,0.0,out,winter,Ligue 1,2018,False,
+FC Girondins Bordeaux,Milan Gajic,23,Serbia,Right-Back,RB,1750000.0,Red Star,Serbia,0.0,out,winter,Ligue 1,2018,False,
+FC Girondins Bordeaux,Aaron Boupendza,22,Gabon,Centre-Forward,CF,,Tours FC,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Alexandre Mendy,24,Guinea-Bissau,Centre-Forward,CF,2500000.0,Guingamp,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Lukas Lerager,25,Denmark,Central Midfield,CM,6000000.0,Genoa,Italy,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Raoul Bellanova,18,Italy,Right-Back,RB,,Milan U19,Italy,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Girondins Bordeaux,Valentín Vada,22,Argentina,Central Midfield,CM,4000000.0,Saint-Étienne,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Nantes,Anthony Limbombe,24,Belgium,Left Winger,LW,8000000.0,Club Brugge,Belgium,8250000.0,in,summer,Ligue 1,2018,False,
+FC Nantes,Lucas Evangelista,23,Brazil,Central Midfield,CM,4000000.0,Udinese Calcio,Italy,3000000.0,in,summer,Ligue 1,2018,False,
+FC Nantes,Fábio,28,Brazil,Right-Back,RB,1500000.0,Middlesbrough,England,2000000.0,in,summer,Ligue 1,2018,False,
+FC Nantes,Charles Traoré,26,Mali,Left-Back,LB,2000000.0,Troyes,France,500000.0,in,summer,Ligue 1,2018,False,
+FC Nantes,Rene Krhin,28,Slovenia,Central Midfield,CM,1500000.0,Granada CF,Spain,300000.0,in,summer,Ligue 1,2018,False,
+FC Nantes,Matt Miazga,23,United States,Centre-Back,CB,3000000.0,Chelsea,England,300000.0,in,summer,Ligue 1,2018,True,loan with fee
+FC Nantes,Gabriel Boschilia,22,Brazil,Attacking Midfield,AM,4500000.0,Monaco,France,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Nantes,Majeed Waris,26,Ghana,Centre-Forward,CF,2500000.0,FC Porto,Portugal,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Nantes,Kara Mbodj,28,Senegal,Centre-Back,CB,7000000.0,RSC Anderlecht,Belgium,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Nantes,Yacine Bammou,26,Morocco,Centre-Forward,CF,1500000.0,SM Caen,France,2700000.0,out,summer,Ligue 1,2018,False,
+FC Nantes,Mariusz Stepinski,23,Poland,Centre-Forward,CF,4000000.0,Chievo Verona,Italy,2500000.0,out,summer,Ligue 1,2018,False,
+FC Nantes,Léo Dubois,23,France,Right-Back,RB,10000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2018,False,
+FC Nantes,Adrien Thomasson,24,France,Attacking Midfield,AM,8000000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2018,False,
+FC Nantes,Yassine El Ghanassy,28,Belgium,Left Winger,LW,1500000.0,Al-Raed,Saudi Arabia,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Nantes,Koffi Djidji,25,Cote d'Ivoire,Centre-Back,CB,3500000.0,Torino,Italy,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Nantes,David Alcibiade,26,France,Right-Back,RB,200000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+FC Nantes,Najib Gandi,24,France,Attacking Midfield,AM,200000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+FC Nantes,Jules Iloki,26,France,Right Midfield,RM,1250000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+FC Nantes,Préjuce Nakoulma,31,Burkina Faso,Centre-Forward,CF,2500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+FC Nantes,Chidozie Awaziem,21,Nigeria,Centre-Back,CB,6000000.0,FC Porto B,Portugal,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Nantes,Rene Krhin,28,Slovenia,Central Midfield,CM,1500000.0,Granada CF,Spain,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Nantes,Edgar Ié,24,Portugal,Centre-Back,CB,3000000.0,LOSC Lille,France,0.0,in,winter,Ligue 1,2018,True,free loan
+FC Nantes,Valentin Eysseric,26,France,Attacking Midfield,AM,4000000.0,Fiorentina,Italy,0.0,in,winter,Ligue 1,2018,True,free loan
+FC Nantes,Antonio Mance,23,Croatia,Centre-Forward,CF,500000.0,AS Trencin,Slovakia,0.0,in,winter,Ligue 1,2018,True,free loan
+FC Nantes,Emiliano Sala,28,Argentina,Centre-Forward,CF,16000000.0,Cardiff,England,17000000.0,out,winter,Ligue 1,2018,False,
+FC Nantes,Santy Ngom,25,Senegal,Centre-Forward,CF,500000.0,AS Nancy,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Nantes,Alexander Kacaniklic,27,Sweden,Left Midfield,LM,1500000.0,Hammarby,Sweden,0.0,out,winter,Ligue 1,2018,False,
+FC Nantes,Kolbeinn Sigthórsson,29,Iceland,Centre-Forward,CF,1500000.0,AIK,Sweden,0.0,out,winter,Ligue 1,2018,False,
+FC Toulouse,Firmin Mubele,24,DR Congo,Centre-Forward,CF,6000000.0,Stade Rennais,France,5000000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,Baptiste Reynet,27,France,Goalkeeper,GK,5000000.0,Dijon,France,4000000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,Mathieu Dossevi,30,Togo,Right Winger,RW,3500000.0,FC Metz,France,2500000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,Max Gradel,30,Cote d'Ivoire,Left Winger,LW,7000000.0,Bournemouth,England,2000000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,Aaron Leya Iseka,20,Belgium,Centre-Forward,CF,2200000.0,RSC Anderlecht,Belgium,1250000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,John Bostock,26,Trinidad and Tobago,Central Midfield,CM,750000.0,Bursaspor,Turkey,700000.0,in,summer,Ligue 1,2018,False,
+FC Toulouse,Manu García,20,Spain,Attacking Midfield,AM,2000000.0,Man City,England,0.0,in,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Steven Moreira,23,France,Right-Back,RB,1250000.0,FC Lorient,France,,in,summer,Ligue 1,2018,False,
+FC Toulouse,Stéphane Mbia,32,Cameroon,Defensive Midfield,DM,4500000.0,Without Club,,,in,summer,Ligue 1,2018,False,
+FC Toulouse,Issa Diop,21,France,Centre-Back,CB,22000000.0,West Ham,England,25000000.0,out,summer,Ligue 1,2018,False,
+FC Toulouse,Alban Lafont,19,France,Goalkeeper,GK,18000000.0,Fiorentina,Italy,8000000.0,out,summer,Ligue 1,2018,False,
+FC Toulouse,Somália,29,Brazil,Central Midfield,CM,2000000.0,Shabab,Saudi Arabia,1500000.0,out,summer,Ligue 1,2018,False,
+FC Toulouse,Jordan Sebban,21,France,Central Midfield,CM,50000.0,CD El Ejido,Spain,0.0,out,summer,Ligue 1,2018,False,
+FC Toulouse,Andy Delort,26,Algeria,Centre-Forward,CF,4000000.0,Montpellier,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Jessy Pi,24,France,Defensive Midfield,DM,1250000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Clément Michelin,21,France,Right-Back,RB,1250000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Quentin Boisgard,21,France,Attacking Midfield,AM,50000.0,Pau FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Alexis Blin,21,France,Defensive Midfield,DM,5000000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+FC Toulouse,Ola Toivonen,32,Sweden,Attacking Midfield,AM,1500000.0,Melbourne,Australia,,out,summer,Ligue 1,2018,False,
+FC Toulouse,Max Gradel,30,Cote d'Ivoire,Left Winger,LW,7000000.0,Bournemouth,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Toulouse,Giannelli Imbula,25,DR Congo,Defensive Midfield,DM,6000000.0,Stoke City,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Toulouse,Firmin Mubele,24,DR Congo,Centre-Forward,CF,6000000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+FC Toulouse,Gen Shoji,26,Japan,Centre-Back,CB,3500000.0,Kashima Antlers,Japan,3000000.0,in,winter,Ligue 1,2018,False,
+FC Toulouse,Jean-Clair Todibo,19,France,Centre-Back,CB,8000000.0,FC Barcelona,Spain,1000000.0,out,winter,Ligue 1,2018,False,
+FC Toulouse,Steven Fortes,26,Cape Verde,Centre-Back,CB,1000000.0,Lens,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Toulouse,Yann Bodiger,23,France,Central Midfield,CM,3000000.0,Córdoba CF,Spain,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Toulouse,Steeve Yago,26,Burkina Faso,Right-Back,RB,2000000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2018,True,free loan
+FC Toulouse,Stéphane Mbia,32,Cameroon,Defensive Midfield,DM,2500000.0,WH Zall,China,0.0,out,winter,Ligue 1,2018,False,
+FC Toulouse,Derick Osei Yaw,20,France,Centre-Forward,CF,150000.0,Stade Brest 29,France,,out,winter,Ligue 1,2018,False,
+LOSC Lille,Jonathan Ikoné,20,France,Right Winger,RW,700000.0,Paris SG,France,5000000.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Zeki Celik,21,Turkey,Right-Back,RB,800000.0,Istanbulspor,Turkey,2500000.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Loïc Rémy,31,France,Centre-Forward,CF,6000000.0,UD Las Palmas,Spain,1400000.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Jonathan Bamba,22,France,Left Winger,LW,8000000.0,Saint-Étienne,France,0.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,José Fonte,34,Portugal,Centre-Back,CB,2000000.0,DL Yifang,China,0.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Jérémy Pied,29,France,Right-Back,RB,2500000.0,Southampton,England,0.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Rafael Leão,19,Portugal,Centre-Forward,CF,6000000.0,Sporting CP,Portugal,0.0,in,summer,Ligue 1,2018,False,
+LOSC Lille,Rui Fonte,28,Portugal,Centre-Forward,CF,5000000.0,Fulham,England,0.0,in,summer,Ligue 1,2018,True,free loan
+LOSC Lille,Yves Bissouma,21,Mali,Central Midfield,CM,8000000.0,Brighton,England,16900000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Ibrahim Amadou,25,France,Defensive Midfield,DM,3500000.0,Sevilla FC,Spain,14400000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Kévin Malcuit,27,France,Right-Back,RB,7500000.0,SSC Napoli,Italy,12000000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Hamza Mendyl,20,Morocco,Left-Back,LB,600000.0,FC Schalke 04,Germany,6000000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Lebo Mothiba,22,South Africa,Centre-Forward,CF,3000000.0,R. Strasbourg,France,4000000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Naïm Sliti,25,Tunisia,Left Winger,LW,7000000.0,Dijon,France,2000000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Anwar El Ghazi,23,Netherlands,Right Winger,RW,5000000.0,Aston Villa,England,2000000.0,out,summer,Ligue 1,2018,True,loan with fee
+LOSC Lille,Stoppila Sunzu,29,Zambia,Centre-Back,CB,2000000.0,FC Metz,France,800000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Éder,30,Portugal,Centre-Forward,CF,3500000.0,Loko Moscow,Russia,500000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Jean Butez,23,France,Goalkeeper,GK,250000.0,Mouscron,Belgium,200000.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Valère Pollet,21,France,Central Midfield,CM,150000.0,Quevilly Rouen,France,0.0,out,summer,Ligue 1,2018,False,
+LOSC Lille,Rominigue Kouamé,21,Mali,Central Midfield,CM,600000.0,Paris FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+LOSC Lille,Yassine Benzia,23,Algeria,Attacking Midfield,AM,5000000.0,Fenerbahce,Turkey,0.0,out,summer,Ligue 1,2018,True,free loan
+LOSC Lille,Júnior Alonso,25,Paraguay,Centre-Back,CB,2000000.0,Celta de Vigo,Spain,0.0,out,summer,Ligue 1,2018,True,free loan
+LOSC Lille,Ezequiel Ponce,21,Argentina,Centre-Forward,CF,2500000.0,AS Roma,Italy,0.0,out,summer,Ligue 1,2018,True,end of loan
+LOSC Lille,Reinildo Mandava,25,Mozambique,Left-Back,LB,600000.0,Belenenses SAD,Portugal,0.0,in,winter,Ligue 1,2018,True,free loan
+LOSC Lille,Fodé Ballo-Touré,22,Senegal,Left-Back,LB,7000000.0,Monaco,France,11000000.0,out,winter,Ligue 1,2018,False,
+LOSC Lille,Edgar Ié,24,Portugal,Centre-Back,CB,3000000.0,FC Nantes,France,0.0,out,winter,Ligue 1,2018,True,free loan
+LOSC Lille,Júnior Alonso,25,Paraguay,Centre-Back,CB,3000000.0,Boca Juniors,Argentina,0.0,out,winter,Ligue 1,2018,True,free loan
+Montpellier HSC,Gaëtan Laborde,24,France,Centre-Forward,CF,4000000.0,G. Bordeaux,France,3000000.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Florent Mollet,26,France,Attacking Midfield,AM,1250000.0,FC Metz,France,2600000.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Junior Sambia,21,France,Right-Back,RB,2500000.0,Chamois Niort,France,2000000.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Facundo Píriz,28,Uruguay,Defensive Midfield,DM,1500000.0,Akhmat Grozny,Russia,1000000.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Petar Skuletic,28,Serbia,Centre-Forward,CF,1000000.0,Genclerbirligi,Turkey,0.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Damien Le Tallec,28,France,Defensive Midfield,DM,1750000.0,Red Star,Serbia,0.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Andy Delort,26,Algeria,Centre-Forward,CF,4000000.0,Toulouse,France,0.0,in,summer,Ligue 1,2018,True,free loan
+Montpellier HSC,Bilal Boutobba,20,France,Right Winger,RW,500000.0,Sevilla Atl.,Spain,0.0,in,summer,Ligue 1,2018,False,
+Montpellier HSC,Nordi Mukiele,20,France,Right-Back,RB,14000000.0,RB Leipzig,Germany,16000000.0,out,summer,Ligue 1,2018,False,
+Montpellier HSC,Jérôme Roussillon,25,France,Left-Back,LB,8000000.0,VfL Wolfsburg,Germany,5000000.0,out,summer,Ligue 1,2018,False,
+Montpellier HSC,Isaac Mbenza,22,Belgium,Right Winger,RW,3500000.0,Huddersfield,England,2500000.0,out,summer,Ligue 1,2018,True,loan with fee
+Montpellier HSC,Casimir Ninga,25,Chad,Left Winger,LW,1500000.0,SM Caen,France,2000000.0,out,summer,Ligue 1,2018,False,
+Montpellier HSC,Morgan Poaty,21,France,Left-Back,LB,250000.0,Troyes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Montpellier HSC,Giovanni Sio,29,Cote d'Ivoire,Centre-Forward,CF,3500000.0,Ittihad Kalba,United Arab Emirates,0.0,out,summer,Ligue 1,2018,True,free loan
+Montpellier HSC,Laurent Pionnier,36,France,Goalkeeper,GK,500000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Montpellier HSC,Jonathan Ikoné,20,France,Right Winger,RW,700000.0,Paris SG,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Montpellier HSC,Facundo Píriz,28,Uruguay,Defensive Midfield,DM,1500000.0,Akhmat Grozny,Russia,0.0,out,summer,Ligue 1,2018,True,end of loan
+Montpellier HSC,Junior Sambia,21,France,Right-Back,RB,2500000.0,Chamois Niort,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Montpellier HSC,Mathías Suárez,22,Uruguay,Right-Back,RB,1000000.0,Defensor,Uruguay,950000.0,in,winter,Ligue 1,2018,False,
+Montpellier HSC,Mihailo Ristic,23,Serbia,Left Midfield,LM,800000.0,Krasnodar,Russia,600000.0,in,winter,Ligue 1,2018,False,
+Nîmes Olympique,Denis Bouanga,23,Gabon,Left Winger,LW,1750000.0,FC Lorient,France,3000000.0,in,summer,Ligue 1,2018,False,
+Nîmes Olympique,Loïck Landre,26,France,Centre-Back,CB,200000.0,Genoa,Italy,150000.0,in,summer,Ligue 1,2018,False,
+Nîmes Olympique,Hervé Lybohy,34,Niger,Centre-Back,CB,150000.0,Paris FC,France,0.0,in,summer,Ligue 1,2018,False,
+Nîmes Olympique,Florian Miguel,21,France,Left-Back,LB,800000.0,Tours FC,France,0.0,in,summer,Ligue 1,2018,False,
+Nîmes Olympique,Paul Bernardoni,21,France,Goalkeeper,GK,2000000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2018,True,free loan
+Nîmes Olympique,Mustapha Diallo,32,Senegal,Defensive Midfield,DM,1500000.0,Guingamp,France,0.0,in,summer,Ligue 1,2018,False,
+Nîmes Olympique,Faitout Maouassa,20,France,Left-Back,LB,4500000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2018,True,free loan
+Nîmes Olympique,Baptiste Guillaume,23,Belgium,Centre-Forward,CF,2000000.0,SCO Angers,France,0.0,in,summer,Ligue 1,2018,True,free loan
+Nîmes Olympique,Liassine Cadamuro,30,Algeria,Centre-Back,CB,500000.0,Gimnàstic,Spain,0.0,out,summer,Ligue 1,2018,False,
+Nîmes Olympique,Yan Marillat,24,France,Goalkeeper,GK,400000.0,AS Béziers,France,0.0,out,summer,Ligue 1,2018,False,
+Nîmes Olympique,Fabien Garcia,23,France,Centre-Back,CB,500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Nîmes Olympique,Zié Diabaté,29,Cote d'Ivoire,Left-Back,LB,300000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Nîmes Olympique,Olivier Boscagli,20,France,Centre-Back,CB,2000000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Nîmes Olympique,Romain Del Castillo,22,France,Right Winger,RW,1500000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Nîmes Olympique,Jordan Ferri,26,France,Central Midfield,CM,4000000.0,Olympique Lyon,France,0.0,in,winter,Ligue 1,2018,True,free loan
+Nîmes Olympique,Kévin Denkey,18,Togo,Centre-Forward,CF,,AS Béziers,France,0.0,out,winter,Ligue 1,2018,True,free loan
+Nîmes Olympique,Mustapha Diallo,32,Senegal,Defensive Midfield,DM,1500000.0,Retired,,,out,winter,Ligue 1,2018,False,
+OGC Nice,Danilo Barbosa,22,Brazil,Defensive Midfield,DM,7000000.0,Braga,Portugal,10000000.0,in,summer,Ligue 1,2018,False,
+OGC Nice,Myziane Maolida,19,France,Centre-Forward,CF,4500000.0,Olympique Lyon,France,10000000.0,in,summer,Ligue 1,2018,False,
+OGC Nice,Christophe Hérelle,25,France,Centre-Back,CB,6000000.0,Troyes,France,5000000.0,in,summer,Ligue 1,2018,False,
+OGC Nice,Youcef Atal,22,Algeria,Right-Back,RB,800000.0,KV Kortrijk,Belgium,3000000.0,in,summer,Ligue 1,2018,False,
+OGC Nice,Jean Michaël Seri,26,Cote d'Ivoire,Central Midfield,CM,30000000.0,Fulham,England,30000000.0,out,summer,Ligue 1,2018,False,
+OGC Nice,Alassane Plea,25,France,Centre-Forward,CF,18000000.0,Bor. M'gladbach,Germany,23000000.0,out,summer,Ligue 1,2018,False,
+OGC Nice,Maxime Le Marchand,28,France,Centre-Back,CB,4000000.0,Fulham,England,4000000.0,out,summer,Ligue 1,2018,False,
+OGC Nice,Arnaud Souquet,26,France,Right-Back,RB,4500000.0,KAA Gent,Belgium,3000000.0,out,summer,Ligue 1,2018,False,
+OGC Nice,Saïd Benrahma,22,Algeria,Left Winger,LW,1000000.0,Brentford,England,1700000.0,out,summer,Ligue 1,2018,False,
+OGC Nice,Arnaud Lusamba,21,France,Central Midfield,CM,2000000.0,Cercle Brugge,Belgium,0.0,out,summer,Ligue 1,2018,True,free loan
+OGC Nice,Vincent Marcel,21,France,Left Winger,LW,600000.0,Troyes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+OGC Nice,Romain Perraud,20,France,Left-Back,LB,150000.0,Paris FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+OGC Nice,Marlon,22,Brazil,Centre-Back,CB,6000000.0,FC Barcelona,Spain,0.0,out,summer,Ligue 1,2018,True,end of loan
+OGC Nice,Nampalys Mendy,26,Senegal,Defensive Midfield,DM,5000000.0,Leicester,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+OGC Nice,Mario Balotelli,28,Italy,Centre-Forward,CF,20000000.0,Marseille,France,0.0,out,winter,Ligue 1,2018,False,
+Olympique Lyon,Moussa Dembélé,22,France,Centre-Forward,CF,7000000.0,Celtic,Scotland,22000000.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Jason Denayer,23,Belgium,Centre-Back,CB,3000000.0,Man City,England,10000000.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Tanguy Ndombélé,21,France,Central Midfield,CM,25000000.0,Amiens SC,France,8000000.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Lenny Pintor,18,France,Centre-Forward,CF,500000.0,Stade Brest 29,France,5000000.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Oumar Solet,18,France,Centre-Back,CB,1000000.0,Stade Lavallois,France,1450000.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Léo Dubois,23,France,Right-Back,RB,10000000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2018,False,
+Olympique Lyon,Mariano Díaz,25,Dominican Republic,Centre-Forward,CF,22000000.0,Real Madrid,Spain,21500000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Willem Geubbels,16,France,Left Winger,LW,6000000.0,Monaco,France,20000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Mouctar Diakhaby,21,France,Centre-Back,CB,10000000.0,Valencia,Spain,15000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Myziane Maolida,19,France,Centre-Forward,CF,4500000.0,OGC Nice,France,10000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Sergi Darder,24,Spain,Central Midfield,CM,11000000.0,Espanyol,Spain,8000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Jean-Philippe Mateta,21,France,Centre-Forward,CF,2500000.0,1.FSV Mainz 05,Germany,8000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Nicolas N'Koulou,28,Cameroon,Centre-Back,CB,10000000.0,Torino,Italy,3500000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Aldo Kalulu,22,France,Right Winger,RW,1500000.0,FC Basel,Switzerland,2100000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Romain Del Castillo,22,France,Right Winger,RW,1500000.0,Stade Rennais,France,2000000.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Timothé Cognat,20,France,Central Midfield,CM,,Servette FC,Switzerland,0.0,out,summer,Ligue 1,2018,True,free loan
+Olympique Lyon,Elisha Owusu,20,France,Defensive Midfield,DM,100000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Olympique Lyon,Lucas Mocio,24,France,Goalkeeper,GK,150000.0,Annecy FC,France,0.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Louis Nganioni,23,France,Left-Back,LB,750000.0,Levski Sofia,Bulgaria,0.0,out,summer,Ligue 1,2018,False,
+Olympique Lyon,Christopher Martins Pereira,21,Luxembourg,Defensive Midfield,DM,400000.0,Troyes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Olympique Lyon,Tanguy Ndombélé,21,France,Central Midfield,CM,25000000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Olympique Lyon,Oumar Solet,18,France,Centre-Back,CB,1000000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Olympique Lyon,Jordan Ferri,26,France,Central Midfield,CM,4000000.0,Nîmes Olympique,France,0.0,out,winter,Ligue 1,2018,True,free loan
+Olympique Marseille,Kevin Strootman,28,Netherlands,Central Midfield,CM,28000000.0,AS Roma,Italy,25000000.0,in,summer,Ligue 1,2018,False,
+Olympique Marseille,Duje Caleta-Car,21,Croatia,Centre-Back,CB,10000000.0,RB Salzburg,Austria,19000000.0,in,summer,Ligue 1,2018,False,
+Olympique Marseille,Nemanja Radonjic,22,Serbia,Left Winger,LW,6000000.0,Red Star,Serbia,12000000.0,in,summer,Ligue 1,2018,False,
+Olympique Marseille,Jordan Amavi,24,France,Left-Back,LB,16000000.0,Aston Villa,England,10000000.0,in,summer,Ligue 1,2018,False,
+Olympique Marseille,André Zambo Anguissa,22,Cameroon,Defensive Midfield,DM,18000000.0,Fulham,England,24850000.0,out,summer,Ligue 1,2018,False,
+Olympique Marseille,Rémy Cabella,28,France,Attacking Midfield,AM,9000000.0,Saint-Étienne,France,6000000.0,out,summer,Ligue 1,2018,False,
+Olympique Marseille,Dória,23,Brazil,Centre-Back,CB,1500000.0,Santos Laguna,Mexico,2000000.0,out,summer,Ligue 1,2018,False,
+Olympique Marseille,Yusuf Sari,19,Turkey,Right Winger,RW,500000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Olympique Marseille,Saîf-Eddine Khaoui,23,Tunisia,Attacking Midfield,AM,5000000.0,SM Caen,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Olympique Marseille,Henri Bedimo,34,Cameroon,Left-Back,LB,400000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Olympique Marseille,Jordan Amavi,24,France,Left-Back,LB,16000000.0,Aston Villa,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+Olympique Marseille,Mario Balotelli,28,Italy,Centre-Forward,CF,20000000.0,OGC Nice,France,0.0,in,winter,Ligue 1,2018,False,
+Olympique Marseille,Christopher Rocchia,20,France,Left-Back,LB,150000.0,FC Sochaux,France,0.0,out,winter,Ligue 1,2018,True,free loan
+Olympique Marseille,Konstantinos Mitroglou,30,Greece,Centre-Forward,CF,10000000.0,Galatasaray,Turkey,0.0,out,winter,Ligue 1,2018,True,free loan
+Olympique Marseille,Grégory Sertic,29,France,Defensive Midfield,DM,1500000.0,FC Zürich,Switzerland,0.0,out,winter,Ligue 1,2018,True,free loan
+Paris Saint-Germain,Kylian Mbappé,19,France,Centre-Forward,CF,120000000.0,Monaco,France,145000000.0,in,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Thilo Kehrer,21,Germany,Centre-Back,CB,18000000.0,FC Schalke 04,Germany,37000000.0,in,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Juan Bernat,25,Spain,Left-Back,LB,12000000.0,FC Bayern,Germany,5000000.0,in,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Gianluigi Buffon,40,Italy,Goalkeeper,GK,2000000.0,Juventus,Italy,0.0,in,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Eric Maxim Choupo-Moting,29,Cameroon,Centre-Forward,CF,8000000.0,Stoke City,England,0.0,in,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Gonçalo Guedes,21,Portugal,Left Winger,LW,40000000.0,Valencia,Spain,40000000.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Javier Pastore,29,Argentina,Attacking Midfield,AM,15000000.0,AS Roma,Italy,24700000.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Yuri Berchiche,28,Spain,Left-Back,LB,17000000.0,Athletic,Spain,24000000.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Odsonne Edouard,20,France,Centre-Forward,CF,1500000.0,Celtic,Scotland,10300000.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Jonathan Ikoné,20,France,Right Winger,RW,700000.0,LOSC Lille,France,5000000.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Giovani Lo Celso,22,Argentina,Central Midfield,CM,30000000.0,Real Betis,Spain,3000000.0,out,summer,Ligue 1,2018,True,loan with fee
+Paris Saint-Germain,Grzegorz Krychowiak,28,Poland,Defensive Midfield,DM,18000000.0,Loko Moscow,Russia,1500000.0,out,summer,Ligue 1,2018,True,loan with fee
+Paris Saint-Germain,Rémy Descamps,22,France,Goalkeeper,GK,600000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Paris Saint-Germain,Jean-Christophe Bahebeck,25,France,Centre-Forward,CF,1500000.0,FC Utrecht,Netherlands,0.0,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Kevin Trapp,28,Germany,Goalkeeper,GK,8000000.0,E. Frankfurt,Germany,0.0,out,summer,Ligue 1,2018,True,free loan
+Paris Saint-Germain,Hatem Ben Arfa,31,France,Attacking Midfield,AM,5000000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Thiago Motta,35,Italy,Defensive Midfield,DM,1000000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Paris Saint-Germain,Kylian Mbappé,19,France,Centre-Forward,CF,120000000.0,Monaco,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+Paris Saint-Germain,Leandro Paredes,24,Argentina,Defensive Midfield,DM,25000000.0,Zenit S-Pb,Russia,40000000.0,in,winter,Ligue 1,2018,False,
+Paris Saint-Germain,Yacine Adli,18,France,Attacking Midfield,AM,4000000.0,G. Bordeaux,France,5500000.0,out,winter,Ligue 1,2018,False,
+Paris Saint-Germain,Jesé,25,Spain,Left Winger,LW,5000000.0,Real Betis,Spain,0.0,out,winter,Ligue 1,2018,True,free loan
+Paris Saint-Germain,Antoine Bernede,19,France,Central Midfield,CM,3000000.0,RB Salzburg,Austria,0.0,out,winter,Ligue 1,2018,False,
+Paris Saint-Germain,Timothy Weah,18,United States,Centre-Forward,CF,5000000.0,Celtic,Scotland,0.0,out,winter,Ligue 1,2018,True,free loan
+Paris Saint-Germain,Lassana Diarra,33,France,Defensive Midfield,DM,2500000.0,Retired,,,out,winter,Ligue 1,2018,False,
+RC Strasbourg Alsace,Matz Sels,26,Belgium,Goalkeeper,GK,4500000.0,Newcastle,England,4000000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Lebo Mothiba,22,South Africa,Centre-Forward,CF,3000000.0,LOSC Lille,France,4000000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Stefan Mitrovic,28,Serbia,Centre-Back,CB,2200000.0,KAA Gent,Belgium,3000000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Ludovic Ajorque,24,France,Centre-Forward,CF,900000.0,Clermont Foot,France,2000000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Ibrahima Sissoko,20,France,Defensive Midfield,DM,700000.0,Stade Brest 29,France,2000000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Lionel Carole,27,France,Left-Back,LB,3000000.0,Galatasaray,Turkey,750000.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Adrien Thomasson,24,France,Attacking Midfield,AM,8000000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Lamine Koné,29,Cote d'Ivoire,Centre-Back,CB,7000000.0,Sunderland,England,0.0,in,summer,Ligue 1,2018,True,free loan
+RC Strasbourg Alsace,Eiji Kawashima,35,Japan,Goalkeeper,GK,250000.0,FC Metz,France,0.0,in,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Jean-Eudes Aholou,24,Cote d'Ivoire,Defensive Midfield,DM,3000000.0,Monaco,France,14000000.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Jérémy Blayac,35,France,Centre-Forward,CF,250000.0,G. Ajaccio,France,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Stéphane Bahoken,26,Cameroon,Centre-Forward,CF,3000000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Alexandre Oukidja,29,Algeria,Goalkeeper,GK,700000.0,FC Metz,France,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Ernest Seka,31,Guinea,Centre-Back,CB,600000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Yoann Salmier,25,French Guiana,Centre-Back,CB,400000.0,Troyes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+RC Strasbourg Alsace,Vincent Nogueira,30,France,Central Midfield,CM,1500000.0,Annecy FC,France,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Landry Bonnefoi,34,France,Goalkeeper,GK,250000.0,F91 Dudelange,Luxembourg,0.0,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Kader Mangane,35,Senegal,Centre-Back,CB,500000.0,Retired,,,out,summer,Ligue 1,2018,False,
+RC Strasbourg Alsace,Bakary Koné,30,Burkina Faso,Centre-Back,CB,1500000.0,Málaga CF,Spain,0.0,out,summer,Ligue 1,2018,True,end of loan
+RC Strasbourg Alsace,Dimitri Foulquier,25,Guadeloupe,Right-Back,RB,2000000.0,Watford,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+RC Strasbourg Alsace,Martin Terrier,21,France,Left Winger,LW,9000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+RC Strasbourg Alsace,Samuel Grandsir,22,France,Right Winger,RW,3500000.0,Monaco,France,0.0,in,winter,Ligue 1,2018,True,free loan
+RC Strasbourg Alsace,Sanjin Prcic,25,Bosnia-Herzegovina,Central Midfield,CM,2500000.0,Levante,Spain,0.0,in,winter,Ligue 1,2018,True,free loan
+SCO Angers,Jeff Reine-Adélaïde,20,France,Attacking Midfield,AM,3000000.0,Arsenal U23,England,1600000.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Vincent Pajot,27,France,Defensive Midfield,DM,2500000.0,Saint-Étienne,France,1000000.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Harrison Manzala,24,DR Congo,Right Winger,RW,1500000.0,Amiens SC,France,1000000.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Dorian Bertrand,25,France,Left Winger,LW,,SO Cholet,France,800000.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Stéphane Bahoken,26,Cameroon,Centre-Forward,CF,3000000.0,R. Strasbourg,France,0.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Cheikh N'Doye,32,Senegal,Central Midfield,CM,2500000.0,Birmingham,England,0.0,in,summer,Ligue 1,2018,True,free loan
+SCO Angers,Cristian López,29,Spain,Centre-Forward,CF,1000000.0,Lens,France,0.0,in,summer,Ligue 1,2018,False,
+SCO Angers,Ibrahim Cissé,22,France,Centre-Back,CB,600000.0,Tours FC,France,,in,summer,Ligue 1,2018,False,
+SCO Angers,Farid El Melali,21,Algeria,Right Winger,RW,600000.0,Paradou AC,Algeria,,in,summer,Ligue 1,2018,False,
+SCO Angers,Zacharie Boucher,26,France,Goalkeeper,GK,900000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2018,True,free loan
+SCO Angers,Karl Toko Ekambi,25,Cameroon,Left Winger,LW,18000000.0,Villarreal,Spain,18000000.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Enzo Crivelli,23,France,Centre-Forward,CF,4000000.0,SM Caen,France,3000000.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Mathias Serin,26,France,Attacking Midfield,AM,200000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Gabriel Mutombo,22,France,Centre-Back,CB,300000.0,US Orléans,France,0.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Gilles Sunu,27,Togo,Centre-Forward,CF,1500000.0,BB Erzurumspor,Turkey,0.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Alexandre Letellier,27,France,Goalkeeper,GK,1000000.0,Troyes,France,0.0,out,summer,Ligue 1,2018,True,free loan
+SCO Angers,Billy Ketkeophomphone,28,France,Centre-Forward,CF,2000000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Mathieu Michel,26,France,Goalkeeper,GK,2000000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2018,False,
+SCO Angers,Baptiste Guillaume,23,Belgium,Centre-Forward,CF,2000000.0,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2018,True,free loan
+SCO Angers,Lassana Coulibaly,22,Mali,Central Midfield,CM,1250000.0,Rangers,Scotland,0.0,out,summer,Ligue 1,2018,True,free loan
+SCO Angers,Mehdi Tahrat,28,Algeria,Centre-Back,CB,700000.0,Lens,France,,out,summer,Ligue 1,2018,False,
+SCO Angers,Goran Karanovic,30,Switzerland,Centre-Forward,CF,500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+SCO Angers,Prince Oniangué,29,Congo,Defensive Midfield,DM,1500000.0,Wolves,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+SCO Angers,Jeff Reine-Adélaïde,20,France,Attacking Midfield,AM,3000000.0,Arsenal U23,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+SCO Angers,Elhadji Pape Diaw,24,Senegal,Centre-Back,CB,250000.0,Korona Kielce,Poland,50000.0,in,winter,Ligue 1,2018,False,
+SCO Angers,Théo Pellenard,24,France,Left-Back,LB,2000000.0,G. Bordeaux,France,0.0,in,winter,Ligue 1,2018,False,
+SCO Angers,Saliou Ciss,29,Senegal,Left-Back,LB,800000.0,Valenciennes FC,France,0.0,out,winter,Ligue 1,2018,True,free loan
+SCO Angers,Dorian Bertrand,25,France,Left Winger,LW,150000.0,AS Béziers,France,0.0,out,winter,Ligue 1,2018,True,free loan
+SCO Angers,Thomas Touré,25,Cote d'Ivoire,Left Winger,LW,1500000.0,Paris FC,France,0.0,out,winter,Ligue 1,2018,True,free loan
+SCO Angers,Harrison Manzala,24,DR Congo,Right Winger,RW,2000000.0,M. Petah Tikva,Israel,0.0,out,winter,Ligue 1,2018,True,free loan
+SCO Angers,Férébory Doré,30,Congo,Centre-Forward,CF,400000.0,Botev Plovdiv,Bulgaria,0.0,out,winter,Ligue 1,2018,False,
+SM Caen,Enzo Crivelli,23,France,Centre-Forward,CF,4000000.0,SCO Angers,France,3000000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Yacine Bammou,26,Morocco,Centre-Forward,CF,1500000.0,FC Nantes,France,2700000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Casimir Ninga,25,Chad,Left Winger,LW,1500000.0,Montpellier,France,2000000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Fayçal Fajr,30,Morocco,Central Midfield,CM,2500000.0,Getafe,Spain,1500000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Prince Oniangué,29,Congo,Defensive Midfield,DM,1500000.0,Wolves,England,500000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Malik Tchokounté,29,France,Centre-Forward,CF,600000.0,Paris FC,France,250000.0,in,summer,Ligue 1,2018,False,
+SM Caen,Erwin Zelazny,26,France,Goalkeeper,GK,500000.0,Troyes,France,0.0,in,summer,Ligue 1,2018,False,
+SM Caen,Jonathan Gradit,25,France,Centre-Back,CB,500000.0,Tours FC,France,0.0,in,summer,Ligue 1,2018,False,
+SM Caen,Paul Baysse,30,France,Centre-Back,CB,2500000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2018,True,free loan
+SM Caen,Saîf-Eddine Khaoui,23,Tunisia,Attacking Midfield,AM,5000000.0,Marseille,France,0.0,in,summer,Ligue 1,2018,True,free loan
+SM Caen,Claudio Beauvue,30,Guadeloupe,Centre-Forward,CF,2500000.0,Celta de Vigo,Spain,0.0,in,summer,Ligue 1,2018,True,free loan
+SM Caen,Yann Karamoh,19,France,Right Winger,RW,7000000.0,Inter,Italy,6500000.0,out,summer,Ligue 1,2018,False,
+SM Caen,Ivan Santini,29,Croatia,Centre-Forward,CF,5000000.0,RSC Anderlecht,Belgium,3000000.0,out,summer,Ligue 1,2018,False,
+SM Caen,Florian Le Joncour,23,France,Centre-Back,CB,250000.0,Concarneau,France,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Hervé Bazile,28,Haiti,Left Winger,LW,800000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Damien Da Silva,30,France,Centre-Back,CB,5500000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Jordan N'Kololo,25,DR Congo,Left Winger,LW,600000.0,FC Hermannstadt,Romania,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Matthieu Dreyer,29,France,Goalkeeper,GK,300000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Timo Stavitski,19,Finland,Right Winger,RW,500000.0,NK Osijek,Croatia,0.0,out,summer,Ligue 1,2018,True,free loan
+SM Caen,Durel Avounou,20,Congo,Central Midfield,CM,800000.0,US Orléans,France,0.0,out,summer,Ligue 1,2018,True,free loan
+SM Caen,Pape Sané,26,Senegal,Centre-Forward,CF,900000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2018,True,free loan
+SM Caen,Valentin Voisin,22,France,Defensive Midfield,DM,150000.0,USL Dunkerque,France,0.0,out,summer,Ligue 1,2018,True,free loan
+SM Caen,Julien Féret,36,France,Attacking Midfield,AM,400000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Vincent Bessat,32,France,Left-Back,LB,500000.0,Anorthosis,Cyprus,0.0,out,summer,Ligue 1,2018,False,
+SM Caen,Ronny Rodelin,28,France,Right Winger,RW,5000000.0,Guingamp,France,,out,summer,Ligue 1,2018,False,
+SM Caen,Christian Kouakou,27,Cote d'Ivoire,Left Winger,LW,1000000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+SM Caen,Jordan Leborgne,22,France,Central Midfield,CM,400000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+SM Caen,Rémy Vercoutre,38,France,Goalkeeper,GK,250000.0,Retired,,,out,summer,Ligue 1,2018,False,
+SM Caen,Youssef Aït Bennasser,21,Morocco,Central Midfield,CM,7000000.0,Monaco,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+SM Caen,Enzo Crivelli,23,France,Centre-Forward,CF,4000000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2018,True,end of loan
+SM Caen,Aly Ndom,22,France,Defensive Midfield,DM,600000.0,Stade Reims,France,0.0,in,winter,Ligue 1,2018,True,free loan
+SM Caen,Frédéric Guilbert,24,France,Right-Back,RB,7000000.0,Aston Villa,England,0.0,in,winter,Ligue 1,2018,True,free loan
+SM Caen,Frédéric Guilbert,24,France,Right-Back,RB,7000000.0,Aston Villa,England,5000000.0,out,winter,Ligue 1,2018,False,
+SM Caen,Chaker Alhadhur,27,Comoros,Left-Back,LB,700000.0,LB Châteauroux,France,0.0,out,winter,Ligue 1,2018,False,
+SM Caen,Issa Marega,20,France,Centre-Back,CB,150000.0,Cercle Brugge,Belgium,0.0,out,winter,Ligue 1,2018,False,
+SM Caen,Timo Stavitski,19,Finland,Right Winger,RW,500000.0,RoPS,Finland,0.0,out,winter,Ligue 1,2018,True,free loan
+SM Caen,Stef Peeters,26,Belgium,Central Midfield,CM,2000000.0,Zulte Waregem,Belgium,0.0,out,winter,Ligue 1,2018,True,free loan
+SM Caen,Jeff Louis,26,Haiti,Attacking Midfield,AM,100000.0,Career break,,,out,winter,Ligue 1,2018,False,
+Stade Reims,Ghislain Konan,22,Cote d'Ivoire,Left-Back,LB,2000000.0,Vit. Guimarães,Portugal,4000000.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Thomas Foket,23,Belgium,Right-Back,RB,3500000.0,KAA Gent,Belgium,3500000.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Hyun-jun Suk,27,"Korea, South",Centre-Forward,CF,3500000.0,Troyes,France,3000000.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Tristan Dingomé,27,France,Central Midfield,CM,1000000.0,Troyes,France,1000000.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Sheyi Ojo,21,England,Right Winger,RW,2500000.0,Liverpool,England,0.0,in,summer,Ligue 1,2018,True,free loan
+Stade Reims,Moussa Doumbia,23,Mali,Left Winger,LW,500000.0,Rostov,Russia,0.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Alaixys Romao,34,Togo,Defensive Midfield,DM,800000.0,Olympiacos,Greece,0.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Thomas Fontaine,27,Madagascar,Centre-Back,CB,900000.0,Clermont Foot,France,0.0,in,summer,Ligue 1,2018,False,
+Stade Reims,Björn Engels,23,Belgium,Centre-Back,CB,6000000.0,Olympiacos,Greece,0.0,in,summer,Ligue 1,2018,True,free loan
+Stade Reims,Boulaye Dia,21,Senegal,Centre-Forward,CF,,Jura Sud,France,,in,summer,Ligue 1,2018,False,
+Stade Reims,Jordan Siebatcheu,22,United States,Centre-Forward,CF,2500000.0,Stade Rennais,France,9000000.0,out,summer,Ligue 1,2018,False,
+Stade Reims,Julian Jeanvier,26,Guinea,Centre-Back,CB,2500000.0,Brentford,England,2000000.0,out,summer,Ligue 1,2018,False,
+Stade Reims,Diego,30,Brazil,Left-Back,LB,2500000.0,Al-Dhafra SCC,United Arab Emirates,0.0,out,summer,Ligue 1,2018,False,
+Stade Reims,Yohan Roche,20,Benin,Centre-Back,CB,150000.0,Rodez AF,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Reims,Grégory Berthier,22,France,Right Midfield,RM,800000.0,Red Star FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Reims,Lenny Vallier,19,France,Left-Back,LB,250000.0,Pau FC,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Reims,Danilson da Cruz,32,Cape Verde,Defensive Midfield,DM,1500000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2018,False,
+Stade Reims,Grejohn Kyei,23,France,Centre-Forward,CF,1000000.0,Lens,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Reims,Samuel Bouhours,31,France,Left-Back,LB,600000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Stade Reims,Hendrick Cakin,25,France,Right-Back,RB,150000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Stade Reims,Arbër Zeneli,23,Kosovo,Left Winger,LW,6000000.0,Heerenveen,Netherlands,4000000.0,in,winter,Ligue 1,2018,False,
+Stade Reims,Abdul Rahman Baba,24,Ghana,Left-Back,LB,5000000.0,Chelsea,England,0.0,in,winter,Ligue 1,2018,True,free loan
+Stade Reims,Moreto Cassamá,20,Guinea-Bissau,Central Midfield,CM,350000.0,FC Porto B,Portugal,,in,winter,Ligue 1,2018,False,
+Stade Reims,Sambou Sissoko,19,France,Right-Back,RB,300000.0,Tours FC,France,,in,winter,Ligue 1,2018,False,
+Stade Reims,Aly Ndom,22,France,Defensive Midfield,DM,600000.0,SM Caen,France,0.0,out,winter,Ligue 1,2018,True,free loan
+Stade Reims,Anatole Ngamukol,31,France,Centre-Forward,CF,700000.0,SC Fortuna Köln,Germany,0.0,out,winter,Ligue 1,2018,False,
+Stade Reims,Patrick Bahanack,21,Cameroon,Left-Back,LB,150000.0,Ergotelis,Greece,0.0,out,winter,Ligue 1,2018,True,free loan
+Stade Reims,Romain Métanire,28,Madagascar,Right-Back,RB,1750000.0,Minnesota Utd.,United States,,out,winter,Ligue 1,2018,False,
+Stade Rennais FC,Jordan Siebatcheu,22,United States,Centre-Forward,CF,2500000.0,Stade Reims,France,9000000.0,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,Clément Grenier,27,France,Central Midfield,CM,4000000.0,Guingamp,France,4000000.0,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,Romain Del Castillo,22,France,Right Winger,RW,1500000.0,Olympique Lyon,France,2000000.0,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,Jakob Johansson,28,Sweden,Defensive Midfield,DM,2500000.0,AEK Athens,Greece,0.0,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,Damien Da Silva,30,France,Centre-Back,CB,5500000.0,SM Caen,France,0.0,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,M'Baye Niang,23,Senegal,Centre-Forward,CF,10000000.0,Torino,Italy,0.0,in,summer,Ligue 1,2018,True,free loan
+Stade Rennais FC,Hatem Ben Arfa,31,France,Attacking Midfield,AM,5000000.0,Without Club,,,in,summer,Ligue 1,2018,False,
+Stade Rennais FC,Joris Gnagnon,21,France,Centre-Back,CB,15000000.0,Sevilla FC,Spain,13500000.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Firmin Mubele,24,DR Congo,Centre-Forward,CF,6000000.0,Toulouse,France,5000000.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Yoann Gourcuff,32,France,Attacking Midfield,AM,2000000.0,Dijon,France,0.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Afonso Figueiredo,25,Portugal,Left-Back,LB,800000.0,Rio Ave FC,Portugal,0.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Anthony Ribelin,22,France,Central Midfield,CM,250000.0,Endoume,France,0.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Brandon,23,Spain,Centre-Forward,CF,1000000.0,CA Osasuna,Spain,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Rennais FC,Jordan Tell,21,France,Centre-Forward,CF,300000.0,US Orléans,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Rennais FC,Sanjin Prcic,24,Bosnia-Herzegovina,Central Midfield,CM,2500000.0,Levante,Spain,0.0,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Faitout Maouassa,20,France,Left-Back,LB,4500000.0,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Rennais FC,Diafra Sakho,28,Senegal,Centre-Forward,CF,5000000.0,Bursaspor,Turkey,0.0,out,summer,Ligue 1,2018,True,free loan
+Stade Rennais FC,Morgan Amalfitano,33,France,Right Winger,RW,500000.0,Retired,,,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Clément Chantôme,30,France,Defensive Midfield,DM,1500000.0,Without Club,,,out,summer,Ligue 1,2018,False,
+Stade Rennais FC,Wahbi Khazri,27,Tunisia,Centre-Forward,CF,10000000.0,Sunderland,England,0.0,out,summer,Ligue 1,2018,True,end of loan
+Stade Rennais FC,Souleyman Doumbia,22,Cote d'Ivoire,Left-Back,LB,500000.0,Grasshoppers,Switzerland,3000000.0,in,winter,Ligue 1,2018,False,
+Stade Rennais FC,Loïc Badiashile,20,France,Goalkeeper,GK,800000.0,Monaco,France,0.0,in,winter,Ligue 1,2018,True,free loan
+Stade Rennais FC,Denis Will Poha,21,France,Central Midfield,CM,1000000.0,AS Nancy,France,0.0,out,winter,Ligue 1,2018,True,free loan

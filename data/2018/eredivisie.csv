@@ -1,0 +1,486 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+ADO Den Haag,Mike Havekotte,22,Netherlands,Goalkeeper,GK,75000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+ADO Den Haag,Dion Malone,29,Suriname,Defensive Midfield,DM,700000.0,FK Qabala,Azerbaijan,0.0,in,summer,Eredivisie,2018,False,
+ADO Den Haag,Tomas Necid,29,Czech Republic,Centre-Forward,CF,1750000.0,Bursaspor,Turkey,0.0,in,summer,Eredivisie,2018,False,
+ADO Den Haag,Yuning Zhang,21,China,Centre-Forward,CF,1500000.0,West Brom,England,0.0,in,summer,Eredivisie,2018,True,free loan
+ADO Den Haag,Giovanni Troupée,20,Netherlands,Right-Back,RB,1500000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+ADO Den Haag,Bjørn Johnsen,26,Norway,Centre-Forward,CF,3500000.0,AZ Alkmaar,Netherlands,2300000.0,out,summer,Eredivisie,2018,False,
+ADO Den Haag,Édouard Duplan,35,France,Left Winger,LW,300000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+ADO Den Haag,Tyronne Ebuehi,22,Nigeria,Right-Back,RB,1500000.0,Benfica,Portugal,0.0,out,summer,Eredivisie,2018,False,
+ADO Den Haag,Tim Coremans,27,Netherlands,Goalkeeper,GK,150000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+ADO Den Haag,Thomas Meißner,27,Germany,Centre-Back,CB,500000.0,Willem II,Netherlands,,out,summer,Eredivisie,2018,False,
+ADO Den Haag,Hennos Asmelash,19,Netherlands,Right-Back,RB,150000.0,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+ADO Den Haag,Delano Ladan,18,Netherlands,Centre-Forward,CF,250000.0,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+ADO Den Haag,Bas Kuipers,24,Netherlands,Left-Back,LB,200000.0,FC Viitorul,Romania,0.0,out,winter,Eredivisie,2018,False,
+ADO Den Haag,Nick Kuipers,26,Netherlands,Centre-Back,CB,450000.0,FC Emmen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+AZ Alkmaar,Bjørn Johnsen,26,Norway,Centre-Forward,CF,3500000.0,ADO Den Haag,Netherlands,2300000.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Albert Gudmundsson,21,Iceland,Right Winger,RW,1500000.0,PSV Eindhoven,Netherlands,1800000.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Marko Vejinović,28,Netherlands,Central Midfield,CM,2500000.0,Feyenoord,Netherlands,1250000.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Henri Weigelt,20,Germany,Centre-Back,CB,300000.0,Arm. Bielefeld,Germany,1200000.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Rody de Boer,20,Netherlands,Goalkeeper,GK,400000.0,Telstar,Netherlands,250000.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Leon Bergsma,21,Netherlands,Centre-Back,CB,400000.0,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Dorin Rotariu,22,Romania,Right Winger,RW,1500000.0,Club Brugge,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+AZ Alkmaar,Adam Maher,25,Netherlands,Central Midfield,CM,1750000.0,Without Club,,,in,summer,Eredivisie,2018,False,
+AZ Alkmaar,Alireza Jahanbakhsh,24,Iran,Right Winger,RW,18000000.0,Brighton,England,19000000.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Wout Weghorst,25,Netherlands,Centre-Forward,CF,7000000.0,VfL Wolfsburg,Germany,10500000.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Joris van Overeem,24,Netherlands,Central Midfield,CM,1500000.0,FC Utrecht,Netherlands,700000.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Gino Coutinho,35,Netherlands,Goalkeeper,GK,200000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Levi García,20,Trinidad and Tobago,Right Winger,RW,600000.0,Kiryat Shmona,Israel,0.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Jop van der Linden,28,Netherlands,Centre-Back,CB,600000.0,Sydney FC,Australia,0.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Rens van Eijden,30,Netherlands,Centre-Back,CB,1000000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Dabney dos Santos,22,Netherlands,Left Winger,LW,750000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+AZ Alkmaar,Nick Olij,22,Netherlands,Goalkeeper,GK,500000.0,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+AZ Alkmaar,Marko Vejinović,28,Netherlands,Central Midfield,CM,2500000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+AZ Alkmaar,Ricardo van Rhijn,27,Netherlands,Right-Back,RB,1500000.0,Club Brugge,Belgium,0.0,out,summer,Eredivisie,2018,True,end of loan
+AZ Alkmaar,Marko Vejinović,29,Netherlands,Central Midfield,CM,2000000.0,Arka Gdynia,Poland,25000.0,out,winter,Eredivisie,2018,True,loan with fee
+AZ Alkmaar,Iliass Bel Hassani,26,Netherlands,Attacking Midfield,AM,600000.0,FC Groningen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+AZ Alkmaar,Fred Friday,23,Nigeria,Centre-Forward,CF,500000.0,Twente FC,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Daley Blind,28,Netherlands,Centre-Back,CB,18000000.0,Man Utd,England,16000000.0,in,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Dusan Tadic,29,Serbia,Left Winger,LW,15000000.0,Southampton,England,13700000.0,in,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Hassane Bandé,19,Burkina Faso,Left Winger,LW,7500000.0,KV Mechelen,Belgium,8250000.0,in,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Zakaria Labyad,25,Morocco,Attacking Midfield,AM,6000000.0,FC Utrecht,Netherlands,6000000.0,in,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Justin Kluivert,19,Netherlands,Left Winger,LW,15000000.0,AS Roma,Italy,17250000.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Deyovaisio Zeefuik,20,Netherlands,Right-Back,RB,600000.0,FC Groningen,Netherlands,300000.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Amin Younes,24,Germany,Attacking Midfield,AM,5000000.0,SSC Napoli,Italy,0.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Nick Viergever,28,Netherlands,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Mitchell Dijks,25,Netherlands,Left-Back,LB,1500000.0,Bologna,Italy,0.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Norbert Alblas,23,Netherlands,Goalkeeper,GK,150000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Ajax Amsterdam,Mateo Cassierra,21,Colombia,Centre-Forward,CF,3000000.0,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Siem de Jong,29,Netherlands,Attacking Midfield,AM,2500000.0,Sydney FC,Australia,0.0,out,summer,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Benjamin van Leer,26,Netherlands,Goalkeeper,GK,1500000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Lisandro Magallán,25,Argentina,Centre-Back,CB,6000000.0,Boca Juniors,Argentina,9000000.0,in,winter,Eredivisie,2018,False,
+Ajax Amsterdam,Bruno Varela,24,Portugal,Goalkeeper,GK,3000000.0,Benfica,Portugal,0.0,in,winter,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Maximilian Wöber,20,Austria,Centre-Back,CB,8000000.0,Sevilla FC,Spain,0.0,out,winter,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Mateo Cassierra,21,Colombia,Centre-Forward,CF,2500000.0,Racing Club,Argentina,0.0,out,winter,Eredivisie,2018,True,free loan
+Ajax Amsterdam,Luis Manuel Orejuela,23,Colombia,Right-Back,RB,1500000.0,Cruzeiro,Brazil,0.0,out,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Stef Nijland,29,Netherlands,Attacking Midfield,AM,600000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Furdjel Narsingh,30,Netherlands,Right Winger,RW,150000.0,SC Cambuur,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Jordy Thomassen,25,Netherlands,Centre-Forward,CF,250000.0,Helmond Sport,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Mohamed Hamdaoui,25,Netherlands,Left Winger,LW,300000.0,Telstar,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Daryl van Mieghem,28,Netherlands,Right Winger,RW,400000.0,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Javier Vet,24,Netherlands,Defensive Midfield,DM,175000.0,Almere City,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Ted van de Pavert,26,Netherlands,Centre-Back,CB,500000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Liban Abdulahi,22,Somalia,Central Midfield,CM,75000.0,Telstar,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Erik Bakker,28,Netherlands,Central Midfield,CM,750000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Hidde Jurjus,24,Netherlands,Goalkeeper,GK,900000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Leeroy Owusu,21,Netherlands,Right-Back,RB,300000.0,Ajax U21,Netherlands,,in,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Kevin van Diermen,29,Netherlands,Centre-Back,CB,100000.0,IJsselm.vogels,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Tim Receveur,26,Netherlands,Defensive Midfield,DM,125000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Filip Bednarek,25,Poland,Goalkeeper,GK,250000.0,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Mark Diemers,24,Netherlands,Central Midfield,CM,600000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Marlon Versteeg,21,Netherlands,Centre-Forward,CF,75000.0,Lienden,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Anthony van den Hurk,25,Curacao,Centre-Forward,CF,200000.0,MVV Maastricht,Netherlands,,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Tim Keurntjes,27,Netherlands,Left-Back,LB,75000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Andy Driver,30,Scotland,Left Midfield,LM,200000.0,Retired,,,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Rannick Schoop,21,Curacao,Right-Back,RB,75000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Elvio van Overbeek,24,Netherlands,Right Winger,RW,125000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+De Graafschap Doetinchem,Sjoerd Ars,34,Netherlands,Centre-Forward,CF,150000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+De Graafschap Doetinchem,Daryl van Mieghem,28,Netherlands,Right Winger,RW,400000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+De Graafschap Doetinchem,Tarik Tissoudali,25,Morocco,Left Winger,LW,350000.0,AC Le Havre,France,0.0,out,summer,Eredivisie,2018,True,end of loan
+De Graafschap Doetinchem,Nabil Bahoui,28,Sweden,Left Winger,LW,800000.0,Grasshoppers,Switzerland,0.0,in,winter,Eredivisie,2018,False,
+De Graafschap Doetinchem,Charlison Benschop,29,Curacao,Centre-Forward,CF,400000.0,FC Ingolstadt,Germany,0.0,in,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Nigel Bertrams,26,Netherlands,Goalkeeper,GK,300000.0,Nordsjaelland,Denmark,0.0,in,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Azor Matusiwa,20,Netherlands,Defensive Midfield,DM,150000.0,Ajax U21,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Ruben Ligeon,26,Netherlands,Right-Back,RB,250000.0,PEC Zwolle,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Kyvon Leidsman,20,Netherlands,Centre-Forward,CF,50000.0,Almere City U21,Netherlands,0.0,out,winter,Eredivisie,2018,False,
+De Graafschap Doetinchem,Agil Etemadi,31,Iran,Goalkeeper,GK,150000.0,Almere City,Netherlands,,out,winter,Eredivisie,2018,False,
+De Graafschap Doetinchem,Myenty Abena,24,Suriname,Centre-Back,CB,400000.0,Spartak Trnava,Slovakia,,out,winter,Eredivisie,2018,False,
+De Graafschap Doetinchem,Mohamed Hamdaoui,25,Netherlands,Left Winger,LW,200000.0,Twente FC,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+De Graafschap Doetinchem,Jordy Thomassen,25,Netherlands,Centre-Forward,CF,250000.0,Adelaide United,Australia,0.0,out,winter,Eredivisie,2018,True,free loan
+FC Emmen,Jafar Arias,23,Curacao,Centre-Forward,CF,200000.0,FC Dordrecht,Netherlands,50000.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Robbert de Vos,22,Netherlands,Central Midfield,CM,75000.0,Groningen U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Nicklas Pedersen,30,Denmark,Centre-Forward,CF,600000.0,KV Mechelen,Belgium,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Stephen Warmolts,24,Netherlands,Centre-Back,CB,150000.0,Helmond Sport,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Wouter Marinus,23,Netherlands,Attacking Midfield,AM,450000.0,PEC Zwolle,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Jason Bourdouxhe,27,Belgium,Left-Back,LB,175000.0,Helmond Sport,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Caner Cavlan,26,Netherlands,Left-Back,LB,100000.0,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Delano Grootenhuis,21,Netherlands,Attacking Midfield,AM,50000.0,FC Twente U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Daniel Camara Bos,19,Netherlands,Right-Back,RB,,Groningen U19,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Kasper Oldenburger,22,Netherlands,Right Winger,RW,,Groningen U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Emmen,Luciano Slagveer,24,Netherlands,Right Winger,RW,500000.0,KSC Lokeren,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Emmen,Easah Suliman,20,England,Centre-Back,CB,,Aston Villa U23,England,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Emmen,Reuven Niemeijer,23,Netherlands,Attacking Midfield,AM,1250000.0,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Emmen,Willem Huizing,23,Netherlands,Right-Back,RB,75000.0,Harkemase Boys,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Norair Aslanyan,27,Armenia,Right Winger,RW,75000.0,Katwijk,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Nande Wielink,20,Netherlands,Centre-Back,CB,,ACV Assen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Joris Voest,23,Netherlands,Left-Back,LB,50000.0,Harkemase Boys,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Mario Bilate,27,Netherlands,Centre-Forward,CF,150000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Youri Loen,27,Netherlands,Central Midfield,CM,350000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Omran Haydary,20,Afghanistan,Right Winger,RW,150000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Jeroen Veldmate,29,Netherlands,Centre-Back,CB,300000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Josimar Lima,28,Cape Verde,Centre-Back,CB,150000.0,FC Lahti,Finland,0.0,out,summer,Eredivisie,2018,False,
+FC Emmen,Cas Peters,25,Netherlands,Centre-Forward,CF,500000.0,FC Volendam,Netherlands,,out,summer,Eredivisie,2018,False,
+FC Emmen,Nicklas Pedersen,31,Denmark,Centre-Forward,CF,600000.0,Retired,,,out,summer,Eredivisie,2018,False,
+FC Emmen,Michael de Leeuw,32,Netherlands,Centre-Forward,CF,600000.0,Chicago Fire,United States,0.0,in,winter,Eredivisie,2018,False,
+FC Emmen,Nico Neidhart,24,Germany,Right-Back,RB,250000.0,SF Lotte,Germany,0.0,in,winter,Eredivisie,2018,False,
+FC Emmen,Sven Braken,25,Netherlands,Centre-Forward,CF,450000.0,NEC Nijmegen,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Emmen,Andrej Lukic,24,Croatia,Centre-Back,CB,600000.0,Braga,Portugal,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Emmen,Nick Kuipers,26,Netherlands,Centre-Back,CB,450000.0,ADO Den Haag,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Emmen,Zakaria El Azzouzi,22,Netherlands,Centre-Forward,CF,450000.0,Without Club,,,in,winter,Eredivisie,2018,False,
+FC Emmen,Kjelt Engbers,19,Netherlands,Centre-Back,CB,50000.0,VV Hoogeveen,Netherlands,0.0,out,winter,Eredivisie,2018,False,
+FC Groningen,Ritsu Doan,20,Japan,Right Winger,RW,2500000.0,Gamba Osaka,Japan,1700000.0,in,summer,Eredivisie,2018,False,
+FC Groningen,Julian Chabot,20,Germany,Centre-Back,CB,500000.0,Sparta R.,Netherlands,1200000.0,in,summer,Eredivisie,2018,False,
+FC Groningen,Deyovaisio Zeefuik,20,Netherlands,Right-Back,RB,600000.0,Ajax,Netherlands,300000.0,in,summer,Eredivisie,2018,False,
+FC Groningen,Ahmad Mendes Moreira,23,Netherlands,Left Winger,LW,100000.0,Kozakken Boys,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+FC Groningen,Jannik Pohl,22,Denmark,Centre-Forward,CF,500000.0,Aalborg BK,Denmark,0.0,in,summer,Eredivisie,2018,False,
+FC Groningen,Mateo Cassierra,21,Colombia,Centre-Forward,CF,3000000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Groningen,Tim Handwerker,20,Germany,Left-Back,LB,500000.0,1. FC Köln,Germany,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Groningen,Juninho Bacuna,20,Curacao,Central Midfield,CM,1500000.0,Huddersfield,England,2500000.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Kasper Larsen,25,Denmark,Centre-Back,CB,700000.0,Norrköping,Sweden,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Yoëll van Nieff,25,Netherlands,Defensive Midfield,DM,650000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Lars Veldwijk,26,South Africa,Centre-Forward,CF,750000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Ruben Jenssen,30,Norway,Central Midfield,CM,650000.0,Brann,Norway,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Tom van Weert,28,Netherlands,Centre-Forward,CF,1250000.0,Aalborg BK,Denmark,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Jesper Drost,25,Netherlands,Attacking Midfield,AM,1000000.0,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Groningen,Ritsu Doan,20,Japan,Right Winger,RW,2500000.0,Gamba Osaka,Japan,0.0,out,summer,Eredivisie,2018,True,end of loan
+FC Groningen,Deyovaisio Zeefuik,20,Netherlands,Right-Back,RB,600000.0,Ajax,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+FC Groningen,Paul Gladon,26,Netherlands,Centre-Forward,CF,500000.0,Wolves,England,0.0,in,winter,Eredivisie,2018,False,
+FC Groningen,Ko Itakura,21,Japan,Centre-Back,CB,700000.0,Man City,England,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Groningen,Kaj Sierhuis,20,Netherlands,Centre-Forward,CF,700000.0,Ajax U21,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Groningen,Thomas Bruns,26,Netherlands,Central Midfield,CM,900000.0,Vitesse,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Groningen,Iliass Bel Hassani,26,Netherlands,Attacking Midfield,AM,600000.0,AZ Alkmaar,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Groningen,Mo El Hankouri,21,Morocco,Right Midfield,RM,500000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Groningen,Ahmad Mendes Moreira,23,Netherlands,Left Winger,LW,300000.0,Telstar,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+FC Utrecht,Simon Gustafson,23,Sweden,Attacking Midfield,AM,2500000.0,Feyenoord,Netherlands,1000000.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Joris van Overeem,24,Netherlands,Central Midfield,CM,1500000.0,AZ Alkmaar,Netherlands,700000.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Leon Guwara,22,Germany,Left-Back,LB,700000.0,Werder Bremen,Germany,600000.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Nicolas Gavory,23,France,Left-Back,LB,800000.0,Clermont Foot,France,250000.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Othman Boussaid,18,Belgium,Attacking Midfield,AM,200000.0,Lierse SK,Belgium,0.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Emil Bergström,25,Sweden,Centre-Back,CB,1750000.0,Rubin Kazan,Russia,0.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Oussama Tannane,24,Morocco,Attacking Midfield,AM,1500000.0,Saint-Étienne,France,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Utrecht,Jean-Christophe Bahebeck,25,France,Centre-Forward,CF,1500000.0,Paris SG,France,0.0,in,summer,Eredivisie,2018,False,
+FC Utrecht,Timo Letschert,25,Netherlands,Centre-Back,CB,2500000.0,Sassuolo,Italy,0.0,in,summer,Eredivisie,2018,True,free loan
+FC Utrecht,Zakaria Labyad,25,Morocco,Attacking Midfield,AM,6000000.0,Ajax,Netherlands,6000000.0,out,summer,Eredivisie,2018,False,
+FC Utrecht,Ramon Leeuwin,30,Suriname,Centre-Back,CB,1500000.0,Odense BK,Denmark,250000.0,out,summer,Eredivisie,2018,False,
+FC Utrecht,Dario Dumic,26,Bosnia-Herzegovina,Centre-Back,CB,1500000.0,Dynamo Dresden,Germany,150000.0,out,summer,Eredivisie,2018,True,loan with fee
+FC Utrecht,Yassin Ayoub,24,Morocco,Central Midfield,CM,5500000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Utrecht,Robin van der Meer,23,Netherlands,Left-Back,LB,700000.0,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+FC Utrecht,Anouar Kali,27,Morocco,Defensive Midfield,DM,900000.0,NAC Breda,Netherlands,,out,summer,Eredivisie,2018,False,
+FC Utrecht,Giovanni Troupée,20,Netherlands,Right-Back,RB,1500000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+FC Utrecht,Patrick Joosten,22,Netherlands,Left Winger,LW,400000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+FC Utrecht,Chris David,25,Netherlands,Attacking Midfield,AM,100000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+FC Utrecht,Jean-Christophe Bahebeck,25,France,Centre-Forward,CF,1500000.0,Paris SG,France,0.0,out,summer,Eredivisie,2018,True,end of loan
+FC Utrecht,Mateusz Klich,28,Poland,Central Midfield,CM,1750000.0,Leeds,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+FC Utrecht,Michiel Kramer,30,Netherlands,Centre-Forward,CF,1500000.0,Maccabi Haifa,Israel,0.0,in,winter,Eredivisie,2018,False,
+FC Utrecht,Riechedly Bazoer,22,Netherlands,Centre-Back,CB,3000000.0,VfL Wolfsburg,Germany,0.0,in,winter,Eredivisie,2018,True,free loan
+FC Utrecht,Odysseus Velanas,20,Netherlands,Central Midfield,CM,250000.0,Helmond Sport,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Feyenoord Rotterdam,Luis Sinisterra,19,Colombia,Left Winger,LW,100000.0,Once Caldas,Colombia,2000000.0,in,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Yassin Ayoub,24,Morocco,Central Midfield,CM,5500000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Joris Delle,28,France,Goalkeeper,GK,700000.0,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Jordy Clasie,27,Netherlands,Defensive Midfield,DM,6500000.0,Southampton,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Feyenoord Rotterdam,Jean-Paul Boëtius,24,Netherlands,Attacking Midfield,AM,2000000.0,1.FSV Mainz 05,Germany,3500000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Sofyan Amrabat,22,Morocco,Central Midfield,CM,4500000.0,Club Brugge,Belgium,2500000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Marko Vejinović,28,Netherlands,Central Midfield,CM,2500000.0,AZ Alkmaar,Netherlands,1250000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Simon Gustafson,23,Sweden,Attacking Midfield,AM,2500000.0,FC Utrecht,Netherlands,1000000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Bilal Basacikoglu,23,Turkey,Left Winger,LW,1500000.0,Kayserispor,Turkey,400000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Gustavo Hamer,21,Netherlands,Defensive Midfield,DM,500000.0,PEC Zwolle,Netherlands,300000.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Karim El Ahmadi,33,Morocco,Defensive Midfield,DM,3000000.0,Ittihad,Saudi Arabia,0.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Brad Jones,36,Australia,Goalkeeper,GK,1000000.0,Al-Nassr,Saudi Arabia,0.0,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Emil Hansson,20,Sweden,Left Winger,LW,500000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Feyenoord Rotterdam,Miquel Nelom,27,Suriname,Left-Back,LB,650000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+Feyenoord Rotterdam,Kevin Diks,21,Netherlands,Right-Back,RB,1500000.0,Fiorentina,Italy,0.0,out,summer,Eredivisie,2018,True,end of loan
+Feyenoord Rotterdam,Cuco Martina,29,Curacao,Right-Back,RB,2500000.0,Everton,England,0.0,in,winter,Eredivisie,2018,True,free loan
+Feyenoord Rotterdam,Renato Tapia,23,Peru,Defensive Midfield,DM,3000000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Feyenoord Rotterdam,Mo El Hankouri,21,Morocco,Right Midfield,RM,500000.0,FC Groningen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Amadou Ciss,18,Senegal,Left Midfield,LM,,Pau FC,France,160000.0,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Alessandro Ciranni,22,Belgium,Right-Back,RB,400000.0,MVV Maastricht,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Mark Diemers,24,Netherlands,Central Midfield,CM,600000.0,De Graafschap,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Alexei Coselev,24,Moldova,Goalkeeper,GK,300000.0,ACSM Poli Iași,Romania,0.0,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Lazaros Lamprou,20,Greece,Left Winger,LW,1000000.0,PAOK Salonika,Greece,0.0,in,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Lisandro Semedo,22,Cape Verde,Right Winger,RW,750000.0,Apol. Limassol,Cyprus,,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Andrija Novakovich,21,United States,Centre-Forward,CF,500000.0,Reading,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Ahmed El Messaoudi,22,Morocco,Defensive Midfield,DM,850000.0,KV Mechelen,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Rubén Ramírez,22,Venezuela,Centre-Back,CB,250000.0,Atl. Venezuela,Venezuela,,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,José Bandez,18,Venezuela,Left Winger,LW,200000.0,Carabobo FC,Venezuela,0.0,in,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Áron Dobos,18,Hungary,Right Winger,RW,,Dunaújváros,Hungary,,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Branislav Ninaj,24,Slovakia,Centre-Back,CB,400000.0,KSC Lokeren,Belgium,,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,José Rodríguez,23,Spain,Central Midfield,CM,1000000.0,1.FSV Mainz 05,Germany,0.0,in,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,George Mells,21,Australia,Central Midfield,CM,250000.0,Without Club,,,in,summer,Eredivisie,2018,False,
+Fortuna Sittard,Sjoerd Ars,34,Netherlands,Centre-Forward,CF,150000.0,De Treffers,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Fortuna Sittard,Driess Saddiki,21,Morocco,Central Midfield,CM,300000.0,Willem II,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Fortuna Sittard,Mohamed Kourouma,20,Netherlands,midfield,midfield,25000.0,Groene Ster,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Fortuna Sittard,Miguel Santos,23,Portugal,Goalkeeper,GK,200000.0,Astra Giurgiu,Romania,0.0,out,summer,Eredivisie,2018,False,
+Fortuna Sittard,Lazar Kojic,18,Serbia,Central Midfield,CM,100000.0,Backa,Serbia,0.0,out,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Stefan Ashkovski,26,North Macedonia,Right Winger,RW,300000.0,Slavia Sofia,Bulgaria,0.0,out,summer,Eredivisie,2018,False,
+Fortuna Sittard,Mickaël Malsa,22,Martinique,Defensive Midfield,DM,300000.0,Albacete,Spain,0.0,out,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Luc Tinnemans,20,Netherlands,Defensive Midfield,DM,50000.0,EVV Echt,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Job van de Walle,20,Netherlands,Goalkeeper,GK,50000.0,Groene Ster,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Fortuna Sittard,Lisandro Semedo,22,Cape Verde,Right Winger,RW,750000.0,Apol. Limassol,Cyprus,0.0,out,summer,Eredivisie,2018,True,end of loan
+Fortuna Sittard,Perr Schuurs,18,Netherlands,Centre-Back,CB,2000000.0,Ajax,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+Fortuna Sittard,Mahamadou Dembélé,19,France,Centre-Back,CB,400000.0,RB Salzburg,Austria,0.0,in,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Anthony Syhre,23,Germany,Defensive Midfield,DM,250000.0,Würzb. Kickers,Germany,0.0,in,winter,Eredivisie,2018,False,
+Fortuna Sittard,Andrija Balic,21,Croatia,Central Midfield,CM,3500000.0,Udinese Calcio,Italy,0.0,in,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Azbe Jug,26,Slovenia,Goalkeeper,GK,400000.0,Without Club,,,in,winter,Eredivisie,2018,False,
+Fortuna Sittard,Agim Zeka,20,Albania,Right Winger,RW,150000.0,LOSC Lille B,France,0.0,in,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Calvin Mac-Intosch,29,Netherlands,Centre-Back,CB,150000.0,Without Club,,,in,winter,Eredivisie,2018,False,
+Fortuna Sittard,Christopher Braun,27,Germany,Right-Back,RB,150000.0,OFI Crete,Greece,0.0,out,winter,Eredivisie,2018,False,
+Fortuna Sittard,Lazar Kojic,19,Serbia,Central Midfield,CM,150000.0,Radnik,Serbia,0.0,out,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Bo Breukers,19,Netherlands,Central Midfield,CM,75000.0,FC Dordrecht,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,André Vidigal,20,Portugal,Left Winger,LW,650000.0,APOEL Nicosia,Cyprus,0.0,out,winter,Eredivisie,2018,True,free loan
+Fortuna Sittard,Vítor Saba,28,Brazil,Attacking Midfield,AM,100000.0,Retired,,,out,winter,Eredivisie,2018,False,
+Heracles Almelo,Lennart Czyborra,19,Germany,Left Midfield,LM,,Schalke 04 U19,Germany,250000.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Yoëll van Nieff,25,Netherlands,Defensive Midfield,DM,650000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Joey Konings,20,Netherlands,Centre-Forward,CF,75000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Janis Blaswich,27,Germany,Goalkeeper,GK,500000.0,Bor. M'gladbach,Germany,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Maximilian Rossmann,23,Germany,Centre-Back,CB,225000.0,SF Lotte,Germany,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Adrián Dalmau,24,Spain,Centre-Forward,CF,300000.0,Villarreal CF B,Spain,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Jelle van Benthem,19,Netherlands,Centre-Back,CB,,FC Twente U19,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Stephen Sama,25,Germany,Centre-Back,CB,200000.0,Greuther Fürth,Germany,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Alexander Merkel,26,Kazakhstan,Central Midfield,CM,500000.0,Admira Wacker,Austria,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Koen Bucker,22,Netherlands,Goalkeeper,GK,50000.0,AZ Alkmaar U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Dabney dos Santos,22,Netherlands,Left Winger,LW,750000.0,AZ Alkmaar,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Jesper Drost,25,Netherlands,Attacking Midfield,AM,1000000.0,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Silvester van der Water,21,Netherlands,Right Winger,RW,350000.0,Almere City,Netherlands,,in,summer,Eredivisie,2018,False,
+Heracles Almelo,Jamiro Monteiro,24,Cape Verde,Central Midfield,CM,1750000.0,FC Metz,France,3000000.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Bram Castro,35,Belgium,Goalkeeper,GK,700000.0,KV Mechelen,Belgium,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Jaroslav Navratil,26,Czech Republic,Right Winger,RW,500000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Roland Baas,22,Netherlands,Left-Back,LB,300000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Renze Fij,25,Netherlands,Goalkeeper,GK,100000.0,Florö SK,Norway,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Daryl van Mieghem,28,Netherlands,Right Winger,RW,400000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Peter van Ooijen,26,Netherlands,Left Winger,LW,550000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Brahim Darri,23,Netherlands,Left Winger,LW,600000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Gor Agbaljan,21,Armenia,Central Midfield,CM,75000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Dries Wuytens,27,Belgium,Centre-Back,CB,500000.0,Sparta R.,Netherlands,,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Reuven Niemeijer,23,Netherlands,Attacking Midfield,AM,1250000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Heracles Almelo,Kai Huisman,23,Netherlands,Centre-Forward,CF,75000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Tarik Kada,22,Netherlands,Right Winger,RW,100000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+Heracles Almelo,Paul Gladon,26,Netherlands,Centre-Forward,CF,700000.0,Wolves,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+Heracles Almelo,Mats Knoester,20,Netherlands,Centre-Back,CB,100000.0,Feyenoord U21,Netherlands,150000.0,in,winter,Eredivisie,2018,False,
+Heracles Almelo,Vincent Vermeij,24,Netherlands,Centre-Forward,CF,900000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+NAC Breda,Gervane Kastaneer,22,Curacao,Left Winger,LW,350000.0,1.FC K'lautern,Germany,0.0,in,summer,Eredivisie,2018,False,
+NAC Breda,Mikhail Rosheuvel,27,Netherlands,Right Winger,RW,550000.0,Roda JC,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+NAC Breda,Jurich Carolina,19,Curacao,Left-Back,LB,200000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+NAC Breda,Greg Leigh,23,Jamaica,Left-Back,LB,100000.0,Bury,England,0.0,in,summer,Eredivisie,2018,False,
+NAC Breda,Arijanet Muric,19,Kosovo,Goalkeeper,GK,,Man City,England,0.0,in,summer,Eredivisie,2018,True,free loan
+NAC Breda,Theo Zwarthoed,35,Netherlands,Goalkeeper,GK,300000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+NAC Breda,Erik Palmer-Brown,21,United States,Centre-Back,CB,500000.0,Man City U23,England,0.0,in,summer,Eredivisie,2018,True,free loan
+NAC Breda,Luka Ilic,19,Serbia,Attacking Midfield,AM,2000000.0,Man City,England,0.0,in,summer,Eredivisie,2018,True,free loan
+NAC Breda,Anouar Kali,27,Morocco,Defensive Midfield,DM,900000.0,FC Utrecht,Netherlands,,in,summer,Eredivisie,2018,False,
+NAC Breda,Robert Mühren,29,Netherlands,Centre-Forward,CF,700000.0,Zulte Waregem,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+NAC Breda,Benjamin van Leer,26,Netherlands,Goalkeeper,GK,1500000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+NAC Breda,Pele van Anholt,27,Netherlands,Defensive Midfield,DM,600000.0,Without Club,,,in,summer,Eredivisie,2018,False,
+NAC Breda,Rai Vloet,23,Netherlands,Attacking Midfield,AM,600000.0,FC Chiasso,Switzerland,600000.0,out,summer,Eredivisie,2018,False,
+NAC Breda,Sven van der Maaten,23,Netherlands,Goalkeeper,GK,75000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+NAC Breda,Feyo Glim,21,Netherlands,Defensive Midfield,DM,50000.0,Koninklijke HFC,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+NAC Breda,James Horsfield,22,England,Defensive Midfield,DM,200000.0,Scunthorpe Utd.,England,0.0,out,summer,Eredivisie,2018,False,
+NAC Breda,Chiró N'Toko,30,Belgium,Centre-Back,CB,150000.0,FK Senica,Slovakia,0.0,out,summer,Eredivisie,2018,False,
+NAC Breda,Mark Birighitti,27,Australia,Goalkeeper,GK,500000.0,Melbourne City,Australia,0.0,out,summer,Eredivisie,2018,False,
+NAC Breda,Bodi Brusselers,19,Netherlands,Attacking Midfield,AM,100000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+NAC Breda,Diego Snepvangers,20,Netherlands,Left Winger,LW,75000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+NAC Breda,Richelor Sprangers,20,Haiti,Centre-Forward,CF,150000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+NAC Breda,Bart Meijers,21,Netherlands,Centre-Back,CB,400000.0,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+NAC Breda,Nigel Bertrams,25,Netherlands,Goalkeeper,GK,600000.0,Nordsjaelland,Denmark,,out,summer,Eredivisie,2018,False,
+NAC Breda,Jordan van der Gaag,19,Netherlands,Attacking Midfield,AM,,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+NAC Breda,Fisayo Adarabioyo,23,England,Centre-Forward,CF,75000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+NAC Breda,Bradley Vliet,20,Netherlands,Left-Back,LB,50000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+NAC Breda,Manu García,20,Spain,Attacking Midfield,AM,2000000.0,Man City U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Pablo Marí,24,Spain,Centre-Back,CB,750000.0,Man City,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Thierry Ambrose,21,France,Centre-Forward,CF,1250000.0,Man City U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Angeliño,21,Spain,Left-Back,LB,3000000.0,Man City U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Thomas Agyepong,21,Ghana,Left Winger,LW,250000.0,Man City U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Umar Sadiq,21,Nigeria,Centre-Forward,CF,1800000.0,AS Roma,Italy,0.0,out,summer,Eredivisie,2018,True,end of loan
+NAC Breda,Sullay Kaikai,23,England,Left Winger,LW,500000.0,Crystal Palace,England,0.0,in,winter,Eredivisie,2018,False,
+NAC Breda,Alex Gersbach,21,Australia,Left-Back,LB,300000.0,Rosenborg,Norway,0.0,in,winter,Eredivisie,2018,False,
+NAC Breda,Dorian Dervite,30,France,Centre-Back,CB,500000.0,RSC Charleroi,Belgium,0.0,in,winter,Eredivisie,2018,True,free loan
+NAC Breda,Ramon Pascal Lundqvist,21,Sweden,Attacking Midfield,AM,400000.0,PSV Eindhoven,Netherlands,,in,winter,Eredivisie,2018,False,
+NAC Breda,Khalid Karami,29,Netherlands,Right-Back,RB,700000.0,Vitesse,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+NAC Breda,Karol Mets,25,Estonia,Centre-Back,CB,500000.0,AIK,Sweden,300000.0,out,winter,Eredivisie,2018,False,
+NAC Breda,Olivier Rommens,23,Belgium,Central Midfield,CM,100000.0,TOP Oss,Netherlands,0.0,out,winter,Eredivisie,2018,False,
+NAC Breda,Vinnie Vermeer,23,Netherlands,Central Midfield,CM,75000.0,Nashville SC,United States,0.0,out,winter,Eredivisie,2018,False,
+NAC Breda,Jurich Carolina,20,Curacao,Left-Back,LB,200000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+NAC Breda,Robbie Haemhouts,35,Belgium,Central Midfield,CM,200000.0,Retired,,,out,winter,Eredivisie,2018,False,
+PEC Zwolle,Mike van Duinen,26,Netherlands,Centre-Forward,CF,1250000.0,Excelsior,Netherlands,750000.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Vito van Crooij,22,Netherlands,Right Winger,RW,1000000.0,VVV-Venlo,Netherlands,650000.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Clint Leemans,22,Netherlands,Central Midfield,CM,2000000.0,VVV-Venlo,Netherlands,350000.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Gustavo Hamer,21,Netherlands,Defensive Midfield,DM,500000.0,Feyenoord,Netherlands,300000.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Zian Flemming,19,Netherlands,Attacking Midfield,AM,250000.0,Ajax U21,Netherlands,125000.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Darryl Lachman,28,Curacao,Centre-Back,CB,1000000.0,Willem II,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Stanley Elbers,26,Netherlands,Right Winger,RW,600000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Thomas Lam,24,Finland,Centre-Back,CB,1250000.0,Nottm Forest,England,0.0,in,summer,Eredivisie,2018,False,
+PEC Zwolle,Kenneth Paal,21,Netherlands,Left-Back,LB,700000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Denis Genreau,19,Australia,Attacking Midfield,AM,50000.0,Melbourne City,Australia,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Ouasim Bouy,25,Morocco,Defensive Midfield,DM,500000.0,Leeds,England,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Gianluca Scamacca,19,Italy,Centre-Forward,CF,800000.0,Sassuolo,Italy,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Alessandro Tripaldelli,19,Italy,Left-Back,LB,200000.0,Sassuolo,Italy,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Dean Bouzanis,27,Australia,Goalkeeper,GK,400000.0,Melbourne City,Australia,0.0,in,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Ryan Thomas,23,New Zealand,Central Midfield,CM,3000000.0,PSV Eindhoven,Netherlands,2750000.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Philippe Sandler,21,Netherlands,Centre-Back,CB,2500000.0,Man City,England,2500000.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Stef Nijland,29,Netherlands,Attacking Midfield,AM,600000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Athanasios Karagounis,26,Greece,Right Winger,RW,200000.0,PAS Lamia,Greece,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Youness Mokhtar,26,Morocco,Left Winger,LW,2500000.0,Ankaragücü,Turkey,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Mustafa Saymak,25,Netherlands,Attacking Midfield,AM,2500000.0,C. Rizespor,Turkey,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Wouter Marinus,23,Netherlands,Attacking Midfield,AM,450000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Ted van de Pavert,26,Netherlands,Centre-Back,CB,500000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Josef Kvida,21,Czech Republic,Centre-Back,CB,200000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Piotr Parzyszek,24,Poland,Centre-Forward,CF,750000.0,Piast Gliwice,Poland,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Erik Bakker,28,Netherlands,Central Midfield,CM,750000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Erik Israelsson,29,Sweden,Attacking Midfield,AM,400000.0,Vålerenga,Norway,0.0,out,summer,Eredivisie,2018,True,free loan
+PEC Zwolle,Terell Ondaan,24,Guyana,Right Winger,RW,600000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Dirk Marcellis,30,Netherlands,Centre-Back,CB,1000000.0,Retired,,,out,summer,Eredivisie,2018,False,
+PEC Zwolle,Nicolás Freire,24,Argentina,Centre-Back,CB,1000000.0,CA Torque,Uruguay,0.0,out,summer,Eredivisie,2018,True,end of loan
+PEC Zwolle,Queensy Menig,22,Netherlands,Left Winger,LW,850000.0,FC Nantes B,France,0.0,out,summer,Eredivisie,2018,True,end of loan
+PEC Zwolle,Lennart Thy,26,Germany,Centre-Forward,CF,700000.0,BB Erzurumspor,Turkey,0.0,in,winter,Eredivisie,2018,False,
+PEC Zwolle,Pelle Clement,22,Netherlands,Central Midfield,CM,350000.0,Reading,England,0.0,in,winter,Eredivisie,2018,False,
+PEC Zwolle,Yuta Nakayama,21,Japan,Centre-Back,CB,1000000.0,Kashiwa Reysol,Japan,,in,winter,Eredivisie,2018,False,
+PEC Zwolle,Erik Israelsson,29,Sweden,Attacking Midfield,AM,300000.0,Vålerenga,Norway,0.0,out,winter,Eredivisie,2018,False,
+PEC Zwolle,Mike Hauptmeijer,21,Netherlands,Goalkeeper,GK,100000.0,Achilles '29,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+PEC Zwolle,Ruben Ligeon,26,Netherlands,Right-Back,RB,250000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+PSV Eindhoven,Érick Gutiérrez,23,Mexico,Central Midfield,CM,7500000.0,CF Pachuca,Mexico,6000000.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Angeliño,21,Spain,Left-Back,LB,3000000.0,Man City U23,England,5500000.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Denzel Dumfries,22,Netherlands,Right-Back,RB,4000000.0,Heerenveen,Netherlands,5500000.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Ryan Thomas,23,New Zealand,Central Midfield,CM,3000000.0,PEC Zwolle,Netherlands,2750000.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Aziz Behich,27,Australia,Left-Back,LB,2750000.0,Bursaspor,Turkey,1500000.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Nick Viergever,28,Netherlands,Centre-Back,CB,3000000.0,Ajax,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Lars Unnerstall,27,Germany,Goalkeeper,GK,2000000.0,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Trent Sainsbury,26,Australia,Centre-Back,CB,1000000.0,JS Suning,China,0.0,in,summer,Eredivisie,2018,False,
+PSV Eindhoven,Santiago Arias,26,Colombia,Right-Back,RB,18000000.0,Atlético Madrid,Spain,11000000.0,out,summer,Eredivisie,2018,False,
+PSV Eindhoven,Joshua Brenet,24,Netherlands,Right-Back,RB,5000000.0,TSG Hoffenheim,Germany,3500000.0,out,summer,Eredivisie,2018,False,
+PSV Eindhoven,Albert Gudmundsson,21,Iceland,Right Winger,RW,1500000.0,AZ Alkmaar,Netherlands,1800000.0,out,summer,Eredivisie,2018,False,
+PSV Eindhoven,Derrick Luckassen,23,Netherlands,Centre-Back,CB,3500000.0,Hertha BSC,Germany,500000.0,out,summer,Eredivisie,2018,True,loan with fee
+PSV Eindhoven,Jordy de Wijs,23,Netherlands,Centre-Back,CB,1250000.0,Hull City,England,400000.0,out,summer,Eredivisie,2018,False,
+PSV Eindhoven,Marcel Ritzmaier,25,Austria,Central Midfield,CM,600000.0,Wolfsberger AC,Austria,0.0,out,summer,Eredivisie,2018,False,
+PSV Eindhoven,Lars Unnerstall,27,Germany,Goalkeeper,GK,2000000.0,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+PSV Eindhoven,Kenneth Paal,21,Netherlands,Left-Back,LB,700000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+PSV Eindhoven,Sam Lammers,21,Netherlands,Centre-Forward,CF,1500000.0,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+PSV Eindhoven,Hidde Jurjus,24,Netherlands,Goalkeeper,GK,900000.0,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+PSV Eindhoven,Luuk Koopmans,24,Netherlands,Goalkeeper,GK,200000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+PSV Eindhoven,Marco van Ginkel,25,Netherlands,Central Midfield,CM,12000000.0,Chelsea,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+PSV Eindhoven,Nicolas Isimat-Mirin,27,France,Centre-Back,CB,2500000.0,Besiktas,Turkey,350000.0,out,winter,Eredivisie,2018,False,
+PSV Eindhoven,Ramon Pascal Lundqvist,21,Sweden,Attacking Midfield,AM,400000.0,NAC Breda,Netherlands,,out,winter,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Sonny Stevens,26,Netherlands,Goalkeeper,GK,400000.0,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Maarten de Fockert,23,Netherlands,Goalkeeper,GK,100000.0,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Thomas Oude Kotte,22,Netherlands,Centre-Back,CB,300000.0,Vitesse U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Denis Mahmudov,28,North Macedonia,Right Winger,RW,300000.0,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Robin van der Meer,23,Netherlands,Left-Back,LB,700000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Jerdy Schouten,21,Netherlands,Central Midfield,CM,300000.0,Telstar,Netherlands,,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Mikael Anderson,20,Iceland,Left Winger,LW,250000.0,FC Midtjylland,Denmark,0.0,in,summer,Eredivisie,2018,True,free loan
+SBV Excelsior Rotterdam,Hervé Matthys,22,Belgium,Centre-Back,CB,250000.0,FC Eindhoven,Netherlands,,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Elías Már Ómarsson,23,Iceland,Centre-Forward,CF,450000.0,IFK Göteborg,Sweden,,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Siebe Horemans,20,Belgium,Right-Back,RB,250000.0,KAA Gent,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+SBV Excelsior Rotterdam,Marcus Edwards,19,England,Right Winger,RW,500000.0,Tottenham U23,England,0.0,in,summer,Eredivisie,2018,True,free loan
+SBV Excelsior Rotterdam,Mounir El Hamdaoui,34,Morocco,Centre-Forward,CF,,Without Club,,,in,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Mike van Duinen,26,Netherlands,Centre-Forward,CF,1250000.0,PEC Zwolle,Netherlands,750000.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Mike Havekotte,22,Netherlands,Goalkeeper,GK,75000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Kevin Vermeulen,27,Netherlands,Attacking Midfield,AM,450000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Shane O'Neill,24,United States,Centre-Back,CB,150000.0,Orlando City SC,United States,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Hicham Faik,26,Netherlands,Defensive Midfield,DM,1500000.0,Zulte Waregem,Belgium,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Milan Massop,24,Netherlands,Left-Back,LB,700000.0,Waasl.-Beveren,Belgium,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Khalid Karami,28,Netherlands,Right-Back,RB,800000.0,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Theo Zwarthoed,35,Netherlands,Goalkeeper,GK,300000.0,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Ögmundur Kristinsson,29,Iceland,Goalkeeper,GK,400000.0,AE Larisa,Greece,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Stanley Elbers,26,Netherlands,Right Winger,RW,600000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SBV Excelsior Rotterdam,Zakaria El Azzouzi,22,Netherlands,Centre-Forward,CF,450000.0,Ajax U21,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+SBV Excelsior Rotterdam,Wout Faes,20,Belgium,Centre-Back,CB,800000.0,RSC Anderlecht,Belgium,0.0,out,summer,Eredivisie,2018,True,end of loan
+SBV Excelsior Rotterdam,Jordy de Wijs,23,Netherlands,Centre-Back,CB,1250000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+SBV Excelsior Rotterdam,Levi García,20,Trinidad and Tobago,Right Winger,RW,600000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+SBV Excelsior Rotterdam,Dennis Eckert Ayensa,22,Germany,Centre-Forward,CF,1200000.0,Celta de Vigo,Spain,0.0,in,winter,Eredivisie,2018,True,free loan
+SC Heerenveen,Rodney Kongolo,20,Netherlands,Central Midfield,CM,250000.0,Man City U23,England,840000.0,in,summer,Eredivisie,2018,False,
+SC Heerenveen,Sherel Floranus,19,Netherlands,Right-Back,RB,600000.0,Sparta R.,Netherlands,550000.0,in,summer,Eredivisie,2018,False,
+SC Heerenveen,Filip Bednarek,25,Poland,Goalkeeper,GK,250000.0,De Graafschap,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+SC Heerenveen,Sam Lammers,21,Netherlands,Centre-Forward,CF,1500000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+SC Heerenveen,Mitchell van Bergen,19,Netherlands,Right Winger,RW,300000.0,Vitesse,Netherlands,,in,summer,Eredivisie,2018,False,
+SC Heerenveen,Denzel Dumfries,22,Netherlands,Right-Back,RB,4000000.0,PSV Eindhoven,Netherlands,5500000.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Henk Veerman,27,Netherlands,Centre-Forward,CF,1000000.0,FC St. Pauli,Germany,500000.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Maarten de Fockert,23,Netherlands,Goalkeeper,GK,100000.0,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Caner Cavlan,26,Netherlands,Left-Back,LB,100000.0,FC Emmen,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Reza Ghoochannejhad,30,Iran,Centre-Forward,CF,1500000.0,APOEL Nicosia,Cyprus,0.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Robert van Koesveld,23,Netherlands,Centre-Back,CB,100000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Wouter van der Steen,28,Netherlands,Goalkeeper,GK,300000.0,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+SC Heerenveen,Martin Ødegaard,19,Norway,Attacking Midfield,AM,4000000.0,Real Madrid,Spain,0.0,out,summer,Eredivisie,2018,True,end of loan
+SC Heerenveen,Martin Hansen,28,Denmark,Goalkeeper,GK,1250000.0,FC Ingolstadt,Germany,0.0,out,summer,Eredivisie,2018,True,end of loan
+SC Heerenveen,Andreas Skovgaard,21,Denmark,Centre-Back,CB,400000.0,Nordsjaelland,Denmark,0.0,in,winter,Eredivisie,2018,False,
+SC Heerenveen,Dennis Johnsen,20,Norway,Left Winger,LW,1000000.0,Ajax U21,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+SC Heerenveen,Ibrahim Dresevic,22,Kosovo,Centre-Back,CB,700000.0,Elfsborg,Sweden,,in,winter,Eredivisie,2018,False,
+SC Heerenveen,Arbër Zeneli,23,Kosovo,Left Winger,LW,6000000.0,Stade Reims,France,4000000.0,out,winter,Eredivisie,2018,False,
+SC Heerenveen,Dave Bulthuis,28,Netherlands,Centre-Back,CB,800000.0,Ulsan Hyundai,"Korea, South",300000.0,out,winter,Eredivisie,2018,False,
+SC Heerenveen,Nicolai Naess,25,Norway,Centre-Back,CB,600000.0,Sarpsborg 08,Norway,0.0,out,winter,Eredivisie,2018,False,
+SC Heerenveen,Marco Rojas,27,New Zealand,Right Winger,RW,1000000.0,SönderjyskE,Denmark,0.0,out,winter,Eredivisie,2018,False,
+SC Heerenveen,Jordy Bruijn,22,Netherlands,Defensive Midfield,DM,300000.0,NEC Nijmegen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+VVV-Venlo,Damian van Bruggen,22,Netherlands,Centre-Back,CB,750000.0,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+VVV-Venlo,Christian Kum,32,Netherlands,Centre-Back,CB,400000.0,Roda JC,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+VVV-Venlo,Tino-Sven Susic,26,Bosnia-Herzegovina,Central Midfield,CM,1000000.0,Royal Antwerp,Belgium,0.0,in,summer,Eredivisie,2018,False,
+VVV-Venlo,Martin Samuelsen,21,Norway,Left Winger,LW,250000.0,West Ham U23,England,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Peter van Ooijen,26,Netherlands,Left Winger,LW,550000.0,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+VVV-Venlo,Axel Borgmann,24,Germany,Left-Back,LB,400000.0,FC Vaduz,Switzerland,0.0,in,summer,Eredivisie,2018,False,
+VVV-Venlo,Lars Unnerstall,27,Germany,Goalkeeper,GK,2000000.0,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Peniel Mlapa,27,Togo,Centre-Forward,CF,550000.0,Dynamo Dresden,Germany,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Sem Steijn,16,Netherlands,Central Midfield,CM,,ADO U19,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Jay-Roy Grot,20,Netherlands,Centre-Forward,CF,1250000.0,Leeds,England,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Patrick Joosten,22,Netherlands,Left Winger,LW,400000.0,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2018,True,free loan
+VVV-Venlo,Vito van Crooij,22,Netherlands,Right Winger,RW,1000000.0,PEC Zwolle,Netherlands,650000.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Clint Leemans,22,Netherlands,Central Midfield,CM,2000000.0,PEC Zwolle,Netherlands,350000.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Lars Unnerstall,27,Germany,Goalkeeper,GK,2000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Sem Custers,18,Netherlands,Goalkeeper,GK,75000.0,NAC Breda U19,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Roy Gielen,20,Netherlands,Central Midfield,CM,50000.0,EVV Echt,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Romeo Castelen,35,Netherlands,Right Winger,RW,250000.0,Retired,,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Jeffrey Rijkers,19,Netherlands,Left-Back,LB,50000.0,EVV Echt,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Lugman Bezzat,21,Netherlands,Left Winger,LW,50000.0,KS Hasselt,Belgium,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Jens Janse,32,Netherlands,Right Midfield,RM,150000.0,Ellera,Italy,0.0,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Leroy Labylle,27,Belgium,Defensive Midfield,DM,300000.0,NEC Nijmegen,Netherlands,,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Ralf Seuntjens,30,Netherlands,Centre-Forward,CF,750000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Torino Hunte,27,Netherlands,Left Winger,LW,400000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+VVV-Venlo,Lennart Thy,26,Germany,Centre-Forward,CF,1000000.0,Werder Bremen,Germany,0.0,out,summer,Eredivisie,2018,True,end of loan
+VVV-Venlo,Damian van Bruggen,22,Netherlands,Centre-Back,CB,750000.0,PSV U21,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+VVV-Venlo,Emil Riis,20,Denmark,Centre-Forward,CF,100000.0,Derby U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+VVV-Venlo,Josimar Lima,29,Cape Verde,Centre-Back,CB,150000.0,Without Club,,,in,winter,Eredivisie,2018,False,
+Vitesse Arnhem,Hilary Gong,19,Nigeria,Right Winger,RW,450000.0,AS Trencin,Slovakia,2000000.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Matus Bero,22,Slovakia,Central Midfield,CM,1500000.0,Trabzonspor,Turkey,1640000.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Rasmus Thelander,26,Denmark,Centre-Back,CB,1000000.0,FC Zürich,Switzerland,250000.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Khalid Karami,28,Netherlands,Right-Back,RB,800000.0,Excelsior,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Oussama Darfalou,24,Algeria,Centre-Forward,CF,1000000.0,USM Alger,Algeria,0.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Eduardo,35,Portugal,Goalkeeper,GK,1000000.0,Chelsea,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Max Clark,22,England,Left-Back,LB,250000.0,Hull City,England,0.0,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Jake Clarke-Salter,20,England,Centre-Back,CB,1000000.0,Chelsea U23,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Danilho Doekhi,20,Netherlands,Centre-Back,CB,250000.0,Ajax U21,Netherlands,,in,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Martin Ødegaard,19,Norway,Attacking Midfield,AM,4000000.0,Real Madrid,Spain,0.0,in,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Charly Musonda Jr.,21,Belgium,Attacking Midfield,AM,5000000.0,Chelsea,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Julian Calor,21,Netherlands,Central Midfield,CM,100000.0,SC Cambuur,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Michael Törnes,32,Denmark,Goalkeeper,GK,150000.0,Vendsyssel FF,Denmark,0.0,out,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Julian Lelieveld,20,Netherlands,Right-Back,RB,300000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Guram Kashia,31,Georgia,Centre-Back,CB,2000000.0,Quakes,United States,,out,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Jeroen Houwen,22,Netherlands,Goalkeeper,GK,600000.0,Telstar,Netherlands,0.0,out,summer,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Mitchell van Bergen,19,Netherlands,Right Winger,RW,300000.0,Heerenveen,Netherlands,,out,summer,Eredivisie,2018,False,
+Vitesse Arnhem,Fankaty Dabo,22,England,Right-Back,RB,600000.0,Chelsea U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+Vitesse Arnhem,Mason Mount,19,England,Attacking Midfield,AM,4000000.0,Chelsea U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+Vitesse Arnhem,Matt Miazga,22,United States,Centre-Back,CB,3000000.0,Chelsea,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+Vitesse Arnhem,Luc Castaignos,25,Netherlands,Centre-Forward,CF,1000000.0,Sporting CP,Portugal,0.0,out,summer,Eredivisie,2018,True,end of loan
+Vitesse Arnhem,Mohammed Dauda,20,Ghana,Second Striker,SS,500000.0,RSC Anderlecht,Belgium,0.0,in,winter,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Thomas Bruns,26,Netherlands,Central Midfield,CM,900000.0,FC Groningen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Vitesse Arnhem,Lassana Faye,20,Netherlands,Left-Back,LB,500000.0,Sparta R.,Netherlands,,out,winter,Eredivisie,2018,False,
+Vitesse Arnhem,Khalid Karami,29,Netherlands,Right-Back,RB,700000.0,NAC Breda,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Driess Saddiki,21,Morocco,Central Midfield,CM,300000.0,Fortuna Sittard,Netherlands,0.0,in,summer,Eredivisie,2018,False,
+Willem II Tilburg,Pol Llonch,25,Spain,Central Midfield,CM,400000.0,Wisla Kraków,Poland,0.0,in,summer,Eredivisie,2018,False,
+Willem II Tilburg,James McGarry,20,New Zealand,Left-Back,LB,200000.0,Wellington P.,Australia,0.0,in,summer,Eredivisie,2018,False,
+Willem II Tilburg,Michael Woud,19,New Zealand,Goalkeeper,GK,,Sunderland U23,England,0.0,in,summer,Eredivisie,2018,False,
+Willem II Tilburg,Thomas Meißner,27,Germany,Centre-Back,CB,500000.0,ADO Den Haag,Netherlands,,in,summer,Eredivisie,2018,False,
+Willem II Tilburg,Dimitrios Kolovos,25,Greece,Left Winger,LW,850000.0,KV Mechelen,Belgium,0.0,in,summer,Eredivisie,2018,True,free loan
+Willem II Tilburg,Diego Palacios,19,Ecuador,Left-Back,LB,600000.0,SD Aucas,Ecuador,0.0,in,summer,Eredivisie,2018,True,free loan
+Willem II Tilburg,Aras Özbiliz,28,Armenia,Right Winger,RW,200000.0,Besiktas,Turkey,0.0,in,summer,Eredivisie,2018,True,free loan
+Willem II Tilburg,Vurnon Anita,29,Curacao,Defensive Midfield,DM,2500000.0,Leeds,England,0.0,in,summer,Eredivisie,2018,True,free loan
+Willem II Tilburg,Eyong Enoh,32,Cameroon,Defensive Midfield,DM,500000.0,EN Paralimniou,Cyprus,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Andreias Calcan,24,Romania,Left Winger,LW,350000.0,Almere City,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Dani Koks,20,Netherlands,Central Midfield,CM,50000.0,KVV Vosselaar,Belgium,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Thomas Kok,20,Netherlands,Defensive Midfield,DM,100000.0,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Asumah Abubakar,21,Portugal,Centre-Forward,CF,75000.0,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Thom Haye,23,Netherlands,Defensive Midfield,DM,1000000.0,Lecce,Italy,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Giliano Wijnaldum,25,Netherlands,Left-Back,LB,300000.0,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Stefan van der Lei,25,Netherlands,Goalkeeper,GK,100000.0,Dalkurd,Sweden,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Darryl Lachman,28,Curacao,Centre-Back,CB,1000000.0,PEC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Bartholomew Ogbeche,33,Nigeria,Centre-Forward,CF,750000.0,NorthEast Utd.,India,0.0,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Etien Velikonja,29,Slovenia,Centre-Forward,CF,400000.0,Without Club,,,out,summer,Eredivisie,2018,False,
+Willem II Tilburg,Konstantinos Tsimikas,22,Greece,Left-Back,LB,850000.0,Olympiacos,Greece,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Pedro Chirivella,21,Spain,Defensive Midfield,DM,750000.0,Liverpool U23,England,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Ismail Azzaoui,20,Belgium,Right Winger,RW,850000.0,VfL Wolfsburg,Germany,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Ben Rienstra,28,Netherlands,Central Midfield,CM,1750000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Mo El Hankouri,20,Morocco,Right Midfield,RM,500000.0,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Jop van der Linden,27,Netherlands,Centre-Back,CB,600000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Thomas Meißner,27,Germany,Centre-Back,CB,500000.0,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2018,True,end of loan
+Willem II Tilburg,Marios Vrousai,20,Greece,Left Winger,LW,200000.0,Olympiacos,Greece,0.0,in,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Renato Tapia,23,Peru,Defensive Midfield,DM,3000000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Vangelis Pavlidis,20,Greece,Centre-Forward,CF,150000.0,VfL Bochum,Germany,0.0,in,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Alexander Isak,19,Sweden,Centre-Forward,CF,3000000.0,Bor. Dortmund,Germany,0.0,in,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Fran Sol,26,Spain,Centre-Forward,CF,6000000.0,Dynamo Kyiv,Ukraine,3500000.0,out,winter,Eredivisie,2018,False,
+Willem II Tilburg,Bartlomiej Urbanski,20,Poland,Central Midfield,CM,100000.0,Chojniczanka,Poland,0.0,out,winter,Eredivisie,2018,False,
+Willem II Tilburg,Mattijs Branderhorst,25,Netherlands,Goalkeeper,GK,600000.0,NEC Nijmegen,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Jordy Croux,25,Belgium,Right Winger,RW,500000.0,MVV Maastricht,Netherlands,0.0,out,winter,Eredivisie,2018,True,free loan
+Willem II Tilburg,Donis Avdijaj,22,Kosovo,Left Winger,LW,2000000.0,Without Club,,,out,winter,Eredivisie,2018,False,

@@ -1,0 +1,385 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1. FC Köln,Peter Madsen,27,Denmark,Centre-Forward,CF,2000000.0,VfL Bochum,Germany,1400000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Björn Schlicke,24,Germany,Centre-Back,CB,1500000.0,Hamburger SV,Germany,650000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Albert Streit,25,Germany,Right Winger,RW,1000000.0,VfL Wolfsburg,Germany,500000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Imre Szabics,24,Hungary,Second Striker,SS,2500000.0,VfB Stuttgart,Germany,500000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Anthony Lurling,28,Netherlands,Attacking Midfield,AM,1400000.0,Feyenoord,Netherlands,300000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Youssef Mokhtari,26,Morocco,Attacking Midfield,AM,1000000.0,Energie Cottbus,Germany,250000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+1. FC Köln,Patrick Helmes,21,Germany,Centre-Forward,CF,400000.0,Spfr. Siegen,Germany,200000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Timo Achenbach,22,Germany,Left-Back,LB,700000.0,B. Dortmund II,Germany,100000.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Dimitrios Grammozis,26,Greece,Defensive Midfield,DM,1200000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Alpay Özalan,32,Turkey,Centre-Back,CB,2500000.0,Urawa Reds,Japan,0.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Marvin Matip,19,Cameroon,Centre-Back,CB,300000.0,VfL Bochum II,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Patrick Weiser,33,Germany,Left-Back,LB,875000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1. FC Köln,Marius Ebbers,27,Germany,Centre-Forward,CF,700000.0,Alem. Aachen,Germany,300000.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Timo Achenbach,22,Germany,Left-Back,LB,700000.0,Greuther Fürth,Germany,100000.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Giovanni Federico,24,Italy,Attacking Midfield,AM,250000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Michael Niedrig,25,Germany,Central Midfield,CM,100000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Alexander Voigt,27,Germany,Left-Back,LB,900000.0,Roda JC,Netherlands,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Michael Lejan,22,Belgium,Defensive Midfield,DM,50000.0,Wuppertaler SV,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Thomas Bröker,20,Germany,Centre-Forward,CF,200000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+1. FC Köln,Fábio Bilica,26,Brazil,Centre-Back,CB,400000.0,Santos FC,Brazil,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Konstantinos Konstantinidis,32,Greece,Centre-Back,CB,800000.0,OFI Crete,Greece,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Attila Tököli,29,Hungary,Centre-Forward,CF,350000.0,Anorthosis,Cyprus,0.0,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Vasilios Tsiartas,32,Greece,Attacking Midfield,AM,3000000.0,Career break,,,out,summer,1 Bundesliga,2005,False,
+1. FC Köln,Albert Streit,25,Germany,Right Winger,RW,1000000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+1. FC Köln,Timo Achenbach,22,Germany,Left-Back,LB,700000.0,B. Dortmund II,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+1. FC Köln,Marco Streller,24,Switzerland,Centre-Forward,CF,2500000.0,VfB Stuttgart,Germany,750000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+1. FC Köln,Ricardo Cabanas,27,Switzerland,Central Midfield,CM,3000000.0,Grasshoppers,Switzerland,650000.0,in,winter,1 Bundesliga,2005,False,
+1. FC Köln,Boris Zivkovic,30,Croatia,Right-Back,RB,1000000.0,VfB Stuttgart,Germany,250000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+1. FC Köln,Evanilson,30,Brazil,Right-Back,RB,2000000.0,Atlético-MG,Brazil,0.0,in,winter,1 Bundesliga,2005,False,
+1. FC Köln,Peter Madsen,27,Denmark,Centre-Forward,CF,1300000.0,Southampton,England,0.0,out,winter,1 Bundesliga,2005,True,free loan
+1. FC Köln,Anthony Lurling,28,Netherlands,Attacking Midfield,AM,800000.0,RKC Waalwijk,Netherlands,0.0,out,winter,1 Bundesliga,2005,True,free loan
+1.FC Kaiserslautern,Boubacar Sanogo,22,Cote d'Ivoire,Centre-Forward,CF,,Al-Ain FC,United Arab Emirates,500000.0,in,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Berkant Göktan,24,Turkey,Centre-Forward,CF,1250000.0,Besiktas,Turkey,100000.0,in,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Ervin Skela,28,Albania,Attacking Midfield,AM,1000000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Axel Bellinghausen,22,Germany,Left Midfield,LM,75000.0,F. Düsseldorf,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Marcelo Pletsch,29,Brazil,Centre-Back,CB,1100000.0,Without Club,,,in,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Giannis Amanatidis,23,Greece,Centre-Forward,CF,3500000.0,E. Frankfurt,Germany,1800000.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Carsten Jancker,31,Germany,Centre-Forward,CF,450000.0,SH Shenhua SVA,China,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Tim Wiese,23,Germany,Goalkeeper,GK,4000000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Dimitrios Grammozis,26,Greece,Defensive Midfield,DM,1200000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Bill Tchato,30,Cameroon,Left-Back,LB,2500000.0,OGC Nice,France,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Patrick Wittich,22,Germany,Defensive Midfield,DM,100000.0,SV Wehen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Mika Nurmela,33,Finland,Right Midfield,RM,600000.0,HJK Helsinki,Finland,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Selim Teber,24,Germany,Central Midfield,CM,350000.0,Denizlispor,Turkey,,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Jürgen Gjasula,19,Albania,Defensive Midfield,DM,100000.0,FC St. Gallen,Switzerland,0.0,out,summer,1 Bundesliga,2005,True,free loan
+1.FC Kaiserslautern,Berkant Göktan,25,Turkey,Centre-Forward,CF,600000.0,Without Club,,,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Hany Ramzy,36,Egypt,Centre-Back,CB,200000.0,Without Club,,,out,summer,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Kamil Kosowski,27,Poland,Left Midfield,LM,2000000.0,Wisla Kraków,Poland,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+1.FC Kaiserslautern,Mathieu Beda,24,France,Centre-Back,CB,1000000.0,Standard Liège,Belgium,500000.0,in,winter,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Jon Inge Höiland,28,Norway,Right-Back,RB,750000.0,Malmö FF,Sweden,50000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+1.FC Kaiserslautern,Balazs Borbely,26,Slovakia,Defensive Midfield,DM,2500000.0,Artmedia Brat.,Slovakia,50000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+1.FC Kaiserslautern,Jochen Seitz,29,Germany,Left Winger,LW,900000.0,TSG Hoffenheim,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+1.FC Kaiserslautern,Lucién Mettomo,28,Cameroon,Centre-Back,CB,1300000.0,K. Erciyesspor,Turkey,0.0,out,winter,1 Bundesliga,2005,True,free loan
+1.FC Kaiserslautern,Christian Nerlinger,32,Germany,Defensive Midfield,DM,350000.0,Retired,,,out,winter,1 Bundesliga,2005,False,
+1.FC Nuremberg,Jan Polak,24,Czech Republic,Defensive Midfield,DM,3000000.0,Slovan Liberec,Czech Republic,1500000.0,in,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Javier Pinola,22,Argentina,Centre-Back,CB,500000.0,Atlético Madrid,Spain,300000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+1.FC Nuremberg,Benjamin Lense,26,Germany,Right-Back,RB,500000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Ivan Saenko,21,Russia,Right Winger,RW,500000.0,Karlsruher SC,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Jaouhar Mnari,28,Tunisia,Defensive Midfield,DM,1000000.0,Esperance,Tunisia,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Adel Chedli,28,Tunisia,Central Midfield,CM,600000.0,FC Istres,France,0.0,in,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Marcel Ketelaer,27,Germany,Left Midfield,LM,750000.0,LR Ahlen,Germany,70000.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Tigrao,22,Brazil,defence,defence,100000.0,Prudentópolis,Brazil,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Tommy Svindal Larsen,31,Norway,Defensive Midfield,DM,1750000.0,Odd Grenland,Norway,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Dirk Langerbein,33,Germany,Goalkeeper,GK,250000.0,RW Essen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Tomasz Hajto,32,Poland,Centre-Back,CB,750000.0,Southampton,England,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Frank Wiblishauser,27,Germany,Left-Back,LB,500000.0,FC St. Gallen,Switzerland,0.0,out,summer,1 Bundesliga,2005,False,
+1.FC Nuremberg,Pekka Lagerblom,22,Finland,Defensive Midfield,DM,750000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+1.FC Nuremberg,Lawrence Aidoo,23,Ghana,Centre-Back,CB,750000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+1.FC Nuremberg,Jan Kristiansen,24,Denmark,Central Midfield,CM,1500000.0,Esbjerg fB,Denmark,350000.0,in,winter,1 Bundesliga,2005,False,
+1.FC Nuremberg,Gláuber,22,Brazil,Centre-Back,CB,,Palmeiras,Brazil,180000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+1.FC Nuremberg,Sezer Öztürk,20,Turkey,Attacking Midfield,AM,400000.0,Bay. Leverkusen,Germany,0.0,in,winter,1 Bundesliga,2005,False,
+1.FC Nuremberg,Maik Wagefeld,24,Germany,Defensive Midfield,DM,750000.0,Dynamo Dresden,Germany,75000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+1.FC Nuremberg,Samuel Slovak,30,Slovakia,Attacking Midfield,AM,350000.0,Slo. Bratislava,Slovakia,0.0,out,winter,1 Bundesliga,2005,False,
+1.FC Nuremberg,Bartosz Bosacki,30,Poland,Centre-Back,CB,750000.0,Lech Poznan,Poland,0.0,out,winter,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Tom Geißler,21,Germany,Central Midfield,CM,250000.0,W. Burghausen,Germany,250000.0,in,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Mohamed Zidan,23,Egypt,Second Striker,SS,3000000.0,Werder Bremen,Germany,200000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+1.FSV Mainz 05,Petr Ruman,28,Czech Republic,Attacking Midfield,AM,600000.0,Greuther Fürth,Germany,150000.0,in,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Rômulo,23,Brazil,Centre-Forward,CF,,Ituano,Brazil,150000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+1.FSV Mainz 05,Otto Addo,30,Ghana,Attacking Midfield,AM,1000000.0,Bor. Dortmund,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Milorad Pekovic,27,Montenegro,Defensive Midfield,DM,200000.0,Eintracht Trier,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Hanno Balitsch,24,Germany,Defensive Midfield,DM,3500000.0,Hannover 96,Germany,1000000.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Claudius Weber,27,Germany,Centre-Forward,CF,50000.0,SV Wehen,Germany,300000.0,out,summer,1 Bundesliga,2005,True,loan with fee
+1.FSV Mainz 05,Marco Walker,35,Switzerland,Centre-Back,CB,250000.0,BSC Old Boys,Switzerland,0.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Sven Hoffmeister,34,Germany,Goalkeeper,GK,100000.0,Kickers Emden,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Christoph Teinert,25,Germany,Centre-Forward,CF,400000.0,Unterhaching,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Jürgen Kramny,33,Germany,Right Midfield,RM,400000.0,SV Darmstadt 98,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Michael Falkenmayer,22,Germany,Defensive Midfield,DM,75000.0,Eintracht Trier,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Markus Dworrak,27,Germany,Left Winger,LW,700000.0,Energie Cottbus,Germany,40000.0,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Robert Nikolic,36,Germany,Right-Back,RB,150000.0,Retired,,,out,summer,1 Bundesliga,2005,False,
+1.FSV Mainz 05,Ranisav Jovanovic,25,Germany,Centre-Forward,CF,450000.0,LR Ahlen,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Arminia Bielefeld,Sibusiso Zuma,30,South Africa,Centre-Forward,CF,2000000.0,FC Copenhagen,Denmark,800000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Tobias Rau,23,Germany,Left-Back,LB,1250000.0,FC Bayern,Germany,750000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Heiko Westermann,21,Germany,Centre-Back,CB,700000.0,Greuther Fürth,Germany,700000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,David Kobylik,24,Czech Republic,Central Midfield,CM,300000.0,Sigma Olomouc,Czech Republic,350000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Radim Kucera,31,Czech Republic,Centre-Back,CB,,Sigma Olomouc,Czech Republic,300000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Christian Schwegler,21,Switzerland,Right-Back,RB,150000.0,FC Luzern,Switzerland,50000.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Nebojsa Krupnikovic,31,Serbia,Attacking Midfield,AM,1750000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Bernd Korzynietz,25,Germany,Right-Back,RB,1500000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Pascal Formann,22,Germany,Goalkeeper,GK,100000.0,Without Club,,,in,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Patrick Owomoyela,25,Germany,Right-Back,RB,3250000.0,Werder Bremen,Germany,2000000.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Matthias Langkamp,21,Germany,Centre-Back,CB,1300000.0,VfL Wolfsburg,Germany,1300000.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Delron Buckley,27,South Africa,Left Winger,LW,2500000.0,Bor. Dortmund,Germany,425000.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Ronny Kockel,29,Germany,Goalkeeper,GK,250000.0,Olympiakos N.,Cyprus,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Ervin Skela,28,Albania,Attacking Midfield,AM,1000000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Benjamin Lense,26,Germany,Right-Back,RB,500000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Bernd Rauw,25,Belgium,Centre-Back,CB,400000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Klodian Duro,27,Albania,Attacking Midfield,AM,,KF Tirana,Albania,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Philipp Heithölter,22,Germany,Left Midfield,LM,250000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Daniel Bogusz,30,Poland,Centre-Back,CB,500000.0,Spfr. Siegen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Arminia Bielefeld,Finn Holsing,21,Germany,Right-Back,RB,175000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Arminia Bielefeld,Claudiu Raducanu,28,Romania,Centre-Forward,CF,2500000.0,Espanyol,Spain,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Arminia Bielefeld,Tomasz Wisio,23,Poland,Centre-Back,CB,400000.0,FC Pasching,Austria,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Arminia Bielefeld,Ioannis Masmanidis,22,Germany,Attacking Midfield,AM,1250000.0,Karlsruher SC,Germany,750000.0,in,winter,1 Bundesliga,2005,False,
+Arminia Bielefeld,Kamil Vacek,18,Czech Republic,Central Midfield,CM,,Sigma Olomouc,Czech Republic,100000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+Arminia Bielefeld,Artur Wichniarek,28,Poland,Centre-Forward,CF,500000.0,Hertha BSC,Germany,0.0,in,winter,1 Bundesliga,2005,False,
+Arminia Bielefeld,Christian Schwegler,21,Switzerland,Right-Back,RB,150000.0,BSC Young Boys,Switzerland,0.0,out,winter,1 Bundesliga,2005,False,
+Arminia Bielefeld,Heiner Backhaus,23,Germany,Defensive Midfield,DM,175000.0,K. Offenbach,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Arminia Bielefeld,Nebojsa Krupnikovic,32,Serbia,Attacking Midfield,AM,1750000.0,JEF Utd. Chiba,Japan,0.0,out,winter,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Athirson,28,Brazil,Left-Back,LB,1500000.0,Cruzeiro,Brazil,820000.0,in,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Simon Rolfes,23,Germany,Defensive Midfield,DM,2000000.0,Alem. Aachen,Germany,750000.0,in,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Josip Tadic,17,Croatia,Centre-Forward,CF,400000.0,NK Osijek,Croatia,350000.0,in,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Ahmed Madouni,24,Algeria,Centre-Back,CB,1000000.0,Bor. Dortmund,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Danko Lazovic,22,Serbia,Second Striker,SS,2500000.0,Feyenoord,Netherlands,25000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+Bayer 04 Leverkusen,Pirmin Schwegler,18,Switzerland,Defensive Midfield,DM,300000.0,FC Luzern,Switzerland,,in,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Emanuel Pogatetz,22,Austria,Centre-Back,CB,3000000.0,Middlesbrough,England,2710000.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,França,29,Brazil,Centre-Forward,CF,5000000.0,Kashiwa Reysol,Japan,2500000.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Daniel Bierofka,26,Germany,Left Midfield,LM,2000000.0,VfB Stuttgart,Germany,600000.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Du-ri Cha,24,"Korea, South",Right-Back,RB,1000000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Jermaine Jones,23,United States,Defensive Midfield,DM,1500000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Diego Placente,28,Argentina,Left-Back,LB,4500000.0,Celta de Vigo,Spain,0.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Robson Ponté,28,Brazil,Attacking Midfield,AM,2800000.0,Urawa Reds,Japan,0.0,out,summer,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Sezer Öztürk,19,Turkey,Attacking Midfield,AM,400000.0,Germ. Beerschot,Belgium,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Bayer 04 Leverkusen,Pirmin Schwegler,18,Switzerland,Defensive Midfield,DM,300000.0,BSC Young Boys,Switzerland,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Bayer 04 Leverkusen,Michal Papadopulos,20,Czech Republic,Centre-Forward,CF,1500000.0,Banik Ostrava,Czech Republic,1500000.0,in,winter,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Fredrik Stenman,22,Sweden,Centre-Back,CB,1000000.0,Djurgarden,Sweden,800000.0,in,winter,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Sezer Öztürk,20,Turkey,Attacking Midfield,AM,400000.0,1.FC Nuremberg,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Bayer 04 Leverkusen,Sascha Dum,19,Germany,Left Midfield,LM,250000.0,Alem. Aachen,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Bayer 04 Leverkusen,Tom Starke,24,Germany,Goalkeeper,GK,300000.0,SC Paderborn,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Bayern Munich,Valérien Ismaël,29,France,Centre-Back,CB,8500000.0,Werder Bremen,Germany,8500000.0,in,summer,1 Bundesliga,2005,False,
+Bayern Munich,Ali Karimi,26,Iran,Attacking Midfield,AM,4750000.0,Al-Ahli (UAE),United Arab Emirates,0.0,in,summer,1 Bundesliga,2005,False,
+Bayern Munich,Bernd Dreher,38,Germany,Goalkeeper,GK,,Career break,,,in,summer,1 Bundesliga,2005,False,
+Bayern Munich,Torsten Frings,28,Germany,Defensive Midfield,DM,9000000.0,Werder Bremen,Germany,5000000.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Vahid Hashemian,28,Iran,Centre-Forward,CF,3500000.0,Hannover 96,Germany,1300000.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Tobias Rau,23,Germany,Left-Back,LB,1250000.0,Arm. Bielefeld,Germany,750000.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Alexander Zickler,31,Germany,Centre-Forward,CF,1250000.0,RB Salzburg,Austria,0.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Thomas Linke,35,Germany,Centre-Back,CB,800000.0,RB Salzburg,Austria,0.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Samuel Kuffour,28,Ghana,Centre-Back,CB,5500000.0,AS Roma,Italy,0.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Robert Kovac,31,Croatia,Centre-Back,CB,4500000.0,Juventus,Italy,0.0,out,summer,1 Bundesliga,2005,False,
+Bayern Munich,Julio dos Santos,22,Paraguay,Central Midfield,CM,2000000.0,Cerro Porteño,Paraguay,2700000.0,in,winter,1 Bundesliga,2005,False,
+Borussia Dortmund,Ebi Smolarek,24,Poland,Centre-Forward,CF,1750000.0,Feyenoord,Netherlands,750000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Delron Buckley,27,South Africa,Left Winger,LW,2500000.0,Arm. Bielefeld,Germany,425000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Dennis Gentenaar,29,Netherlands,Goalkeeper,GK,2500000.0,NEC Nijmegen,Netherlands,150000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Philipp Degen,22,Switzerland,Right-Back,RB,2000000.0,FC Basel,Switzerland,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Bernd Meier,33,Germany,Goalkeeper,GK,250000.0,LR Ahlen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Cedric van der Gun,26,Netherlands,Centre-Forward,CF,1200000.0,ADO Den Haag,Netherlands,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Ewerthon,24,Brazil,Centre-Forward,CF,12000000.0,Real Zaragoza,Spain,3500000.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Niclas Jensen,30,Denmark,Left-Back,LB,1250000.0,Fulham,England,750000.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Guillaume Warmuz,35,France,Goalkeeper,GK,500000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Juan Fernández,25,Argentina,Right-Back,RB,800000.0,San Lorenzo,Argentina,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Malte Metzelder,23,Germany,Defensive Midfield,DM,100000.0,VfR Aalen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Ahmed Madouni,24,Algeria,Centre-Back,CB,1000000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Otto Addo,30,Ghana,Attacking Midfield,AM,1000000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Evanilson,29,Brazil,Right-Back,RB,2000000.0,Atlético-MG,Brazil,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Guy Demel,24,Cote d'Ivoire,Right-Back,RB,750000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,André Bergdölmo,33,Norway,Centre-Back,CB,400000.0,FC Copenhagen,Denmark,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Sunday Oliseh,30,Nigeria,Defensive Midfield,DM,1000000.0,KRC Genk,Belgium,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Dortmund,Sahr Senesie,20,Germany,Centre-Forward,CF,500000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Borussia Dortmund,Ebi Smolarek,24,Poland,Centre-Forward,CF,1750000.0,Feyenoord,Netherlands,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Borussia Dortmund,Matthew Amoah,25,Ghana,Centre-Forward,CF,2000000.0,Vitesse,Netherlands,400000.0,in,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Wesley Sonck,26,Belgium,Centre-Forward,CF,3500000.0,Ajax,Netherlands,2500000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Kahê,22,Brazil,Centre-Forward,CF,,Palmeiras,Brazil,1200000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Kasper Bögelund,24,Denmark,Right-Back,RB,1750000.0,PSV Eindhoven,Netherlands,1000000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Thomas Helveg,34,Denmark,Right-Back,RB,2750000.0,Norwich,England,200000.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Krisztián Lisztes,28,Hungary,Attacking Midfield,AM,2000000.0,Werder Bremen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Niels Oude Kamphuis,27,Netherlands,Defensive Midfield,DM,4250000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Zé António,28,Portugal,Centre-Back,CB,1750000.0,Coimbra,Portugal,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Hassan El Fakiri,28,Norway,Left-Back,LB,750000.0,Monaco,France,0.0,in,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Marek Heinz,28,Czech Republic,Centre-Forward,CF,2000000.0,Galatasaray,Turkey,2250000.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Joris Van Hout,28,Belgium,Centre-Back,CB,1500000.0,VfL Bochum,Germany,100000.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Nico Van Kerckhoven,34,Belgium,Left-Back,LB,1500000.0,KVC Westerlo,Belgium,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Markus Hausweiler,29,Germany,Defensive Midfield,DM,1000000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Igor Demo,29,Slovakia,Central Midfield,CM,1000000.0,Grazer AK,Austria,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Bernd Korzynietz,25,Germany,Right-Back,RB,1500000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Craig Moore,29,Australia,Centre-Back,CB,1000000.0,Newcastle,England,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Daniel Felgenhauer,29,Germany,Right Midfield,RM,400000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Lawrence Aidoo,23,Ghana,Centre-Back,CB,750000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Ivo Ulich,30,Czech Republic,Central Midfield,CM,1800000.0,Vissel Kobe,Japan,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Borussia Mönchengladbach,Sead Ramovic,26,Germany,Goalkeeper,GK,500000.0,K. Offenbach,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Borussia Mönchengladbach,Enrico Gaede,23,Germany,Defensive Midfield,DM,500000.0,Hansa Rostock,Germany,50000.0,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Jan Schlaudraff,21,Germany,Second Striker,SS,550000.0,Alem. Aachen,Germany,,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Max Eberl,31,Germany,Right-Back,RB,150000.0,Retired,,,out,summer,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Wesley Sonck,26,Belgium,Centre-Forward,CF,3500000.0,Ajax,Netherlands,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Borussia Mönchengladbach,Bo Svensson,26,Denmark,Centre-Back,CB,1250000.0,FC Copenhagen,Denmark,250000.0,in,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Nando Rafael,22,Angola,Centre-Forward,CF,1750000.0,Hertha BSC,Germany,,in,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Giovane Elber,33,Brazil,Centre-Forward,CF,900000.0,Cruzeiro,Brazil,0.0,out,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Otto Fredrikson,24,Finland,Goalkeeper,GK,200000.0,Lillestrøm SK,Norway,0.0,out,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Ivo Ulich,31,Czech Republic,Central Midfield,CM,750000.0,Dynamo Dresden,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Borussia Mönchengladbach,Vaclav Sverkos,22,Czech Republic,Centre-Forward,CF,2200000.0,Hertha BSC,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Borussia Mönchengladbach,Christian Ziege,33,Germany,Left Midfield,LM,350000.0,Retired,,,out,winter,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Giannis Amanatidis,23,Greece,Centre-Forward,CF,3500000.0,1.FC K'lautern,Germany,1800000.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Benjamin Huggel,27,Switzerland,Defensive Midfield,DM,1750000.0,FC Basel,Switzerland,800000.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Alexander Meier,22,Germany,Second Striker,SS,850000.0,Hamburger SV,Germany,650000.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Christoph Preuß,23,Germany,Defensive Midfield,DM,1250000.0,VfL Bochum,Germany,500000.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Christoph Spycher,27,Switzerland,Left-Back,LB,2400000.0,Grasshoppers,Switzerland,275000.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Du-ri Cha,24,"Korea, South",Right-Back,RB,1000000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Marko Rehmer,33,Germany,Right-Back,RB,1750000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Francisco Copado,30,Germany,Second Striker,SS,1000000.0,Unterhaching,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Jermaine Jones,23,United States,Defensive Midfield,DM,1500000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Torben Hoffmann,30,Germany,Centre-Back,CB,1000000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Markus Beierle,33,Germany,Centre-Forward,CF,450000.0,SV Darmstadt 98,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Mehmet Dragusha,27,Albania,Left Midfield,LM,450000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Andreas Menger,32,Germany,Goalkeeper,GK,375000.0,Retired,,,out,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Jens Keller,34,Germany,Centre-Back,CB,400000.0,Career break,,,out,summer,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Alexander Meier,22,Germany,Second Striker,SS,850000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Eintracht Frankfurt,Du-ri Cha,24,"Korea, South",Right-Back,RB,1000000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Eintracht Frankfurt,Jermaine Jones,23,United States,Defensive Midfield,DM,1500000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Eintracht Frankfurt,Nico Frommer,27,Germany,Centre-Forward,CF,200000.0,Unterhaching,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Christian Lenze,28,Germany,Central Midfield,CM,200000.0,Erzgebirge Aue,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Alexander Huber,20,Tajikistan,Right-Back,RB,150000.0,TSG Hoffenheim,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Eintracht Frankfurt,Arie van Lent,35,Netherlands,Centre-Forward,CF,500000.0,RW Essen,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Eintracht Frankfurt,Andree Wiedener,35,Germany,Left-Back,LB,250000.0,Retired,,,out,winter,1 Bundesliga,2005,False,
+FC Schalke 04,Kevin Kuranyi,23,Germany,Centre-Forward,CF,8000000.0,VfB Stuttgart,Germany,6900000.0,in,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Rafinha,19,Brazil,Right-Back,RB,4500000.0,Coritiba FC,Brazil,5000000.0,in,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Sören Larsen,23,Denmark,Centre-Forward,CF,,Djurgarden,Sweden,2300000.0,in,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Fabian Ernst,26,Germany,Defensive Midfield,DM,9000000.0,Werder Bremen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Zlatan Bajramovic,25,Bosnia-Herzegovina,Defensive Midfield,DM,3500000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Mike Hanke,21,Germany,Centre-Forward,CF,1750000.0,VfL Wolfsburg,Germany,4000000.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Aílton,32,Brazil,Centre-Forward,CF,8000000.0,Besiktas,Turkey,3500000.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Sven Vermant,32,Belgium,Central Midfield,CM,1400000.0,Club Brugge,Belgium,250000.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Sérgio da Silva Pinto,24,Germany,Central Midfield,CM,1000000.0,Alem. Aachen,Germany,125000.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Michael Delura,20,Germany,Right Winger,RW,900000.0,Hannover 96,Germany,100000.0,out,summer,1 Bundesliga,2005,True,loan with fee
+FC Schalke 04,Niels Oude Kamphuis,27,Netherlands,Defensive Midfield,DM,4250000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Volkan Ünlü,22,Turkey,Goalkeeper,GK,350000.0,Besiktas,Turkey,0.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Fabian Lamotte,22,Germany,Right-Back,RB,400000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Kai Hesse,20,Germany,Centre-Forward,CF,200000.0,VfB Lübeck,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Sven Kmetsch,34,Germany,Defensive Midfield,DM,600000.0,Retired,,,out,summer,1 Bundesliga,2005,False,
+FC Schalke 04,Simon Cziommer,25,Germany,Central Midfield,CM,850000.0,Roda JC,Netherlands,100000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+Hamburger SV,Rafael van der Vaart,22,Netherlands,Attacking Midfield,AM,8000000.0,Ajax,Netherlands,5100000.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Thimothée Atouba,23,Cameroon,Left-Back,LB,3000000.0,Spurs,England,2500000.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Mario Fillinger,20,Germany,Left Midfield,LM,200000.0,Chemnitzer FC,Germany,100000.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Reto Ziegler,19,Switzerland,Centre-Back,CB,2250000.0,Spurs,England,100000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+Hamburger SV,Daniel Ziebig,22,Germany,Left-Back,LB,150000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Guy Demel,24,Cote d'Ivoire,Right-Back,RB,750000.0,Bor. Dortmund,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Markus Karl,19,Germany,Defensive Midfield,DM,50000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+Hamburger SV,Bernardo Romeo,27,Argentina,Centre-Forward,CF,3500000.0,CA Osasuna,Spain,1000000.0,out,summer,1 Bundesliga,2005,False,
+Hamburger SV,Alexander Meier,22,Germany,Second Striker,SS,850000.0,E. Frankfurt,Germany,650000.0,out,summer,1 Bundesliga,2005,False,
+Hamburger SV,Björn Schlicke,24,Germany,Centre-Back,CB,1500000.0,1. FC Köln,Germany,650000.0,out,summer,1 Bundesliga,2005,False,
+Hamburger SV,Eren Sen,20,Germany,Centre-Forward,CF,125000.0,FC Thun,Switzerland,0.0,out,summer,1 Bundesliga,2005,False,
+Hamburger SV,Martin Pieckenhagen,33,Germany,Goalkeeper,GK,1200000.0,Heracles Almelo,Netherlands,0.0,out,summer,1 Bundesliga,2005,False,
+Hamburger SV,Besart Berisha,20,Kosovo,Centre-Forward,CF,200000.0,AC Horsens,Denmark,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hamburger SV,Miso Brecko,21,Slovenia,Right-Back,RB,500000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hamburger SV,Cristian Ledesma,26,Argentina,Central Midfield,CM,1200000.0,Racing Club,Argentina,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hamburger SV,Jean Carlos,21,Brazil,Left-Back,LB,600000.0,Feyenoord,Netherlands,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Hamburger SV,Almami Moreira,27,Guinea-Bissau,Attacking Midfield,AM,2000000.0,Standard Liège,Belgium,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Hamburger SV,Nigel de Jong,21,Netherlands,Defensive Midfield,DM,4500000.0,Ajax,Netherlands,1500000.0,in,winter,1 Bundesliga,2005,False,
+Hamburger SV,Aílton,32,Brazil,Centre-Forward,CF,6000000.0,Besiktas,Turkey,450000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+Hamburger SV,Emile Mpenza,27,Belgium,Centre-Forward,CF,2500000.0,Al-Rayyan SC,Qatar,1300000.0,out,winter,1 Bundesliga,2005,False,
+Hamburger SV,Daniel Ziebig,22,Germany,Left-Back,LB,150000.0,Energie Cottbus,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Hamburger SV,Cristian Ledesma,27,Argentina,Central Midfield,CM,1200000.0,Argentinos Jrs.,Argentina,0.0,out,winter,1 Bundesliga,2005,False,
+Hamburger SV,Collin Benjamin,27,Namibia,Defensive Midfield,DM,1750000.0,Career break,,,out,winter,1 Bundesliga,2005,False,
+Hannover 96,Thomas Brdaric,30,Germany,Centre-Forward,CF,4000000.0,VfL Wolfsburg,Germany,1800000.0,in,summer,1 Bundesliga,2005,False,
+Hannover 96,Vahid Hashemian,28,Iran,Centre-Forward,CF,3500000.0,FC Bayern,Germany,1300000.0,in,summer,1 Bundesliga,2005,False,
+Hannover 96,Hanno Balitsch,24,Germany,Defensive Midfield,DM,3500000.0,1.FSV Mainz 05,Germany,1000000.0,in,summer,1 Bundesliga,2005,False,
+Hannover 96,Chavdar Yankov,21,Bulgaria,Central Midfield,CM,2000000.0,Slavia Sofia,Bulgaria,1000000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+Hannover 96,Michael Delura,20,Germany,Right Winger,RW,900000.0,FC Schalke 04,Germany,100000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+Hannover 96,Leandro,30,Brazil,Centre-Forward,CF,750000.0,Grasshoppers,Switzerland,300000.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Danijel Stefulj,32,Croatia,Right-Back,RB,750000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Julian de Guzmán,24,Canada,Defensive Midfield,DM,2500000.0,Dep. La Coruña,Spain,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Nebojsa Krupnikovic,31,Serbia,Attacking Midfield,AM,1750000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Daniel Haas,21,Germany,Goalkeeper,GK,200000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hannover 96,Jiri Kaufman,25,Czech Republic,Centre-Forward,CF,400000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Denis Wolf,22,Philippines,Attacking Midfield,AM,200000.0,F. Düsseldorf,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hannover 96,Gürman Agac,22,Turkey,Centre-Back,CB,50000.0,Kickers Emden,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Stanko Svitlica,29,Serbia,Centre-Forward,CF,400000.0,LR Ahlen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Vladimir But,27,Russia,Attacking Midfield,AM,700000.0,Shinnik,Russia,0.0,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Roman Wallner,23,Austria,Centre-Forward,CF,1800000.0,Admira Wacker,Austria,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hannover 96,Dame Diouf,27,Senegal,Centre-Back,CB,300000.0,Without Club,,,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Thomas Schneider,32,Germany,Centre-Back,CB,600000.0,Retired,,,out,summer,1 Bundesliga,2005,False,
+Hannover 96,Tranquillo Barnetta,20,Switzerland,Attacking Midfield,AM,1000000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Hannover 96,Veljko Paunovic,27,Serbia,Centre-Forward,CF,2000000.0,Atlético Madrid,Spain,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+Hannover 96,Jonas Troest,20,Denmark,Centre-Back,CB,400000.0,Silkeborg IF,Denmark,150000.0,in,winter,1 Bundesliga,2005,False,
+Hannover 96,Roman Wallner,23,Austria,Centre-Forward,CF,750000.0,Austria Vienna,Austria,0.0,out,winter,1 Bundesliga,2005,True,free loan
+Hertha BSC,Marko Pantelic,26,Serbia,Centre-Forward,CF,1000000.0,Red Star,Serbia,250000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+Hertha BSC,Ellery Cairo,26,Netherlands,Right Winger,RW,800000.0,SC Freiburg,Germany,175000.0,in,summer,1 Bundesliga,2005,False,
+Hertha BSC,Kevin Stuhr-Ellegaard,22,Denmark,Goalkeeper,GK,1500000.0,Man City,England,0.0,in,summer,1 Bundesliga,2005,False,
+Hertha BSC,Solomon Okoronkwo,18,Nigeria,Centre-Forward,CF,75000.0,Without Club,,,in,summer,1 Bundesliga,2005,False,
+Hertha BSC,Marko Rehmer,33,Germany,Right-Back,RB,1750000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hertha BSC,Giuseppe Reina,33,Germany,Right Winger,RW,800000.0,Spfr. Siegen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+Hertha BSC,Alexander Mladenov,23,Bulgaria,Attacking Midfield,AM,400000.0,CSKA Sofia,Bulgaria,0.0,out,summer,1 Bundesliga,2005,False,
+Hertha BSC,Dennis Cagara,20,Philippines,Left-Back,LB,250000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hertha BSC,Ilhan Mansiz,29,Turkey,Centre-Forward,CF,3000000.0,Ankaragücü,Turkey,0.0,out,summer,1 Bundesliga,2005,False,
+Hertha BSC,Alexander Ludwig,21,Germany,Central Midfield,CM,400000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2005,True,free loan
+Hertha BSC,Fredi Bobic,33,Germany,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,1 Bundesliga,2005,False,
+Hertha BSC,Vaclav Sverkos,22,Czech Republic,Centre-Forward,CF,2200000.0,Bor. M'gladbach,Germany,0.0,in,winter,1 Bundesliga,2005,True,free loan
+Hertha BSC,Artur Wichniarek,28,Poland,Centre-Forward,CF,500000.0,Arm. Bielefeld,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+Hertha BSC,Nando Rafael,22,Angola,Centre-Forward,CF,1750000.0,Bor. M'gladbach,Germany,,out,winter,1 Bundesliga,2005,False,
+MSV Duisburg,Klemen Lavric,24,Slovenia,Centre-Forward,CF,700000.0,Dynamo Dresden,Germany,1000000.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Razundara Tjikuzu,25,Namibia,Defensive Midfield,DM,900000.0,Hansa Rostock,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Markus Hausweiler,29,Germany,Defensive Midfield,DM,1000000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Mike Rietpietsch,31,Germany,Right Midfield,RM,350000.0,RW Oberhausen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Tobias Willi,25,Germany,Right-Back,RB,500000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Kai Michalke,29,Germany,Left Winger,LW,1200000.0,Alem. Aachen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Uwe Möhrle,25,Germany,Centre-Back,CB,1000000.0,Hansa Rostock,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Marino Biliskov,29,Croatia,Centre-Back,CB,1500000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,André Poggenborg,21,Germany,Goalkeeper,GK,50000.0,Preußen Münster,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Pavel Drsek,28,Czech Republic,Centre-Back,CB,750000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Rob Maas,35,Netherlands,Defensive Midfield,DM,150000.0,Heracles Almelo,Netherlands,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Dietmar Hirsch,33,Germany,Defensive Midfield,DM,300000.0,VfB Lübeck,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Miroslaw Spizak,26,Poland,Centre-Forward,CF,500000.0,Spfr. Siegen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Benjamin Kruse,27,Germany,Centre-Back,CB,200000.0,ASV Bergedorf 85,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Holger Wehlage,28,Germany,Right Midfield,RM,250000.0,RW Essen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Marco Manske,22,Germany,Left-Back,LB,50000.0,Karlsruhe II,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Sebastian Michalsky,21,Germany,Defensive Midfield,DM,50000.0,Wuppertaler SV,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Rafael Kazior,22,Germany,Centre-Forward,CF,300000.0,W. Burghausen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+MSV Duisburg,Necat Aygün,25,Germany,Centre-Back,CB,400000.0,Unterhaching,Germany,700000.0,in,winter,1 Bundesliga,2005,False,
+MSV Duisburg,Mihai Tararache,28,Romania,Defensive Midfield,DM,1500000.0,FC Zürich,Switzerland,400000.0,in,winter,1 Bundesliga,2005,False,
+MSV Duisburg,Marco Caligiuri,21,Germany,Centre-Back,CB,200000.0,VfB Stuttgart,Germany,100000.0,in,winter,1 Bundesliga,2005,True,loan with fee
+MSV Duisburg,Jung-hwan Ahn,30,"Korea, South",Second Striker,SS,1500000.0,FC Metz,France,0.0,in,winter,1 Bundesliga,2005,False,
+MSV Duisburg,Mike Rietpietsch,31,Germany,Right Midfield,RM,500000.0,Holstein Kiel,Germany,0.0,out,winter,1 Bundesliga,2005,True,free loan
+MSV Duisburg,Josef Ivanovic,32,Germany,Centre-Forward,CF,500000.0,TuS Koblenz,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+SV Werder Bremen,Torsten Frings,28,Germany,Defensive Midfield,DM,9000000.0,FC Bayern,Germany,5000000.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Mohamed Zidan,23,Egypt,Second Striker,SS,3000000.0,FC Midtjylland,Denmark,3000000.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Naldo,22,Brazil,Centre-Back,CB,2750000.0,Juventude,Brazil,2400000.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Patrick Owomoyela,25,Germany,Right-Back,RB,3250000.0,Arm. Bielefeld,Germany,2000000.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Leon Andreasen,22,Denmark,Central Midfield,CM,1800000.0,Aarhus GF,Denmark,1500000.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Jelle Van Damme,21,Belgium,Centre-Back,CB,2250000.0,Southampton,England,325000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+SV Werder Bremen,Christian Vander,24,Germany,Goalkeeper,GK,250000.0,VfL Bochum,Germany,60000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+SV Werder Bremen,Tim Wiese,23,Germany,Goalkeeper,GK,4000000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Jurica Vranjes,25,Croatia,Defensive Midfield,DM,2000000.0,VfB Stuttgart,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Valérien Ismaël,29,France,Centre-Back,CB,8500000.0,FC Bayern,Germany,8500000.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Gustavo Nery,27,Brazil,Left-Back,LB,2500000.0,Corinthians,Brazil,2200000.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Mohamed Zidan,23,Egypt,Second Striker,SS,3000000.0,1.FSV Mainz 05,Germany,200000.0,out,summer,1 Bundesliga,2005,True,loan with fee
+SV Werder Bremen,Fabian Ernst,26,Germany,Defensive Midfield,DM,9000000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Ludovic Magnin,26,Switzerland,Left-Back,LB,1750000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Paul Stalteri,27,Canada,Right-Back,RB,2000000.0,Spurs,England,0.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Krisztián Lisztes,28,Hungary,Attacking Midfield,AM,2000000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Pascal Borel,26,Germany,Goalkeeper,GK,500000.0,LR Ahlen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+SV Werder Bremen,Mohamed Zidan,23,Egypt,Second Striker,SS,3000000.0,FC Midtjylland,Denmark,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+SV Werder Bremen,John Jairo Mosquera,17,Colombia,Centre-Forward,CF,50000.0,Atlético Colombia,Colombia,900000.0,in,winter,1 Bundesliga,2005,False,
+SV Werder Bremen,John Jairo Mosquera,18,Colombia,Centre-Forward,CF,50000.0,SönderjyskE,Denmark,100000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+SV Werder Bremen,Ümit Davala,32,Turkey,Right Midfield,RM,350000.0,Retired,,,out,winter,1 Bundesliga,2005,False,
+VfB Stuttgart,Jon Dahl Tomasson,28,Denmark,Centre-Forward,CF,15000000.0,AC Milan,Italy,7500000.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Jesper Grönkjaer,27,Denmark,Left Winger,LW,6500000.0,Atlético Madrid,Spain,3000000.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Daniel Bierofka,26,Germany,Left Midfield,LM,2000000.0,Bay. Leverkusen,Germany,600000.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Mario Carevic,23,Croatia,Left Midfield,LM,,Ittihad,Saudi Arabia,250000.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Danijel Ljuboja,26,Serbia,Centre-Forward,CF,3000000.0,Paris SG,France,200000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+VfB Stuttgart,Thomas Hitzlsperger,23,Germany,Central Midfield,CM,4000000.0,Aston Villa,England,0.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Ludovic Magnin,26,Switzerland,Left-Back,LB,1750000.0,Werder Bremen,Germany,0.0,in,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Aleksandr Hleb,24,Belarus,Attacking Midfield,AM,7500000.0,Arsenal,England,15000000.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Kevin Kuranyi,23,Germany,Centre-Forward,CF,8000000.0,FC Schalke 04,Germany,6900000.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Hakan Yakin,28,Switzerland,Attacking Midfield,AM,3000000.0,BSC Young Boys,Switzerland,1000000.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Imre Szabics,24,Hungary,Second Striker,SS,2500000.0,1. FC Köln,Germany,500000.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Jurica Vranjes,25,Croatia,Defensive Midfield,DM,2000000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Diego Benaglio,21,Switzerland,Goalkeeper,GK,200000.0,Nacional,Portugal,0.0,out,summer,1 Bundesliga,2005,False,
+VfB Stuttgart,Philipp Lahm,21,Germany,Right-Back,RB,7000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+VfB Stuttgart,Martin Stranzl,25,Austria,Centre-Back,CB,3500000.0,Spartak Moscow,Russia,4500000.0,out,winter,1 Bundesliga,2005,False,
+VfB Stuttgart,Marco Streller,24,Switzerland,Centre-Forward,CF,2500000.0,1. FC Köln,Germany,750000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+VfB Stuttgart,Boris Zivkovic,30,Croatia,Right-Back,RB,1000000.0,1. FC Köln,Germany,250000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+VfB Stuttgart,Marco Caligiuri,21,Germany,Centre-Back,CB,200000.0,MSV Duisburg,Germany,100000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+VfB Stuttgart,Tobias Rathgeb,23,Germany,Defensive Midfield,DM,200000.0,Hansa Rostock,Germany,0.0,out,winter,1 Bundesliga,2005,False,
+VfB Stuttgart,Élson,24,Brazil,Attacking Midfield,AM,500000.0,Ponte Preta,Brazil,0.0,out,winter,1 Bundesliga,2005,True,free loan
+VfB Stuttgart,Horst Heldt,36,Germany,Attacking Midfield,AM,200000.0,Retired,,,out,winter,1 Bundesliga,2005,False,
+VfL Wolfsburg,Mike Hanke,21,Germany,Centre-Forward,CF,1750000.0,FC Schalke 04,Germany,4000000.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Alex,25,Portugal,Right-Back,RB,2500000.0,Benfica,Portugal,1800000.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Matthias Langkamp,21,Germany,Centre-Back,CB,1300000.0,Arm. Bielefeld,Germany,1300000.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Abuda,19,Brazil,Centre-Forward,CF,,Corinthians,Brazil,275000.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Levan Tskitishvili,28,Georgia,Left Midfield,LM,1100000.0,Metalurg D.,Ukraine,250000.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Bojan Neziri,23,Serbia,Left-Back,LB,50000.0,Metalurg D.,Ukraine,150000.0,in,summer,1 Bundesliga,2005,True,loan with fee
+VfL Wolfsburg,Peter Van der Heyden,28,Belgium,Left-Back,LB,2500000.0,Club Brugge,Belgium,0.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Steve Marlet,31,France,Centre-Forward,CF,3500000.0,Fulham,England,0.0,in,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Martin Petrov,26,Bulgaria,Left Winger,LW,7000000.0,Atlético Madrid,Spain,10000000.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Thomas Brdaric,30,Germany,Centre-Forward,CF,4000000.0,Hannover 96,Germany,1800000.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Thomas Rytter,31,Denmark,Right-Back,RB,1500000.0,Bröndby IF,Denmark,500000.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Albert Streit,25,Germany,Right Winger,RW,1000000.0,1. FC Köln,Germany,500000.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Marino Biliskov,29,Croatia,Centre-Back,CB,1500000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Tomislav Maric,32,Croatia,Centre-Forward,CF,900000.0,Urawa Reds,Japan,0.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Marko Topic,29,Bosnia-Herzegovina,Centre-Forward,CF,1750000.0,KS Samara,Russia,0.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Patrick Weiser,33,Germany,Left-Back,LB,875000.0,1. FC Köln,Germany,0.0,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Roy Präger,33,Germany,Centre-Forward,CF,600000.0,Career break,,,out,summer,1 Bundesliga,2005,False,
+VfL Wolfsburg,Nderim Nedzipi,21,North Macedonia,Attacking Midfield,AM,350000.0,FC Shkupi,North Macedonia,0.0,out,summer,1 Bundesliga,2005,True,end of loan
+VfL Wolfsburg,Rick Hoogendorp,30,Netherlands,Centre-Forward,CF,1500000.0,RKC Waalwijk,Netherlands,1700000.0,in,winter,1 Bundesliga,2005,False,
+VfL Wolfsburg,Tom van der Leegte,28,Netherlands,Defensive Midfield,DM,1000000.0,ADO Den Haag,Netherlands,500000.0,in,winter,1 Bundesliga,2005,False,
+VfL Wolfsburg,Andrés D'Alessandro,24,Argentina,Attacking Midfield,AM,9000000.0,Portsmouth,England,500000.0,out,winter,1 Bundesliga,2005,True,loan with fee
+VfL Wolfsburg,Mirko Hrgovic,26,Bosnia-Herzegovina,Left-Back,LB,175000.0,Hajduk Split,Croatia,0.0,out,winter,1 Bundesliga,2005,False,

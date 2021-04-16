@@ -1,0 +1,483 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+ADO Den Haag,Sjaak Polak,28,Netherlands,Left-Back,LB,,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Jimmy van Fessem,28,Netherlands,Goalkeeper,GK,,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Jamie Smith,23,Scotland,Right Winger,RW,,Celtic,Scotland,0.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Spira Grujic,32,Serbia,Sweeper,SW,,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Jamie Coyne,23,Australia,Right-Back,RB,,Perth Glory,Australia,0.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Geert den Ouden,27,Netherlands,Centre-Forward,CF,,Djurgarden,Sweden,50000.0,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Gill Swerts,21,Belgium,Right-Back,RB,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+ADO Den Haag,Raymond Jansz,21,Netherlands,Goalkeeper,GK,,Unknown,,,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Arjan van der Kaay,21,Netherlands,Goalkeeper,GK,,SVVSMC,Netherlands,,in,summer,Eredivisie,2004,False,
+ADO Den Haag,Mirano Carrilho,28,Netherlands,Left Midfield,LM,,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Marlon Kruis,23,Netherlands,defence,defence,,Voorschoten,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Eelco Tigchelaar,22,Netherlands,Centre-Back,CB,,VSV TONEGIDO,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Mario van Heiningen,28,Netherlands,defence,defence,,Voorschoten,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Robert van Boxel,21,Netherlands,Centre-Back,CB,,AGOVV Apeldoorn,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Kofi Mensah,26,Ghana,Right-Back,RB,,Anorthosis,Cyprus,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Roland Jansen,36,Netherlands,Goalkeeper,GK,,Kozakken Boys,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Jeffrey van As,32,Netherlands,Centre-Back,CB,,VVSB,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Michael Ros,22,Netherlands,Centre-Back,CB,,Haarlem,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Romeo Castelen,21,Netherlands,Right Winger,RW,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Maurice Verberne,33,Netherlands,Centre-Back,CB,,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Regillio Simons,31,Netherlands,Centre-Forward,CF,,TOP Oss,Netherlands,,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Patrick de Groot,26,Netherlands,Goalkeeper,GK,,Haarlem,Netherlands,,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Frank van der Geest,31,Netherlands,Goalkeeper,GK,,FC Volendam,Netherlands,,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Peter Hofstede,37,Netherlands,Centre-Forward,CF,,Retired,,,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Tarik Oulida,30,Morocco,Left Midfield,LM,,Retired,,,out,summer,Eredivisie,2004,False,
+ADO Den Haag,Kazuyuki Toda,26,Japan,Defensive Midfield,DM,,Shimizu S-Pulse,Japan,0.0,out,summer,Eredivisie,2004,True,end of loan
+ADO Den Haag,Leonardo,27,Brazil,Right-Back,RB,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+ADO Den Haag,Gábor Torma,26,Hungary,Centre-Forward,CF,,Roda JC U21,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+ADO Den Haag,Cees Paauwe,27,Netherlands,Goalkeeper,GK,600000.0,Twente FC,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+ADO Den Haag,Edson,21,Portugal,Centre-Forward,CF,150000.0,Spurs,England,0.0,in,winter,Eredivisie,2004,True,free loan
+ADO Den Haag,John O'Brien,27,United States,Defensive Midfield,DM,2500000.0,Ajax,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+ADO Den Haag,Arjan van der Kaay,21,Netherlands,Goalkeeper,GK,,SVVSMC,Netherlands,,in,winter,Eredivisie,2004,False,
+ADO Den Haag,Jamie Coyne,23,Australia,Right-Back,RB,350000.0,Parra. Power,Australia,0.0,out,winter,Eredivisie,2004,False,
+ADO Den Haag,Francois Dubourdeau,24,France,Goalkeeper,GK,500000.0,Dundee FC,Scotland,0.0,out,winter,Eredivisie,2004,False,
+ADO Den Haag,Rik Platvoet,29,Netherlands,Centre-Forward,CF,350000.0,VVV-Venlo,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+ADO Den Haag,Jimmy van Fessem,29,Netherlands,Goalkeeper,GK,450000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+AZ Alkmaar,Tarik Sektioui,27,Morocco,Right Winger,RW,,Willem II,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+AZ Alkmaar,Joris Mathijsen,24,Netherlands,Centre-Back,CB,,Willem II,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+AZ Alkmaar,Kew Jaliens,25,Netherlands,Centre-Back,CB,,Willem II,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+AZ Alkmaar,Adil Ramzi,27,Morocco,Left Midfield,LM,,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+AZ Alkmaar,Peter Wijker,32,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+AZ Alkmaar,Hans van der Woude,24,Netherlands,Attacking Midfield,AM,,Hollandia,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+AZ Alkmaar,Alair Cruz Vicente,23,Brazil,Left-Back,LB,,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+AZ Alkmaar,Canigia,25,Brazil,Left Winger,LW,,ADO '20,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+AZ Alkmaar,Jamal Dibi,24,Netherlands,Attacking Midfield,AM,,Haarlem,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+AZ Alkmaar,Miel Mans,26,Netherlands,Right Midfield,RM,350000.0,MVV Maastricht,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+AZ Alkmaar,José Fortes Rodriguez,32,Spain,Centre-Back,CB,400000.0,RBC Roosendaal,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+AZ Alkmaar,Reinier Robbemond,32,Netherlands,Right Midfield,RM,300000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+AZ Alkmaar,Menno Buddenberg,21,Netherlands,midfield,midfield,50000.0,SV Huizen,Netherlands,,out,winter,Eredivisie,2004,False,
+Ajax Amsterdam,Mauro Rosales,23,Argentina,Right Midfield,RM,,Newell's,Argentina,2500000.0,in,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Hans Vonk,34,South Africa,Goalkeeper,GK,,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Gastón Sangoy,19,Argentina,Right Winger,RW,,Boca Juniors,Argentina,0.0,in,summer,Eredivisie,2004,True,free loan
+Ajax Amsterdam,Filipe Luís,19,Brazil,Left-Back,LB,,Figueirense FC,Brazil,0.0,in,summer,Eredivisie,2004,True,free loan
+Ajax Amsterdam,Zlatan Ibrahimovic,22,Sweden,Centre-Forward,CF,,Juventus,Italy,16000000.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Jelle Van Damme,20,Belgium,Centre-Back,CB,,Southampton,England,3000000.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Petri Pasanen,23,Finland,Centre-Back,CB,,Werder Bremen,Germany,750000.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Kwame Quansah,21,Ghana,Defensive Midfield,DM,,Heracles Almelo,Netherlands,250000.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Jari Litmanen,33,Finland,Attacking Midfield,AM,,FC Lahti,Finland,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Sander Boschker,33,Netherlands,Goalkeeper,GK,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Jason Culina,23,Australia,Central Midfield,CM,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Jussi Kujala,21,Finland,Defensive Midfield,DM,,Tampere United,Finland,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Thomas Vermaelen,18,Belgium,Centre-Back,CB,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Ajax Amsterdam,Stefano Seedorf,22,Netherlands,Central Midfield,CM,,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Daniel Cruz,23,Colombia,Attacking Midfield,AM,,Germ. Beerschot,Belgium,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Richard Knopper,26,Netherlands,Attacking Midfield,AM,,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Abubakari Yakubu,22,Ghana,Defensive Midfield,DM,,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Ajax Amsterdam,Victor Sikora,26,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Ajax Amsterdam,Youssouf Hersi,21,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,John Nieuwenburg,25,Netherlands,Defensive Midfield,DM,,Without Club,,,out,summer,Eredivisie,2004,False,
+Ajax Amsterdam,Angelos Charisteas,24,Greece,Centre-Forward,CF,6000000.0,Werder Bremen,Germany,4900000.0,in,winter,Eredivisie,2004,False,
+Ajax Amsterdam,Wesley Sonck,26,Belgium,Centre-Forward,CF,8000000.0,Bor. M'gladbach,Germany,280000.0,out,winter,Eredivisie,2004,True,loan with fee
+Ajax Amsterdam,John O'Brien,27,United States,Defensive Midfield,DM,2500000.0,ADO Den Haag,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+Ajax Amsterdam,Tom Soetaers,24,Belgium,Left Winger,LW,2500000.0,KRC Genk,Belgium,,out,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Mirano Carrilho,28,Netherlands,Left Midfield,LM,,ADO Den Haag,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Jhonny van Beukering,20,Netherlands,Centre-Forward,CF,,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Rob van Dijk,35,Netherlands,Goalkeeper,GK,,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Dave Bus,26,Netherlands,Centre-Back,CB,,HSC '21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Mamadou Zongo,23,Burkina Faso,Right Winger,RW,,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Patrick Ax,24,Netherlands,attack,attack,,NEC Nijmegen,Netherlands,,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Darije Kalezic,34,Bosnia-Herzegovina,Centre-Back,CB,,AGOVV Apeldoorn,Netherlands,,in,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Edwin Hermans,30,Netherlands,Left-Back,LB,,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Laurens ten Heuvel,28,Netherlands,Centre-Forward,CF,,Haarlem,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Jurgen Wevers,25,Netherlands,Goalkeeper,GK,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Wouter Jansen,23,Netherlands,midfield,midfield,,De Bataven,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+De Graafschap Doetinchem,Thijs Houwing,23,Netherlands,attack,attack,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+De Graafschap Doetinchem,Reinier Robbemond,32,Netherlands,Right Midfield,RM,300000.0,AZ Alkmaar,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Glenn Loovens,21,Netherlands,Centre-Back,CB,1000000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+De Graafschap Doetinchem,Richard Roelofsen,35,Netherlands,Centre-Forward,CF,,Heracles Almelo,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Ricardo Sousa,25,Portugal,Attacking Midfield,AM,3500000.0,Hannover 96,Germany,20000.0,in,winter,Eredivisie,2004,True,loan with fee
+De Graafschap Doetinchem,Jimmy van Fessem,29,Netherlands,Goalkeeper,GK,450000.0,ADO Den Haag,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+De Graafschap Doetinchem,Magno,30,Brazil,Attacking Midfield,AM,,Without Club,,,in,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Dick Kooijman,32,Netherlands,Defensive Midfield,DM,250000.0,SDC Putten,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Mirano Carrilho,29,Netherlands,Left Midfield,LM,100000.0,FC Dordrecht,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Magno,30,Brazil,Attacking Midfield,AM,,Omonia Nikosia,Cyprus,0.0,out,winter,Eredivisie,2004,False,
+De Graafschap Doetinchem,Hilmi Mihci,28,Netherlands,Left Winger,LW,150000.0,Stormv. Telstar,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+FC Den Bosch,Gijs Cales,26,Netherlands,Centre-Forward,CF,,VVV-Venlo,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Dennis Schulp,26,Netherlands,Central Midfield,CM,,Helmond Sport,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Joost Volmer,30,Netherlands,Centre-Back,CB,,West Brom,England,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Ferne Snoyl,19,Netherlands,Left-Back,LB,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+FC Den Bosch,Thijs van der Meulen,23,Netherlands,defence,defence,,Elinkwijk,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Paul Verhaegh,20,Netherlands,Right-Back,RB,,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Mourad Mghizrat,29,Morocco,midfield,midfield,,Willem II,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Robbie Haemhouts,20,Belgium,Central Midfield,CM,,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+FC Den Bosch,Marcel Cas,32,Netherlands,Right-Back,RB,,RBC Roosendaal,Netherlands,,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Vincent Euvrard,22,Belgium,Centre-Back,CB,,KRC Genk,Belgium,,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Emile van de Meerakker,23,Netherlands,defence,defence,,Willem II,Netherlands,,in,summer,Eredivisie,2004,False,
+FC Den Bosch,Jan Michels,33,Netherlands,Central Midfield,CM,,Sparta R.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Stefan Jansen,31,Netherlands,Centre-Forward,CF,,SW Bregenz,Austria,0.0,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Maarten Schops,28,Belgium,Defensive Midfield,DM,,KFC Verbr. Geel,Belgium,0.0,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Daniël Hensen,25,Netherlands,midfield,midfield,,Katwijk,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Dirk-Jan in den Eng,20,Netherlands,midfield,midfield,,OJC Rosmalen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Jan Burg,23,Netherlands,midfield,midfield,,VV Gemert,Netherlands,,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Roberto Verhagen,31,Netherlands,defence,defence,,OJC Rosmalen,Netherlands,,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Jimmi Catgiu,22,Belgium,attack,attack,,KFCR Mol Wezel,Belgium,,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Patrick Peelen,35,Netherlands,midfield,midfield,,NIVO Sparta,Netherlands,,out,summer,Eredivisie,2004,False,
+FC Den Bosch,Santi Kolk,22,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+FC Den Bosch,Jochen Janssen,28,Belgium,Centre-Forward,CF,750000.0,RKC Waalwijk,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+FC Den Bosch,Otman Bakkal,19,Netherlands,Attacking Midfield,AM,200000.0,PSV Eindhoven,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+FC Den Bosch,Steve Olfers,22,Netherlands,Centre-Back,CB,400000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+FC Den Bosch,Derk Schut,20,Netherlands,Centre-Forward,CF,100000.0,DOVO,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+FC Den Bosch,Brayton Biekman,26,Netherlands,Centre-Forward,CF,200000.0,Excelsior,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+FC Den Bosch,Geoffrey Meye,22,Netherlands,Centre-Back,CB,200000.0,Stormv. Telstar,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+FC Groningen,Jack Tuyp,20,Netherlands,Centre-Forward,CF,,FC Volendam,Netherlands,800000.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Danny Buijs,22,Netherlands,Central Midfield,CM,,Excelsior,Netherlands,750000.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Gijs Luirink,20,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,500000.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Luizinho,21,Brazil,midfield,midfield,,AC Le Havre,France,0.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Stefano Seedorf,22,Netherlands,Central Midfield,CM,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Mark-Jan Fledderus,21,Netherlands,Left-Back,LB,,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Groningen,Bas Roorda,31,Netherlands,Goalkeeper,GK,,Roda JC,Netherlands,,in,summer,Eredivisie,2004,False,
+FC Groningen,Arvid Smit,23,Netherlands,Central Midfield,CM,,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Ignacio Tuhuteru,30,Netherlands,Left Winger,LW,,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Regillio Vrede,31,Netherlands,Centre-Back,CB,,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Rolf Landerl,28,Austria,Attacking Midfield,AM,,Penafiel,Portugal,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Melchior Schoenmakers,28,Netherlands,Centre-Back,CB,,Veendam,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Raymond Bronkhorst,25,Netherlands,Right Midfield,RM,,Cambuur L.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Groningen,Ray Fränkel,21,Suriname,Centre-Back,CB,,Fortuna Sittard,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+FC Groningen,Roy Beukenkamp,36,Netherlands,Goalkeeper,GK,,Retired,,,out,summer,Eredivisie,2004,False,
+FC Groningen,Gibril Sankoh,21,Sierra Leone,Centre-Back,CB,50000.0,Stormv. Telstar,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+FC Groningen,Erik Nevland,26,Norway,Centre-Forward,CF,750000.0,Viking FK,Norway,0.0,in,winter,Eredivisie,2004,False,
+FC Groningen,Kiran Bechan,22,Netherlands,Right Winger,RW,50000.0,Ajax U21,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+FC Groningen,Mark Veldmate,20,Netherlands,Centre-Forward,CF,75000.0,Emmen,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+FC Utrecht,David di Tommaso,24,France,Centre-Back,CB,,CS Sedan,France,0.0,in,summer,Eredivisie,2004,False,
+FC Utrecht,Darl Douglas,24,Netherlands,Right Winger,RW,,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Utrecht,Sven Post,18,Netherlands,Attacking Midfield,AM,,FC Dordrecht,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Utrecht,Prince Rajcomar,19,Curacao,Centre-Forward,CF,,Fortuna Sittard,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+FC Utrecht,Tim Cornelisse,26,Netherlands,Right-Back,RB,,Vitesse,Netherlands,,in,summer,Eredivisie,2004,False,
+FC Utrecht,Samir El Gaaouiri,20,Netherlands,Left Winger,LW,,Fortuna Sittard,Netherlands,,in,summer,Eredivisie,2004,False,
+FC Utrecht,Hans Somers,26,Belgium,Left Midfield,LM,,Trabzonspor,Turkey,,in,summer,Eredivisie,2004,False,
+FC Utrecht,Abdelhali Chaiat,20,Netherlands,Right Winger,RW,,FC Volendam,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Karim Touzani,23,Netherlands,Defensive Midfield,DM,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Patrick Zwaanswijk,29,Netherlands,Centre-Back,CB,,Oita Trinita,Japan,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Frank Karreman,20,Netherlands,Centre-Back,CB,,Emmen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Ruud Berger,24,Netherlands,Attacking Midfield,AM,,FC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Paulus Roiha,23,Finland,Centre-Forward,CF,,Cercle Brugge,Belgium,0.0,out,summer,Eredivisie,2004,False,
+FC Utrecht,Pascal Bosschaart,24,Netherlands,Centre-Back,CB,,Feyenoord,Netherlands,,out,summer,Eredivisie,2004,False,
+FC Utrecht,Tom Van Mol,31,Belgium,Left-Back,LB,,Cercle Brugge,Belgium,,out,summer,Eredivisie,2004,False,
+FC Utrecht,Donny de Groot,24,Netherlands,Centre-Forward,CF,,Without Club,,,out,summer,Eredivisie,2004,False,
+FC Utrecht,Michael Lamey,24,Netherlands,Right-Back,RB,,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+FC Utrecht,Michael Mols,34,Netherlands,Centre-Forward,CF,3000000.0,Rangers,Scotland,0.0,in,winter,Eredivisie,2004,False,
+FC Utrecht,Bas van den Brink,22,Netherlands,Centre-Back,CB,200000.0,Emmen,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+FC Utrecht,Sandro Calabro,21,Netherlands,Centre-Forward,CF,400000.0,FC Volendam,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Bart Goor,31,Belgium,Left Midfield,LM,,Hertha BSC,Germany,1000000.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Gerson Magrão,19,Brazil,Left Midfield,LM,,Cruzeiro,Brazil,800000.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Karim Saïdi,21,Tunisia,Centre-Back,CB,,Club Africain,Tunisia,210000.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Gábor Babos,29,Hungary,Goalkeeper,GK,,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Romeo Castelen,21,Netherlands,Right Winger,RW,,ADO Den Haag,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Alex Brosque,20,Australia,Attacking Midfield,AM,,Marc. Stallions,Australia,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Bruno Basto,26,Portugal,Left-Back,LB,,G. Bordeaux,France,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Maikel Aerts,28,Netherlands,Goalkeeper,GK,,RBC Roosendaal,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Mark Otten,18,Netherlands,Centre-Back,CB,,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Pascal Bosschaart,24,Netherlands,Centre-Back,CB,,FC Utrecht,Netherlands,,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Santi Kolk,22,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Edwin de Graaf,24,Netherlands,Central Midfield,CM,,RBC Roosendaal,Netherlands,,in,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Robin van Persie,20,Netherlands,Centre-Forward,CF,,Arsenal,England,4500000.0,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Johan Elmander,23,Sweden,Centre-Forward,CF,,Bröndby IF,Denmark,500000.0,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Alex Brosque,20,Australia,Attacking Midfield,AM,,KVC Westerlo,Belgium,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Mark Otten,18,Netherlands,Centre-Back,CB,,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Mariano Bombarda,31,Spain,Centre-Forward,CF,,CD Tenerife,Spain,0.0,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Edwin Zoetebier,34,Netherlands,Goalkeeper,GK,,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Anthony Lurling,27,Netherlands,Attacking Midfield,AM,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Peter van den Berg,32,Netherlands,Centre-Back,CB,,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Ferne Snoyl,19,Netherlands,Left-Back,LB,,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Jorge Acuña,25,Chile,Defensive Midfield,DM,,CDUC,Chile,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Jean Carlos,20,Brazil,Left-Back,LB,,Hamburger SV,Germany,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Alfred Schreuder,31,Netherlands,Defensive Midfield,DM,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Santi Kolk,22,Netherlands,Right Winger,RW,,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Jordan Opoku,21,Ghana,Central Midfield,CM,,Royal Antwerp,Belgium,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Steve Olfers,22,Netherlands,Centre-Back,CB,,Excelsior,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Maikel Aerts,28,Netherlands,Goalkeeper,GK,,RBC Roosendaal,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Pieter Collen,24,Belgium,Centre-Back,CB,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Gill Swerts,21,Belgium,Right-Back,RB,,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Gérard de Nooijer,35,Netherlands,Centre-Back,CB,,FC Dordrecht,Netherlands,,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Kees van Wonderen,35,Netherlands,Centre-Back,CB,,Retired,,,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Leonardo,27,Brazil,Right-Back,RB,,Without Club,,,out,summer,Eredivisie,2004,False,
+Feyenoord Rotterdam,Cory Gibbs,25,United States,Centre-Back,CB,750000.0,FC Dallas,United States,770000.0,in,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Alexander Arnold Mezan,26,Sweden,Right-Back,RB,1250000.0,Hammarby,Sweden,200000.0,in,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Nicky Hofs,21,Netherlands,Attacking Midfield,AM,1500000.0,Vitesse,Netherlands,200000.0,in,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,André Bahia,21,Brazil,Centre-Back,CB,750000.0,Flamengo,Brazil,,in,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Jajá,18,Brazil,Centre-Forward,CF,,América-MG U20,Brazil,,in,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Thomas Buffel,23,Belgium,Right Winger,RW,5500000.0,Rangers,Scotland,3500000.0,out,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Chong-gug Song,25,"Korea, South",Right-Back,RB,2800000.0,Suwon Bluewings,"Korea, South",2000000.0,out,winter,Eredivisie,2004,False,
+Feyenoord Rotterdam,Edwin de Graaf,24,Netherlands,Central Midfield,CM,450000.0,RBC Roosendaal,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Ramon van Haaren,32,Netherlands,Left-Back,LB,675000.0,Sparta R.,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Ebi Smolarek,23,Poland,Centre-Forward,CF,1200000.0,Bor. Dortmund,Germany,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Glenn Loovens,21,Netherlands,Centre-Back,CB,1000000.0,De Graafschap,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Sigourney Bandjar,20,Netherlands,Right-Back,RB,,Excelsior,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Steve Olfers,22,Netherlands,Centre-Back,CB,400000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Jajá,18,Brazil,Centre-Forward,CF,250000.0,KVC Westerlo,Belgium,0.0,out,winter,Eredivisie,2004,True,free loan
+Feyenoord Rotterdam,Wouter Artz,19,Netherlands,Left-Back,LB,,Excelsior,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+NAC Breda,David Mendes da Silva,21,Netherlands,Defensive Midfield,DM,,Sparta R.,Netherlands,75000.0,in,summer,Eredivisie,2004,False,
+NAC Breda,Mehmet Ali Yeral,20,Turkey,Attacking Midfield,AM,,RBC Roosendaal,Netherlands,70000.0,in,summer,Eredivisie,2004,False,
+NAC Breda,Mike Zonneveld,23,Netherlands,Left-Back,LB,,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NAC Breda,Yuri Cornelisse,29,Netherlands,Right Midfield,RM,,RKC Waalwijk,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NAC Breda,Davy Schollen,26,Belgium,Goalkeeper,GK,,KRC Genk,Belgium,0.0,in,summer,Eredivisie,2004,True,free loan
+NAC Breda,Anthony Lurling,27,Netherlands,Attacking Midfield,AM,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+NAC Breda,Omar Boukhari,18,Netherlands,Right-Back,RB,,Al-Shamal,Qatar,0.0,in,summer,Eredivisie,2004,False,
+NAC Breda,Jürgen Colin,23,Netherlands,Centre-Back,CB,,PSV Eindhoven,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+NAC Breda,Pieter Collen,24,Belgium,Centre-Back,CB,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+NAC Breda,Robert Braber,21,Netherlands,Attacking Midfield,AM,,Excelsior U21,Netherlands,,in,summer,Eredivisie,2004,False,
+NAC Breda,Raphael Maitimo,20,Indonesia,Central Midfield,CM,,Feyenoord U21,Netherlands,,in,summer,Eredivisie,2004,False,
+NAC Breda,Orlando Engelaar,24,Netherlands,Defensive Midfield,DM,,KRC Genk,Belgium,1200000.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Csaba Fehér,28,Hungary,Defensive Midfield,DM,,PSV Eindhoven,Netherlands,765000.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Gábor Babos,29,Hungary,Goalkeeper,GK,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Gino Coutinho,21,Netherlands,Goalkeeper,GK,,Vitesse,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Henk Vos,36,Netherlands,Centre-Forward,CF,,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Faysal Houba,21,Netherlands,attack,attack,,WSC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NAC Breda,Robbie Haemhouts,20,Belgium,Central Midfield,CM,,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+NAC Breda,Stefano Seedorf,22,Netherlands,Central Midfield,CM,,Ajax,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NAC Breda,Johan Elmander,23,Sweden,Centre-Forward,CF,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NAC Breda,Nourdin Boukhari,24,Morocco,Attacking Midfield,AM,,Ajax,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NAC Breda,Maceo Rigters,20,Netherlands,Centre-Forward,CF,,FC Dordrecht,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+NAC Breda,Robert Braber,22,Netherlands,Attacking Midfield,AM,,Helmond Sport,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+NAC Breda,Bart Van den Eede,27,Belgium,Centre-Forward,CF,350000.0,NEC Nijmegen,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+NAC Breda,Raphael Maitimo,20,Indonesia,Central Midfield,CM,,FC Dordrecht,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+NEC Nijmegen,Raymon van Emmerik,24,Netherlands,Goalkeeper,GK,,1.FC Kleve,Germany,0.0,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Björn van der Doelen,27,Netherlands,Central Midfield,CM,,Twente FC,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Saïd Boutahar,21,Netherlands,Attacking Midfield,AM,,RKC Waalwijk,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,José Valencia,22,Ecuador,Left-Back,LB,,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Romano Denneboom,23,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Patrick Pothuizen,32,Netherlands,Centre-Back,CB,,Twente FC,Netherlands,,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Arjan Ebbinge,29,Netherlands,Centre-Back,CB,,Heerenveen,Netherlands,,in,summer,Eredivisie,2004,False,
+NEC Nijmegen,Mike Zonneveld,23,Netherlands,Left-Back,LB,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,René van Rijswijk,33,Netherlands,Right Winger,RW,,Cambuur L.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Zico Tumba,27,DR Congo,Centre-Forward,CF,,FC Sète 34,France,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Theo Brack,19,Netherlands,Goalkeeper,GK,,FC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Mattheus Hoop,20,Netherlands,Goalkeeper,GK,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Dejan Govedarica,34,Serbia,Central Midfield,CM,,Vojvodina,Serbia,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Marc Peters,25,Netherlands,Right Midfield,RM,,De Treffers,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Tobias Czesnik,19,Germany,Right Midfield,RM,,1.FC Kleve,Germany,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Tarik Divarci,21,Netherlands,attack,attack,,Stormv. Telstar,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Mark Otten,18,Netherlands,Centre-Back,CB,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Patrick Ax,24,Netherlands,attack,attack,,De Graafschap,Netherlands,,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Resit Schuurman,25,Netherlands,Defensive Midfield,DM,,Twente FC,Netherlands,,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Fabian de Freitas,31,Netherlands,attack,attack,,Retired,,,out,summer,Eredivisie,2004,False,
+NEC Nijmegen,Arjan Ebbinge,29,Netherlands,Centre-Back,CB,,Heerenveen,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NEC Nijmegen,Björn van der Doelen,27,Netherlands,Central Midfield,CM,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NEC Nijmegen,Youssouf Hersi,21,Netherlands,Right Winger,RW,,Ajax,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+NEC Nijmegen,Bart Van den Eede,27,Belgium,Centre-Forward,CF,350000.0,NAC Breda,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+NEC Nijmegen,Ralf de Haan,20,Netherlands,midfield,midfield,50000.0,FC Volendam,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+NEC Nijmegen,Jaromir Simr,25,Czech Republic,Right Winger,RW,200000.0,Amica Wronki,Poland,,out,winter,Eredivisie,2004,False,
+PSV Eindhoven,Jefferson Farfán,19,Peru,Right Winger,RW,,Alianza Lima,Peru,3500000.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,DaMarcus Beasley,22,United States,Left-Back,LB,,Chicago Fire,United States,2000000.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Heurelho Gomes,23,Brazil,Goalkeeper,GK,,Cruzeiro,Brazil,1000000.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Csaba Fehér,28,Hungary,Defensive Midfield,DM,,NAC Breda,Netherlands,765000.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Gerald Sibon,30,Netherlands,Centre-Forward,CF,,Heerenveen,Netherlands,750000.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Arvid Smit,23,Netherlands,Central Midfield,CM,,FC Groningen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Nathan Coe,20,Australia,Goalkeeper,GK,,Inter U19,Italy,0.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Phillip Cocu,33,Netherlands,Defensive Midfield,DM,,FC Barcelona,Spain,0.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Edwin Zoetebier,34,Netherlands,Goalkeeper,GK,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Lasse Qvist,17,Denmark,Centre-Forward,CF,,Lyngby BK,Denmark,,in,summer,Eredivisie,2004,False,
+PSV Eindhoven,Osmar Ferreyra,21,Argentina,Attacking Midfield,AM,,CSKA Moscow,Russia,0.0,in,summer,Eredivisie,2004,True,free loan
+PSV Eindhoven,Alex,22,Brazil,Centre-Back,CB,,Chelsea,England,0.0,in,summer,Eredivisie,2004,True,free loan
+PSV Eindhoven,Arjen Robben,20,Netherlands,Right Winger,RW,,Chelsea,England,18000000.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Mateja Kezman,25,Serbia,Centre-Forward,CF,,Chelsea,England,7500000.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Dennis Rommedahl,25,Denmark,Right Winger,RW,,Charlton,England,3500000.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Kevin Hofland,25,Netherlands,Centre-Back,CB,,VfL Wolfsburg,Germany,2000000.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Klaas-Jan Huntelaar,20,Netherlands,Centre-Forward,CF,,Heerenveen,Netherlands,900000.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Lindsay Wilson,25,Australia,Left Midfield,LM,,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+PSV Eindhoven,Daniel Guijo-Velasco,20,Belgium,Attacking Midfield,AM,,AGOVV Apeldoorn,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Ronald Waterreus,33,Netherlands,Goalkeeper,GK,,Man City,England,0.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Rob van Dijk,35,Netherlands,Goalkeeper,GK,,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Edson,20,Portugal,Centre-Forward,CF,,Spurs,England,0.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Jelle ten Rouwelaar,23,Netherlands,Goalkeeper,GK,,FC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+PSV Eindhoven,Adil Ramzi,27,Morocco,Left Midfield,LM,,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Jürgen Colin,23,Netherlands,Centre-Back,CB,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+PSV Eindhoven,Yves Lenaerts,21,Belgium,Goalkeeper,GK,,Heusden-Zolder,Belgium,,out,summer,Eredivisie,2004,False,
+PSV Eindhoven,Robert,23,Brazil,Centre-Forward,CF,50000.0,Atlas,Mexico,4000000.0,in,winter,Eredivisie,2004,False,
+PSV Eindhoven,Spase Dilevski,19,Australia,Defensive Midfield,DM,200000.0,Spurs,England,0.0,out,winter,Eredivisie,2004,False,
+PSV Eindhoven,Tim Janssen,18,Netherlands,Centre-Forward,CF,100000.0,FC Zwolle,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+PSV Eindhoven,Michael Jakobsen,18,Denmark,Centre-Back,CB,200000.0,Aalborg BK,Denmark,0.0,out,winter,Eredivisie,2004,False,
+PSV Eindhoven,Arvid Smit,24,Netherlands,Central Midfield,CM,800000.0,Willem II,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+PSV Eindhoven,Otman Bakkal,19,Netherlands,Attacking Midfield,AM,200000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+PSV Eindhoven,Csaba Fehér,29,Hungary,Defensive Midfield,DM,1500000.0,Újpest FC,Hungary,0.0,out,winter,Eredivisie,2004,True,free loan
+PSV Eindhoven,Johan Vonlanthen,18,Switzerland,Left Midfield,LM,3500000.0,Brescia,Italy,0.0,out,winter,Eredivisie,2004,True,free loan
+PSV Eindhoven,Leandro Bonfim,20,Brazil,Attacking Midfield,AM,2250000.0,FC Porto,Portugal,,out,winter,Eredivisie,2004,False,
+PSV Eindhoven,Marquinho,22,Brazil,Attacking Midfield,AM,300000.0,Unknown,,,out,winter,Eredivisie,2004,False,
+RBC Roosendaal,Birger Van de Ven,22,Belgium,Centre-Back,CB,,Club Brugge,Belgium,0.0,in,summer,Eredivisie,2004,True,free loan
+RBC Roosendaal,Adam Farouk,18,Morocco,Centre-Back,CB,,RC Paris,France,0.0,in,summer,Eredivisie,2004,False,
+RBC Roosendaal,Tim Smolders,23,Belgium,Central Midfield,CM,,Club Brugge,Belgium,0.0,in,summer,Eredivisie,2004,False,
+RBC Roosendaal,Jesper Haakansson,22,Denmark,Attacking Midfield,AM,,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+RBC Roosendaal,Danny Guijt,23,Netherlands,Attacking Midfield,AM,,TOP Oss,Netherlands,,in,summer,Eredivisie,2004,False,
+RBC Roosendaal,Maikel Aerts,28,Netherlands,Goalkeeper,GK,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+RBC Roosendaal,Mehmet Ali Yeral,20,Turkey,Attacking Midfield,AM,,NAC Breda,Netherlands,70000.0,out,summer,Eredivisie,2004,False,
+RBC Roosendaal,Ode Thompson,23,Nigeria,Centre-Forward,CF,,KV Oostende,Belgium,0.0,out,summer,Eredivisie,2004,False,
+RBC Roosendaal,Maikel Aerts,28,Netherlands,Goalkeeper,GK,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RBC Roosendaal,Marcel Cas,32,Netherlands,Right-Back,RB,,FC Den Bosch,Netherlands,,out,summer,Eredivisie,2004,False,
+RBC Roosendaal,Esad Razic,21,Bosnia-Herzegovina,Left Midfield,LM,,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+RBC Roosendaal,Edwin de Graaf,24,Netherlands,Central Midfield,CM,,Feyenoord,Netherlands,,out,summer,Eredivisie,2004,False,
+RBC Roosendaal,Pablo Niño,26,Spain,midfield,midfield,,Real Betis,Spain,0.0,out,summer,Eredivisie,2004,True,end of loan
+RBC Roosendaal,Edwin de Graaf,24,Netherlands,Central Midfield,CM,450000.0,Feyenoord,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+RBC Roosendaal,Paul de Lange,23,Netherlands,Defensive Midfield,DM,500000.0,Heerenveen,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+RBC Roosendaal,José Fortes Rodriguez,32,Spain,Centre-Back,CB,400000.0,AZ Alkmaar,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+RBC Roosendaal,Tyrone Loran,23,Curacao,Right-Back,RB,50000.0,Port Vale,England,0.0,in,winter,Eredivisie,2004,False,
+RBC Roosendaal,Elvis Hammond,24,Ghana,Centre-Forward,CF,250000.0,Fulham,England,0.0,in,winter,Eredivisie,2004,True,free loan
+RBC Roosendaal,Donny de Groot,25,Netherlands,Centre-Forward,CF,750000.0,Without Club,,,in,winter,Eredivisie,2004,False,
+RBC Roosendaal,Damiën Hertog,30,Netherlands,midfield,midfield,200000.0,Excelsior,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+RBC Roosendaal,Björn Daelemans,27,Belgium,Right-Back,RB,300000.0,KFC Verbr. Geel,Belgium,0.0,out,winter,Eredivisie,2004,True,free loan
+RKC Waalwijk,Tieme Klompe,28,Netherlands,Centre-Back,CB,,Heerenveen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Mattheus Hoop,20,Netherlands,Goalkeeper,GK,,NEC Nijmegen,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Michael Krohn-Dehli,21,Denmark,Central Midfield,CM,,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Jurgen Wevers,25,Netherlands,Goalkeeper,GK,,De Graafschap,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Randy Rustenberg,20,Netherlands,Left-Back,LB,,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Thomas Vermaelen,18,Belgium,Centre-Back,CB,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Didi Longuet,23,Netherlands,Right-Back,RB,,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Jasar Takak,22,Netherlands,Central Midfield,CM,,PSV U21,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Jerold Promes,20,Netherlands,Centre-Back,CB,,Ajax U21,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+RKC Waalwijk,Maarten Martens,19,Belgium,Attacking Midfield,AM,,RSC Anderlecht,Belgium,0.0,in,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Alfred Schreuder,31,Netherlands,Defensive Midfield,DM,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Khalid Boulahrouz,22,Netherlands,Centre-Back,CB,,Hamburger SV,Germany,1500000.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Yuri Cornelisse,29,Netherlands,Right Midfield,RM,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Fabian Peppinck,26,Netherlands,Right-Back,RB,,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Raymond van der Gouw,41,Netherlands,Goalkeeper,GK,,AGOVV Apeldoorn,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Saïd Boutahar,21,Netherlands,Attacking Midfield,AM,,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Tim Aelbrecht,22,Belgium,midfield,midfield,,KV Kortrijk,Belgium,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Bernardo Vasconcelos,25,Portugal,Centre-Forward,CF,,Leiria,Portugal,0.0,out,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Ron Heesakkers,25,Netherlands,Centre-Forward,CF,,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Kris Ottoy,19,Belgium,Goalkeeper,GK,,KV Waasland,Belgium,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Iwan Redan,23,Netherlands,Centre-Forward,CF,,Willem II,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Wilko de Vogt,28,Netherlands,Goalkeeper,GK,,TOP Oss,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+RKC Waalwijk,Gábor Torma,27,Hungary,Centre-Forward,CF,,AEL Limassol,Cyprus,,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Sven Doms,20,Belgium,defence,defence,,KFC Kontich,Belgium,,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Koen Van Der Heyden,21,Belgium,Left-Back,LB,,Eendracht Aalst,Belgium,,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Zeljko Petrovic,38,Montenegro,Right-Back,RB,,Retired,,,out,summer,Eredivisie,2004,False,
+RKC Waalwijk,Steve Olfers,22,Netherlands,Centre-Back,CB,,Feyenoord,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+RKC Waalwijk,Cerezo Fung a Wing,21,Netherlands,Defensive Midfield,DM,400000.0,FC Volendam,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+RKC Waalwijk,Jochen Janssen,28,Belgium,Centre-Forward,CF,750000.0,FC Den Bosch,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+RKC Waalwijk,Jean Paulo,23,Brazil,Attacking Midfield,AM,,CA Aichinger,Brazil,0.0,out,winter,Eredivisie,2004,False,
+RKC Waalwijk,Michael van der Heijden,22,Netherlands,midfield,midfield,300000.0,Haarlem,Netherlands,,out,winter,Eredivisie,2004,False,
+Roda JC Kerkrade,Boldizsár Bodor,22,Hungary,Left-Back,LB,,Germ. Beerschot,Belgium,0.0,in,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Guido Budziak,21,Netherlands,Goalkeeper,GK,,TOP Oss,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,László Bodnár,25,Hungary,Right-Back,RB,,Dynamo Kyiv,Ukraine,0.0,in,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Sekou Cissé,19,Cote d'Ivoire,Centre-Forward,CF,,JMG Abidjan,Cote d'Ivoire,0.0,in,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Fatih Sonkaya,23,Turkey,Right-Back,RB,,Besiktas,Turkey,500000.0,out,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Bas Roorda,31,Netherlands,Goalkeeper,GK,,FC Groningen,Netherlands,,out,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Alain Van Mieghem,22,Belgium,Left Midfield,LM,,Royal Antwerp,Belgium,,out,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Seydihan Baslanti,20,Turkey,Centre-Forward,CF,,C. Rizespor,Turkey,,out,summer,Eredivisie,2004,False,
+Roda JC Kerkrade,Marco van Hoogdalem,32,Netherlands,Centre-Back,CB,,FC Schalke 04,Germany,0.0,out,summer,Eredivisie,2004,True,end of loan
+Roda JC Kerkrade,Iwan Redan,23,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+Roda JC Kerkrade,Pa-Modou Kah,24,Norway,Centre-Back,CB,500000.0,AIK,Sweden,,in,winter,Eredivisie,2004,False,
+Roda JC Kerkrade,Youssef Sofiane,20,France,Centre-Forward,CF,1000000.0,West Ham,England,0.0,in,winter,Eredivisie,2004,True,free loan
+Roda JC Kerkrade,Mohammed El Berkani,22,Morocco,Right Winger,RW,50000.0,Fortuna Sittard,Netherlands,125000.0,out,winter,Eredivisie,2004,True,loan with fee
+Roda JC Kerkrade,Dave Roemgens,22,Netherlands,Defensive Midfield,DM,75000.0,K Patro Maasmech,Belgium,0.0,out,winter,Eredivisie,2004,False,
+Roda JC Kerkrade,Humphrey Rudge,27,Netherlands,Centre-Back,CB,450000.0,Apol. Limassol,Cyprus,0.0,out,winter,Eredivisie,2004,False,
+Roda JC Kerkrade,Vincent Lachambre,24,Belgium,Left-Back,LB,300000.0,FC Eindhoven,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Roda JC Kerkrade,Faton Popova,20,Germany,Attacking Midfield,AM,,Freialdenhoven,Germany,0.0,out,winter,Eredivisie,2004,False,
+Roda JC Kerkrade,Taylan Aydogan,21,Turkey,Goalkeeper,GK,50000.0,Malatyaspor,Turkey,,out,winter,Eredivisie,2004,False,
+SC Heerenveen,Klaas-Jan Huntelaar,20,Netherlands,Centre-Forward,CF,,PSV Eindhoven,Netherlands,900000.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Ugur Yildirim,22,Netherlands,Right Winger,RW,,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,André Hanssen,23,Norway,Defensive Midfield,DM,,Bodø/Glimt,Norway,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Yuri Rose,25,Netherlands,Attacking Midfield,AM,,Heracles Almelo,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Sven Taberima,18,Netherlands,Goalkeeper,GK,,Ajax U19,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Denis Calincov,18,Moldova,Left Winger,LW,,RSC Anderlecht,Belgium,0.0,in,summer,Eredivisie,2004,True,free loan
+SC Heerenveen,Tomasz Rzasa,31,Poland,Left-Back,LB,,Partizan,Serbia,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Arnold Bruggink,26,Netherlands,Attacking Midfield,AM,,RCD Mallorca,Spain,0.0,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Romano Denneboom,23,Netherlands,Right Winger,RW,,Willem II,Netherlands,,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Brian Vandenbussche,22,Belgium,Goalkeeper,GK,,Sparta R.,Netherlands,,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Victor Sikora,26,Netherlands,Right Winger,RW,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+SC Heerenveen,Michel Breuer,24,Netherlands,Centre-Back,CB,,Excelsior,Netherlands,,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Ken Ilsö,17,Denmark,Attacking Midfield,AM,,BK Frem,Denmark,,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Youssouf Hersi,21,Netherlands,Right Winger,RW,,Ajax,Netherlands,,in,summer,Eredivisie,2004,False,
+SC Heerenveen,Erik Edman,25,Sweden,Left-Back,LB,,Spurs,England,2000000.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Gerald Sibon,30,Netherlands,Centre-Forward,CF,,PSV Eindhoven,Netherlands,750000.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Ronny Venema,29,Netherlands,Right-Back,RB,,Cambuur L.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Jacob de Vries,24,Netherlands,Goalkeeper,GK,,Flevo Boys,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Tieme Klompe,28,Netherlands,Centre-Back,CB,,RKC Waalwijk,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Hans Vonk,34,South Africa,Goalkeeper,GK,,Ajax,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Marc van Eijk,22,Netherlands,Right Winger,RW,,Doxa Dramas,Greece,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Jesper Haakansson,22,Denmark,Attacking Midfield,AM,,RBC Roosendaal,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+SC Heerenveen,Maceo Rigters,20,Netherlands,Centre-Forward,CF,,FC Dordrecht,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,René van der Weij,21,Netherlands,Centre-Forward,CF,,Cambuur L.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Mark-Jan Fledderus,21,Netherlands,Left-Back,LB,,FC Groningen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Romano Denneboom,23,Netherlands,Right Winger,RW,,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Santi Kolk,22,Netherlands,Right Winger,RW,,Feyenoord,Netherlands,,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Arjan Ebbinge,29,Netherlands,Centre-Back,CB,,NEC Nijmegen,Netherlands,,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Johan Hansma,35,Netherlands,Centre-Back,CB,,Retired,,,out,summer,Eredivisie,2004,False,
+SC Heerenveen,Richard Knopper,26,Netherlands,Attacking Midfield,AM,,Ajax,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+SC Heerenveen,Lasse Nilsson,22,Sweden,Centre-Forward,CF,400000.0,Elfsborg,Sweden,625000.0,in,winter,Eredivisie,2004,False,
+SC Heerenveen,Stefan Selakovic,28,Sweden,Right Winger,RW,1250000.0,IFK Göteborg,Sweden,165000.0,out,winter,Eredivisie,2004,False,
+SC Heerenveen,Paul de Lange,23,Netherlands,Defensive Midfield,DM,500000.0,RBC Roosendaal,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+SC Heerenveen,Antonio Correia,21,Angola,Centre-Forward,CF,300000.0,Emmen,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+SC Heerenveen,Youssouf Hersi,22,Netherlands,Right Winger,RW,1750000.0,Vitesse,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+SC Heerenveen,Jos Hooiveld,21,Netherlands,Centre-Back,CB,100000.0,FC Zwolle,Netherlands,0.0,out,winter,Eredivisie,2004,True,free loan
+Twente Enschede FC,Blaise Nkufo,29,Switzerland,Centre-Forward,CF,,Hannover 96,Germany,600000.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Dmitri Shukov,28,Russia,Left Midfield,LM,,Willem II,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Karim Touzani,23,Netherlands,Defensive Midfield,DM,,FC Utrecht,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Sander Boschker,33,Netherlands,Goalkeeper,GK,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Raymond Fafiani,20,Netherlands,Central Midfield,CM,,Vitesse,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Jason Culina,23,Australia,Central Midfield,CM,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Niels Wellenberg,21,Netherlands,Right-Back,RB,,Go Ahead Eagles,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Guilherme Afonso,18,Angola,Centre-Forward,CF,,ASOA Valence,France,0.0,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Resit Schuurman,25,Netherlands,Defensive Midfield,DM,,NEC Nijmegen,Netherlands,,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Elbekay Bouchiba,25,Netherlands,Attacking Midfield,AM,,Sparta R.,Netherlands,,in,summer,Eredivisie,2004,False,
+Twente Enschede FC,Mo Allach,30,Netherlands,Right-Back,RB,,VVV-Venlo,Netherlands,300000.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Sjaak Polak,28,Netherlands,Left-Back,LB,,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Arco Jochemsen,33,Netherlands,Right Midfield,RM,,FC Zwolle,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Björn van der Doelen,27,Netherlands,Central Midfield,CM,,NEC Nijmegen,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Mikko Rahkamaa,22,Finland,Goalkeeper,GK,,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Jeffrey de Visscher,23,Netherlands,Right Winger,RW,,Heracles Almelo,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Twente Enschede FC,Spira Grujic,32,Serbia,Sweeper,SW,,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Thijs Houwing,23,Netherlands,attack,attack,,Cambuur L.,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Ibad Muhamadu,22,Netherlands,Centre-Forward,CF,,MVV Maastricht,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Nelson da Costa,22,Portugal,Attacking Midfield,AM,,Go Ahead Eagles,Netherlands,0.0,out,summer,Eredivisie,2004,True,free loan
+Twente Enschede FC,Patrick Pothuizen,32,Netherlands,Centre-Back,CB,,NEC Nijmegen,Netherlands,,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Chris van der Weerden,31,Netherlands,Right-Back,RB,,Germ. Beerschot,Belgium,,out,summer,Eredivisie,2004,False,
+Twente Enschede FC,Giorgi Gakhokidze,28,Georgia,Left Winger,LW,,Metalurg D.,Ukraine,0.0,out,summer,Eredivisie,2004,True,free loan
+Twente Enschede FC,Adil Ramzi,26,Morocco,Left Midfield,LM,,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+Twente Enschede FC,Blaise Nkufo,29,Switzerland,Centre-Forward,CF,,Hannover 96,Germany,0.0,out,summer,Eredivisie,2004,True,end of loan
+Twente Enschede FC,Jelle ten Rouwelaar,23,Netherlands,Goalkeeper,GK,,PSV Eindhoven,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+Twente Enschede FC,Daniel Majstorović,27,Sweden,Centre-Back,CB,1250000.0,Malmö FF,Sweden,800000.0,in,winter,Eredivisie,2004,False,
+Twente Enschede FC,Sharbel Touma,25,Sweden,Attacking Midfield,AM,,Halmstads BK,Sweden,0.0,in,winter,Eredivisie,2004,False,
+Twente Enschede FC,Cees Paauwe,27,Netherlands,Goalkeeper,GK,600000.0,ADO Den Haag,Netherlands,0.0,out,winter,Eredivisie,2004,False,
+Vitesse Arnhem,Gino Coutinho,21,Netherlands,Goalkeeper,GK,,NAC Breda,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Stijn Vreven,30,Belgium,Right-Back,RB,,1.FC K'lautern,Germany,0.0,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Peter van den Berg,32,Netherlands,Centre-Back,CB,,Feyenoord,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Igor Gluscevic,30,Montenegro,Centre-Forward,CF,,Sparta Prague,Czech Republic,0.0,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Richard Knopper,26,Netherlands,Attacking Midfield,AM,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Abubakari Yakubu,22,Ghana,Defensive Midfield,DM,,Ajax,Netherlands,0.0,in,summer,Eredivisie,2004,True,free loan
+Vitesse Arnhem,Bas Wijnen,23,Netherlands,Goalkeeper,GK,,VVV-Venlo,Netherlands,,in,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Max Mbedi,21,Cameroon,Centre-Forward,CF,,M. Tel Aviv,Israel,300000.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Ricky Bochem,21,Netherlands,Right Midfield,RM,,Helmond Sport,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Jhonny van Beukering,20,Netherlands,Centre-Forward,CF,,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Jimmy van Fessem,28,Netherlands,Goalkeeper,GK,,ADO Den Haag,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Kalle Sone,21,Cameroon,Right Winger,RW,,Bnei Sakhnin,Israel,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Raymond Fafiani,20,Netherlands,Central Midfield,CM,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Paulo Rink,31,Germany,Centre-Forward,CF,,Jeonbuk Hyundai,"Korea, South",0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Bas Wijnen,23,Netherlands,Goalkeeper,GK,,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Faouzi Azoum,22,Netherlands,defence,defence,,BSV Rehden,Germany,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Émile Mbamba,21,Cameroon,attack,attack,,M. Tel Aviv,Israel,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Mamadou Zongo,23,Burkina Faso,Right Winger,RW,,De Graafschap,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Tim Cornelisse,26,Netherlands,Right-Back,RB,,FC Utrecht,Netherlands,,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Bert Konterman,33,Netherlands,Centre-Back,CB,,VVOG,Netherlands,,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Aleksandar Ilic,35,Serbia,Centre-Back,CB,,FC Brüssel,Belgium,,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Peter van Vossen,36,Netherlands,Left Winger,LW,,Retired,,,out,summer,Eredivisie,2004,False,
+Vitesse Arnhem,Youssouf Hersi,22,Netherlands,Right Winger,RW,1750000.0,Heerenveen,Netherlands,0.0,in,winter,Eredivisie,2004,False,
+Vitesse Arnhem,Harald Wapenaar,34,Netherlands,Goalkeeper,GK,2000000.0,Portsmouth,England,,in,winter,Eredivisie,2004,False,
+Vitesse Arnhem,Dragoslav Jevric,30,Serbia,Goalkeeper,GK,1000000.0,BB Ankaraspor,Turkey,250000.0,out,winter,Eredivisie,2004,False,
+Vitesse Arnhem,Nicky Hofs,21,Netherlands,Attacking Midfield,AM,1500000.0,Feyenoord,Netherlands,200000.0,out,winter,Eredivisie,2004,False,
+Willem II Tilburg,Michel Kreek,33,Netherlands,Left-Back,LB,,AEK Athens,Greece,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Oscar Moens,31,Netherlands,Goalkeeper,GK,,Genoa,Italy,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Rob Oomens,23,Netherlands,Right Midfield,RM,,Helmond Sport,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Martijn Reuser,29,Netherlands,Attacking Midfield,AM,,Ipswich,England,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Marko Kolsi,19,Finland,Central Midfield,CM,,FC Jokerit,Finland,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Iwan Redan,23,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,0.0,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Albert van der Haar,28,Netherlands,Defensive Midfield,DM,,FC Zwolle,Netherlands,,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Kevin Bobson,23,Netherlands,Left Winger,LW,,Espanyol,Spain,,in,summer,Eredivisie,2004,False,
+Willem II Tilburg,Tarik Sektioui,27,Morocco,Right Winger,RW,,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Dmitri Shukov,28,Russia,Left Midfield,LM,,Twente FC,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Joris Mathijsen,24,Netherlands,Centre-Back,CB,,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Kew Jaliens,25,Netherlands,Centre-Back,CB,,AZ Alkmaar,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Geert De Vlieger,32,Belgium,Goalkeeper,GK,,Man City,England,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Frank van Kouwen,23,Netherlands,Centre-Back,CB,,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Marcel Meeuwis,23,Netherlands,Defensive Midfield,DM,,VVV-Venlo,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Youssef Mariana,30,Morocco,Left Midfield,LM,,Wydad AC,Morocco,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Mourad Mghizrat,29,Morocco,midfield,midfield,,FC Den Bosch,Netherlands,0.0,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Romano Denneboom,23,Netherlands,Right Winger,RW,,Heerenveen,Netherlands,,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Özcan Özkaya,23,Netherlands,attack,attack,,Achilles Veen,Netherlands,,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Emile van de Meerakker,23,Netherlands,defence,defence,,FC Den Bosch,Netherlands,,out,summer,Eredivisie,2004,False,
+Willem II Tilburg,Bart Van den Eede,26,Belgium,Centre-Forward,CF,,NAC Breda,Netherlands,0.0,out,summer,Eredivisie,2004,True,end of loan
+Willem II Tilburg,Christophe Lepoint,20,Belgium,Attacking Midfield,AM,250000.0,1860 Munich,Germany,0.0,in,winter,Eredivisie,2004,False,
+Willem II Tilburg,Jatto Ceesay,30,The Gambia,Right Winger,RW,400000.0,Hilal,Saudi Arabia,0.0,in,winter,Eredivisie,2004,False,
+Willem II Tilburg,Arvid Smit,24,Netherlands,Central Midfield,CM,800000.0,PSV Eindhoven,Netherlands,0.0,in,winter,Eredivisie,2004,True,free loan
+Willem II Tilburg,James Quinn,30,Northern Ireland,Centre-Forward,CF,400000.0,Sheff Wed,England,0.0,out,winter,Eredivisie,2004,False,

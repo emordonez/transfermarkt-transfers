@@ -1,0 +1,584 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Académica Coimbra,John Ogu,24,Nigeria,Central Midfield,CM,600000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Rafik Halliche,25,Algeria,Centre-Back,CB,750000.0,Fulham,England,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Wilson Eduardo,22,Angola,Left Winger,LW,3200000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Rodrigo Galo,25,Brazil,Right-Back,RB,800000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Alphousseyni Keita,26,Mali,Defensive Midfield,DM,400000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Carlos Saleiro,26,Portugal,Centre-Forward,CF,700000.0,Servette FC,Switzerland,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Makelele,27,Brazil,Defensive Midfield,DM,,ABC FC,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Júnior Lopes,24,Brazil,Centre-Back,CB,,Bragantino,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Marcos Paulo,23,Brazil,Central Midfield,CM,1000000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Nuno Henrique,25,Portugal,Centre-Back,CB,500000.0,Braga,Portugal,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Afonso,20,Brazil,Centre-Forward,CF,75000.0,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Cleyton,22,Brazil,Attacking Midfield,AM,,Santa Rita,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Salim Cissé,19,Guinea,Centre-Forward,CF,,Arezzo,Italy,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Bruno China,29,Portugal,Central Midfield,CM,700000.0,Rio Ave FC,Portugal,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Saná Camará,20,Guinea-Bissau,Central Midfield,CM,200000.0,Real Valladolid,Spain,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Serge N'Gal,26,Cameroon,Right Winger,RW,500000.0,USM Alger,Algeria,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Reiner Ferreira,26,Brazil,Centre-Back,CB,300000.0,Corinthians,Brazil,,in,summer,Primeira Liga,2012,False,
+Académica Coimbra,Diogo Valente,27,Portugal,Left Winger,LW,1200000.0,CFR Cluj,Romania,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Diogo Melo,28,Brazil,Defensive Midfield,DM,800000.0,Sanat Naft,Iran,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Pape Sow,26,Senegal,Centre-Back,CB,1000000.0,Panathinaikos,Greece,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Diogo Ribeiro,21,Portugal,Centre-Forward,CF,,Braga B,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Éder,24,Portugal,Centre-Forward,CF,3000000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Hugo Morais,34,Portugal,Central Midfield,CM,600000.0,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Júnior Lopes,25,Brazil,Centre-Back,CB,100000.0,Nova Iguaçu,Brazil,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Paulo Grilo,20,Portugal,Defensive Midfield,DM,400000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Ghislain Mvom,19,Cameroon,Centre-Back,CB,200000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Bassalia Ouattara,20,Cote d'Ivoire,Left Winger,LW,,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Issouf,19,Cote d'Ivoire,Centre-Back,CB,,FC Pampilhosa,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Nuno Henrique,25,Portugal,Centre-Back,CB,500000.0,Blackburn,England,,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Christo Amessan,21,Cote d'Ivoire,Left Winger,LW,300000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Académica Coimbra,Saulo,30,Brazil,Right Winger,RW,800000.0,AE Pafos,Cyprus,,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Rui Miguel,28,Portugal,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Orlando,32,Portugal,Centre-Back,CB,700000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Diogo Gomes,26,Brazil,Central Midfield,CM,500000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+Académica Coimbra,Adrien Silva,23,Portugal,Central Midfield,CM,2500000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Cédric Soares,20,Portugal,Right-Back,RB,1700000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Danilo Cintra,27,Brazil,Attacking Midfield,AM,600000.0,Macaé,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Abdoulaye Ba,21,Senegal,Centre-Back,CB,600000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,David Simão,22,Portugal,Central Midfield,CM,1500000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Willian Araújo,18,Brazil,Centre-Forward,CF,100000.0,Corinthians,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Reiner Ferreira,26,Brazil,Centre-Back,CB,300000.0,Corinthians,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Académica Coimbra,Magique,20,Cote d'Ivoire,Left Winger,LW,300000.0,Trofense,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+Académica Coimbra,Bassalia Ouattara,20,Cote d'Ivoire,Left Winger,LW,,UD Tocha,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+CD Nacional,Mexer,23,Mozambique,Centre-Back,CB,900000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+CD Nacional,Revson,24,Brazil,Defensive Midfield,DM,150000.0,São Caetano,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+CD Nacional,Gottardi,26,Brazil,Goalkeeper,GK,1000000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+CD Nacional,Emiliano García,22,Uruguay,Centre-Back,CB,150000.0,CA Cerro,Uruguay,0.0,in,summer,Primeira Liga,2012,False,
+CD Nacional,Isael,24,Brazil,Attacking Midfield,AM,,Coritiba FC,Brazil,,in,summer,Primeira Liga,2012,False,
+CD Nacional,Kim,24,Brazil,Left-Back,LB,,Resende,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+CD Nacional,Miguel Rodrigues,19,Portugal,Centre-Back,CB,100000.0,Leiria,Portugal,,in,summer,Primeira Liga,2012,False,
+CD Nacional,Bruno Moreira,24,Portugal,Centre-Forward,CF,1000000.0,Moreirense,Portugal,,in,summer,Primeira Liga,2012,False,
+CD Nacional,Ladji Keita,29,Senegal,Centre-Forward,CF,500000.0,Braga,Portugal,,in,summer,Primeira Liga,2012,False,
+CD Nacional,Eliandro,22,Brazil,Centre-Forward,CF,,Cruzeiro,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+CD Nacional,Manuel da Costa,26,Morocco,Centre-Back,CB,3000000.0,Loko Moscow,Russia,0.0,in,summer,Primeira Liga,2012,True,free loan
+CD Nacional,Luís Neto,24,Portugal,Centre-Back,CB,3000000.0,Siena,Italy,3650000.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Nejc Pecnik,26,Slovenia,Centre-Forward,CF,1000000.0,Sheff Wed,England,0.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Moreno,31,Portugal,Centre-Back,CB,1000000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Elizeu,23,Brazil,Centre-Back,CB,800000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Lucas João,18,Portugal,Centre-Forward,CF,,Mirandela,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+CD Nacional,Ivan Todorovic,28,Serbia,Defensive Midfield,DM,800000.0,Rotor Volgograd,Russia,0.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Danijel Stojanovic,27,Croatia,Left-Back,LB,300000.0,Hajduk Split,Croatia,0.0,out,summer,Primeira Liga,2012,False,
+CD Nacional,Igor Rocha,19,Portugal,Goalkeeper,GK,50000.0,Arouca,Portugal,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Michael John Weir,21,Jersey,Centre-Back,CB,,Doxa Katokopias,Cyprus,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Danielson,31,Brazil,Centre-Back,CB,1500000.0,Omonia Nikosia,Cyprus,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Márcio Madeira,26,Portugal,Left Winger,LW,200000.0,Portimonense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+CD Nacional,Ricardo Fernandes,20,Portugal,Defensive Midfield,DM,100000.0,União Madeira,Portugal,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Marcelo Valverde,22,Brazil,Goalkeeper,GK,800000.0,União Madeira,Portugal,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Juliano Mineiro,26,Brazil,Attacking Midfield,AM,500000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Juninho Arcanjo,29,Brazil,Attacking Midfield,AM,500000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Andrés Madrid,30,Argentina,Defensive Midfield,DM,800000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+CD Nacional,Ladji Keita,29,Senegal,Centre-Forward,CF,500000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+CD Nacional,Aly Ghazal,20,Egypt,Defensive Midfield,DM,25000.0,Wadi Degla U23,Egypt,40000.0,in,winter,Primeira Liga,2012,False,
+CD Nacional,Isael,24,Brazil,Attacking Midfield,AM,,Krasnodar,Russia,500000.0,out,winter,Primeira Liga,2012,False,
+CD Nacional,Rene Mihelic,24,Slovenia,Attacking Midfield,AM,1000000.0,Levski Sofia,Bulgaria,120000.0,out,winter,Primeira Liga,2012,True,loan with fee
+CD Nacional,Oliver Minatel,20,Brazil,Centre-Forward,CF,500000.0,Velo Clube-SP,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+CD Nacional,Mayko,21,Brazil,Defensive Midfield,DM,100000.0,Aquidauanense,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+CD Nacional,Emiliano García,23,Uruguay,Centre-Back,CB,150000.0,Boston River,Uruguay,0.0,out,winter,Primeira Liga,2012,False,
+CS Marítimo,Rúben Brígido,21,Portugal,Attacking Midfield,AM,500000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+CS Marítimo,Semedo,24,Cape Verde,Defensive Midfield,DM,400000.0,Portimonense,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+CS Marítimo,Márcio Rosário,28,Brazil,Centre-Back,CB,400000.0,Náutico,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+CS Marítimo,Wellington,22,Brazil,Goalkeeper,GK,,ABC FC,Brazil,,in,summer,Primeira Liga,2012,False,
+CS Marítimo,Gegé,24,Cape Verde,Centre-Back,CB,250000.0,Covilhã,Portugal,,in,summer,Primeira Liga,2012,False,
+CS Marítimo,David Simão,22,Portugal,Central Midfield,CM,2000000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+CS Marítimo,Roberto Sousa,27,Brazil,Defensive Midfield,DM,1000000.0,Persepolis,Iran,1500000.0,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Peçanha,32,Brazil,Goalkeeper,GK,1000000.0,Rapid Bucharest,Romania,100000.0,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Selim Benachour,30,Tunisia,Attacking Midfield,AM,1100000.0,APOEL Nicosia,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Balú,27,Brazil,Defensive Midfield,DM,300000.0,AE Pafos,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Robson,29,Brazil,Centre-Back,CB,1000000.0,OH Leuven,Belgium,0.0,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Fábio Felicio,30,Portugal,Central Midfield,CM,300000.0,Portimonense,Portugal,,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Marafona,25,Portugal,Goalkeeper,GK,250000.0,Desportivo Aves,Portugal,,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Rafael Leme Amorim,24,Brazil,Centre-Back,CB,50000.0,Unknown,,,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Christian Pouga,26,Cameroon,Centre-Forward,CF,800000.0,OH Leuven,Belgium,,out,summer,Primeira Liga,2012,False,
+CS Marítimo,Artur,28,Portugal,Attacking Midfield,AM,1000000.0,Chornomorets,Ukraine,0.0,in,winter,Primeira Liga,2012,True,free loan
+CS Marítimo,Hyun-jun Suk,21,"Korea, South",Centre-Forward,CF,400000.0,FC Groningen,Netherlands,,in,winter,Primeira Liga,2012,False,
+FC Paços de Ferreira,Vitorino Antunes,25,Portugal,Left-Back,LB,200000.0,AS Roma,Italy,0.0,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Abdullah Al-Hafith,19,Saudi Arabia,Centre-Back,CB,300000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Jaime Poulson,23,Portugal,Centre-Forward,CF,,Varzim,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Carlão,21,Portugal,Defensive Midfield,DM,,Rebordosa AC,Portugal,,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Tiago Valente,27,Portugal,Centre-Back,CB,1000000.0,Desportivo Aves,Portugal,,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Paulo Loureiro,19,South Africa,Left-Back,LB,,Boavista,Portugal,,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Uillian Correia,22,Brazil,Defensive Midfield,DM,,Santa Cruz-RS,Brazil,,in,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Vinicio Angulo,24,Ecuador,Centre-Forward,CF,,Norte América,Ecuador,0.0,in,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Luisinho,27,Portugal,Left-Back,LB,700000.0,Benfica,Portugal,2000000.0,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Carlão,20,Portugal,Defensive Midfield,DM,,Rebordosa AC,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Eridson,22,Guinea-Bissau,Centre-Back,CB,700000.0,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Bacar Baldé,20,Guinea-Bissau,Left-Back,LB,500000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Alvarinho,21,Portugal,Left Winger,LW,100000.0,Castelo Branco,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Fábio Pacheco,24,Portugal,Defensive Midfield,DM,300000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Padraig Amond,24,Ireland,Centre-Forward,CF,300000.0,Accrington,England,0.0,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Júlio Coelho,27,Portugal,Goalkeeper,GK,750000.0,Penafiel,Portugal,,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Michel Lugo,25,Brazil,Left Winger,LW,200000.0,Guarany Bagé,Brazil,,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Luís Barros,18,Portugal,Goalkeeper,GK,100000.0,AD Lousada,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Christian Irobiso,19,Nigeria,Centre-Forward,CF,100000.0,União Madeira,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Jonas,19,Portugal,Centre-Forward,CF,100000.0,Amarante,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Julio Aguilar,26,Paraguay,Centre-Forward,CF,400000.0,3 de Febrero,Paraguay,,out,summer,Primeira Liga,2012,False,
+FC Paços de Ferreira,Lorenzo Melgarejo,21,Paraguay,Left Winger,LW,1200000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+FC Paços de Ferreira,Duarte Duarte,25,Portugal,Left Winger,LW,200000.0,Benfica B,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Luís Sousa,23,Portugal,Left-Back,LB,,CD Fátima,Portugal,,in,winter,Primeira Liga,2012,False,
+FC Paços de Ferreira,Luís Barros,19,Portugal,Goalkeeper,GK,100000.0,AC Vila Meã,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Marcelo Tchê,24,Brazil,Right-Back,RB,500000.0,Anápolis,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+FC Paços de Ferreira,Rafinha,20,Portugal,Attacking Midfield,AM,100000.0,Tirsense,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Sassá,24,Brazil,Centre-Forward,CF,300000.0,EC Bahia,Brazil,,out,winter,Primeira Liga,2012,False,
+FC Paços de Ferreira,Uillian Correia,23,Brazil,Defensive Midfield,DM,,Feirense,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Vitorino Antunes,25,Portugal,Left-Back,LB,200000.0,Málaga CF,Spain,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Paços de Ferreira,Arturo Álvarez,27,El Salvador,Left Winger,LW,500000.0,Videoton FC,Hungary,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Porto,Jackson Martínez,25,Colombia,Centre-Forward,CF,5000000.0,Jaguares,Mexico,8890000.0,in,summer,Primeira Liga,2012,False,
+FC Porto,Héctor Quiñónes,20,Colombia,Left-Back,LB,450000.0,Junior FC,Colombia,1980000.0,in,summer,Primeira Liga,2012,False,
+FC Porto,Fabiano,24,Brazil,Goalkeeper,GK,1300000.0,Olhanense,Portugal,1200000.0,in,summer,Primeira Liga,2012,False,
+FC Porto,Hulk,26,Brazil,Right Winger,RW,37000000.0,Zenit S-Pb,Russia,40000000.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Fredy Guarín,26,Colombia,Central Midfield,CM,12000000.0,Inter,Italy,11000000.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Álvaro Pereira,26,Uruguay,Left-Back,LB,16000000.0,Inter,Italy,10000000.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Fernando Belluschi,28,Argentina,Central Midfield,CM,6500000.0,Bursaspor,Turkey,2500000.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Marc Janko,29,Austria,Centre-Forward,CF,5000000.0,Trabzonspor,Turkey,2340000.0,out,summer,Primeira Liga,2012,False,
+FC Porto,André Pinto,22,Portugal,Centre-Back,CB,1000000.0,Panathinaikos,Greece,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,William Soares,23,Brazil,Defensive Midfield,DM,200000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Beto,30,Portugal,Goalkeeper,GK,3200000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Djalma,25,Angola,Right Winger,RW,3500000.0,Kasimpasa,Turkey,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Porto,Pawel Kieszek,28,Poland,Goalkeeper,GK,650000.0,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Walter,22,Brazil,Centre-Forward,CF,3000000.0,Goiás EC,Brazil,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Porto,David Addy,22,Ghana,Left-Back,LB,750000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Cristian Sapunaru,28,Romania,Centre-Back,CB,4000000.0,Real Zaragoza,Spain,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Cristian Rodríguez,26,Uruguay,Central Midfield,CM,5000000.0,Atlético Madrid,Spain,0.0,out,summer,Primeira Liga,2012,False,
+FC Porto,Henrique Sereno,27,Portugal,Centre-Back,CB,1800000.0,Real Valladolid,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Porto,Ukra,24,Portugal,Right Winger,RW,2000000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Porto,Rafael Bracali,31,Brazil,Goalkeeper,GK,1700000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+FC Porto,Marat Izmailov,30,Russia,Central Midfield,CM,6000000.0,Sporting CP,Portugal,1000000.0,in,winter,Primeira Liga,2012,False,
+FC Porto,Liedson,35,Portugal,Centre-Forward,CF,400000.0,Flamengo,Brazil,0.0,in,winter,Primeira Liga,2012,True,free loan
+FC Porto,Josef,23,Brazil,Defensive Midfield,DM,2500000.0,Grêmio,Brazil,3750000.0,out,winter,Primeira Liga,2012,False,
+FC Porto,Miguel Lopes,26,Portugal,Right-Back,RB,3600000.0,Sporting CP,Portugal,1750000.0,out,winter,Primeira Liga,2012,False,
+FC Porto,Juan Iturbe,19,Paraguay,Left Winger,LW,2000000.0,River Plate,Argentina,1500000.0,out,winter,Primeira Liga,2012,True,loan with fee
+FC Porto,Rolando,27,Portugal,Centre-Back,CB,10000000.0,SSC Napoli,Italy,1000000.0,out,winter,Primeira Liga,2012,True,loan with fee
+FC Porto,Emídio Rafael,26,Portugal,Left-Back,LB,500000.0,Braga,Portugal,0.0,out,winter,Primeira Liga,2012,False,
+FC Porto,Kléber,22,Brazil,Centre-Forward,CF,5000000.0,Palmeiras,Brazil,0.0,out,winter,Primeira Liga,2012,True,free loan
+FC Porto,Hugo Ventura,25,Portugal,Goalkeeper,GK,500000.0,Sporting CP,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Luís Leal,25,Sao Tome and Principe,Centre-Forward,CF,800000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Bruno Miguel,29,Portugal,Centre-Back,CB,550000.0,Astra Ploiesti,Romania,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Mano,25,Portugal,Right-Back,RB,500000.0,APO Levadiakos,Greece,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Hugo Leal,32,Portugal,Central Midfield,CM,900000.0,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Jefferson,23,Brazil,Left-Back,LB,200000.0,Desp. Brasil,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,João Paulo,32,Portugal,Centre-Forward,CF,750000.0,Xäzär Länkäran,Azerbaijan,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Elizeu,23,Brazil,Centre-Back,CB,800000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Carlitos,29,Portugal,Left Midfield,LM,300000.0,Hannover 96,Germany,0.0,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Dieguinho,20,Brazil,Right Winger,RW,,Desp. Brasil,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,João Pedro,24,Portugal,Centre-Back,CB,450000.0,Desportivo Aves,Portugal,,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Pedro Henrique,21,Brazil,Centre-Forward,CF,100000.0,Freamunde,Portugal,,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Carlos Eduardo,22,Brazil,Attacking Midfield,AM,500000.0,Desp. Brasil,Brazil,,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,João Falque,18,Brazil,Centre-Forward,CF,,Botafogo U17,Brazil,,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Renan,21,Brazil,Goalkeeper,GK,,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Evandro,25,Brazil,Attacking Midfield,AM,2000000.0,Desp. Brasil,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Diogo Amado,22,Portugal,Defensive Midfield,DM,900000.0,Sheff Wed,England,,in,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Vítor Moreno,31,Cape Verde,Right-Back,RB,300000.0,Atlético CP,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Ernesto,32,Cape Verde,Goalkeeper,GK,100000.0,Vilankulo FC,Mozambique,0.0,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Alexandre Hauw,30,France,Left Midfield,LM,400000.0,MDA Chasselay,France,0.0,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Leandro Borges,20,Portugal,Left Winger,LW,100000.0,Trofense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Pedro Moreira,29,Cape Verde,Centre-Forward,CF,500000.0,Nea Salamis,Cyprus,,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Erick,24,Brazil,Central Midfield,CM,300000.0,Portimonense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Bruno,23,Brazil,Central Midfield,CM,500000.0,Naval,Portugal,,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Janú Silva,20,Portugal,Centre-Forward,CF,,Lourel,Portugal,,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Diogo Tavares,25,Portugal,Centre-Forward,CF,200000.0,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Bruno Fogaça,30,Brazil,Centre-Forward,CF,100000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+GD Estoril Praia,Rodrigo Silva,29,Brazil,Centre-Forward,CF,200000.0,Leiria,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Fabrício Simões,27,Brazil,Centre-Forward,CF,1000000.0,Leiria,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Diogo Amado,22,Portugal,Defensive Midfield,DM,900000.0,Leiria,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Luis Tinoco,25,Portugal,Left-Back,LB,400000.0,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Adilson,30,Brazil,Centre-Forward,CF,600000.0,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Carlos Eduardo,22,Brazil,Attacking Midfield,AM,500000.0,Desp. Brasil,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+GD Estoril Praia,Yohan Tavares,24,Portugal,Centre-Back,CB,1200000.0,Standard Liège,Belgium,0.0,in,winter,Primeira Liga,2012,True,free loan
+GD Estoril Praia,Frédéric Mendy,24,Guinea-Bissau,Centre-Forward,CF,400000.0,Home United,Singapore,0.0,in,winter,Primeira Liga,2012,False,
+GD Estoril Praia,Pedro Henrique,21,Brazil,Centre-Forward,CF,400000.0,Covilhã,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Ramazotti,23,Brazil,Centre-Forward,CF,300000.0,FC Zürich,Switzerland,0.0,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Luan Scapolan,23,Brazil,Defensive Midfield,DM,50000.0,GO Audax,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Leonardo,24,Brazil,attack,attack,,Santa Cruz-RS,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Bruno Pinheiro,24,Portugal,Defensive Midfield,DM,500000.0,Widzew Lodz,Poland,0.0,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Thomas Agyiri,18,Ghana,Central Midfield,CM,,Man City U21,England,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Califo,23,Guinea-Bissau,Left-Back,LB,,Mirandela,Portugal,,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Brito,24,Cape Verde,Right Winger,RW,,Torreense,Portugal,,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Lúcio,22,Brazil,Goalkeeper,GK,50000.0,Portuguesa,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Pio,24,Brazil,Central Midfield,CM,,Monte Azul-SP,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Pedro Pereira,28,Portugal,Right Winger,RW,450000.0,Desportivo Aves,Portugal,,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Djalma,24,Brazil,midfield,midfield,,Santo André,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Elízio,24,Brazil,Left-Back,LB,500000.0,Anápolis-GO,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Rafael Silva,21,Brazil,Left Winger,LW,,Portuguesa,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Luciano Amaral,29,Brazil,Left-Back,LB,500000.0,Villa Rio,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,William Kwabena Tiero,31,Ghana,Attacking Midfield,AM,650000.0,Al Qadisiyah,Saudi Arabia,,in,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Hugo Vieira,23,Portugal,Centre-Forward,CF,1800000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,João Vilela,26,Portugal,Central Midfield,CM,900000.0,Tractor,Iran,0.0,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Jorge Baptista,35,Portugal,Goalkeeper,GK,400000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Rui Faria,20,Portugal,Centre-Back,CB,100000.0,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Ruca,21,Portugal,Left-Back,LB,,Oliveira Frades,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Edivaldo,19,Cape Verde,Goalkeeper,GK,,AD Oeiras,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Rody,21,Cape Verde,attack,attack,50000.0,Famalicão,Portugal,,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Venú,22,Portugal,Central Midfield,CM,,Santa Maria,Portugal,,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Tó Barbosa,19,Portugal,Centre-Forward,CF,200000.0,Varzim,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Roberto,33,Brazil,Centre-Forward,CF,300000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+Gil Vicente FC,Paulão,26,Brazil,Centre-Back,CB,200000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Júnior Caiçara,23,Brazil,Right-Back,RB,1100000.0,Santo André,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Richard,23,Azerbaijan,Central Midfield,CM,1000000.0,Santo André,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Guilherme,21,Brazil,Attacking Midfield,AM,500000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Mauro,21,Brazil,Defensive Midfield,DM,150000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Rodrigo Galo,25,Brazil,Right-Back,RB,500000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Zé Luís,21,Cape Verde,Centre-Forward,CF,900000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Pedro Moreira,23,Portugal,Central Midfield,CM,600000.0,FC Porto B,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Gil Vicente FC,Hugo Vieira,24,Portugal,Centre-Forward,CF,2000000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Vítor Vinha,26,Portugal,Left-Back,LB,400000.0,Olhanense,Portugal,0.0,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,João Vilela,27,Portugal,Central Midfield,CM,500000.0,Tractor,Iran,,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Luís Martins,20,Portugal,Left-Back,LB,800000.0,Benfica B,Portugal,,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Gabriel Rodríguez,24,Argentina,Centre-Forward,CF,550000.0,Audax Italiano,Chile,,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Paulo Jorge,31,Portugal,Right Winger,RW,1250000.0,Ittihad,Saudi Arabia,,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Valdinho,23,Angola,Centre-Forward,CF,200000.0,Desportivo Aves,Portugal,,in,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Bruno Pinheiro,25,Portugal,Defensive Midfield,DM,500000.0,Maccabi Netanya,Israel,0.0,out,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Ramazotti,24,Brazil,Centre-Forward,CF,300000.0,Bragantino,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Rui Faria,20,Portugal,Centre-Back,CB,100000.0,Mirandela,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+Gil Vicente FC,Sidnei,26,Cape Verde,Central Midfield,CM,250000.0,C.R.D. Libolo,Angola,0.0,out,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Leonardo,24,Brazil,attack,attack,,Luverdense,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Gil Vicente FC,Luan Scapolan,24,Brazil,Defensive Midfield,DM,50000.0,GO Audax,Brazil,0.0,out,winter,Primeira Liga,2012,True,free loan
+Moreirense FC,Diego Gaúcho,30,Brazil,Centre-Back,CB,500000.0,Astra Ploiesti,Romania,0.0,in,summer,Primeira Liga,2012,False,
+Moreirense FC,Nilson Júnior,20,Brazil,Centre-Back,CB,,CRB,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Rafa Lopes,20,Portugal,Centre-Forward,CF,1200000.0,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Moreirense FC,Paulinho,20,Portugal,Right-Back,RB,400000.0,Leixões,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Moreirense FC,Rui Santos,23,Portugal,Goalkeeper,GK,,AD Oeiras,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,André Luiz,26,Brazil,Right Winger,RW,,Brasiliense-DF,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Moreirense FC,Vinicius,26,Brazil,Central Midfield,CM,800000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Ricardo Pessoa,30,Portugal,Right-Back,RB,500000.0,Portimonense,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Jô,23,Brazil,Second Striker,SS,800000.0,Juventus-AC,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Pablo Olivera,24,Uruguay,Second Striker,SS,475000.0,River Plate,Uruguay,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Renato Augusto,20,Brazil,Defensive Midfield,DM,100000.0,Palmeiras,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Jonathan Bru,27,Mauritius,Defensive Midfield,DM,250000.0,Melbourne,Australia,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Bruno Jorge,27,Portugal,Goalkeeper,GK,200000.0,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Vítor Pinto,26,Portugal,Centre-Back,CB,100000.0,Freamunde,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Chico Gomes,24,Portugal,Right-Back,RB,600000.0,Portimonense,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Miguel Oliveira,28,Portugal,Centre-Back,CB,400000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Marcelo Carneiro,19,Portugal,Central Midfield,CM,,GD Joane,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Césinha,32,Brazil,Second Striker,SS,500000.0,Petrolul,Romania,0.0,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Tiago Carneiro,28,Portugal,Left Winger,LW,400000.0,Tondela,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Robson,24,Brazil,Attacking Midfield,AM,200000.0,Penafiel,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,João Vicente,27,Cape Verde,Left-Back,LB,600000.0,Arouca,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Bruno Moreira,24,Portugal,Centre-Forward,CF,1000000.0,Nacional,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Pica,29,Portugal,Centre-Back,CB,300000.0,Tondela,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Luís Pinto,30,Portugal,Attacking Midfield,AM,500000.0,Arouca,Portugal,,out,summer,Primeira Liga,2012,False,
+Moreirense FC,Mário Mateus,20,Portugal,Central Midfield,CM,50000.0,Futebol Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Moreirense FC,Renato Santos,20,Portugal,Right Winger,RW,300000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Moreirense FC,Diogo Figueiras,20,Portugal,Right-Back,RB,500000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Moreirense FC,Cícero,26,Guinea-Bissau,Centre-Forward,CF,600000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Moreirense FC,Jorge Chula,22,Portugal,Right Winger,RW,300000.0,Sporting B,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Moreirense FC,Florent Hanin,22,France,Left-Back,LB,400000.0,Braga B,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Moreirense FC,Tijani Belaid,25,Tunisia,Attacking Midfield,AM,400000.0,Union Berlin,Germany,0.0,in,winter,Primeira Liga,2012,False,
+Moreirense FC,Christian Kinkela,30,DR Congo,Right Midfield,RM,300000.0,CS Sedan,France,0.0,in,winter,Primeira Liga,2012,False,
+Moreirense FC,Aníbal Capela,21,Portugal,Centre-Back,CB,300000.0,Braga B,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Moreirense FC,André Luiz,27,Brazil,Right Winger,RW,,Fortaleza,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Moreirense FC,Césinha,32,Brazil,Second Striker,SS,500000.0,Petrolul,Romania,0.0,out,winter,Primeira Liga,2012,False,
+Moreirense FC,Júlio César,28,Brazil,Defensive Midfield,DM,200000.0,Feirense,Portugal,,out,winter,Primeira Liga,2012,False,
+Rio Ave FC,Filipe Augusto,18,Brazil,Defensive Midfield,DM,200000.0,EC Bahia,Brazil,2200000.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Fabinho,18,Brazil,Defensive Midfield,DM,,Fluminense U20,Brazil,500000.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Isma,21,Guinea-Bissau,Centre-Forward,CF,1000000.0,OGC Nice,France,400000.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Tope Obadeyi,22,England,Left Winger,LW,,Bolton,England,0.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,William Soares,23,Brazil,Defensive Midfield,DM,200000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Nivaldo,32,Brazil,Centre-Back,CB,700000.0,M. Tel Aviv,Israel,0.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Alberto Rodríguez,28,Peru,Centre-Back,CB,3400000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Ederson,18,Brazil,Goalkeeper,GK,,GD Ribeirão,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Yonathan Del Valle,22,Venezuela,Left Winger,LW,200000.0,AJ Auxerre,France,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,André Costa,19,Portugal,Right Midfield,RM,,Gondomar,Portugal,,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Zé Diogo,18,Portugal,Right-Back,RB,,Varzim,Portugal,,in,summer,Primeira Liga,2012,False,
+Rio Ave FC,Diego Lopes,18,Brazil,Attacking Midfield,AM,,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Edimar,26,Brazil,Left-Back,LB,750000.0,CFR Cluj,Romania,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Lionn,23,Brazil,Right-Back,RB,800000.0,CFR Cluj,Romania,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Ukra,24,Portugal,Right Winger,RW,2000000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Jan Oblak,19,Slovenia,Goalkeeper,GK,1100000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,André Geraldes,21,Portugal,Right-Back,RB,500000.0,Istanbul BBSK,Turkey,1200000.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,João Mendes,24,Portugal,Right Winger,RW,500000.0,Portimonense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Gilmar,20,Brazil,Centre-Forward,CF,200000.0,GD Ribeirão,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Goba,19,Portugal,Centre-Forward,CF,,Gondomar,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Tiago Pinto,24,Portugal,Left-Back,LB,1500000.0,Dep. La Coruña,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Zé Gomes,36,Portugal,Right-Back,RB,300000.0,Bragança,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Huanderson,29,Brazil,Goalkeeper,GK,1000000.0,Iraklis,Greece,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Ricardo Martins,22,Portugal,Central Midfield,CM,200000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Rafinha,23,Brazil,Attacking Midfield,AM,50000.0,Unknown,,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Anselmo,28,Portugal,Centre-Forward,CF,600000.0,Tractor,Iran,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Gaspar,37,Portugal,Centre-Back,CB,300000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Tiago Costa,27,Portugal,Right-Back,RB,250000.0,Olympiakos N.,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Pedro Trigueira,24,Portugal,Goalkeeper,GK,450000.0,Cinfães,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Feliz,23,Portugal,Right Winger,RW,450000.0,GD Ribeirão,Portugal,,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Fabinho,18,Brazil,Defensive Midfield,DM,,RM Castilla,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Renato Santos,20,Portugal,Right Winger,RW,300000.0,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Tiago Silva,20,Portugal,Left Winger,LW,,GD Ribeirão,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Ivo Pinto,22,Portugal,Right-Back,RB,1100000.0,CFR Cluj,Romania,0.0,out,summer,Primeira Liga,2012,True,free loan
+Rio Ave FC,Bruno China,29,Portugal,Central Midfield,CM,700000.0,Coimbra,Portugal,,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Paulo Santos,39,Portugal,Goalkeeper,GK,100000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Jorginho,35,Brazil,Attacking Midfield,AM,400000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Rio Ave FC,Yazalde,23,Guinea-Bissau,Centre-Forward,CF,2800000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Éder Monteiro,28,Brazil,Centre-Back,CB,600000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Kelvin,19,Brazil,Right Winger,RW,2000000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Christian Atsu,20,Ghana,Left Winger,LW,2000000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Fábio Faria,23,Portugal,Centre-Back,CB,1000000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Jean Sony Alcénat,26,Haiti,Right-Back,RB,900000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Rio Ave FC,Bebé,22,Portugal,Left Winger,LW,1000000.0,Man Utd,England,0.0,in,winter,Primeira Liga,2012,True,free loan
+Rio Ave FC,Tiago Pinto,24,Portugal,Left-Back,LB,1000000.0,Racing,Spain,0.0,out,winter,Primeira Liga,2012,True,free loan
+Rio Ave FC,Isma,21,Guinea-Bissau,Centre-Forward,CF,1000000.0,St. Mirren,Scotland,0.0,out,winter,Primeira Liga,2012,True,free loan
+Rio Ave FC,Vítor Gomes,25,Portugal,Central Midfield,CM,1500000.0,Videoton FC,Hungary,0.0,out,winter,Primeira Liga,2012,True,free loan
+Rio Ave FC,João Tomás,37,Portugal,Centre-Forward,CF,900000.0,C.R.D. Libolo,Angola,,out,winter,Primeira Liga,2012,False,
+Rio Ave FC,William Soares,24,Brazil,Defensive Midfield,DM,200000.0,Arouca,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+SC Beira-Mar,David Fleurival,28,Guadeloupe,Central Midfield,CM,500000.0,FC Metz,France,0.0,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Cédric Collet,28,Guadeloupe,Left Winger,LW,200000.0,Stade Reims,France,0.0,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Hélder Lopes,23,Portugal,Left-Back,LB,,Tondela,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Bruno Jorge,27,Portugal,Goalkeeper,GK,200000.0,Moreirense,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Vincent Sasso,21,France,Centre-Back,CB,200000.0,FC Nantes,France,0.0,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Rúben Ribeiro,24,Portugal,Central Midfield,CM,250000.0,Penafiel,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Rafael Batatinha,22,Brazil,Right Winger,RW,,Tondela,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Leandro Ratinho,21,Brazil,defence,defence,,Cotia-SP,Brazil,,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Seydou Sow,18,Senegal,Centre-Forward,CF,,Without Club,,,in,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Yohan Tavares,24,Portugal,Centre-Back,CB,1800000.0,Standard Liège,Belgium,500000.0,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Felipe Desco,23,Brazil,attack,attack,,Itapirense-SP,Brazil,0.0,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Élio Martins,27,Portugal,Centre-Forward,CF,700000.0,PFC Beroe,Bulgaria,0.0,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Édson Silva,28,Guinea-Bissau,Right-Back,RB,150000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Tiago Barros,24,Portugal,Central Midfield,CM,100000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Artur,28,Portugal,Attacking Midfield,AM,1500000.0,Chornomorets,Ukraine,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Filipe Melo,22,Portugal,Defensive Midfield,DM,200000.0,Naval,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Luis Tinoco,25,Portugal,Left-Back,LB,400000.0,Naval,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Hugo Seixas,21,Portugal,Right Winger,RW,200000.0,UD Tocha,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Paes,29,Brazil,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Edson Sitta,29,Brazil,Defensive Midfield,DM,400000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,Dominic Reinold,23,Germany,Attacking Midfield,AM,150000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+SC Beira-Mar,André Marques,24,Portugal,Left-Back,LB,800000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Beira-Mar,Chengdong Zhang,23,China,Right Winger,RW,1400000.0,Mafra,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Beira-Mar,Nuno Coelho,24,Portugal,Centre-Back,CB,1500000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Beira-Mar,Atila Turan,20,Turkey,Left-Back,LB,800000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Beira-Mar,Cássio,28,Brazil,Centre-Forward,CF,800000.0,Rapid Bucharest,Romania,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Beira-Mar,Tonel,32,Portugal,Centre-Back,CB,2500000.0,Dinamo Zagreb,Croatia,0.0,in,winter,Primeira Liga,2012,False,
+SC Beira-Mar,Yazalde,24,Guinea-Bissau,Centre-Forward,CF,2800000.0,Braga,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+SC Beira-Mar,Tozé Marreco,25,Portugal,Centre-Forward,CF,500000.0,Naval,Portugal,0.0,in,winter,Primeira Liga,2012,False,
+SC Beira-Mar,Rui Sampaio,25,Portugal,Central Midfield,CM,600000.0,Cagliari Calcio,Italy,0.0,in,winter,Primeira Liga,2012,True,free loan
+SC Beira-Mar,Dani Abalo,25,Spain,Right Winger,RW,500000.0,Celta de Vigo,Spain,0.0,in,winter,Primeira Liga,2012,True,free loan
+SC Beira-Mar,Vincent Sasso,21,France,Centre-Back,CB,200000.0,Braga,Portugal,750000.0,out,winter,Primeira Liga,2012,False,
+SC Beira-Mar,Djiman Koukou,22,Benin,Defensive Midfield,DM,250000.0,Chamois Niort,France,0.0,out,winter,Primeira Liga,2012,False,
+SC Beira-Mar,Tiago Cintra,23,Portugal,Centre-Forward,CF,300000.0,Desportivo Aves,Portugal,0.0,out,winter,Primeira Liga,2012,False,
+SC Beira-Mar,Joãozinho,23,Portugal,Left-Back,LB,1500000.0,Sporting CP,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+SC Beira-Mar,Cédric Collet,28,Guadeloupe,Left Winger,LW,200000.0,Without Club,,,out,winter,Primeira Liga,2012,False,
+SC Braga,Maximilian Haas,26,Germany,Centre-Back,CB,350000.0,Leiria,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Braga,Éder,24,Portugal,Centre-Forward,CF,3000000.0,Coimbra,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Braga,Beto,30,Portugal,Goalkeeper,GK,3200000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Braga,Michel,26,Brazil,Centre-Forward,CF,3000000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Braga,Carlao,25,Brazil,Centre-Forward,CF,1300000.0,Kashima Antlers,Japan,,in,summer,Primeira Liga,2012,False,
+SC Braga,Ismaily,22,Brazil,Left-Back,LB,600000.0,Olhanense,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Braga,Rúben Micael,25,Portugal,Central Midfield,CM,5000000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Braga,Manoel,23,Brazil,Centre-Forward,CF,1200000.0,Anápolis-GO,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Braga,Chindeu Vine,18,Ireland,Centre-Forward,CF,,Portsmouth,England,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Braga,Lima,29,Brazil,Centre-Forward,CF,8000000.0,Benfica,Portugal,4000000.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Mário Felgueiras,25,Portugal,Goalkeeper,GK,1200000.0,CFR Cluj,Romania,500000.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Marco Ramos,29,Portugal,Left-Back,LB,500000.0,AJ Auxerre,France,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Rodrigo Galo,25,Brazil,Right-Back,RB,800000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Braga,Tommaso Berni,29,Italy,Goalkeeper,GK,500000.0,Sampdoria,Italy,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Dani Coelho,22,Portugal,Right-Back,RB,800000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Rui Vieira,20,Portugal,Goalkeeper,GK,100000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Emmanuel Imorou,23,Benin,Left-Back,LB,1000000.0,Clermont Foot,France,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Nuno Gomes,35,Portugal,Centre-Forward,CF,1300000.0,Blackburn,England,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Diego Silva,22,Portugal,Goalkeeper,GK,200000.0,Vilaverdense FC,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Braga,Hugo Lopes,22,Portugal,Centre-Back,CB,,Varzim,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Braga,Vinicius,26,Brazil,Central Midfield,CM,800000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Braga,Fernando Alexandre,26,Portugal,Defensive Midfield,DM,1000000.0,Olhanense,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Braga,Nuno Henrique,25,Portugal,Centre-Back,CB,500000.0,Coimbra,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Braga,Ladji Keita,29,Senegal,Centre-Forward,CF,500000.0,Nacional,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Braga,Juankar,22,Spain,Left-Back,LB,1200000.0,Real Betis,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Braga,Luís Alberto,28,Brazil,Defensive Midfield,DM,1500000.0,CFR Cluj,Romania,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Braga,Ukra,24,Portugal,Right Winger,RW,2500000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Braga,Ewerton,23,Brazil,Centre-Back,CB,3000000.0,Coimbra-MG,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Braga,Miguel Lopes,25,Portugal,Right-Back,RB,2500000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Braga,Carlao,25,Brazil,Centre-Forward,CF,1300000.0,Kashima Antlers,Japan,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Braga,Vincent Sasso,21,France,Centre-Back,CB,200000.0,Beira-Mar,Portugal,750000.0,in,winter,Primeira Liga,2012,False,
+SC Braga,João Pedro,26,Portugal,Right-Back,RB,600000.0,Naval,Portugal,100000.0,in,winter,Primeira Liga,2012,False,
+SC Braga,Emídio Rafael,26,Portugal,Left-Back,LB,500000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2012,False,
+SC Braga,Rabiola,23,Portugal,Centre-Forward,CF,800000.0,Desportivo Aves,Portugal,,in,winter,Primeira Liga,2012,False,
+SC Braga,Ismaily,23,Brazil,Left-Back,LB,1300000.0,Shakhtar D.,Ukraine,4000000.0,out,winter,Primeira Liga,2012,False,
+SC Braga,Samuel Jesus,26,Brazil,Centre-Back,CB,300000.0,São Bernardo-SP,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+SC Braga,Paulo César,33,Brazil,Right Winger,RW,1200000.0,Santa Cruz,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+SC Braga,Yazalde,24,Guinea-Bissau,Centre-Forward,CF,2800000.0,Beira-Mar,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+SC Braga,Beto,30,Portugal,Goalkeeper,GK,4000000.0,Sevilla FC,Spain,0.0,out,winter,Primeira Liga,2012,True,free loan
+SC Olhanense,David Silva,25,Cape Verde,Left Midfield,LM,275000.0,Kilmarnock FC,Scotland,0.0,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Liban Abdi,23,Norway,Left Midfield,LM,250000.0,Ferencváros,Hungary,0.0,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Ricardo,36,Portugal,Goalkeeper,GK,300000.0,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Fernando Alexandre,26,Portugal,Defensive Midfield,DM,1000000.0,Braga,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Nuno Silva,25,Portugal,Right Winger,RW,350000.0,União Madeira,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Babanco,26,Cape Verde,Central Midfield,CM,500000.0,Arouca,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Evandro Brandão,21,Angola,Right Winger,RW,200000.0,Videoton FC,Hungary,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Tiago Targino,26,Portugal,Right Winger,RW,1700000.0,Vit. Guimarães,Portugal,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Naftal,17,Mozambique,midfield,midfield,,CD Costa do Sol,Mozambique,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Nuno Reis,21,Portugal,Centre-Back,CB,1500000.0,Sporting B,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Rui Sampaio,25,Portugal,Central Midfield,CM,600000.0,Cagliari Calcio,Italy,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,José Luis Fernández,24,Argentina,Central Midfield,CM,1300000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Rafael Bracali,31,Brazil,Goalkeeper,GK,1700000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Djaniny,21,Cape Verde,Centre-Forward,CF,1000000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Alex Zahavi,21,Israel,Right Winger,RW,200000.0,Maccabi Haifa,Israel,0.0,in,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Francesco D'Onofrio,21,Belgium,Right-Back,RB,100000.0,Without Club,,,in,summer,Primeira Liga,2012,False,
+SC Olhanense,Fabiano,24,Brazil,Goalkeeper,GK,1300000.0,FC Porto,Portugal,1200000.0,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Cauê,23,Brazil,Defensive Midfield,DM,1600000.0,FC Vaslui,Romania,700000.0,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Salvador Agra,20,Portugal,Right Winger,RW,800000.0,Real Betis,Spain,300000.0,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Jorge Araújo,23,Portugal,Right-Back,RB,100000.0,Farense,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Toy,35,Cape Verde,Centre-Forward,CF,300000.0,Doxa Katokopias,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Ismaily,22,Brazil,Left-Back,LB,600000.0,Braga,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Dady,30,Cape Verde,Centre-Forward,CF,700000.0,Apol. Limassol,Cyprus,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Víctor Meza,25,Argentina,Centre-Forward,CF,400000.0,CD Morón,Argentina,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Paulo Regula,22,Portugal,Attacking Midfield,AM,500000.0,Naval,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Gerson,19,Portugal,midfield,midfield,,Algarve,Portugal,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Apollon Lemondzhava,21,Russia,Centre-Forward,CF,,Rudar Prijedor,Bosnia-Herzegovina,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,Leandro Turossi,20,Brazil,Goalkeeper,GK,,Moncarapachense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SC Olhanense,Djalmir,36,Brazil,attack,attack,500000.0,Career break,,,out,summer,Primeira Liga,2012,False,
+SC Olhanense,João Gonçalves,24,Portugal,Right-Back,RB,1100000.0,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Fernando Alexandre,26,Portugal,Defensive Midfield,DM,1000000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Mexer,23,Mozambique,Centre-Back,CB,900000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Wilson Eduardo,21,Angola,Left Winger,LW,1900000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Hugo Ventura,24,Portugal,Goalkeeper,GK,700000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,André Pinto,22,Portugal,Centre-Back,CB,1000000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Mateus Borges,28,Brazil,Attacking Midfield,AM,800000.0,Canedense,Brazil,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SC Olhanense,Tiago Terroso,25,Portugal,Defensive Midfield,DM,700000.0,Chornomorets,Ukraine,0.0,in,winter,Primeira Liga,2012,False,
+SC Olhanense,Lucas Souza,22,Brazil,Defensive Midfield,DM,,Paraná,Brazil,0.0,in,winter,Primeira Liga,2012,False,
+SC Olhanense,Thalles,21,Brazil,Centre-Forward,CF,,Palmeiras U20,Brazil,0.0,in,winter,Primeira Liga,2012,False,
+SC Olhanense,Pepe,24,Brazil,attack,attack,,Canoas Sport Club (RS),Brazil,,in,winter,Primeira Liga,2012,False,
+SC Olhanense,Djalmir,36,Brazil,attack,attack,,Career break,,,in,winter,Primeira Liga,2012,False,
+SC Olhanense,Vítor Vinha,26,Portugal,Left-Back,LB,400000.0,Gil Vicente,Portugal,0.0,out,winter,Primeira Liga,2012,False,
+SC Olhanense,Nuno Silva,26,Portugal,Right Winger,RW,350000.0,C.R.D. Libolo,Angola,,out,winter,Primeira Liga,2012,False,
+SL Benfica,Ola John,20,Netherlands,Left Winger,LW,2500000.0,Twente FC,Netherlands,12000000.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Eduardo Salvio,22,Argentina,Right Winger,RW,10000000.0,Atlético Madrid,Spain,11000000.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Lima,29,Brazil,Centre-Forward,CF,8000000.0,Braga,Portugal,4000000.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Victor Lindelöf,17,Sweden,Centre-Back,CB,,Västerås SK,Sweden,3060000.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Luisinho,27,Portugal,Left-Back,LB,700000.0,Paços Ferreira,Portugal,2000000.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Hugo Vieira,23,Portugal,Centre-Forward,CF,1800000.0,Gil Vicente,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Paulo Lopes,34,Portugal,Goalkeeper,GK,900000.0,Feirense,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+SL Benfica,Axel Witsel,23,Belgium,Defensive Midfield,DM,20000000.0,Zenit S-Pb,Russia,40000000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Javi García,25,Spain,Defensive Midfield,DM,15000000.0,Man City,England,20200000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Ishmael Yartey,22,Ghana,Left Winger,LW,1200000.0,FC Sochaux,France,2000000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Émerson Conceição,26,Brazil,Left-Back,LB,3500000.0,Trabzonspor,Turkey,1600000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Fellipe Bastos,22,Brazil,Central Midfield,CM,750000.0,Vasco da Gama,Brazil,1500000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Éder Luís,27,Brazil,Right Winger,RW,1750000.0,Vasco da Gama,Brazil,1500000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Daniel Wass,23,Denmark,Right-Back,RB,3000000.0,Évian,France,1200000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Nélson Oliveira,20,Portugal,Centre-Forward,CF,6000000.0,Dep. La Coruña,Spain,600000.0,out,summer,Primeira Liga,2012,True,loan with fee
+SL Benfica,Rodrigo Mora,24,Uruguay,Centre-Forward,CF,1000000.0,River Plate,Argentina,400000.0,out,summer,Primeira Liga,2012,True,loan with fee
+SL Benfica,Franco Jara,24,Argentina,Centre-Forward,CF,5000000.0,San Lorenzo,Argentina,375000.0,out,summer,Primeira Liga,2012,True,loan with fee
+SL Benfica,Joan Capdevila,34,Spain,Left-Back,LB,1500000.0,Espanyol,Spain,350000.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Felipe Menezes,24,Brazil,Attacking Midfield,AM,800000.0,Sport Recife,Brazil,100000.0,out,summer,Primeira Liga,2012,True,loan with fee
+SL Benfica,Nuno Coelho,24,Portugal,Centre-Back,CB,1500000.0,Aris Saloniki,Greece,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Hugo Vieira,24,Portugal,Centre-Forward,CF,3000000.0,Sporting Gijón,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Javier Saviola,30,Argentina,Centre-Forward,CF,6000000.0,Málaga CF,Spain,0.0,out,summer,Primeira Liga,2012,False,
+SL Benfica,Michel,26,Brazil,Centre-Forward,CF,3000000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Roderick Miranda,21,Portugal,Centre-Back,CB,750000.0,Dep. La Coruña,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,David Simão,22,Portugal,Central Midfield,CM,2000000.0,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Hélio Vaz,21,Portugal,Right Winger,RW,100000.0,Leiria,Portugal,,out,summer,Primeira Liga,2012,False,
+SL Benfica,Yannick Djaló,26,Portugal,Left Winger,LW,3300000.0,Toulouse,France,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,José Luis Fernández,24,Argentina,Central Midfield,CM,1300000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Da Silva,24,Brazil,Central Midfield,CM,200000.0,Ponte Preta,Brazil,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Djaniny,21,Cape Verde,Centre-Forward,CF,1000000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,Jan Oblak,19,Slovenia,Goalkeeper,GK,1100000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+SL Benfica,José Shaffer,27,Argentina,Left-Back,LB,1000000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+SL Benfica,Eduardo,29,Portugal,Goalkeeper,GK,4000000.0,Genoa,Italy,0.0,out,summer,Primeira Liga,2012,True,end of loan
+SL Benfica,Bruno César,24,Brazil,Attacking Midfield,AM,9000000.0,Ahli,Saudi Arabia,5000000.0,out,winter,Primeira Liga,2012,False,
+SL Benfica,Nolito,26,Spain,Left Winger,LW,9500000.0,Granada CF,Spain,600000.0,out,winter,Primeira Liga,2012,True,loan with fee
+SL Benfica,Airton,23,Brazil,Defensive Midfield,DM,1500000.0,Internacional,Brazil,300000.0,out,winter,Primeira Liga,2012,True,loan with fee
+SL Benfica,Hugo Vieira,24,Portugal,Centre-Forward,CF,2000000.0,Gil Vicente,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+SL Benfica,Da Silva,24,Brazil,Central Midfield,CM,150000.0,Osasco-SP,Brazil,0.0,out,winter,Primeira Liga,2012,True,free loan
+SL Benfica,José Luis Fernández,25,Argentina,Central Midfield,CM,1300000.0,Godoy Cruz,Argentina,0.0,out,winter,Primeira Liga,2012,True,free loan
+Sporting CP,Marcos Rojo,22,Argentina,Centre-Back,CB,2000000.0,Spartak Moscow,Russia,4000000.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Valentín Viola,20,Argentina,Left Winger,LW,1400000.0,Racing Club,Argentina,4000000.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Zakaria Labyad,19,Morocco,Attacking Midfield,AM,4000000.0,PSV Eindhoven,Netherlands,900000.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Khalid Boulahrouz,30,Netherlands,Centre-Back,CB,3000000.0,VfB Stuttgart,Germany,0.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Danijel Pranjic,30,Croatia,Left-Back,LB,2500000.0,FC Bayern,Germany,0.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Gelson Fernandes,25,Switzerland,Defensive Midfield,DM,3500000.0,Saint-Étienne,France,0.0,in,summer,Primeira Liga,2012,False,
+Sporting CP,Fabrice Fokobo,18,Cameroon,Defensive Midfield,DM,,Njalla Quan SA,Cameroon,,in,summer,Primeira Liga,2012,False,
+Sporting CP,João Pereira,28,Portugal,Right-Back,RB,10500000.0,Valencia,Spain,3700000.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Matías Fernández,26,Chile,Attacking Midfield,AM,7500000.0,Fiorentina,Italy,3140000.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Jaime Valdés,31,Chile,Central Midfield,CM,1800000.0,Parma,Italy,1800000.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Luis Aguiar,26,Uruguay,Central Midfield,CM,1100000.0,San Lorenzo,Argentina,400000.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Florent Sinama-Pongolle,27,France,Second Striker,SS,1500000.0,Rostov,Russia,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Valeri Bojinov,26,Bulgaria,Centre-Forward,CF,2500000.0,Hellas Verona,Italy,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Atila Turan,20,Turkey,Left-Back,LB,800000.0,Orduspor,Turkey,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Wilson Eduardo,22,Angola,Left Winger,LW,3200000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Alberto Rodríguez,28,Peru,Centre-Back,CB,3400000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Diogo Rosado,22,Portugal,Left Winger,LW,1000000.0,Blackburn,England,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,André Marques,24,Portugal,Left-Back,LB,800000.0,FC Sion,Switzerland,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,André Santos,23,Portugal,Defensive Midfield,DM,4300000.0,Dep. La Coruña,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Mexer,23,Mozambique,Centre-Back,CB,900000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Polga,33,Brazil,Centre-Back,CB,2500000.0,EC São José,Brazil,0.0,out,summer,Primeira Liga,2012,False,
+Sporting CP,Evaldo,30,Brazil,Left-Back,LB,2500000.0,Dep. La Coruña,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Oguchi Onyewu,30,United States,Centre-Back,CB,7000000.0,Málaga CF,Spain,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,João Gonçalves,24,Portugal,Right-Back,RB,1100000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Amido Baldé,21,Guinea-Bissau,Centre-Forward,CF,700000.0,Vit. Guimarães,Portugal,,out,summer,Primeira Liga,2012,False,
+Sporting CP,Leandro Grimi,27,Argentina,Left-Back,LB,1200000.0,Godoy Cruz,Argentina,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Renato Neto,20,Brazil,Defensive Midfield,DM,1500000.0,Videoton FC,Hungary,0.0,out,summer,Primeira Liga,2012,True,free loan
+Sporting CP,Tiago Ferreira,37,Portugal,Goalkeeper,GK,200000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+Sporting CP,Celsinho,23,Brazil,Attacking Midfield,AM,100000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Sporting CP,Ricardo Batista,25,Portugal,Goalkeeper,GK,500000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Sporting CP,Sebastián Ribas,24,Uruguay,Centre-Forward,CF,2400000.0,Genoa,Italy,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Sporting CP,Miguel Lopes,26,Portugal,Right-Back,RB,3600000.0,FC Porto,Portugal,1750000.0,in,winter,Primeira Liga,2012,False,
+Sporting CP,Hugo Ventura,25,Portugal,Goalkeeper,GK,500000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Sporting CP,Joãozinho,23,Portugal,Left-Back,LB,1500000.0,Beira-Mar,Portugal,0.0,in,winter,Primeira Liga,2012,True,free loan
+Sporting CP,Emiliano Insúa,24,Argentina,Left-Back,LB,10000000.0,Atlético Madrid,Spain,3500000.0,out,winter,Primeira Liga,2012,False,
+Sporting CP,Marat Izmailov,30,Russia,Central Midfield,CM,6000000.0,FC Porto,Portugal,1000000.0,out,winter,Primeira Liga,2012,False,
+Sporting CP,Daniel Carriço,24,Portugal,Centre-Back,CB,7000000.0,Reading,England,750000.0,out,winter,Primeira Liga,2012,False,
+Sporting CP,Elias,27,Brazil,Central Midfield,CM,8500000.0,Flamengo,Brazil,650000.0,out,winter,Primeira Liga,2012,True,loan with fee
+Sporting CP,Gelson Fernandes,26,Switzerland,Defensive Midfield,DM,3500000.0,FC Sion,Switzerland,300000.0,out,winter,Primeira Liga,2012,True,loan with fee
+Sporting CP,Danijel Pranjic,31,Croatia,Left-Back,LB,2500000.0,Celta de Vigo,Spain,0.0,out,winter,Primeira Liga,2012,True,free loan
+Sporting CP,Valeri Bojinov,26,Bulgaria,Centre-Forward,CF,2000000.0,Vicenza,Italy,0.0,out,winter,Primeira Liga,2012,True,free loan
+Sporting CP,Bruno Pereirinha,24,Portugal,Right Winger,RW,2300000.0,Lazio,Italy,0.0,out,winter,Primeira Liga,2012,False,
+Sporting CP,Renato Neto,21,Brazil,Defensive Midfield,DM,1500000.0,KAA Gent,Belgium,0.0,out,winter,Primeira Liga,2012,True,free loan
+Vitória Guimarães SC,Matej Delac,19,Croatia,Goalkeeper,GK,750000.0,Chelsea,England,0.0,in,summer,Primeira Liga,2012,True,free loan
+Vitória Guimarães SC,André André,22,Portugal,Central Midfield,CM,150000.0,Varzim,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Moreno,31,Portugal,Centre-Back,CB,1000000.0,Nacional,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,David Addy,22,Ghana,Left-Back,LB,750000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Milan Lalkovic,19,Slovakia,Left Winger,LW,,Chelsea,England,0.0,in,summer,Primeira Liga,2012,True,free loan
+Vitória Guimarães SC,Amido Baldé,21,Guinea-Bissau,Centre-Forward,CF,700000.0,Sporting CP,Portugal,,in,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,João Gonçalves,24,Portugal,Right-Back,RB,1100000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2012,True,free loan
+Vitória Guimarães SC,Bruno Teles,26,Brazil,Left-Back,LB,1700000.0,KS Samara,Russia,300000.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Emanuel Molina,25,Argentina,Attacking Midfield,AM,800000.0,Cúcuta Dep.,Colombia,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Nuno Assis,34,Portugal,Attacking Midfield,AM,600000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Anderson Mineiro,26,Brazil,Left-Back,LB,200000.0,Chornomorets,Ukraine,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Cláudio Ramos,20,Portugal,Goalkeeper,GK,100000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,João Paulo,31,Portugal,Centre-Back,CB,1900000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Filipe Sousa,20,Portugal,Right-Back,RB,,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Marcelo Resende,25,Portugal,Attacking Midfield,AM,150000.0,Milsami,Moldova,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Paulo Sérgio,28,Portugal,Attacking Midfield,AM,1100000.0,AEL Limassol,Cyprus,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Faouzi Abdelghani,27,Morocco,Left Winger,LW,1100000.0,Ittihad,Saudi Arabia,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Edgar Silva,25,Brazil,Centre-Forward,CF,3800000.0,Al-Shabab,United Arab Emirates,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,João Alves,31,Portugal,Central Midfield,CM,2000000.0,Omonia Nikosia,Cyprus,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Nilson,36,Brazil,Goalkeeper,GK,1300000.0,Persepolis,Iran,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Tiago Targino,26,Portugal,Right Winger,RW,1700000.0,Olhanense,Portugal,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Pedro Mendes,33,Portugal,Defensive Midfield,DM,3400000.0,Retired,,,out,summer,Primeira Liga,2012,False,
+Vitória Guimarães SC,Jonathan Urretaviscaya,22,Uruguay,Right Winger,RW,1500000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Vitória Guimarães SC,Jona,24,Honduras,Centre-Forward,CF,300000.0,Granada CF,Spain,0.0,in,winter,Primeira Liga,2012,True,free loan
+Vitória Guimarães SC,Marcelo Toscano,27,Brazil,Centre-Forward,CF,1500000.0,Figueirense FC,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Vitória Guimarães SC,Rodrigo Defendi,26,Brazil,Centre-Back,CB,800000.0,Botafogo,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Vitória Setúbal FC,Miguel Pedro,28,Portugal,Right Winger,RW,800000.0,Feirense,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Caleb Patterson-Sewell,25,United States,Goalkeeper,GK,350000.0,Atlético CP,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Bruno Turco,20,Brazil,Defensive Midfield,DM,,Macaé,Brazil,0.0,in,summer,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Danilo,23,Brazil,Defensive Midfield,DM,,Macaé,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Jorge Luiz,30,Brazil,Centre-Back,CB,,São Caetano,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Paulo Tavares,26,Portugal,Attacking Midfield,AM,400000.0,Leixões,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Nélson Pedroso,27,Portugal,Left-Back,LB,400000.0,Desportivo Aves,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Jorginho,24,Portugal,Right Winger,RW,200000.0,Aliados Lordelo,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Pedro Santos,24,Portugal,Right Winger,RW,300000.0,Leixões,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Cristiano,28,Brazil,Left Winger,LW,,Criciúma EC,Brazil,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Pawel Kieszek,28,Poland,Goalkeeper,GK,650000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Fonseca,27,Portugal,Goalkeeper,GK,200000.0,Leixões,Portugal,,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Bruninho,23,Portugal,Right Midfield,RM,,Padroense,Portugal,,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Pedro Queirós,27,Portugal,Right-Back,RB,800000.0,Feirense,Portugal,,in,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Cristiano,29,Brazil,Left Winger,LW,1000000.0,Nacional,Brazil,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Hugo Leal,32,Portugal,Central Midfield,CM,900000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Bruno Severino,26,Portugal,Right Winger,RW,600000.0,Torreense,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Miguelito,31,Portugal,Left-Back,LB,1200000.0,Apol. Limassol,Cyprus,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Neca,32,Portugal,Attacking Midfield,AM,1200000.0,Konyaspor,Turkey,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Gonçalo Graça,22,Portugal,Right Winger,RW,400000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Ricardo,36,Portugal,Goalkeeper,GK,300000.0,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Rafa Lopes,20,Portugal,Centre-Forward,CF,1200000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Bruno Lourenço,22,Portugal,Centre-Back,CB,,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Ricardo Dâmaso,21,Portugal,Defensive Midfield,DM,100000.0,Alcochentense,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Peixinho,19,Portugal,Defensive Midfield,DM,,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Jorge Gonçalves,28,Portugal,Right Winger,RW,1600000.0,Feirense,Portugal,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Matos,33,Portugal,Goalkeeper,GK,200000.0,Leixões,Portugal,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Tengarrinha,23,Portugal,Defensive Midfield,DM,800000.0,CSKA Sofia,Bulgaria,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Diego,33,Brazil,Goalkeeper,GK,1000000.0,FK Qabala,Azerbaijan,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Mamadou Djikiné,25,Mali,Defensive Midfield,DM,500000.0,Olympiakos N.,Cyprus,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Miguel Fidalgo,30,Portugal,Centre-Forward,CF,700000.0,Without Club,,,out,summer,Primeira Liga,2012,False,
+Vitória Setúbal FC,Tiago Targino,26,Portugal,Right Winger,RW,1700000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Vitória Setúbal FC,Alex Zahavi,21,Israel,Right Winger,RW,200000.0,Maccabi Haifa,Israel,0.0,out,summer,Primeira Liga,2012,True,end of loan
+Vitória Setúbal FC,Ariza Makukula,31,Portugal,Centre-Forward,CF,600000.0,Karsiyaka,Turkey,0.0,in,winter,Primeira Liga,2012,False,
+Vitória Setúbal FC,Sassá,24,Brazil,Left Winger,LW,400000.0,Volta Redonda,Brazil,0.0,out,winter,Primeira Liga,2012,False,
+Vitória Setúbal FC,Gonçalo Reyes,19,Portugal,Central Midfield,CM,400000.0,Casa Pia,Portugal,0.0,out,winter,Primeira Liga,2012,True,free loan
+Vitória Setúbal FC,Albert Meyong,32,Cameroon,Centre-Forward,CF,1500000.0,Kabuscorp SC,Angola,,out,winter,Primeira Liga,2012,False,

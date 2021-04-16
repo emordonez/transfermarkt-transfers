@@ -1,0 +1,470 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Thomas Partey,27,Ghana,Defensive Midfield,DM,40000000.0,Atlético Madrid,Spain,50000000.0,in,summer,Premier League,2020,False,
+Arsenal FC,Gabriel,22,Brazil,Centre-Back,CB,20000000.0,LOSC Lille,France,26000000.0,in,summer,Premier League,2020,False,
+Arsenal FC,Pablo Marí,26,Spain,Centre-Back,CB,4800000.0,Flamengo,Brazil,5000000.0,in,summer,Premier League,2020,False,
+Arsenal FC,Rúnar Alex Rúnarsson,25,Iceland,Goalkeeper,GK,1200000.0,Dijon,France,2000000.0,in,summer,Premier League,2020,False,
+Arsenal FC,Cédric Soares,28,Portugal,Right-Back,RB,8000000.0,Southampton,England,0.0,in,summer,Premier League,2020,False,
+Arsenal FC,Willian,32,Brazil,Right Winger,RW,22500000.0,Chelsea,England,0.0,in,summer,Premier League,2020,False,
+Arsenal FC,Emiliano Martínez,28,Argentina,Goalkeeper,GK,8000000.0,Aston Villa,England,17400000.0,out,summer,Premier League,2020,False,
+Arsenal FC,Mattéo Guendouzi,21,France,Central Midfield,CM,32000000.0,Hertha BSC,Germany,1000000.0,out,summer,Premier League,2020,True,loan with fee
+Arsenal FC,Konstantinos Mavropanos,22,Greece,Centre-Back,CB,2400000.0,VfB Stuttgart,Germany,250000.0,out,summer,Premier League,2020,True,loan with fee
+Arsenal FC,Henrikh Mkhitaryan,31,Armenia,Attacking Midfield,AM,20000000.0,AS Roma,Italy,0.0,out,summer,Premier League,2020,False,
+Arsenal FC,Lucas Torreira,24,Uruguay,Defensive Midfield,DM,30000000.0,Atlético Madrid,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Arsenal FC,Dejan Iliev,25,North Macedonia,Goalkeeper,GK,300000.0,Shrewsbury,England,0.0,out,summer,Premier League,2020,True,free loan
+Arsenal FC,Pablo Marí,26,Spain,Centre-Back,CB,4800000.0,Flamengo,Brazil,0.0,out,summer,Premier League,2020,True,end of loan
+Arsenal FC,Cédric Soares,28,Portugal,Right-Back,RB,8000000.0,Southampton,England,0.0,out,summer,Premier League,2020,True,end of loan
+Arsenal FC,Martin Ødegaard,22,Norway,Attacking Midfield,AM,40000000.0,Real Madrid,Spain,2000000.0,in,winter,Premier League,2020,True,loan with fee
+Arsenal FC,Mathew Ryan,28,Australia,Goalkeeper,GK,8000000.0,Brighton,England,0.0,in,winter,Premier League,2020,True,free loan
+Arsenal FC,Sead Kolasinac,27,Bosnia-Herzegovina,Left-Back,LB,8000000.0,FC Schalke 04,Germany,0.0,out,winter,Premier League,2020,True,free loan
+Arsenal FC,Matt Macey,26,England,Goalkeeper,GK,250000.0,Hibernian FC,Scotland,0.0,out,winter,Premier League,2020,False,
+Arsenal FC,Sokratis Papastathopoulos,32,Greece,Centre-Back,CB,4000000.0,Olympiacos,Greece,0.0,out,winter,Premier League,2020,False,
+Arsenal FC,Mesut Özil,32,Germany,Attacking Midfield,AM,5000000.0,Fenerbahce,Turkey,0.0,out,winter,Premier League,2020,False,
+Arsenal FC,Shkodran Mustafi,28,Germany,Centre-Back,CB,12000000.0,FC Schalke 04,Germany,0.0,out,winter,Premier League,2020,False,
+Arsenal FC,William Saliba,19,France,Centre-Back,CB,17000000.0,OGC Nice,France,0.0,out,winter,Premier League,2020,True,free loan
+Arsenal FC,Ainsley Maitland-Niles,23,England,Right Midfield,RM,18000000.0,West Brom,England,0.0,out,winter,Premier League,2020,True,free loan
+Arsenal FC,Joe Willock,21,England,Central Midfield,CM,16000000.0,Newcastle,England,0.0,out,winter,Premier League,2020,True,free loan
+Aston Villa,Ollie Watkins,24,England,Centre-Forward,CF,12000000.0,Brentford,England,30800000.0,in,summer,Premier League,2020,False,
+Aston Villa,Bertrand Traoré,25,Burkina Faso,Right Winger,RW,9500000.0,Olympique Lyon,France,18400000.0,in,summer,Premier League,2020,False,
+Aston Villa,Emiliano Martínez,28,Argentina,Goalkeeper,GK,8000000.0,Arsenal,England,17400000.0,in,summer,Premier League,2020,False,
+Aston Villa,Matty Cash,23,England,Right-Back,RB,4800000.0,Nottm Forest,England,15750000.0,in,summer,Premier League,2020,False,
+Aston Villa,Ross Barkley,26,England,Central Midfield,CM,21500000.0,Chelsea,England,0.0,in,summer,Premier League,2020,True,free loan
+Aston Villa,Scott Hogan,28,Ireland,Centre-Forward,CF,3200000.0,Birmingham,England,2770000.0,out,summer,Premier League,2020,False,
+Aston Villa,Rushian Hepburn-Murphy,21,England,Centre-Forward,CF,900000.0,Pafos FC,Cyprus,0.0,out,summer,Premier League,2020,False,
+Aston Villa,Matija Sarkic,23,Montenegro,Goalkeeper,GK,100000.0,Wolves,England,0.0,out,summer,Premier League,2020,False,
+Aston Villa,James Chester,31,Wales,Centre-Back,CB,2400000.0,Stoke City,England,0.0,out,summer,Premier League,2020,False,
+Aston Villa,Borja Bastón,28,Spain,Centre-Forward,CF,3200000.0,CD Leganés,Spain,0.0,out,summer,Premier League,2020,False,
+Aston Villa,Jota Peleteiro,29,Spain,Right Winger,RW,3500000.0,Alavés,Spain,0.0,out,summer,Premier League,2020,False,
+Aston Villa,James Bree,22,England,Right-Back,RB,1200000.0,Luton,England,,out,summer,Premier League,2020,False,
+Aston Villa,Mbwana Samatta,27,Tanzania,Centre-Forward,CF,9500000.0,Fenerbahce,Turkey,0.0,out,summer,Premier League,2020,True,free loan
+Aston Villa,Andre Green,22,England,Left Winger,LW,1800000.0,Without Club,,,out,summer,Premier League,2020,False,
+Aston Villa,Örjan Nyland,30,Norway,Goalkeeper,GK,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Aston Villa,Danny Drinkwater,30,England,Central Midfield,CM,4800000.0,Chelsea,England,0.0,out,summer,Premier League,2020,True,end of loan
+Aston Villa,Pepe Reina,37,Spain,Goalkeeper,GK,650000.0,AC Milan,Italy,0.0,out,summer,Premier League,2020,True,end of loan
+Aston Villa,Morgan Sanson,26,France,Central Midfield,CM,20000000.0,Marseille,France,15800000.0,in,winter,Premier League,2020,False,
+Aston Villa,Henri Lansbury,30,England,Central Midfield,CM,1200000.0,Bristol City,England,0.0,out,winter,Premier League,2020,False,
+Aston Villa,Lovre Kalinic,30,Croatia,Goalkeeper,GK,2800000.0,Hajduk Split,Croatia,0.0,out,winter,Premier League,2020,True,free loan
+Aston Villa,Conor Hourihane,29,Ireland,Central Midfield,CM,6000000.0,Swansea,England,0.0,out,winter,Premier League,2020,True,free loan
+Aston Villa,Frédéric Guilbert,26,France,Right-Back,RB,5000000.0,R. Strasbourg,France,0.0,out,winter,Premier League,2020,True,free loan
+Brighton & Hove Albion,Jakub Moder,21,Poland,Central Midfield,CM,3000000.0,Lech Poznan,Poland,11000000.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Michal Karbownik,19,Poland,Left-Back,LB,6000000.0,Legia Warszawa,Poland,5500000.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Andi Zeqiri,21,Switzerland,Centre-Forward,CF,1500000.0,Lausanne-Sport,Switzerland,4000000.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Jan Paul van Hecke,20,Netherlands,Centre-Back,CB,1800000.0,NAC Breda,Netherlands,2000000.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Joël Veltman,28,Netherlands,Centre-Back,CB,8000000.0,Ajax,Netherlands,1000000.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Adam Lallana,32,England,Attacking Midfield,AM,9500000.0,Liverpool,England,0.0,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Danny Welbeck,29,England,Centre-Forward,CF,5500000.0,Without Club,,,in,summer,Premier League,2020,False,
+Brighton & Hove Albion,Anthony Knockaert,28,France,Right Winger,RW,6500000.0,Fulham,England,11700000.0,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Aaron Mooy,29,Australia,Central Midfield,CM,9500000.0,SH Port,China,4500000.0,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Shane Duffy,28,Ireland,Centre-Back,CB,9500000.0,Celtic,Scotland,2200000.0,out,summer,Premier League,2020,True,loan with fee
+Brighton & Hove Albion,Dale Stephens,31,England,Central Midfield,CM,4800000.0,Burnley,England,1100000.0,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,David Button,31,England,Goalkeeper,GK,1200000.0,West Brom,England,1100000.0,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Percy Tau,26,South Africa,Attacking Midfield,AM,4000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Jakub Moder,21,Poland,Central Midfield,CM,3000000.0,Lech Poznan,Poland,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Michal Karbownik,19,Poland,Left-Back,LB,6000000.0,Legia Warszawa,Poland,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Martín Montoya,29,Spain,Right-Back,RB,6500000.0,Real Betis,Spain,0.0,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Viktor Gyökeres,22,Sweden,Centre-Forward,CF,1000000.0,Swansea,England,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Jan Paul van Hecke,20,Netherlands,Centre-Back,CB,1800000.0,Heerenveen,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Glenn Murray,36,England,Centre-Forward,CF,1600000.0,Watford,England,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Leo Östigard,20,Norway,Centre-Back,CB,2500000.0,Coventry,England,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Matt Clarke,23,England,Centre-Back,CB,2000000.0,Derby,England,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Jan Mlakar,21,Slovenia,Centre-Forward,CF,1800000.0,NK Maribor,Slovenia,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Tudor Baluta,21,Romania,Defensive Midfield,DM,3600000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Premier League,2020,True,free loan
+Brighton & Hove Albion,Beram Kayal,32,Israel,Central Midfield,CM,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Ezequiel Schelotto,31,Italy,Right-Back,RB,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Brighton & Hove Albion,Moisés Caicedo,19,Ecuador,Central Midfield,CM,5000000.0,Independiente,Ecuador,5000000.0,in,winter,Premier League,2020,False,
+Brighton & Hove Albion,Glenn Murray,37,England,Centre-Forward,CF,1000000.0,Nottm Forest,England,0.0,out,winter,Premier League,2020,False,
+Brighton & Hove Albion,Jayson Molumby,21,Ireland,Central Midfield,CM,900000.0,Preston,England,0.0,out,winter,Premier League,2020,True,free loan
+Brighton & Hove Albion,Viktor Gyökeres,22,Sweden,Centre-Forward,CF,1000000.0,Coventry,England,0.0,out,winter,Premier League,2020,True,free loan
+Brighton & Hove Albion,Bernardo,25,Brazil,Left-Back,LB,4800000.0,RB Salzburg,Austria,0.0,out,winter,Premier League,2020,True,free loan
+Brighton & Hove Albion,Mathew Ryan,28,Australia,Goalkeeper,GK,8000000.0,Arsenal,England,0.0,out,winter,Premier League,2020,True,free loan
+Burnley FC,Dale Stephens,31,England,Central Midfield,CM,4800000.0,Brighton,England,1100000.0,in,summer,Premier League,2020,False,
+Burnley FC,Will Norris,27,England,Goalkeeper,GK,250000.0,Wolves,England,,in,summer,Premier League,2020,False,
+Burnley FC,Jeff Hendrick,28,Ireland,Central Midfield,CM,9000000.0,Newcastle,England,0.0,out,summer,Premier League,2020,False,
+Burnley FC,Joe Hart,33,England,Goalkeeper,GK,2400000.0,Spurs,England,0.0,out,summer,Premier League,2020,False,
+Burnley FC,Aaron Lennon,33,England,Right Winger,RW,2400000.0,Kayserispor,Turkey,0.0,out,summer,Premier League,2020,False,
+Burnley FC,Aiden O'Neill,22,Australia,Central Midfield,CM,500000.0,Melbourne City,Australia,0.0,out,summer,Premier League,2020,False,
+Burnley FC,Ben Gibson,27,England,Centre-Back,CB,4500000.0,Norwich,England,0.0,out,summer,Premier League,2020,True,free loan
+Burnley FC,Adam Legzdins,33,England,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Premier League,2020,False,
+Burnley FC,Richard Nartey,22,England,Centre-Back,CB,,Without Club,,,in,winter,Premier League,2020,False,
+Burnley FC,Lukas Jensen,21,Denmark,Goalkeeper,GK,25000.0,Bolton,England,0.0,out,winter,Premier League,2020,True,free loan
+Chelsea FC,Kai Havertz,21,Germany,Attacking Midfield,AM,81000000.0,Bay. Leverkusen,Germany,80000000.0,in,summer,Premier League,2020,False,
+Chelsea FC,Timo Werner,24,Germany,Centre-Forward,CF,64000000.0,RB Leipzig,Germany,53000000.0,in,summer,Premier League,2020,False,
+Chelsea FC,Ben Chilwell,23,England,Left-Back,LB,40000000.0,Leicester,England,50200000.0,in,summer,Premier League,2020,False,
+Chelsea FC,Hakim Ziyech,27,Morocco,Right Winger,RW,40000000.0,Ajax,Netherlands,40000000.0,in,summer,Premier League,2020,False,
+Chelsea FC,Edouard Mendy,28,Senegal,Goalkeeper,GK,7000000.0,Stade Rennais,France,24000000.0,in,summer,Premier League,2020,False,
+Chelsea FC,Malang Sarr,21,France,Centre-Back,CB,16000000.0,OGC Nice,France,0.0,in,summer,Premier League,2020,False,
+Chelsea FC,Thiago Silva,35,Brazil,Centre-Back,CB,4800000.0,Paris SG,France,0.0,in,summer,Premier League,2020,False,
+Chelsea FC,Álvaro Morata,27,Spain,Centre-Forward,CF,36000000.0,Atlético Madrid,Spain,35000000.0,out,summer,Premier League,2020,False,
+Chelsea FC,Mario Pasalic,25,Croatia,Central Midfield,CM,25000000.0,Atalanta BC,Italy,15000000.0,out,summer,Premier League,2020,False,
+Chelsea FC,Nathan,24,Brazil,Attacking Midfield,AM,800000.0,Atlético-MG,Brazil,3000000.0,out,summer,Premier League,2020,False,
+Chelsea FC,Malang Sarr,21,France,Centre-Back,CB,16000000.0,FC Porto,Portugal,2000000.0,out,summer,Premier League,2020,True,loan with fee
+Chelsea FC,Tiemoué Bakayoko,26,France,Defensive Midfield,DM,25500000.0,SSC Napoli,Italy,2000000.0,out,summer,Premier League,2020,True,loan with fee
+Chelsea FC,Victor Moses,29,Nigeria,Right Midfield,RM,6000000.0,Spartak Moscow,Russia,300000.0,out,summer,Premier League,2020,True,loan with fee
+Chelsea FC,Lewis Baker,25,England,Central Midfield,CM,2800000.0,Trabzonspor,Turkey,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Matt Miazga,25,United States,Centre-Back,CB,2000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Davide Zappacosta,28,Italy,Right Midfield,RM,10000000.0,Genoa,Italy,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Pedro,33,Spain,Right Winger,RW,9500000.0,AS Roma,Italy,0.0,out,summer,Premier League,2020,False,
+Chelsea FC,Willian,32,Brazil,Right Winger,RW,22500000.0,Arsenal,England,0.0,out,summer,Premier League,2020,False,
+Chelsea FC,Danilo Pantic,23,Serbia,Attacking Midfield,AM,1400000.0,Cukaricki,Serbia,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Kenedy,24,Brazil,Left Winger,LW,9500000.0,Granada CF,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Michy Batshuayi,26,Belgium,Centre-Forward,CF,14000000.0,Crystal Palace,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Ethan Ampadu,19,Wales,Centre-Back,CB,9000000.0,Sheff Utd,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Ross Barkley,26,England,Central Midfield,CM,21500000.0,Aston Villa,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Jamal Blackman,26,England,Goalkeeper,GK,400000.0,Rotherham,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Jamie Cumming,20,England,Goalkeeper,GK,450000.0,Stevenage,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Ruben Loftus-Cheek,24,England,Central Midfield,CM,24000000.0,Fulham,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Nathan Baxter,21,England,Goalkeeper,GK,75000.0,Accrington,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Jake Clarke-Salter,23,England,Centre-Back,CB,2800000.0,Birmingham,England,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Marco van Ginkel,27,Netherlands,Central Midfield,CM,3200000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Chelsea FC,Fikayo Tomori,23,England,Centre-Back,CB,17000000.0,AC Milan,Italy,2000000.0,out,winter,Premier League,2020,True,loan with fee
+Chelsea FC,Lucas Piazon,26,Brazil,Right Winger,RW,900000.0,Braga,Portugal,0.0,out,winter,Premier League,2020,False,
+Chelsea FC,Abdul Rahman Baba,26,Ghana,Left-Back,LB,2400000.0,PAOK Salonika,Greece,0.0,out,winter,Premier League,2020,True,free loan
+Chelsea FC,Danny Drinkwater,30,England,Central Midfield,CM,4000000.0,Kasimpasa,Turkey,0.0,out,winter,Premier League,2020,True,free loan
+Crystal Palace,Eberechi Eze,22,England,Attacking Midfield,AM,9000000.0,QPR,England,17800000.0,in,summer,Premier League,2020,False,
+Crystal Palace,Jack Butland,27,England,Goalkeeper,GK,3500000.0,Stoke City,England,1100000.0,in,summer,Premier League,2020,False,
+Crystal Palace,Nathan Ferguson,19,England,Centre-Back,CB,4000000.0,West Brom,England,0.0,in,summer,Premier League,2020,False,
+Crystal Palace,Nathaniel Clyne,29,England,Right-Back,RB,8000000.0,Liverpool,England,0.0,in,summer,Premier League,2020,False,
+Crystal Palace,Michy Batshuayi,26,Belgium,Centre-Forward,CF,14000000.0,Chelsea,England,0.0,in,summer,Premier League,2020,True,free loan
+Crystal Palace,Alexander Sörloth,24,Norway,Centre-Forward,CF,20000000.0,RB Leipzig,Germany,20000000.0,out,summer,Premier League,2020,False,
+Crystal Palace,Jaroslaw Jach,26,Poland,Centre-Back,CB,525000.0,Fortuna Sittard,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Crystal Palace,Ryan Inniss,25,England,Centre-Back,CB,150000.0,Charlton,England,,out,summer,Premier League,2020,False,
+Crystal Palace,Jean-Philippe Mateta,23,France,Centre-Forward,CF,15000000.0,1.FSV Mainz 05,Germany,3500000.0,in,winter,Premier League,2020,True,loan with fee
+Crystal Palace,Max Meyer,25,Germany,Attacking Midfield,AM,3000000.0,1. FC Köln,Germany,0.0,out,winter,Premier League,2020,False,
+Crystal Palace,Jaroslaw Jach,26,Poland,Centre-Back,CB,525000.0,Rakow,Poland,0.0,out,winter,Premier League,2020,True,free loan
+Crystal Palace,Sam Woods,22,England,Centre-Back,CB,75000.0,Plymouth,England,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Ben Godfrey,22,England,Centre-Back,CB,16000000.0,Norwich,England,27500000.0,in,summer,Premier League,2020,False,
+Everton FC,Allan,29,Brazil,Central Midfield,CM,28000000.0,SSC Napoli,Italy,25000000.0,in,summer,Premier League,2020,False,
+Everton FC,Abdoulaye Doucouré,27,France,Central Midfield,CM,20000000.0,Watford,England,22100000.0,in,summer,Premier League,2020,False,
+Everton FC,Niels Nkounkou,19,France,Left-Back,LB,,Marseille B,France,270000.0,in,summer,Premier League,2020,False,
+Everton FC,James Rodríguez,29,Colombia,Attacking Midfield,AM,32000000.0,Real Madrid,Spain,0.0,in,summer,Premier League,2020,False,
+Everton FC,Robin Olsen,30,Sweden,Goalkeeper,GK,5000000.0,AS Roma,Italy,0.0,in,summer,Premier League,2020,True,free loan
+Everton FC,Morgan Schneiderlin,30,France,Defensive Midfield,DM,9500000.0,OGC Nice,France,2230000.0,out,summer,Premier League,2020,False,
+Everton FC,Kieran Dowell,22,England,Attacking Midfield,AM,2000000.0,Norwich,England,2200000.0,out,summer,Premier League,2020,False,
+Everton FC,Maarten Stekelenburg,37,Netherlands,Goalkeeper,GK,550000.0,Ajax,Netherlands,0.0,out,summer,Premier League,2020,False,
+Everton FC,Luke Garbutt,27,England,Left-Back,LB,600000.0,Blackpool,England,0.0,out,summer,Premier League,2020,False,
+Everton FC,Sandro Ramírez,25,Spain,Centre-Forward,CF,3200000.0,SD Huesca,Spain,0.0,out,summer,Premier League,2020,False,
+Everton FC,Moise Kean,20,Italy,Centre-Forward,CF,25000000.0,Paris SG,France,0.0,out,summer,Premier League,2020,True,free loan
+Everton FC,Theo Walcott,31,England,Right Winger,RW,12000000.0,Southampton,England,0.0,out,summer,Premier League,2020,True,free loan
+Everton FC,Oumar Niasse,30,Senegal,Centre-Forward,CF,3200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Everton FC,Cuco Martina,30,Curacao,Right-Back,RB,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Everton FC,Leighton Baines,35,England,Left-Back,LB,1600000.0,Retired,,,out,summer,Premier League,2020,False,
+Everton FC,Shani Tarashaj,25,Switzerland,Second Striker,SS,300000.0,Without Club,,,out,summer,Premier League,2020,False,
+Everton FC,Djibril Sidibé,28,France,Right-Back,RB,9500000.0,Monaco,France,0.0,out,summer,Premier League,2020,True,end of loan
+Everton FC,Joshua King,29,Norway,Second Striker,SS,11000000.0,Bournemouth,England,,in,winter,Premier League,2020,False,
+Everton FC,Matthew Pennington,26,England,Centre-Back,CB,800000.0,Shrewsbury,England,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Jarrad Branthwaite,18,England,Centre-Back,CB,2000000.0,Blackburn,England,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Yannick Bolasie,31,DR Congo,Left Winger,LW,3500000.0,Middlesbrough,England,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Cenk Tosun,29,Turkey,Centre-Forward,CF,7000000.0,Besiktas,Turkey,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Jonas Lössl,32,Denmark,Goalkeeper,GK,3000000.0,FC Midtjylland,Denmark,,out,winter,Premier League,2020,False,
+Everton FC,Jonjoe Kenny,23,England,Right-Back,RB,7000000.0,Celtic,Scotland,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Anthony Gordon,19,England,Left Winger,LW,5000000.0,Preston,England,0.0,out,winter,Premier League,2020,True,free loan
+Everton FC,Beni Baningime,22,DR Congo,Central Midfield,CM,1300000.0,Derby,England,0.0,out,winter,Premier League,2020,True,free loan
+Fulham FC,Anthony Knockaert,28,France,Right Winger,RW,6500000.0,Brighton,England,11700000.0,in,summer,Premier League,2020,False,
+Fulham FC,Harrison Reed,25,England,Central Midfield,CM,2400000.0,Southampton,England,6500000.0,in,summer,Premier League,2020,False,
+Fulham FC,Terence Kongolo,26,Netherlands,Centre-Back,CB,6500000.0,Huddersfield,England,4400000.0,in,summer,Premier League,2020,False,
+Fulham FC,Kenny Tete,24,Netherlands,Right-Back,RB,5500000.0,Olympique Lyon,France,3200000.0,in,summer,Premier League,2020,False,
+Fulham FC,Ola Aina,23,Nigeria,Right-Back,RB,7000000.0,Torino,Italy,2500000.0,in,summer,Premier League,2020,True,loan with fee
+Fulham FC,Mario Lemina,26,Gabon,Defensive Midfield,DM,10000000.0,Southampton,England,2200000.0,in,summer,Premier League,2020,True,loan with fee
+Fulham FC,Antonee Robinson,23,United States,Left-Back,LB,3500000.0,Wigan,England,2100000.0,in,summer,Premier League,2020,False,
+Fulham FC,Ademola Lookman,22,England,Left Winger,LW,10000000.0,RB Leipzig,Germany,2000000.0,in,summer,Premier League,2020,True,loan with fee
+Fulham FC,Tosin Adarabioyo,23,England,Centre-Back,CB,2800000.0,Man City,England,1650000.0,in,summer,Premier League,2020,False,
+Fulham FC,Joachim Andersen,24,Denmark,Centre-Back,CB,16000000.0,Olympique Lyon,France,1000000.0,in,summer,Premier League,2020,True,loan with fee
+Fulham FC,Alphonse Areola,27,France,Goalkeeper,GK,13000000.0,Paris SG,France,0.0,in,summer,Premier League,2020,True,free loan
+Fulham FC,Ruben Loftus-Cheek,24,England,Central Midfield,CM,24000000.0,Chelsea,England,0.0,in,summer,Premier League,2020,True,free loan
+Fulham FC,Luca de la Torre,22,United States,Central Midfield,CM,450000.0,Heracles Almelo,Netherlands,0.0,out,summer,Premier League,2020,False,
+Fulham FC,Magnus Norman,23,England,Goalkeeper,GK,250000.0,Carlisle United,England,0.0,out,summer,Premier League,2020,False,
+Fulham FC,Jordan Archer,27,Scotland,Goalkeeper,GK,400000.0,Motherwell FC,Scotland,0.0,out,summer,Premier League,2020,False,
+Fulham FC,Alfie Mawson,26,England,Centre-Back,CB,7000000.0,Bristol City,England,0.0,out,summer,Premier League,2020,True,free loan
+Fulham FC,Steven Sessegnon,20,England,Right-Back,RB,2300000.0,Bristol City,England,0.0,out,summer,Premier League,2020,True,free loan
+Fulham FC,Marcus Bettinelli,28,England,Goalkeeper,GK,1600000.0,Middlesbrough,England,0.0,out,summer,Premier League,2020,True,free loan
+Fulham FC,Cyrus Christie,27,Ireland,Right-Back,RB,1600000.0,Nottm Forest,England,0.0,out,summer,Premier League,2020,True,free loan
+Fulham FC,Anthony Knockaert,28,France,Right Winger,RW,5000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2020,True,free loan
+Fulham FC,Matt O'Riley,19,England,Central Midfield,CM,450000.0,Without Club,,,out,summer,Premier League,2020,False,
+Fulham FC,Anthony Knockaert,28,France,Right Winger,RW,6500000.0,Brighton,England,0.0,out,summer,Premier League,2020,True,end of loan
+Fulham FC,Harry Arter,30,Ireland,Central Midfield,CM,3500000.0,Bournemouth,England,0.0,out,summer,Premier League,2020,True,end of loan
+Fulham FC,Harrison Reed,25,England,Central Midfield,CM,2400000.0,Southampton,England,0.0,out,summer,Premier League,2020,True,end of loan
+Fulham FC,Terence Kongolo,26,Netherlands,Centre-Back,CB,8000000.0,Huddersfield,England,0.0,out,summer,Premier League,2020,True,end of loan
+Fulham FC,Josh Maja,22,Nigeria,Centre-Forward,CF,6500000.0,G. Bordeaux,France,0.0,in,winter,Premier League,2020,True,free loan
+Fulham FC,Jean Michaël Seri,29,Cote d'Ivoire,Central Midfield,CM,5000000.0,G. Bordeaux,France,0.0,out,winter,Premier League,2020,True,free loan
+Fulham FC,Stefan Johansen,30,Norway,Central Midfield,CM,2000000.0,QPR,England,0.0,out,winter,Premier League,2020,True,free loan
+Fulham FC,Aboubakar Kamara,25,Mauritania,Centre-Forward,CF,2000000.0,Dijon,France,0.0,out,winter,Premier League,2020,True,free loan
+Fulham FC,Maxime Le Marchand,31,France,Centre-Back,CB,1600000.0,Royal Antwerp,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+Fulham FC,Neeskens Kebano,28,DR Congo,Attacking Midfield,AM,1200000.0,Middlesbrough,England,0.0,out,winter,Premier League,2020,True,free loan
+Leeds United,Rodrigo,29,Spain,Centre-Forward,CF,40000000.0,Valencia,Spain,30000000.0,in,summer,Premier League,2020,False,
+Leeds United,Diego Llorente,27,Spain,Centre-Back,CB,20000000.0,Real Sociedad,Spain,20000000.0,in,summer,Premier League,2020,False,
+Leeds United,Raphinha,23,Brazil,Right Winger,RW,16000000.0,Stade Rennais,France,18580000.0,in,summer,Premier League,2020,False,
+Leeds United,Hélder Costa,26,Angola,Right Winger,RW,8000000.0,Wolves,England,17700000.0,in,summer,Premier League,2020,False,
+Leeds United,Robin Koch,24,Germany,Centre-Back,CB,17000000.0,SC Freiburg,Germany,13000000.0,in,summer,Premier League,2020,False,
+Leeds United,Illan Meslier,20,France,Goalkeeper,GK,4500000.0,FC Lorient,France,6500000.0,in,summer,Premier League,2020,False,
+Leeds United,Joe Gelhardt,18,England,Centre-Forward,CF,1300000.0,Wigan,England,1000000.0,in,summer,Premier League,2020,False,
+Leeds United,Jack Harrison,23,England,Left Winger,LW,5200000.0,Man City,England,0.0,in,summer,Premier League,2020,True,free loan
+Leeds United,Laurens De Bock,27,Belgium,Left-Back,LB,550000.0,Zulte Waregem,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Leeds United,Jordan Stevens,20,England,Right Midfield,RM,200000.0,Swindon Town,England,0.0,out,summer,Premier League,2020,True,free loan
+Leeds United,Robbie Gotts,20,England,Right-Back,RB,250000.0,Lincoln City,England,0.0,out,summer,Premier League,2020,True,free loan
+Leeds United,Barry Douglas,31,Scotland,Left-Back,LB,2000000.0,Blackburn,England,0.0,out,summer,Premier League,2020,True,free loan
+Leeds United,Kamil Miazek,23,Poland,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Premier League,2020,False,
+Leeds United,Will Huffer,21,England,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Premier League,2020,False,
+Leeds United,Mateusz Bogusz,19,Poland,Central Midfield,CM,100000.0,UD Logroñés,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Leeds United,Ben White,22,England,Centre-Back,CB,5500000.0,Brighton,England,0.0,out,summer,Premier League,2020,True,end of loan
+Leeds United,Hélder Costa,26,Angola,Right Winger,RW,8000000.0,Wolves,England,0.0,out,summer,Premier League,2020,True,end of loan
+Leeds United,Jean-Kévin Augustin,23,France,Centre-Forward,CF,9500000.0,RB Leipzig,Germany,0.0,out,summer,Premier League,2020,True,end of loan
+Leeds United,Conor Shaughnessy,24,Ireland,Defensive Midfield,DM,250000.0,Rochdale,England,0.0,out,winter,Premier League,2020,False,
+Leeds United,Jay-Roy Grot,22,Netherlands,Centre-Forward,CF,800000.0,VfL Osnabrück,Germany,0.0,out,winter,Premier League,2020,False,
+Leeds United,Jordan Stevens,20,England,Right Midfield,RM,200000.0,Bradford,England,0.0,out,winter,Premier League,2020,True,free loan
+Leeds United,Robbie Gotts,21,England,Right-Back,RB,250000.0,Salford,England,0.0,out,winter,Premier League,2020,True,free loan
+Leicester City,Wesley Fofana,19,France,Centre-Back,CB,10000000.0,Saint-Étienne,France,35000000.0,in,summer,Premier League,2020,False,
+Leicester City,Timothy Castagne,24,Belgium,Right-Back,RB,18000000.0,Atalanta BC,Italy,24000000.0,in,summer,Premier League,2020,False,
+Leicester City,Cengiz Ünder,23,Turkey,Right Winger,RW,23000000.0,AS Roma,Italy,3000000.0,in,summer,Premier League,2020,True,loan with fee
+Leicester City,Ben Chilwell,23,England,Left-Back,LB,40000000.0,Chelsea,England,50200000.0,out,summer,Premier League,2020,False,
+Leicester City,Fousseni Diabaté,24,Mali,Right Winger,RW,2200000.0,Trabzonspor,Turkey,1570000.0,out,summer,Premier League,2020,False,
+Leicester City,George Thomas,23,Wales,Attacking Midfield,AM,250000.0,QPR,England,0.0,out,summer,Premier League,2020,False,
+Leicester City,Bartosz Kapustka,23,Poland,Attacking Midfield,AM,1200000.0,Legia Warszawa,Poland,0.0,out,summer,Premier League,2020,False,
+Leicester City,Adrien Silva,31,Portugal,Central Midfield,CM,8000000.0,Sampdoria,Italy,0.0,out,summer,Premier League,2020,False,
+Leicester City,Sam Hughes,23,England,Centre-Back,CB,,Burton Albion,England,0.0,out,summer,Premier League,2020,True,free loan
+Leicester City,Rachid Ghezzal,28,Algeria,Right Winger,RW,5500000.0,Besiktas,Turkey,0.0,out,summer,Premier League,2020,True,free loan
+Leicester City,Matty James,29,England,Central Midfield,CM,1200000.0,Barnsley FC,England,0.0,out,summer,Premier League,2020,True,free loan
+Leicester City,Filip Benkovic,23,Croatia,Centre-Back,CB,7000000.0,Cardiff,England,0.0,out,summer,Premier League,2020,True,free loan
+Leicester City,Andy King,31,Wales,Central Midfield,CM,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Leicester City,Ryan Bennett,30,England,Centre-Back,CB,4000000.0,Wolves,England,0.0,out,summer,Premier League,2020,True,end of loan
+Leicester City,Demarai Gray,24,England,Left Winger,LW,12000000.0,Bay. Leverkusen,Germany,2000000.0,out,winter,Premier League,2020,False,
+Leicester City,Islam Slimani,32,Algeria,Centre-Forward,CF,5000000.0,Olympique Lyon,France,0.0,out,winter,Premier League,2020,False,
+Leicester City,Matty James,29,England,Central Midfield,CM,1200000.0,Coventry,England,0.0,out,winter,Premier League,2020,True,free loan
+Leicester City,Filip Benkovic,23,Croatia,Centre-Back,CB,5000000.0,OH Leuven,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+Liverpool FC,Diogo Jota,23,Portugal,Left Winger,LW,28000000.0,Wolves,England,44700000.0,in,summer,Premier League,2020,False,
+Liverpool FC,Thiago,29,Spain,Central Midfield,CM,48000000.0,FC Bayern,Germany,22000000.0,in,summer,Premier League,2020,False,
+Liverpool FC,Konstantinos Tsimikas,24,Greece,Left-Back,LB,9000000.0,Olympiacos,Greece,13000000.0,in,summer,Premier League,2020,False,
+Liverpool FC,Rhian Brewster,20,England,Centre-Forward,CF,5400000.0,Sheff Utd,England,26000000.0,out,summer,Premier League,2020,False,
+Liverpool FC,Dejan Lovren,31,Croatia,Centre-Back,CB,12000000.0,Zenit S-Pb,Russia,12000000.0,out,summer,Premier League,2020,False,
+Liverpool FC,Ovie Ejaria,22,England,Central Midfield,CM,3200000.0,Reading,England,3900000.0,out,summer,Premier League,2020,False,
+Liverpool FC,Harry Wilson,23,Wales,Right Winger,RW,16000000.0,Cardiff,England,1300000.0,out,summer,Premier League,2020,True,loan with fee
+Liverpool FC,Adam Lallana,32,England,Attacking Midfield,AM,9500000.0,Brighton,England,0.0,out,summer,Premier League,2020,False,
+Liverpool FC,Nathaniel Clyne,29,England,Right-Back,RB,8000000.0,Crystal Palace,England,0.0,out,summer,Premier League,2020,False,
+Liverpool FC,Sheyi Ojo,23,England,Right Winger,RW,1600000.0,Cardiff,England,0.0,out,summer,Premier League,2020,True,free loan
+Liverpool FC,Taiwo Awoniyi,23,Nigeria,Centre-Forward,CF,3200000.0,Union Berlin,Germany,0.0,out,summer,Premier League,2020,True,free loan
+Liverpool FC,Loris Karius,27,Germany,Goalkeeper,GK,3200000.0,Union Berlin,Germany,0.0,out,summer,Premier League,2020,True,free loan
+Liverpool FC,Marko Grujic,24,Serbia,Defensive Midfield,DM,14500000.0,FC Porto,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+Liverpool FC,Ben Woodburn,21,Wales,Attacking Midfield,AM,4500000.0,Blackpool,England,0.0,out,summer,Premier League,2020,True,free loan
+Liverpool FC,Andy Lonergan,36,England,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Premier League,2020,False,
+Liverpool FC,Ben Davies,25,England,Centre-Back,CB,2400000.0,Preston,England,1850000.0,in,winter,Premier League,2020,False,
+Liverpool FC,Ozan Kabak,20,Turkey,Centre-Back,CB,25000000.0,FC Schalke 04,Germany,1100000.0,in,winter,Premier League,2020,True,loan with fee
+Liverpool FC,Sepp van den Berg,19,Netherlands,Centre-Back,CB,1800000.0,Preston,England,0.0,out,winter,Premier League,2020,True,free loan
+Liverpool FC,Takumi Minamino,26,Japan,Left Winger,LW,10000000.0,Southampton,England,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Rúben Dias,23,Portugal,Centre-Back,CB,35000000.0,Benfica,Portugal,68000000.0,in,summer,Premier League,2020,False,
+Manchester City,Nathan Aké,25,Netherlands,Centre-Back,CB,28000000.0,Bournemouth,England,45300000.0,in,summer,Premier League,2020,False,
+Manchester City,Ferran Torres,20,Spain,Right Winger,RW,45000000.0,Valencia,Spain,23000000.0,in,summer,Premier League,2020,False,
+Manchester City,Pablo Moreno,18,Spain,Centre-Forward,CF,,Juventus U19,Italy,10000000.0,in,summer,Premier League,2020,False,
+Manchester City,Nahuel Bustos,22,Argentina,Centre-Forward,CF,6700000.0,CA Talleres,Argentina,6500000.0,in,summer,Premier League,2020,False,
+Manchester City,Yan Couto,18,Brazil,Right-Back,RB,3600000.0,Coritiba FC,Brazil,6000000.0,in,summer,Premier League,2020,False,
+Manchester City,Issa Kabore,19,Burkina Faso,Right-Back,RB,1300000.0,KV Mechelen,Belgium,4500000.0,in,summer,Premier League,2020,False,
+Manchester City,Leroy Sané,24,Germany,Right Winger,RW,80000000.0,FC Bayern,Germany,45000000.0,out,summer,Premier League,2020,False,
+Manchester City,Nicolás Otamendi,32,Argentina,Centre-Back,CB,14500000.0,Benfica,Portugal,15000000.0,out,summer,Premier League,2020,False,
+Manchester City,Tosin Adarabioyo,23,England,Centre-Back,CB,2800000.0,Fulham,England,1650000.0,out,summer,Premier League,2020,False,
+Manchester City,Aleix García,23,Spain,Central Midfield,CM,3200000.0,Dinamo,Romania,0.0,out,summer,Premier League,2020,False,
+Manchester City,David Silva,34,Spain,Attacking Midfield,AM,12000000.0,Real Sociedad,Spain,0.0,out,summer,Premier League,2020,False,
+Manchester City,Claudio Bravo,37,Chile,Goalkeeper,GK,1200000.0,Real Betis,Spain,0.0,out,summer,Premier League,2020,False,
+Manchester City,Arijanet Muric,21,Kosovo,Goalkeeper,GK,1800000.0,Girona,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Patrick Roberts,23,England,Right Winger,RW,2800000.0,Middlesbrough,England,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Nahuel Bustos,22,Argentina,Centre-Forward,CF,6700000.0,Girona,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Luka Ilic,21,Serbia,Attacking Midfield,AM,1200000.0,Twente FC,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Marlos Moreno,24,Colombia,Right Winger,RW,325000.0,Lommel SK,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Yan Couto,18,Brazil,Right-Back,RB,3600000.0,Girona,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Pablo Moreno,18,Spain,Centre-Forward,CF,,Girona,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Ryotaro Meshino,22,Japan,Attacking Midfield,AM,450000.0,Rio Ave FC,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Ante Palaversa,20,Croatia,Defensive Midfield,DM,3600000.0,Getafe,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Pedro Porro,20,Spain,Right-Back,RB,9000000.0,Sporting CP,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Jack Harrison,23,England,Left Winger,LW,5200000.0,Leeds,England,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Daniel Arzani,21,Australia,Left Winger,LW,900000.0,FC Utrecht,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Issa Kabore,19,Burkina Faso,Right-Back,RB,1300000.0,KV Mechelen,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Ko Itakura,23,Japan,Centre-Back,CB,800000.0,FC Groningen,Netherlands,0.0,out,summer,Premier League,2020,True,free loan
+Manchester City,Filip Stevanovic,18,Serbia,Left Winger,LW,8000000.0,Partizan,Serbia,8500000.0,in,winter,Premier League,2020,False,
+Manchester City,Diego Rosa,18,Brazil,Central Midfield,CM,,Grêmio B,Brazil,6000000.0,in,winter,Premier League,2020,False,
+Manchester City,Filip Stevanovic,18,Serbia,Left Winger,LW,8000000.0,Partizan,Serbia,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Diego Rosa,18,Brazil,Central Midfield,CM,,Lommel SK,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Ante Palaversa,20,Croatia,Defensive Midfield,DM,3000000.0,KV Kortrijk,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Arijanet Muric,22,Kosovo,Goalkeeper,GK,1500000.0,Willem II,Netherlands,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Patrick Roberts,23,England,Right Winger,RW,2500000.0,Derby,England,0.0,out,winter,Premier League,2020,True,free loan
+Manchester City,Daniel Arzani,22,Australia,Left Winger,LW,700000.0,Aarhus GF,Denmark,0.0,out,winter,Premier League,2020,True,free loan
+Manchester United,Donny van de Beek,23,Netherlands,Central Midfield,CM,44000000.0,Ajax,Netherlands,39000000.0,in,summer,Premier League,2020,False,
+Manchester United,Alex Telles,27,Brazil,Left-Back,LB,40000000.0,FC Porto,Portugal,15000000.0,in,summer,Premier League,2020,False,
+Manchester United,Facundo Pellistri,18,Uruguay,Right Winger,RW,1800000.0,Peñarol,Uruguay,8500000.0,in,summer,Premier League,2020,False,
+Manchester United,Edinson Cavani,33,Uruguay,Centre-Forward,CF,20000000.0,Paris SG,France,0.0,in,summer,Premier League,2020,False,
+Manchester United,Chris Smalling,30,England,Centre-Back,CB,20000000.0,AS Roma,Italy,15000000.0,out,summer,Premier League,2020,False,
+Manchester United,Cameron Borthwick-Jackson,23,England,Left-Back,LB,800000.0,Oldham Athletic,England,0.0,out,summer,Premier League,2020,False,
+Manchester United,Alexis Sánchez,31,Chile,Centre-Forward,CF,16000000.0,Inter,Italy,0.0,out,summer,Premier League,2020,False,
+Manchester United,Tahith Chong,20,Netherlands,Right Winger,RW,6300000.0,Werder Bremen,Germany,0.0,out,summer,Premier League,2020,True,free loan
+Manchester United,Joel Pereira,24,Portugal,Goalkeeper,GK,475000.0,Huddersfield,England,0.0,out,summer,Premier League,2020,True,free loan
+Manchester United,Andreas Pereira,24,Brazil,Attacking Midfield,AM,16000000.0,Lazio,Italy,0.0,out,summer,Premier League,2020,True,free loan
+Manchester United,Diogo Dalot,21,Portugal,Right-Back,RB,12000000.0,AC Milan,Italy,0.0,out,summer,Premier League,2020,True,free loan
+Manchester United,Amad Diallo,18,Cote d'Ivoire,Right Winger,RW,15000000.0,Atalanta BC,Italy,21000000.0,in,winter,Premier League,2020,False,
+Manchester United,Timothy Fosu-Mensah,23,Netherlands,Right-Back,RB,4000000.0,Bay. Leverkusen,Germany,1700000.0,out,winter,Premier League,2020,False,
+Manchester United,Jesse Lingard,28,England,Attacking Midfield,AM,10000000.0,West Ham,England,1700000.0,out,winter,Premier League,2020,True,loan with fee
+Manchester United,Marcos Rojo,30,Argentina,Centre-Back,CB,6000000.0,Boca Juniors,Argentina,0.0,out,winter,Premier League,2020,False,
+Manchester United,Tahith Chong,21,Netherlands,Right Winger,RW,6300000.0,Club Brugge,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+Manchester United,Facundo Pellistri,19,Uruguay,Right Winger,RW,7000000.0,Alavés,Spain,0.0,out,winter,Premier League,2020,True,free loan
+Newcastle United,Callum Wilson,28,England,Centre-Forward,CF,20000000.0,Bournemouth,England,22250000.0,in,summer,Premier League,2020,False,
+Newcastle United,Jamal Lewis,22,Northern Ireland,Left-Back,LB,11000000.0,Norwich,England,16500000.0,in,summer,Premier League,2020,False,
+Newcastle United,Rodrigo Vilca,21,Peru,Attacking Midfield,AM,200000.0,Municipal,Peru,250000.0,in,summer,Premier League,2020,False,
+Newcastle United,Mark Gillespie,28,England,Goalkeeper,GK,400000.0,Motherwell FC,Scotland,0.0,in,summer,Premier League,2020,False,
+Newcastle United,Jeff Hendrick,28,Ireland,Central Midfield,CM,9000000.0,Burnley,England,0.0,in,summer,Premier League,2020,False,
+Newcastle United,Ryan Fraser,26,Scotland,Left Winger,LW,17500000.0,Bournemouth,England,0.0,in,summer,Premier League,2020,False,
+Newcastle United,Dan Barlaser,23,England,Central Midfield,CM,,Rotherham,England,275000.0,out,summer,Premier League,2020,False,
+Newcastle United,Jake Turner,21,England,Goalkeeper,GK,100000.0,Morecambe FC,England,0.0,out,summer,Premier League,2020,True,free loan
+Newcastle United,Jack Colback,30,England,Defensive Midfield,DM,1600000.0,Nottm Forest,England,0.0,out,summer,Premier League,2020,False,
+Newcastle United,Freddie Woodman,23,England,Goalkeeper,GK,3200000.0,Swansea,England,0.0,out,summer,Premier League,2020,True,free loan
+Newcastle United,Florian Lejeune,29,France,Centre-Back,CB,4800000.0,Alavés,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Newcastle United,Yoshinori Muto,28,Japan,Centre-Forward,CF,5500000.0,SD Eibar,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Newcastle United,Rob Elliot,34,Ireland,Goalkeeper,GK,600000.0,Without Club,,,out,summer,Premier League,2020,False,
+Newcastle United,Jamie Sterry,24,England,Right-Back,RB,75000.0,Without Club,,,out,summer,Premier League,2020,False,
+Newcastle United,Jetro Willems,26,Netherlands,Left-Back,LB,5500000.0,E. Frankfurt,Germany,0.0,out,summer,Premier League,2020,True,end of loan
+Newcastle United,Nabil Bentaleb,25,Algeria,Central Midfield,CM,4000000.0,FC Schalke 04,Germany,0.0,out,summer,Premier League,2020,True,end of loan
+Newcastle United,Valentino Lazaro,24,Austria,Right Midfield,RM,15000000.0,Inter,Italy,0.0,out,summer,Premier League,2020,True,end of loan
+Newcastle United,Danny Rose,30,England,Left-Back,LB,16000000.0,Spurs,England,0.0,out,summer,Premier League,2020,True,end of loan
+Newcastle United,Joe Willock,21,England,Central Midfield,CM,16000000.0,Arsenal,England,0.0,in,winter,Premier League,2020,True,free loan
+Newcastle United,Rolando Aarons,25,England,Left Winger,LW,400000.0,Huddersfield,England,0.0,out,winter,Premier League,2020,False,
+Newcastle United,DeAndre Yedlin,27,United States,Right-Back,RB,5000000.0,Galatasaray,Turkey,0.0,out,winter,Premier League,2020,False,
+Newcastle United,Achraf Lazaar,29,Morocco,Left-Back,LB,350000.0,Without Club,,,out,winter,Premier League,2020,False,
+Sheffield United,Rhian Brewster,20,England,Centre-Forward,CF,5400000.0,Liverpool,England,26000000.0,in,summer,Premier League,2020,False,
+Sheffield United,Aaron Ramsdale,22,England,Goalkeeper,GK,12500000.0,Bournemouth,England,20500000.0,in,summer,Premier League,2020,False,
+Sheffield United,Oliver Burke,23,Scotland,Centre-Forward,CF,4800000.0,West Brom,England,6500000.0,in,summer,Premier League,2020,False,
+Sheffield United,Max Lowe,23,England,Left-Back,LB,1600000.0,Derby,England,3850000.0,in,summer,Premier League,2020,False,
+Sheffield United,Jayden Bogle,20,England,Right-Back,RB,6300000.0,Derby,England,3850000.0,in,summer,Premier League,2020,False,
+Sheffield United,Ismaila Coulibaly,19,Mali,Central Midfield,CM,100000.0,Sarpsborg 08,Norway,2000000.0,in,summer,Premier League,2020,False,
+Sheffield United,Wes Foderingham,29,England,Goalkeeper,GK,400000.0,Rangers,Scotland,0.0,in,summer,Premier League,2020,False,
+Sheffield United,Ethan Ampadu,19,Wales,Centre-Back,CB,9000000.0,Chelsea,England,0.0,in,summer,Premier League,2020,True,free loan
+Sheffield United,Mark Duffy,34,England,Right Midfield,RM,400000.0,Fleetwood,England,0.0,out,summer,Premier League,2020,False,
+Sheffield United,Leon Clarke,35,England,Centre-Forward,CF,300000.0,Shrewsbury,England,0.0,out,summer,Premier League,2020,False,
+Sheffield United,Ismaila Coulibaly,19,Mali,Central Midfield,CM,100000.0,Beerschot V.A.,Belgium,0.0,out,summer,Premier League,2020,True,free loan
+Sheffield United,Ravel Morrison,27,Jamaica,Attacking Midfield,AM,600000.0,ADO Den Haag,Netherlands,0.0,out,summer,Premier League,2020,False,
+Sheffield United,Jake Eastwood,23,England,Goalkeeper,GK,100000.0,Kilmarnock FC,Scotland,0.0,out,summer,Premier League,2020,True,free loan
+Sheffield United,Luke Freeman,28,England,Attacking Midfield,AM,2800000.0,Nottm Forest,England,0.0,out,summer,Premier League,2020,True,free loan
+Sheffield United,Callum Robinson,25,Ireland,Centre-Forward,CF,5500000.0,West Brom,England,,out,summer,Premier League,2020,False,
+Sheffield United,Regan Slater,21,England,Defensive Midfield,DM,,Hull City,England,0.0,out,summer,Premier League,2020,True,free loan
+Sheffield United,Ricky Holmes,33,England,Left Winger,LW,250000.0,Without Club,,,out,summer,Premier League,2020,False,
+Sheffield United,Ben Heneghan,26,England,Centre-Back,CB,400000.0,Without Club,,,out,summer,Premier League,2020,False,
+Sheffield United,Nathan Thomas,25,England,Left Winger,LW,250000.0,Without Club,,,out,summer,Premier League,2020,False,
+Sheffield United,Kieron Freeman,28,Wales,Right-Back,RB,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+Sheffield United,Panagiotis Retsos,21,Greece,Centre-Back,CB,8000000.0,Bay. Leverkusen,Germany,0.0,out,summer,Premier League,2020,True,end of loan
+Sheffield United,Michael Verrips,24,Netherlands,Goalkeeper,GK,800000.0,FC Emmen,Netherlands,0.0,out,winter,Premier League,2020,True,free loan
+Sheffield United,Jake Eastwood,24,England,Goalkeeper,GK,100000.0,Grimsby Town,England,0.0,out,winter,Premier League,2020,True,free loan
+Southampton FC,Ibrahima Diallo,21,France,Defensive Midfield,DM,15000000.0,Stade Brest 29,France,15000000.0,in,summer,Premier League,2020,False,
+Southampton FC,Kyle Walker-Peters,23,England,Right-Back,RB,8000000.0,Spurs,England,13300000.0,in,summer,Premier League,2020,False,
+Southampton FC,Mohammed Salisu,21,Ghana,Centre-Back,CB,12000000.0,Real Valladolid,Spain,12000000.0,in,summer,Premier League,2020,False,
+Southampton FC,Theo Walcott,31,England,Right Winger,RW,12000000.0,Everton,England,0.0,in,summer,Premier League,2020,True,free loan
+Southampton FC,Pierre-Emile Höjbjerg,25,Denmark,Central Midfield,CM,20000000.0,Spurs,England,16600000.000000002,out,summer,Premier League,2020,False,
+Southampton FC,Harrison Reed,25,England,Central Midfield,CM,2400000.0,Fulham,England,6500000.0,out,summer,Premier League,2020,False,
+Southampton FC,Mario Lemina,26,Gabon,Defensive Midfield,DM,10000000.0,Fulham,England,2200000.0,out,summer,Premier League,2020,True,loan with fee
+Southampton FC,Wesley Hoedt,26,Netherlands,Centre-Back,CB,6500000.0,Lazio,Italy,1000000.0,out,summer,Premier League,2020,True,loan with fee
+Southampton FC,Cédric Soares,28,Portugal,Right-Back,RB,8000000.0,Arsenal,England,0.0,out,summer,Premier League,2020,False,
+Southampton FC,Jack Rose,25,England,Goalkeeper,GK,100000.0,Walsall,England,0.0,out,summer,Premier League,2020,False,
+Southampton FC,Maya Yoshida,32,Japan,Centre-Back,CB,3800000.0,Sampdoria,Italy,0.0,out,summer,Premier League,2020,False,
+Southampton FC,Guido Carrillo,29,Argentina,Centre-Forward,CF,4800000.0,Elche CF,Spain,0.0,out,summer,Premier League,2020,False,
+Southampton FC,Sofiane Boufal,27,Morocco,Left Winger,LW,8000000.0,SCO Angers,France,0.0,out,summer,Premier League,2020,False,
+Southampton FC,Josh Sims,23,England,Right Winger,RW,1600000.0,Doncaster,England,0.0,out,summer,Premier League,2020,True,free loan
+Southampton FC,Jake Hesketh,24,England,Attacking Midfield,AM,200000.0,Crawley Town,England,0.0,out,summer,Premier League,2020,True,free loan
+Southampton FC,Angus Gunn,24,England,Goalkeeper,GK,4000000.0,Stoke City,England,0.0,out,summer,Premier League,2020,True,free loan
+Southampton FC,Kevin Danso,21,Austria,Centre-Back,CB,6300000.0,FC Augsburg,Germany,0.0,out,summer,Premier League,2020,True,end of loan
+Southampton FC,Kyle Walker-Peters,23,England,Right-Back,RB,8000000.0,Spurs,England,0.0,out,summer,Premier League,2020,True,end of loan
+Southampton FC,Takumi Minamino,26,Japan,Left Winger,LW,10000000.0,Liverpool,England,0.0,in,winter,Premier League,2020,True,free loan
+Southampton FC,Josh Sims,23,England,Right Winger,RW,1600000.0,Doncaster,England,0.0,out,winter,Premier League,2020,True,free loan
+Southampton FC,Shane Long,34,Ireland,Centre-Forward,CF,2800000.0,Bournemouth,England,0.0,out,winter,Premier League,2020,True,free loan
+Southampton FC,Yan Valery,21,France,Right-Back,RB,6300000.0,Birmingham,England,0.0,out,winter,Premier League,2020,True,free loan
+Tottenham Hotspur,Giovani Lo Celso,24,Argentina,Central Midfield,CM,40000000.0,Real Betis,Spain,32000000.0,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Sergio Reguilón,23,Spain,Left-Back,LB,25000000.0,Real Madrid,Spain,30000000.0,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Matt Doherty,28,Ireland,Right-Back,RB,16000000.0,Wolves,England,16800000.0,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Pierre-Emile Höjbjerg,25,Denmark,Central Midfield,CM,20000000.0,Southampton,England,16600000.000000002,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Joe Rodon,22,Wales,Centre-Back,CB,7000000.0,Swansea,England,12100000.0,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Carlos Vinícius,25,Brazil,Centre-Forward,CF,20000000.0,Benfica,Portugal,3000000.0,in,summer,Premier League,2020,True,loan with fee
+Tottenham Hotspur,Joe Hart,33,England,Goalkeeper,GK,2400000.0,Burnley,England,0.0,in,summer,Premier League,2020,False,
+Tottenham Hotspur,Gareth Bale,31,Wales,Right Winger,RW,28000000.0,Real Madrid,Spain,0.0,in,summer,Premier League,2020,True,free loan
+Tottenham Hotspur,Kyle Walker-Peters,23,England,Right-Back,RB,8000000.0,Southampton,England,13300000.0,out,summer,Premier League,2020,False,
+Tottenham Hotspur,Jan Vertonghen,33,Belgium,Centre-Back,CB,14500000.0,Benfica,Portugal,0.0,out,summer,Premier League,2020,False,
+Tottenham Hotspur,Oliver Skipp,19,England,Defensive Midfield,DM,7200000.0,Norwich,England,0.0,out,summer,Premier League,2020,True,free loan
+Tottenham Hotspur,Juan Foyth,22,Argentina,Centre-Back,CB,13500000.0,Villarreal,Spain,0.0,out,summer,Premier League,2020,True,free loan
+Tottenham Hotspur,Ryan Sessegnon,20,England,Left-Back,LB,25000000.0,TSG Hoffenheim,Germany,0.0,out,summer,Premier League,2020,True,free loan
+Tottenham Hotspur,Cameron Carter-Vickers,22,United States,Centre-Back,CB,2000000.0,Bournemouth,England,0.0,out,summer,Premier League,2020,True,free loan
+Tottenham Hotspur,Michel Vorm,36,Netherlands,Goalkeeper,GK,800000.0,Retired,,,out,summer,Premier League,2020,False,
+Tottenham Hotspur,Giovani Lo Celso,24,Argentina,Central Midfield,CM,40000000.0,Real Betis,Spain,0.0,out,summer,Premier League,2020,True,end of loan
+Tottenham Hotspur,Jack Clarke,20,England,Right Winger,RW,5400000.0,Stoke City,England,0.0,out,winter,Premier League,2020,True,free loan
+Tottenham Hotspur,Paulo Gazzaniga,29,Argentina,Goalkeeper,GK,4000000.0,Elche CF,Spain,0.0,out,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Karlan Grant,23,England,Centre-Forward,CF,6500000.0,Huddersfield,England,16500000.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,Grady Diangana,22,England,Left Winger,LW,4500000.0,West Ham,England,13500000.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,Matheus Pereira,24,Brazil,Right Winger,RW,9500000.0,Sporting CP,Portugal,8250000.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,Cédric Kipré,23,France,Centre-Back,CB,1200000.0,Wigan,England,1100000.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,David Button,31,England,Goalkeeper,GK,1200000.0,Brighton,England,1100000.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,Branislav Ivanovic,36,Serbia,Centre-Back,CB,1000000.0,Zenit S-Pb,Russia,0.0,in,summer,Premier League,2020,False,
+West Bromwich Albion,Callum Robinson,25,Ireland,Centre-Forward,CF,5500000.0,Sheff Utd,England,,in,summer,Premier League,2020,False,
+West Bromwich Albion,Conor Gallagher,20,England,Central Midfield,CM,5400000.0,Chelsea U23,England,0.0,in,summer,Premier League,2020,True,free loan
+West Bromwich Albion,Filip Krovinovic,25,Croatia,Attacking Midfield,AM,3200000.0,Benfica,Portugal,0.0,in,summer,Premier League,2020,True,free loan
+West Bromwich Albion,Oliver Burke,23,Scotland,Centre-Forward,CF,4800000.0,Sheff Utd,England,6500000.0,out,summer,Premier League,2020,False,
+West Bromwich Albion,Jonathan Leko,21,England,Right Winger,RW,1300000.0,Birmingham,England,1100000.0,out,summer,Premier League,2020,False,
+West Bromwich Albion,Nathan Ferguson,19,England,Centre-Back,CB,4000000.0,Crystal Palace,England,0.0,out,summer,Premier League,2020,False,
+West Bromwich Albion,Chris Brunt,35,Northern Ireland,Central Midfield,CM,600000.0,Bristol City,England,0.0,out,summer,Premier League,2020,False,
+West Bromwich Albion,Alex Palmer,24,England,Goalkeeper,GK,,Lincoln City,England,0.0,out,summer,Premier League,2020,True,free loan
+West Bromwich Albion,Kenneth Zohore,26,Denmark,Centre-Forward,CF,3500000.0,Millwall,England,0.0,out,summer,Premier League,2020,True,free loan
+West Bromwich Albion,Ahmed Hegazy,29,Egypt,Centre-Back,CB,3500000.0,Ittihad,Saudi Arabia,0.0,out,summer,Premier League,2020,True,free loan
+West Bromwich Albion,Ali Al Habsi,38,Oman,Goalkeeper,GK,250000.0,Retired,,,out,summer,Premier League,2020,False,
+West Bromwich Albion,Gareth Barry,39,England,Defensive Midfield,DM,325000.0,Retired,,,out,summer,Premier League,2020,False,
+West Bromwich Albion,Filip Krovinovic,24,Croatia,Attacking Midfield,AM,3200000.0,Benfica,Portugal,0.0,out,summer,Premier League,2020,True,end of loan
+West Bromwich Albion,Grady Diangana,22,England,Left Winger,LW,4500000.0,West Ham,England,0.0,out,summer,Premier League,2020,True,end of loan
+West Bromwich Albion,Callum Robinson,25,Ireland,Centre-Forward,CF,5500000.0,Sheff Utd,England,0.0,out,summer,Premier League,2020,True,end of loan
+West Bromwich Albion,Mbaye Diagne,29,Senegal,Centre-Forward,CF,3200000.0,Galatasaray,Turkey,1580000.0,in,winter,Premier League,2020,True,loan with fee
+West Bromwich Albion,Robert Snodgrass,33,Scotland,Right Winger,RW,4000000.0,West Ham,England,110000.0,in,winter,Premier League,2020,False,
+West Bromwich Albion,Andy Lonergan,37,England,Goalkeeper,GK,250000.0,Stoke City,England,0.0,in,winter,Premier League,2020,False,
+West Bromwich Albion,Okay Yokuslu,26,Turkey,Defensive Midfield,DM,4000000.0,Celta de Vigo,Spain,0.0,in,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Ainsley Maitland-Niles,23,England,Right Midfield,RM,18000000.0,Arsenal,England,0.0,in,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Jonathan Bond,27,Wales,Goalkeeper,GK,250000.0,LA Galaxy,United States,0.0,out,winter,Premier League,2020,False,
+West Bromwich Albion,Charlie Austin,31,England,Centre-Forward,CF,3200000.0,QPR,England,0.0,out,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Rekeem Harper,20,England,Central Midfield,CM,2300000.0,Birmingham,England,0.0,out,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Cédric Kipré,24,France,Centre-Back,CB,1200000.0,RSC Charleroi,Belgium,0.0,out,winter,Premier League,2020,True,free loan
+West Bromwich Albion,Sam Field,22,England,Central Midfield,CM,1000000.0,QPR,England,0.0,out,winter,Premier League,2020,True,free loan
+West Ham United,Tomas Soucek,25,Czech Republic,Defensive Midfield,DM,12000000.0,Slavia Prague,Czech Republic,16200000.0,in,summer,Premier League,2020,False,
+West Ham United,Vladimir Coufal,28,Czech Republic,Right-Back,RB,2000000.0,Slavia Prague,Czech Republic,6000000.0,in,summer,Premier League,2020,False,
+West Ham United,Saïd Benrahma,25,Algeria,Left Winger,LW,22000000.0,Brentford,England,4400000.0,in,summer,Premier League,2020,True,loan with fee
+West Ham United,Craig Dawson,30,England,Centre-Back,CB,4800000.0,Watford,England,1110000.0,in,summer,Premier League,2020,True,loan with fee
+West Ham United,Grady Diangana,22,England,Left Winger,LW,4500000.0,West Brom,England,13500000.0,out,summer,Premier League,2020,False,
+West Ham United,Albian Ajeti,23,Switzerland,Centre-Forward,CF,4800000.0,Celtic,Scotland,5500000.0,out,summer,Premier League,2020,False,
+West Ham United,Jordan Hugill,28,England,Centre-Forward,CF,5500000.0,Norwich,England,3300000.0,out,summer,Premier League,2020,False,
+West Ham United,Josh Cullen,24,Ireland,Defensive Midfield,DM,1200000.0,RSC Anderlecht,Belgium,500000.0,out,summer,Premier League,2020,False,
+West Ham United,Roberto,34,Spain,Goalkeeper,GK,800000.0,Real Valladolid,Spain,0.0,out,summer,Premier League,2020,False,
+West Ham United,Xande Silva,23,Portugal,Right Winger,RW,800000.0,Aris Saloniki,Greece,0.0,out,summer,Premier League,2020,True,free loan
+West Ham United,Felipe Anderson,27,Brazil,Left Midfield,LM,25000000.0,FC Porto,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+West Ham United,Carlos Sánchez,34,Colombia,Defensive Midfield,DM,1200000.0,Without Club,,,out,summer,Premier League,2020,False,
+West Ham United,Jack Wilshere,28,England,Central Midfield,CM,4800000.0,Without Club,,,out,summer,Premier League,2020,False,
+West Ham United,Pablo Zabaleta,35,Argentina,Right-Back,RB,800000.0,Retired,,,out,summer,Premier League,2020,False,
+West Ham United,Tomas Soucek,25,Czech Republic,Defensive Midfield,DM,12000000.0,Slavia Prague,Czech Republic,0.0,out,summer,Premier League,2020,True,end of loan
+West Ham United,Saïd Benrahma,25,Algeria,Left Winger,LW,22000000.0,Brentford,England,23100000.0,in,winter,Premier League,2020,False,
+West Ham United,Jesse Lingard,28,England,Attacking Midfield,AM,10000000.0,Man Utd,England,1700000.0,in,winter,Premier League,2020,True,loan with fee
+West Ham United,Frederik Alves,21,Denmark,Centre-Back,CB,400000.0,Silkeborg IF,Denmark,1600000.0,in,winter,Premier League,2020,False,
+West Ham United,Sébastien Haller,26,Cote d'Ivoire,Centre-Forward,CF,30000000.0,Ajax,Netherlands,22500000.0,out,winter,Premier League,2020,False,
+West Ham United,Robert Snodgrass,33,Scotland,Right Winger,RW,4000000.0,West Brom,England,110000.0,out,winter,Premier League,2020,False,
+West Ham United,Winston Reid,32,New Zealand,Centre-Back,CB,1500000.0,Brentford,England,0.0,out,winter,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Fábio Silva,18,Portugal,Centre-Forward,CF,12000000.0,FC Porto,Portugal,40000000.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Nélson Semedo,26,Portugal,Right-Back,RB,40000000.0,FC Barcelona,Spain,30000000.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Ki-Jana Hoever,18,Netherlands,Right-Back,RB,3600000.0,Liverpool U23,England,9800000.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Marçal,31,Brazil,Left-Back,LB,2400000.0,Olympique Lyon,France,2000000.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Toti Gomes,21,Portugal,Centre-Back,CB,,Estoril Praia,Portugal,1000000.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Matija Sarkic,23,Montenegro,Goalkeeper,GK,100000.0,Aston Villa,England,0.0,in,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Vitinha,20,Portugal,Central Midfield,CM,5000000.0,FC Porto,Portugal,0.0,in,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Rayan Aït Nouri,19,France,Left-Back,LB,20000000.0,SCO Angers,France,0.0,in,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Diogo Jota,23,Portugal,Left Winger,LW,28000000.0,Liverpool,England,44700000.0,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Hélder Costa,26,Angola,Right Winger,RW,8000000.0,Leeds,England,17700000.0,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Matt Doherty,28,Ireland,Right-Back,RB,16000000.0,Spurs,England,16800000.0,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Jordan Graham,25,England,Left Winger,LW,250000.0,Gillingham FC,England,0.0,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Ming-Yang Yang,25,Switzerland,Central Midfield,CM,250000.0,Grasshoppers,Switzerland,0.0,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Ryan Bennett,30,England,Centre-Back,CB,4000000.0,Swansea,England,,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Rúben Vinagre,21,Portugal,Left-Back,LB,9000000.0,Olympiacos,Greece,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Léo Bonatini,26,Brazil,Centre-Forward,CF,2800000.0,Grasshoppers,Switzerland,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Leonardo Campana,20,Ecuador,Centre-Forward,CF,1800000.0,Famalicão,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Bruno Jordão,21,Portugal,Central Midfield,CM,2300000.0,Famalicão,Portugal,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Toti Gomes,21,Portugal,Centre-Back,CB,,Grasshoppers,Switzerland,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Matija Sarkic,23,Montenegro,Goalkeeper,GK,100000.0,Shrewsbury,England,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Morgan Gibbs-White,20,England,Central Midfield,CM,7200000.0,Swansea,England,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Connor Ronan,22,Ireland,Central Midfield,CM,450000.0,Grasshoppers,Switzerland,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Renat Dadashov,21,Azerbaijan,Centre-Forward,CF,350000.0,Grasshoppers,Switzerland,0.0,out,summer,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Will Norris,27,England,Goalkeeper,GK,250000.0,Burnley,England,,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Phil Ofosu-Ayeh,28,Ghana,Right-Back,RB,300000.0,Without Club,,,out,summer,Premier League,2020,False,
+Wolverhampton Wanderers,Willian José,29,Brazil,Centre-Forward,CF,20000000.0,Real Sociedad,Spain,0.0,in,winter,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Roderick Miranda,29,Portugal,Centre-Back,CB,1500000.0,Gaziantep FK,Turkey,0.0,out,winter,Premier League,2020,False,
+Wolverhampton Wanderers,Rúben Vinagre,21,Portugal,Left-Back,LB,9000000.0,Famalicão,Portugal,0.0,out,winter,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Oskar Buur,22,Denmark,Right-Back,RB,500000.0,Grasshoppers,Switzerland,0.0,out,winter,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Patrick Cutrone,23,Italy,Centre-Forward,CF,12000000.0,Valencia,Spain,0.0,out,winter,Premier League,2020,True,free loan
+Wolverhampton Wanderers,Luke Matheson,18,England,Right-Back,RB,900000.0,Ipswich,England,0.0,out,winter,Premier League,2020,True,free loan

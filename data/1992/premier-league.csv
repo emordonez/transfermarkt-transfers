@@ -1,0 +1,296 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,John Jensen,27,Denmark,Central Midfield,CM,,Bröndby IF,Denmark,1600000.0,in,summer,Premier League,1992,False,
+Arsenal FC,David Rocastle,25,England,Attacking Midfield,AM,,Leeds,England,2400000.0,out,summer,Premier League,1992,False,
+Arsenal FC,Perry Groves,27,England,Left Winger,LW,,Southampton,England,850000.0,out,summer,Premier League,1992,False,
+Arsenal FC,Gary McKeown,21,England,midfield,midfield,,Dundee FC,Scotland,,out,summer,Premier League,1992,False,
+Arsenal FC,Ty Gooden,19,England,midfield,midfield,,Wycombe,England,,out,summer,Premier League,1992,False,
+Arsenal FC,Martin Keown,26,England,Centre-Back,CB,,Everton,England,3000000.0,in,winter,Premier League,1992,False,
+Aston Villa,Dean Saunders,28,Wales,Centre-Forward,CF,,Liverpool,England,2850000.0,in,summer,Premier League,1992,False,
+Aston Villa,Ray Houghton,30,Ireland,Central Midfield,CM,,Liverpool,England,1080000.0,in,summer,Premier League,1992,False,
+Aston Villa,Gareth Farrelly,16,Ireland,Left Midfield,LM,,Home Farm,Ireland,0.0,in,summer,Premier League,1992,False,
+Aston Villa,Frank McAvennie,32,Scotland,Centre-Forward,CF,,West Ham,England,,in,summer,Premier League,1992,False,
+Aston Villa,Ian Olney,22,England,Centre-Forward,CF,,Oldham Athletic,England,894000.0,out,summer,Premier League,1992,False,
+Aston Villa,Kent Nielsen,30,Denmark,Centre-Back,CB,,Aarhus GF,Denmark,0.0,out,summer,Premier League,1992,False,
+Aston Villa,Les Sealey,35,England,Goalkeeper,GK,,Birmingham,England,0.0,out,summer,Premier League,1992,True,free loan
+Aston Villa,Martin Carruthers,20,England,Centre-Forward,CF,,Hull City,England,0.0,out,summer,Premier League,1992,True,free loan
+Aston Villa,Ivo Stas,27,Czech Republic,defence,defence,,Banik Ostrava,Czech Republic,,out,summer,Premier League,1992,False,
+Aston Villa,Henrik Larsen,26,Denmark,Attacking Midfield,AM,,Lyngby FC,Denmark,,in,winter,Premier League,1992,False,
+Aston Villa,David Farrell,21,England,midfield,midfield,,Scunthorpe Utd.,England,0.0,out,winter,Premier League,1992,True,free loan
+Aston Villa,Les Sealey,35,England,Goalkeeper,GK,,Man Utd,England,0.0,out,winter,Premier League,1992,False,
+Aston Villa,Les Sealey,35,England,Goalkeeper,GK,,Birmingham,England,0.0,out,winter,Premier League,1992,True,free loan
+Aston Villa,Martin Carruthers,20,England,Centre-Forward,CF,,Hull City,England,0.0,out,winter,Premier League,1992,True,free loan
+Aston Villa,Lee Williams,19,England,midfield,midfield,,Shrewsbury,England,0.0,out,winter,Premier League,1992,True,free loan
+Blackburn Rovers,Alan Shearer,21,England,Centre-Forward,CF,,Southampton,England,4500000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Stuart Ripley,24,England,Right Winger,RW,,Middlesbrough,England,2000000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Tim Sherwood,23,England,Central Midfield,CM,,Norwich,England,750000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Patrik Andersson,20,Sweden,Centre-Back,CB,,Malmö FF,Sweden,500000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Lee Makel,19,England,Attacking Midfield,AM,,Newcastle,England,240000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Wayne Burnett,20,England,midfield,midfield,,Leyton Orient,England,96000.0,in,summer,Premier League,1992,False,
+Blackburn Rovers,Nicky Marker,27,England,Centre-Back,CB,,Plymouth,England,,in,summer,Premier League,1992,False,
+Blackburn Rovers,Mickey Evans,19,Ireland,Centre-Forward,CF,,Plymouth,England,0.0,in,summer,Premier League,1992,True,free loan
+Blackburn Rovers,Duncan Shearer,29,Scotland,Centre-Forward,CF,,Aberdeen FC,Scotland,750000.0,out,summer,Premier League,1992,False,
+Blackburn Rovers,David Speedie,32,Scotland,Centre-Forward,CF,,Southampton,England,600000.0,out,summer,Premier League,1992,False,
+Blackburn Rovers,Simon Garner,32,England,Centre-Forward,CF,,West Brom,England,35000.0,out,summer,Premier League,1992,False,
+Blackburn Rovers,Keith Hill,23,England,Centre-Back,CB,,Plymouth,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Scott Sellars,26,England,Left Midfield,LM,,Leeds,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Nicky Reid,31,England,Centre-Back,CB,,Bristol City,England,0.0,out,summer,Premier League,1992,True,free loan
+Blackburn Rovers,Stuart Munro,29,Scotland,Left-Back,LB,,Bristol City,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Peter Baah,19,England,Right Winger,RW,,Fulham,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Howard Gayle,34,England,Right Winger,RW,,Halifax Town,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Lenny Johnrose,22,England,Defensive Midfield,DM,,Hartlepool Utd.,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Lee Richardson,23,England,midfield,midfield,,Aberdeen FC,Scotland,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Paul Shepstone,21,England,midfield,midfield,,Motherwell FC,Scotland,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Craig Skinner,21,England,midfield,midfield,,Plymouth,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Chris Sulley,32,England,Left-Back,LB,,Port Vale,England,,out,summer,Premier League,1992,False,
+Blackburn Rovers,Graeme Le Saux,24,England,Left-Back,LB,,Chelsea,England,1050000.0,in,winter,Premier League,1992,False,
+Blackburn Rovers,Henning Berg,23,Norway,Right-Back,RB,,Lillestrøm SK,Norway,550000.0,in,winter,Premier League,1992,False,
+Blackburn Rovers,Simon Ireland,20,England,midfield,midfield,,Huddersfield,England,252000.0,in,winter,Premier League,1992,False,
+Blackburn Rovers,Steve Livingstone,23,England,Centre-Forward,CF,,Chelsea,England,400000.0,out,winter,Premier League,1992,False,
+Blackburn Rovers,Steve Agnew,27,England,Central Midfield,CM,,Leicester,England,375000.0,out,winter,Premier League,1992,False,
+Blackburn Rovers,Chris Price,32,England,Centre-Back,CB,,Portsmouth,England,,out,winter,Premier League,1992,False,
+Blackburn Rovers,Roy Wegerle,28,United States,attack,attack,,Coventry,England,,out,winter,Premier League,1992,False,
+Blackburn Rovers,Steve Agnew,27,England,Central Midfield,CM,,Portsmouth,England,0.0,out,winter,Premier League,1992,True,free loan
+Blackburn Rovers,Nicky Reid,32,England,Centre-Back,CB,,West Brom,England,,out,winter,Premier League,1992,False,
+Chelsea FC,Nigel Spackman,31,England,Central Midfield,CM,,Rangers,Scotland,600000.0,in,summer,Premier League,1992,False,
+Chelsea FC,Anthony Barness,19,England,Right-Back,RB,,Charlton,England,525000.0,in,summer,Premier League,1992,False,
+Chelsea FC,David Hopkin,22,Scotland,Right Midfield,RM,,Morton,Scotland,450000.0,in,summer,Premier League,1992,False,
+Chelsea FC,Mick Harford,33,England,Centre-Forward,CF,,Luton,England,350000.0,in,summer,Premier League,1992,False,
+Chelsea FC,Mal Donaghy,34,Northern Ireland,Left-Back,LB,,Man Utd,England,200000.0,in,summer,Premier League,1992,False,
+Chelsea FC,John Spencer,21,Scotland,Centre-Forward,CF,,Rangers,Scotland,0.0,in,summer,Premier League,1992,False,
+Chelsea FC,Alec Chamberlain,28,England,Goalkeeper,GK,,Luton,England,0.0,in,summer,Premier League,1992,True,free loan
+Chelsea FC,Nick Colgan,18,Ireland,Goalkeeper,GK,,Drogheda United,Ireland,,in,summer,Premier League,1992,False,
+Chelsea FC,Robert Fleck,26,Scotland,Centre-Forward,CF,,Norwich,England,,in,summer,Premier League,1992,False,
+Chelsea FC,Ken Monkou,27,Netherlands,Centre-Back,CB,,Southampton,England,844000.0,out,summer,Premier League,1992,False,
+Chelsea FC,Vinnie Jones,27,Wales,Defensive Midfield,DM,,Wimbledon FC,England,830000.0,out,summer,Premier League,1992,False,
+Chelsea FC,Kerry Dixon,30,England,Centre-Forward,CF,,Southampton,England,650000.0,out,summer,Premier League,1992,False,
+Chelsea FC,Damian Matthew,22,England,midfield,midfield,,Luton,England,0.0,out,summer,Premier League,1992,True,free loan
+Chelsea FC,Dave Beasant,33,England,Goalkeeper,GK,,Grimsby Town,England,0.0,out,summer,Premier League,1992,True,free loan
+Chelsea FC,Dmitri Kharin,24,Russia,Goalkeeper,GK,,CSKA Moscow,Russia,400000.0,in,winter,Premier League,1992,False,
+Chelsea FC,Steve Livingstone,23,England,Centre-Forward,CF,,Blackburn,England,400000.0,in,winter,Premier League,1992,False,
+Chelsea FC,Gerry Peyton,36,Ireland,Goalkeeper,GK,,Everton,England,0.0,in,winter,Premier League,1992,True,free loan
+Chelsea FC,Tom Boyd,27,Scotland,Left-Back,LB,,Celtic,Scotland,1130000.0,out,winter,Premier League,1992,False,
+Chelsea FC,Graeme Le Saux,24,England,Left-Back,LB,,Blackburn,England,1050000.0,out,winter,Premier League,1992,False,
+Chelsea FC,Joe Allon,26,England,Centre-Forward,CF,,Brentford,England,316000.0,out,winter,Premier League,1992,False,
+Chelsea FC,Mick Harford,34,England,Centre-Forward,CF,,Sunderland,England,285000.0,out,winter,Premier League,1992,False,
+Chelsea FC,Kevin Hitchcock,30,England,Goalkeeper,GK,,West Ham,England,0.0,out,winter,Premier League,1992,True,free loan
+Chelsea FC,Dave Beasant,33,England,Goalkeeper,GK,,Wolves,England,0.0,out,winter,Premier League,1992,True,free loan
+Chelsea FC,Dave Beasant,33,England,Goalkeeper,GK,,Grimsby Town,England,0.0,out,winter,Premier League,1992,True,free loan
+Coventry City,Phil Babb,21,Ireland,Centre-Back,CB,,Bradford,England,735000.0,in,summer,Premier League,1992,False,
+Coventry City,John Williams,24,England,Centre-Forward,CF,,Swansea,Wales,300000.0,in,summer,Premier League,1992,False,
+Coventry City,Jonathan Gould,23,Scotland,Goalkeeper,GK,,West Brom,England,0.0,in,summer,Premier League,1992,False,
+Coventry City,Paul Williams,29,Northern Ireland,attack,attack,,West Brom,England,0.0,in,summer,Premier League,1992,True,free loan
+Coventry City,Paul Edwards,28,England,Left-Back,LB,,Wolves,England,112000.0,out,summer,Premier League,1992,False,
+Coventry City,David Smith,25,England,Attacking Midfield,AM,,Birmingham,England,0.0,out,summer,Premier League,1992,False,
+Coventry City,Paul Furlong,23,England,Centre-Forward,CF,,Watford,England,0.0,out,summer,Premier League,1992,False,
+Coventry City,Clive Baker,33,England,Goalkeeper,GK,,Ipswich,England,,out,summer,Premier League,1992,False,
+Coventry City,Micky Quinn,30,England,Centre-Forward,CF,,Newcastle,England,300000.0,in,winter,Premier League,1992,False,
+Coventry City,David Rennie,28,Scotland,Defensive Midfield,DM,,Birmingham,England,120000.0,in,winter,Premier League,1992,False,
+Coventry City,Roy Wegerle,28,United States,attack,attack,,Blackburn,England,,in,winter,Premier League,1992,False,
+Coventry City,Paul Williams,29,Northern Ireland,attack,attack,,West Brom,England,0.0,in,winter,Premier League,1992,True,free loan
+Coventry City,Robert Rosario,26,England,attack,attack,,Nottm Forest,England,485000.0,out,winter,Premier League,1992,False,
+Coventry City,David Smith,24,England,Attacking Midfield,AM,,Bournemouth,England,0.0,out,winter,Premier League,1992,True,free loan
+Coventry City,Peter Billing,28,England,Centre-Back,CB,,Port Vale,England,0.0,out,winter,Premier League,1992,True,free loan
+Crystal Palace,Chris Armstrong,21,England,Centre-Forward,CF,,Millwall,England,1000000.0,in,summer,Premier League,1992,False,
+Crystal Palace,Darren Patterson,22,Northern Ireland,Right-Back,RB,,Wigan,England,340000.0,in,summer,Premier League,1992,False,
+Crystal Palace,Paul Heald,23,England,Goalkeeper,GK,,Leyton Orient,England,0.0,in,summer,Premier League,1992,True,free loan
+Crystal Palace,Paul Williams,27,England,attack,attack,,Sheff Wed,England,,in,summer,Premier League,1992,False,
+Crystal Palace,Mark Bright,30,England,Centre-Forward,CF,,Sheff Wed,England,1700000.0,out,summer,Premier League,1992,False,
+Crystal Palace,Rudi Hedman,27,England,Centre-Back,CB,,Dulwich Hamlet FC,England,0.0,out,summer,Premier League,1992,False,
+Crystal Palace,Jamie Moralee,20,England,attack,attack,,Millwall,England,,out,summer,Premier League,1992,False,
+Crystal Palace,Neil Sullivan,23,Scotland,Goalkeeper,GK,,Wimbledon FC,England,0.0,in,winter,Premier League,1992,True,free loan
+Crystal Palace,Louie Donowa,28,England,Central Midfield,CM,,Birmingham,England,0.0,in,winter,Premier League,1992,True,free loan
+Crystal Palace,Stan Collymore,21,England,Centre-Forward,CF,,Southend United,England,167000.0,out,winter,Premier League,1992,False,
+Crystal Palace,Paul Mortimer,24,England,midfield,midfield,,Brentford,England,0.0,out,winter,Premier League,1992,True,free loan
+Crystal Palace,Ricky Newman,22,England,Central Midfield,CM,,M. Invicta,England,0.0,out,winter,Premier League,1992,True,free loan
+Crystal Palace,Martin O'Connor,25,England,midfield,midfield,,Walsall,England,0.0,out,winter,Premier League,1992,True,free loan
+Everton FC,Paul Rideout,28,England,Centre-Forward,CF,,Rangers,Scotland,583000.0,in,summer,Premier League,1992,False,
+Everton FC,Preki,29,United States,Attacking Midfield,AM,,Storm,United States,120000.0,in,summer,Premier League,1992,False,
+Everton FC,Barry Horne,30,Wales,Defensive Midfield,DM,,Southampton,England,,in,summer,Premier League,1992,False,
+Everton FC,Pat Nevin,28,Scotland,Right Winger,RW,,Tranmere Rovers,England,450000.0,out,summer,Premier League,1992,False,
+Everton FC,Kevin Ratcliffe,31,Wales,Centre-Back,CB,,Dundee FC,Scotland,,out,summer,Premier League,1992,False,
+Everton FC,Gerry Peyton,36,Ireland,Goalkeeper,GK,,Brentford,England,0.0,out,summer,Premier League,1992,True,free loan
+Everton FC,Martin Keown,26,England,Centre-Back,CB,,Arsenal,England,3000000.0,out,winter,Premier League,1992,False,
+Everton FC,Gerry Peyton,36,Ireland,Goalkeeper,GK,,Chelsea,England,0.0,out,winter,Premier League,1992,True,free loan
+Ipswich Town,Geraint Williams,30,Wales,Defensive Midfield,DM,,Derby,England,750000.0,in,summer,Premier League,1992,False,
+Ipswich Town,Vlado Bozinoski,28,Australia,Central Midfield,CM,,Beira-Mar,Portugal,,in,summer,Premier League,1992,False,
+Ipswich Town,Clive Baker,33,England,Goalkeeper,GK,,Coventry,England,,in,summer,Premier League,1992,False,
+Ipswich Town,Jason Winters,20,England,Goalkeeper,GK,,Chelsea Res.,England,,in,summer,Premier League,1992,False,
+Ipswich Town,David Lowe,26,England,Right Midfield,RM,,Leicester,England,300000.0,out,summer,Premier League,1992,False,
+Ipswich Town,Steve Greaves,22,England,Centre-Back,CB,,Scunthorpe Utd.,England,0.0,out,summer,Premier League,1992,False,
+Ipswich Town,Romeo Zondervan,33,Netherlands,Defensive Midfield,DM,,NAC Breda,Netherlands,,out,summer,Premier League,1992,False,
+Ipswich Town,Boncho Genchev,28,Bulgaria,Attacking Midfield,AM,,Sporting CP,Portugal,,in,winter,Premier League,1992,False,
+Ipswich Town,Glenn Pennyfather,30,England,defence,defence,,Bristol City,England,100000.0,out,winter,Premier League,1992,False,
+Ipswich Town,Glenn Pennyfather,29,England,defence,defence,,Bristol City,England,0.0,out,winter,Premier League,1992,True,free loan
+Leeds United,David Rocastle,25,England,Attacking Midfield,AM,,Arsenal,England,2400000.0,in,summer,Premier League,1992,False,
+Leeds United,Mark Andrew Beeney,25,England,Goalkeeper,GK,,Brighton,England,350000.0,in,summer,Premier League,1992,False,
+Leeds United,Kevin Sharp,18,Canada,Left-Back,LB,,AJ Auxerre U19,France,90000.0,in,summer,Premier League,1992,False,
+Leeds United,Scott Sellars,26,England,Left Midfield,LM,,Blackburn,England,,in,summer,Premier League,1992,False,
+Leeds United,Bobby Davison,33,England,attack,attack,,Leicester,England,65000.0,out,summer,Premier League,1992,False,
+Leeds United,Glynn Snodin,32,England,Left-Back,LB,,Heart of Midl.,Scotland,0.0,out,summer,Premier League,1992,False,
+Leeds United,John McClelland,36,Northern Ireland,Centre-Back,CB,,St. Johnstone,Scotland,0.0,out,summer,Premier League,1992,False,
+Leeds United,Frank Strandli,20,Norway,Centre-Forward,CF,,Start,Norway,0.0,out,summer,Premier League,1992,True,free loan
+Leeds United,David Kerslake,26,England,Right-Back,RB,,Swindon Town,England,625000.0,in,winter,Premier League,1992,False,
+Leeds United,Frank Strandli,20,Norway,Centre-Forward,CF,,Start,Norway,350000.0,in,winter,Premier League,1992,False,
+Leeds United,Kevin Sharp,18,Canada,Left-Back,LB,,AJ Auxerre U19,France,90000.0,in,winter,Premier League,1992,False,
+Leeds United,Jamie Forrester,18,England,Left Winger,LW,,AJ Auxerre B,France,,in,winter,Premier League,1992,False,
+Leeds United,Eric Cantona,26,France,Second Striker,SS,,Man Utd,England,1800000.0,out,winter,Premier League,1992,False,
+Leeds United,Imre Varadi,33,England,Centre-Forward,CF,,Rotherham,England,0.0,out,winter,Premier League,1992,False,
+Leeds United,Imre Varadi,33,England,Centre-Forward,CF,,Oxford United,England,0.0,out,winter,Premier League,1992,True,free loan
+Leeds United,Andy Williams,29,England,midfield,midfield,,Notts County,England,,out,winter,Premier League,1992,False,
+Liverpool FC,Paul Stewart,27,England,Defensive Midfield,DM,,Spurs,England,2750000.0,in,summer,Premier League,1992,False,
+Liverpool FC,David James,21,England,Goalkeeper,GK,,Watford,England,1400000.0,in,summer,Premier League,1992,False,
+Liverpool FC,Torben Piechnik,29,Denmark,Centre-Back,CB,,FC Copenhagen,Denmark,,in,summer,Premier League,1992,False,
+Liverpool FC,Dean Saunders,28,Wales,Centre-Forward,CF,,Aston Villa,England,2850000.0,out,summer,Premier League,1992,False,
+Liverpool FC,Ray Houghton,30,Ireland,Central Midfield,CM,,Aston Villa,England,1080000.0,out,summer,Premier League,1992,False,
+Liverpool FC,Barry Venison,27,England,Left-Back,LB,,Newcastle,England,295000.0,out,summer,Premier League,1992,False,
+Liverpool FC,Barry Jones,22,England,Centre-Back,CB,,Wrexham,Wales,0.0,out,summer,Premier League,1992,False,
+Liverpool FC,Tony Cousins,23,Ireland,Centre-Forward,CF,,Hereford Utd.,England,,out,summer,Premier League,1992,False,
+Liverpool FC,Stig Inge Björnebye,23,Norway,Left-Back,LB,,Rosenborg,Norway,,in,winter,Premier League,1992,False,
+Liverpool FC,Bruce Grobbelaar,35,Zimbabwe,Goalkeeper,GK,,Stoke City,England,0.0,out,winter,Premier League,1992,True,free loan
+Manchester City,Fitzroy Simpson,22,Jamaica,midfield,midfield,,Swindon Town,England,575000.0,in,summer,Premier League,1992,False,
+Manchester City,Rick Holden,27,England,Left Midfield,LM,,Oldham Athletic,England,,in,summer,Premier League,1992,False,
+Manchester City,Terry Phelan,25,Ireland,Left-Back,LB,,Wimbledon FC,England,,in,summer,Premier League,1992,False,
+Manchester City,Neil Pointon,27,England,Left-Back,LB,,Oldham Athletic,England,675000.0,out,summer,Premier League,1992,False,
+Manchester City,Michael Hughes,20,Northern Ireland,Attacking Midfield,AM,,R. Strasbourg,France,500000.0,out,summer,Premier League,1992,False,
+Manchester City,Steve Redmond,24,England,Centre-Back,CB,,Oldham Athletic,England,450000.0,out,summer,Premier League,1992,False,
+Manchester City,Gary Megson,33,England,Defensive Midfield,DM,,Norwich,England,0.0,out,summer,Premier League,1992,False,
+Manchester City,Mark Peters,19,Wales,defence,defence,,Norwich,England,0.0,out,summer,Premier League,1992,False,
+Manchester City,Wayne Clarke,31,England,Centre-Forward,CF,,Walsall,England,0.0,out,summer,Premier League,1992,False,
+Manchester City,Ronnie Mauge,23,Trinidad and Tobago,midfield,midfield,,Bury,England,,out,summer,Premier League,1992,False,
+Manchester City,Kare Ingebrigtsen,27,Norway,Defensive Midfield,DM,,Rosenborg,Norway,,in,winter,Premier League,1992,False,
+Manchester City,Ray Ranson,32,England,Right-Back,RB,,Newcastle,England,,in,winter,Premier League,1992,False,
+Manchester City,Mark Brennan,27,England,Central Midfield,CM,,Oldham Athletic,England,222000.0,out,winter,Premier League,1992,False,
+Manchester City,Adrian Mike,19,England,attack,attack,,Bury,England,0.0,out,winter,Premier League,1992,True,free loan
+Manchester United,Dion Dublin,23,England,Centre-Forward,CF,,Cambridge Utd.,England,1500000.0,in,summer,Premier League,1992,False,
+Manchester United,Pat McGibbon,18,Northern Ireland,Centre-Back,CB,,Portadown,Northern Ireland,225000.0,in,summer,Premier League,1992,False,
+Manchester United,Andy Arnott,18,England,Defensive Midfield,DM,,Gillingham FC,England,0.0,in,summer,Premier League,1992,True,free loan
+Manchester United,Mark Robins,22,England,Centre-Forward,CF,,Norwich,England,1000000.0,out,summer,Premier League,1992,False,
+Manchester United,Neil Webb,28,England,Central Midfield,CM,,Nottm Forest,England,925000.0,out,summer,Premier League,1992,False,
+Manchester United,Mal Donaghy,34,Northern Ireland,Left-Back,LB,,Chelsea,England,200000.0,out,summer,Premier League,1992,False,
+Manchester United,Derek Brazil,23,Ireland,Right-Back,RB,,Cardiff,Wales,94000.0,out,summer,Premier League,1992,False,
+Manchester United,Eric Cantona,26,France,Second Striker,SS,,Leeds,England,1800000.0,in,winter,Premier League,1992,False,
+Manchester United,Les Sealey,35,England,Goalkeeper,GK,,Aston Villa,England,0.0,in,winter,Premier League,1992,False,
+Manchester United,Fraser Digby,25,England,Goalkeeper,GK,,Swindon Town,England,0.0,in,winter,Premier League,1992,True,free loan
+Manchester United,Danny Wallace,29,England,Attacking Midfield,AM,,Millwall,England,0.0,out,winter,Premier League,1992,True,free loan
+Manchester United,Kieran Toal,21,Ireland,midfield,midfield,,Motherwell FC,Scotland,,out,winter,Premier League,1992,False,
+Middlesbrough FC,Tommy Wright,26,Scotland,Left Winger,LW,,Leicester,England,910000.0,in,summer,Premier League,1992,False,
+Middlesbrough FC,Jonathan Gittens,28,England,defence,defence,,Southampton,England,250000.0,in,summer,Premier League,1992,False,
+Middlesbrough FC,Chris Morris,28,Ireland,Right-Back,RB,,Celtic,Scotland,,in,summer,Premier League,1992,False,
+Middlesbrough FC,Stuart Ripley,24,England,Right Winger,RW,,Blackburn,England,2000000.0,out,summer,Premier League,1992,False,
+Middlesbrough FC,Gary Parkinson,24,England,Right-Back,RB,,Southend United,England,0.0,out,summer,Premier League,1992,True,free loan
+Middlesbrough FC,Bernie Slaven,31,Ireland,Centre-Forward,CF,,Port Vale,England,,out,summer,Premier League,1992,False,
+Middlesbrough FC,Andy Payton,24,England,attack,attack,,Celtic,Scotland,,out,summer,Premier League,1992,False,
+Middlesbrough FC,Brian Marwood,32,England,Attacking Midfield,AM,,Sheff Utd,England,0.0,out,summer,Premier League,1992,True,end of loan
+Middlesbrough FC,Derek Whyte,24,Scotland,Centre-Back,CB,,Rangers,Scotland,1250000.0,in,winter,Premier League,1992,False,
+Middlesbrough FC,Craig Hignett,22,England,Right Winger,RW,,Crewe Alexandra,England,750000.0,in,winter,Premier League,1992,False,
+Middlesbrough FC,Chris Kamara,35,England,Defensive Midfield,DM,,Luton,England,0.0,in,winter,Premier League,1992,True,free loan
+Middlesbrough FC,Dwight Marshall,27,England,attack,attack,,Plymouth,England,0.0,in,winter,Premier League,1992,True,free loan
+Middlesbrough FC,Richard Liburd,19,England,defence,defence,,Eastwood Town,England,24000.0,in,winter,Premier League,1992,False,
+Middlesbrough FC,Mark Proctor,32,England,midfield,midfield,,Tranmere Rovers,England,0.0,out,winter,Premier League,1992,False,
+Middlesbrough FC,Gary Parkinson,24,England,Right-Back,RB,,Southend United,England,0.0,out,winter,Premier League,1992,True,free loan
+Norwich City,Mark Robins,22,England,Centre-Forward,CF,,Man Utd,England,1000000.0,in,summer,Premier League,1992,False,
+Norwich City,Gary Megson,33,England,Defensive Midfield,DM,,Man City,England,0.0,in,summer,Premier League,1992,False,
+Norwich City,Mark Peters,19,Wales,defence,defence,,Man City,England,0.0,in,summer,Premier League,1992,False,
+Norwich City,Tim Sherwood,23,England,Central Midfield,CM,,Blackburn,England,750000.0,out,summer,Premier League,1992,False,
+Norwich City,Paul Blades,27,England,Right-Back,RB,,Wolves,England,378000.0,out,summer,Premier League,1992,False,
+Norwich City,Adrian Pennock,21,England,midfield,midfield,,Bournemouth,England,36000.0,out,summer,Premier League,1992,False,
+Norwich City,Robert Fleck,26,Scotland,Centre-Forward,CF,,Chelsea,England,,out,summer,Premier League,1992,False,
+Norwich City,Colin Loss,18,England,Right Midfield,RM,,Derby,England,,out,summer,Premier League,1992,False,
+Norwich City,Efan Ekoku,25,Nigeria,Centre-Forward,CF,,Bournemouth,England,,in,winter,Premier League,1992,False,
+Norwich City,Darren Beckford,25,England,Centre-Forward,CF,,Oldham Athletic,England,330000.0,out,winter,Premier League,1992,False,
+Norwich City,Jason Minett,21,England,defence,defence,,Exeter City,England,0.0,out,winter,Premier League,1992,False,
+Norwich City,Mark Walton,23,Wales,Goalkeeper,GK,,Wrexham,Wales,0.0,out,winter,Premier League,1992,True,free loan
+Nottingham Forest,Neil Webb,28,England,Central Midfield,CM,,Man Utd,England,925000.0,in,summer,Premier League,1992,False,
+Nottingham Forest,Gary Bannister,32,England,Centre-Forward,CF,,West Brom,England,0.0,in,summer,Premier League,1992,False,
+Nottingham Forest,Ray McKinnon,21,Scotland,midfield,midfield,,Dundee United,Scotland,,in,summer,Premier League,1992,False,
+Nottingham Forest,Stephen Blatherwick,18,England,Centre-Back,CB,,Notts County,England,,in,summer,Premier League,1992,False,
+Nottingham Forest,Teddy Sheringham,26,England,Centre-Forward,CF,,Spurs,England,3150000.0,out,summer,Premier League,1992,False,
+Nottingham Forest,Des Walker,26,England,Centre-Back,CB,,Sampdoria,Italy,1700000.0,out,summer,Premier League,1992,False,
+Nottingham Forest,Tommy Gaynor,29,Ireland,attack,attack,,Millwall,England,,out,summer,Premier League,1992,False,
+Nottingham Forest,Alan Mahood,19,Scotland,Central Midfield,CM,,Morton,Scotland,,out,summer,Premier League,1992,False,
+Nottingham Forest,Stuart Cash,27,England,Left-Back,LB,,Chesterfield FC,England,,out,summer,Premier League,1992,False,
+Nottingham Forest,Robert Rosario,26,England,attack,attack,,Coventry,England,485000.0,in,winter,Premier League,1992,False,
+Oldham Athletic,Ian Olney,22,England,Centre-Forward,CF,,Aston Villa,England,894000.0,in,summer,Premier League,1992,False,
+Oldham Athletic,Neil Pointon,27,England,Left-Back,LB,,Man City,England,675000.0,in,summer,Premier League,1992,False,
+Oldham Athletic,Steve Redmond,24,England,Centre-Back,CB,,Man City,England,450000.0,in,summer,Premier League,1992,False,
+Oldham Athletic,Chris Makin,19,England,Left-Back,LB,,Wigan,England,0.0,out,summer,Premier League,1992,True,free loan
+Oldham Athletic,Rick Holden,27,England,Left Midfield,LM,,Man City,England,,out,summer,Premier League,1992,False,
+Oldham Athletic,Mike Fillery,31,England,midfield,midfield,,Crawley Town,England,,out,summer,Premier League,1992,False,
+Oldham Athletic,Paul Moulden,24,England,attack,attack,,Brighton,England,0.0,out,summer,Premier League,1992,True,free loan
+Oldham Athletic,Darren Beckford,25,England,Centre-Forward,CF,,Norwich,England,330000.0,in,winter,Premier League,1992,False,
+Oldham Athletic,Mark Brennan,27,England,Central Midfield,CM,,Man City,England,222000.0,in,winter,Premier League,1992,False,
+Oldham Athletic,Orpheo Keizerweerd,24,Netherlands,Centre-Forward,CF,,Rodez AF,France,0.0,in,winter,Premier League,1992,True,free loan
+Oldham Athletic,Paul Moulden,25,England,attack,attack,,Birmingham,England,187000.0,out,winter,Premier League,1992,False,
+Queens Park Rangers,Andy Tillson,26,England,defence,defence,,Grimsby Town,England,0.0,out,summer,Premier League,1992,True,free loan
+Queens Park Rangers,Gary Waddock,30,Ireland,Defensive Midfield,DM,,Bristol Rovers,England,,out,summer,Premier League,1992,False,
+Queens Park Rangers,Justin Channing,23,England,midfield,midfield,,Bristol Rovers,England,,out,summer,Premier League,1992,False,
+Queens Park Rangers,Devon White,28,England,attack,attack,,Cambridge Utd.,England,126000.0,in,winter,Premier League,1992,False,
+Queens Park Rangers,Tony Witter,28,England,Centre-Back,CB,,Millwall,England,0.0,in,winter,Premier League,1992,True,free loan
+Queens Park Rangers,Andy Tillson,26,England,defence,defence,,Bristol Rovers,England,446000.0,out,winter,Premier League,1992,False,
+Queens Park Rangers,Justin Channing,23,England,midfield,midfield,,Bristol Rovers,England,,out,winter,Premier League,1992,False,
+Sheffield United,Alan Kelly,23,Ireland,Goalkeeper,GK,,Preston,England,210000.0,in,summer,Premier League,1992,False,
+Sheffield United,Alan McLeary,27,England,defence,defence,,Millwall,England,0.0,in,summer,Premier League,1992,True,free loan
+Sheffield United,Jim Leighton,34,Scotland,Goalkeeper,GK,,Dundee FC,Scotland,,in,summer,Premier League,1992,False,
+Sheffield United,Andy Scott,19,England,Centre-Forward,CF,,Sutton Utd,England,,in,summer,Premier League,1992,False,
+Sheffield United,Clive Mendonca,23,England,Centre-Forward,CF,,Grimsby Town,England,107000.0,out,summer,Premier League,1992,False,
+Sheffield United,Chris Wilder,24,England,Right-Back,RB,,Rotherham,England,70000.0,out,summer,Premier League,1992,False,
+Sheffield United,Brian Marwood,32,England,Attacking Midfield,AM,,Swindon Town,England,0.0,out,summer,Premier League,1992,False,
+Sheffield United,Mervyn Day,37,England,Goalkeeper,GK,,Leeds,England,0.0,out,summer,Premier League,1992,True,end of loan
+Sheffield United,Franz Carr,26,England,Right Winger,RW,,Newcastle,England,150000.0,in,winter,Premier League,1992,False,
+Sheffield United,Chris Kamara,34,England,Defensive Midfield,DM,,Luton,England,0.0,in,winter,Premier League,1992,True,free loan
+Sheffield Wednesday,Mark Bright,30,England,Centre-Forward,CF,,Crystal Palace,England,1700000.0,in,summer,Premier League,1992,False,
+Sheffield Wednesday,Chris Waddle,31,England,Attacking Midfield,AM,,Marseille,France,1500000.0,in,summer,Premier League,1992,False,
+Sheffield Wednesday,Marlon Beresford,22,England,Goalkeeper,GK,,Burnley,England,140000.0,out,summer,Premier League,1992,False,
+Sheffield Wednesday,Paul Williams,27,England,attack,attack,,Crystal Palace,England,,out,summer,Premier League,1992,False,
+Sheffield Wednesday,David Johnson,22,England,attack,attack,,Lincoln City,England,,out,winter,Premier League,1992,False,
+Sheffield Wednesday,Mike Williams,23,England,attack,attack,,Halifax Town,England,0.0,out,winter,Premier League,1992,True,free loan
+Southampton FC,Perry Groves,27,England,Left Winger,LW,,Arsenal,England,850000.0,in,summer,Premier League,1992,False,
+Southampton FC,Ken Monkou,27,Netherlands,Centre-Back,CB,,Chelsea,England,844000.0,in,summer,Premier League,1992,False,
+Southampton FC,Kerry Dixon,30,England,Centre-Forward,CF,,Chelsea,England,650000.0,in,summer,Premier League,1992,False,
+Southampton FC,David Speedie,32,Scotland,Centre-Forward,CF,,Blackburn,England,600000.0,in,summer,Premier League,1992,False,
+Southampton FC,Paul McDonald,25,Scotland,Left-Back,LB,,Hamilton Acad.,Scotland,,in,summer,Premier League,1992,False,
+Southampton FC,Paul Sheerin,17,Scotland,Left Midfield,LM,,Alloa Athletic,Scotland,,in,summer,Premier League,1992,False,
+Southampton FC,Alan Shearer,21,England,Centre-Forward,CF,,Blackburn,England,4500000.0,out,summer,Premier League,1992,False,
+Southampton FC,Neil Ruddock,24,England,Centre-Back,CB,,Spurs,England,850000.0,out,summer,Premier League,1992,False,
+Southampton FC,Jonathan Gittens,28,England,defence,defence,,Middlesbrough,England,250000.0,out,summer,Premier League,1992,False,
+Southampton FC,Danny Hoekman,27,Netherlands,Left Winger,LW,,FC Den Haag,Netherlands,0.0,out,summer,Premier League,1992,False,
+Southampton FC,Barry Horne,30,Wales,Defensive Midfield,DM,,Everton,England,,out,summer,Premier League,1992,False,
+Southampton FC,Kevin Moore,34,England,defence,defence,,Bristol Rovers,England,0.0,out,summer,Premier League,1992,True,free loan
+Southampton FC,Michael Gilkes,26,Barbados,Left Midfield,LM,,Reading,England,0.0,out,summer,Premier League,1992,True,end of loan
+Southampton FC,Frankie Bennett,24,England,Centre-Forward,CF,,Halesowen,England,9000.0,in,winter,Premier League,1992,False,
+Southampton FC,David Lee,24,England,midfield,midfield,,Bolton,England,344000.0,out,winter,Premier League,1992,False,
+Southampton FC,Kerry Dixon,31,England,Centre-Forward,CF,,Luton,England,0.0,out,winter,Premier League,1992,False,
+Southampton FC,David Speedie,32,Scotland,Centre-Forward,CF,,West Brom,England,0.0,out,winter,Premier League,1992,True,free loan
+Southampton FC,David Speedie,33,Scotland,Centre-Forward,CF,,West Ham,England,0.0,out,winter,Premier League,1992,True,free loan
+Southampton FC,Kevin Moore,34,England,defence,defence,,Bristol Rovers,England,0.0,out,winter,Premier League,1992,True,free loan
+Southampton FC,David Speedie,32,Scotland,Centre-Forward,CF,,Birmingham,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,Teddy Sheringham,26,England,Centre-Forward,CF,,Nottm Forest,England,3150000.0,in,summer,Premier League,1992,False,
+Tottenham Hotspur,Darren Anderton,20,England,Right Midfield,RM,,Portsmouth,England,2700000.0,in,summer,Premier League,1992,False,
+Tottenham Hotspur,Neil Ruddock,24,England,Centre-Back,CB,,Southampton,England,850000.0,in,summer,Premier League,1992,False,
+Tottenham Hotspur,Dean Austin,22,England,Right-Back,RB,,Southend United,England,,in,summer,Premier League,1992,False,
+Tottenham Hotspur,Paul Gascoigne,25,England,Attacking Midfield,AM,,Lazio,Italy,7400000.0,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Paul Stewart,27,England,Defensive Midfield,DM,,Liverpool,England,2750000.0,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Paul Walsh,29,England,Centre-Forward,CF,,Portsmouth,England,450000.0,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Gary Lineker,31,England,Centre-Forward,CF,,Nagoya Grampus,Japan,0.0,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Mark Robson,23,England,midfield,midfield,,West Ham,England,0.0,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Ian Gilzean,22,Scotland,attack,attack,,Doncaster,England,,out,summer,Premier League,1992,False,
+Tottenham Hotspur,David McDonald,21,Ireland,defence,defence,,Bradford,England,,out,summer,Premier League,1992,False,
+Tottenham Hotspur,Lee Hodges,19,England,Left Midfield,LM,,Plymouth,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,Ian Hendon,21,England,Centre-Back,CB,,Barnsley FC,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,David McDonald,22,Ireland,defence,defence,,Reading,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,Peter Beadle,20,England,attack,attack,,Bournemouth,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,Andy Gray,28,England,Central Midfield,CM,,Swindon Town,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,Dave Tuttle,20,England,defence,defence,,Peterborough,England,0.0,out,winter,Premier League,1992,True,free loan
+Tottenham Hotspur,John Hendry,23,Scotland,Centre-Forward,CF,,Charlton,England,0.0,out,winter,Premier League,1992,True,free loan
+Wimbledon FC,Dean Holdsworth,23,England,Centre-Forward,CF,,Brentford,England,1000000.0,in,summer,Premier League,1992,False,
+Wimbledon FC,Vinnie Jones,27,Wales,Defensive Midfield,DM,,Chelsea,England,830000.0,in,summer,Premier League,1992,False,
+Wimbledon FC,Greg Berry,21,England,midfield,midfield,,Leyton Orient,England,313000.0,in,summer,Premier League,1992,False,
+Wimbledon FC,Peter Fear,18,England,midfield,midfield,,Unknown,,,in,summer,Premier League,1992,False,
+Wimbledon FC,Timothy Alexander,18,England,Centre-Back,CB,,Unknown,,,in,summer,Premier League,1992,False,
+Wimbledon FC,Alan McLeary,28,England,defence,defence,,Millwall,England,0.0,in,summer,Premier League,1992,True,free loan
+Wimbledon FC,Terry Phelan,25,Ireland,Left-Back,LB,,Man City,England,,out,summer,Premier League,1992,False,
+Wimbledon FC,Steve Cotterill,28,England,attack,attack,,Brighton,England,0.0,out,summer,Premier League,1992,True,free loan
+Wimbledon FC,Perry Digweed,33,England,Goalkeeper,GK,,Brighton,England,,in,winter,Premier League,1992,False,
+Wimbledon FC,Alan McLeary,28,England,defence,defence,,Millwall,England,0.0,in,winter,Premier League,1992,True,free loan
+Wimbledon FC,Neil Sullivan,23,Scotland,Goalkeeper,GK,,Crystal Palace,England,0.0,out,winter,Premier League,1992,True,free loan
+Wimbledon FC,Terry Gibson,30,England,attack,attack,,Swindon Town,England,0.0,out,winter,Premier League,1992,True,free loan

@@ -1,0 +1,1260 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Gustavo Gómez,23,Paraguay,Centre-Back,CB,1750000.0,Lanús,Argentina,9560000.0,in,summer,Serie A,2016,False,
+AC Milan,Gianluca Lapadula,26,Peru,Centre-Forward,CF,6500000.0,Pescara,Italy,9500000.0,in,summer,Serie A,2016,False,
+AC Milan,José Sosa,31,Argentina,Central Midfield,CM,8000000.0,Besiktas,Turkey,7500000.0,in,summer,Serie A,2016,False,
+AC Milan,Mario Pasalic,21,Croatia,Central Midfield,CM,4500000.0,Chelsea,England,1000000.0,in,summer,Serie A,2016,True,loan with fee
+AC Milan,Matías Fernández,30,Chile,Attacking Midfield,AM,6000000.0,Fiorentina,Italy,800000.0,in,summer,Serie A,2016,True,loan with fee
+AC Milan,Leonel Vangioni,29,Argentina,Left-Back,LB,4000000.0,River Plate,Argentina,0.0,in,summer,Serie A,2016,False,
+AC Milan,Stephan El Shaarawy,23,Italy,Left Winger,LW,17000000.0,AS Roma,Italy,13000000.0,out,summer,Serie A,2016,False,
+AC Milan,Simone Verdi,23,Italy,Attacking Midfield,AM,2000000.0,Bologna,Italy,6400000.0,out,summer,Serie A,2016,False,
+AC Milan,Jérémy Ménez,29,France,Right Winger,RW,9500000.0,G. Bordeaux,France,2850000.0,out,summer,Serie A,2016,False,
+AC Milan,Alessandro Matri,31,Italy,Centre-Forward,CF,2000000.0,Sassuolo,Italy,1800000.0,out,summer,Serie A,2016,False,
+AC Milan,Gianmario Comi,24,Italy,Centre-Forward,CF,350000.0,Carpi,Italy,300000.0,out,summer,Serie A,2016,False,
+AC Milan,Stefan Simic,21,Czech Republic,Centre-Back,CB,150000.0,Mouscron,Belgium,50000.0,out,summer,Serie A,2016,True,loan with fee
+AC Milan,Fernando Torres,32,Spain,Centre-Forward,CF,7000000.0,Atlético Madrid,Spain,0.0,out,summer,Serie A,2016,False,
+AC Milan,Kevin-Prince Boateng,29,Ghana,Attacking Midfield,AM,1000000.0,UD Las Palmas,Spain,0.0,out,summer,Serie A,2016,False,
+AC Milan,Hachim Mastour,18,Morocco,Attacking Midfield,AM,500000.0,PEC Zwolle,Netherlands,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Davide Di Molfetta,20,Italy,Left Winger,LW,225000.0,Prato,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Andrej Modic,20,Bosnia-Herzegovina,Central Midfield,CM,150000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Michael Agazzi,32,Italy,Goalkeeper,GK,750000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,False,
+AC Milan,Matteo Chinellato,24,Italy,Centre-Forward,CF,175000.0,Como,Italy,0.0,out,summer,Serie A,2016,False,
+AC Milan,Giacomo Beretta,24,Italy,Centre-Forward,CF,500000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Juan Alberto Mauri,27,Argentina,Central Midfield,CM,50000.0,Paganese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,José Mauri,20,Italy,Central Midfield,CM,4500000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Jherson Vergara,22,Colombia,Centre-Back,CB,500000.0,Arsenal Tula,Russia,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Diego López,34,Spain,Goalkeeper,GK,1500000.0,Espanyol,Spain,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Matteo Pessina,19,Italy,Attacking Midfield,AM,175000.0,Como,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Gian Filippo Felicioli,18,Italy,Left-Back,LB,250000.0,Ascoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AC Milan,Alex,34,Brazil,Centre-Back,CB,1500000.0,Without Club,,,out,summer,Serie A,2016,False,
+AC Milan,Philippe Mexès,34,France,Centre-Back,CB,500000.0,Retired,,,out,summer,Serie A,2016,False,
+AC Milan,Christian Abbiati,38,Italy,Goalkeeper,GK,500000.0,Retired,,,out,summer,Serie A,2016,False,
+AC Milan,Mario Balotelli,25,Italy,Centre-Forward,CF,7000000.0,Liverpool,England,0.0,out,summer,Serie A,2016,True,end of loan
+AC Milan,Gerard Deulofeu,22,Spain,Left Winger,LW,9000000.0,Everton,England,700000.0,in,winter,Serie A,2016,True,loan with fee
+AC Milan,Lucas Ocampos,22,Argentina,Left Winger,LW,6000000.0,Marseille,France,500000.0,in,winter,Serie A,2016,True,loan with fee
+AC Milan,Marco Storari,40,Italy,Goalkeeper,GK,400000.0,Cagliari Calcio,Italy,,in,winter,Serie A,2016,False,
+AC Milan,M'Baye Niang,22,Senegal,Centre-Forward,CF,15000000.0,Watford,England,750000.0,out,winter,Serie A,2016,True,loan with fee
+AC Milan,Luiz Adriano,29,Brazil,Centre-Forward,CF,5000000.0,Spartak Moscow,Russia,0.0,out,winter,Serie A,2016,False,
+AC Milan,Gabriel,24,Brazil,Goalkeeper,GK,1800000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AC Milan,Giacomo Beretta,24,Italy,Centre-Forward,CF,450000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AC Milan,Rodrigo Ely,23,Brazil,Centre-Back,CB,1200000.0,Alavés,Spain,0.0,out,winter,Serie A,2016,True,free loan
+ACF Fiorentina,Davide Astori,29,Italy,Centre-Back,CB,7500000.0,Cagliari Calcio,Italy,3500000.0,in,summer,Serie A,2016,False,
+ACF Fiorentina,Kevin Diks,19,Netherlands,Right-Back,RB,1500000.0,Vitesse,Netherlands,2900000.0,in,summer,Serie A,2016,False,
+ACF Fiorentina,Bartlomiej Dragowski,18,Poland,Goalkeeper,GK,2500000.0,Jagiellonia,Poland,2500000.0,in,summer,Serie A,2016,False,
+ACF Fiorentina,Ianis Hagi,17,Romania,Attacking Midfield,AM,750000.0,FC Viitorul,Romania,2000000.0,in,summer,Serie A,2016,False,
+ACF Fiorentina,Hrvoje Milic,27,Croatia,Left-Back,LB,1000000.0,Hajduk Split,Croatia,1000000.0,in,summer,Serie A,2016,False,
+ACF Fiorentina,Sebastien De Maio,29,France,Centre-Back,CB,3000000.0,RSC Anderlecht,Belgium,1000000.0,in,summer,Serie A,2016,True,loan with fee
+ACF Fiorentina,Cristian Tello,25,Spain,Left Winger,LW,10000000.0,FC Barcelona,Spain,500000.0,in,summer,Serie A,2016,True,loan with fee
+ACF Fiorentina,Sebastián Cristóforo,23,Uruguay,Central Midfield,CM,3000000.0,Sevilla FC,Spain,500000.0,in,summer,Serie A,2016,True,loan with fee
+ACF Fiorentina,Hernán Toledo,20,Argentina,Left Winger,LW,200000.0,Maldonado,Uruguay,0.0,in,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Carlos Sánchez,30,Colombia,Defensive Midfield,DM,5000000.0,Aston Villa,England,0.0,in,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Carlos Salcedo,22,Mexico,Centre-Back,CB,3000000.0,Chivas,Mexico,0.0,in,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Maximiliano Olivera,24,Uruguay,Left-Back,LB,1000000.0,Peñarol,Uruguay,0.0,in,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Marcos Alonso,25,Spain,Left-Back,LB,9000000.0,Chelsea,England,23000000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Mario Gómez,31,Germany,Centre-Forward,CF,12000000.0,VfL Wolfsburg,Germany,1050000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,José María Basanta,32,Argentina,Centre-Back,CB,2200000.0,Monterrey,Mexico,1000000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Marko Bakic,22,Montenegro,Central Midfield,CM,1500000.0,Braga,Portugal,900000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Matías Fernández,30,Chile,Attacking Midfield,AM,6000000.0,AC Milan,Italy,800000.0,out,summer,Serie A,2016,True,loan with fee
+ACF Fiorentina,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Crotone,Italy,700000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Rafal Wolski,23,Poland,Attacking Midfield,AM,1000000.0,Lechia Gdansk,Poland,500000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Crotone,Italy,200000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Gianluca Mancini,20,Italy,Centre-Back,CB,200000.0,Perugia,Italy,150000.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Facundo Roncaglia,29,Argentina,Right-Back,RB,4500000.0,Celta de Vigo,Spain,0.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Amidu Salifu,23,Ghana,Central Midfield,CM,900000.0,Mantova,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Steve Beleck,23,Cameroon,Centre-Forward,CF,500000.0,Ümraniyespor,Turkey,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Luzayadio Bangu,18,DR Congo,Central Midfield,CM,700000.0,Reggina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Cedric Gondo,19,Cote d'Ivoire,Centre-Forward,CF,700000.0,Asteras Tripoli,Greece,0.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Manuel Pasqual,34,Italy,Left-Back,LB,1000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Ante Rebic,22,Croatia,Left Winger,LW,1000000.0,E. Frankfurt,Germany,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Filippo Bandinelli,21,Italy,Central Midfield,CM,150000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,False,
+ACF Fiorentina,Giuseppe Rossi,29,Italy,Centre-Forward,CF,7500000.0,Celta de Vigo,Spain,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Axel Gulin,21,Italy,Right Winger,RW,75000.0,Campobasso,Italy,,out,summer,Serie A,2016,False,
+ACF Fiorentina,Lorenzo Venuti,21,Italy,Right-Back,RB,300000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Gilberto,23,Brazil,Right-Back,RB,800000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Joshua Brillante,23,Australia,Central Midfield,CM,250000.0,Sydney FC,Australia,,out,summer,Serie A,2016,False,
+ACF Fiorentina,Jaime Báez,21,Uruguay,Left Winger,LW,1500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Saverio Madrigali,21,Italy,Centre-Back,CB,275000.0,Cosenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Marco Berardi,20,Italy,Defensive Midfield,DM,75000.0,Tuttocuoio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Luca Zanon,20,Italy,Left-Back,LB,150000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Ricardo Bagadur,20,Croatia,Centre-Back,CB,350000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Lorenzo Bardini,20,Italy,Goalkeeper,GK,75000.0,Cesena,Italy,,out,summer,Serie A,2016,False,
+ACF Fiorentina,Saverio Madrigali,21,Italy,Centre-Back,CB,275000.0,Vicenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Jacopo Petriccione,21,Italy,Defensive Midfield,DM,125000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Alessandro Bacci,20,Italy,Goalkeeper,GK,200000.0,Juve Stabia,Italy,,out,summer,Serie A,2016,False,
+ACF Fiorentina,Andrés Schetino,22,Uruguay,Defensive Midfield,DM,300000.0,Sevilla Atl.,Spain,0.0,out,summer,Serie A,2016,True,free loan
+ACF Fiorentina,Luigi Sepe,25,Italy,Goalkeeper,GK,3500000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Davide Astori,29,Italy,Centre-Back,CB,7500000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Jakub Blaszczykowski,30,Poland,Attacking Midfield,AM,7000000.0,Bor. Dortmund,Germany,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Tino Costa,31,Argentina,Central Midfield,CM,3500000.0,Spartak Moscow,Russia,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Cristian Tello,24,Spain,Left Winger,LW,9000000.0,FC Barcelona,Spain,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Panagiotis Kone,28,Greece,Central Midfield,CM,4000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Yohan Benalouane,29,Tunisia,Centre-Back,CB,3000000.0,Leicester,England,0.0,out,summer,Serie A,2016,True,end of loan
+ACF Fiorentina,Riccardo Saponara,25,Italy,Attacking Midfield,AM,12000000.0,FC Empoli,Italy,1500000.0,in,winter,Serie A,2016,True,loan with fee
+ACF Fiorentina,Marco Sportiello,24,Italy,Goalkeeper,GK,9000000.0,Atalanta BC,Italy,330000.0,in,winter,Serie A,2016,True,loan with fee
+ACF Fiorentina,Mauro Zárate,29,Argentina,Second Striker,SS,2000000.0,Watford,England,2750000.0,out,winter,Serie A,2016,False,
+ACF Fiorentina,Luca Lezzerini,21,Italy,Goalkeeper,GK,500000.0,Avellino,Italy,0.0,out,winter,Serie A,2016,True,free loan
+ACF Fiorentina,Kevin Diks,20,Netherlands,Right-Back,RB,1900000.0,Vitesse,Netherlands,0.0,out,winter,Serie A,2016,True,free loan
+ACF Fiorentina,Gilberto,23,Brazil,Right-Back,RB,700000.0,Vasco da Gama,Brazil,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Gerson,19,Brazil,Central Midfield,CM,10000000.0,Fluminense,Brazil,18600000.0,in,summer,Serie A,2016,False,
+AS Roma,Mohamed Salah,24,Egypt,Right Winger,RW,23000000.0,Chelsea,England,15000000.0,in,summer,Serie A,2016,False,
+AS Roma,Stephan El Shaarawy,23,Italy,Left Winger,LW,17000000.0,AC Milan,Italy,13000000.0,in,summer,Serie A,2016,False,
+AS Roma,Edin Dzeko,30,Bosnia-Herzegovina,Centre-Forward,CF,15000000.0,Man City,England,11000000.0,in,summer,Serie A,2016,False,
+AS Roma,Diego Perotti,27,Argentina,Left Winger,LW,12000000.0,Genoa,Italy,9000000.0,in,summer,Serie A,2016,False,
+AS Roma,Antonio Rüdiger,23,Germany,Centre-Back,CB,12000000.0,VfB Stuttgart,Germany,9000000.0,in,summer,Serie A,2016,False,
+AS Roma,Alisson,23,Brazil,Goalkeeper,GK,7000000.0,Internacional,Brazil,8000000.0,in,summer,Serie A,2016,False,
+AS Roma,Mário Rui,25,Portugal,Left-Back,LB,6000000.0,FC Empoli,Italy,3500000.0,in,summer,Serie A,2016,True,loan with fee
+AS Roma,Ervin Zukanovic,29,Bosnia-Herzegovina,Centre-Back,CB,4000000.0,Sampdoria,Italy,2800000.0,in,summer,Serie A,2016,False,
+AS Roma,Abdullahi Nura,18,Nigeria,Right-Back,RB,500000.0,Spezia U19,Italy,2500000.0,in,summer,Serie A,2016,False,
+AS Roma,Umar Sadiq,19,Nigeria,Centre-Forward,CF,2500000.0,Spezia Calcio,Italy,2500000.0,in,summer,Serie A,2016,False,
+AS Roma,Juan Jesus,25,Brazil,Centre-Back,CB,9000000.0,Inter,Italy,2000000.0,in,summer,Serie A,2016,True,loan with fee
+AS Roma,Norbert Gyomber,23,Slovakia,Centre-Back,CB,700000.0,Catania,Italy,1500000.0,in,summer,Serie A,2016,False,
+AS Roma,Federico Fazio,29,Argentina,Centre-Back,CB,5000000.0,Spurs,England,1200000.0,in,summer,Serie A,2016,True,loan with fee
+AS Roma,Bruno Peres,26,Brazil,Right-Back,RB,13000000.0,Torino,Italy,1000000.0,in,summer,Serie A,2016,True,loan with fee
+AS Roma,Moustapha Seck,20,Senegal,Left-Back,LB,200000.0,Lazio,Italy,0.0,in,summer,Serie A,2016,False,
+AS Roma,Thomas Vermaelen,30,Belgium,Centre-Back,CB,4000000.0,FC Barcelona,Spain,0.0,in,summer,Serie A,2016,True,free loan
+AS Roma,Adem Ljajic,24,Serbia,Attacking Midfield,AM,12000000.0,Torino,Italy,9000000.0,out,summer,Serie A,2016,False,
+AS Roma,Matteo Politano,22,Italy,Right Winger,RW,2500000.0,Sassuolo,Italy,8100000.0,out,summer,Serie A,2016,False,
+AS Roma,Dodô,24,Brazil,Left-Back,LB,5500000.0,Inter,Italy,7800000.0,out,summer,Serie A,2016,False,
+AS Roma,Antonio Sanabria,20,Paraguay,Centre-Forward,CF,7500000.0,Real Betis,Spain,7500000.0,out,summer,Serie A,2016,False,
+AS Roma,Seydou Doumbia,28,Cote d'Ivoire,Centre-Forward,CF,12000000.0,FC Basel,Switzerland,2000000.0,out,summer,Serie A,2016,True,loan with fee
+AS Roma,Ervin Zukanovic,29,Bosnia-Herzegovina,Centre-Back,CB,3800000.0,Atalanta BC,Italy,1000000.0,out,summer,Serie A,2016,True,loan with fee
+AS Roma,Leandro Castán,29,Brazil,Centre-Back,CB,7000000.0,Sampdoria,Italy,500000.0,out,summer,Serie A,2016,True,loan with fee
+AS Roma,Stefano Pettinari,24,Italy,Centre-Forward,CF,650000.0,Pescara,Italy,400000.0,out,summer,Serie A,2016,False,
+AS Roma,Alessandro Crescenzi,24,Italy,Left-Back,LB,2000000.0,Pescara,Italy,300000.0,out,summer,Serie A,2016,False,
+AS Roma,Francesco Di Mariano,20,Italy,Left Winger,LW,225000.0,Novara,Italy,232000.0,out,summer,Serie A,2016,False,
+AS Roma,Tomas Vestenicky,20,Slovakia,Centre-Forward,CF,200000.0,Cracovia,Poland,100000.0,out,summer,Serie A,2016,False,
+AS Roma,Morgan De Sanctis,39,Italy,Goalkeeper,GK,500000.0,Monaco,France,0.0,out,summer,Serie A,2016,False,
+AS Roma,Ezequiel Ponce,19,Argentina,Centre-Forward,CF,4300000.0,Granada CF,Spain,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Seydou Keita,36,Mali,Central Midfield,CM,500000.0,El-Jaish,Qatar,0.0,out,summer,Serie A,2016,False,
+AS Roma,Mattia Rosato,22,Italy,Centre-Back,CB,150000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,False,
+AS Roma,Vasilios Torosidis,31,Greece,Right-Back,RB,2000000.0,Bologna,Italy,0.0,out,summer,Serie A,2016,False,
+AS Roma,Mihai Balasa,21,Romania,Centre-Back,CB,1000000.0,Trapani,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Jacopo Ferri,21,Italy,Right Winger,RW,150000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Umar Sadiq,19,Nigeria,Centre-Forward,CF,2500000.0,Bologna,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Elio Capradossi,20,Italy,Centre-Back,CB,175000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Ismail H'Maidat,21,Morocco,Central Midfield,CM,450000.0,Vicenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Franck Cedric,21,Cameroon,Right Winger,RW,100000.0,Taranto,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Federico Ricci,22,Italy,Right Winger,RW,3800000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,William Vainqueur,27,France,Defensive Midfield,DM,4500000.0,Marseille,France,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Matteo Ricci,22,Italy,Defensive Midfield,DM,325000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Tomas Svedkauskas,22,Lithuania,Goalkeeper,GK,250000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Norbert Gyomber,24,Slovakia,Centre-Back,CB,1000000.0,Pescara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Tiago Casasola,20,Argentina,Right-Back,RB,450000.0,Trapani,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Simone Battaglia,21,Italy,Central Midfield,CM,150000.0,Ancona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Giammario Piscitella,23,Italy,Left Winger,LW,250000.0,Catania,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Iago Falque,26,Spain,Right Winger,RW,6500000.0,Torino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Paolo Frascatore,24,Italy,Left-Back,LB,250000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Daniele Verde,20,Italy,Right Winger,RW,900000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+AS Roma,Matteo Adamo,19,Italy,Central Midfield,CM,100000.0,Without Club,,,out,summer,Serie A,2016,False,
+AS Roma,Maicon,34,Brazil,Right-Back,RB,1000000.0,Without Club,,,out,summer,Serie A,2016,False,
+AS Roma,Salih Ucan,22,Turkey,Central Midfield,CM,3000000.0,Fenerbahce,Turkey,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Víctor Ibarbo,26,Colombia,Second Striker,SS,8000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Umar Sadiq,19,Nigeria,Centre-Forward,CF,2500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Mohamed Salah,24,Egypt,Right Winger,RW,23000000.0,Chelsea,England,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Edin Dzeko,30,Bosnia-Herzegovina,Centre-Forward,CF,15000000.0,Man City,England,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Antonio Rüdiger,23,Germany,Centre-Back,CB,12000000.0,VfB Stuttgart,Germany,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Norbert Gyomber,23,Slovakia,Centre-Back,CB,700000.0,Catania,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Lucas Digne,22,France,Left-Back,LB,12000000.0,Paris SG,France,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Stephan El Shaarawy,23,Italy,Left Winger,LW,17000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Ervin Zukanovic,29,Bosnia-Herzegovina,Centre-Back,CB,4000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Diego Perotti,27,Argentina,Left Winger,LW,12000000.0,Genoa,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+AS Roma,Emerson,22,Italy,Left-Back,LB,3000000.0,Santos FC,Brazil,2000000.0,in,winter,Serie A,2016,False,
+AS Roma,Clément Grenier,26,France,Central Midfield,CM,3500000.0,Olympique Lyon,France,0.0,in,winter,Serie A,2016,True,free loan
+AS Roma,Iago Falque,27,Spain,Right Winger,RW,8500000.0,Torino,Italy,6000000.0,out,winter,Serie A,2016,False,
+AS Roma,Mihai Balasa,22,Romania,Centre-Back,CB,800000.0,Steaua Bukarest,Romania,500000.0,out,winter,Serie A,2016,False,
+AS Roma,Juan Iturbe,23,Paraguay,Left Winger,LW,8000000.0,Torino,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Giammario Piscitella,23,Italy,Left Winger,LW,200000.0,Prato,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,José Machín,20,Equatorial Guinea,Central Midfield,CM,150000.0,FC Lugano,Switzerland,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Ismail H'Maidat,21,Morocco,Central Midfield,CM,400000.0,Olhanense,Portugal,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Simone Battaglia,21,Italy,Central Midfield,CM,125000.0,Melfi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Moustapha Seck,20,Senegal,Left-Back,LB,200000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Christian D'Urso,19,Italy,Central Midfield,CM,400000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Franck Cedric,21,Cameroon,Right Winger,RW,75000.0,Catanzaro,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Tomas Svedkauskas,22,Lithuania,Goalkeeper,GK,225000.0,Catanzaro,Italy,0.0,out,winter,Serie A,2016,True,free loan
+AS Roma,Norbert Gyomber,24,Slovakia,Centre-Back,CB,1000000.0,Terek Grozny,Russia,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Alberto Paloschi,26,Italy,Centre-Forward,CF,6000000.0,Swansea,England,6700000.0,in,summer,Serie A,2016,False,
+Atalanta BC,Bryan Cabezas,19,Ecuador,Left Winger,LW,1200000.0,Independiente,Ecuador,2500000.0,in,summer,Serie A,2016,False,
+Atalanta BC,Ervin Zukanovic,29,Bosnia-Herzegovina,Centre-Back,CB,3800000.0,AS Roma,Italy,1000000.0,in,summer,Serie A,2016,True,loan with fee
+Atalanta BC,Etrit Berisha,27,Albania,Goalkeeper,GK,3500000.0,Lazio,Italy,700000.0,in,summer,Serie A,2016,True,loan with fee
+Atalanta BC,Alberto Grassi,21,Italy,Central Midfield,CM,4000000.0,SSC Napoli,Italy,400000.0,in,summer,Serie A,2016,True,loan with fee
+Atalanta BC,Abdoulay Konko,32,France,Right-Back,RB,900000.0,Lazio,Italy,0.0,in,summer,Serie A,2016,False,
+Atalanta BC,Aleksandar Pesic,24,Serbia,Centre-Forward,CF,1500000.0,Toulouse,France,0.0,in,summer,Serie A,2016,True,free loan
+Atalanta BC,Leonardo Spinazzola,23,Italy,Left-Back,LB,900000.0,Juventus,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Atalanta BC,Marten de Roon,25,Netherlands,Defensive Midfield,DM,5000000.0,Middlesbrough,England,10500000.0,out,summer,Serie A,2016,False,
+Atalanta BC,Davide Brivio,28,Italy,Left-Back,LB,1300000.0,Genoa,Italy,4000000.0,out,summer,Serie A,2016,False,
+Atalanta BC,Luca Cigarini,30,Italy,Defensive Midfield,DM,5000000.0,Sampdoria,Italy,3500000.0,out,summer,Serie A,2016,False,
+Atalanta BC,Richmond Boakye,23,Ghana,Centre-Forward,CF,1500000.0,Latina Calcio,Italy,2000000.0,out,summer,Serie A,2016,False,
+Atalanta BC,Marco Borriello,34,Italy,Centre-Forward,CF,800000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,False,
+Atalanta BC,Leonardo Gatto,24,Italy,Left Winger,LW,900000.0,Ascoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Constantin Nica,23,Romania,Right-Back,RB,400000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Dávid Forgács,20,Hungary,Left-Back,LB,125000.0,Ancona,Italy,0.0,out,summer,Serie A,2016,False,
+Atalanta BC,Stefano Cason,21,Italy,Centre-Back,CB,175000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Matteo Ardemagni,29,Italy,Centre-Forward,CF,800000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,False,
+Atalanta BC,Ákos Kecskés,20,Hungary,Centre-Back,CB,150000.0,Újpest FC,Hungary,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Alessandro Marchini,20,Italy,Central Midfield,CM,75000.0,Seregno,Italy,0.0,out,summer,Serie A,2016,False,
+Atalanta BC,Rubén Bentancourt,23,Uruguay,Centre-Forward,CF,300000.0,Defensa,Argentina,0.0,out,summer,Serie A,2016,False,
+Atalanta BC,Isnik Alimi,22,Albania,Central Midfield,CM,100000.0,Forlì,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Edoardo Ceria,21,Italy,Right Winger,RW,75000.0,Spartak Trnava,Slovakia,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Mario Pugliese,20,Italy,Central Midfield,CM,200000.0,Pro Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Simone Magnaghi,22,Italy,Centre-Forward,CF,275000.0,Taranto,Italy,,out,summer,Serie A,2016,False,
+Atalanta BC,Luca Zanotti,22,Italy,Goalkeeper,GK,75000.0,Como,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Michele Canini,31,Italy,Centre-Back,CB,400000.0,Parma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Prince Gouano,22,France,Centre-Back,CB,1700000.0,Vit. Guimarães,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Nadir Minotti,24,Italy,Defensive Midfield,DM,450000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Guido Marilungo,27,Italy,Centre-Forward,CF,600000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Faisal Bangal,21,Mozambique,Centre-Forward,CF,50000.0,KF Teuta,Albania,,out,summer,Serie A,2016,False,
+Atalanta BC,Berat Djimsiti,23,Albania,Centre-Back,CB,800000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Salvatore Molina,24,Italy,Right Midfield,RM,900000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Simone Emmanuello,22,Italy,Central Midfield,CM,300000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Cristiano Del Grosso,33,Italy,Left-Back,LB,100000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Matteo Contini,36,Italy,Centre-Back,CB,75000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Riccardo Cazzola,30,Italy,Central Midfield,CM,200000.0,Alessandria,Italy,,out,summer,Serie A,2016,False,
+Atalanta BC,Doudou Mangni,23,Italy,Centre-Forward,CF,250000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Mirco Miori,20,Italy,Goalkeeper,GK,125000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Davide Merelli,20,Italy,Goalkeeper,GK,100000.0,Renate,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Antonio Palma,22,Italy,Central Midfield,CM,200000.0,Renate,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Janis Cavagna,21,Italy,Defensive Midfield,DM,75000.0,Bassano,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Giuseppe Ungaro,21,Italy,Attacking Midfield,AM,75000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Francesco Rossi,25,Italy,Goalkeeper,GK,150000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Davide Agazzi,23,Italy,Central Midfield,CM,200000.0,Foggia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Luca Valzania,20,Italy,Central Midfield,CM,350000.0,Cittadella,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Nadir Minotti,24,Italy,Defensive Midfield,DM,450000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Boris Radunović,20,Serbia,Goalkeeper,GK,600000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Valerio Nava,22,Italy,Right-Back,RB,150000.0,Catania,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Alex Redolfi,22,Italy,Centre-Back,CB,150000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Giacomo Parigi,20,Italy,Centre-Forward,CF,125000.0,Forlì,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Gaetano Monachello,22,Italy,Centre-Forward,CF,900000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Atalanta BC,Nicolas Napol,20,Belgium,Centre-Forward,CF,75000.0,Without Club,,,out,summer,Serie A,2016,False,
+Atalanta BC,Luigi Badji Djibo,21,Burkina Faso,Centre-Back,CB,25000.0,Without Club,,,out,summer,Serie A,2016,False,
+Atalanta BC,Gianpaolo Bellini,36,Italy,Left-Back,LB,100000.0,Retired,,,out,summer,Serie A,2016,False,
+Atalanta BC,Nicolò Cherubin,29,Italy,Centre-Back,CB,800000.0,Bologna,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Atalanta BC,Gabriel Paletta,30,Italy,Centre-Back,CB,5000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Atalanta BC,Alessandro Diamanti,33,Italy,Attacking Midfield,AM,1500000.0,GZ Evergrande,China,0.0,out,summer,Serie A,2016,True,end of loan
+Atalanta BC,Serge Gakpé,29,Togo,Right Winger,RW,2500000.0,Genoa,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Atalanta BC,Hans Hateboer,23,Netherlands,Right-Back,RB,1000000.0,FC Groningen,Netherlands,1040000.0,in,winter,Serie A,2016,False,
+Atalanta BC,Alessandro Santopadre,18,Italy,Goalkeeper,GK,75000.0,Perugia,Italy,1000000.0,in,winter,Serie A,2016,False,
+Atalanta BC,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Perugia,Italy,700000.0,in,winter,Serie A,2016,False,
+Atalanta BC,Gianluca Mancini,20,Italy,Centre-Back,CB,200000.0,Perugia,Italy,300000.0,in,winter,Serie A,2016,False,
+Atalanta BC,Mattia Caldara,22,Italy,Centre-Back,CB,8000000.0,Juventus,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Atalanta BC,Pierluigi Gollini,21,Italy,Goalkeeper,GK,4000000.0,Aston Villa,England,0.0,in,winter,Serie A,2016,True,free loan
+Atalanta BC,Bryan Cristante,21,Italy,Central Midfield,CM,2000000.0,Benfica,Portugal,0.0,in,winter,Serie A,2016,True,free loan
+Atalanta BC,Anthony Mounier,29,France,Left Winger,LW,3000000.0,Bologna,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Atalanta BC,Mattia Caldara,22,Italy,Centre-Back,CB,8000000.0,Juventus,Italy,19000000.0,out,winter,Serie A,2016,False,
+Atalanta BC,Roberto Gagliardini,22,Italy,Central Midfield,CM,8000000.0,Inter,Italy,2000000.0,out,winter,Serie A,2016,True,loan with fee
+Atalanta BC,Marco Sportiello,24,Italy,Goalkeeper,GK,9000000.0,Fiorentina,Italy,330000.0,out,winter,Serie A,2016,True,loan with fee
+Atalanta BC,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Carlos Carmona,29,Chile,Defensive Midfield,DM,1300000.0,Atlanta United,United States,0.0,out,winter,Serie A,2016,False,
+Atalanta BC,Stefano Cason,21,Italy,Centre-Back,CB,150000.0,Trapani,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Guglielmo Stendardo,35,Italy,Centre-Back,CB,300000.0,Pescara,Italy,0.0,out,winter,Serie A,2016,False,
+Atalanta BC,Mauricio Pinilla,32,Chile,Centre-Forward,CF,1000000.0,Genoa,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Valerio Nava,23,Italy,Right-Back,RB,125000.0,Alessandria,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Alex Redolfi,22,Italy,Centre-Back,CB,150000.0,Cremonese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Luca Milesi,23,Italy,Centre-Back,CB,200000.0,Modena,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Gaetano Monachello,22,Italy,Centre-Forward,CF,800000.0,Ternana,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Janis Cavagna,21,Italy,Defensive Midfield,DM,75000.0,Monopoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Alessandro Santopadre,18,Italy,Goalkeeper,GK,75000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Emanuele Suagher,24,Italy,Centre-Back,CB,700000.0,Bari,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Gianluca Mancini,20,Italy,Centre-Back,CB,200000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Giuseppe De Luca,25,Italy,Centre-Forward,CF,1800000.0,Vicenza,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Michele Canini,31,Italy,Centre-Back,CB,200000.0,Cremonese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Atalanta BC,Davide Bassi,31,Italy,Goalkeeper,GK,500000.0,Without Club,,,out,winter,Serie A,2016,False,
+Bologna FC 1909,Simone Verdi,23,Italy,Attacking Midfield,AM,2000000.0,AC Milan,Italy,6400000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Luca Rizzo,24,Italy,Central Midfield,CM,3500000.0,Sampdoria,Italy,6000000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Godfred Donsah,20,Ghana,Central Midfield,CM,5000000.0,Cagliari Calcio,Italy,5000000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Ladislav Krejci,24,Czech Republic,Left Midfield,LM,4000000.0,Sparta Prague,Czech Republic,3800000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Lorenzo Crisetig,23,Italy,Defensive Midfield,DM,3300000.0,Inter,Italy,2700000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Ádám Nagy,21,Hungary,Defensive Midfield,DM,1500000.0,Ferencváros,Hungary,1800000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Federico Di Francesco,22,Italy,Left Winger,LW,1000000.0,Virtus Lanciano,Italy,1400000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Blerim Dzemaili,30,Switzerland,Central Midfield,CM,3500000.0,Galatasaray,Turkey,1300000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Deian Boldor,21,Romania,Centre-Back,CB,100000.0,Virtus Lanciano,Italy,200000.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Lorenzo Musto,20,Italy,Centre-Forward,CF,200000.0,Torres,Italy,0.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Andrea Vassallo,18,Italy,Left Winger,LW,250000.0,Milan U19,Italy,0.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Filippo Perucchini,24,Italy,Goalkeeper,GK,300000.0,Lecce,Italy,0.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Vasilios Torosidis,31,Greece,Right-Back,RB,2000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2016,False,
+Bologna FC 1909,Umar Sadiq,19,Nigeria,Centre-Forward,CF,2500000.0,AS Roma,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Alfred Gomis,22,Senegal,Goalkeeper,GK,2200000.0,Torino,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Filip Helander,23,Sweden,Centre-Back,CB,1400000.0,Hellas Verona,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Federico Viviani,24,Italy,Defensive Midfield,DM,3800000.0,Hellas Verona,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Amadou Diawara,19,Guinea,Defensive Midfield,DM,11000000.0,SSC Napoli,Italy,14500000.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Luca Rossettini,31,Italy,Centre-Back,CB,2000000.0,Torino,Italy,1980000.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Marco Crimi,26,Italy,Central Midfield,CM,900000.0,Carpi,Italy,500000.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Franco Zuculini,25,Argentina,Central Midfield,CM,1500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Matteo Brighi,35,Italy,Central Midfield,CM,400000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Lorenzo Crisetig,23,Italy,Defensive Midfield,DM,3300000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Franco Brienza,37,Italy,Attacking Midfield,AM,500000.0,Bari,Italy,0.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Dejan Stojanovic,23,Austria,Goalkeeper,GK,200000.0,FC St. Gallen,Switzerland,0.0,out,summer,Serie A,2016,False,
+Bologna FC 1909,Nicola Camilloni,19,Italy,Right-Back,RB,50000.0,AJ Fano,Italy,,out,summer,Serie A,2016,False,
+Bologna FC 1909,Blerim Dzemaili,31,Switzerland,Central Midfield,CM,3000000.0,Montreal Impact,United States,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Nicolò Cherubin,29,Italy,Centre-Back,CB,600000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Deian Boldor,21,Romania,Centre-Back,CB,100000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Lorenzo Musto,20,Italy,Centre-Forward,CF,200000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Lorenzo Paramatti,21,Italy,Centre-Back,CB,100000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Rubén Palomeque,21,Spain,Right-Back,RB,50000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Antonio Calabrese,20,Italy,Centre-Forward,CF,75000.0,Racing Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Andrea Vassallo,18,Italy,Left Winger,LW,250000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Francesco Bergamini,21,Italy,Central Midfield,CM,50000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Lorenzo Paramatti,21,Italy,Centre-Back,CB,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Filippo Perucchini,24,Italy,Goalkeeper,GK,300000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Gianmarco Gerevini,23,Italy,Defensive Midfield,DM,200000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Matteo Mancosu,31,Italy,Centre-Forward,CF,1000000.0,Montreal Impact,United States,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Bálint Vécsei,22,Hungary,Central Midfield,CM,200000.0,FC Lugano,Switzerland,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Filippo Falco,24,Italy,Second Striker,SS,1000000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Bologna FC 1909,Luca Camorani,20,Italy,Centre-Back,CB,75000.0,Without Club,,,out,summer,Serie A,2016,False,
+Bologna FC 1909,Luca Ceccarelli,33,Italy,Right-Back,RB,100000.0,Without Club,,,out,summer,Serie A,2016,False,
+Bologna FC 1909,Kévin Constant,29,Guinea,Central Midfield,CM,1800000.0,Without Club,,,out,summer,Serie A,2016,False,
+Bologna FC 1909,Luca Rizzo,24,Italy,Central Midfield,CM,3500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Bologna FC 1909,Godfred Donsah,20,Ghana,Central Midfield,CM,5000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Bologna FC 1909,Marko Krivicic,20,Slovenia,Central Midfield,CM,200000.0,FC Koper,Slovenia,0.0,out,summer,Serie A,2016,True,end of loan
+Bologna FC 1909,Emanuele Giaccherini,31,Italy,Left Midfield,LM,4000000.0,Sunderland,England,0.0,out,summer,Serie A,2016,True,end of loan
+Bologna FC 1909,Camilo Zúñiga,30,Colombia,Right-Back,RB,1000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Bologna FC 1909,Juan Manuel Valencia,18,Colombia,Central Midfield,CM,,Cortuluá,Colombia,1400000.0,in,winter,Serie A,2016,False,
+Bologna FC 1909,Bruno Petkovic,22,Croatia,Centre-Forward,CF,1200000.0,Trapani,Italy,1300000.0,in,winter,Serie A,2016,False,
+Bologna FC 1909,Adama Fofana,27,Cote d'Ivoire,Centre-Forward,CF,50000.0,Without Club,,,in,winter,Serie A,2016,False,
+Bologna FC 1909,Archimede Morleo,33,Italy,Left-Back,LB,400000.0,Bari,Italy,0.0,out,winter,Serie A,2016,False,
+Bologna FC 1909,Sergio Floccari,35,Italy,Centre-Forward,CF,400000.0,SPAL,Italy,0.0,out,winter,Serie A,2016,False,
+Bologna FC 1909,Robert Acquafresca,29,Italy,Centre-Forward,CF,400000.0,Ternana,Italy,0.0,out,winter,Serie A,2016,False,
+Bologna FC 1909,Alex Ferrari,22,Italy,Centre-Back,CB,900000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Bologna FC 1909,Filippo Perucchini,25,Italy,Goalkeeper,GK,250000.0,Lecce,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Bologna FC 1909,Anthony Mounier,29,France,Left Winger,LW,3000000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Bologna FC 1909,Lorenzo Musto,21,Italy,Centre-Forward,CF,125000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Bologna FC 1909,Matteo Mancosu,32,Italy,Centre-Forward,CF,850000.0,Montreal Impact,United States,,out,winter,Serie A,2016,False,
+Cagliari Calcio,Artur Ionita,25,Moldova,Central Midfield,CM,1800000.0,Hellas Verona,Italy,4500000.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Mauricio Isla,28,Chile,Right-Back,RB,6000000.0,Juventus,Italy,4000000.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Simone Padoin,32,Italy,Left Midfield,LM,1500000.0,Juventus,Italy,590000.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Rafael,34,Brazil,Goalkeeper,GK,600000.0,Hellas Verona,Italy,150000.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Bruno Alves,34,Portugal,Centre-Back,CB,2000000.0,Fenerbahce,Turkey,0.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Marko Pajac,23,Croatia,Left Midfield,LM,300000.0,NK Celje,Slovenia,0.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Marco Borriello,34,Italy,Centre-Forward,CF,800000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2016,False,
+Cagliari Calcio,Luca Bittante,23,Italy,Right-Back,RB,1100000.0,FC Empoli,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Panagiotis Tachtsidis,25,Greece,Defensive Midfield,DM,2200000.0,Torino,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Godfred Donsah,20,Ghana,Central Midfield,CM,5000000.0,Bologna,Italy,5000000.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Davide Astori,29,Italy,Centre-Back,CB,7500000.0,Fiorentina,Italy,3500000.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Marco Fossati,23,Italy,Defensive Midfield,DM,2200000.0,Hellas Verona,Italy,1000000.0,out,summer,Serie A,2016,True,loan with fee
+Cagliari Calcio,Víctor Ibarbo,26,Colombia,Second Striker,SS,8000000.0,Panathinaikos,Greece,625000.0,out,summer,Serie A,2016,True,loan with fee
+Cagliari Calcio,Duje Cop,26,Croatia,Centre-Forward,CF,4000000.0,Sporting Gijón,Spain,500000.0,out,summer,Serie A,2016,True,loan with fee
+Cagliari Calcio,Simone Benedetti,24,Italy,Centre-Back,CB,500000.0,Virtus Entella,Italy,500000.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Antonio Balzano,30,Italy,Right-Back,RB,900000.0,Cesena,Italy,200000.0,out,summer,Serie A,2016,True,loan with fee
+Cagliari Calcio,Alessandro Masia,20,Italy,Attacking Midfield,AM,50000.0,Tuttocuoio,Italy,0.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Antonio Loi,19,Italy,Attacking Midfield,AM,75000.0,Modena,Italy,0.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Antonio Cinelli,26,Italy,Central Midfield,CM,600000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Mattia Muroni,20,Italy,Central Midfield,CM,200000.0,Olbia,Italy,0.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Andrea Demontis,21,Italy,Right Midfield,RM,100000.0,Melfi,Italy,0.0,out,summer,Serie A,2016,False,
+Cagliari Calcio,Marco Russu,20,Italy,Left-Back,LB,100000.0,Olbia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Santiago Colombatto,19,Argentina,Defensive Midfield,DM,150000.0,Trapani,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Alessandro Deiola,21,Italy,Central Midfield,CM,1600000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Luka Krajnc,21,Slovenia,Centre-Back,CB,1200000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Marko Pajac,23,Croatia,Left Midfield,LM,500000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Alessandro Capello,20,Italy,Centre-Forward,CF,600000.0,Olbia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Marco Monni,19,Italy,Centre-Forward,CF,25000.0,Muravera,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Alessio Cragno,22,Italy,Goalkeeper,GK,1800000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Dario Del Fabro,21,Italy,Centre-Back,CB,450000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Cagliari Calcio,Luigi Usai,20,Italy,Right-Back,RB,50000.0,Without Club,,,out,summer,Serie A,2016,False,
+Cagliari Calcio,Antonio Barreca,21,Italy,Left-Back,LB,1000000.0,Torino,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Cagliari Calcio,Alberto Cerri,20,Italy,Centre-Forward,CF,2600000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Cagliari Calcio,Andrés Tello,19,Colombia,Central Midfield,CM,900000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Cagliari Calcio,Rafael,34,Brazil,Goalkeeper,GK,600000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Cagliari Calcio,Gabriel,24,Brazil,Goalkeeper,GK,1800000.0,AC Milan,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Paolo Faragò,23,Italy,Right-Back,RB,2500000.0,Novara,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Senna Miangue,19,Congo,Left-Back,LB,2000000.0,Inter,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Luka Krajnc,22,Slovenia,Centre-Back,CB,1200000.0,Frosinone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Gianni Munari,33,Italy,Central Midfield,CM,200000.0,Parma,Italy,0.0,out,winter,Serie A,2016,False,
+Cagliari Calcio,Marco Storari,40,Italy,Goalkeeper,GK,400000.0,AC Milan,Italy,,out,winter,Serie A,2016,False,
+Cagliari Calcio,Luigi Scanu,19,Italy,Defensive Midfield,DM,75000.0,Pro Patria,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Werther Carboni,20,Italy,Goalkeeper,GK,100000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Caio Rangel,21,Brazil,Right Winger,RW,2000000.0,Criciúma EC,Brazil,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Gabriel Montaperto,19,Italy,Goalkeeper,GK,75000.0,Südtirol,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Niccolò Giannetti,25,Italy,Centre-Forward,CF,1800000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Antonio Auriemma,20,Italy,Central Midfield,CM,50000.0,Nuorese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Cagliari Calcio,Víctor Ibarbo,26,Colombia,Second Striker,SS,3500000.0,Sagan Tosu,Japan,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Mattia Bani,22,Italy,Centre-Back,CB,500000.0,Pro Vercelli,Italy,6150000.0,in,summer,Serie A,2016,False,
+Chievo Verona,Paul-José Mpoku,24,DR Congo,Left Winger,LW,4000000.0,Standard Liège,Belgium,4000000.0,in,summer,Serie A,2016,False,
+Chievo Verona,Samuel Bastien,19,Belgium,Central Midfield,CM,800000.0,RSC Anderlecht,Belgium,1300000.0,in,summer,Serie A,2016,False,
+Chievo Verona,Antonio Floro Flores,33,Italy,Centre-Forward,CF,1500000.0,Sassuolo,Italy,600000.0,in,summer,Serie A,2016,False,
+Chievo Verona,Fabrizio Cacciatore,29,Italy,Right-Back,RB,1300000.0,Sampdoria,Italy,522000.0,in,summer,Serie A,2016,False,
+Chievo Verona,Stefano Sorrentino,37,Italy,Goalkeeper,GK,800000.0,US Palermo,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Antonio Cinelli,26,Italy,Central Midfield,CM,600000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Luca Baldassin,22,Italy,Central Midfield,CM,250000.0,Padova,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Federico Alonzi,19,Italy,Centre-Forward,CF,125000.0,Nuorese,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Fabio Daprelà,25,Switzerland,Centre-Back,CB,600000.0,Carpi,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Fabrizio Danese,21,Italy,Centre-Back,CB,25000.0,Nuorese,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Sérgio Cruz,27,Brazil,Centre-Forward,CF,125000.0,Lumezzane,Italy,0.0,in,summer,Serie A,2016,False,
+Chievo Verona,Jonathan de Guzmán,28,Netherlands,Central Midfield,CM,3000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Chievo Verona,Vittorio Parigini,20,Italy,Right Winger,RW,1400000.0,Torino,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Chievo Verona,Simone Moschin,20,Italy,Goalkeeper,GK,100000.0,Pro Vercelli,Italy,4000000.0,out,summer,Serie A,2016,False,
+Chievo Verona,Nikola Ninkovic,21,Serbia,Left Winger,LW,1000000.0,Genoa,Italy,1500000.0,out,summer,Serie A,2016,False,
+Chievo Verona,Paul-José Mpoku,24,DR Congo,Left Winger,LW,3500000.0,Panathinaikos,Greece,500000.0,out,summer,Serie A,2016,True,loan with fee
+Chievo Verona,Antonio Cinelli,26,Italy,Central Midfield,CM,600000.0,Cesena,Italy,180000.0,out,summer,Serie A,2016,True,loan with fee
+Chievo Verona,Dejan Lazarevic,26,Slovenia,Left Winger,LW,1700000.0,Karabükspor,Turkey,100000.0,out,summer,Serie A,2016,True,loan with fee
+Chievo Verona,Lorenzo Marchionni,21,Italy,Left Winger,LW,150000.0,Pro Piacenza,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Giampiero Pinzi,35,Italy,Central Midfield,CM,300000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Sérgio Cruz,27,Brazil,Centre-Forward,CF,125000.0,Andria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Fabian Sporkslede,22,Netherlands,Right-Back,RB,75000.0,NAC Breda,Netherlands,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Oliver Posarelli,20,Italy,Centre-Back,CB,75000.0,MSU Billings,United States,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Simone Pepe,32,Italy,Right Winger,RW,500000.0,Pescara,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Armando Vajushi,24,Albania,Left Winger,LW,1300000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Isaac Ntow,22,Ghana,Left-Back,LB,75000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Malick Mbaye,20,Senegal,Central Midfield,CM,300000.0,Carpi,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Albano Bizzarri,38,Argentina,Goalkeeper,GK,200000.0,Pescara,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Edimar,30,Brazil,Left-Back,LB,850000.0,Cruzeiro,Brazil,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Luca Baldassin,22,Italy,Central Midfield,CM,250000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Luis Maldonado,20,Ecuador,Defensive Midfield,DM,75000.0,Arzignano,Italy,0.0,out,summer,Serie A,2016,False,
+Chievo Verona,Fabio Daprelà,25,Switzerland,Centre-Back,CB,500000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Victor da Silva,21,Brazil,Attacking Midfield,AM,300000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Damir Bartulovic,20,Slovenia,Centre-Forward,CF,125000.0,Como,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Alessio Sestu,32,Italy,Right Winger,RW,250000.0,Alessandria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Yusupha Bobb,20,The Gambia,Central Midfield,CM,200000.0,Taranto,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Matteo Brunelli,22,Italy,Goalkeeper,GK,175000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Ali Sowe,22,The Gambia,Centre-Forward,CF,350000.0,Prato,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Andrea Ghirardi,20,Italy,Second Striker,SS,75000.0,Correggese,Italy,,out,summer,Serie A,2016,False,
+Chievo Verona,Filippo Di Maio,19,Italy,Centre-Back,CB,50000.0,Este,Italy,,out,summer,Serie A,2016,False,
+Chievo Verona,Fabrizio Danese,21,Italy,Centre-Back,CB,25000.0,Prato,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Massimiliano Gatto,20,Italy,Left Winger,LW,200000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Mario Gargiulo,20,Italy,Central Midfield,CM,75000.0,Lucchese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Davide Savi,20,Italy,Centre-Back,CB,50000.0,Renate,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Kevin Yamga,19,France,Left Winger,LW,250000.0,Arezzo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Matteo Solini,23,Italy,Centre-Back,CB,75000.0,Arezzo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Marco Calderoni,27,Italy,Left-Back,LB,300000.0,Novara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Caleb Ekuban,22,Ghana,Right Winger,RW,175000.0,FK Partizani,Albania,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Tomasz Kupisz,26,Poland,Right Midfield,RM,1000000.0,Novara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Ivan Provedel,22,Italy,Goalkeeper,GK,400000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Ansoumana Sané,20,Senegal,Left-Back,LB,250000.0,Pro Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Matteo Brunelli,22,Italy,Goalkeeper,GK,175000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Luca Baldassin,22,Italy,Central Midfield,CM,250000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Emanuele Gatto,21,Italy,Central Midfield,CM,250000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Federico Alonzi,19,Italy,Centre-Forward,CF,125000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Radoslav Kirilov,24,Bulgaria,Left Winger,LW,300000.0,PFC Beroe,Bulgaria,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Mattia Bani,22,Italy,Centre-Back,CB,500000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Raffaele Pucino,25,Italy,Right-Back,RB,300000.0,Vicenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Chievo Verona,Federico Mattiello,20,Italy,Right-Back,RB,400000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Chievo Verona,Paul-José Mpoku,24,DR Congo,Left Winger,LW,4000000.0,Standard Liège,Belgium,0.0,out,summer,Serie A,2016,True,end of loan
+Chievo Verona,Fabrizio Cacciatore,29,Italy,Right-Back,RB,1300000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Chievo Verona,Antonio Floro Flores,33,Italy,Centre-Forward,CF,1500000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Chievo Verona,Serge Gakpé,29,Togo,Right Winger,RW,1500000.0,Genoa,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Chievo Verona,Victor da Silva,22,Brazil,Attacking Midfield,AM,250000.0,Lupa Roma,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Filippo Costa,21,Italy,Left-Back,LB,300000.0,SPAL,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Lamin Jallow,21,The Gambia,Centre-Forward,CF,350000.0,Trapani,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Antonio Floro Flores,33,Italy,Centre-Forward,CF,700000.0,Bari,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Ali Sowe,22,The Gambia,Centre-Forward,CF,275000.0,Vibonese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Yusupha Bobb,20,The Gambia,Central Midfield,CM,175000.0,Padova,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Chievo Verona,Antonio Cinelli,27,Italy,Central Midfield,CM,500000.0,Novara,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Cristiano Biraghi,23,Italy,Left-Back,LB,2500000.0,Inter,Italy,5000000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Valerio Verre,22,Italy,Central Midfield,CM,2400000.0,Udinese Calcio,Italy,4000000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Vincenzo Fiorillo,26,Italy,Goalkeeper,GK,700000.0,Juventus,Italy,2000000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Ahmad Benali,24,Libya,Central Midfield,CM,1200000.0,US Palermo,Italy,1000000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Rey Manaj,19,Albania,Centre-Forward,CF,800000.0,Inter,Italy,500000.0,in,summer,Serie A,2016,True,loan with fee
+Delfino Pescara 1936,Stefano Pettinari,24,Italy,Centre-Forward,CF,650000.0,AS Roma,Italy,400000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Antonio Mazzotta,26,Italy,Left Midfield,LM,800000.0,Cesena,Italy,350000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Alessio Di Massimo,20,Italy,Left Winger,LW,100000.0,Sant'Omero,Italy,300000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Alessandro Crescenzi,24,Italy,Left-Back,LB,2000000.0,AS Roma,Italy,300000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Andrea Coda,31,Italy,Centre-Back,CB,200000.0,Sampdoria,Italy,200000.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Francesco Nicastro,24,Italy,Centre-Forward,CF,250000.0,Juve Stabia,Italy,0.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Albano Bizzarri,38,Argentina,Goalkeeper,GK,200000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Alessandro Polidori,24,Italy,Centre-Forward,CF,150000.0,Rimini,Italy,0.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Simone Pepe,32,Italy,Right Winger,RW,500000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Alberto Aquilani,32,Italy,Central Midfield,CM,3000000.0,Sporting CP,Portugal,0.0,in,summer,Serie A,2016,False,
+Delfino Pescara 1936,Gianluca Caprari,22,Italy,Left Winger,LW,3500000.0,Inter,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Bryan Cristante,21,Italy,Central Midfield,CM,3000000.0,Benfica,Portugal,0.0,in,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Norbert Gyomber,24,Slovakia,Centre-Back,CB,1000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Robert Muric,20,Croatia,Right Winger,RW,800000.0,Ajax U21,Netherlands,0.0,in,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Jean-Christophe Bahebeck,23,France,Centre-Forward,CF,2500000.0,Paris SG,France,0.0,in,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Gianluca Lapadula,26,Peru,Centre-Forward,CF,6500000.0,AC Milan,Italy,9500000.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Gianluca Caprari,22,Italy,Left Winger,LW,3500000.0,Inter,Italy,8250000.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Daniele Mignanelli,23,Italy,Left-Back,LB,300000.0,Ascoli,Italy,170000.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Pasquale Di Sabatino,19,Italy,Centre-Back,CB,75000.0,Maceratese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Pasquale Di Sabatino,19,Italy,Centre-Back,CB,75000.0,Fondi,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luca Savelloni,21,Italy,Goalkeeper,GK,75000.0,Racing Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Danilo Bulevardi,21,Italy,Central Midfield,CM,75000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Souleymane Diamoutene,33,Mali,Centre-Back,CB,25000.0,Gzira Utd,Malta,0.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Andrea Mancini,20,Italy,Left Winger,LW,50000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Cristian Buonaiuto,23,Italy,Right Winger,RW,300000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Riccardo Barbuti,24,Italy,Centre-Forward,CF,150000.0,Lumezzane,Italy,0.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Cristiano Ingretolli,22,Italy,Centre-Forward,CF,75000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Mattia Altobelli,21,Italy,Centre-Back,CB,150000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Christian Ventola,19,Italy,Right-Back,RB,175000.0,Maceratese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Gianluca Clemente,20,Italy,Right-Back,RB,75000.0,Grosseto,Italy,0.0,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Francesco Karkalis,21,Italy,Left-Back,LB,225000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Tomasch Calore,19,Italy,Goalkeeper,GK,75000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Adedoyin Sanni,21,Nigeria,Centre-Back,CB,50000.0,Calvina Sport,Italy,,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Francesco Nicastro,24,Italy,Centre-Forward,CF,250000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Ransford Selasi,20,Ghana,Central Midfield,CM,1000000.0,Novara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Simone Aresti,30,Italy,Goalkeeper,GK,200000.0,Ternana,Italy,,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Andrea Rossi,29,Italy,Left-Back,LB,250000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Nicholas Bensaja,21,Italy,Central Midfield,CM,100000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Antonio Mazzotta,27,Italy,Left Midfield,LM,800000.0,Frosinone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Daniel Di Nicola,20,Italy,Left-Back,LB,25000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Marco Perrotta,22,Italy,Centre-Back,CB,250000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Elhan Kastrati,19,Albania,Goalkeeper,GK,75000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Andrea Cocco,30,Italy,Centre-Forward,CF,500000.0,Frosinone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Gianluca Barba,21,Italy,Central Midfield,CM,275000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Lorenzo Paolucci,19,Italy,Central Midfield,CM,75000.0,Taranto,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luca Forte,21,Italy,Second Striker,SS,350000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Marco Sansovini,36,Italy,Centre-Forward,CF,125000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Alessandro Polidori,24,Italy,Centre-Forward,CF,150000.0,Arezzo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Alessio Di Massimo,20,Italy,Left Winger,LW,100000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Delfino Pescara 1936,Emanuele Pesoli,35,Italy,Centre-Back,CB,25000.0,Retired,,,out,summer,Serie A,2016,False,
+Delfino Pescara 1936,Vincenzo Fiorillo,26,Italy,Goalkeeper,GK,700000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Lucas Torreira,20,Uruguay,Defensive Midfield,DM,1500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Pierluigi Cappelluzzo,20,Italy,Centre-Forward,CF,250000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Alessandro Crescenzi,24,Italy,Left-Back,LB,2000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Valerio Verre,22,Italy,Central Midfield,CM,2400000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Ahmad Benali,24,Libya,Central Midfield,CM,1200000.0,US Palermo,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Daniele Verde,20,Italy,Right Winger,RW,900000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Rolando Mandragora,19,Italy,Defensive Midfield,DM,3000000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Antonio Mazzotta,26,Italy,Left Midfield,LM,800000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Andrea Coda,31,Italy,Centre-Back,CB,200000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Cristian Pasquato,26,Italy,Second Striker,SS,1000000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Joel Acosta,25,Argentina,Right Winger,RW,400000.0,Boca Juniors,Argentina,0.0,out,summer,Serie A,2016,True,end of loan
+Delfino Pescara 1936,Andrés Cubas,20,Paraguay,Defensive Midfield,DM,3500000.0,Boca Juniors,Argentina,140000.0,in,winter,Serie A,2016,True,loan with fee
+Delfino Pescara 1936,Cesare Bovo,33,Italy,Centre-Back,CB,500000.0,Torino,Italy,100000.0,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Guglielmo Stendardo,35,Italy,Centre-Back,CB,300000.0,Atalanta BC,Italy,0.0,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Alberto Gilardino,34,Italy,Centre-Forward,CF,500000.0,FC Empoli,Italy,0.0,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Valerio Verre,23,Italy,Central Midfield,CM,4000000.0,Sampdoria,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Alberto Cerri,20,Italy,Centre-Forward,CF,2200000.0,Juventus,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Grigoris Kastanos,18,Cyprus,Attacking Midfield,AM,350000.0,Juventus U19,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luigi Carillo,20,Italy,Centre-Back,CB,175000.0,Akragas,Italy,,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Sulley Muntari,32,Ghana,Central Midfield,CM,1500000.0,Without Club,,,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Mamadou Coulibaly,18,Senegal,Central Midfield,CM,50000.0,Without Club,,,in,winter,Serie A,2016,False,
+Delfino Pescara 1936,Valerio Verre,23,Italy,Central Midfield,CM,4000000.0,Sampdoria,Italy,4099999.9999999995,out,winter,Serie A,2016,False,
+Delfino Pescara 1936,Dario Zuparic,24,Croatia,Centre-Back,CB,600000.0,HNK Rijeka,Croatia,150000.0,out,winter,Serie A,2016,True,loan with fee
+Delfino Pescara 1936,Stefano Pettinari,24,Italy,Centre-Forward,CF,600000.0,Ternana,Italy,100000.0,out,winter,Serie A,2016,True,loan with fee
+Delfino Pescara 1936,Alberto Aquilani,32,Italy,Central Midfield,CM,1500000.0,Sassuolo,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Gianluca Barba,21,Italy,Central Midfield,CM,300000.0,Pro Piacenza,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luigi Carillo,20,Italy,Centre-Back,CB,175000.0,Paganese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Andrea Mancini,20,Italy,Left Winger,LW,75000.0,Ancona,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Andrea Rossi,30,Italy,Left-Back,LB,200000.0,Ternana,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Danilo Bulevardi,22,Italy,Central Midfield,CM,200000.0,Pordenone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Cristiano Ingretolli,22,Italy,Centre-Forward,CF,75000.0,Maceratese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Elhan Kastrati,19,Albania,Goalkeeper,GK,75000.0,KF Teuta,Albania,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luca Orlando,19,Italy,Centre-Back,CB,50000.0,Castelfidardo,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Luca Forte,22,Italy,Second Striker,SS,200000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Andrea Cocco,30,Italy,Centre-Forward,CF,400000.0,Cesena,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Daniel Di Nicola,20,Italy,Left-Back,LB,50000.0,Taranto,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Delfino Pescara 1936,Andrea Testi,19,Italy,Centre-Forward,CF,50000.0,Racing Roma,Italy,,out,winter,Serie A,2016,False,
+Delfino Pescara 1936,Mirko Pigliacelli,23,Italy,Goalkeeper,GK,400000.0,Trapani,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Crotone,Ante Budimir,24,Croatia,Centre-Forward,CF,3000000.0,FC St. Pauli,Germany,1000000.0,in,summer,Serie A,2016,False,
+FC Crotone,Noë Dussenne,24,Belgium,Centre-Back,CB,1500000.0,Mouscron,Belgium,950000.0,in,summer,Serie A,2016,False,
+FC Crotone,Federico Ceccherini,24,Italy,Centre-Back,CB,700000.0,AS Livorno,Italy,900000.0,in,summer,Serie A,2016,False,
+FC Crotone,Simy,24,Nigeria,Centre-Forward,CF,1000000.0,Portimonense,Portugal,850000.0,in,summer,Serie A,2016,False,
+FC Crotone,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Fiorentina,Italy,700000.0,in,summer,Serie A,2016,False,
+FC Crotone,Marcus Rohdén,25,Sweden,Central Midfield,CM,1100000.0,Elfsborg,Sweden,500000.0,in,summer,Serie A,2016,False,
+FC Crotone,Valentin Cojocaru,20,Romania,Goalkeeper,GK,400000.0,Steaua Bukarest,Romania,250000.0,in,summer,Serie A,2016,True,loan with fee
+FC Crotone,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Fiorentina,Italy,200000.0,in,summer,Serie A,2016,False,
+FC Crotone,Djamel Mesbah,31,Algeria,Left-Back,LB,400000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Lorenzo Crisetig,23,Italy,Defensive Midfield,DM,3300000.0,Bologna,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Marcello Trotta,23,Italy,Centre-Forward,CF,2000000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Diego Falcinelli,25,Italy,Centre-Forward,CF,1100000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Andrea Scicchitano,24,Italy,Central Midfield,CM,50000.0,Racing Roma,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Eddy Gnahoré,22,France,Central Midfield,CM,300000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Mario Sampirisi,23,Italy,Right-Back,RB,900000.0,Vicenza,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Andrea Mazzarani,26,Italy,Attacking Midfield,AM,700000.0,Modena,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Aleksandar Tonev,26,Bulgaria,Left Winger,LW,900000.0,Frosinone,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Andrea Nalini,26,Italy,Right Winger,RW,250000.0,Salernitana,Italy,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Cazim Suljic,19,Bosnia-Herzegovina,Central Midfield,CM,150000.0,Saint-Étienne B,France,0.0,in,summer,Serie A,2016,False,
+FC Crotone,Aleandro Rosi,29,Italy,Right-Back,RB,800000.0,Genoa,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Gian Marco Ferrari,24,Italy,Centre-Back,CB,1000000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Crotone,Gian Marco Ferrari,24,Italy,Centre-Back,CB,1000000.0,Sassuolo,Italy,4000000.0,out,summer,Serie A,2016,False,
+FC Crotone,Ante Budimir,24,Croatia,Centre-Forward,CF,3000000.0,Sampdoria,Italy,1800000.0,out,summer,Serie A,2016,False,
+FC Crotone,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Sampdoria,Italy,1000000.0,out,summer,Serie A,2016,False,
+FC Crotone,Tomislav Saric,26,Croatia,Central Midfield,CM,400000.0,RNK Split,Croatia,0.0,out,summer,Serie A,2016,False,
+FC Crotone,Luca Bruno,20,Italy,Centre-Back,CB,50000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Davide Leto,21,Italy,Central Midfield,CM,50000.0,Avezzano,Italy,0.0,out,summer,Serie A,2016,False,
+FC Crotone,Iacopo Galli,22,Italy,Right-Back,RB,200000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Marco Firenze,23,Italy,Central Midfield,CM,75000.0,Siena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Mirko Esposito,20,Italy,Right-Back,RB,250000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Giuseppe Torromino,28,Italy,Second Striker,SS,400000.0,Lecce,Italy,0.0,out,summer,Serie A,2016,False,
+FC Crotone,Nunzio Di Roberto,30,Italy,Right Winger,RW,350000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Andrea Scicchitano,24,Italy,Central Midfield,CM,50000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Giovanni Foresta,20,Italy,Central Midfield,CM,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Luca Maniero,21,Italy,Goalkeeper,GK,50000.0,Mantova,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Crotone,Michele Cremonesi,28,Italy,Centre-Back,CB,200000.0,SPAL,Italy,,out,summer,Serie A,2016,False,
+FC Crotone,Davide Voltan,21,Italy,Attacking Midfield,AM,75000.0,Genoa,Italy,,out,summer,Serie A,2016,False,
+FC Crotone,Andrea Mazzarani,26,Italy,Attacking Midfield,AM,700000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Crotone,Juan Delgado,21,Uruguay,Centre-Forward,CF,200000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Crotone,Giuseppe Zampano,22,Italy,Right Midfield,RM,400000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Crotone,Matteo Paro,33,Italy,Central Midfield,CM,100000.0,Retired,,,out,summer,Serie A,2016,False,
+FC Crotone,Francesco Modesto,34,Italy,Left-Back,LB,100000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Crotone,Federico Ricci,22,Italy,Right Winger,RW,3800000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Mihai Balasa,21,Romania,Centre-Back,CB,1000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Alessio Sabbione,24,Italy,Centre-Back,CB,150000.0,Carpi,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Ante Budimir,24,Croatia,Centre-Forward,CF,3000000.0,FC St. Pauli,Germany,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Pol García,21,Spain,Centre-Back,CB,500000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Eloge Yao,20,Cote d'Ivoire,Centre-Back,CB,1800000.0,Inter,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Crotone,Maxwell Acosty,25,Ghana,Right Winger,RW,1000000.0,Latina Calcio,Italy,600000.0,in,winter,Serie A,2016,False,
+FC Crotone,Andrej Kotnik,21,Slovenia,Attacking Midfield,AM,250000.0,ND Gorica,Slovenia,0.0,in,winter,Serie A,2016,True,free loan
+FC Crotone,Nicolò Fazzi,21,Italy,Right Midfield,RM,400000.0,Perugia,Italy,700000.0,out,winter,Serie A,2016,False,
+FC Crotone,Raffaele Palladino,32,Italy,Left Winger,LW,400000.0,Genoa,Italy,250000.0,out,winter,Serie A,2016,False,
+FC Crotone,Aniello Salzano,25,Italy,Central Midfield,CM,400000.0,Bari,Italy,0.0,out,winter,Serie A,2016,False,
+FC Crotone,Valentin Cojocaru,21,Romania,Goalkeeper,GK,400000.0,Frosinone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Crotone,Marco Firenze,23,Italy,Central Midfield,CM,125000.0,Paganese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Crotone,Massimo Assisi,19,Italy,Right-Back,RB,50000.0,Avezzano,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Crotone,Pietro De Giorgio,33,Italy,Left Winger,LW,100000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Crotone,Iacopo Galli,23,Italy,Right-Back,RB,200000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Empoli,Matheus,18,Brazil,Attacking Midfield,AM,100000.0,Corinthians,Brazil,2000000.0,in,summer,Serie A,2016,False,
+FC Empoli,Marcel Büchel,25,Liechtenstein,Central Midfield,CM,1500000.0,Juventus,Italy,1500000.0,in,summer,Serie A,2016,False,
+FC Empoli,Manuel Pasqual,34,Italy,Left-Back,LB,1000000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2016,False,
+FC Empoli,Alberto Gilardino,34,Italy,Centre-Forward,CF,1000000.0,US Palermo,Italy,0.0,in,summer,Serie A,2016,False,
+FC Empoli,Frédéric Veseli,23,Albania,Centre-Back,CB,800000.0,FC Lugano,Switzerland,0.0,in,summer,Serie A,2016,False,
+FC Empoli,Federico Dimarco,18,Italy,Left-Back,LB,1300000.0,Inter,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Empoli,Giuseppe Bellusci,26,Italy,Centre-Back,CB,2000000.0,Leeds,England,0.0,in,summer,Serie A,2016,True,free loan
+FC Empoli,Andrés Tello,19,Colombia,Central Midfield,CM,900000.0,Juventus,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Empoli,Guido Marilungo,27,Italy,Centre-Forward,CF,600000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Empoli,José Mauri,20,Italy,Central Midfield,CM,4500000.0,AC Milan,Italy,0.0,in,summer,Serie A,2016,True,free loan
+FC Empoli,Lorenzo Tonelli,26,Italy,Centre-Back,CB,5500000.0,SSC Napoli,Italy,10000000.0,out,summer,Serie A,2016,False,
+FC Empoli,Mário Rui,25,Portugal,Left-Back,LB,6000000.0,AS Roma,Italy,3500000.0,out,summer,Serie A,2016,True,loan with fee
+FC Empoli,Matteo Biggeri,20,Italy,Goalkeeper,GK,75000.0,Montecatini,Italy,0.0,out,summer,Serie A,2016,False,
+FC Empoli,Matteo Ricci,22,Italy,Goalkeeper,GK,200000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2016,False,
+FC Empoli,Dramane Konaté,22,Cote d'Ivoire,Centre-Back,CB,225000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,False,
+FC Empoli,Alessandro Piu,19,Italy,Left Winger,LW,400000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Luca Santomauro,19,Italy,Centre-Back,CB,25000.0,Pro Eureka,Italy,0.0,out,summer,Serie A,2016,False,
+FC Empoli,Michele Camporese,24,Italy,Centre-Back,CB,500000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,False,
+FC Empoli,Kastriot Dermaku,24,Albania,Centre-Back,CB,225000.0,Lucchese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Luca Bittante,23,Italy,Right-Back,RB,1100000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Franco Signorelli,25,Venezuela,Central Midfield,CM,300000.0,Spezia Calcio,Italy,,out,summer,Serie A,2016,False,
+FC Empoli,Alberto Picchi,19,Italy,Central Midfield,CM,350000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Francesco Colombini,22,Italy,Centre-Back,CB,200000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Andrea Valoriani,19,Italy,Goalkeeper,GK,25000.0,San Donato,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Lorenzo Tempesti,22,Italy,Second Striker,SS,225000.0,Tuttocuoio,Italy,,out,summer,Serie A,2016,False,
+FC Empoli,Matteo Brumat,21,Italy,Right-Back,RB,100000.0,Siracusa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+FC Empoli,Jacopo Strano,20,Italy,Right Winger,RW,,VF Colligiana,Italy,,out,summer,Serie A,2016,False,
+FC Empoli,Giacomo Risaliti,21,Italy,Centre-Back,CB,150000.0,Pontedera,Italy,,out,summer,Serie A,2016,False,
+FC Empoli,Mirko Di Nardo,20,Italy,Centre-Back,CB,50000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Empoli,Alessio Agrifogli,20,Italy,Left-Back,LB,75000.0,Without Club,,,out,summer,Serie A,2016,False,
+FC Empoli,Piotr Zielinski,22,Poland,Central Midfield,CM,12000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Empoli,Marko Livaja,22,Croatia,Left Winger,LW,3000000.0,Rubin Kazan,Russia,0.0,out,summer,Serie A,2016,True,end of loan
+FC Empoli,Leandro Paredes,22,Argentina,Defensive Midfield,DM,6000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Empoli,Marcel Büchel,25,Liechtenstein,Central Midfield,CM,1500000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Empoli,Lorenzo Ariaudo,27,Italy,Centre-Back,CB,600000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+FC Empoli,Miha Zajc,22,Slovenia,Central Midfield,CM,800000.0,NK Olimpija,Slovenia,2300000.0,in,winter,Serie A,2016,False,
+FC Empoli,Omar El Kaddouri,26,Morocco,Central Midfield,CM,4500000.0,SSC Napoli,Italy,1200000.0,in,winter,Serie A,2016,False,
+FC Empoli,Mame Thiam,24,Senegal,Left Winger,LW,1250000.0,Juventus,Italy,0.0,in,winter,Serie A,2016,True,free loan
+FC Empoli,Riccardo Saponara,25,Italy,Attacking Midfield,AM,12000000.0,Fiorentina,Italy,1500000.0,out,winter,Serie A,2016,True,loan with fee
+FC Empoli,Alberto Gilardino,34,Italy,Centre-Forward,CF,500000.0,Pescara,Italy,0.0,out,winter,Serie A,2016,False,
+FC Empoli,Ludovico Gargiulo,21,Italy,Central Midfield,CM,100000.0,Prato,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Empoli,Luca Bittante,23,Italy,Right-Back,RB,1000000.0,Salernitana,Italy,0.0,out,winter,Serie A,2016,True,free loan
+FC Empoli,Roman Chanturia,20,Georgia,Centre-Forward,CF,150000.0,Olhanense,Portugal,0.0,out,winter,Serie A,2016,True,free loan
+FC Empoli,Matheus,18,Brazil,Attacking Midfield,AM,250000.0,Juventus U19,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Diego Laxalt,23,Uruguay,Left-Back,LB,5500000.0,Inter,Italy,5800000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Giovanni Simeone,21,Argentina,Centre-Forward,CF,8000000.0,River Plate,Argentina,5100000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Cristian Ansaldi,29,Argentina,Left-Back,LB,6000000.0,Zenit S-Pb,Russia,4000000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Davide Brivio,28,Italy,Left-Back,LB,1300000.0,Atalanta BC,Italy,4000000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Davide Biraschi,22,Italy,Centre-Back,CB,400000.0,Avellino,Italy,1600000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Nikola Ninkovic,21,Serbia,Left Winger,LW,1000000.0,Chievo Verona,Italy,1500000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Francesco Renzetti,28,Italy,Left-Back,LB,900000.0,Cesena,Italy,1200000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Santiago Gentiletti,31,Argentina,Centre-Back,CB,1000000.0,Lazio,Italy,500000.0,in,summer,Serie A,2016,False,
+Genoa CFC,Miguel Veloso,30,Portugal,Defensive Midfield,DM,7500000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Serie A,2016,False,
+Genoa CFC,Lucas Ocampos,21,Argentina,Left Winger,LW,6500000.0,Marseille,France,0.0,in,summer,Serie A,2016,True,free loan
+Genoa CFC,Bartosz Wolski,19,Poland,Central Midfield,CM,75000.0,Latina U19,Italy,0.0,in,summer,Serie A,2016,False,
+Genoa CFC,Lucas Orbán,27,Argentina,Centre-Back,CB,3000000.0,Valencia,Spain,0.0,in,summer,Serie A,2016,False,
+Genoa CFC,Davide Voltan,21,Italy,Attacking Midfield,AM,75000.0,Crotone,Italy,,in,summer,Serie A,2016,False,
+Genoa CFC,Antonio Notaroberto,18,Italy,defence,defence,,Cavese U19,Italy,,in,summer,Serie A,2016,False,
+Genoa CFC,Edenilson,26,Brazil,Central Midfield,CM,2500000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Genoa CFC,Franco Ferrari,21,Italy,Centre-Forward,CF,100000.0,Montecatini,Italy,,in,summer,Serie A,2016,False,
+Genoa CFC,Cristian Ansaldi,29,Argentina,Left-Back,LB,6000000.0,Inter,Italy,10500000.0,out,summer,Serie A,2016,False,
+Genoa CFC,Diego Perotti,27,Argentina,Left Winger,LW,12000000.0,AS Roma,Italy,9000000.0,out,summer,Serie A,2016,False,
+Genoa CFC,Sebastien De Maio,29,France,Centre-Back,CB,3000000.0,RSC Anderlecht,Belgium,3300000.0,out,summer,Serie A,2016,False,
+Genoa CFC,Panagiotis Tachtsidis,25,Greece,Defensive Midfield,DM,2200000.0,Torino,Italy,1300000.0,out,summer,Serie A,2016,False,
+Genoa CFC,Diego Capel,28,Spain,Left Winger,LW,1200000.0,RSC Anderlecht,Belgium,200000.0,out,summer,Serie A,2016,False,
+Genoa CFC,Samir Ujkani,28,Kosovo,Goalkeeper,GK,500000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Daniel Jara,22,Paraguay,Centre-Forward,CF,25000.0,29 de Setiembre,Paraguay,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Marco Albertoni,20,Italy,Goalkeeper,GK,50000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Edoardo Caltabiano,20,Italy,Central Midfield,CM,25000.0,Albissola,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Federico Brusacà,20,Italy,Centre-Back,CB,75000.0,Lumezzane,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Marco Minutolo,20,Italy,defence,defence,,Voltrese,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Leonardo Manu,20,Italy,Centre-Back,CB,,ASD Genova,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Antonio Donnarumma,26,Italy,Goalkeeper,GK,500000.0,Asteras Tripoli,Greece,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Simone Canegallo,20,Italy,Goalkeeper,GK,25000.0,Belvedere,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Lorenzo Lanzalaco,20,Italy,Attacking Midfield,AM,75000.0,Sporting Recco,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Davide Voltan,21,Italy,Attacking Midfield,AM,75000.0,Ancona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Federico Gatto,19,Italy,midfield,midfield,25000.0,A.Baiardo,Italy,0.0,out,summer,Serie A,2016,False,
+Genoa CFC,Antonio Notaroberto,18,Italy,defence,defence,,Gragnano,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Aleandro Rosi,29,Italy,Right-Back,RB,800000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Francesco Renzetti,28,Italy,Left-Back,LB,900000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Bartosz Wolski,19,Poland,Central Midfield,CM,75000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Rodney Strasser,26,Sierra Leone,Defensive Midfield,DM,150000.0,Gil Vicente,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Mario Sampirisi,23,Italy,Right-Back,RB,900000.0,Vicenza,Italy,,out,summer,Serie A,2016,False,
+Genoa CFC,Riccardo Improta,22,Italy,Left Winger,LW,900000.0,Salernitana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Giacomo Lucarini,21,Italy,Centre-Back,CB,50000.0,Siena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Daniele Sommariva,19,Italy,Goalkeeper,GK,400000.0,Nocerina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Michael Ventre,20,Italy,Second Striker,SS,75000.0,Siena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Sebastián Gorga,22,Uruguay,Centre-Back,CB,1000000.0,Gimnasia,Argentina,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,David Milinkovic,22,France,Left Winger,LW,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Alassane També,24,Mali,Right-Back,RB,500000.0,Tondela,Portugal,,out,summer,Serie A,2016,False,
+Genoa CFC,Giuseppe Panico,19,Italy,Centre-Forward,CF,300000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Paolo Ghiglione,19,Italy,Right Midfield,RM,150000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Genoa CFC,Francesco Todisco,20,Italy,Centre-Back,CB,50000.0,Without Club,,,out,summer,Serie A,2016,False,
+Genoa CFC,Moro Alhassan,22,Ghana,Defensive Midfield,DM,125000.0,Without Club,,,out,summer,Serie A,2016,False,
+Genoa CFC,Giovanni Marchese,31,Italy,Left-Back,LB,2000000.0,Without Club,,,out,summer,Serie A,2016,False,
+Genoa CFC,Diego Laxalt,23,Uruguay,Left-Back,LB,4500000.0,Inter,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Blerim Dzemaili,30,Switzerland,Central Midfield,CM,3500000.0,Galatasaray,Turkey,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Suso,22,Spain,Right Winger,RW,3300000.0,AC Milan,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Bruno Gomes,19,Brazil,Centre-Forward,CF,500000.0,Internacional,Brazil,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Alessio Cerci,28,Italy,Right Winger,RW,8500000.0,Atlético Madrid,Spain,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Gabriel Silva,25,Brazil,Left-Back,LB,3500000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Tim Matavz,27,Slovenia,Centre-Forward,CF,2000000.0,FC Augsburg,Germany,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Cristian Ansaldi,29,Argentina,Left-Back,LB,6000000.0,Zenit S-Pb,Russia,0.0,out,summer,Serie A,2016,True,end of loan
+Genoa CFC,Leonardo Morosini,21,Italy,Attacking Midfield,AM,2200000.0,Brescia,Italy,2500000.0,in,winter,Serie A,2016,False,
+Genoa CFC,Andrea Beghetto,22,Italy,Left-Back,LB,600000.0,SPAL,Italy,350000.0,in,winter,Serie A,2016,False,
+Genoa CFC,Oscar Hiljemark,24,Sweden,Central Midfield,CM,3800000.0,US Palermo,Italy,300000.0,in,winter,Serie A,2016,True,loan with fee
+Genoa CFC,Raffaele Palladino,32,Italy,Left Winger,LW,400000.0,Crotone,Italy,250000.0,in,winter,Serie A,2016,False,
+Genoa CFC,Simone Tascone,19,Italy,Central Midfield,CM,100000.0,Ternana,Italy,100000.0,in,winter,Serie A,2016,False,
+Genoa CFC,Mauricio Pinilla,32,Chile,Centre-Forward,CF,1000000.0,Atalanta BC,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Genoa CFC,Rubinho,34,Brazil,Goalkeeper,GK,75000.0,Como,Italy,0.0,in,winter,Serie A,2016,False,
+Genoa CFC,Adel Taarabt,27,Morocco,Attacking Midfield,AM,800000.0,Benfica,Portugal,0.0,in,winter,Serie A,2016,True,free loan
+Genoa CFC,Danilo Cataldi,22,Italy,Central Midfield,CM,7000000.0,Lazio,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Genoa CFC,Loïck Landre,24,France,Centre-Back,CB,1500000.0,Lens,France,,in,winter,Serie A,2016,False,
+Genoa CFC,Leonardo Pavoletti,28,Italy,Centre-Forward,CF,13000000.0,SSC Napoli,Italy,18000000.0,out,winter,Serie A,2016,False,
+Genoa CFC,Tomás Rincón,28,Venezuela,Defensive Midfield,DM,9000000.0,Juventus,Italy,8000000.0,out,winter,Serie A,2016,False,
+Genoa CFC,Loïck Landre,24,France,Centre-Back,CB,1000000.0,AC Pisa,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Antonio Notaroberto,19,Italy,defence,defence,,Agropoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Issa Cissokho,31,Senegal,Right-Back,RB,400000.0,SCO Angers,France,0.0,out,winter,Serie A,2016,False,
+Genoa CFC,Mattia Mandraccio,19,Italy,Left Winger,LW,50000.0,ASD Ceriale,Italy,0.0,out,winter,Serie A,2016,False,
+Genoa CFC,Bartosz Wolski,19,Poland,Central Midfield,CM,75000.0,Bytovia Bytow,Poland,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Franco Ferrari,21,Italy,Centre-Forward,CF,100000.0,Tuttocuoio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Riccardo Fiamozzi,23,Italy,Right-Back,RB,900000.0,Frosinone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Serge Gakpé,29,Togo,Right Winger,RW,1500000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Genoa CFC,Simone Tascone,19,Italy,Central Midfield,CM,100000.0,Paganese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,João Mário,23,Portugal,Central Midfield,CM,30000000.0,Sporting CP,Portugal,40000000.0,in,summer,Serie A,2016,False,
+Inter Milan,Gabriel Barbosa,20,Brazil,Centre-Forward,CF,20000000.0,Santos FC,Brazil,29500000.0,in,summer,Serie A,2016,False,
+Inter Milan,Antonio Candreva,29,Italy,Right Midfield,RM,23000000.0,Lazio,Italy,22000000.0,in,summer,Serie A,2016,False,
+Inter Milan,Miranda,31,Brazil,Centre-Back,CB,16000000.0,Atlético Madrid,Spain,11000000.0,in,summer,Serie A,2016,False,
+Inter Milan,Cristian Ansaldi,29,Argentina,Left-Back,LB,6000000.0,Genoa,Italy,10500000.0,in,summer,Serie A,2016,False,
+Inter Milan,Éder,29,Italy,Second Striker,SS,12000000.0,Sampdoria,Italy,9800000.0,in,summer,Serie A,2016,False,
+Inter Milan,Gianluca Caprari,22,Italy,Left Winger,LW,3500000.0,Pescara,Italy,8250000.0,in,summer,Serie A,2016,False,
+Inter Milan,Dodô,24,Brazil,Left-Back,LB,5500000.0,AS Roma,Italy,7800000.0,in,summer,Serie A,2016,False,
+Inter Milan,Marcelo Brozovic,23,Croatia,Defensive Midfield,DM,18000000.0,Dinamo Zagreb,Croatia,5000000.0,in,summer,Serie A,2016,False,
+Inter Milan,Rey Manaj,19,Albania,Centre-Forward,CF,800000.0,Cremonese,Italy,500000.0,in,summer,Serie A,2016,False,
+Inter Milan,Caner Erkin,27,Turkey,Left-Back,LB,9000000.0,Fenerbahce,Turkey,0.0,in,summer,Serie A,2016,False,
+Inter Milan,Éver Banega,28,Argentina,Central Midfield,CM,15000000.0,Sevilla FC,Spain,0.0,in,summer,Serie A,2016,False,
+Inter Milan,Diego Laxalt,23,Uruguay,Left-Back,LB,5500000.0,Genoa,Italy,5800000.0,out,summer,Serie A,2016,False,
+Inter Milan,Cristiano Biraghi,23,Italy,Left-Back,LB,2500000.0,Pescara,Italy,5000000.0,out,summer,Serie A,2016,False,
+Inter Milan,Lorenzo Crisetig,23,Italy,Defensive Midfield,DM,3300000.0,Bologna,Italy,2700000.0,out,summer,Serie A,2016,False,
+Inter Milan,Juan Jesus,25,Brazil,Centre-Back,CB,9000000.0,AS Roma,Italy,2000000.0,out,summer,Serie A,2016,True,loan with fee
+Inter Milan,Rey Manaj,19,Albania,Centre-Forward,CF,800000.0,Pescara,Italy,500000.0,out,summer,Serie A,2016,True,loan with fee
+Inter Milan,Gaston Camara,20,Guinea,Right Winger,RW,400000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Vincenzo Tommasone,21,Italy,Second Striker,SS,50000.0,Reggina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Caner Erkin,27,Turkey,Left-Back,LB,9000000.0,Besiktas,Turkey,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Dylan Alexis Romney,20,United States,Centre-Forward,CF,50000.0,Paris FC B,France,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Gianmarco Gabbianelli,22,Italy,Attacking Midfield,AM,125000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Evans Kondogbia,27,Central African Republic,Centre-Forward,CF,,Foligno,Italy,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Rodrigo Alborno,22,Paraguay,Left-Back,LB,100000.0,Libertad,Paraguay,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Simone Pasa,22,Italy,Defensive Midfield,DM,300000.0,Cittadella,Italy,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Andrea Palazzi,20,Italy,Central Midfield,CM,200000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Leonardo Longo,21,Italy,Right-Back,RB,75000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2016,False,
+Inter Milan,Edmund Hottor,23,Ghana,Central Midfield,CM,50000.0,Olbia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Edmund Hottor,23,Ghana,Central Midfield,CM,50000.0,Fafe,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Federico Dimarco,18,Italy,Left-Back,LB,1300000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Andrea Romanò,23,Italy,Central Midfield,CM,125000.0,Reggina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Morten Knudsen,21,Denmark,Central Midfield,CM,175000.0,Reggina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Niccolò Belloni,21,Italy,Right Winger,RW,400000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Raffaele Di Gennaro,22,Italy,Goalkeeper,GK,3000000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Fabio Della Giovanna,19,Italy,Centre-Back,CB,200000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Dodô,24,Brazil,Left-Back,LB,5000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Daniel Bessa,23,Italy,Central Midfield,CM,1500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Lorenzo Tassi,21,Italy,Central Midfield,CM,250000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Isaac Donkor,20,Ghana,Centre-Back,CB,750000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Andrea Bandini,22,Italy,Right-Back,RB,300000.0,Mantova,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Francesco Forte,23,Italy,Centre-Forward,CF,200000.0,Lucchese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Gianluca Caprari,22,Italy,Left Winger,LW,3500000.0,Pescara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Giacomo Sciacca,20,Italy,Centre-Back,CB,125000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Davide Costa,20,Italy,Goalkeeper,GK,75000.0,V. Francavilla,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Samuele Longo,24,Italy,Centre-Forward,CF,1000000.0,Girona,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,George Puscas,20,Romania,Centre-Forward,CF,1000000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Fabio Eguelfi,21,Italy,Left-Back,LB,100000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Inter Milan,Mihai Manolache,20,Romania,Left Midfield,LM,50000.0,Without Club,,,out,summer,Serie A,2016,False,
+Inter Milan,Dodô,24,Brazil,Left-Back,LB,5500000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Marcelo Brozovic,23,Croatia,Defensive Midfield,DM,18000000.0,Dinamo Zagreb,Croatia,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Miranda,31,Brazil,Centre-Back,CB,16000000.0,Atlético Madrid,Spain,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Rey Manaj,19,Albania,Centre-Forward,CF,800000.0,Cremonese,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Adem Ljajic,24,Serbia,Attacking Midfield,AM,15000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Alex Telles,23,Brazil,Left-Back,LB,8500000.0,Galatasaray,Turkey,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Éder,29,Italy,Second Striker,SS,12000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+Inter Milan,Stevan Jovetic,27,Montenegro,Centre-Forward,CF,10000000.0,Man City,England,13500000.0,in,winter,Serie A,2016,False,
+Inter Milan,Roberto Gagliardini,22,Italy,Central Midfield,CM,8000000.0,Atalanta BC,Italy,2000000.0,in,winter,Serie A,2016,True,loan with fee
+Inter Milan,Trent Sainsbury,25,Australia,Centre-Back,CB,1000000.0,JS Suning,China,0.0,in,winter,Serie A,2016,True,free loan
+Inter Milan,Andrea Ranocchia,28,Italy,Centre-Back,CB,5000000.0,Hull City,England,1300000.0,out,winter,Serie A,2016,True,loan with fee
+Inter Milan,Daniel Bessa,23,Italy,Central Midfield,CM,2200000.0,Hellas Verona,Italy,1200000.0,out,winter,Serie A,2016,False,
+Inter Milan,Stevan Jovetic,27,Montenegro,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Felipe Melo,33,Brazil,Defensive Midfield,DM,1000000.0,Palmeiras,Brazil,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Roberto Ogunseye,21,Italy,Centre-Forward,CF,100000.0,Olbia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Zé Turbo,20,Guinea-Bissau,Centre-Forward,CF,300000.0,Marbella FC,Spain,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Rey Manaj,19,Albania,Centre-Forward,CF,1000000.0,AC Pisa,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Francesco Forte,23,Italy,Centre-Forward,CF,350000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Senna Miangue,19,Congo,Left-Back,LB,2000000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Alassane Traoré,20,Cote d'Ivoire,Central Midfield,CM,1000000.0,Udinese Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Isaac Donkor,21,Ghana,Centre-Back,CB,700000.0,Cesena,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Davide Costa,20,Italy,Goalkeeper,GK,75000.0,Vicenza,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Inter Milan,Lorenzo Tassi,21,Italy,Central Midfield,CM,200000.0,Feralpisalò,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Gonzalo Higuaín,28,Argentina,Centre-Forward,CF,65000000.0,SSC Napoli,Italy,90000000.0,in,summer,Serie A,2016,False,
+Juventus FC,Marko Pjaca,21,Croatia,Left Winger,LW,8000000.0,Dinamo Zagreb,Croatia,23000000.0,in,summer,Serie A,2016,False,
+Juventus FC,Mario Lemina,22,Gabon,Defensive Midfield,DM,4000000.0,Marseille,France,9800000.0,in,summer,Serie A,2016,False,
+Juventus FC,Juan Cuadrado,28,Colombia,Right-Back,RB,25000000.0,Chelsea,England,5000000.0,in,summer,Serie A,2016,True,loan with fee
+Juventus FC,Medhi Benatia,29,Morocco,Centre-Back,CB,18000000.0,FC Bayern,Germany,3000000.0,in,summer,Serie A,2016,True,loan with fee
+Juventus FC,Simone Ganz,22,Italy,Centre-Forward,CF,1500000.0,Como,Italy,0.0,in,summer,Serie A,2016,False,
+Juventus FC,Dani Alves,33,Brazil,Central Midfield,CM,9000000.0,FC Barcelona,Spain,0.0,in,summer,Serie A,2016,False,
+Juventus FC,Paul Pogba,23,France,Central Midfield,CM,70000000.0,Man Utd,England,105000000.0,out,summer,Serie A,2016,False,
+Juventus FC,Álvaro Morata,23,Spain,Centre-Forward,CF,30000000.0,Real Madrid,Spain,30000000.0,out,summer,Serie A,2016,False,
+Juventus FC,Roberto Pereyra,25,Argentina,Attacking Midfield,AM,16000000.0,Watford,England,13500000.0,out,summer,Serie A,2016,False,
+Juventus FC,Simone Zaza,25,Italy,Centre-Forward,CF,15000000.0,West Ham,England,5000000.0,out,summer,Serie A,2016,True,loan with fee
+Juventus FC,Mauricio Isla,28,Chile,Right-Back,RB,6000000.0,Cagliari Calcio,Italy,4000000.0,out,summer,Serie A,2016,False,
+Juventus FC,Gabriel,22,Brazil,Defensive Midfield,DM,1200000.0,CD Leganés,Spain,2500000.0,out,summer,Serie A,2016,False,
+Juventus FC,Hördur Magnússon,23,Iceland,Centre-Back,CB,600000.0,Bristol City,England,2100000.0,out,summer,Serie A,2016,False,
+Juventus FC,Vincenzo Fiorillo,26,Italy,Goalkeeper,GK,700000.0,Pescara,Italy,2000000.0,out,summer,Serie A,2016,False,
+Juventus FC,Marcel Büchel,25,Liechtenstein,Central Midfield,CM,1500000.0,FC Empoli,Italy,1500000.0,out,summer,Serie A,2016,False,
+Juventus FC,Simone Padoin,32,Italy,Left Midfield,LM,1500000.0,Cagliari Calcio,Italy,590000.0,out,summer,Serie A,2016,False,
+Juventus FC,Andrea Schiavone,23,Italy,Defensive Midfield,DM,900000.0,Cesena,Italy,500000.0,out,summer,Serie A,2016,False,
+Juventus FC,Nicola Leali,23,Italy,Goalkeeper,GK,6000000.0,Olympiacos,Greece,100000.0,out,summer,Serie A,2016,True,loan with fee
+Juventus FC,Luca Marrone,26,Italy,Centre-Back,CB,2000000.0,Zulte Waregem,Belgium,55000.0,out,summer,Serie A,2016,True,loan with fee
+Juventus FC,Gregorio Luperini,22,Italy,Central Midfield,CM,225000.0,Cremonese,Italy,50000.0,out,summer,Serie A,2016,False,
+Juventus FC,Matteo Gerbaudo,21,Italy,Central Midfield,CM,75000.0,Pordenone,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Lorenzo Benucci,19,Italy,Left-Back,LB,125000.0,Prato,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Albert Roussos,20,Greece,Centre-Back,CB,100000.0,Iraklis,Greece,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Jorge Martínez,33,Uruguay,Right Winger,RW,100000.0,Juventud,Uruguay,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Zoran Josipovic,20,Switzerland,Centre-Forward,CF,300000.0,FC Aarau,Switzerland,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Davide Cais,22,Italy,Centre-Forward,CF,150000.0,Pontedera,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Eros Castelletto,21,Italy,Central Midfield,CM,50000.0,Pro Eureka,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Christian Tavanti,21,Italy,Right-Back,RB,125000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Nicolò Curti,21,Italy,Centre-Back,CB,75000.0,Pontedera,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Matteo Liviero,23,Italy,Left-Back,LB,175000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Carlo Ilari,24,Italy,Central Midfield,CM,150000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Laurentiu Branescu,22,Romania,Goalkeeper,GK,300000.0,Dinamo,Romania,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Marcelo Djaló,22,Guinea-Bissau,Centre-Back,CB,200000.0,CD Lugo,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Giacomo Volpe,20,Italy,Goalkeeper,GK,75000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2016,False,
+Juventus FC,Pol Lirola,18,Spain,Right-Back,RB,500000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Alberto Cerri,20,Italy,Centre-Forward,CF,2600000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Cristian Bunino,19,Italy,Centre-Forward,CF,250000.0,Siena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Lorenzo Rosseti,22,Italy,Centre-Forward,CF,900000.0,FC Lugano,Switzerland,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Cristian Pasquato,27,Italy,Second Striker,SS,1000000.0,KS Samara,Russia,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Francesco Cassata,19,Italy,Central Midfield,CM,150000.0,Ascoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Anastasios Donis,19,Greece,Centre-Forward,CF,650000.0,OGC Nice,France,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Ouasim Bouy,23,Morocco,Defensive Midfield,DM,1000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Nazzareno Belfasti,23,Italy,Left-Back,LB,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Filippo Romagna,19,Italy,Centre-Back,CB,500000.0,Novara,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Mame Thiam,23,Senegal,Left Winger,LW,1500000.0,PAOK Salonika,Greece,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Joel Untersee,22,Switzerland,Right-Back,RB,750000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Timothy Nocchi,26,Italy,Goalkeeper,GK,125000.0,Tuttocuoio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Francesco Margiotta,22,Italy,Centre-Forward,CF,250000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Andrés Tello,19,Colombia,Central Midfield,CM,900000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Mattia Vitale,18,Italy,Left Midfield,LM,700000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Leonardo Spinazzola,23,Italy,Left-Back,LB,900000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Simone Ganz,22,Italy,Centre-Forward,CF,1500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Luca Barlocco,21,Italy,Left-Back,LB,225000.0,Alessandria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Stefano Padovan,22,Italy,Centre-Forward,CF,250000.0,Foggia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Michele Cavion,21,Italy,Central Midfield,CM,250000.0,Cremonese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Nico Hidalgo,24,Spain,Right Winger,RW,,Cádiz CF,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Alberto Gallinetta,24,Italy,Goalkeeper,GK,100000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Vlad Marin,21,Romania,Left-Back,LB,75000.0,FCV Dender EH,Belgium,,out,summer,Serie A,2016,False,
+Juventus FC,Alberto Brignoli,24,Italy,Goalkeeper,GK,1200000.0,CD Leganés,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Stefano Beltrame,23,Italy,Attacking Midfield,AM,200000.0,FC Den Bosch,Netherlands,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Carlo Pinsoglio,26,Italy,Goalkeeper,GK,500000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Pol García,21,Spain,Centre-Back,CB,500000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Eric Lanini,22,Italy,Centre-Forward,CF,300000.0,KVC Westerlo,Belgium,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Joyce Anacoura,21,Italy,Goalkeeper,GK,125000.0,Casertana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Juventus FC,Rubinho,33,Brazil,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Serie A,2016,False,
+Juventus FC,Martín Cáceres,29,Uruguay,Centre-Back,CB,7000000.0,Without Club,,,out,summer,Serie A,2016,False,
+Juventus FC,Fausto Rossi,25,Italy,Central Midfield,CM,1700000.0,Without Club,,,out,summer,Serie A,2016,False,
+Juventus FC,Juan Cuadrado,28,Colombia,Right-Back,RB,25000000.0,Chelsea,England,0.0,out,summer,Serie A,2016,True,end of loan
+Juventus FC,Mario Lemina,22,Gabon,Defensive Midfield,DM,4000000.0,Marseille,France,0.0,out,summer,Serie A,2016,True,end of loan
+Juventus FC,Mattia Caldara,22,Italy,Centre-Back,CB,8000000.0,Atalanta BC,Italy,19000000.0,in,winter,Serie A,2016,False,
+Juventus FC,Tomás Rincón,28,Venezuela,Defensive Midfield,DM,9000000.0,Genoa,Italy,8000000.0,in,winter,Serie A,2016,False,
+Juventus FC,Riccardo Orsolini,20,Italy,Right Winger,RW,1500000.0,Ascoli,Italy,6000000.0,in,winter,Serie A,2016,False,
+Juventus FC,Hernanes,31,Brazil,Central Midfield,CM,5000000.0,HB CFFC,China,8000000.0,out,winter,Serie A,2016,False,
+Juventus FC,Simone Zaza,25,Italy,Centre-Forward,CF,15000000.0,Valencia,Spain,2000000.0,out,winter,Serie A,2016,True,loan with fee
+Juventus FC,Davide Cais,22,Italy,Centre-Forward,CF,125000.0,Carrarese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Mattia Caldara,22,Italy,Centre-Back,CB,8000000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Stefano Padovan,22,Italy,Centre-Forward,CF,275000.0,Pordenone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Riccardo Orsolini,20,Italy,Right Winger,RW,1500000.0,Ascoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Patrice Evra,35,France,Left-Back,LB,1000000.0,Marseille,France,0.0,out,winter,Serie A,2016,False,
+Juventus FC,Eric Lanini,22,Italy,Centre-Forward,CF,300000.0,Matera,Italy,34000.0,out,winter,Serie A,2016,True,loan with fee
+Juventus FC,Joyce Anacoura,22,Italy,Goalkeeper,GK,100000.0,Ancona,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Filippo Romagna,19,Italy,Centre-Back,CB,500000.0,Brescia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Vajebah Sakor,20,Norway,Defensive Midfield,DM,300000.0,Willem II,Netherlands,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Ouasim Bouy,23,Morocco,Defensive Midfield,DM,900000.0,PEC Zwolle,Netherlands,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Younes Bnou Marzouk,20,Morocco,Centre-Forward,CF,200000.0,FC Chiasso,Switzerland,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Vykintas Slivka,21,Lithuania,Central Midfield,CM,75000.0,Ascoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Alberto Cerri,20,Italy,Centre-Forward,CF,2200000.0,Pescara,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Claudio Zappa,19,Italy,Left-Back,LB,75000.0,Pordenone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Mame Thiam,24,Senegal,Left Winger,LW,1250000.0,FC Empoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Alberto Brignoli,25,Italy,Goalkeeper,GK,1000000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Juventus FC,Nicolò Pozzebon,19,Italy,Second Striker,SS,150000.0,Piacenza,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Ciro Immobile,26,Italy,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,9450000.0,in,summer,Serie A,2016,False,
+SS Lazio,Wallace,21,Brazil,Centre-Back,CB,6000000.0,Braga,Portugal,8000000.0,in,summer,Serie A,2016,False,
+SS Lazio,Bastos,25,Angola,Centre-Back,CB,5000000.0,Rostov,Russia,5000000.0,in,summer,Serie A,2016,False,
+SS Lazio,Jordan Lukaku,21,Belgium,Left-Back,LB,4000000.0,KV Oostende,Belgium,4000000.0,in,summer,Serie A,2016,False,
+SS Lazio,Luis Alberto,23,Spain,Attacking Midfield,AM,4000000.0,Liverpool,England,4000000.0,in,summer,Serie A,2016,False,
+SS Lazio,Moritz Leitner,23,Germany,Central Midfield,CM,1500000.0,Bor. Dortmund,Germany,1500000.0,in,summer,Serie A,2016,False,
+SS Lazio,Luiz Felipe,19,Brazil,Centre-Back,CB,,Ituano,Brazil,750000.0,in,summer,Serie A,2016,False,
+SS Lazio,Antonio Candreva,29,Italy,Right Midfield,RM,23000000.0,Inter,Italy,22000000.0,out,summer,Serie A,2016,False,
+SS Lazio,Ogenyi Onazi,23,Nigeria,Defensive Midfield,DM,5000000.0,Trabzonspor,Turkey,3500000.0,out,summer,Serie A,2016,False,
+SS Lazio,Etrit Berisha,27,Albania,Goalkeeper,GK,3500000.0,Atalanta BC,Italy,700000.0,out,summer,Serie A,2016,True,loan with fee
+SS Lazio,Maurício,27,Brazil,Centre-Back,CB,2500000.0,Spartak Moscow,Russia,500000.0,out,summer,Serie A,2016,True,loan with fee
+SS Lazio,Santiago Gentiletti,31,Argentina,Centre-Back,CB,1000000.0,Genoa,Italy,500000.0,out,summer,Serie A,2016,False,
+SS Lazio,Moustapha Seck,20,Senegal,Left-Back,LB,200000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,False,
+SS Lazio,Ronaldo,26,Brazil,Defensive Midfield,DM,200000.0,Salernitana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Milan Bisevac,32,Serbia,Centre-Back,CB,1500000.0,FC Metz,France,0.0,out,summer,Serie A,2016,False,
+SS Lazio,Riccardo Serpieri,22,Italy,Centre-Back,CB,150000.0,Pavia,Italy,0.0,out,summer,Serie A,2016,False,
+SS Lazio,Abdoulay Konko,32,France,Right-Back,RB,900000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2016,False,
+SS Lazio,Edson Braafheid,33,Netherlands,Left-Back,LB,300000.0,FC Utrecht,Netherlands,0.0,out,summer,Serie A,2016,False,
+SS Lazio,Gianluca Pollace,20,Italy,Right-Back,RB,125000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Simone Palombi,20,Italy,Centre-Forward,CF,400000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Lorenzo Filippini,20,Italy,Left-Back,LB,250000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Josip Elez,22,Croatia,Centre-Back,CB,300000.0,HNK Rijeka,Croatia,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Luca Crecco,20,Italy,Central Midfield,CM,700000.0,Trapani,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Luca Crecco,20,Italy,Central Midfield,CM,700000.0,Avellino,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Guido Guerrieri,20,Italy,Goalkeeper,GK,300000.0,Trapani,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Brayan Perea,23,Colombia,Centre-Forward,CF,1250000.0,CD Lugo,Spain,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Antonio Rozzi,22,Italy,Centre-Forward,CF,300000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Christopher Oikonomidis,21,Australia,Left Winger,LW,300000.0,Aarhus GF,Denmark,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Luiz Felipe,19,Brazil,Centre-Back,CB,50000.0,Salernitana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SS Lazio,Stefano Mauri,36,Italy,Attacking Midfield,AM,400000.0,Without Club,,,out,summer,Serie A,2016,False,
+SS Lazio,Miroslav Klose,38,Germany,Centre-Forward,CF,1000000.0,Retired,,,out,summer,Serie A,2016,False,
+SS Lazio,Alessandro Matri,31,Italy,Centre-Forward,CF,3500000.0,AC Milan,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+SS Lazio,Moritz Leitner,24,Germany,Central Midfield,CM,1400000.0,FC Augsburg,Germany,1500000.0,out,winter,Serie A,2016,False,
+SS Lazio,Gianluca Pollace,21,Italy,Right-Back,RB,100000.0,Racing Roma,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Vinícius,23,Brazil,Left-Back,LB,500000.0,AEK Athens,Greece,0.0,out,winter,Serie A,2016,False,
+SS Lazio,Álvaro González,32,Uruguay,Central Midfield,CM,800000.0,Nacional,Uruguay,0.0,out,winter,Serie A,2016,False,
+SS Lazio,Franjo Prce,21,Croatia,Centre-Back,CB,150000.0,Brescia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Danilo Cataldi,22,Italy,Central Midfield,CM,7000000.0,Genoa,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Joseph Marie Minala,20,Cameroon,Central Midfield,CM,500000.0,Salernitana,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Lorenzo Filippini,21,Italy,Left-Back,LB,250000.0,Virtus Entella,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Ravel Morrison,23,Jamaica,Attacking Midfield,AM,500000.0,QPR,England,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Ricardo Kishna,22,Netherlands,Left Winger,LW,3500000.0,LOSC Lille,France,0.0,out,winter,Serie A,2016,True,free loan
+SS Lazio,Amarildo Sula,18,Albania,Centre-Forward,CF,50000.0,Reggiana,Italy,,out,winter,Serie A,2016,False,
+SSC Napoli,Arkadiusz Milik,22,Poland,Centre-Forward,CF,12000000.0,Ajax,Netherlands,32000000.0,in,summer,Serie A,2016,False,
+SSC Napoli,Piotr Zielinski,22,Poland,Central Midfield,CM,12000000.0,Udinese Calcio,Italy,16000000.0,in,summer,Serie A,2016,False,
+SSC Napoli,Amadou Diawara,19,Guinea,Defensive Midfield,DM,11000000.0,Bologna,Italy,14500000.0,in,summer,Serie A,2016,False,
+SSC Napoli,Lorenzo Tonelli,26,Italy,Centre-Back,CB,5500000.0,FC Empoli,Italy,10000000.0,in,summer,Serie A,2016,False,
+SSC Napoli,Nikola Maksimovic,24,Serbia,Centre-Back,CB,7000000.0,Torino,Italy,5000000.0,in,summer,Serie A,2016,True,loan with fee
+SSC Napoli,Emanuele Giaccherini,31,Italy,Left Midfield,LM,4000000.0,Sunderland,England,1500000.0,in,summer,Serie A,2016,False,
+SSC Napoli,Marko Rog,21,Croatia,Central Midfield,CM,6000000.0,Dinamo Zagreb,Croatia,1500000.0,in,summer,Serie A,2016,True,loan with fee
+SSC Napoli,Gonzalo Higuaín,28,Argentina,Centre-Forward,CF,65000000.0,Juventus,Italy,90000000.0,out,summer,Serie A,2016,False,
+SSC Napoli,David López,26,Spain,Defensive Midfield,DM,6500000.0,Espanyol,Spain,4000000.0,out,summer,Serie A,2016,False,
+SSC Napoli,Mirko Valdifiori,30,Italy,Defensive Midfield,DM,4000000.0,Torino,Italy,3400000.0,out,summer,Serie A,2016,False,
+SSC Napoli,Mariano Andújar,32,Argentina,Goalkeeper,GK,1500000.0,Estudiantes,Argentina,455000.0,out,summer,Serie A,2016,False,
+SSC Napoli,Alberto Grassi,21,Italy,Central Midfield,CM,4000000.0,Atalanta BC,Italy,400000.0,out,summer,Serie A,2016,True,loan with fee
+SSC Napoli,Bruno Uvini,25,Brazil,Centre-Back,CB,1500000.0,Al-Nassr,Saudi Arabia,200000.0,out,summer,Serie A,2016,False,
+SSC Napoli,Soma Novothny,22,Hungary,Centre-Forward,CF,300000.0,Sint-Truiden,Belgium,150000.0,out,summer,Serie A,2016,False,
+SSC Napoli,Josip Radosevic,22,Croatia,Defensive Midfield,DM,1000000.0,RB Salzburg,Austria,0.0,out,summer,Serie A,2016,False,
+SSC Napoli,Eddy Gnahoré,22,France,Central Midfield,CM,300000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Mario Francesco Prezioso,20,Italy,Central Midfield,CM,75000.0,V. Francavilla,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Giuseppe Palma,22,Italy,Central Midfield,CM,100000.0,FC Chiasso,Switzerland,0.0,out,summer,Serie A,2016,False,
+SSC Napoli,Emanuele Allegra,22,Italy,Centre-Back,CB,75000.0,Lumezzane,Italy,0.0,out,summer,Serie A,2016,False,
+SSC Napoli,Jonathan de Guzmán,28,Netherlands,Central Midfield,CM,3000000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Nicolao Dumitru,24,Italy,Left Winger,LW,700000.0,Nottm Forest,England,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Jacopo Dezi,24,Italy,Central Midfield,CM,1600000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Luca Palmiero,20,Italy,Defensive Midfield,DM,175000.0,Akragas,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Sebastiano Luperto,19,Italy,Centre-Back,CB,300000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Felice Gaetano,20,Italy,Central Midfield,CM,50000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Nikita Contini,20,Italy,Goalkeeper,GK,175000.0,Carrarese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Felice Gaetano,20,Italy,Central Midfield,CM,50000.0,Lupa Roma,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Giovanni Lombardi,19,Italy,Right Winger,RW,25000.0,Grosseto,Italy,,out,summer,Serie A,2016,False,
+SSC Napoli,Daniele Celiento,22,Italy,Centre-Back,CB,150000.0,Viterbese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Marco Supino,20,Italy,Centre-Back,CB,50000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Antonio Romano,20,Italy,Central Midfield,CM,175000.0,Prato,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Gennaro Tutino,19,Italy,Left Winger,LW,400000.0,Carrarese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Alfredo Bifulco,19,Italy,Left Winger,LW,250000.0,Carpi,Italy,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Camilo Zúñiga,30,Colombia,Right-Back,RB,1000000.0,Watford,England,0.0,out,summer,Serie A,2016,True,free loan
+SSC Napoli,Gabriel,23,Brazil,Goalkeeper,GK,2500000.0,AC Milan,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+SSC Napoli,Nathaniel Chalobah,21,England,Defensive Midfield,DM,3500000.0,Chelsea,England,0.0,out,summer,Serie A,2016,True,end of loan
+SSC Napoli,Vasco Regini,25,Italy,Left-Back,LB,2700000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+SSC Napoli,Leonardo Pavoletti,28,Italy,Centre-Forward,CF,13000000.0,Genoa,Italy,18000000.0,in,winter,Serie A,2016,False,
+SSC Napoli,Leandrinho,18,Brazil,Left Winger,LW,750000.0,Ponte Preta,Brazil,590000.0,in,winter,Serie A,2016,False,
+SSC Napoli,Manolo Gabbiadini,25,Italy,Centre-Forward,CF,15000000.0,Southampton,England,17000000.0,out,winter,Serie A,2016,False,
+SSC Napoli,Omar El Kaddouri,26,Morocco,Central Midfield,CM,4500000.0,FC Empoli,Italy,1200000.0,out,winter,Serie A,2016,False,
+SSC Napoli,Eddy Gnahoré,23,France,Central Midfield,CM,250000.0,Perugia,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SSC Napoli,Roberto Insigne,22,Italy,Right Winger,RW,800000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SSC Napoli,Raffaele Maiello,25,Italy,Defensive Midfield,DM,900000.0,Frosinone,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SSC Napoli,Nikita Contini,20,Italy,Goalkeeper,GK,150000.0,Taranto,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SSC Napoli,Igor Lasicki,21,Poland,Centre-Back,CB,175000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+SSC Napoli,Giuseppe Nicolao,22,Italy,Left-Back,LB,50000.0,Ancona,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Adem Ljajic,24,Serbia,Attacking Midfield,AM,12000000.0,AS Roma,Italy,9000000.0,in,summer,Serie A,2016,False,
+Torino FC,Lorenzo De Silvestri,28,Italy,Right-Back,RB,5000000.0,Sampdoria,Italy,3500000.0,in,summer,Serie A,2016,False,
+Torino FC,Mirko Valdifiori,30,Italy,Defensive Midfield,DM,4000000.0,SSC Napoli,Italy,3400000.0,in,summer,Serie A,2016,False,
+Torino FC,Luca Rossettini,31,Italy,Centre-Back,CB,2000000.0,Bologna,Italy,1980000.0,in,summer,Serie A,2016,False,
+Torino FC,Sasa Lukic,19,Serbia,Central Midfield,CM,700000.0,Partizan,Serbia,1700000.0,in,summer,Serie A,2016,False,
+Torino FC,Panagiotis Tachtsidis,25,Greece,Defensive Midfield,DM,2200000.0,Genoa,Italy,1300000.0,in,summer,Serie A,2016,False,
+Torino FC,Samuel Gustafson,21,Sweden,Central Midfield,CM,750000.0,Häcken,Sweden,600000.0,in,summer,Serie A,2016,False,
+Torino FC,Leandro Castán,29,Brazil,Centre-Back,CB,5000000.0,Sampdoria,Italy,500000.0,in,summer,Serie A,2016,True,loan with fee
+Torino FC,Arlind Ajeti,22,Albania,Centre-Back,CB,1500000.0,Frosinone,Italy,0.0,in,summer,Serie A,2016,False,
+Torino FC,Lucas Boyé,20,Argentina,Centre-Forward,CF,1750000.0,River Plate,Argentina,0.0,in,summer,Serie A,2016,False,
+Torino FC,Iago Falque,26,Spain,Right Winger,RW,6500000.0,AS Roma,Italy,0.0,in,summer,Serie A,2016,True,free loan
+Torino FC,Joe Hart,29,England,Goalkeeper,GK,17000000.0,Man City,England,0.0,in,summer,Serie A,2016,True,free loan
+Torino FC,Kamil Glik,28,Poland,Centre-Back,CB,10000000.0,Monaco,France,11000000.0,out,summer,Serie A,2016,False,
+Torino FC,Nikola Maksimovic,24,Serbia,Centre-Back,CB,7000000.0,SSC Napoli,Italy,5000000.0,out,summer,Serie A,2016,True,loan with fee
+Torino FC,Fabio Quagliarella,33,Italy,Centre-Forward,CF,3000000.0,Sampdoria,Italy,2750000.0,out,summer,Serie A,2016,False,
+Torino FC,Juan Sánchez Miño,26,Argentina,Left-Back,LB,2500000.0,Independiente,Argentina,1280000.0,out,summer,Serie A,2016,False,
+Torino FC,Bruno Peres,26,Brazil,Right-Back,RB,13000000.0,AS Roma,Italy,1000000.0,out,summer,Serie A,2016,True,loan with fee
+Torino FC,Alessandro Gazzi,33,Italy,Defensive Midfield,DM,700000.0,US Palermo,Italy,700000.0,out,summer,Serie A,2016,False,
+Torino FC,Luca Parodi,21,Italy,Right-Back,RB,325000.0,Feralpisalò,Italy,100000.0,out,summer,Serie A,2016,False,
+Torino FC,Facundo Lescano,20,Argentina,Centre-Forward,CF,225000.0,Igea 1946,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Alexander Farnerud,32,Sweden,Central Midfield,CM,400000.0,Häcken,Sweden,0.0,out,summer,Serie A,2016,False,
+Torino FC,Andrea Compagno,20,Italy,Centre-Forward,CF,25000.0,Pinerolo,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Maurice Gomis,18,Senegal,Goalkeeper,GK,50000.0,Cuneo,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Vasyl Pryima,25,Ukraine,Centre-Back,CB,800000.0,Frosinone,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Nicholas Lentini,19,Italy,Goalkeeper,GK,75000.0,Gozzano,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Lys Gomis,26,Senegal,Goalkeeper,GK,300000.0,Lecce,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Matteo Fissore,20,Italy,Centre-Back,CB,125000.0,Alessandria,Italy,0.0,out,summer,Serie A,2016,False,
+Torino FC,Emmanuel Gyasi,22,Ghana,Left Winger,LW,200000.0,Pistoiese,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Mirco Bonfante,19,Italy,Left Winger,LW,25000.0,Saronno,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Panagiotis Tachtsidis,25,Greece,Defensive Midfield,DM,2200000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Alfred Gomis,22,Senegal,Goalkeeper,GK,2200000.0,Bologna,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Salvador Ichazo,24,Uruguay,Goalkeeper,GK,1000000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Gianluca Piccoli,19,Italy,Central Midfield,CM,50000.0,Forlì,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Gastón Silva,22,Uruguay,Left-Back,LB,1800000.0,Granada CF,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Pontus Jansson,25,Sweden,Centre-Back,CB,1300000.0,Leeds,England,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Vittorio Parigini,20,Italy,Right Winger,RW,1400000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Simone Edera,19,Italy,Right Winger,RW,200000.0,Venezia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Marco Chiosa,22,Italy,Centre-Back,CB,700000.0,Perugia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Jacopo Segre,19,Italy,Central Midfield,CM,75000.0,Piacenza,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Alessandro Dalmasso,20,Italy,Centre-Back,CB,75000.0,Pinerolo,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Claudio Morra,21,Italy,Centre-Forward,CF,125000.0,Pro Vercelli,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Sergiu Suciu,26,Romania,Central Midfield,CM,175000.0,Pordenone,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Kevin Bonifazi,20,Italy,Centre-Back,CB,125000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Federico Proia,20,Italy,Central Midfield,CM,75000.0,Pistoiese,Italy,,out,summer,Serie A,2016,False,
+Torino FC,Abou Diop,22,Senegal,Centre-Forward,CF,375000.0,Viterbese,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Torino FC,Luca Castellazzi,40,Italy,Goalkeeper,GK,100000.0,Retired,,,out,summer,Serie A,2016,False,
+Torino FC,Ciro Immobile,26,Italy,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,0.0,out,summer,Serie A,2016,True,end of loan
+Torino FC,Sanjin Prcic,22,Bosnia-Herzegovina,Central Midfield,CM,1400000.0,Stade Rennais,France,0.0,out,summer,Serie A,2016,True,end of loan
+Torino FC,Iago Falque,27,Spain,Right Winger,RW,8500000.0,AS Roma,Italy,6000000.0,in,winter,Serie A,2016,False,
+Torino FC,Carlão,30,Brazil,Centre-Back,CB,800000.0,APOEL Nicosia,Cyprus,500000.0,in,winter,Serie A,2016,False,
+Torino FC,Juan Iturbe,23,Paraguay,Left Winger,LW,8000000.0,AS Roma,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Torino FC,Josef Martínez,23,Venezuela,Centre-Forward,CF,2000000.0,Atlanta United,United States,4500000.0,out,winter,Serie A,2016,False,
+Torino FC,Cesare Bovo,33,Italy,Centre-Back,CB,500000.0,Pescara,Italy,100000.0,out,winter,Serie A,2016,False,
+Torino FC,Lorenzo Carissoni,19,Italy,Right-Back,RB,75000.0,Monopoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Simone Rosso,21,Italy,Left Winger,LW,300000.0,Alessandria,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Giuseppe Vives,36,Italy,Defensive Midfield,DM,300000.0,Pro Vercelli,Italy,0.0,out,winter,Serie A,2016,False,
+Torino FC,Marco Chiosa,23,Italy,Centre-Back,CB,600000.0,Novara,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Vittorio Parigini,20,Italy,Right Winger,RW,1400000.0,Bari,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Simone Edera,20,Italy,Right Winger,RW,175000.0,Parma,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Mattia Aramu,21,Italy,Attacking Midfield,AM,500000.0,Pro Vercelli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Alfred Gomis,23,Senegal,Goalkeeper,GK,2000000.0,Salernitana,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Abou Diop,23,Senegal,Centre-Forward,CF,400000.0,Modena,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Salvador Ichazo,25,Uruguay,Goalkeeper,GK,600000.0,Danubio FC,Uruguay,0.0,out,winter,Serie A,2016,True,free loan
+Torino FC,Josef Martínez,23,Venezuela,Centre-Forward,CF,2000000.0,Atlanta United,United States,0.0,out,winter,Serie A,2016,True,free loan
+UC Sampdoria,Dennis Praet,22,Belgium,Central Midfield,CM,9000000.0,RSC Anderlecht,Belgium,8000000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Patrik Schick,20,Czech Republic,Centre-Forward,CF,500000.0,Sparta Prague,Czech Republic,4000000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Luca Cigarini,30,Italy,Defensive Midfield,DM,5000000.0,Atalanta BC,Italy,3500000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Karol Linetty,21,Poland,Central Midfield,CM,3200000.0,Lech Poznan,Poland,3100000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Fabio Quagliarella,33,Italy,Centre-Forward,CF,3000000.0,Torino,Italy,2750000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Jacopo Sala,24,Italy,Right-Back,RB,2500000.0,Hellas Verona,Italy,2600000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Emiliano Viviano,30,Italy,Goalkeeper,GK,5000000.0,US Palermo,Italy,2300000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Ante Budimir,24,Croatia,Centre-Forward,CF,3000000.0,Crotone,Italy,1800000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Salvatore Lancia,19,Italy,Centre-Forward,CF,125000.0,Verona U19,Italy,1000000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Crotone,Italy,1000000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Bruno Fernandes,21,Portugal,Attacking Midfield,AM,6500000.0,Udinese Calcio,Italy,1000000.0,in,summer,Serie A,2016,True,loan with fee
+UC Sampdoria,Antonio Palumbo,20,Italy,Central Midfield,CM,500000.0,Ternana,Italy,700000.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Leandro Castán,29,Brazil,Centre-Back,CB,7000000.0,AS Roma,Italy,500000.0,in,summer,Serie A,2016,True,loan with fee
+UC Sampdoria,Filip Djuricic,24,Serbia,Attacking Midfield,AM,4000000.0,Benfica,Portugal,0.0,in,summer,Serie A,2016,True,free loan
+UC Sampdoria,Stanley Amuzie,20,Nigeria,Left-Back,LB,25000.0,Olhanense,Portugal,0.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Daniel Pavlovic,28,Bosnia-Herzegovina,Left-Back,LB,800000.0,Grasshoppers,Switzerland,0.0,in,summer,Serie A,2016,False,
+UC Sampdoria,Dodô,24,Brazil,Left-Back,LB,5000000.0,Inter,Italy,0.0,in,summer,Serie A,2016,True,free loan
+UC Sampdoria,Luka Krajnc,21,Slovenia,Centre-Back,CB,1200000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2016,True,free loan
+UC Sampdoria,Joaquín Correa,21,Argentina,Second Striker,SS,6500000.0,Sevilla FC,Spain,18200000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Roberto Soriano,25,Italy,Attacking Midfield,AM,14000000.0,Villarreal,Spain,13750000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Fernando,24,Brazil,Central Midfield,CM,11000000.0,Spartak Moscow,Russia,12500000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Éder,29,Italy,Second Striker,SS,12000000.0,Inter,Italy,9800000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Alfred Duncan,23,Ghana,Central Midfield,CM,5500000.0,Sassuolo,Italy,6000000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Luca Rizzo,24,Italy,Central Midfield,CM,3500000.0,Bologna,Italy,6000000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Lorenzo De Silvestri,28,Italy,Right-Back,RB,5000000.0,Torino,Italy,3500000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Ervin Zukanovic,29,Bosnia-Herzegovina,Centre-Back,CB,4000000.0,AS Roma,Italy,2800000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Pawel Wszolek,24,Poland,Right Winger,RW,1200000.0,Hellas Verona,Italy,2000000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Niklas Moisander,30,Finland,Centre-Back,CB,3000000.0,Werder Bremen,Germany,1700000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Fabrizio Cacciatore,29,Italy,Right-Back,RB,1300000.0,Chievo Verona,Italy,522000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,José Campaña,23,Spain,Central Midfield,CM,1200000.0,Levante,Spain,500000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Leandro Castán,29,Brazil,Centre-Back,CB,5000000.0,Torino,Italy,500000.0,out,summer,Serie A,2016,True,loan with fee
+UC Sampdoria,Andrea Coda,31,Italy,Centre-Back,CB,200000.0,Pescara,Italy,200000.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Alessandro Martinelli,23,Switzerland,Central Midfield,CM,500000.0,Brescia,Italy,75000.0,out,summer,Serie A,2016,True,loan with fee
+UC Sampdoria,Gianluca Sampietro,23,Italy,Central Midfield,CM,175000.0,Taranto,Italy,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Djamel Mesbah,31,Algeria,Left-Back,LB,400000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Gianluca Sansone,29,Italy,Centre-Forward,CF,1300000.0,Novara,Italy,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Mattia Placido,21,Italy,Right-Back,RB,75000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Mattia Cassani,32,Italy,Right-Back,RB,600000.0,Bari,Italy,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Nenad Krsticic,26,Serbia,Central Midfield,CM,2000000.0,Alavés,Spain,0.0,out,summer,Serie A,2016,False,
+UC Sampdoria,Francesco Fedato,23,Italy,Left Winger,LW,700000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Jakub Hromada,20,Slovakia,Defensive Midfield,DM,275000.0,Viktoria Plzen,Czech Republic,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Jefferson Oliveira,26,Brazil,Centre-Back,CB,150000.0,Gil Vicente,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Antonio Palumbo,20,Italy,Central Midfield,CM,500000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Leonardo Capezzi,21,Italy,Defensive Midfield,DM,1300000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,David Ivan,21,Slovakia,Central Midfield,CM,2000000.0,Bari,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Salvatore Lancia,19,Italy,Centre-Forward,CF,125000.0,Reggina,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Wladimiro Falcone,21,Italy,Goalkeeper,GK,200000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Karlo Lulic,20,Croatia,Central Midfield,CM,300000.0,NK Osijek,Croatia,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Alessandro De Vitis,24,Italy,Defensive Midfield,DM,175000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Luca Piana,22,Italy,Centre-Back,CB,175000.0,Pro Piacenza,Italy,,out,summer,Serie A,2016,False,
+UC Sampdoria,Michele Rocca,20,Italy,Central Midfield,CM,600000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Gabriele Rolando,21,Italy,Right Midfield,RM,150000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Federico Bonazzoli,19,Italy,Centre-Forward,CF,2800000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+UC Sampdoria,Modibo Diakité,29,France,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Serie A,2016,False,
+UC Sampdoria,Georges Douglas Petdji Tsila,19,Cameroon,Right Midfield,RM,125000.0,Without Club,,,out,summer,Serie A,2016,False,
+UC Sampdoria,Emiliano Viviano,30,Italy,Goalkeeper,GK,5000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Alberto Brignoli,24,Italy,Goalkeeper,GK,1300000.0,Juventus,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Alejandro Rodríguez,24,Spain,Centre-Forward,CF,700000.0,Cesena,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Lazaros Christodoulopoulos,29,Greece,Right Winger,RW,1300000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Dodô,24,Brazil,Left-Back,LB,5500000.0,Inter,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Andrea Ranocchia,28,Italy,Centre-Back,CB,7500000.0,Inter,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Jacopo Sala,24,Italy,Right-Back,RB,2500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Fabio Quagliarella,33,Italy,Centre-Forward,CF,3000000.0,Torino,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+UC Sampdoria,Valerio Verre,23,Italy,Central Midfield,CM,4000000.0,Pescara,Italy,4099999.9999999995,in,winter,Serie A,2016,False,
+UC Sampdoria,Bartosz Bereszynski,24,Poland,Right-Back,RB,600000.0,Legia Warszawa,Poland,1800000.0,in,winter,Serie A,2016,False,
+UC Sampdoria,Lorenco Simic,20,Croatia,Centre-Back,CB,550000.0,Hajduk Split,Croatia,1500000.0,in,winter,Serie A,2016,False,
+UC Sampdoria,Filip Djuricic,25,Serbia,Attacking Midfield,AM,3000000.0,Benfica,Portugal,0.0,in,winter,Serie A,2016,False,
+UC Sampdoria,Pedro Pereira,19,Portugal,Right Midfield,RM,2000000.0,Benfica,Portugal,2660000.0,out,winter,Serie A,2016,False,
+UC Sampdoria,Mirko Eramo,27,Italy,Central Midfield,CM,500000.0,Benevento,Italy,0.0,out,winter,Serie A,2016,False,
+UC Sampdoria,Valerio Verre,23,Italy,Central Midfield,CM,4000000.0,Pescara,Italy,0.0,out,winter,Serie A,2016,True,free loan
+UC Sampdoria,Francesco Fedato,24,Italy,Left Winger,LW,600000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+UC Sampdoria,Andrea Tozzo,24,Italy,Goalkeeper,GK,200000.0,Matera,Italy,0.0,out,winter,Serie A,2016,True,free loan
+UC Sampdoria,Antonio Cassano,34,Italy,Second Striker,SS,300000.0,Without Club,,,out,winter,Serie A,2016,False,
+US Palermo,Bruno Henrique,26,Brazil,Central Midfield,CM,3000000.0,Corinthians,Brazil,3300000.0,in,summer,Serie A,2016,False,
+US Palermo,Slobodan Rajkovic,27,Serbia,Centre-Back,CB,1500000.0,SV Darmstadt 98,Germany,1500000.0,in,summer,Serie A,2016,False,
+US Palermo,Haitam Aleesami,25,Norway,Left-Back,LB,900000.0,IFK Göteborg,Sweden,1380000.0,in,summer,Serie A,2016,False,
+US Palermo,Alessandro Gazzi,33,Italy,Defensive Midfield,DM,700000.0,Torino,Italy,700000.0,in,summer,Serie A,2016,False,
+US Palermo,Ilija Nestorovski,26,North Macedonia,Centre-Forward,CF,1500000.0,Inter Zapresic,Croatia,500000.0,in,summer,Serie A,2016,False,
+US Palermo,Roland Sallai,19,Hungary,Right Winger,RW,450000.0,Puskás AFC,Hungary,300000.0,in,summer,Serie A,2016,True,loan with fee
+US Palermo,Alessandro Diamanti,33,Italy,Attacking Midfield,AM,1000000.0,GZ Evergrande,China,0.0,in,summer,Serie A,2016,False,
+US Palermo,Ouasim Bouy,23,Morocco,Defensive Midfield,DM,1000000.0,Juventus,Italy,0.0,in,summer,Serie A,2016,True,free loan
+US Palermo,Franco Vázquez,27,Argentina,Attacking Midfield,AM,15000000.0,Sevilla FC,Spain,16800000.0,out,summer,Serie A,2016,False,
+US Palermo,Bruno Henrique,27,Brazil,Central Midfield,CM,2500000.0,Palmeiras,Brazil,3500000.0,out,summer,Serie A,2016,False,
+US Palermo,Achraf Lazaar,24,Morocco,Left-Back,LB,2300000.0,Newcastle,England,2850000.0,out,summer,Serie A,2016,False,
+US Palermo,Emiliano Viviano,30,Italy,Goalkeeper,GK,5000000.0,Sampdoria,Italy,2300000.0,out,summer,Serie A,2016,False,
+US Palermo,Ahmad Benali,24,Libya,Central Midfield,CM,1200000.0,Pescara,Italy,1000000.0,out,summer,Serie A,2016,False,
+US Palermo,Stefano Sorrentino,37,Italy,Goalkeeper,GK,800000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2016,False,
+US Palermo,Cephas Malele,22,Switzerland,Centre-Forward,CF,300000.0,Leixões,Portugal,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Alberto Gilardino,34,Italy,Centre-Forward,CF,1000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2016,False,
+US Palermo,Gabriele Zerbo,22,Italy,Second Striker,SS,75000.0,Paganese,Italy,0.0,out,summer,Serie A,2016,False,
+US Palermo,Uros Djurdjevic,22,Montenegro,Centre-Forward,CF,1000000.0,Partizan,Serbia,0.0,out,summer,Serie A,2016,False,
+US Palermo,Dario Giacomarro,21,Italy,Defensive Midfield,DM,250000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Roberto Pirrello,20,Italy,Centre-Back,CB,150000.0,Siracusa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Abdelhamid El Kaoutari,26,Morocco,Centre-Back,CB,2500000.0,SC Bastia,France,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Matheus Cassini,20,Brazil,Attacking Midfield,AM,500000.0,Siracusa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Marco Toscano,19,Italy,Defensive Midfield,DM,150000.0,Siracusa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Davide Monteleone,20,Italy,Centre-Back,CB,100000.0,Padova,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Aljaz Struna,26,Slovenia,Centre-Back,CB,800000.0,Carpi,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Antonino La Gumina,20,Italy,Centre-Forward,CF,300000.0,Ternana,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Andrea Accardi,20,Italy,Right-Back,RB,50000.0,Modena,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Manuel Arteaga,22,Venezuela,Centre-Forward,CF,800000.0,The Strongest,Bolivia,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Fabrizio Alastra,18,Italy,Goalkeeper,GK,300000.0,Matera,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Luca Fiordilino,19,Italy,Defensive Midfield,DM,300000.0,Lecce,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Davide Petermann,21,Italy,Defensive Midfield,DM,100000.0,Teramo,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Roberto Pirrello,20,Italy,Centre-Back,CB,150000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Simon Makienok,25,Denmark,Centre-Forward,CF,1500000.0,Preston,England,0.0,out,summer,Serie A,2016,True,free loan
+US Palermo,Granddi N'Goyi,28,DR Congo,Defensive Midfield,DM,700000.0,Without Club,,,out,summer,Serie A,2016,False,
+US Palermo,Enzo Maresca,36,Italy,Central Midfield,CM,200000.0,Without Club,,,out,summer,Serie A,2016,False,
+US Palermo,Milan Milanovic,25,Serbia,Centre-Back,CB,300000.0,Without Club,,,out,summer,Serie A,2016,False,
+US Palermo,Gastón Brugman,23,Uruguay,Defensive Midfield,DM,1300000.0,Pescara,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+US Palermo,Bryan Cristante,21,Italy,Central Midfield,CM,3000000.0,Benfica,Portugal,0.0,out,summer,Serie A,2016,True,end of loan
+US Palermo,Stefan Silva,26,Sweden,Centre-Forward,CF,450000.0,GIF Sundsvall,Sweden,800000.0,in,winter,Serie A,2016,False,
+US Palermo,Toni Sunjic,28,Bosnia-Herzegovina,Centre-Back,CB,1500000.0,VfB Stuttgart,Germany,0.0,in,winter,Serie A,2016,True,free loan
+US Palermo,Robin Quaison,23,Sweden,Second Striker,SS,2000000.0,1.FSV Mainz 05,Germany,2500000.0,out,winter,Serie A,2016,False,
+US Palermo,Oscar Hiljemark,24,Sweden,Central Midfield,CM,3800000.0,Genoa,Italy,300000.0,out,winter,Serie A,2016,True,loan with fee
+US Palermo,Cephas Malele,22,Switzerland,Centre-Forward,CF,250000.0,Varzim,Portugal,0.0,out,winter,Serie A,2016,True,free loan
+US Palermo,Matheus Cassini,20,Brazil,Attacking Midfield,AM,400000.0,Ponte Preta,Brazil,0.0,out,winter,Serie A,2016,False,
+US Palermo,Accursio Bentivegna,20,Italy,Left Winger,LW,800000.0,Ascoli,Italy,0.0,out,winter,Serie A,2016,True,free loan
+US Palermo,Manuel Arteaga,22,Venezuela,Centre-Forward,CF,800000.0,RFC Seraing,Belgium,,out,winter,Serie A,2016,False,
+US Palermo,Davide Petermann,22,Italy,Defensive Midfield,DM,100000.0,Carrarese,Italy,0.0,out,winter,Serie A,2016,True,free loan
+US Palermo,Fabrizio Alastra,19,Italy,Goalkeeper,GK,500000.0,Benevento,Italy,0.0,out,winter,Serie A,2016,True,free loan
+US Sassuolo,Matteo Politano,22,Italy,Right Winger,RW,2500000.0,AS Roma,Italy,8100000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Alfred Duncan,23,Ghana,Central Midfield,CM,5500000.0,Sampdoria,Italy,6000000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Gian Marco Ferrari,24,Italy,Centre-Back,CB,1000000.0,Crotone,Italy,4000000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Timo Letschert,23,Netherlands,Centre-Back,CB,3000000.0,FC Utrecht,Netherlands,3500000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Pietro Iemmello,24,Italy,Centre-Forward,CF,650000.0,Spezia Calcio,Italy,2300000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Alessandro Matri,31,Italy,Centre-Forward,CF,2000000.0,AC Milan,Italy,1800000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Antonino Ragusa,26,Italy,Left Winger,LW,1500000.0,Cesena,Italy,1790000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Pietro Cianci,20,Italy,Centre-Forward,CF,100000.0,Andria,Italy,20000.0,in,summer,Serie A,2016,False,
+US Sassuolo,Pol Lirola,18,Spain,Right-Back,RB,500000.0,Juventus,Italy,0.0,in,summer,Serie A,2016,True,free loan
+US Sassuolo,Federico Ricci,22,Italy,Right Winger,RW,3800000.0,AS Roma,Italy,0.0,in,summer,Serie A,2016,True,free loan
+US Sassuolo,Sime Vrsaljko,24,Croatia,Right-Back,RB,13000000.0,Atlético Madrid,Spain,14000000.0,out,summer,Serie A,2016,False,
+US Sassuolo,Nicola Sansone,24,Italy,Left Winger,LW,12000000.0,Villarreal,Spain,13000000.0,out,summer,Serie A,2016,False,
+US Sassuolo,Antonio Floro Flores,33,Italy,Centre-Forward,CF,1500000.0,Chievo Verona,Italy,600000.0,out,summer,Serie A,2016,False,
+US Sassuolo,Karim Laribi,25,Tunisia,Attacking Midfield,AM,1400000.0,Cesena,Italy,200000.0,out,summer,Serie A,2016,True,loan with fee
+US Sassuolo,Alessandro Longhi,27,Italy,Left-Back,LB,1000000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2016,False,
+US Sassuolo,Giacomo Serra,20,Italy,Centre-Back,CB,75000.0,Castelvetro,Italy,0.0,out,summer,Serie A,2016,False,
+US Sassuolo,Marcello Trotta,23,Italy,Centre-Forward,CF,2000000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Diego Falcinelli,25,Italy,Centre-Forward,CF,1100000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Giovanni Sbrissa,19,Italy,Central Midfield,CM,800000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Gian Marco Ferrari,24,Italy,Centre-Back,CB,1000000.0,Crotone,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Pietro Cianci,20,Italy,Centre-Forward,CF,100000.0,Andria,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Leonardo Fontanesi,20,Italy,Centre-Back,CB,300000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Jonathan Rossini,27,Switzerland,Centre-Back,CB,200000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Lorenzo Ariaudo,27,Italy,Centre-Back,CB,600000.0,Frosinone,Italy,,out,summer,Serie A,2016,False,
+US Sassuolo,Stefano Bufo,19,Italy,Centre-Back,CB,25000.0,Nibbiano,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Raman Chibsah,23,Ghana,Central Midfield,CM,1500000.0,Benevento,Italy,0.0,out,summer,Serie A,2016,True,free loan
+US Sassuolo,Abass Alhassan,21,Ghana,Defensive Midfield,DM,25000.0,Without Club,,,out,summer,Serie A,2016,False,
+US Sassuolo,Aladje,22,Portugal,Centre-Forward,CF,275000.0,Without Club,,,out,summer,Serie A,2016,False,
+US Sassuolo,Matteo Politano,22,Italy,Right Winger,RW,2500000.0,AS Roma,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+US Sassuolo,Alfred Duncan,23,Ghana,Central Midfield,CM,5500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2016,True,end of loan
+US Sassuolo,Alberto Aquilani,32,Italy,Central Midfield,CM,1500000.0,Pescara,Italy,0.0,in,winter,Serie A,2016,True,free loan
+US Sassuolo,Emanuele Terranova,29,Italy,Centre-Back,CB,600000.0,Frosinone,Italy,0.0,out,winter,Serie A,2016,False,
+US Sassuolo,Jérémie Broh,19,Italy,Central Midfield,CM,125000.0,Südtirol,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Stipe Perica,20,Croatia,Centre-Forward,CF,1000000.0,Chelsea,England,4500000.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Seko Fofana,21,Cote d'Ivoire,Central Midfield,CM,1500000.0,Man City U23,England,3500000.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Rodrigo de Paul,22,Argentina,Central Midfield,CM,2500000.0,Valencia,Spain,3000000.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Ewandro Costa,20,Brazil,Right Winger,RW,1000000.0,São Paulo,Brazil,3000000.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Pervis Estupiñán,18,Ecuador,Left-Back,LB,600000.0,LDU Quito,Ecuador,500000.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Hamdi Harbaoui,31,Tunisia,Centre-Forward,CF,2000000.0,KSC Lokeren,Belgium,0.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Yrondu Musavu-King,24,Gabon,Centre-Back,CB,800000.0,Granada CF,Spain,0.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Gabriele Angella,27,Italy,Centre-Back,CB,2000000.0,Watford,England,0.0,in,summer,Serie A,2016,False,
+Udinese Calcio,Sven Kums,28,Belgium,Central Midfield,CM,7500000.0,Watford,England,0.0,in,summer,Serie A,2016,True,free loan
+Udinese Calcio,Adalberto Peñaranda,19,Venezuela,Centre-Forward,CF,3000000.0,Watford,England,0.0,in,summer,Serie A,2016,True,free loan
+Udinese Calcio,Piotr Zielinski,22,Poland,Central Midfield,CM,12000000.0,SSC Napoli,Italy,16000000.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Nicolás López,22,Uruguay,Right Winger,RW,3000000.0,Internacional,Brazil,9100000.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Valerio Verre,22,Italy,Central Midfield,CM,2400000.0,Pescara,Italy,4000000.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Bruno Fernandes,21,Portugal,Attacking Midfield,AM,6500000.0,Sampdoria,Italy,1000000.0,out,summer,Serie A,2016,True,loan with fee
+Udinese Calcio,Iván Piris,27,Paraguay,Right-Back,RB,2100000.0,Monterrey,Mexico,1000000.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Gabriel Torje,26,Romania,Right Winger,RW,4000000.0,Terek Grozny,Russia,1000000.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Matija Radikon,20,Slovenia,Goalkeeper,GK,25000.0,NK Brda,Slovenia,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Alexander Merkel,24,Kazakhstan,Central Midfield,CM,400000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Luca Bezzo,20,Italy,Attacking Midfield,AM,25000.0,Tamai,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Alexandre Coeff,24,France,Centre-Back,CB,1500000.0,Stade Brest 29,France,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Aleksandar Boskovic,20,Slovenia,Centre-Back,CB,75000.0,Madre P. Daunia,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Uche Agbo,20,Nigeria,Defensive Midfield,DM,,Watford,England,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Daniele Mori,26,Italy,Centre-Back,CB,100000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Rafael Romo,26,Venezuela,Goalkeeper,GK,200000.0,AEL Limassol,Cyprus,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Manuel Iturra,32,Chile,Defensive Midfield,DM,2000000.0,Necaxa,Mexico,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Joan Bonilla,20,Colombia,Right-Back,RB,75000.0,Adriese 1906,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Jaime Romero,25,Spain,Right Winger,RW,500000.0,CA Osasuna,Spain,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Maurizio Domizzi,36,Italy,Centre-Back,CB,200000.0,Venezia,Italy,0.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Guglielmo Vicario,19,Italy,Goalkeeper,GK,75000.0,Venezia,Italy,500.0,out,summer,Serie A,2016,False,
+Udinese Calcio,Gaspar Iñíguez,22,Argentina,Central Midfield,CM,1000000.0,Tigre,Argentina,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Nabil Jaadi,20,Morocco,Right Winger,RW,200000.0,Ascoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Rodrigo Aguirre,21,Uruguay,Centre-Forward,CF,1400000.0,FC Lugano,Switzerland,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Frano Mlinar,24,Croatia,Central Midfield,CM,400000.0,FC Wil 1900,Switzerland,,out,summer,Serie A,2016,False,
+Udinese Calcio,Davide Marsura,22,Italy,Left Winger,LW,250000.0,Venezia,Italy,,out,summer,Serie A,2016,False,
+Udinese Calcio,Igor Bubnjic,24,Croatia,Centre-Back,CB,900000.0,Brescia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Edenilson,26,Brazil,Central Midfield,CM,2500000.0,Genoa,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Mauro Coppolaro,19,Italy,Centre-Back,CB,250000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Yrondu Musavu-King,24,Gabon,Centre-Back,CB,800000.0,Toulouse,France,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Pervis Estupiñán,18,Ecuador,Left-Back,LB,600000.0,Recre Granada,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Jádson,22,Brazil,Central Midfield,CM,750000.0,Santa Cruz,Brazil,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Agostino Camigliano,22,Italy,Centre-Back,CB,250000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Melker Hallberg,20,Sweden,Central Midfield,CM,1000000.0,Ascoli,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Antonio Vutov,20,Bulgaria,Attacking Midfield,AM,300000.0,Lecce,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Gabriel Silva,25,Brazil,Left-Back,LB,3500000.0,Granada CF,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Zeljko Brkic,29,Serbia,Goalkeeper,GK,1700000.0,PAOK Salonika,Greece,,out,summer,Serie A,2016,False,
+Udinese Calcio,Marquinho,30,Brazil,Attacking Midfield,AM,1400000.0,Fluminense,Brazil,,out,summer,Serie A,2016,False,
+Udinese Calcio,Alex Meret,19,Italy,Goalkeeper,GK,600000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Guilherme,25,Brazil,Defensive Midfield,DM,2000000.0,Dep. La Coruña,Spain,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Emanuel Insúa,25,Argentina,Left-Back,LB,1800000.0,Racing Club,Argentina,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Simone Pontisso,19,Italy,Defensive Midfield,DM,300000.0,SPAL,Italy,0.0,out,summer,Serie A,2016,True,free loan
+Udinese Calcio,Hamdi Harbaoui,31,Tunisia,Centre-Forward,CF,2000000.0,RSC Anderlecht,Belgium,,out,summer,Serie A,2016,False,
+Udinese Calcio,Neuton,26,Brazil,Centre-Back,CB,300000.0,Without Club,,,out,summer,Serie A,2016,False,
+Udinese Calcio,Wojciech Pawlowski,23,Poland,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Serie A,2016,False,
+Udinese Calcio,Antonio Di Natale,38,Italy,Centre-Forward,CF,1000000.0,Retired,,,out,summer,Serie A,2016,False,
+Udinese Calcio,Giovanni Pasquale,34,Italy,Left-Back,LB,300000.0,Career break,,,out,summer,Serie A,2016,False,
+Udinese Calcio,Stipe Perica,20,Croatia,Centre-Forward,CF,1000000.0,Chelsea,England,0.0,out,summer,Serie A,2016,True,end of loan
+Udinese Calcio,Zdravko Kuzmanovic,28,Serbia,Central Midfield,CM,2000000.0,FC Basel,Switzerland,0.0,out,summer,Serie A,2016,True,end of loan
+Udinese Calcio,Kevin Lasagna,24,Italy,Centre-Forward,CF,2800000.0,Carpi,Italy,4500000.0,in,winter,Serie A,2016,False,
+Udinese Calcio,Alassane Traoré,20,Cote d'Ivoire,Central Midfield,CM,1000000.0,Inter,Italy,0.0,in,winter,Serie A,2016,True,free loan
+Udinese Calcio,Mathias Ranégie,32,Sweden,Centre-Forward,CF,500000.0,Watford,England,0.0,in,winter,Serie A,2016,True,free loan
+Udinese Calcio,Rodrigo Aguirre,22,Uruguay,Centre-Forward,CF,1500000.0,Nacional,Uruguay,130000.0,out,winter,Serie A,2016,True,loan with fee
+Udinese Calcio,Jádson,23,Brazil,Central Midfield,CM,500000.0,Ponte Preta,Brazil,,out,winter,Serie A,2016,False,
+Udinese Calcio,Pablo Armero,30,Colombia,Left-Back,LB,1500000.0,EC Bahia,Brazil,,out,winter,Serie A,2016,False,
+Udinese Calcio,Kevin Lasagna,24,Italy,Centre-Forward,CF,2800000.0,Carpi,Italy,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Panagiotis Kone,29,Greece,Central Midfield,CM,3000000.0,Granada CF,Spain,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Melker Hallberg,21,Sweden,Central Midfield,CM,650000.0,Kalmar FF,Sweden,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Antonio Vutov,20,Bulgaria,Attacking Midfield,AM,300000.0,Botev Plovdiv,Bulgaria,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Nabil Jaadi,20,Morocco,Right Winger,RW,200000.0,Olhanense,Portugal,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Alexis Zapata,21,Colombia,Attacking Midfield,AM,350000.0,Millonarios,Colombia,,out,winter,Serie A,2016,False,
+Udinese Calcio,Xabier Santos,19,Chile,Left Winger,LW,25000.0,Extremadura,Spain,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Edenilson,27,Brazil,Central Midfield,CM,2000000.0,Internacional,Brazil,0.0,out,winter,Serie A,2016,True,free loan
+Udinese Calcio,Francesco Lodi,32,Italy,Defensive Midfield,DM,750000.0,Without Club,,,out,winter,Serie A,2016,False,

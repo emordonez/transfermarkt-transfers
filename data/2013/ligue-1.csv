@@ -1,0 +1,456 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Ajaccio,Cédric Hengbart,32,France,Right-Back,RB,500000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Anthony Scribe,25,France,Goalkeeper,GK,,USC Corte,France,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Laurent Bonnart,33,France,Right-Back,RB,500000.0,LOSC Lille,France,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Denis Tonucci,24,Italy,Centre-Back,CB,150000.0,Cesena,Italy,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Grenddy Perozo,27,Venezuela,Centre-Back,CB,,Táchira,Venezuela,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Benoît Pedretti,32,France,Defensive Midfield,DM,2000000.0,LOSC Lille,France,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Junior Tallo,20,Cote d'Ivoire,Centre-Forward,CF,1000000.0,AS Roma,Italy,0.0,in,summer,Ligue 1,2013,True,free loan
+AC Ajaccio,Yuriy Yakovenko,20,Ukraine,Centre-Forward,CF,150000.0,Dnipro II,Ukraine,0.0,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Claude Dielna,25,France,Centre-Back,CB,500000.0,Olympiacos,Greece,0.0,in,summer,Ligue 1,2013,True,free loan
+AC Ajaccio,Alessandro Crescenzi,21,Italy,Left-Back,LB,1800000.0,AS Roma,Italy,0.0,in,summer,Ligue 1,2013,True,free loan
+AC Ajaccio,Mbaye Diagne,21,Senegal,Centre-Forward,CF,,Juventus,Italy,0.0,in,summer,Ligue 1,2013,True,free loan
+AC Ajaccio,Eduardo,32,Brazil,Centre-Forward,CF,800000.0,Without Club,,,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Salim Arrache,31,Algeria,Left Winger,LW,300000.0,Without Club,,,in,summer,Ligue 1,2013,False,
+AC Ajaccio,Fousseni Diawara,32,Mali,Right-Back,RB,600000.0,Tours FC,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Anthony Lippini,24,France,Right-Back,RB,600000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Damien Tibéri,27,France,Left Midfield,LM,400000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Felipe Saad,29,Brazil,Centre-Back,CB,400000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Arnaud Maire,34,France,Centre-Back,CB,200000.0,Carquefou,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Frédéric Sammaritano,27,France,Attacking Midfield,AM,1000000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Andy Delort,21,Algeria,Centre-Forward,CF,600000.0,Tours FC,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Samuel Bouhours,26,France,Left-Back,LB,1250000.0,Tours FC,France,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,David Oberhauser,22,France,Goalkeeper,GK,100000.0,UTA Arad,Romania,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Wilfried Zahibo,19,Central African Republic,Central Midfield,CM,200000.0,CF Fuenlabrada,Spain,0.0,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Fabrice Begeorgi,26,France,Left-Back,LB,300000.0,ES Uzès PdG,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AC Ajaccio,Yoann Poulard,37,France,Centre-Back,CB,400000.0,Retired,,,out,summer,Ligue 1,2013,False,
+AC Ajaccio,David Gigliotti,28,France,Centre-Forward,CF,200000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+AC Ajaccio,Matthieu Chalmé,32,France,Right-Back,RB,600000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+AC Ajaccio,Adrian Mutu,35,Romania,Centre-Forward,CF,500000.0,Petrolul,Romania,0.0,out,winter,Ligue 1,2013,False,
+AC Ajaccio,Chahir Belghazouani,27,Morocco,Left Winger,LW,1500000.0,White Star,Belgium,0.0,out,winter,Ligue 1,2013,True,free loan
+AC Ajaccio,Stefan Popescu,20,Romania,Left-Back,LB,150000.0,Bolton U23,England,0.0,out,winter,Ligue 1,2013,False,
+AC Ajaccio,Salim Arrache,31,Algeria,Left Winger,LW,450000.0,CD Tiancheng,China,0.0,out,winter,Ligue 1,2013,False,
+AC Ajaccio,Brandon Deville,20,Belgium,Attacking Midfield,AM,250000.0,KVC Westerlo,Belgium,0.0,out,winter,Ligue 1,2013,True,free loan
+AC Ajaccio,Jean-Baptiste Pierazzi,28,France,Central Midfield,CM,900000.0,Quakes,United States,,out,winter,Ligue 1,2013,False,
+AC Ajaccio,Eduardo,33,Brazil,Centre-Forward,CF,500000.0,FC Metz,France,,out,winter,Ligue 1,2013,False,
+AS Monaco,James Rodríguez,21,Colombia,Attacking Midfield,AM,23000000.0,FC Porto,Portugal,45000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Falcao,27,Colombia,Centre-Forward,CF,60000000.0,Atlético Madrid,Spain,43000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,João Moutinho,26,Portugal,Central Midfield,CM,30000000.0,FC Porto,Portugal,25000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Geoffrey Kondogbia,20,Central African Republic,Central Midfield,CM,15000000.0,Sevilla FC,Spain,20000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Anthony Martial,17,France,Centre-Forward,CF,,Olymp. Lyon B,France,5000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Jérémy Toulalan,29,France,Defensive Midfield,DM,15000000.0,Málaga CF,Spain,5000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Nicolas Isimat-Mirin,21,France,Centre-Back,CB,4500000.0,Valenciennes FC,France,4000000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Borja López,19,Spain,Centre-Back,CB,900000.0,Sporting Gijón,Spain,2200000.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Gaetano Monachello,19,Italy,Centre-Forward,CF,300000.0,Olympiakos N.,Cyprus,0.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Ricardo Carvalho,35,Portugal,Centre-Back,CB,1000000.0,Real Madrid,Spain,0.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Éric Abidal,33,France,Left-Back,LB,1000000.0,FC Barcelona,Spain,0.0,in,summer,Ligue 1,2013,False,
+AS Monaco,Fabinho,19,Brazil,Defensive Midfield,DM,2500000.0,Rio Ave FC,Portugal,0.0,in,summer,Ligue 1,2013,True,free loan
+AS Monaco,Sergio Romero,26,Argentina,Goalkeeper,GK,4000000.0,Sampdoria,Italy,0.0,in,summer,Ligue 1,2013,True,free loan
+AS Monaco,Ibrahima Touré,27,Senegal,Centre-Forward,CF,4000000.0,Al-Nasr,United Arab Emirates,3750000.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Delvin N'Dinga,25,Congo,Defensive Midfield,DM,3000000.0,Olympiacos,Greece,1000000.0,out,summer,Ligue 1,2013,True,loan with fee
+AS Monaco,Jérôme Phojo,20,France,Right-Back,RB,250000.0,CA Bastia,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Chris Malonga,26,Congo,Left Winger,LW,1200000.0,Vit. Guimarães,Portugal,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Georgios Tzavellas,25,Greece,Centre-Back,CB,2000000.0,PAOK Salonika,Greece,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Terence Makengo,21,France,Centre-Forward,CF,500000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Aadil Assana,20,Comoros,Defensive Midfield,DM,200000.0,CA Bastia,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Tristan Dingomé,22,France,Central Midfield,CM,1000000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Gaetano Monachello,19,Italy,Centre-Forward,CF,400000.0,Cercle Brugge,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Dennis Appiah,21,France,Right-Back,RB,500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Carl Medjani,28,Algeria,Defensive Midfield,DM,2500000.0,Olympiacos,Greece,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Martin Sourzac,21,France,Goalkeeper,GK,400000.0,RWDM Brussels,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Jérémy Labor,21,France,Centre-Back,CB,150000.0,RWDM Brussels,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Edgar Salli,20,Cameroon,Right Winger,RW,900000.0,Lens,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Alexandros Tziolis,28,Greece,Defensive Midfield,DM,1750000.0,PAOK Salonika,Greece,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Nampalys Mendy,21,Senegal,Defensive Midfield,DM,4000000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Florian Pinteaux,21,France,Left-Back,LB,500000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2013,False,
+AS Monaco,Gary Kagelmacher,25,Uruguay,Centre-Back,CB,3000000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Monaco,Stéphane Dumont,30,France,Defensive Midfield,DM,400000.0,Retired,,,out,summer,Ligue 1,2013,False,
+AS Monaco,Adriano,31,Brazil,Right-Back,RB,500000.0,Retired,,,out,summer,Ligue 1,2013,False,
+AS Monaco,Emir Bajrami,25,Sweden,Right Winger,RW,1000000.0,Twente FC,Netherlands,0.0,out,summer,Ligue 1,2013,True,end of loan
+AS Monaco,Sebastián Ribas,25,Uruguay,Centre-Forward,CF,500000.0,Genoa,Italy,0.0,out,summer,Ligue 1,2013,True,end of loan
+AS Monaco,Lacina Traore,23,Cote d'Ivoire,Centre-Forward,CF,16000000.0,Anzhi,Russia,10000000.0,in,winter,Ligue 1,2013,False,
+AS Monaco,Elderson,25,Nigeria,Left-Back,LB,4500000.0,Braga,Portugal,1500000.0,in,winter,Ligue 1,2013,False,
+AS Monaco,Aymen Abdennour,24,Tunisia,Centre-Back,CB,6000000.0,Toulouse,France,0.0,in,winter,Ligue 1,2013,True,free loan
+AS Monaco,Dimitar Berbatov,33,Bulgaria,Centre-Forward,CF,3500000.0,Fulham,England,0.0,in,winter,Ligue 1,2013,False,
+AS Monaco,Jakob Poulsen,30,Denmark,Central Midfield,CM,500000.0,FC Midtjylland,Denmark,800000.0,out,winter,Ligue 1,2013,False,
+AS Monaco,Carl Medjani,28,Algeria,Defensive Midfield,DM,2000000.0,Valenciennes FC,France,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Monaco,Marcel Tisserand,21,DR Congo,Centre-Back,CB,600000.0,Lens,France,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Monaco,Gaetano Monachello,19,Italy,Centre-Forward,CF,500000.0,Ergotelis,Greece,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Monaco,Borja López,19,Spain,Centre-Back,CB,1500000.0,Rayo Vallecano,Spain,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Monaco,Gary Coulibaly,27,France,Defensive Midfield,DM,500000.0,Stade Lavallois,France,0.0,out,winter,Ligue 1,2013,False,
+AS Monaco,Lacina Traore,23,Cote d'Ivoire,Centre-Forward,CF,13000000.0,Everton,England,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Benjamin Corgnet,26,France,Attacking Midfield,AM,5000000.0,FC Lorient,France,5000000.0,in,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Franck Tabanou,24,France,Left-Back,LB,6000000.0,Toulouse,France,5000000.0,in,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Mevlüt Erdinc,26,Turkey,Centre-Forward,CF,6000000.0,Stade Rennais,France,4500000.0,in,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Paul Baysse,25,France,Centre-Back,CB,2500000.0,Stade Brest 29,France,1000000.0,in,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Ibrahim Sissoko,21,Cote d'Ivoire,Attacking Midfield,AM,1750000.0,VfL Wolfsburg,Germany,100000.0,in,summer,Ligue 1,2013,True,loan with fee
+AS Saint-Étienne,Baptiste Valette,20,France,Goalkeeper,GK,50000.0,Montpellier,France,0.0,in,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Yohan Mollo,24,France,Right-Back,RB,6000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Pierre-Emerick Aubameyang,24,Gabon,Centre-Forward,CF,15000000.0,Bor. Dortmund,Germany,13000000.0,out,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Josuha Guilavogui,22,France,Defensive Midfield,DM,6500000.0,Atlético Madrid,Spain,10000000.0,out,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Banel Nicolita,28,Romania,Right Winger,RW,1500000.0,FC Nantes,France,350000.0,out,summer,Ligue 1,2013,True,loan with fee
+AS Saint-Étienne,Pape Coulibaly,25,Senegal,Goalkeeper,GK,250000.0,Galaxy Dakar,Senegal,0.0,out,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Kevin Mayi,20,Gabon,Centre-Forward,CF,750000.0,Chamois Niort,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Yoric Ravet,23,France,Right Winger,RW,500000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Danijel Aleksic,22,Serbia,Attacking Midfield,AM,300000.0,AC Arles,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Lynel Kitambala,24,France,Centre-Forward,CF,600000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Guirane N'Daw,29,Senegal,Defensive Midfield,DM,1500000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+AS Saint-Étienne,Yohan Mollo,23,France,Right-Back,RB,6000000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+AS Saint-Étienne,Andreas Laudrup,22,Denmark,Left Winger,LW,400000.0,Nordsjaelland,Denmark,0.0,out,summer,Ligue 1,2013,True,end of loan
+AS Saint-Étienne,Mathieu Bodmer,30,France,Defensive Midfield,DM,2500000.0,Paris SG,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+AS Saint-Étienne,Benoît Trémoulinas,28,France,Left-Back,LB,7000000.0,Dynamo Kyiv,Ukraine,1000000.0,in,winter,Ligue 1,2013,True,loan with fee
+AS Saint-Étienne,Josuha Guilavogui,23,France,Defensive Midfield,DM,10000000.0,Atlético Madrid,Spain,0.0,in,winter,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Kurt Zouma,19,France,Centre-Back,CB,7500000.0,Chelsea,England,0.0,in,winter,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Kurt Zouma,19,France,Centre-Back,CB,7500000.0,Chelsea,England,14600000.0,out,winter,Ligue 1,2013,False,
+AS Saint-Étienne,Faouzi Ghoulam,22,Algeria,Left-Back,LB,3000000.0,SSC Napoli,Italy,5000000.0,out,winter,Ligue 1,2013,False,
+AS Saint-Étienne,Pierre-Yves Polomat,20,Martinique,Left-Back,LB,500000.0,LB Châteauroux,France,0.0,out,winter,Ligue 1,2013,True,free loan
+AS Saint-Étienne,Idriss Saadi,21,Algeria,Centre-Forward,CF,400000.0,Clermont Foot,France,,out,winter,Ligue 1,2013,False,
+EA Guingamp,Younousse Sankharé,23,Senegal,Central Midfield,CM,2000000.0,Dijon,France,700000.0,in,summer,Ligue 1,2013,False,
+EA Guingamp,Steeven Langil,25,Martinique,Left Winger,LW,1000000.0,AJ Auxerre,France,0.0,in,summer,Ligue 1,2013,False,
+EA Guingamp,Jérémy Sorbon,29,France,Centre-Back,CB,1000000.0,SM Caen,France,0.0,in,summer,Ligue 1,2013,False,
+EA Guingamp,Guy Ndy Assembé,27,Cameroon,Goalkeeper,GK,1250000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2013,True,free loan
+EA Guingamp,Claudio Beauvue,25,Guadeloupe,Centre-Forward,CF,1000000.0,LB Châteauroux,France,,in,summer,Ligue 1,2013,False,
+EA Guingamp,Giannelli Imbula,20,DR Congo,Defensive Midfield,DM,3000000.0,Marseille,France,7500000.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Arthur Delalande,22,France,Central Midfield,CM,100000.0,US Saint-Malo,France,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,François Bellugou,26,France,Defensive Midfield,DM,1000000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Charly Charrier,27,France,Attacking Midfield,AM,400000.0,Luçon VF,France,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Vincent Planté,32,France,Goalkeeper,GK,300000.0,Red Star FC,France,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Yassine El Kharroubi,23,Morocco,Goalkeeper,GK,,MAS Fes,Morocco,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Mamadou Camara,25,France,Centre-Back,CB,300000.0,CA Bastia,France,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Mohamed Soly,23,Senegal,Centre-Forward,CF,,Chern. Burgas,Bulgaria,0.0,out,summer,Ligue 1,2013,False,
+EA Guingamp,Thierry Argelier,27,France,Centre-Back,CB,250000.0,Vannes,France,0.0,out,summer,Ligue 1,2013,True,free loan
+EA Guingamp,Quentin Rouger,22,France,Second Striker,SS,250000.0,Rennes B,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+EA Guingamp,Mana Dembélé,25,Mali,Centre-Forward,CF,750000.0,Clermont Foot,France,500000.0,in,winter,Ligue 1,2013,False,
+EA Guingamp,Cédric Fauré,34,France,Centre-Forward,CF,200000.0,RSC Charleroi,Belgium,,out,winter,Ligue 1,2013,False,
+FC Girondins Bordeaux,Lucas Orbán,24,Argentina,Centre-Back,CB,1500000.0,Tigre,Argentina,3500000.0,in,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Jérémie Bréchet,33,France,Centre-Back,CB,500000.0,Troyes,France,0.0,in,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Benoît Trémoulinas,27,France,Left-Back,LB,9500000.0,Dynamo Kyiv,Ukraine,6500000.0,out,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Anthony Modeste,25,France,Centre-Forward,CF,4500000.0,TSG Hoffenheim,Germany,3000000.0,out,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Evan Chevalier,21,France,Left Winger,LW,200000.0,Poiré-sur-Vie,France,0.0,out,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Abdoulaye Keita,22,France,Goalkeeper,GK,300000.0,Fontenay,France,0.0,out,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Emiliano Sala,22,Argentina,Centre-Forward,CF,100000.0,Chamois Niort,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Girondins Bordeaux,Florian Marange,27,France,Left-Back,LB,1250000.0,Crystal Palace,England,0.0,out,summer,Ligue 1,2013,False,
+FC Girondins Bordeaux,Jaroslav Plasil,31,Czech Republic,Central Midfield,CM,4000000.0,Catania,Italy,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Girondins Bordeaux,Guillaume Hoarau,29,France,Centre-Forward,CF,1000000.0,DL Aerbin,China,0.0,in,winter,Ligue 1,2013,False,
+FC Girondins Bordeaux,Ludovic Obraniak,29,Poland,Attacking Midfield,AM,5000000.0,Werder Bremen,Germany,1500000.0,out,winter,Ligue 1,2013,False,
+FC Girondins Bordeaux,Fahid Ben Khalfallah,31,Tunisia,Right Winger,RW,1000000.0,Troyes,France,0.0,out,winter,Ligue 1,2013,False,
+FC Girondins Bordeaux,Vujadin Savic,23,Serbia,Centre-Back,CB,600000.0,Arm. Bielefeld,Germany,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Girondins Bordeaux,Hadi Sacko,19,Mali,Right Winger,RW,750000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Girondins Bordeaux,Rodrigo Castro,20,Argentina,Attacking Midfield,AM,100000.0,Red Star FC,France,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Lorient,Raphaël Guerreiro,19,Portugal,Left-Back,LB,1500000.0,SM Caen,France,2500000.0,in,summer,Ligue 1,2013,False,
+FC Lorient,Rafidine Abdullah,19,Comoros,Defensive Midfield,DM,1500000.0,Marseille,France,500000.0,in,summer,Ligue 1,2013,False,
+FC Lorient,Vincent Aboubakar,21,Cameroon,Centre-Forward,CF,2000000.0,Valenciennes FC,France,0.0,in,summer,Ligue 1,2013,False,
+FC Lorient,Sadio Diallo,22,Guinea,Central Midfield,CM,2500000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Lorient,Baptiste Reynet,22,France,Goalkeeper,GK,1750000.0,Dijon,France,0.0,in,summer,Ligue 1,2013,False,
+FC Lorient,Larry Azouni,19,Tunisia,Central Midfield,CM,200000.0,Marseille,France,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Lorient,Benjamin Corgnet,26,France,Attacking Midfield,AM,5000000.0,Saint-Étienne,France,5000000.0,out,summer,Ligue 1,2013,False,
+FC Lorient,Mario Lemina,20,Gabon,Defensive Midfield,DM,1000000.0,Marseille,France,4000000.0,out,summer,Ligue 1,2013,False,
+FC Lorient,Innocent Emeghara,24,Switzerland,Centre-Forward,CF,5000000.0,Siena,Italy,3090000.0,out,summer,Ligue 1,2013,False,
+FC Lorient,Mathias Autret,22,France,Attacking Midfield,AM,1000000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Lorient,Tristan Do,20,Thailand,Right-Back,RB,100000.0,G. Ajaccio,France,0.0,out,summer,Ligue 1,2013,False,
+FC Lorient,Cheick Touré,20,Cote d'Ivoire,Centre-Back,CB,200000.0,Bourg-Péronnas,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Lorient,Ludovic Giuly,36,France,Right Winger,RW,400000.0,MDA Chasselay,France,0.0,out,summer,Ligue 1,2013,False,
+FC Lorient,Simon Falette,21,Guinea,Centre-Back,CB,400000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Lorient,Benjamin Lecomte,22,France,Goalkeeper,GK,700000.0,Dijon,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Lorient,Arnaud Le Lan,35,France,Left-Back,LB,300000.0,Retired,,,out,summer,Ligue 1,2013,False,
+FC Lorient,Tony Koutouan,29,Cote d'Ivoire,Left Winger,LW,200000.0,Retired,,,out,summer,Ligue 1,2013,False,
+FC Lorient,Lucas Mareque,30,Argentina,Left-Back,LB,1000000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+FC Lorient,Mohammed Abu,21,Ghana,Defensive Midfield,DM,750000.0,Man City,England,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Lorient,Ryan Mason,22,England,Central Midfield,CM,250000.0,Spurs,England,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Nantes,Fernando Aristeguieta,21,Venezuela,Centre-Forward,CF,1000000.0,Caracas FC,Venezuela,1000000.0,in,summer,Ligue 1,2013,False,
+FC Nantes,Alejandro Bedoya,26,United States,Central Midfield,CM,750000.0,Helsingborg,Sweden,800000.0,in,summer,Ligue 1,2013,False,
+FC Nantes,Gabriel Cichero,29,Venezuela,Centre-Back,CB,1000000.0,Caracas FC,Venezuela,600000.0,in,summer,Ligue 1,2013,False,
+FC Nantes,Oswaldo Vizcarrondo,29,Venezuela,Centre-Back,CB,800000.0,América,Mexico,600000.0,in,summer,Ligue 1,2013,False,
+FC Nantes,Banel Nicolita,28,Romania,Right Winger,RW,1500000.0,Saint-Étienne,France,350000.0,in,summer,Ligue 1,2013,True,loan with fee
+FC Nantes,Johan Audel,29,Martinique,Left Winger,LW,375000.0,VfB Stuttgart,Germany,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Nantes,Ismaël Keïta,22,Mali,Defensive Midfield,DM,300000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2013,False,
+FC Nantes,Yong-jae Lee,22,"Korea, South",Centre-Forward,CF,250000.0,Red Star FC,France,0.0,out,summer,Ligue 1,2013,False,
+FC Nantes,Karim Djellabi,30,Algeria,Left-Back,LB,400000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2013,False,
+FC Nantes,Ahmed Madouni,32,Algeria,Centre-Back,CB,300000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+FC Nantes,Gabriel Cichero,29,Venezuela,Centre-Back,CB,1000000.0,Caracas FC,Venezuela,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Nantes,Fernando Aristeguieta,21,Venezuela,Centre-Forward,CF,1000000.0,Caracas FC,Venezuela,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Nantes,Rémi Gomis,29,Senegal,Defensive Midfield,DM,1000000.0,Levante,Spain,0.0,in,winter,Ligue 1,2013,False,
+FC Nantes,Kian Hansen,24,Denmark,Centre-Back,CB,800000.0,Esbjerg fB,Denmark,,in,winter,Ligue 1,2013,False,
+FC Nantes,Itay Shechter,26,Israel,Centre-Forward,CF,1500000.0,Hapoel Tel Aviv,Israel,0.0,in,winter,Ligue 1,2013,True,free loan
+FC Nantes,Gabriel Cichero,29,Venezuela,Centre-Back,CB,750000.0,FC Sion,Switzerland,500000.0,out,winter,Ligue 1,2013,False,
+FC Nantes,Yohann Eudeline,31,France,Right Winger,RW,600000.0,SCO Angers,France,0.0,out,winter,Ligue 1,2013,False,
+FC Nantes,Kian Hansen,24,Denmark,Centre-Back,CB,800000.0,Esbjerg fB,Denmark,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Thomas Guerbert,24,France,Attacking Midfield,AM,2000000.0,Dijon,France,1750000.0,in,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Julien Faussurier,26,France,Right-Back,RB,1500000.0,Troyes,France,400000.0,in,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Razak Boukari,26,Togo,Right Winger,RW,2000000.0,Wolves,England,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Emmanuel Mayuka,22,Zambia,Centre-Forward,CF,2500000.0,Southampton,England,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Sloan Privat,24,French Guiana,Centre-Forward,CF,2500000.0,KAA Gent,Belgium,1500000.0,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Ryad Boudebouz,23,Algeria,Attacking Midfield,AM,4500000.0,SC Bastia,France,1000000.0,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Yassin Mikari,30,Tunisia,Left-Back,LB,700000.0,FC Luzern,Switzerland,0.0,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Frédéric Duplus,23,France,Right-Back,RB,400000.0,Zulte Waregem,Belgium,0.0,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,King Osanga,22,Nigeria,Right Winger,RW,200000.0,White Star,Belgium,0.0,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Christophe Hérelle,20,France,Centre-Back,CB,,SR Colmar,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Yaya Banana,22,Cameroon,Centre-Back,CB,1250000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Ishmael Yartey,23,Ghana,Left Winger,LW,1000000.0,FC Sion,Switzerland,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Vincent Meige,15,France,Right Winger,RW,,Xamax Youth,Switzerland,,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Omar Daf,36,Senegal,Right-Back,RB,250000.0,Retired,,,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Didier Ovono,30,Gabon,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Giovanni Sio,24,Cote d'Ivoire,Centre-Forward,CF,2000000.0,VfL Wolfsburg,Germany,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Sochaux-Montbéliard,Stoppila Sunzu,24,Zambia,Centre-Back,CB,600000.0,TP Mazembe,DR Congo,1000000.0,in,winter,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Jordan Ayew,22,Ghana,Centre-Forward,CF,5000000.0,Marseille,France,0.0,in,winter,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Nathan Sinkala,23,Zambia,Defensive Midfield,DM,350000.0,TP Mazembe,DR Congo,0.0,in,winter,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Yohann Pelé,31,France,Goalkeeper,GK,,Career break,,,in,winter,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Florian Marange,27,France,Left-Back,LB,750000.0,Without Club,,,in,winter,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Pierre-Alain Frau,33,France,Centre-Forward,CF,400000.0,Without Club,,,in,winter,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Rafaël Dias,22,Portugal,Central Midfield,CM,750000.0,AC Arles,France,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Sochaux-Montbéliard,Vincent Nogueira,26,France,Central Midfield,CM,2000000.0,Philadelphia,United States,0.0,out,winter,Ligue 1,2013,False,
+FC Sochaux-Montbéliard,Abdoul Camara,23,Guinea,Left Winger,LW,500000.0,RCD Mallorca,Spain,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Toulouse,Óscar Trejo,25,Argentina,Attacking Midfield,AM,2000000.0,Sporting Gijón,Spain,2100000.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,Martin Braithwaite,22,Denmark,Centre-Forward,CF,850000.0,Esbjerg fB,Denmark,2000000.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,Abel Aguilar,28,Colombia,Defensive Midfield,DM,3000000.0,Hércules CF,Spain,2000000.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,Uros Spajic,20,Serbia,Centre-Back,CB,800000.0,Red Star,Serbia,1500000.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,François Moubandje,23,Switzerland,Left-Back,LB,500000.0,Servette FC,Switzerland,1000000.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,Mihai Roman,28,Romania,Right Winger,RW,900000.0,Rapid Bucharest,Romania,0.0,in,summer,Ligue 1,2013,False,
+FC Toulouse,Clément Chantôme,25,France,Defensive Midfield,DM,7000000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Toulouse,Étienne Capoue,25,France,Defensive Midfield,DM,13000000.0,Spurs,England,11000000.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Franck Tabanou,24,France,Left-Back,LB,6000000.0,Saint-Étienne,France,5000000.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Umut Bulut,30,Turkey,Centre-Forward,CF,5000000.0,Galatasaray,Turkey,2700000.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Cheikh M'Bengue,25,Senegal,Left-Back,LB,4000000.0,Stade Rennais,France,2000000.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Yannick Aguemon,21,Benin,Left Winger,LW,300000.0,Vannes,France,0.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Daniel Braaten,31,Norway,Right Winger,RW,1000000.0,FC Copenhagen,Denmark,0.0,out,summer,Ligue 1,2013,False,
+FC Toulouse,Yannick Djaló,27,Portugal,Left Winger,LW,1750000.0,Benfica,Portugal,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Toulouse,Adil Hermach,27,Morocco,Defensive Midfield,DM,2000000.0,Hilal,Saudi Arabia,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Toulouse,Adrien Rabiot,18,France,Central Midfield,CM,2500000.0,Paris SG,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Toulouse,Dominik Furman,21,Poland,Central Midfield,CM,1750000.0,Legia Warszawa,Poland,2650000.0,in,winter,Ligue 1,2013,False,
+FC Toulouse,Zacharie Boucher,21,France,Goalkeeper,GK,1500000.0,AC Le Havre,France,1500000.0,in,winter,Ligue 1,2013,False,
+FC Toulouse,Dusan Veskovac,27,Serbia,Centre-Back,CB,900000.0,BSC Young Boys,Switzerland,800000.0,in,winter,Ligue 1,2013,False,
+FC Toulouse,Aymen Abdennour,24,Tunisia,Centre-Back,CB,6000000.0,Monaco,France,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Toulouse,Mickaël Firmin,23,France,Centre-Back,CB,600000.0,Paris FC,France,0.0,out,winter,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Nicolas Benezet,22,France,Left Winger,LW,1000000.0,Nîmes Olympique,France,1500000.0,in,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Dan Nistor,25,Romania,Central Midfield,CM,1800000.0,Pandurii,Romania,800000.0,in,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Maxime Blanc,21,France,Central Midfield,CM,,Olymp. Lyon B,France,0.0,in,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Andrés Escobar,22,Colombia,Left Winger,LW,400000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Youssouf Sabaly,20,Senegal,Right-Back,RB,250000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Modou Sougou,28,Senegal,Right Winger,RW,3500000.0,Marseille,France,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Facundo Bertoglio,23,Argentina,Attacking Midfield,AM,500000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Jesper Hansen,28,Denmark,Goalkeeper,GK,1000000.0,Nordsjaelland,Denmark,,in,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Marco Ruben,26,Argentina,Centre-Forward,CF,4000000.0,Dynamo Kyiv,Ukraine,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Ilan Boccara,20,Israel,Defensive Midfield,DM,500000.0,Ajax U21,Netherlands,0.0,in,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Mohammed Rabiu,23,Ghana,Defensive Midfield,DM,3000000.0,Kuban Krasnodar,Russia,3000000.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Saber Khalifa,26,Tunisia,Centre-Forward,CF,3500000.0,Marseille,France,2500000.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Yannick Sagbo,25,Cote d'Ivoire,Centre-Forward,CF,2500000.0,Hull City,England,1800000.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Iheb Mbarki,21,Tunisia,Right-Back,RB,800000.0,Esperance,Tunisia,500000.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Stephan Andersen,31,Denmark,Goalkeeper,GK,1000000.0,Real Betis,Spain,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Guillaume Lacour,32,France,Right-Back,RB,300000.0,Troyes,France,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Youssef Adnane,28,France,Centre-Forward,CF,800000.0,Tours FC,France,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Ali M'Madi,23,Comoros,Left Winger,LW,400000.0,G. Ajaccio,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Nicolas Piccot,18,France,Centre-Back,CB,,Stade Nyonnais,Switzerland,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Betão,29,Brazil,Centre-Back,CB,2500000.0,Ponte Preta,Brazil,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Hervé Bugnet,32,France,Right Winger,RW,,Stade Bordelais,France,0.0,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Adrien Thomasson,19,France,Attacking Midfield,AM,150000.0,Vannes,France,0.0,out,summer,Ligue 1,2013,True,free loan
+FC Évian Thonon Gaillard,Sidney Govou,33,France,Right Winger,RW,600000.0,Career break,,,out,summer,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Milos Ninkovic,28,Serbia,Attacking Midfield,AM,2000000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Évian Thonon Gaillard,Diogo Campos,22,Brazil,Attacking Midfield,AM,250000.0,Atlético-GO,Brazil,0.0,out,summer,Ligue 1,2013,True,end of loan
+FC Évian Thonon Gaillard,Kassim Abdallah,26,Comoros,Right-Back,RB,2000000.0,Marseille,France,300000.0,in,winter,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Túlio de Melo,28,Brazil,Centre-Forward,CF,1000000.0,LOSC Lille,France,0.0,in,winter,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Brice Dja Djedje,23,Cote d'Ivoire,Defensive Midfield,DM,3000000.0,Marseille,France,700000.0,out,winter,Ligue 1,2013,False,
+FC Évian Thonon Gaillard,Dan Nistor,25,Romania,Central Midfield,CM,750000.0,Pandurii,Romania,0.0,out,winter,Ligue 1,2013,True,free loan
+LOSC Lille,Simon Kjaer,24,Denmark,Centre-Back,CB,7000000.0,VfL Wolfsburg,Germany,2500000.0,in,summer,Ligue 1,2013,False,
+LOSC Lille,Julian Jeanvier,21,Guinea,Centre-Back,CB,500000.0,AS Nancy,France,450000.0,in,summer,Ligue 1,2013,False,
+LOSC Lille,Jonathan Delaplace,27,France,Central Midfield,CM,2000000.0,Zulte Waregem,Belgium,0.0,in,summer,Ligue 1,2013,False,
+LOSC Lille,Abdoulay Diaby,22,Mali,Right Winger,RW,900000.0,CS Sedan,France,0.0,in,summer,Ligue 1,2013,False,
+LOSC Lille,Lucas Digne,19,France,Left-Back,LB,10000000.0,Paris SG,France,15000000.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Florian Thauvin,20,France,Right Winger,RW,6000000.0,Marseille,France,12000000.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Dimitri Payet,26,France,Left Winger,LW,15000000.0,Marseille,France,8700000.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Aurelien Chedjou,28,Cameroon,Centre-Back,CB,12000000.0,Galatasaray,Turkey,6300000.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Laurent Bonnart,33,France,Right-Back,RB,500000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Gianni Bruno,21,Belgium,Centre-Forward,CF,1500000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2013,True,free loan
+LOSC Lille,Julian Michel,21,France,Central Midfield,CM,,Mouscron,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+LOSC Lille,Abdoulay Diaby,22,Mali,Right Winger,RW,900000.0,Mouscron,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+LOSC Lille,Benoît Pedretti,32,France,Defensive Midfield,DM,2000000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Viktor Klonaridis,21,Belgium,Second Striker,SS,1250000.0,Panathinaikos,Greece,0.0,out,summer,Ligue 1,2013,False,
+LOSC Lille,Omar Wade,23,Senegal,Centre-Forward,CF,100000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+LOSC Lille,Túlio de Melo,28,Brazil,Centre-Forward,CF,1000000.0,Évian,France,0.0,out,winter,Ligue 1,2013,False,
+Montpellier HSC,Yassine Jebbour,22,Morocco,Right-Back,RB,1000000.0,Stade Rennais,France,1000000.0,in,summer,Ligue 1,2013,False,
+Montpellier HSC,Víctor Montaño,29,Colombia,Centre-Forward,CF,2000000.0,Stade Rennais,France,800000.0,in,summer,Ligue 1,2013,False,
+Montpellier HSC,Morgan Sanson,18,France,Central Midfield,CM,500000.0,Le Mans FC,France,700000.0,in,summer,Ligue 1,2013,False,
+Montpellier HSC,Djamel Bakar,24,Comoros,Centre-Forward,CF,2500000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2013,False,
+Montpellier HSC,Siaka Tiéné,31,Cote d'Ivoire,Left-Back,LB,1000000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,False,
+Montpellier HSC,Jean Deza,20,Peru,Right Winger,RW,150000.0,USM Porres,Peru,0.0,in,summer,Ligue 1,2013,True,free loan
+Montpellier HSC,Younès Belhanda,23,Morocco,Attacking Midfield,AM,14000000.0,Dynamo Kyiv,Ukraine,10000000.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Henri Bedimo,29,Cameroon,Left-Back,LB,3500000.0,Olympique Lyon,France,2000000.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Marco Estrada,30,Chile,Defensive Midfield,DM,2000000.0,Al-Wahda FC,United Arab Emirates,1500000.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Gaëtan Charbonnier,24,France,Centre-Forward,CF,2000000.0,Stade Reims,France,1000000.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Guillaume Legras,23,France,Central Midfield,CM,100000.0,Barletta,Italy,0.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Baptiste Valette,20,France,Goalkeeper,GK,50000.0,Saint-Étienne,France,0.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Bengali-Fodé Koita,22,Guinea,Centre-Forward,CF,300000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,John Utaka,31,Nigeria,Left Winger,LW,2500000.0,Sivasspor,Turkey,0.0,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Cyril Jeunechamp,37,France,Defensive Midfield,DM,250000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Abdoul Karim Sylla,21,Netherlands,Centre-Forward,CF,200000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Adrien Coulomb,22,France,Attacking Midfield,AM,150000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Romain Pitau,35,France,Defensive Midfield,DM,400000.0,Retired,,,out,summer,Ligue 1,2013,False,
+Montpellier HSC,Nicolas Saint-Ruf,21,France,Centre-Back,CB,150000.0,Lens,France,0.0,in,winter,Ligue 1,2013,False,
+Montpellier HSC,M'Baye Niang,19,Senegal,Centre-Forward,CF,5000000.0,AC Milan,Italy,0.0,in,winter,Ligue 1,2013,True,free loan
+Montpellier HSC,Bryan Dabo,21,Burkina Faso,Central Midfield,CM,1250000.0,Blackburn,England,0.0,out,winter,Ligue 1,2013,True,free loan
+Montpellier HSC,Emanuel Herrera,26,Argentina,Centre-Forward,CF,1250000.0,Tigres UANL,Mexico,0.0,out,winter,Ligue 1,2013,True,free loan
+OGC Nice,Nampalys Mendy,21,Senegal,Defensive Midfield,DM,4000000.0,Monaco,France,0.0,in,summer,Ligue 1,2013,False,
+OGC Nice,Christian Brüls,24,Belgium,Attacking Midfield,AM,2000000.0,KAA Gent,Belgium,0.0,in,summer,Ligue 1,2013,True,free loan
+OGC Nice,Mathieu Bodmer,30,France,Defensive Midfield,DM,2500000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,False,
+OGC Nice,Renato Civelli,29,Argentina,Centre-Back,CB,3500000.0,Bursaspor,Turkey,0.0,out,summer,Ligue 1,2013,False,
+OGC Nice,Julien Berthomier,23,France,Centre-Back,CB,150000.0,Francs Borains,Belgium,0.0,out,summer,Ligue 1,2013,False,
+OGC Nice,Kévin Diaz,25,France,Right Midfield,RM,500000.0,Tours FC,France,0.0,out,summer,Ligue 1,2013,False,
+OGC Nice,Joris Delle,23,France,Goalkeeper,GK,2000000.0,Cercle Brugge,Belgium,0.0,out,summer,Ligue 1,2013,True,free loan
+OGC Nice,Stéphane Bahoken,21,Cameroon,Centre-Forward,CF,900000.0,St. Mirren,Scotland,0.0,out,summer,Ligue 1,2013,True,free loan
+OGC Nice,Camel Meriem,33,France,Attacking Midfield,AM,500000.0,Apol. Limassol,Cyprus,0.0,out,summer,Ligue 1,2013,False,
+OGC Nice,Abraham Gneki Guié,27,Cote d'Ivoire,Centre-Forward,CF,400000.0,Apol. Limassol,Cyprus,0.0,out,summer,Ligue 1,2013,True,free loan
+OGC Nice,Kévin Gomis,25,France,Centre-Back,CB,750000.0,Nottm Forest,England,0.0,out,winter,Ligue 1,2013,True,free loan
+OGC Nice,Diacko Fofana,19,France,Right-Back,RB,500000.0,Without Club,,,out,winter,Ligue 1,2013,False,
+Olympique Lyon,Henri Bedimo,29,Cameroon,Left-Back,LB,3500000.0,Montpellier,France,2000000.0,in,summer,Ligue 1,2013,False,
+Olympique Lyon,Gaël Danic,31,France,Left Winger,LW,3000000.0,Valenciennes FC,France,1000000.0,in,summer,Ligue 1,2013,False,
+Olympique Lyon,Miguel Lopes,26,Portugal,Right-Back,RB,3600000.0,Sporting CP,Portugal,1000000.0,in,summer,Ligue 1,2013,True,loan with fee
+Olympique Lyon,Dejan Lovren,23,Croatia,Centre-Back,CB,7000000.0,Southampton,England,10000000.0,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Lisandro López,30,Argentina,Centre-Forward,CF,8500000.0,Al-Gharafa SC,Qatar,7200000.0,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Michel Bastos,29,Brazil,Left Midfield,LM,7000000.0,Al-Ain FC,United Arab Emirates,4000000.0,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Fabián Monzón,26,Argentina,Left-Back,LB,2500000.0,Catania,Italy,3300000.0,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Harry Novillo,21,Martinique,Left Winger,LW,250000.0,RAEC Mons,Belgium,0.0,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Mohamed Yattara,20,Guinea,Centre-Forward,CF,1000000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Lyon,Anthony Réveillère,33,France,Right-Back,RB,1500000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Olympique Lyon,Alassane Plea,20,France,Centre-Forward,CF,750000.0,AJ Auxerre,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Olympique Marseille,Florian Thauvin,20,France,Right Winger,RW,6000000.0,LOSC Lille,France,12000000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Dimitri Payet,26,France,Left Winger,LW,15000000.0,LOSC Lille,France,8700000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Giannelli Imbula,20,DR Congo,Defensive Midfield,DM,3000000.0,Guingamp,France,7500000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Benjamin Mendy,18,France,Left-Back,LB,2000000.0,AC Le Havre,France,4000000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Mario Lemina,20,Gabon,Defensive Midfield,DM,1000000.0,FC Lorient,France,4000000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Saber Khalifa,26,Tunisia,Centre-Forward,CF,3500000.0,Évian,France,2500000.0,in,summer,Ligue 1,2013,False,
+Olympique Marseille,Rafidine Abdullah,19,Comoros,Defensive Midfield,DM,1500000.0,FC Lorient,France,500000.0,out,summer,Ligue 1,2013,False,
+Olympique Marseille,Foued Kadir,29,Algeria,Attacking Midfield,AM,3000000.0,Stade Rennais,France,250000.0,out,summer,Ligue 1,2013,True,loan with fee
+Olympique Marseille,Florian Raspentino,24,France,Centre-Forward,CF,1500000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Pape M'Bow,25,Senegal,Centre-Back,CB,250000.0,Panthrakikos,Greece,0.0,out,summer,Ligue 1,2013,False,
+Olympique Marseille,Billel Omrani,20,France,Centre-Forward,CF,300000.0,AC Arles,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Najib Ammari,21,Algeria,Attacking Midfield,AM,,Chern. Burgas,Bulgaria,0.0,out,summer,Ligue 1,2013,False,
+Olympique Marseille,Modou Sougou,28,Senegal,Right Winger,RW,3500000.0,Évian,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Senah Mango,21,Togo,Centre-Back,CB,250000.0,Luzenac AP,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Chris Gadi,21,France,Right Winger,RW,200000.0,Lok. Plovdiv,Bulgaria,0.0,out,summer,Ligue 1,2013,False,
+Olympique Marseille,Morgan Amalfitano,28,France,Right Winger,RW,4500000.0,West Brom,England,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Larry Azouni,19,Tunisia,Central Midfield,CM,200000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Olympique Marseille,Leyti N'Diaye,27,Senegal,Centre-Back,CB,300000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Olympique Marseille,Joey Barton,30,England,Central Midfield,CM,3000000.0,QPR,England,0.0,out,summer,Ligue 1,2013,True,end of loan
+Olympique Marseille,Brice Dja Djedje,23,Cote d'Ivoire,Defensive Midfield,DM,3000000.0,Évian,France,700000.0,in,winter,Ligue 1,2013,False,
+Olympique Marseille,Kassim Abdallah,26,Comoros,Right-Back,RB,2000000.0,Évian,France,300000.0,out,winter,Ligue 1,2013,False,
+Olympique Marseille,Jordan Ayew,22,Ghana,Centre-Forward,CF,5000000.0,FC Sochaux,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Edinson Cavani,26,Uruguay,Centre-Forward,CF,55000000.0,SSC Napoli,Italy,64500000.0,in,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Marquinhos,19,Brazil,Centre-Back,CB,15000000.0,AS Roma,Italy,31400000.0,in,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Lucas Digne,19,France,Left-Back,LB,10000000.0,LOSC Lille,France,15000000.0,in,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Mamadou Sakho,23,France,Centre-Back,CB,15000000.0,Liverpool,England,19000000.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Kévin Gameiro,26,France,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,7500000.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Sylvain Armand,32,France,Left-Back,LB,1500000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Jean-Christophe Bahebeck,20,France,Centre-Forward,CF,1500000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Siaka Tiéné,31,Cote d'Ivoire,Left-Back,LB,1000000.0,Montpellier,France,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Loïck Landre,21,France,Centre-Back,CB,400000.0,Lens,France,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Alphonse Areola,20,France,Goalkeeper,GK,600000.0,Lens,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Youssouf Sabaly,20,Senegal,Right-Back,RB,250000.0,Évian,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Diego Lugano,32,Uruguay,Centre-Back,CB,1000000.0,West Brom,England,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Antoine Conte,19,France,Right-Back,RB,250000.0,Stade Reims,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Clément Chantôme,25,France,Defensive Midfield,DM,7000000.0,Toulouse,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Paris Saint-Germain,Neeskens Kebano,21,DR Congo,Attacking Midfield,AM,400000.0,RSC Charleroi,Belgium,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Mathieu Bodmer,30,France,Defensive Midfield,DM,2500000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,David Beckham,38,England,Right Midfield,RM,1000000.0,Retired,,,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Ronan Le Crom,38,France,Goalkeeper,GK,50000.0,Retired,,,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Mohamed Sissoko,28,Mali,Defensive Midfield,DM,3500000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Paris Saint-Germain,Yohan Cabaye,28,France,Central Midfield,CM,20000000.0,Newcastle,England,25000000.0,in,winter,Ligue 1,2013,False,
+SC Bastia,Ryad Boudebouz,23,Algeria,Attacking Midfield,AM,4500000.0,FC Sochaux,France,1000000.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Milos Krasic,28,Serbia,Right Winger,RW,5500000.0,Fenerbahce,Turkey,800000.0,in,summer,Ligue 1,2013,True,loan with fee
+SC Bastia,Sébastien Squillaci,32,France,Centre-Back,CB,1000000.0,Arsenal,England,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Drissa Diakité,28,Mali,Centre-Back,CB,1500000.0,Olympiacos,Greece,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,François Modesto,34,France,Centre-Back,CB,1250000.0,Olympiacos,Greece,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Florian Raspentino,24,France,Centre-Forward,CF,1500000.0,Marseille,France,0.0,in,summer,Ligue 1,2013,True,free loan
+SC Bastia,Claudiu Keseru,26,Romania,Centre-Forward,CF,2000000.0,SCO Angers,France,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Gianni Bruno,21,Belgium,Centre-Forward,CF,1500000.0,LOSC Lille,France,0.0,in,summer,Ligue 1,2013,True,free loan
+SC Bastia,Adama Ba,19,Mauritania,Right Winger,RW,300000.0,Stade Brest 29,France,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Romaric,30,Cote d'Ivoire,Defensive Midfield,DM,1000000.0,Real Zaragoza,Spain,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Jean-Louis Leca,27,France,Goalkeeper,GK,300000.0,Valenciennes FC,France,0.0,in,summer,Ligue 1,2013,False,
+SC Bastia,Sambou Yatabaré,24,Mali,Central Midfield,CM,1250000.0,Olympiacos,Greece,2200000.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Olivier Vanucci,21,France,Centre-Back,CB,50000.0,G. Ajaccio,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Gaël Angoula,30,France,Right-Back,RB,800000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Dominique Agostini,23,France,Goalkeeper,GK,100000.0,CA Bastia,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Landry Bonnefoi,29,France,Goalkeeper,GK,500000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Christophe Vincent,20,France,Defensive Midfield,DM,300000.0,CA Bastia,France,0.0,out,summer,Ligue 1,2013,True,free loan
+SC Bastia,Jérôme Rothen,35,France,Left Midfield,LM,500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Sylvain Marchal,33,France,Centre-Back,CB,750000.0,FC Metz,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Magno Novaes,30,Brazil,Goalkeeper,GK,750000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Jérémy Choplin,28,France,Centre-Back,CB,1250000.0,FC Metz,France,0.0,out,summer,Ligue 1,2013,False,
+SC Bastia,Matthieu Sans,25,France,Centre-Back,CB,500000.0,G. Ajaccio,France,0.0,out,summer,Ligue 1,2013,True,free loan
+SC Bastia,Yassin El-Azzouzi,30,France,Centre-Forward,CF,200000.0,Retired,,,out,summer,Ligue 1,2013,False,
+SC Bastia,Gaëtan Varenne,23,Israel,Centre-Forward,CF,150000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+SC Bastia,Anthony Modeste,25,France,Centre-Forward,CF,4500000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+SC Bastia,Claudio Beauvue,25,Guadeloupe,Centre-Forward,CF,1000000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+SC Bastia,Florian Thauvin,20,France,Right Winger,RW,6000000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+SC Bastia,Samuel Inkoom,24,Ghana,Right-Back,RB,1250000.0,Dnipro,Ukraine,0.0,out,summer,Ligue 1,2013,True,end of loan
+SC Bastia,Jacques Faty,29,Senegal,Centre-Back,CB,800000.0,Sivasspor,Turkey,0.0,out,summer,Ligue 1,2013,True,end of loan
+SC Bastia,Djibril Cissé,32,France,Centre-Forward,CF,2200000.0,Kuban Krasnodar,Russia,0.0,in,winter,Ligue 1,2013,False,
+SC Bastia,Sambou Yatabaré,24,Mali,Central Midfield,CM,2000000.0,Olympiacos,Greece,0.0,in,winter,Ligue 1,2013,True,free loan
+SC Bastia,Claudiu Keseru,27,Romania,Centre-Forward,CF,1800000.0,Steaua Bukarest,Romania,0.0,out,winter,Ligue 1,2013,False,
+SC Bastia,Ludovic Genest,26,France,Attacking Midfield,AM,400000.0,US Créteil-L,France,,out,winter,Ligue 1,2013,False,
+SC Bastia,Florent André,22,France,Left Winger,LW,150000.0,GS Consolat M.,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Stade Reims,Eliran Atar,26,Israel,Left Winger,LW,1500000.0,M. Tel Aviv,Israel,1500000.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Gaëtan Charbonnier,24,France,Centre-Forward,CF,2000000.0,Montpellier,France,1000000.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Mads Albaek,23,Denmark,Central Midfield,CM,1200000.0,FC Midtjylland,Denmark,600000.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Prince Oniangué,24,Congo,Defensive Midfield,DM,900000.0,Tours FC,France,0.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Antoine Conte,19,France,Right-Back,RB,250000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,True,free loan
+Stade Reims,Sacha Bastien,18,France,Goalkeeper,GK,,CS Sedan B,France,0.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Atila Turan,21,Turkey,Left-Back,LB,1500000.0,Sporting CP,Portugal,30000.0,in,summer,Ligue 1,2013,False,
+Stade Reims,Johann Ramaré,29,France,Defensive Midfield,DM,750000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2013,False,
+Stade Reims,Nicolas Fauvergue,28,France,Centre-Forward,CF,1000000.0,FC Metz,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Reims,Jonathan Kodjia,23,Cote d'Ivoire,Centre-Forward,CF,150000.0,SM Caen,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Reims,Johan Liébus,34,France,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Stade Reims,Julien Toudic,27,France,Centre-Forward,CF,500000.0,Lens,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+Stade Reims,Pape Souaré,23,Senegal,Left-Back,LB,1500000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+Stade Reims,Alexi Peuget,23,France,Defensive Midfield,DM,300000.0,LB Châteauroux,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Stade Reims,Kamel Ghilas,29,Algeria,Second Striker,SS,600000.0,RSC Charleroi,Belgium,0.0,out,winter,Ligue 1,2013,False,
+Stade Rennais FC,Jean II Makoun,30,Cameroon,Defensive Midfield,DM,4500000.0,Aston Villa,England,3000000.0,in,summer,Ligue 1,2013,False,
+Stade Rennais FC,Cheikh M'Bengue,25,Senegal,Left-Back,LB,4000000.0,Toulouse,France,2000000.0,in,summer,Ligue 1,2013,False,
+Stade Rennais FC,Nélson Oliveira,21,Portugal,Centre-Forward,CF,3000000.0,Benfica,Portugal,1000000.0,in,summer,Ligue 1,2013,True,loan with fee
+Stade Rennais FC,Silvio Romero,25,Argentina,Centre-Forward,CF,2750000.0,Lanús,Argentina,500000.0,in,summer,Ligue 1,2013,True,loan with fee
+Stade Rennais FC,Foued Kadir,29,Algeria,Attacking Midfield,AM,3000000.0,Marseille,France,250000.0,in,summer,Ligue 1,2013,True,loan with fee
+Stade Rennais FC,Sylvain Armand,32,France,Left-Back,LB,1500000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,False,
+Stade Rennais FC,Émerson Conceição,27,Brazil,Left-Back,LB,2000000.0,Trabzonspor,Turkey,0.0,in,summer,Ligue 1,2013,False,
+Stade Rennais FC,Chris Mavinga,22,DR Congo,Centre-Back,CB,2500000.0,Rubin Kazan,Russia,5000000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Mevlüt Erdinc,26,Turkey,Centre-Forward,CF,6000000.0,Saint-Étienne,France,4500000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Yacine Brahimi,23,Algeria,Left Winger,LW,4000000.0,Granada CF,Spain,2500000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Kévin Théophile-Catherine,23,Martinique,Centre-Back,CB,5000000.0,Cardiff,England,2500000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Yassine Jebbour,22,Morocco,Right-Back,RB,1000000.0,Montpellier,France,1000000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Víctor Montaño,29,Colombia,Centre-Forward,CF,2000000.0,Montpellier,France,800000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,John Verhoek,24,Netherlands,Centre-Forward,CF,900000.0,FC St. Pauli,Germany,300000.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Johann Carrasso,25,France,Goalkeeper,GK,400000.0,FC Metz,France,0.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Franck Julienne,22,France,Right Winger,RW,,AS Lyon-Duchère,France,0.0,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Sadio Diallo,22,Guinea,Central Midfield,CM,2500000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Rennais FC,Abdoulaye Sané,20,Senegal,Centre-Forward,CF,800000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Rennais FC,Dimitri Foulquier,20,Guadeloupe,Right-Back,RB,1000000.0,Granada CF,Spain,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Rennais FC,Axel Ngando,20,France,Attacking Midfield,AM,600000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Rennais FC,Cheick Diarra,21,Mali,Centre-Forward,CF,1000000.0,FC Istres,France,0.0,out,summer,Ligue 1,2013,True,free loan
+Stade Rennais FC,Hérita Ilunga,31,DR Congo,Left-Back,LB,400000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,John Mensah,30,Ghana,Centre-Back,CB,600000.0,Without Club,,,out,summer,Ligue 1,2013,False,
+Stade Rennais FC,Jean II Makoun,30,Cameroon,Defensive Midfield,DM,4500000.0,Aston Villa,England,0.0,out,summer,Ligue 1,2013,True,end of loan
+Stade Rennais FC,Alou Diarra,31,France,Defensive Midfield,DM,1250000.0,West Ham,England,0.0,out,summer,Ligue 1,2013,True,end of loan
+Stade Rennais FC,Paul-Georges Ntep,21,Cameroon,Left Winger,LW,3000000.0,AJ Auxerre,France,5000000.0,in,winter,Ligue 1,2013,False,
+Stade Rennais FC,Ola Toivonen,27,Sweden,Attacking Midfield,AM,6500000.0,PSV Eindhoven,Netherlands,2500000.0,in,winter,Ligue 1,2013,False,
+Stade Rennais FC,Kamil Grosicki,25,Poland,Left Winger,LW,3800000.0,Sivasspor,Turkey,800000.0,in,winter,Ligue 1,2013,False,
+Stade Rennais FC,Abdoulaye Diallo,21,Senegal,Goalkeeper,GK,400000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Stade Rennais FC,Zana Allée,19,France,Left Winger,LW,500000.0,AJ Auxerre,France,0.0,out,winter,Ligue 1,2013,True,free loan
+Stade Rennais FC,Émerson Conceição,28,Brazil,Left-Back,LB,1250000.0,Atlético-MG,Brazil,0.0,out,winter,Ligue 1,2013,False,
+Stade Rennais FC,Onyekachi Apam,27,Nigeria,Centre-Back,CB,1000000.0,Without Club,,,out,winter,Ligue 1,2013,False,
+Valenciennes FC,Aurelian Chitu,22,Romania,Right Winger,RW,1200000.0,FC Viitorul,Romania,700000.0,in,summer,Ligue 1,2013,False,
+Valenciennes FC,Saliou Ciss,23,Senegal,Left-Back,LB,1100000.0,Tromsø IL,Norway,500000.0,in,summer,Ligue 1,2013,False,
+Valenciennes FC,Jean-Christophe Bahebeck,20,France,Centre-Forward,CF,1500000.0,Paris SG,France,0.0,in,summer,Ligue 1,2013,True,free loan
+Valenciennes FC,Éloge Enza-Yamissi,30,Central African Republic,Defensive Midfield,DM,600000.0,Troyes,France,0.0,in,summer,Ligue 1,2013,False,
+Valenciennes FC,Magno Novaes,30,Brazil,Goalkeeper,GK,750000.0,SC Bastia,France,0.0,in,summer,Ligue 1,2013,False,
+Valenciennes FC,Tongo Doumbia,24,Mali,Defensive Midfield,DM,1700000.0,Wolves,England,0.0,in,summer,Ligue 1,2013,True,free loan
+Valenciennes FC,Gary Kagelmacher,25,Uruguay,Centre-Back,CB,3000000.0,Monaco,France,0.0,in,summer,Ligue 1,2013,True,free loan
+Valenciennes FC,Nicolas Isimat-Mirin,21,France,Centre-Back,CB,4500000.0,Monaco,France,4000000.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Gaël Danic,31,France,Left Winger,LW,3000000.0,Olympique Lyon,France,1000000.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Gaëtan Bong,25,Cameroon,Left-Back,LB,2500000.0,Olympiacos,Greece,1000000.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Vincent Aboubakar,21,Cameroon,Centre-Forward,CF,2000000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Jean-Louis Leca,27,France,Goalkeeper,GK,300000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Rémi Gomis,29,Senegal,Defensive Midfield,DM,2000000.0,Levante,Spain,0.0,out,summer,Ligue 1,2013,False,
+Valenciennes FC,Dusan Djuric,28,Sweden,Central Midfield,CM,600000.0,Odense BK,Denmark,0.0,out,summer,Ligue 1,2013,True,free loan
+Valenciennes FC,Carlos Sánchez,27,Colombia,Defensive Midfield,DM,3000000.0,Rangers Talca,Chile,0.0,out,summer,Ligue 1,2013,True,end of loan
+Valenciennes FC,Younousse Sankharé,23,Senegal,Central Midfield,CM,2000000.0,Dijon,France,0.0,out,summer,Ligue 1,2013,True,end of loan
+Valenciennes FC,Majeed Waris,22,Ghana,Centre-Forward,CF,2500000.0,Spartak Moscow,Russia,0.0,in,winter,Ligue 1,2013,True,free loan
+Valenciennes FC,Carl Medjani,28,Algeria,Defensive Midfield,DM,2000000.0,Monaco,France,0.0,in,winter,Ligue 1,2013,True,free loan
+Valenciennes FC,José Saez,31,France,Central Midfield,CM,500000.0,SM Caen,France,0.0,out,winter,Ligue 1,2013,False,
+Valenciennes FC,Aurelian Chitu,22,Romania,Right Winger,RW,850000.0,PAS Giannina,Greece,0.0,out,winter,Ligue 1,2013,True,free loan

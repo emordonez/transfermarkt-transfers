@@ -1,0 +1,622 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Fiorentina,Nuno Gomes,23,Portugal,Centre-Forward,CF,,Benfica,Portugal,17000000.0,in,summer,Serie A,2000,False,
+AC Fiorentina,Amaral,27,Brazil,Defensive Midfield,DM,,Vasco da Gama,Brazil,750000.0,in,summer,Serie A,2000,False,
+AC Fiorentina,Paolo Vanoli,27,Italy,Left-Back,LB,,AC Parma,Italy,0.0,in,summer,Serie A,2000,False,
+AC Fiorentina,Saliou Lassissi,21,Cote d'Ivoire,Centre-Back,CB,,AC Parma,Italy,,in,summer,Serie A,2000,False,
+AC Fiorentina,Marco Rossi,22,Italy,Right Midfield,RM,,Salernitana,Italy,,in,summer,Serie A,2000,False,
+AC Fiorentina,Emiliano Moretti,19,Italy,Centre-Back,CB,,Cisco Lodigiani,Italy,,in,summer,Serie A,2000,False,
+AC Fiorentina,Gabriel Batistuta,31,Argentina,Centre-Forward,CF,,AS Roma,Italy,36150000.0,out,summer,Serie A,2000,False,
+AC Fiorentina,Jörg Heinrich,30,Germany,Left-Back,LB,,Bor. Dortmund,Germany,4099999.9999999995,out,summer,Serie A,2000,False,
+AC Fiorentina,Sead Zilic,17,Bosnia-Herzegovina,Centre-Forward,CF,,Hertha BSC,Germany,0.0,out,summer,Serie A,2000,False,
+AC Fiorentina,Paul Okon,28,Australia,Defensive Midfield,DM,,Middlesbrough,England,,out,summer,Serie A,2000,False,
+AC Fiorentina,Guillermo Amor,32,Spain,Central Midfield,CM,,Villarreal,Spain,,out,summer,Serie A,2000,False,
+AC Fiorentina,Alessandro Agostini,20,Italy,Left-Back,LB,,Ternana,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AC Fiorentina,Gianmatteo Mareggini,33,Italy,Goalkeeper,GK,,Ternana U19,Italy,,out,summer,Serie A,2000,False,
+AC Fiorentina,Abel Balbo,34,Argentina,Centre-Forward,CF,,AS Roma,Italy,,out,summer,Serie A,2000,False,
+AC Fiorentina,Pasquale Padalino,27,Italy,Centre-Back,CB,,Bologna,Italy,,out,summer,Serie A,2000,False,
+AC Fiorentina,Federico Ligori,18,Italy,Centre-Forward,CF,,Varese,Italy,,out,summer,Serie A,2000,False,
+AC Fiorentina,Alessandro Flauto,18,Italy,Goalkeeper,GK,,AC Pisa,Italy,,out,summer,Serie A,2000,False,
+AC Fiorentina,Domenico Morfeo,25,Italy,Attacking Midfield,AM,,Atalanta BC,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Fiorentina,Aldo Firicano,33,Italy,Centre-Back,CB,,Salernitana,Italy,,out,winter,Serie A,2000,False,
+AC Fiorentina,Georgios Vakouftsis,20,Greece,Centre-Forward,CF,,Ravenna,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Fiorentina,Emiliano Bigica,27,Italy,Defensive Midfield,DM,,Napoli,Italy,,out,winter,Serie A,2000,False,
+AC Parma,Savo Milosevic,26,Serbia,Centre-Forward,CF,,Real Zaragoza,Spain,25000000.0,in,summer,Serie A,2000,False,
+AC Parma,Sérgio Conceição,25,Portugal,Right Winger,RW,,Lazio,Italy,17000000.0,in,summer,Serie A,2000,False,
+AC Parma,Sabri Lamouchi,28,France,Central Midfield,CM,,Monaco,France,7850000.0,in,summer,Serie A,2000,False,
+AC Parma,Johan Micoud,26,France,Attacking Midfield,AM,,G. Bordeaux,France,7600000.0,in,summer,Serie A,2000,False,
+AC Parma,Patrick M'Boma,29,Cameroon,Centre-Forward,CF,,Cagliari Calcio,Italy,6100000.0,in,summer,Serie A,2000,False,
+AC Parma,Matías Almeyda,26,Argentina,Defensive Midfield,DM,,Lazio,Italy,1400000.0,in,summer,Serie A,2000,False,
+AC Parma,Michele Serena,30,Italy,Left-Back,LB,,Inter,Italy,0.0,in,summer,Serie A,2000,True,free loan
+AC Parma,Gianluca Falsini,24,Italy,Left-Back,LB,,Hellas Verona,Italy,,in,summer,Serie A,2000,False,
+AC Parma,Emiliano Bonazzoli,21,Italy,Centre-Forward,CF,,Brescia,Italy,,in,summer,Serie A,2000,False,
+AC Parma,Alejandro Lembo,22,Uruguay,Centre-Back,CB,,Bella Vista,Uruguay,,in,summer,Serie A,2000,False,
+AC Parma,Pietro Strada,30,Italy,Left Midfield,LM,,Genoa,Italy,,in,summer,Serie A,2000,False,
+AC Parma,Hernán Crespo,25,Argentina,Centre-Forward,CF,,Lazio,Italy,56810000.0,out,summer,Serie A,2000,False,
+AC Parma,Mario Stanic,28,Croatia,Right Winger,RW,,Chelsea,England,8400000.0,out,summer,Serie A,2000,False,
+AC Parma,Paolo Vanoli,27,Italy,Left-Back,LB,,Fiorentina,Italy,0.0,out,summer,Serie A,2000,False,
+AC Parma,Ariel Ortega,26,Argentina,Attacking Midfield,AM,,River Plate,Argentina,0.0,out,summer,Serie A,2000,False,
+AC Parma,Amauri,20,Italy,Centre-Forward,CF,,Napoli,Italy,15000.0,out,summer,Serie A,2000,True,loan with fee
+AC Parma,Gianluca De Angelis,19,Italy,Centre-Forward,CF,,Benevento,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AC Parma,Pietro Strada,30,Italy,Left Midfield,LM,,Cosenza,Italy,,out,summer,Serie A,2000,False,
+AC Parma,Zlatko Zebic,21,Jugoslawien (SFR),Attacking Midfield,AM,,AC Bellinzona,Switzerland,0.0,out,summer,Serie A,2000,True,free loan
+AC Parma,Roberto Breda,30,Italy,midfield,midfield,,Genoa,Italy,,out,summer,Serie A,2000,False,
+AC Parma,Raffaele Longo,22,Italy,Central Midfield,CM,,Vicenza,Italy,,out,summer,Serie A,2000,False,
+AC Parma,Davide Zoboli,18,Italy,Centre-Back,CB,,Benevento,Italy,,out,summer,Serie A,2000,False,
+AC Parma,Luciano Galletti,20,Argentina,Right Winger,RW,,Estudiantes,Argentina,,out,summer,Serie A,2000,False,
+AC Parma,Simone Barone,22,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AC Parma,Saliou Lassissi,21,Cote d'Ivoire,Centre-Back,CB,,Fiorentina,Italy,,out,summer,Serie A,2000,False,
+AC Parma,Ousmane Dabo,23,France,Defensive Midfield,DM,,Monaco,France,0.0,out,summer,Serie A,2000,True,free loan
+AC Parma,Andrea Filosa,18,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2000,False,
+AC Parma,Roberto Fabbi,19,Italy,midfield,midfield,,Retired,,,out,summer,Serie A,2000,False,
+AC Parma,Johan Walem,28,Belgium,Left Midfield,LM,,Udinese,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+AC Parma,Paulo Sousa,29,Portugal,Central Midfield,CM,,Inter,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+AC Parma,Amauri,20,Italy,Centre-Forward,CF,,AC Bellinzona,Switzerland,450000.0,in,winter,Serie A,2000,False,
+AC Parma,Néstor Sensini,34,Argentina,Centre-Back,CB,,Lazio,Italy,0.0,in,winter,Serie A,2000,False,
+AC Parma,Dino Baggio,29,Italy,Defensive Midfield,DM,,Lazio,Italy,7500000.0,out,winter,Serie A,2000,False,
+AC Parma,Ousmane Dabo,23,France,Defensive Midfield,DM,,Vicenza,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Parma,Emiliano Bonazzoli,21,Italy,Centre-Forward,CF,,Hellas Verona,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Parma,Pietro Strada,30,Italy,Left Midfield,LM,,Cosenza,Italy,,out,winter,Serie A,2000,False,
+AC Perugia,Zisis Vryzas,26,Greece,Centre-Forward,CF,,PAOK Salonika,Greece,1500000.0,in,summer,Serie A,2000,False,
+AC Perugia,Luca Saudati,21,Italy,Centre-Forward,CF,,Milan,Italy,1500000.0,in,summer,Serie A,2000,False,
+AC Perugia,Moïse Brou Apanga,18,Gabon,Centre-Back,CB,,P. Timisoara B,Romania,0.0,in,summer,Serie A,2000,False,
+AC Perugia,Manuele Blasi,19,Italy,Central Midfield,CM,,AS Roma,Italy,0.0,in,summer,Serie A,2000,True,free loan
+AC Perugia,Mingyu Ma,30,China,Left Midfield,LM,,Sichuan FC,China,,in,summer,Serie A,2000,False,
+AC Perugia,Luca Isolini,19,Italy,midfield,midfield,,Grosseto,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Pablo Guiñazú,21,Argentina,Defensive Midfield,DM,,Newell's,Argentina,,in,summer,Serie A,2000,False,
+AC Perugia,Juan Turchi,24,Argentina,Centre-Forward,CF,,Viterbese,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Gianluca Petrachi,31,Italy,midfield,midfield,,Nottm Forest,England,,in,summer,Serie A,2000,False,
+AC Perugia,El Rulo,27,Argentina,Defensive Midfield,DM,,Newell's,Argentina,,in,summer,Serie A,2000,False,
+AC Perugia,Jung-hwan Ahn,24,"Korea, South",Second Striker,SS,,Busan i.cons,"Korea, South",0.0,in,summer,Serie A,2000,True,free loan
+AC Perugia,Cristian Bucchi,23,Italy,Centre-Forward,CF,,Vicenza,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Mirko Pieri,21,Italy,Left-Back,LB,,Grosseto,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Fabio Liverani,24,Italy,Defensive Midfield,DM,,Viterbese,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Emiliano Testini,23,Italy,Left Winger,LW,,Viterbese,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Marco Di Loreto,25,Italy,Centre-Back,CB,,Viterbese,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Michele Tardioli,29,Italy,Goalkeeper,GK,,Arezzo,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Tomaso Tatti,28,Italy,attack,attack,,Cosenza,Italy,,in,summer,Serie A,2000,False,
+AC Perugia,Milan Rapaic,26,Croatia,Left Midfield,LM,,Fenerbahce,Turkey,6000000.0,out,summer,Serie A,2000,False,
+AC Perugia,Michele Di Piedi,19,Italy,Centre-Forward,CF,,Sheff Wed,England,0.0,out,summer,Serie A,2000,False,
+AC Perugia,Sasa Bozicic,17,Slovenia,Left Midfield,LM,,FC Koper,Slovenia,0.0,out,summer,Serie A,2000,False,
+AC Perugia,Alessandro Calori,33,Italy,Centre-Back,CB,,Brescia,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Juan Turchi,24,Argentina,Centre-Forward,CF,,Catania,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AC Perugia,Roberto Ripa,32,Italy,Centre-Back,CB,,Ternana,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Mladen Rakic,22,Croatia,Goalkeeper,GK,,Unknown,,,out,summer,Serie A,2000,False,
+AC Perugia,Cataldo Montesanto,23,Italy,Defensive Midfield,DM,,Ascoli,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Massimiliano Cappioli,32,Italy,Central Midfield,CM,,US Palermo,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Pierpaolo Bisoli,33,Italy,Right Midfield,RM,,Brescia,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Marco Capparella,25,Italy,Right Midfield,RM,,Catania,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Giorgio Sterchele,30,Italy,Goalkeeper,GK,,Vicenza,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Massimiliano Esposito,28,Italy,Right Midfield,RM,,Brescia,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Sergio Campolo,28,Italy,Central Midfield,CM,,Catania,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Nicola Amoruso,25,Italy,Centre-Forward,CF,,Napoli,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Renato Olive,29,Italy,Central Midfield,CM,,Bologna,Italy,,out,summer,Serie A,2000,False,
+AC Perugia,Valerio Murino,18,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2000,False,
+AC Perugia,Daniele Daino,20,Italy,Right-Back,RB,,Milan,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+AC Perugia,Dmitri Alenichev,27,Russia,Central Midfield,CM,,AS Roma,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+AC Perugia,Luca Saudati,21,Italy,Centre-Forward,CF,,Milan,Italy,1500000.0,in,winter,Serie A,2000,False,
+AC Perugia,Stefano Lombardi,24,Italy,Centre-Back,CB,,Inter,Italy,1000000.0,in,winter,Serie A,2000,False,
+AC Perugia,Emiliano Tarana,21,Italy,Right Winger,RW,,Ternana,Italy,,in,winter,Serie A,2000,False,
+AC Perugia,Anselmo Robbiati,31,Italy,Left Winger,LW,,Inter,Italy,0.0,in,winter,Serie A,2000,True,free loan
+AC Perugia,Tomaso Tatti,28,Italy,attack,attack,,Cosenza,Italy,,in,winter,Serie A,2000,False,
+AC Perugia,Mingyu Ma,31,China,Left Midfield,LM,,Sichuan FC,China,0.0,out,winter,Serie A,2000,False,
+AC Perugia,Giovanni Proietti,23,Italy,Goalkeeper,GK,,Catania,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Perugia,Pablo Guiñazú,22,Argentina,Defensive Midfield,DM,,Independiente,Argentina,,out,winter,Serie A,2000,False,
+AC Perugia,Héctor Tapia,23,Chile,Centre-Forward,CF,,Colo Colo,Chile,0.0,out,winter,Serie A,2000,True,free loan
+AC Perugia,Juan Turchi,24,Argentina,Centre-Forward,CF,,Spezia,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Perugia,Luca Isolini,20,Italy,midfield,midfield,,Cesena,Italy,,out,winter,Serie A,2000,False,
+AC Perugia,Emiliano Testini,23,Italy,Left Winger,LW,,Catania,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AC Perugia,Angelo Pagotto,27,Italy,Goalkeeper,GK,,Without Club,,,out,winter,Serie A,2000,False,
+AS Bari,Jean-François Gillet,21,Belgium,Goalkeeper,GK,,Calcio Monza,Italy,2500000.0,in,summer,Serie A,2000,False,
+AS Bari,Giuseppe Mazzarelli,27,Switzerland,Right-Back,RB,,FC St. Gallen,Switzerland,,in,summer,Serie A,2000,False,
+AS Bari,Generoso Rossi,21,Italy,Goalkeeper,GK,,FC Crotone,Italy,,in,summer,Serie A,2000,False,
+AS Bari,Jaime González,23,Chile,Centre-Forward,CF,,Colo Colo,Chile,,in,summer,Serie A,2000,False,
+AS Bari,Giulio Migliaccio,19,Italy,Central Midfield,CM,,Savoia,Italy,,in,summer,Serie A,2000,False,
+AS Bari,Carlo Cardascio,20,Italy,Right Midfield,RM,,US Palermo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Bari,Raphael Chukwu,24,Nigeria,Centre-Forward,CF,,Sundowns,South Africa,0.0,out,summer,Serie A,2000,True,free loan
+AS Bari,Moris Carrozzieri,19,Italy,Centre-Back,CB,,Andria,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Bari,Francesco Mancini,31,Italy,Goalkeeper,GK,,Napoli,Italy,,out,summer,Serie A,2000,False,
+AS Bari,Davide Olivares,28,Italy,midfield,midfield,,Lecce,Italy,,out,summer,Serie A,2000,False,
+AS Bari,Alessio De Stefani,20,Italy,defence,defence,,Andria,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Bari,Attilio Gregori,34,Italy,Goalkeeper,GK,,Savoia,Italy,,out,summer,Serie A,2000,False,
+AS Bari,Antonio Chisena,20,Italy,attack,attack,,Gualdo,Italy,,out,summer,Serie A,2000,False,
+AS Bari,Matteo Ferrari,20,Italy,Centre-Back,CB,,Inter,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+AS Bari,Attilio Gregori,35,Italy,Goalkeeper,GK,,Savoia,Italy,0.0,in,winter,Serie A,2000,False,
+AS Bari,Paolo Poggi,29,Italy,Centre-Forward,CF,,AS Roma,Italy,0.0,in,winter,Serie A,2000,True,free loan
+AS Bari,Generoso Rossi,22,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,out,winter,Serie A,2000,False,
+AS Bari,Moris Carrozzieri,20,Italy,Centre-Back,CB,,Giulianova,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AS Bari,Rodolfo Giorgetti,29,Italy,Right Midfield,RM,,Lecce,Italy,,out,winter,Serie A,2000,False,
+AS Bari,Luigi Garzya,31,Italy,Centre-Back,CB,,Torino,Italy,,out,winter,Serie A,2000,False,
+AS Roma,Gabriel Batistuta,31,Argentina,Centre-Forward,CF,,Fiorentina,Italy,36150000.0,in,summer,Serie A,2000,False,
+AS Roma,Wálter Samuel,22,Argentina,Centre-Back,CB,,Boca Juniors,Argentina,20800000.0,in,summer,Serie A,2000,False,
+AS Roma,Jonathan Zebina,21,France,Centre-Back,CB,,Cagliari Calcio,Italy,18400000.0,in,summer,Serie A,2000,False,
+AS Roma,Émerson,24,Brazil,Defensive Midfield,DM,,Bay. Leverkusen,Germany,18000000.0,in,summer,Serie A,2000,False,
+AS Roma,Franco Brienza,21,Italy,Attacking Midfield,AM,,Foggia,Italy,52000.0,in,summer,Serie A,2000,False,
+AS Roma,Abel Balbo,34,Argentina,Centre-Forward,CF,,Fiorentina,Italy,,in,summer,Serie A,2000,False,
+AS Roma,Giuseppe Di Masi,18,Italy,Goalkeeper,GK,,Foggia,Italy,,in,summer,Serie A,2000,False,
+AS Roma,Dmitri Alenichev,27,Russia,Central Midfield,CM,,FC Porto,Portugal,3000000.0,out,summer,Serie A,2000,False,
+AS Roma,Manuele Blasi,19,Italy,Central Midfield,CM,,Perugia,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Roma,Fabio Petruzzi,29,Italy,Centre-Back,CB,,Brescia,Italy,,out,summer,Serie A,2000,False,
+AS Roma,Ivan Tomic,24,Serbia,Defensive Midfield,DM,,Alavés,Spain,0.0,out,summer,Serie A,2000,True,free loan
+AS Roma,Daniele De Vezze,20,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Roma,Giuseppe Colucci,19,Italy,Central Midfield,CM,,Hellas Verona,Italy,,out,summer,Serie A,2000,False,
+AS Roma,Andrea Campagnolo,22,Italy,Goalkeeper,GK,,Genoa,Italy,,out,summer,Serie A,2000,False,
+AS Roma,Gustavo Bartelt,25,Argentina,Centre-Forward,CF,,Aston Villa,England,,out,summer,Serie A,2000,False,
+AS Roma,Filippo Dal Moro,29,Italy,Left-Back,LB,,Ravenna,Italy,,out,summer,Serie A,2000,False,
+AS Roma,Alessandro Frau,23,Italy,Attacking Midfield,AM,,AC Pisa,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Roma,Franco Brienza,21,Italy,Attacking Midfield,AM,,US Palermo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+AS Roma,Gianni Guigou,25,Uruguay,Defensive Midfield,DM,,Nacional,Uruguay,4000000.0,in,winter,Serie A,2000,False,
+AS Roma,Sergey Gurenko,28,Belarus,Right-Back,RB,,Real Zaragoza,Spain,360000.0,out,winter,Serie A,2000,True,loan with fee
+AS Roma,Fábio Júnior,23,Brazil,Centre-Forward,CF,,Palmeiras,Brazil,0.0,out,winter,Serie A,2000,True,free loan
+AS Roma,Paolo Poggi,29,Italy,Centre-Forward,CF,,Bari,Italy,0.0,out,winter,Serie A,2000,True,free loan
+AS Roma,Giuseppe Di Masi,19,Italy,Goalkeeper,GK,,US Palermo,Italy,,out,winter,Serie A,2000,False,
+AS Roma,Maurizio Lanzaro,18,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Atalanta BC,Maurizio Ganz,31,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,in,summer,Serie A,2000,False,
+Atalanta BC,Massimo Paganin,29,Italy,Centre-Back,CB,,Bologna,Italy,0.0,in,summer,Serie A,2000,False,
+Atalanta BC,Nicola Ventola,22,Italy,Centre-Forward,CF,,Inter,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Atalanta BC,Nicola Caccia,30,Italy,Centre-Forward,CF,,Piacenza,Italy,0.0,out,summer,Serie A,2000,False,
+Atalanta BC,Robert Englaro,30,Slovenia,Centre-Back,CB,,ND FC Ljubljana,Slovenia,0.0,out,summer,Serie A,2000,False,
+Atalanta BC,Claudio Caniggia,33,Argentina,Right Winger,RW,,Dundee FC,Scotland,0.0,out,summer,Serie A,2000,False,
+Atalanta BC,Filippo Carobbio,20,Italy,Central Midfield,CM,,Varese,Italy,,out,summer,Serie A,2000,False,
+Atalanta BC,Luca Cavalli,22,Italy,Central Midfield,CM,,Lumezzane,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Atalanta BC,Fabio Balacchi,19,Italy,Defensive Midfield,DM,,Meda,Italy,,out,summer,Serie A,2000,False,
+Atalanta BC,Emanuele Fiore,19,Italy,attack,attack,,Mantova,Italy,,out,summer,Serie A,2000,False,
+Atalanta BC,Matteo Minelli,19,Italy,defence,defence,,Prato,Italy,,out,summer,Serie A,2000,False,
+Atalanta BC,Alessandro Pontarollo,20,Italy,Left Midfield,LM,,Triestina,Italy,,out,summer,Serie A,2000,False,
+Atalanta BC,Cristian Raimondi,19,Italy,Right Midfield,RM,,UC AlbinoLeffe,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Atalanta BC,Daniele Berretta,28,Italy,Defensive Midfield,DM,,Cagliari Calcio,Italy,,in,winter,Serie A,2000,False,
+Atalanta BC,Domenico Morfeo,25,Italy,Attacking Midfield,AM,,Fiorentina,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Atalanta BC,Claudio Caniggia,33,Argentina,Right Winger,RW,,Dundee FC,Scotland,0.0,out,winter,Serie A,2000,False,
+Atalanta BC,Cesare Natali,21,Italy,Centre-Back,CB,,Calcio Monza,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Atalanta BC,Danilo Zini,22,Italy,Centre-Back,CB,,Pistoiese,Italy,,out,winter,Serie A,2000,False,
+Atalanta BC,Giacomo Banchelli,27,Italy,Centre-Forward,CF,,FC Empoli,Italy,,out,winter,Serie A,2000,False,
+Atalanta BC,Alberto Fontana,34,Italy,Goalkeeper,GK,,Napoli,Italy,,out,winter,Serie A,2000,False,
+Atalanta BC,Alessandro Pontarollo,20,Italy,Left Midfield,LM,,Triestina,Italy,,out,winter,Serie A,2000,False,
+Bologna FC 1909,Julio Cruz,25,Argentina,Centre-Forward,CF,,Feyenoord,Netherlands,8199999.999999999,in,summer,Serie A,2000,False,
+Bologna FC 1909,Luis Oliveira,31,Belgium,Centre-Forward,CF,,Cagliari Calcio,Italy,300000.0,in,summer,Serie A,2000,False,
+Bologna FC 1909,Enzo Maresca,20,Italy,Central Midfield,CM,,Juventus,Italy,140000.0,in,summer,Serie A,2000,True,loan with fee
+Bologna FC 1909,Björn Runström,16,Sweden,Centre-Forward,CF,,Hammarby,Sweden,0.0,in,summer,Serie A,2000,False,
+Bologna FC 1909,Francisco Lima,29,Brazil,Defensive Midfield,DM,,Lecce,Italy,0.0,in,summer,Serie A,2000,False,
+Bologna FC 1909,Claudio Bellucci,25,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,in,summer,Serie A,2000,False,
+Bologna FC 1909,Renato Olive,29,Italy,Central Midfield,CM,,Perugia,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Tomas Locatelli,24,Italy,Attacking Midfield,AM,,Udinese,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Emanuele Brioschi,25,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Marcello Castellini,27,Italy,Centre-Back,CB,,Sampdoria,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Francesco Quintavalla,18,Italy,Right-Back,RB,,Carpi,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Pasquale Padalino,27,Italy,Centre-Back,CB,,Fiorentina,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Niccolò Galli,17,Italy,defence,defence,,Arsenal U18,England,0.0,in,summer,Serie A,2000,True,free loan
+Bologna FC 1909,Federico Gmeiner,18,Italy,defence,defence,,Fiorentina U19,Italy,,in,summer,Serie A,2000,False,
+Bologna FC 1909,Ferdinando Coppola,22,Italy,Goalkeeper,GK,,Napoli,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Bologna FC 1909,Zé Elias,23,Brazil,Central Midfield,CM,,Olympiacos,Greece,5800000.0,out,summer,Serie A,2000,False,
+Bologna FC 1909,Kennet Andersson,32,Sweden,Centre-Forward,CF,,Fenerbahce,Turkey,4500000.0,out,summer,Serie A,2000,False,
+Bologna FC 1909,Luciano,24,Brazil,Right Midfield,RM,,Chievo Verona,Italy,2330000.0,out,summer,Serie A,2000,False,
+Bologna FC 1909,Cristian Zaccardo,18,Italy,Centre-Back,CB,,Spezia,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Bologna FC 1909,Massimo Paganin,29,Italy,Centre-Back,CB,,Atalanta BC,Italy,0.0,out,summer,Serie A,2000,False,
+Bologna FC 1909,Teddy Lucic,27,Sweden,Centre-Back,CB,,AIK,Sweden,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Christophe Sanchez,27,France,Centre-Forward,CF,,Saint-Étienne,France,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Nicola Boselli,27,Italy,Centre-Back,CB,,Piacenza,Italy,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Klas Ingesson,31,Sweden,Defensive Midfield,DM,,Marseille,France,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Davide Fontolan,34,Italy,Left Midfield,LM,,Cagliari Calcio,Italy,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Michele Paramatti,32,Italy,Left-Back,LB,,Juventus,Italy,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Marco Foschini,18,Italy,midfield,midfield,,Imolese,Italy,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Fausto Ferrari,20,Italy,Centre-Forward,CF,,Lucchese,Italy,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Giancarlo Marocchi,34,Italy,Central Midfield,CM,,Retired,,,out,summer,Serie A,2000,False,
+Bologna FC 1909,Nicola Ventola,22,Italy,Centre-Forward,CF,,Inter,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Bologna FC 1909,Paolo Orlandoni,27,Italy,Goalkeeper,GK,,Reggina,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Bologna FC 1909,Max Tonetto,25,Italy,Left-Back,LB,,Milan,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Bologna FC 1909,Ferdinando Coppola,22,Italy,Goalkeeper,GK,,Napoli,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Bologna FC 1909,Alessandro Dal Canto,25,Italy,Left-Back,LB,,Vicenza,Italy,,out,winter,Serie A,2000,False,
+Bologna FC 1909,Fausto Ferrari,20,Italy,Centre-Forward,CF,,Lucchese,Italy,,out,winter,Serie A,2000,False,
+Bologna FC 1909,Marco Roccati,25,Italy,Goalkeeper,GK,,Dundee FC,Scotland,,out,winter,Serie A,2000,False,
+Brescia Calcio,Roberto Baggio,33,Italy,Second Striker,SS,,Inter,Italy,0.0,in,summer,Serie A,2000,False,
+Brescia Calcio,Pavel Srnicek,32,Czech Republic,Goalkeeper,GK,,Sheff Wed,England,0.0,in,summer,Serie A,2000,False,
+Brescia Calcio,Simone Del Nero,18,Italy,Left Winger,LW,,FC Empoli,Italy,0.0,in,summer,Serie A,2000,False,
+Brescia Calcio,Sandro Grande,22,Canada,Defensive Midfield,DM,,Potenza SC,Italy,0.0,in,summer,Serie A,2000,False,
+Brescia Calcio,Fabio Petruzzi,29,Italy,Centre-Back,CB,,AS Roma,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Alejandro Correa,20,Uruguay,Defensive Midfield,DM,,Maldonado,Uruguay,,in,summer,Serie A,2000,False,
+Brescia Calcio,Massimiliano Esposito,28,Italy,Right Midfield,RM,,Perugia,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Raúl González,24,Argentina,attack,attack,,Rafaela,Argentina,,in,summer,Serie A,2000,False,
+Brescia Calcio,Pierluigi Orlandini,27,Italy,Right Midfield,RM,,Milan,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Alessandro Calori,33,Italy,Centre-Back,CB,,Perugia,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Giovanni Stroppa,32,Italy,Attacking Midfield,AM,,Piacenza,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Pierpaolo Bisoli,33,Italy,Right Midfield,RM,,Perugia,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Kubilay Türkyilmaz,33,Switzerland,Centre-Forward,CF,,AC Bellinzona,Switzerland,,in,summer,Serie A,2000,False,
+Brescia Calcio,Stefano Brognoli,17,Italy,Central Midfield,CM,,Sant'Angelo,Italy,,in,summer,Serie A,2000,False,
+Brescia Calcio,Tal Banin,29,Israel,Defensive Midfield,DM,,M. Tel Aviv,Israel,900000.0,out,summer,Serie A,2000,False,
+Brescia Calcio,Gilbert Bodart,38,Belgium,Goalkeeper,GK,,Ravenna,Italy,0.0,out,summer,Serie A,2000,False,
+Brescia Calcio,Sandro Grande,22,Canada,Defensive Midfield,DM,,Catanzaro,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Brescia Calcio,Matteo Tacchini,19,Italy,midfield,midfield,,Varese,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Gustavo Boccoli,22,Brazil,Central Midfield,CM,,Paraná,Brazil,,out,summer,Serie A,2000,False,
+Brescia Calcio,Carlos Dario Aurellio,24,Argentina,defence,defence,,Cosenza,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Carmine Nunziata,32,Italy,midfield,midfield,,AC Montichiari,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Francesco Zanoncelli,32,Italy,Centre-Back,CB,,Genoa,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Darío Aurelio,24,Argentina,Left Midfield,LM,,Cosenza,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Brescia Calcio,Marco Pisano,18,Italy,Left-Back,LB,,Ascoli,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Luca Mezzano,22,Italy,Centre-Back,CB,,Inter,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Emiliano Bonazzoli,21,Italy,Centre-Forward,CF,,AC Parma,Italy,,out,summer,Serie A,2000,False,
+Brescia Calcio,Florin Raducioiu,30,Romania,Centre-Forward,CF,,Monaco,France,,out,summer,Serie A,2000,False,
+Brescia Calcio,Raffaele Cerbone,31,Italy,attack,attack,,Chievo Verona,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Brescia Calcio,Igli Tare,27,Albania,Centre-Forward,CF,,1.FC K'lautern,Germany,0.0,in,winter,Serie A,2000,True,free loan
+Brescia Calcio,Jonathan Bachini,25,Italy,Right Midfield,RM,,Juventus,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Brescia Calcio,Andrea Pirlo,21,Italy,Defensive Midfield,DM,,Inter,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Brescia Calcio,Kubilay Türkyilmaz,33,Switzerland,Centre-Forward,CF,,FC Lugano,Switzerland,1030000.0,out,winter,Serie A,2000,False,
+Brescia Calcio,Gilbert Bodart,38,Belgium,Goalkeeper,GK,,Ravenna,Italy,0.0,out,winter,Serie A,2000,False,
+Brescia Calcio,Ivan Javorcic,21,Croatia,Defensive Midfield,DM,,FC Crotone,Italy,,out,winter,Serie A,2000,False,
+Brescia Calcio,Giovanni Stroppa,32,Italy,Attacking Midfield,AM,,Genoa,Italy,,out,winter,Serie A,2000,False,
+Brescia Calcio,Massimiliano Caputo,20,Italy,Left Winger,LW,,UC AlbinoLeffe,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Brescia Calcio,Vittorio Mero,26,Italy,Centre-Back,CB,,Ternana,Italy,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Robbie Keane,20,Ireland,Centre-Forward,CF,,Coventry,England,19500000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Francisco Farinós,22,Spain,Defensive Midfield,DM,,Valencia,Spain,16250000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Bruno Cirillo,23,Italy,Centre-Back,CB,,Reggina,Italy,7500000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Hakan Sükür,28,Turkey,Centre-Forward,CF,,Galatasaray,Turkey,6300000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Sixto Peralta,21,Argentina,Central Midfield,CM,,Racing Club,Argentina,4500000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Stefano Lombardi,23,Italy,Centre-Back,CB,,Lazio,Italy,750000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Cristian Brocchi,24,Italy,Central Midfield,CM,,Hellas Verona,Italy,700000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Riccardo Fissore,20,Italy,Centre-Back,CB,,Torino,Italy,250000.0,in,summer,Serie A,2000,False,
+FC Internazionale,Alonso Piola,20,Italy,Centre-Forward,CF,,Gualdo,Italy,0.0,in,summer,Serie A,2000,False,
+FC Internazionale,Marco Ballotta,36,Italy,Goalkeeper,GK,,Lazio,Italy,0.0,in,summer,Serie A,2000,False,
+FC Internazionale,Paulo Costa,20,Portugal,Attacking Midfield,AM,,Alverca,Portugal,0.0,in,summer,Serie A,2000,False,
+FC Internazionale,Corrado Colombo,20,Italy,Centre-Forward,CF,,Pistoiese,Italy,,in,summer,Serie A,2000,False,
+FC Internazionale,Julien Brellier,18,France,Central Midfield,CM,,Montpellier,France,,in,summer,Serie A,2000,False,
+FC Internazionale,Fabio Macellari,25,Italy,Left-Back,LB,,Cagliari Calcio,Italy,,in,summer,Serie A,2000,False,
+FC Internazionale,Luca Mezzano,22,Italy,Centre-Back,CB,,Brescia,Italy,,in,summer,Serie A,2000,False,
+FC Internazionale,Vampeta,26,Brazil,Central Midfield,CM,,Corinthians,Brazil,,in,summer,Serie A,2000,False,
+FC Internazionale,Anselmo Robbiati,30,Italy,Left Winger,LW,,Napoli,Italy,,in,summer,Serie A,2000,False,
+FC Internazionale,Riccardo Ramazzotti,20,Italy,defence,defence,,Viareggio,Italy,,in,summer,Serie A,2000,False,
+FC Internazionale,Angelo Peruzzi,30,Italy,Goalkeeper,GK,,Lazio,Italy,17900000.0,out,summer,Serie A,2000,False,
+FC Internazionale,Adrian Mutu,21,Romania,Centre-Forward,CF,,Hellas Verona,Italy,4000000.0,out,summer,Serie A,2000,False,
+FC Internazionale,Paulo Sousa,29,Portugal,Central Midfield,CM,,Panathinaikos,Greece,1800000.0,out,summer,Serie A,2000,False,
+FC Internazionale,Grigoris Georgatos,27,Greece,Left-Back,LB,,Olympiacos,Greece,750000.0,out,summer,Serie A,2000,True,loan with fee
+FC Internazionale,Roberto Baggio,33,Italy,Second Striker,SS,,Brescia,Italy,0.0,out,summer,Serie A,2000,False,
+FC Internazionale,Christian Panucci,27,Italy,Right-Back,RB,,Chelsea,England,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Edinho,20,Brazil,Left-Back,LB,,Cherno More,Bulgaria,0.0,out,summer,Serie A,2000,False,
+FC Internazionale,Michele Serena,30,Italy,Left-Back,LB,,AC Parma,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Nicola Ventola,22,Italy,Centre-Forward,CF,,Atalanta BC,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Francesco Colonnese,28,Italy,Centre-Back,CB,,Lazio,Italy,,out,summer,Serie A,2000,False,
+FC Internazionale,Zoumana Camara,21,France,Centre-Back,CB,,Marseille,France,,out,summer,Serie A,2000,False,
+FC Internazionale,Fabrizio Ferron,34,Italy,Goalkeeper,GK,,Hellas Verona,Italy,,out,summer,Serie A,2000,False,
+FC Internazionale,Francesco Moriero,31,Italy,Right Winger,RW,,Napoli,Italy,,out,summer,Serie A,2000,False,
+FC Internazionale,Giuseppe Ticli,21,Italy,Left Midfield,LM,,Arezzo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Salvatore Fresi,27,Italy,Centre-Back,CB,,Napoli,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Giorgio Frezzolini,24,Italy,Goalkeeper,GK,,Chievo Verona,Italy,,out,summer,Serie A,2000,False,
+FC Internazionale,Luca Mezzano,23,Italy,Centre-Back,CB,,Chievo Verona,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Cyril Domoraud,29,Cote d'Ivoire,Centre-Back,CB,,SC Bastia,France,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Luca Mezzano,23,Italy,Centre-Back,CB,,Reggina,Italy,0.0,out,summer,Serie A,2000,True,free loan
+FC Internazionale,Vratislav Gresko,23,Slovakia,Left-Back,LB,,Bay. Leverkusen,Germany,5000000.0,in,winter,Serie A,2000,False,
+FC Internazionale,Antonio Pacheco,24,Uruguay,Second Striker,SS,,Peñarol,Uruguay,3000000.0,in,winter,Serie A,2000,False,
+FC Internazionale,Marco Ferrante,29,Italy,Centre-Forward,CF,,Torino,Italy,500000.0,in,winter,Serie A,2000,True,loan with fee
+FC Internazionale,Stéphane Dalmat,21,France,Central Midfield,CM,,Paris SG,France,,in,winter,Serie A,2000,False,
+FC Internazionale,Christian Panucci,27,Italy,Right-Back,RB,,Monaco,France,3000000.0,out,winter,Serie A,2000,True,loan with fee
+FC Internazionale,Stefano Lombardi,24,Italy,Centre-Back,CB,,Perugia,Italy,1000000.0,out,winter,Serie A,2000,False,
+FC Internazionale,Sixto Peralta,21,Argentina,Central Midfield,CM,,Torino,Italy,300000.0,out,winter,Serie A,2000,True,loan with fee
+FC Internazionale,Corrado Colombo,21,Italy,Centre-Forward,CF,,Torino,Italy,0.0,out,winter,Serie A,2000,False,
+FC Internazionale,Iván Zamorano,33,Chile,Centre-Forward,CF,,América,Mexico,0.0,out,winter,Serie A,2000,False,
+FC Internazionale,Paulo Costa,21,Portugal,Attacking Midfield,AM,,Reggina,Italy,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Riccardo Fissore,20,Italy,Centre-Back,CB,,Lecce,Italy,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Andrea Pirlo,21,Italy,Defensive Midfield,DM,,Brescia,Italy,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Robbie Keane,20,Ireland,Centre-Forward,CF,,Leeds,England,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Martín Rivas,23,Uruguay,Centre-Back,CB,,Málaga CF,Spain,,out,winter,Serie A,2000,False,
+FC Internazionale,Vampeta,26,Brazil,Central Midfield,CM,,Paris SG,France,,out,winter,Serie A,2000,False,
+FC Internazionale,Anselmo Robbiati,31,Italy,Left Winger,LW,,Perugia,Italy,0.0,out,winter,Serie A,2000,True,free loan
+FC Internazionale,Luca Mezzano,23,Italy,Centre-Back,CB,,Reggina,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Hellas Verona,Adrian Mutu,21,Romania,Centre-Forward,CF,,Inter,Italy,4000000.0,in,summer,Serie A,2000,False,
+Hellas Verona,Massimo Oddo,24,Italy,Right-Back,RB,,Milan,Italy,1000000.0,in,summer,Serie A,2000,False,
+Hellas Verona,Mario Cvitanovic,25,Croatia,Centre-Back,CB,,Dinamo Zagreb,Croatia,0.0,in,summer,Serie A,2000,False,
+Hellas Verona,Lampros Vangelis,18,Greece,Central Midfield,CM,,Siena,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Hellas Verona,Fabrizio Ferron,34,Italy,Goalkeeper,GK,,Inter,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Marco Cassetti,23,Italy,Right-Back,RB,,Lumezzane,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Marco Turati,18,Italy,Centre-Back,CB,,Lecco Giovanili,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Alessandro Mazzola,31,Italy,Defensive Midfield,DM,,Piacenza,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Giuseppe Colucci,19,Italy,Central Midfield,CM,,AS Roma,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Alessandro Sgrigna,20,Italy,Second Striker,SS,,Vicenza,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Claudio Ferrarese,21,Italy,Right Winger,RW,,Pistoiese,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Dario Biasi,20,Italy,Centre-Back,CB,,Siena,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Davide Zomer,22,Italy,Goalkeeper,GK,,Siena,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Domenico Doardo,25,Italy,Goalkeeper,GK,,Genoa,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Marco Piovanelli,26,Italy,midfield,midfield,,Cesena,Italy,,in,summer,Serie A,2000,False,
+Hellas Verona,Cristian Brocchi,24,Italy,Central Midfield,CM,,Inter,Italy,700000.0,out,summer,Serie A,2000,False,
+Hellas Verona,Gianluca Falsini,24,Italy,Left-Back,LB,,AC Parma,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Fabrizio Cammarata,24,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Graziano Battistini,29,Italy,Goalkeeper,GK,,Treviso,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Elvis Abbruscato,19,Italy,Centre-Forward,CF,,AS Livorno,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Marco Giandebiaggi,31,Italy,midfield,midfield,,Cosenza,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Giuseppe Anastasi,26,Italy,defence,defence,,Acireale,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Antonio Marasco,30,Italy,Defensive Midfield,DM,,AC Venezia 1907,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Alessandro Romano,30,Italy,Defensive Midfield,DM,,Dundee FC,Scotland,,out,summer,Serie A,2000,False,
+Hellas Verona,Giovanni Lo Russo,19,Italy,Left Midfield,LM,,Torres,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Hellas Verona,Alessandro Sgrigna,20,Italy,Second Striker,SS,,Pistoiese,Italy,,out,summer,Serie A,2000,False,
+Hellas Verona,Aimo Diana,22,Italy,Right Midfield,RM,,Brescia,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Hellas Verona,Sébastien Frey,20,France,Goalkeeper,GK,,Inter,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Hellas Verona,Domenico Morfeo,24,Italy,Attacking Midfield,AM,,Fiorentina,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Hellas Verona,Mauro Camoranesi,24,Italy,Right Midfield,RM,,CD Cruz Azul,Mexico,7000000.0,in,winter,Serie A,2000,False,
+Hellas Verona,Emiliano Bonazzoli,21,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Hellas Verona,Andrea Pisanu,19,Italy,Right Midfield,RM,,Cagliari Calcio,Italy,,in,winter,Serie A,2000,False,
+Hellas Verona,Carlo Teodorani,23,Italy,Left-Back,LB,,Ternana,Italy,,in,winter,Serie A,2000,False,
+Hellas Verona,Maurizio Lanzaro,18,Italy,Centre-Back,CB,,AS Roma,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Hellas Verona,Gianluca Pegolo,19,Italy,Goalkeeper,GK,,Fiorenzuola,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Hellas Verona,Claudio Ferrarese,22,Italy,Right Winger,RW,,Cittadella,Italy,,out,winter,Serie A,2000,False,
+Hellas Verona,Davide Zomer,23,Italy,Goalkeeper,GK,,Südtirol,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Hellas Verona,Giancarlo Filippini,32,Italy,Centre-Back,CB,,OGC Nice,France,0.0,out,winter,Serie A,2000,True,free loan
+Hellas Verona,Marco Piovanelli,26,Italy,midfield,midfield,,Cittadella,Italy,,out,winter,Serie A,2000,False,
+Hellas Verona,Alessandro Sgrigna,20,Italy,Second Striker,SS,,Pistoiese,Italy,,out,winter,Serie A,2000,False,
+Juventus FC,David Trézéguet,22,France,Centre-Forward,CF,,Monaco,France,23240000.0,in,summer,Serie A,2000,False,
+Juventus FC,Fabián Carini,20,Uruguay,Goalkeeper,GK,,Danubio FC,Uruguay,8300000.000000001,in,summer,Serie A,2000,False,
+Juventus FC,Ivan Ergic,19,Serbia,Central Midfield,CM,,Perth Glory,Australia,240000.0,in,summer,Serie A,2000,False,
+Juventus FC,Vincent Péricard,17,France,Centre-Forward,CF,,Saint-Étienne,France,200000.0,in,summer,Serie A,2000,False,
+Juventus FC,Marco Zanchi,23,Italy,Centre-Back,CB,,Udinese,Italy,,in,summer,Serie A,2000,False,
+Juventus FC,Matteo Brighi,19,Italy,Central Midfield,CM,,Rimini,Italy,,in,summer,Serie A,2000,False,
+Juventus FC,Fabián O'Neill,26,Uruguay,Attacking Midfield,AM,,Cagliari Calcio,Italy,,in,summer,Serie A,2000,False,
+Juventus FC,Michele Paramatti,32,Italy,Left-Back,LB,,Bologna,Italy,,in,summer,Serie A,2000,False,
+Juventus FC,Patrick Müller,23,Switzerland,Centre-Back,CB,,Olympique Lyon,France,8000000.0,out,summer,Serie A,2000,False,
+Juventus FC,Sunday Oliseh,25,Nigeria,Defensive Midfield,DM,,Bor. Dortmund,Germany,7500000.0,out,summer,Serie A,2000,False,
+Juventus FC,Zoran Mirkovic,28,Serbia,Right-Back,RB,,Fenerbahce,Turkey,4000000.0,out,summer,Serie A,2000,False,
+Juventus FC,Giuseppe Sculli,19,Italy,Left Winger,LW,,FC Crotone,Italy,500000.0,out,summer,Serie A,2000,True,loan with fee
+Juventus FC,Enzo Maresca,20,Italy,Central Midfield,CM,,Bologna,Italy,140000.0,out,summer,Serie A,2000,True,loan with fee
+Juventus FC,Riccardo Bonetto,21,Italy,Left-Back,LB,,Arezzo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Juventus FC,Luigi Lavecchia,18,Italy,Right Midfield,RM,,Brescello,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Juventus FC,Simone Malatesta,18,Italy,Centre-Forward,CF,,Maceratese,Italy,,out,summer,Serie A,2000,False,
+Juventus FC,Raffaele Ametrano,27,Italy,Right-Back,RB,,FC Crotone,Italy,,out,summer,Serie A,2000,False,
+Juventus FC,Andrea Gentile,20,Italy,Central Midfield,CM,,Brescello,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Juventus FC,Athirson,23,Brazil,Left-Back,LB,,Flamengo,Brazil,,in,winter,Serie A,2000,False,
+Juventus FC,Juan Esnáider,27,Argentina,Centre-Forward,CF,,Real Zaragoza,Spain,1500000.0,out,winter,Serie A,2000,False,
+Juventus FC,Ivan Ergic,19,Serbia,Central Midfield,CM,,FC Basel,Switzerland,,out,winter,Serie A,2000,False,
+Juventus FC,Andreas Isaksson,19,Sweden,Goalkeeper,GK,,Djurgarden,Sweden,,out,winter,Serie A,2000,False,
+Juventus FC,Marco Zanchi,23,Italy,Centre-Back,CB,,Vicenza,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Juventus FC,Massimiliano Vieri,22,Australia,Centre-Forward,CF,,Ancona,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Juventus FC,Jonathan Bachini,25,Italy,Right Midfield,RM,,Brescia,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Milan AC,Fernando Redondo,31,Argentina,Defensive Midfield,DM,,Real Madrid,Spain,17500000.0,in,summer,Serie A,2000,False,
+Milan AC,Roque Júnior,23,Brazil,Centre-Back,CB,,Palmeiras,Brazil,8500000.0,in,summer,Serie A,2000,False,
+Milan AC,Luca Saudati,21,Italy,Centre-Forward,CF,,FC Empoli,Italy,500000.0,in,summer,Serie A,2000,False,
+Milan AC,Pablo García,23,Uruguay,Defensive Midfield,DM,,Atl. Madrid B,Spain,0.0,in,summer,Serie A,2000,False,
+Milan AC,Júlio César,21,Brazil,Centre-Back,CB,,Real Madrid,Spain,0.0,in,summer,Serie A,2000,True,free loan
+Milan AC,Gabriele Aldegani,24,Italy,Goalkeeper,GK,,Treviso,Italy,,in,summer,Serie A,2000,False,
+Milan AC,Drazen Brncic,28,Croatia,Attacking Midfield,AM,,Calcio Monza,Italy,,in,summer,Serie A,2000,False,
+Milan AC,Gianni Comandini,23,Italy,Centre-Forward,CF,,Vicenza,Italy,,in,summer,Serie A,2000,False,
+Milan AC,Stefano Scardala,18,Italy,Centre-Back,CB,,Ancona,Italy,,in,summer,Serie A,2000,False,
+Milan AC,Paolo Ginestra,21,Italy,Goalkeeper,GK,,Città di Lecco,Italy,,in,summer,Serie A,2000,False,
+Milan AC,Roberto Ayala,27,Argentina,Centre-Back,CB,,Valencia,Spain,5000000.0,out,summer,Serie A,2000,False,
+Milan AC,Luca Saudati,21,Italy,Centre-Forward,CF,,Perugia,Italy,1500000.0,out,summer,Serie A,2000,False,
+Milan AC,Massimo Oddo,24,Italy,Right-Back,RB,,Hellas Verona,Italy,1000000.0,out,summer,Serie A,2000,False,
+Milan AC,Alessandro Budel,19,Italy,Defensive Midfield,DM,,Spezia,Italy,200000.0,out,summer,Serie A,2000,False,
+Milan AC,Samir Beloufa,21,Algeria,Centre-Back,CB,,Germ. Beerschot,Belgium,0.0,out,summer,Serie A,2000,False,
+Milan AC,George Weah,33,Liberia,Centre-Forward,CF,,Man City,England,0.0,out,summer,Serie A,2000,False,
+Milan AC,Matteo Pelatti,22,Italy,Centre-Forward,CF,,Prato,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Stefano Scardala,19,Italy,Centre-Back,CB,,Stabia,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Gabriele Aldegani,24,Italy,Goalkeeper,GK,,Calcio Monza,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Aliyu Datti,18,Nigeria,Centre-Forward,CF,,Calcio Monza,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Andrea Rabito,20,Italy,Right Winger,RW,,Reggiana,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Max Tonetto,25,Italy,Left-Back,LB,,Lecce,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Pierluigi Orlandini,27,Italy,Right Midfield,RM,,Brescia,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Roberto Colombo,24,Italy,Goalkeeper,GK,,Padova,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Paolo Ginestra,21,Italy,Goalkeeper,GK,,Castel di Sangro,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Matteo Contini,20,Italy,Centre-Back,CB,,SPAL,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Diego De Ascentis,23,Italy,Defensive Midfield,DM,,Torino,Italy,,out,summer,Serie A,2000,False,
+Milan AC,Mattia Graffiedi,20,Italy,Centre-Forward,CF,,Ternana,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Milan AC,Kakhaber Kaladze,22,Georgia,Centre-Back,CB,,Dynamo Kyiv,Ukraine,16000000.0,in,winter,Serie A,2000,False,
+Milan AC,Júlio César,21,Brazil,Centre-Back,CB,,Real Madrid,Spain,0.0,in,winter,Serie A,2000,True,free loan
+Milan AC,Luca Saudati,21,Italy,Centre-Forward,CF,,Perugia,Italy,1500000.0,out,winter,Serie A,2000,False,
+Milan AC,Taribo West,26,Nigeria,Left-Back,LB,,Derby,England,750000.0,out,winter,Serie A,2000,True,loan with fee
+Milan AC,Fabricio Coloccini,19,Argentina,Centre-Back,CB,,San Lorenzo,Argentina,100000.0,out,winter,Serie A,2000,True,loan with fee
+Milan AC,Samir Beloufa,21,Algeria,Centre-Back,CB,,Germ. Beerschot,Belgium,0.0,out,winter,Serie A,2000,False,
+Milan AC,Drazen Brncic,29,Croatia,Attacking Midfield,AM,,Vicenza,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Milan AC,Mattia Graffiedi,20,Italy,Centre-Forward,CF,,Cesena,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Milan AC,Stefano Scardala,19,Italy,Centre-Back,CB,,Stabia,Italy,,out,winter,Serie A,2000,False,
+Reggina Calcio,Mozart,20,Brazil,Defensive Midfield,DM,,Flamengo,Brazil,1500000.0,in,summer,Serie A,2000,False,
+Reggina Calcio,Martin Jiranek,21,Czech Republic,Centre-Back,CB,,Slovan Liberec,Czech Republic,1250000.0,in,summer,Serie A,2000,False,
+Reggina Calcio,Mamede,26,Portugal,Central Midfield,CM,,Vitória Setúbal,Portugal,0.0,in,summer,Serie A,2000,False,
+Reggina Calcio,Marco Caneira,21,Portugal,Centre-Back,CB,,Sporting CP,Portugal,0.0,in,summer,Serie A,2000,False,
+Reggina Calcio,Julio de León,20,Honduras,Attacking Midfield,AM,,Maldonado,Uruguay,,in,summer,Serie A,2000,False,
+Reggina Calcio,Massimo Marazzina,25,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Reggina Calcio,Andrea Zanchetta,25,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Reggina Calcio,Alessandro Zoppetti,21,Italy,Centre-Back,CB,,Cremonese,Italy,,in,summer,Serie A,2000,False,
+Reggina Calcio,Ricardo Verón,19,Argentina,Central Midfield,CM,,San Lorenzo,Argentina,,in,summer,Serie A,2000,False,
+Reggina Calcio,Ivan Franceschini,23,Italy,Centre-Back,CB,,Genoa,Italy,,in,summer,Serie A,2000,False,
+Reggina Calcio,Luca Mezzano,23,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,summer,Serie A,2000,True,free loan
+Reggina Calcio,Bruno Cirillo,23,Italy,Centre-Back,CB,,Inter,Italy,7500000.0,out,summer,Serie A,2000,False,
+Reggina Calcio,Mohamed Kallon,20,Sierra Leone,Centre-Forward,CF,,Vicenza,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Simone Giacchetta,30,Italy,Centre-Back,CB,,Genoa,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Paolo Foglio,24,Italy,Right-Back,RB,,AC Venezia 1907,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Nicola Carlo Pagani,22,Italy,Centre-Back,CB,,Pistoiese,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Reggina Calcio,Giandomenico Mesto,18,Italy,Right-Back,RB,,Cremonese,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Reggina Calcio,Vladimiro Sbaglia,21,Italy,midfield,midfield,,Viterbese,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Francesco Cester,19,Italy,attack,attack,,Castel San P.,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Stefano Dall'Acqua,18,Italy,Centre-Forward,CF,,Arezzo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Reggina Calcio,Nenad Pralija,29,Croatia,Defensive Midfield,DM,,Maccabi Haifa,Israel,,out,summer,Serie A,2000,False,
+Reggina Calcio,Riccardo Marroccolo,21,Italy,attack,attack,,Foggia,Italy,,out,summer,Serie A,2000,False,
+Reggina Calcio,Paolo Orlandoni,28,Italy,Goalkeeper,GK,,Lazio,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Reggina Calcio,Stefano Dall'Acqua,19,Italy,Centre-Forward,CF,,Città di Lecco,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Reggina Calcio,Andrea Pirlo,21,Italy,Defensive Midfield,DM,,Inter,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Reggina Calcio,Roberto Baronio,22,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Reggina Calcio,Martin Jiranek,21,Czech Republic,Centre-Back,CB,,Slovan Liberec,Czech Republic,1250000.0,in,winter,Serie A,2000,False,
+Reggina Calcio,Massimo Taibi,30,Italy,Goalkeeper,GK,,Man Utd,England,0.0,in,winter,Serie A,2000,False,
+Reggina Calcio,Paulo Costa,21,Portugal,Attacking Midfield,AM,,Inter,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Reggina Calcio,Maurizio Nassi,23,Italy,Centre-Forward,CF,,Gela,Italy,,in,winter,Serie A,2000,False,
+Reggina Calcio,Davide Dionigi,26,Italy,Centre-Forward,CF,,Sampdoria,Italy,,in,winter,Serie A,2000,False,
+Reggina Calcio,Vladimiro Sbaglia,22,Italy,midfield,midfield,,Viterbese,Italy,,in,winter,Serie A,2000,False,
+Reggina Calcio,Luca Mezzano,23,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Reggina Calcio,Gustavo Reggi,27,Argentina,Centre-Forward,CF,,FC Crotone,Italy,0.0,out,winter,Serie A,2000,False,
+Reggina Calcio,Ivan Franceschini,24,Italy,Centre-Back,CB,,Chievo Verona,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Reggina Calcio,Davide Possanzini,24,Italy,Centre-Forward,CF,,Sampdoria,Italy,,out,winter,Serie A,2000,False,
+Reggina Calcio,Stefano Dall'Acqua,19,Italy,Centre-Forward,CF,,Gela,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Reggina Calcio,Stefano Dall'Acqua,19,Italy,Centre-Forward,CF,,Città di Lecco,Italy,0.0,out,winter,Serie A,2000,True,free loan
+SS Lazio,Hernán Crespo,25,Argentina,Centre-Forward,CF,,AC Parma,Italy,56810000.0,in,summer,Serie A,2000,False,
+SS Lazio,Claudio López,25,Argentina,Second Striker,SS,,Valencia,Spain,23000000.0,in,summer,Serie A,2000,False,
+SS Lazio,Angelo Peruzzi,30,Italy,Goalkeeper,GK,,Inter,Italy,17900000.0,in,summer,Serie A,2000,False,
+SS Lazio,Stefano Lombardi,23,Italy,Centre-Back,CB,,Napoli,Italy,1250000.0,in,summer,Serie A,2000,False,
+SS Lazio,Francesco Colonnese,28,Italy,Centre-Back,CB,,Inter,Italy,,in,summer,Serie A,2000,False,
+SS Lazio,Emanuele Pesaresi,23,Italy,Left-Back,LB,,Sampdoria,Italy,,in,summer,Serie A,2000,False,
+SS Lazio,Daniel Ola,17,Nigeria,Centre-Back,CB,,Etoile Carouge,Switzerland,,in,summer,Serie A,2000,False,
+SS Lazio,Paolo Orlandoni,28,Italy,Goalkeeper,GK,,Reggina,Italy,0.0,in,summer,Serie A,2000,True,free loan
+SS Lazio,Sérgio Conceição,25,Portugal,Right Winger,RW,,AC Parma,Italy,17000000.0,out,summer,Serie A,2000,False,
+SS Lazio,Alen Boksic,30,Croatia,Centre-Forward,CF,,Middlesbrough,England,3450000.0,out,summer,Serie A,2000,False,
+SS Lazio,Matías Almeyda,26,Argentina,Defensive Midfield,DM,,AC Parma,Italy,1400000.0,out,summer,Serie A,2000,False,
+SS Lazio,Stefano Lombardi,23,Italy,Centre-Back,CB,,Inter,Italy,750000.0,out,summer,Serie A,2000,False,
+SS Lazio,Marco Ballotta,36,Italy,Goalkeeper,GK,,Inter,Italy,0.0,out,summer,Serie A,2000,False,
+SS Lazio,Iván de la Peña,24,Spain,Attacking Midfield,AM,,FC Barcelona,Spain,0.0,out,summer,Serie A,2000,True,free loan
+SS Lazio,Giampiero Pinzi,19,Italy,Central Midfield,CM,,Udinese,Italy,,out,summer,Serie A,2000,False,
+SS Lazio,Emanuele Concetti,22,Italy,Goalkeeper,GK,,Arezzo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SS Lazio,Dario Marcolin,28,Italy,Defensive Midfield,DM,,Sampdoria,Italy,,out,summer,Serie A,2000,False,
+SS Lazio,Gasperino Cinelli,18,Italy,Centre-Forward,CF,,Arezzo,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SS Lazio,Francesco Carnevale,17,Italy,attack,attack,,Sora,Italy,,out,summer,Serie A,2000,False,
+SS Lazio,Alessandro Gazzi,17,Italy,Defensive Midfield,DM,,Treviso,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SS Lazio,Roberto Mancini,35,Italy,Second Striker,SS,,Career break,,,out,summer,Serie A,2000,False,
+SS Lazio,Marcello Fiorentini,19,Italy,Central Midfield,CM,,Pescara,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SS Lazio,Luca Mondini,30,Italy,Goalkeeper,GK,,Napoli,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+SS Lazio,Lucas Castromán,20,Argentina,Attacking Midfield,AM,,Vélez Sarsfield,Argentina,8610000.0,in,winter,Serie A,2000,False,
+SS Lazio,Dino Baggio,29,Italy,Defensive Midfield,DM,,AC Parma,Italy,7500000.0,in,winter,Serie A,2000,False,
+SS Lazio,Karel Poborsky,28,Czech Republic,Right Midfield,RM,,Benfica,Portugal,2250000.0,in,winter,Serie A,2000,False,
+SS Lazio,Néstor Sensini,34,Argentina,Centre-Back,CB,,AC Parma,Italy,0.0,out,winter,Serie A,2000,False,
+SS Lazio,Attilio Lombardo,34,Italy,Right Winger,RW,,Sampdoria,Italy,,out,winter,Serie A,2000,False,
+SSC Napoli,Claudio Husaín,25,Argentina,Defensive Midfield,DM,,River Plate,Argentina,9300000.0,in,summer,Serie A,2000,False,
+SSC Napoli,David Sesa,26,Switzerland,Second Striker,SS,,Lecce,Italy,7250000.0,in,summer,Serie A,2000,False,
+SSC Napoli,José Luís Vidigal,27,Portugal,Defensive Midfield,DM,,Sporting CP,Portugal,6500000.0,in,summer,Serie A,2000,False,
+SSC Napoli,Abdelilah Saber,26,Morocco,Right-Back,RB,,Sporting CP,Portugal,2500000.0,in,summer,Serie A,2000,False,
+SSC Napoli,Facundo Quiroga,22,Argentina,Centre-Back,CB,,Sporting CP,Portugal,0.0,in,summer,Serie A,2000,True,free loan
+SSC Napoli,Amauri,20,Italy,Centre-Forward,CF,,AC Parma,Italy,15000.0,in,summer,Serie A,2000,True,loan with fee
+SSC Napoli,Mauro Bonomi,27,Italy,Centre-Back,CB,,Torino,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Giacomo Tedesco,24,Italy,Central Midfield,CM,,Salernitana,Italy,0.0,in,summer,Serie A,2000,True,free loan
+SSC Napoli,Dario Baccin,24,Italy,Right-Back,RB,,Ternana,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Thomas Urso,18,Italy,defence,defence,,Nardò,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Salvatore Fresi,27,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,summer,Serie A,2000,True,free loan
+SSC Napoli,Ciro Caruso,26,Italy,Centre-Back,CB,,Pescara,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Francesco Mancini,31,Italy,Goalkeeper,GK,,Bari,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Francesco Moriero,31,Italy,Right Winger,RW,,Inter,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Mauricio Pineda,24,Argentina,Left-Back,LB,,Udinese,Italy,0.0,in,summer,Serie A,2000,True,free loan
+SSC Napoli,Nicola Amoruso,25,Italy,Centre-Forward,CF,,Perugia,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Fabio Pecchia,26,Italy,Right Midfield,RM,,Torino,Italy,,in,summer,Serie A,2000,False,
+SSC Napoli,Rabiu Afolabi,20,Nigeria,Centre-Back,CB,,Standard Liège,Belgium,0.0,in,summer,Serie A,2000,True,free loan
+SSC Napoli,Marek Jankulovski,23,Czech Republic,Left-Back,LB,,Banik Ostrava,Czech Republic,,in,summer,Serie A,2000,False,
+SSC Napoli,Stefano Lombardi,23,Italy,Centre-Back,CB,,Lazio,Italy,1250000.0,out,summer,Serie A,2000,False,
+SSC Napoli,Claudio Bellucci,25,Italy,Centre-Forward,CF,,Bologna,Italy,0.0,out,summer,Serie A,2000,False,
+SSC Napoli,Cristiano Scapolo,29,Italy,Attacking Midfield,AM,,Ravenna,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Ferdinando Coppola,22,Italy,Goalkeeper,GK,,Bologna,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SSC Napoli,Nicola Coletta,20,Italy,midfield,midfield,,Puteolana,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Mauro Scimia,18,Italy,Goalkeeper,GK,,Cremonese,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Gianfranco Annunziata,19,Italy,midfield,midfield,,Biellese,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Luigi Numerato,20,Italy,midfield,midfield,,Giugliano,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Francesco Turrini,34,Italy,Right Midfield,RM,,Ancona,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Luigi Malafronte,21,Italy,Centre-Back,CB,,Benevento,Italy,0.0,out,summer,Serie A,2000,True,free loan
+SSC Napoli,Alessio Bandieri,26,Italy,Goalkeeper,GK,,Savoia,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Salvatore Miceli,26,Italy,Defensive Midfield,DM,,AC Venezia 1907,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Anselmo Robbiati,30,Italy,Left Winger,LW,,Inter,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Giovanni Lopez,33,Italy,Centre-Back,CB,,Torino,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Giuseppe Alessi,23,Italy,Attacking Midfield,AM,,AS Livorno,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Aziz Ansah,19,Ghana,defence,defence,,KFC Strombeek,Belgium,,out,summer,Serie A,2000,False,
+SSC Napoli,Nicola Mora,20,Italy,Left-Back,LB,,Torino,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Alessandro Sbrizzo,25,Italy,Centre-Back,CB,,Pescara,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Stefan Schwoch,30,Italy,Centre-Forward,CF,,Torino,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Giorgio Lucenti,24,Italy,Right-Back,RB,,Cagliari Calcio,Italy,,out,summer,Serie A,2000,False,
+SSC Napoli,Massimo Oddo,24,Italy,Right-Back,RB,,Milan,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+SSC Napoli,Antonino Asta,29,Italy,Right Midfield,RM,,Torino,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+SSC Napoli,Edmundo,29,Brazil,Second Striker,SS,,Santos FC,Brazil,,in,winter,Serie A,2000,False,
+SSC Napoli,Fabio Visone,17,Italy,Central Midfield,CM,,Avellino,Italy,,in,winter,Serie A,2000,False,
+SSC Napoli,Emiliano Bigica,27,Italy,Defensive Midfield,DM,,Fiorentina,Italy,,in,winter,Serie A,2000,False,
+SSC Napoli,Alberto Fontana,34,Italy,Goalkeeper,GK,,Atalanta BC,Italy,,in,winter,Serie A,2000,False,
+SSC Napoli,Giorgio Di Vicino,20,Italy,Attacking Midfield,AM,,FC Crotone,Italy,0.0,out,winter,Serie A,2000,True,free loan
+SSC Napoli,Damir Stojak,25,Serbia,Centre-Forward,CF,,Eendracht Aalst,Belgium,,out,winter,Serie A,2000,False,
+SSC Napoli,Ciro Caruso,27,Italy,Centre-Back,CB,,Benevento,Italy,0.0,out,winter,Serie A,2000,True,free loan
+SSC Napoli,Paquito,19,Brazil,Central Midfield,CM,,Ravenna,Italy,0.0,out,winter,Serie A,2000,True,free loan
+SSC Napoli,Ferdinando Coppola,22,Italy,Goalkeeper,GK,,Bologna,Italy,0.0,out,winter,Serie A,2000,True,free loan
+US Lecce,Krasimir Chomakov,23,Bulgaria,Defensive Midfield,DM,,CSKA Sofia,Bulgaria,0.0,in,summer,Serie A,2000,False,
+US Lecce,Mirko Vucinic,16,Montenegro,Second Striker,SS,,Sutjeska Niksic,Montenegro,0.0,in,summer,Serie A,2000,False,
+US Lecce,Aldo Osorio,26,Argentina,Centre-Forward,CF,,Argentinos Jrs.,Argentina,0.0,in,summer,Serie A,2000,False,
+US Lecce,Stéphane Coqu,18,France,Goalkeeper,GK,,LOSC Lille,France,0.0,in,summer,Serie A,2000,False,
+US Lecce,Davide Olivares,28,Italy,midfield,midfield,,Bari,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Giampiero Cazzella,24,Italy,attack,attack,,Cavese,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Alessandro Pellicori,18,Italy,Centre-Forward,CF,,Cosenza,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Dario Dainelli,21,Italy,Centre-Back,CB,,Andria,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Diego Mateo,21,Argentina,Defensive Midfield,DM,,Newell's,Argentina,,in,summer,Serie A,2000,False,
+US Lecce,Emanuele Manitta,23,Italy,Goalkeeper,GK,,Messina Peloro,Italy,0.0,in,summer,Serie A,2000,True,free loan
+US Lecce,Alberto Malusci,28,Italy,Sweeper,SW,,Cosenza,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Max Tonetto,25,Italy,Left-Back,LB,,Milan,Italy,,in,summer,Serie A,2000,False,
+US Lecce,Davor Vugrinec,25,Croatia,Centre-Forward,CF,,Trabzonspor,Turkey,,in,summer,Serie A,2000,False,
+US Lecce,Maurizio Bedin,21,Italy,Central Midfield,CM,,Udinese,Italy,0.0,in,summer,Serie A,2000,True,free loan
+US Lecce,David Sesa,26,Switzerland,Second Striker,SS,,Napoli,Italy,7250000.0,out,summer,Serie A,2000,False,
+US Lecce,Francisco Lima,29,Brazil,Defensive Midfield,DM,,Bologna,Italy,0.0,out,summer,Serie A,2000,False,
+US Lecce,Emiliano Biliotti,25,Italy,Attacking Midfield,AM,,Ravenna,Italy,0.0,out,summer,Serie A,2000,True,free loan
+US Lecce,Domenico Di Carlo,36,Italy,midfield,midfield,,AS Livorno,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Mirco Sadotti,25,Italy,Centre-Back,CB,,Pescara,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Ivan Aiardi,29,Italy,Goalkeeper,GK,,Messina Peloro,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Pier Giovanni Rutzittu,24,Italy,midfield,midfield,,Calcio Monza,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Riccardo Maspero,29,Italy,Attacking Midfield,AM,,Torino,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Marco De Braco,21,Italy,defence,defence,,Unknown,,,out,summer,Serie A,2000,False,
+US Lecce,Krasimir Chomakov,23,Bulgaria,Defensive Midfield,DM,,Ravenna,Italy,0.0,out,summer,Serie A,2000,True,free loan
+US Lecce,Claudio Bonomi,27,Italy,Left Midfield,LM,,Sampdoria,Italy,,out,summer,Serie A,2000,False,
+US Lecce,Giacomo Cipriani,19,Italy,Centre-Forward,CF,,Bologna,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+US Lecce,Riccardo Fissore,20,Italy,Centre-Back,CB,,Inter,Italy,0.0,in,winter,Serie A,2000,True,free loan
+US Lecce,Klas Ingesson,32,Sweden,Defensive Midfield,DM,,Marseille,France,0.0,in,winter,Serie A,2000,True,free loan
+US Lecce,Pier Giovanni Rutzittu,24,Italy,midfield,midfield,,Calcio Monza,Italy,0.0,in,winter,Serie A,2000,True,free loan
+US Lecce,Gaetano Vasari,30,Italy,Right Winger,RW,,Sampdoria,Italy,0.0,in,winter,Serie A,2000,True,free loan
+US Lecce,Rodolfo Giorgetti,29,Italy,Right Midfield,RM,,Bari,Italy,,in,winter,Serie A,2000,False,
+US Lecce,Alessandro Doga,25,Italy,Left Midfield,LM,,AS Livorno,Italy,0.0,out,winter,Serie A,2000,False,
+US Lecce,Jorge Casanova,24,Uruguay,Central Midfield,CM,,Ravenna,Italy,,out,winter,Serie A,2000,False,
+US Lecce,Claudio Bonomi,27,Italy,Left Midfield,LM,,Sampdoria,Italy,,out,winter,Serie A,2000,False,
+US Lecce,Davide Olivares,29,Italy,midfield,midfield,,Como,Italy,,out,winter,Serie A,2000,False,
+US Lecce,Stefano Melissano,19,Italy,Centre-Back,CB,,Alzano Virescit,Italy,,out,winter,Serie A,2000,False,
+Udinese Calcio,Feliciano Magro,21,Switzerland,Attacking Midfield,AM,,Grasshoppers,Switzerland,2500000.0,in,summer,Serie A,2000,False,
+Udinese Calcio,Anthony Basso,20,France,Goalkeeper,GK,,AJ Auxerre,France,500000.0,in,summer,Serie A,2000,False,
+Udinese Calcio,Vincenzo Iaquinta,20,Italy,Centre-Forward,CF,,Castel di Sangro,Italy,,in,summer,Serie A,2000,False,
+Udinese Calcio,Adriano Bonaiuti,33,Italy,Goalkeeper,GK,,Pescara,Italy,,in,summer,Serie A,2000,False,
+Udinese Calcio,Giampiero Pinzi,19,Italy,Central Midfield,CM,,Lazio,Italy,,in,summer,Serie A,2000,False,
+Udinese Calcio,Julio Gutiérrez,20,Chile,Centre-Forward,CF,,Española,Chile,,in,summer,Serie A,2000,False,
+Udinese Calcio,Cristian Díaz,24,Argentina,Left-Back,LB,,Independiente,Argentina,,in,summer,Serie A,2000,False,
+Udinese Calcio,Luis Helguera,24,Spain,Defensive Midfield,DM,,Real Zaragoza,Spain,,in,summer,Serie A,2000,False,
+Udinese Calcio,Marijan Budimir,19,Croatia,Centre-Back,CB,,Hajduk Split,Croatia,,in,summer,Serie A,2000,False,
+Udinese Calcio,Renny Vega,20,Venezuela,Goalkeeper,GK,,Nacional,Venezuela,,in,summer,Serie A,2000,False,
+Udinese Calcio,Warley,22,Brazil,Centre-Forward,CF,,Grêmio,Brazil,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Édson Di,20,Brazil,attack,attack,,CA Juventus,Brazil,0.0,out,summer,Serie A,2000,False,
+Udinese Calcio,Antonio Orefice,21,Italy,Right-Back,RB,,Unknown,,0.0,out,summer,Serie A,2000,False,
+Udinese Calcio,Vito Lasalandra,25,Italy,Right Midfield,RM,,Como,Italy,0.0,out,summer,Serie A,2000,False,
+Udinese Calcio,Marco Zanchi,23,Italy,Centre-Back,CB,,Juventus,Italy,,out,summer,Serie A,2000,False,
+Udinese Calcio,Alessandro Noselli,19,Italy,Centre-Forward,CF,,Castel di Sangro,Italy,,out,summer,Serie A,2000,False,
+Udinese Calcio,Tomas Locatelli,24,Italy,Attacking Midfield,AM,,Bologna,Italy,,out,summer,Serie A,2000,False,
+Udinese Calcio,Mauricio Pineda,24,Argentina,Left-Back,LB,,Napoli,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Abdoulaye Camara,20,Mali,defence,defence,,Cercle Brugge,Belgium,,out,summer,Serie A,2000,False,
+Udinese Calcio,Ousmane Sanda Sanda,18,Cameroon,midfield,midfield,,Cercle Brugge,Belgium,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Fabio Pittilino,23,Switzerland,defence,defence,,Castel di Sangro,Italy,,out,summer,Serie A,2000,False,
+Udinese Calcio,Feliciano Magro,21,Switzerland,Attacking Midfield,AM,,FC Basel,Switzerland,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Maurizio Bedin,21,Italy,Central Midfield,CM,,Lecce,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Hazem Emam,25,Egypt,Attacking Midfield,AM,,Zamalek,Egypt,,out,summer,Serie A,2000,False,
+Udinese Calcio,Olivier Renard,21,Belgium,Goalkeeper,GK,,RSC Charleroi,Belgium,0.0,out,summer,Serie A,2000,True,free loan
+Udinese Calcio,Gilberto D'Ignazio Pulpito,31,Italy,defence,defence,,Ancona,Italy,,out,summer,Serie A,2000,False,
+Udinese Calcio,Armando Perna,19,Italy,Centre-Back,CB,,US Palermo,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Udinese Calcio,Francesco Pistolesi,19,Italy,Centre-Forward,CF,,Sora,Italy,0.0,out,summer,Serie A,2000,True,end of loan
+Udinese Calcio,Allan Gaarde,25,Denmark,Attacking Midfield,AM,,Aalborg BK,Denmark,,in,winter,Serie A,2000,False,
+Udinese Calcio,David Pizarro,21,Chile,Central Midfield,CM,,U. de Chile,Chile,0.0,out,winter,Serie A,2000,True,free loan
+Udinese Calcio,Maurizio Bedin,21,Italy,Central Midfield,CM,,Sampdoria,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Udinese Calcio,Elijah Louhenapessy,24,Netherlands,Defensive Midfield,DM,,Salernitana,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Udinese Calcio,Dario Antonini,19,Italy,midfield,midfield,,Sant'Anastasia,Italy,,out,winter,Serie A,2000,False,
+Udinese Calcio,Olivier Renard,21,Belgium,Goalkeeper,GK,,RSC Charleroi,Belgium,0.0,out,winter,Serie A,2000,True,free loan
+Vicenza Calcio,Stjepan Tomas,24,Croatia,Centre-Back,CB,,Dinamo Zagreb,Croatia,3000000.0,in,summer,Serie A,2000,False,
+Vicenza Calcio,Jeda,21,Brazil,Second Striker,SS,,União São João,Brazil,0.0,in,summer,Serie A,2000,False,
+Vicenza Calcio,André Leone,21,Brazil,Centre-Back,CB,,Campinas-SP,Brazil,0.0,in,summer,Serie A,2000,False,
+Vicenza Calcio,Mohamed Kallon,20,Sierra Leone,Centre-Forward,CF,,Reggina,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Luca Toni,23,Italy,Centre-Forward,CF,,Treviso,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Giorgio Sterchele,30,Italy,Goalkeeper,GK,,Perugia,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Davide Mezzanotti,29,Italy,Right-Back,RB,,Pescara,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Julio González,18,Paraguay,Centre-Forward,CF,,Guaraní,Paraguay,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Federico Crovari,25,Italy,Defensive Midfield,DM,,Treviso,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Wálter Zunino,18,Argentina,Left-Back,LB,,River Plate,Uruguay,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Raffaele Longo,22,Italy,Central Midfield,CM,,AC Parma,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Carmine Esposito,29,Italy,attack,attack,,Sampdoria,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Maurizio Rossi,30,Italy,midfield,midfield,,Pescara,Italy,,in,summer,Serie A,2000,False,
+Vicenza Calcio,Mirko Conte,25,Italy,Centre-Back,CB,,Sampdoria,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Pierluigi Brivio,31,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Alessandro Sgrigna,20,Italy,Second Striker,SS,,Hellas Verona,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Almir Gegic,20,Serbia,Centre-Forward,CF,,Antalyaspor,Turkey,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Cristian Bucchi,23,Italy,Centre-Forward,CF,,Perugia,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Gianni Comandini,23,Italy,Centre-Forward,CF,,Milan,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Davide Belotti,28,Italy,Centre-Back,CB,,Calcio Monza,Italy,0.0,out,summer,Serie A,2000,True,free loan
+Vicenza Calcio,Marco Schenardi,32,Italy,Right Midfield,RM,,Ternana,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Gianluca Cherubini,26,Italy,Right-Back,RB,,Reggiana,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Manuel Bragagnolo,20,Italy,Goalkeeper,GK,,Retired,,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Paolo Pasqualin,21,Italy,defence,defence,,Mestre,Italy,,out,summer,Serie A,2000,False,
+Vicenza Calcio,Ousmane Dabo,23,France,Defensive Midfield,DM,,AC Parma,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Vicenza Calcio,Marco Zanchi,23,Italy,Centre-Back,CB,,Juventus,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Vicenza Calcio,Alessandro Dal Canto,25,Italy,Left-Back,LB,,Bologna,Italy,,in,winter,Serie A,2000,False,
+Vicenza Calcio,Vincenzo Sommese,24,Italy,Right Winger,RW,,Torino,Italy,,in,winter,Serie A,2000,False,
+Vicenza Calcio,Drazen Brncic,29,Croatia,Attacking Midfield,AM,,Milan,Italy,0.0,in,winter,Serie A,2000,True,free loan
+Vicenza Calcio,Ottavio Palladini,29,Italy,Central Midfield,CM,,Pescara,Italy,,out,winter,Serie A,2000,False,
+Vicenza Calcio,Juri Tamburini,23,Italy,Left-Back,LB,,Salernitana,Italy,0.0,out,winter,Serie A,2000,True,free loan
+Vicenza Calcio,Fabio Viviani,34,Italy,Defensive Midfield,DM,,Treviso,Italy,,out,winter,Serie A,2000,False,
+Vicenza Calcio,Pasquale Luiso,31,Italy,Centre-Forward,CF,,Sampdoria,Italy,,out,winter,Serie A,2000,False,
+Vicenza Calcio,Carmine Esposito,30,Italy,attack,attack,,Sampdoria,Italy,,out,winter,Serie A,2000,False,

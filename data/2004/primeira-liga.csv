@@ -1,0 +1,598 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Académica Coimbra,Ricardo Fernandes,26,Portugal,Attacking Midfield,AM,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Rafael Ledesma,21,Brazil,Attacking Midfield,AM,,Flamengo,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Vasco Faísca,23,Portugal,Centre-Back,CB,,Vicenza,Italy,0.0,in,summer,Primeira Liga,2004,True,free loan
+Académica Coimbra,Clément Beaud,23,Cameroon,Central Midfield,CM,,Vetra Vilnius,Lithuania,0.0,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Luciano Fonseca,25,Brazil,Right Winger,RW,,Metropolitano,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Bruno Leite,22,Brazil,Right-Back,RB,,RCD Mallorca B,Spain,0.0,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Fabien Valeri,29,France,Left Midfield,LM,,Cannes,France,,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Danilo Moreira,23,Brazil,Centre-Back,CB,,Coritiba FC,Brazil,,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,Dário,27,Mozambique,Centre-Forward,CF,,Al-Jazira,United Arab Emirates,0.0,in,summer,Primeira Liga,2004,True,free loan
+Académica Coimbra,Dani,30,Spain,Goalkeeper,GK,,Naval,Portugal,,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,William,19,Brazil,Centre-Back,CB,,EC São José,Brazil,,in,summer,Primeira Liga,2004,False,
+Académica Coimbra,João Lucas,24,Portugal,Attacking Midfield,AM,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Vincent Dyduch,30,France,Centre-Back,CB,,Dragões,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Cédrick Fiston,23,Guadeloupe,Centre-Forward,CF,,Juventus SA,Guadeloupe,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Lucian Marinescu,32,Romania,Attacking Midfield,AM,,Chaves,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Jorginho,28,Portugal,Left Winger,LW,,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Zuela,20,Angola,Centre-Back,CB,,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Miguel Marques,21,Portugal,Defensive Midfield,DM,,Sporting Pombal,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Eduardo,25,Portugal,Goalkeeper,GK,,Sporting Pombal,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Académica Coimbra,Filipe Alvim,25,Brazil,Right-Back,RB,,Corinthians,Brazil,0.0,out,summer,Primeira Liga,2004,True,free loan
+Académica Coimbra,Fábio Felicio,22,Portugal,Central Midfield,CM,,Leiria,Portugal,,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Fabien Valeri,30,France,Left Midfield,LM,,AS Choisy-le-Roi,France,,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Rocha,36,Portugal,Defensive Midfield,DM,,Retired,,,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Marcelo,34,Brazil,Centre-Forward,CF,,Retired,,,out,summer,Primeira Liga,2004,False,
+Académica Coimbra,Paulo Sérgio,20,Portugal,Attacking Midfield,AM,,Sporting B,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Académica Coimbra,Ákos Buzsáky,22,Hungary,Central Midfield,CM,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Académica Coimbra,Cacá,25,Brazil,Centre-Forward,CF,,Albacete,Spain,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Académica Coimbra,Tonel,24,Portugal,Centre-Back,CB,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Académica Coimbra,Marcel,23,Brazil,Centre-Forward,CF,,Suwon Bluewings,"Korea, South",1800000.0,in,winter,Primeira Liga,2004,False,
+Académica Coimbra,Roberto Brum,26,Brazil,Defensive Midfield,DM,,Coritiba FC,Brazil,800000.0,in,winter,Primeira Liga,2004,False,
+Académica Coimbra,Kenny Cooper Jr.,20,United States,Centre-Forward,CF,75000.0,Man Utd U23,England,0.0,in,winter,Primeira Liga,2004,True,free loan
+Académica Coimbra,Kenedy,30,Portugal,Left-Back,LB,1500000.0,Braga,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+Académica Coimbra,Hugo Leal,24,Portugal,Central Midfield,CM,2000000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+Académica Coimbra,Lira,21,Brazil,Left-Back,LB,,Coritiba FC,Brazil,0.0,in,winter,Primeira Liga,2004,False,
+Académica Coimbra,Andrade,31,Portugal,Defensive Midfield,DM,,Without Club,,,in,winter,Primeira Liga,2004,False,
+Académica Coimbra,Raul Oliveira,32,Portugal,Centre-Back,CB,50000.0,Lusitânia,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+Académica Coimbra,William,19,Brazil,Centre-Back,CB,,CD Fátima,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+Académica Coimbra,Luciano Fonseca,25,Brazil,Right Winger,RW,,CS Sergipe-SE,Brazil,0.0,out,winter,Primeira Liga,2004,True,free loan
+Académica Coimbra,Clément Beaud,24,Cameroon,Central Midfield,CM,,Without Club,,,out,winter,Primeira Liga,2004,False,
+Belenenses SAD,Juninho Petrolina,29,Brazil,Attacking Midfield,AM,,Beira-Mar,Portugal,120000.0,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,José Pedro,25,Portugal,Central Midfield,CM,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Cristiano,27,Brazil,Left-Back,LB,,Benfica,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Belenenses SAD,Cabral,32,Portugal,Right-Back,RB,,Benfica,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Renato Silva,20,Brazil,Centre-Back,CB,,Goiás EC,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Lourenço,21,Angola,Centre-Forward,CF,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Belenenses SAD,Sandro,30,Brazil,Centre-Back,CB,,Botafogo,Brazil,,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Amaral,26,Brazil,Right-Back,RB,,Leixões,Portugal,,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Jorginho,29,Brazil,Defensive Midfield,DM,,Brasiliense-DF,Brazil,,in,summer,Primeira Liga,2004,False,
+Belenenses SAD,Rodolfo Lima,24,Cape Verde,Centre-Forward,CF,,Benfica,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Belenenses SAD,Hugo Henrique,29,Brazil,Centre-Forward,CF,,TJ Teda,China,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Rui Borges,30,Portugal,Attacking Midfield,AM,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Émerson,29,Brazil,Centre-Back,CB,,São Paulo,Brazil,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Hélder Rosário,24,Portugal,Centre-Back,CB,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Verona,30,Brazil,Attacking Midfield,AM,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Fábio Rosa,21,Brazil,Defensive Midfield,DM,,Hapoel Tel Aviv,Israel,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Paulo Sérgio,31,Brazil,Centre-Back,CB,,Olhanense,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Byung-min Jung,20,"Korea, South",attack,attack,,Ulsan Hyundai,"Korea, South",0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,André Xavier,22,Portugal,Centre-Back,CB,,Amora FC,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Carlos Fernandes,26,Portugal,Left-Back,LB,,Boavista,Portugal,,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Bruno Simão,19,Portugal,Left-Back,LB,,Benfica B,Portugal,,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Valdiram,21,Brazil,Centre-Forward,CF,,Unknown,,,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Mauro,30,Angola,Left Winger,LW,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Belenenses SAD,Filgueira,37,Brazil,Centre-Back,CB,,Retired,,,out,summer,Primeira Liga,2004,False,
+Belenenses SAD,Catanha,32,Brazil,Centre-Forward,CF,6000000.0,Celta de Vigo,Spain,0.0,in,winter,Primeira Liga,2004,False,
+Belenenses SAD,Rui Ferreira,31,Portugal,Defensive Midfield,DM,50000.0,Vit. Guimarães,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+Belenenses SAD,Paulo Sérgio,20,Portugal,Attacking Midfield,AM,500000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+Belenenses SAD,Alessandro Mangiarratti,26,Switzerland,Centre-Back,CB,250000.0,Atlas,Mexico,0.0,out,winter,Primeira Liga,2004,False,
+Belenenses SAD,Sandro,31,Brazil,Centre-Back,CB,,Sport Recife,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+Belenenses SAD,Cristiano Brasília,27,Brazil,Centre-Forward,CF,150000.0,Sport Recife,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+Belenenses SAD,Leandro,25,Brazil,Left Winger,LW,,Volta Redonda,Brazil,,out,winter,Primeira Liga,2004,False,
+Belenenses SAD,Jorginho,29,Brazil,Defensive Midfield,DM,,Brasiliense-DF,Brazil,,out,winter,Primeira Liga,2004,False,
+Boavista FC,Zé Manuel,29,Portugal,Right Winger,RW,,Paços Ferreira,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,João Lucas,24,Portugal,Attacking Midfield,AM,,Coimbra,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Nélson,21,Portugal,Right-Back,RB,,Salgueiros,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Toñito,27,Spain,Right Midfield,RM,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Guga,27,Brazil,Right Winger,RW,,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Milhazes,23,Portugal,Left-Back,LB,,Varzim,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Hélder Rosário,24,Portugal,Centre-Back,CB,,Belenenses SAD,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Tiago,28,Portugal,Defensive Midfield,DM,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,João Pinto,32,Portugal,Second Striker,SS,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Cadú,22,Portugal,defence,defence,,Paços Ferreira,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Carlos Fernandes,24,Angola,Goalkeeper,GK,,Felgueiras,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Boavista FC,Carlos Fernandes,26,Portugal,Left-Back,LB,,Belenenses SAD,Portugal,,in,summer,Primeira Liga,2004,False,
+Boavista FC,Felipe Flores,27,Chile,Centre-Forward,CF,,La Serena,Chile,,in,summer,Primeira Liga,2004,False,
+Boavista FC,André Barreto,24,Brazil,Central Midfield,CM,,Estoril Praia,Portugal,,in,summer,Primeira Liga,2004,False,
+Boavista FC,Douala,25,Cameroon,Left Winger,LW,,Sporting CP,Portugal,1000000.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Ricardo Sousa,25,Portugal,Attacking Midfield,AM,,Hannover 96,Germany,750000.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Mário Loja,26,Portugal,Left-Back,LB,,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,João Paulo,24,Portugal,Centre-Forward,CF,,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Daniel,20,Portugal,Defensive Midfield,DM,,FC Marco,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Ali El Omari,26,Morocco,Left Midfield,LM,,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Turra,30,Brazil,Centre-Back,CB,,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Rui Óscar,28,Portugal,Right-Back,RB,,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Sául,26,Portugal,Centre-Back,CB,,US Créteil-L,France,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Jocivalter,25,Brazil,Attacking Midfield,AM,,Varzim,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,André Macanga,26,Angola,Defensive Midfield,DM,,Gaziantepspor,Turkey,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Raúl Meireles,21,Portugal,Central Midfield,CM,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Hugo Ferreira,20,Portugal,Goalkeeper,GK,,Paredes,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,José Pedro,25,Portugal,Central Midfield,CM,,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Boavista FC,Hélder Calvino,20,Portugal,Attacking Midfield,AM,,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Paulo Rangel,19,Brazil,Centre-Forward,CF,,Varzim,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Pedro Santos,28,Portugal,Central Midfield,CM,,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Steven,19,Portugal,Right-Back,RB,,Paredes,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Luiz Cláudio,26,Brazil,Centre-Forward,CF,,Botafogo,Brazil,,out,summer,Primeira Liga,2004,False,
+Boavista FC,Igor Rocha,20,Portugal,Left-Back,LB,,União Lamas,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Saná Fadeira,22,Guinea-Bissau,Centre-Forward,CF,,Paredes,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Nelson Santos,19,Portugal,Defensive Midfield,DM,,Paredes,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Boavista FC,Ricardo Silva,28,Portugal,Centre-Back,CB,,Without Club,,,out,summer,Primeira Liga,2004,False,
+Boavista FC,Pedrosa,32,Portugal,Central Midfield,CM,,Retired,,,out,summer,Primeira Liga,2004,False,
+Boavista FC,Hugo Almeida,20,Portugal,Centre-Forward,CF,1500000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+Boavista FC,Ambassa,23,Cameroon,Centre-Back,CB,,Canon Yaoundé,Cameroon,0.0,in,winter,Primeira Liga,2004,False,
+Boavista FC,Frechaut,27,Portugal,Right-Back,RB,3500000.0,Dinamo Moscow,Russia,700000.0,out,winter,Primeira Liga,2004,False,
+Boavista FC,Duda,30,Brazil,Centre-Forward,CF,50000.0,Internacional,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+Boavista FC,Ali El Omari,26,Morocco,Left Midfield,LM,50000.0,Beira-Mar,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+Boavista FC,Jorge Silva,29,Portugal,Defensive Midfield,DM,,Beira-Mar,Portugal,,out,winter,Primeira Liga,2004,False,
+CD Nacional,Bruno,30,Portugal,Central Midfield,CM,,Marítimo,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+CD Nacional,Geufer,23,Brazil,Centre-Forward,CF,,Juventude,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+CD Nacional,Wendel,22,Brazil,Left Midfield,LM,,Cruzeiro,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+CD Nacional,Ferreira,25,Brazil,Centre-Forward,CF,,Gil Vicente,Portugal,,in,summer,Primeira Liga,2004,False,
+CD Nacional,Fábio Santos,23,Brazil,Defensive Midfield,DM,,São Caetano,Brazil,,in,summer,Primeira Liga,2004,False,
+CD Nacional,Julio Marchant,24,Argentina,Right Midfield,RM,,CA Unión,Argentina,,in,summer,Primeira Liga,2004,False,
+CD Nacional,Marcelo Costa,23,Brazil,Attacking Midfield,AM,,Juventude,Brazil,,in,summer,Primeira Liga,2004,False,
+CD Nacional,Paulo Assunção,24,Brazil,Defensive Midfield,DM,,FC Porto,Portugal,2000000.0,out,summer,Primeira Liga,2004,False,
+CD Nacional,Rossato,26,Brazil,Left-Back,LB,,FC Porto,Portugal,2000000.0,out,summer,Primeira Liga,2004,False,
+CD Nacional,Michel Neves,23,Brazil,Centre-Forward,CF,,Juventude,Brazil,0.0,out,summer,Primeira Liga,2004,False,
+CD Nacional,Adilson Soares Cassama,21,Guinea-Bissau,Defensive Midfield,DM,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+CD Nacional,Carlos Pérez,32,Spain,Attacking Midfield,AM,,CD Ourense,Spain,,out,summer,Primeira Liga,2004,False,
+CD Nacional,Mário Carlos,21,Portugal,Right Winger,RW,,Leiria,Portugal,,out,summer,Primeira Liga,2004,False,
+CD Nacional,Ivo Vieira,28,Portugal,Right-Back,RB,,Retired,,,out,summer,Primeira Liga,2004,False,
+CD Nacional,Diego Clementino,20,Brazil,Centre-Forward,CF,,Cruzeiro,Brazil,0.0,out,summer,Primeira Liga,2004,True,end of loan
+CD Nacional,Alonso,24,Brazil,Left-Back,LB,,Paysandu SC,Brazil,,in,winter,Primeira Liga,2004,False,
+CD Nacional,Rogerinho,24,Brazil,Attacking Midfield,AM,50000.0,Juventude,Brazil,0.0,out,winter,Primeira Liga,2004,True,free loan
+CD Nacional,Rondinelli,26,Brazil,Left-Back,LB,,Figueirense FC,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+CD Nacional,Serginho Baiano,26,Brazil,attack,attack,50000.0,Chunnam Dragons,"Korea, South",0.0,out,winter,Primeira Liga,2004,False,
+CD Nacional,Geufer,24,Brazil,Centre-Forward,CF,,Leiria,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+CD Nacional,Ferreira,25,Brazil,Centre-Forward,CF,50000.0,Leiria,Portugal,,out,winter,Primeira Liga,2004,False,
+CD Nacional,Fábio Santos,24,Brazil,Defensive Midfield,DM,,Cruzeiro,Brazil,,out,winter,Primeira Liga,2004,False,
+CD Nacional,Serginho Cunha,32,Brazil,Second Striker,SS,50000.0,União Madeira,Portugal,,out,winter,Primeira Liga,2004,False,
+CS Marítimo,Tonel,24,Portugal,Centre-Back,CB,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Rui Marques,26,Angola,Centre-Back,CB,,VfB Stuttgart,Germany,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Pena,30,Brazil,Centre-Forward,CF,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Gustavo Manduca,24,Brazil,Left Winger,LW,,Paços Ferreira,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Krum Bibishkov,21,Bulgaria,Centre-Forward,CF,,Marek Dupnitsa,Bulgaria,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Ferreira,20,Brazil,Right-Back,RB,,Gil Vicente,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Silas,27,Portugal,Attacking Midfield,AM,,Wolves,England,0.0,in,summer,Primeira Liga,2004,True,free loan
+CS Marítimo,Evaldo,22,Brazil,Left-Back,LB,,FC Porto,Portugal,,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Nélson Sousa,23,Portugal,Goalkeeper,GK,,Caniçal,Portugal,,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Luís Filipe,25,Portugal,Right-Back,RB,,Sporting CP,Portugal,,in,summer,Primeira Liga,2004,False,
+CS Marítimo,Pepe,21,Portugal,Centre-Back,CB,,FC Porto,Portugal,2000000.0,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Bruno,30,Portugal,Central Midfield,CM,,Nacional,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Albertino,32,Portugal,Right-Back,RB,,FC Marco,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Márcio Abreu,24,Portugal,Central Midfield,CM,,Camacha,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Pedro Moutinho,24,Portugal,Centre-Forward,CF,,Falkirk,Scotland,0.0,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Rincón,27,Brazil,Centre-Forward,CF,,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+CS Marítimo,Fábio Ramos,24,Paraguay,Attacking Midfield,AM,,Nacional,Paraguay,,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Júnior Bahia,27,Brazil,Centre-Forward,CF,,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+CS Marítimo,Dinda,31,Brazil,Attacking Midfield,AM,,Atlético-PR,Brazil,,out,summer,Primeira Liga,2004,False,
+CS Marítimo,Hugo Morais,26,Portugal,Central Midfield,CM,,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+CS Marítimo,Danny,20,Portugal,Attacking Midfield,AM,,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+CS Marítimo,Abel Lobatón,27,Peru,Centre-Forward,CF,,César Vallejo,Peru,0.0,in,winter,Primeira Liga,2004,False,
+CS Marítimo,Marcinho,23,Brazil,Attacking Midfield,AM,,Santos FC,Brazil,0.0,in,winter,Primeira Liga,2004,False,
+CS Marítimo,Damir Pekic,25,Slovenia,Centre-Forward,CF,250000.0,LR Ahlen,Germany,0.0,in,winter,Primeira Liga,2004,False,
+CS Marítimo,Léo Lima,22,Brazil,Attacking Midfield,AM,500000.0,FC Porto,Portugal,2000000.0,out,winter,Primeira Liga,2004,False,
+CS Marítimo,Ezequias,23,Brazil,Left-Back,LB,50000.0,Gil Vicente,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+CS Marítimo,Zumbi,24,Brazil,Centre-Forward,CF,,Marília,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+CS Marítimo,Souza,22,Brazil,Centre-Forward,CF,50000.0,Internacional,Brazil,0.0,out,winter,Primeira Liga,2004,True,free loan
+CS Marítimo,André Neles,26,Equatorial Guinea,Centre-Forward,CF,50000.0,Figueirense FC,Brazil,,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Artur Jorge,32,Portugal,Centre-Back,CB,,Braga,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Rolf Landerl,28,Austria,Attacking Midfield,AM,,FC Groningen,Netherlands,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Ljubinko Drulovic,35,Serbia,Left Winger,LW,,Partizan,Serbia,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Pascal,23,Nigeria,Centre-Forward,CF,,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Américo,23,Portugal,attack,attack,,Sanjoanense,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Sidney Moraes,27,Brazil,Defensive Midfield,DM,,Guarani,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Edgar Marcelino,19,Portugal,Right Winger,RW,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+FC Penafiel,Fernando Aguiar,32,Canada,Defensive Midfield,DM,,Landskrona,Sweden,0.0,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Nílton,25,Cape Verde,Central Midfield,CM,,Salgueiros,Portugal,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Clayton,28,Brazil,Left Winger,LW,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+FC Penafiel,Nuno Silva,28,Portugal,Centre-Back,CB,,Leixões,Portugal,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Nuno Diogo,23,Portugal,Centre-Back,CB,,Salgueiros,Portugal,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Carlos Oliveira,24,Portugal,Attacking Midfield,AM,,Leça,Portugal,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Marquinhos,29,Portugal,midfield,midfield,,FC Marco,Portugal,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Pedro Santos,28,Portugal,Central Midfield,CM,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+FC Penafiel,Jean Batista,22,Brazil,Left-Back,LB,,Uberaba,Brazil,,in,summer,Primeira Liga,2004,False,
+FC Penafiel,Nuno Morais,20,Portugal,Defensive Midfield,DM,,Chelsea,England,0.0,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Quim,30,Portugal,Centre-Forward,CF,,QD Jonoon,China,0.0,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Vítor Silva,20,Portugal,Attacking Midfield,AM,,AD Lousada,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Penafiel,Ginho,24,Portugal,Right Winger,RW,,Espinho,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Serginho,27,Portugal,attack,attack,,Chaves,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Mauro,20,Portugal,Centre-Back,CB,,Paredes,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Ferreira,24,Portugal,Central Midfield,CM,,FC Marco,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Evaldo,31,Guinea-Bissau,defence,defence,,Aliados Lordelo,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Vítor Vieira,31,Portugal,Right Winger,RW,,Without Club,,,out,summer,Primeira Liga,2004,False,
+FC Penafiel,Pedro Santos,28,Portugal,Central Midfield,CM,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+FC Penafiel,Júnior Bahia,27,Brazil,Centre-Forward,CF,,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+FC Penafiel,Adriano,22,Brazil,Centre-Back,CB,,Comercial-SP,Brazil,0.0,out,summer,Primeira Liga,2004,True,end of loan
+FC Penafiel,Ousmane N'Doye,26,Senegal,Defensive Midfield,DM,750000.0,Estoril Praia,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+FC Penafiel,Kelly Berville,26,France,Left-Back,LB,,FC Gueugnon,France,0.0,in,winter,Primeira Liga,2004,False,
+FC Penafiel,Cassiano,29,Brazil,Right Winger,RW,,Botafogo,Brazil,,in,winter,Primeira Liga,2004,False,
+FC Penafiel,Américo,24,Portugal,attack,attack,,Imortal,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Marquinhos,30,Portugal,midfield,midfield,,Ribeira Brava,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Carlos Oliveira,25,Portugal,Attacking Midfield,AM,,Ovarense,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Messias,20,Brazil,Defensive Midfield,DM,,Desportivo Aves,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+FC Penafiel,Jean Batista,23,Brazil,Left-Back,LB,,Vasco da Gama,Brazil,,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Artur Jorge,33,Portugal,Centre-Back,CB,50000.0,Retired,,,out,winter,Primeira Liga,2004,False,
+FC Penafiel,Ljubinko Drulovic,36,Serbia,Left Winger,LW,250000.0,Retired,,,out,winter,Primeira Liga,2004,False,
+FC Porto,Hélder Postiga,21,Portugal,Centre-Forward,CF,,Spurs,England,7500000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Diego,19,Brazil,Attacking Midfield,AM,,Santos FC,Brazil,7000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Ricardo Quaresma,20,Portugal,Right Winger,RW,,FC Barcelona,Spain,6000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Luís Fabiano,23,Brazil,Centre-Forward,CF,,São Paulo,Brazil,3500000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Georgios Seitaridis,23,Greece,Right-Back,RB,,Panathinaikos,Greece,3000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Paulo Assunção,24,Brazil,Defensive Midfield,DM,,Nacional,Portugal,2000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Pepe,21,Portugal,Centre-Back,CB,,Marítimo,Portugal,2000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Rossato,26,Brazil,Left-Back,LB,,Nacional,Portugal,2000000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Areias,27,Portugal,Left-Back,LB,,Beira-Mar,Portugal,500000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Cláudio Pitbull,22,Brazil,Centre-Forward,CF,,Grêmio,Brazil,300000.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Hugo Leal,24,Portugal,Central Midfield,CM,,Paris SG,France,0.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Raúl Meireles,21,Portugal,Central Midfield,CM,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+FC Porto,Ricardo Carvalho,26,Portugal,Centre-Back,CB,,Chelsea,England,30000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Deco,26,Portugal,Attacking Midfield,AM,,FC Barcelona,Spain,21000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Paulo Ferreira,25,Portugal,Right-Back,RB,,Chelsea,England,20000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Pedro Mendes,25,Portugal,Defensive Midfield,DM,,Spurs,England,3000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Rossato,26,Brazil,Left-Back,LB,,Real Sociedad,Spain,1000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Dmitri Alenichev,31,Russia,Central Midfield,CM,,Spartak Moscow,Russia,1000000.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Edgaras Jankauskas,29,Lithuania,Centre-Forward,CF,,OGC Nice,France,750000.0,out,summer,Primeira Liga,2004,True,loan with fee
+FC Porto,Paulo Costa,24,Portugal,Attacking Midfield,AM,,Gil Vicente,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Tiago,28,Portugal,Defensive Midfield,DM,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Sérgio Conceição,29,Portugal,Right Winger,RW,,Standard Liège,Belgium,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Pena,30,Brazil,Centre-Forward,CF,,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Marco Ferreira,26,Portugal,Right Winger,RW,,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Bruno Alves,22,Portugal,Centre-Back,CB,,AEK Athens,Greece,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Ricardo Fernandes,26,Portugal,Attacking Midfield,AM,,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Tonel,24,Portugal,Centre-Back,CB,,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Paulo Santos,31,Portugal,Goalkeeper,GK,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Secretário,34,Portugal,Right-Back,RB,,Maia,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+FC Porto,Mário Silva,27,Portugal,Left-Back,LB,,Recr. Huelva,Spain,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Hugo Ibarra,30,Argentina,Right-Back,RB,,Espanyol,Spain,,out,summer,Primeira Liga,2004,False,
+FC Porto,Bruno Moraes,19,Brazil,Centre-Forward,CF,,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Evaldo,22,Brazil,Left-Back,LB,,Marítimo,Portugal,,out,summer,Primeira Liga,2004,False,
+FC Porto,Sérgio Organista,19,Portugal,Defensive Midfield,DM,,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Paulo Assunção,24,Brazil,Defensive Midfield,DM,,AEK Athens,Greece,0.0,out,summer,Primeira Liga,2004,True,free loan
+FC Porto,Anderson,16,Brazil,Central Midfield,CM,,Grêmio,Brazil,8000000.0,in,winter,Primeira Liga,2004,False,
+FC Porto,Thiago Silva,20,Brazil,Centre-Back,CB,,Juventude,Brazil,2500000.0,in,winter,Primeira Liga,2004,False,
+FC Porto,Leandro,25,Brazil,Left-Back,LB,,Cruzeiro,Brazil,2000000.0,in,winter,Primeira Liga,2004,False,
+FC Porto,Léo Lima,22,Brazil,Attacking Midfield,AM,500000.0,Marítimo,Portugal,2000000.0,in,winter,Primeira Liga,2004,False,
+FC Porto,Ibson,21,Brazil,Central Midfield,CM,,Flamengo,Brazil,1800000.0,in,winter,Primeira Liga,2004,False,
+FC Porto,Leandro Bonfim,20,Brazil,Attacking Midfield,AM,2250000.0,PSV Eindhoven,Netherlands,,in,winter,Primeira Liga,2004,False,
+FC Porto,Carlos Alberto,20,Brazil,Attacking Midfield,AM,6000000.0,Corinthians,Brazil,10000000.0,out,winter,Primeira Liga,2004,False,
+FC Porto,Derlei,29,Brazil,Centre-Forward,CF,10000000.0,Dinamo Moscow,Russia,7500000.0,out,winter,Primeira Liga,2004,False,
+FC Porto,Maciel,26,Brazil,Right Winger,RW,1500000.0,Atlético-PR,Brazil,500000.0,out,winter,Primeira Liga,2004,True,loan with fee
+FC Porto,Ákos Buzsáky,22,Hungary,Central Midfield,CM,50000.0,Plymouth,England,400000.0,out,winter,Primeira Liga,2004,False,
+FC Porto,César Peixoto,24,Portugal,Left Midfield,LM,1200000.0,Vit. Guimarães,Portugal,100000.0,out,winter,Primeira Liga,2004,True,loan with fee
+FC Porto,Candido Costa,23,Portugal,Right Midfield,RM,5000000.0,Braga,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+FC Porto,Hugo Almeida,20,Portugal,Centre-Forward,CF,1500000.0,Boavista,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+FC Porto,Rubens Júnior,29,Brazil,Left-Back,LB,50000.0,Coritiba FC,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+FC Porto,Hugo Leal,24,Portugal,Central Midfield,CM,2000000.0,Coimbra,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Elias,22,Brazil,Defensive Midfield,DM,,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Kalifa Cissé,20,Mali,Centre-Back,CB,,Toulouse B,France,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Yuri,21,Brazil,Centre-Forward,CF,,Gil Vicente,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,João Paulo,24,Portugal,Centre-Forward,CF,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Jorge Baptista,27,Portugal,Goalkeeper,GK,,Dragões,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Ousmane N'Doye,26,Senegal,Defensive Midfield,DM,900000.0,Toulouse,France,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Ali El Omari,26,Morocco,Left Midfield,LM,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Dejan Ognjanovic,26,Montenegro,Right-Back,RB,,Partizan,Serbia,0.0,in,summer,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Luís Torres,24,Portugal,Right-Back,RB,,Barreirense,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Bruno Jorge,19,Portugal,Goalkeeper,GK,,Leiria,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Raphael Roncen,24,France,midfield,midfield,,RE Virton,Belgium,0.0,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Stéphane Maurel,23,France,Right-Back,RB,,AC Ajaccio,France,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Yannick Quesnel,30,France,Goalkeeper,GK,,Benfica,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Ibón Arrieta,27,Spain,Centre-Forward,CF,,Chaves,Portugal,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Milton,26,Portugal,Central Midfield,CM,,Lusitânia,Portugal,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Edmar,23,Brazil,Goalkeeper,GK,,Corinthians,Brazil,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Luciano Rosa,29,Brazil,attack,attack,,Corinthians,Brazil,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Filipe,18,Brazil,midfield,midfield,,Corinthians,Brazil,,in,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Carlitos,21,Portugal,Left Midfield,LM,,Benfica,Portugal,500000.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Luciano Rosa,29,Brazil,attack,attack,,Corinthians,Brazil,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Ivo Oliveira,23,Portugal,Goalkeeper,GK,,Pontassolense,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Marco Paulo,28,Angola,Centre-Forward,CF,,Stade Lavallois,France,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Fabrice Catherine,31,France,Goalkeeper,GK,,Stade Lavallois,France,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Marcos António,24,Brazil,Centre-Forward,CF,,Sanjoanense,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Dominique Aulanier,30,France,Attacking Midfield,AM,,FC Sion,Switzerland,0.0,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,André Barreto,24,Brazil,Central Midfield,CM,,Boavista,Portugal,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Tiago Gomes,18,Portugal,Central Midfield,CM,,Oriental,Portugal,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Luís Carlos,31,Portugal,Attacking Midfield,AM,,Monte Gordo,Portugal,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Ferenc Horváth,31,Hungary,Centre-Forward,CF,,Without Club,,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Nuno Sampaio,29,Portugal,Goalkeeper,GK,,Retired,,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Everaldo,30,Brazil,Left Winger,LW,,Without Club,,,out,summer,Primeira Liga,2004,False,
+GD Estoril Praia,Amoreirinha,20,Portugal,Centre-Back,CB,250000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Moses Sakyi,23,Ghana,Centre-Forward,CF,,Istanbulspor,Turkey,0.0,in,winter,Primeira Liga,2004,False,
+GD Estoril Praia,Vargas,26,Portugal,Right Winger,RW,50000.0,Leiria,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+GD Estoril Praia,Edmar,23,Brazil,Goalkeeper,GK,,Corinthians,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+GD Estoril Praia,Ousmane N'Doye,26,Senegal,Defensive Midfield,DM,750000.0,Penafiel,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+GD Estoril Praia,Milton,26,Portugal,Central Midfield,CM,,CD Fátima,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+GD Estoril Praia,Dominique Aulanier,30,France,Attacking Midfield,AM,,FC Sion,Switzerland,0.0,out,winter,Primeira Liga,2004,False,
+Gil Vicente FC,Ednilson,21,Guinea-Bissau,Defensive Midfield,DM,,Benfica,Portugal,100000.0,in,summer,Primeira Liga,2004,True,loan with fee
+Gil Vicente FC,Paulo Costa,24,Portugal,Attacking Midfield,AM,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Carlitos,27,Portugal,Right Winger,RW,,Poli Ejido,Spain,0.0,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Júlio César,24,Brazil,Centre-Forward,CF,,CF Estrela,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Jorge Ribeiro,22,Portugal,Left-Back,LB,,Varzim,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Fábio Hempel,23,Brazil,Centre-Forward,CF,,Salgueiros,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Rovérsio,20,Brazil,Centre-Back,CB,,Santa Cruz,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Grégory Arnolin,23,Martinique,Centre-Back,CB,,FC Pedras Rubras,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Bruno Tiago,23,Portugal,Central Midfield,CM,,Dragões,Portugal,,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Rui Baião,23,Portugal,Attacking Midfield,AM,,CF Estrela,Portugal,,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Edson Mendes,26,Brazil,Right-Back,RB,,Santa Cruz,Brazil,0.0,in,summer,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Sidraílson,22,Brazil,Centre-Back,CB,,Santa Cruz,Brazil,,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Tonanha,24,Portugal,Right Midfield,RM,,Leixões,Portugal,,in,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Gaspar,29,Portugal,Centre-Back,CB,,AC Ajaccio,France,195000.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,José Nunes,27,Portugal,Centre-Back,CB,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Ferreira,20,Brazil,Right-Back,RB,,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Larry,21,Gabon,attack,attack,,FC Marco,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Emmanuel Duah,27,Ghana,Left Winger,LW,,Al-Nejmeh,Lebanon,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Yuri,21,Brazil,Centre-Forward,CF,,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Joca,23,Portugal,Defensive Midfield,DM,,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Joca,24,Portugal,Defensive Midfield,DM,,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Ivo Afonso,28,Portugal,Centre-Back,CB,,Naval,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Luís Loureiro,27,Portugal,Defensive Midfield,DM,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Vítor Oliveira,22,Portugal,Goalkeeper,GK,,Santa Maria,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Ferreira,25,Brazil,Centre-Forward,CF,,Nacional,Portugal,,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Rui André,20,Portugal,Centre-Forward,CF,,Santa Maria da Feira,Portugal,,out,summer,Primeira Liga,2004,False,
+Gil Vicente FC,Hugo Luz,22,Portugal,Left-Back,LB,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Gil Vicente FC,Carlos Carneiro,30,Portugal,Centre-Forward,CF,50000.0,Vit. Guimarães,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+Gil Vicente FC,Ezequias,23,Brazil,Left-Back,LB,50000.0,Marítimo,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Júlio César,24,Brazil,Centre-Forward,CF,50000.0,AEK Athens,Greece,540000.0,out,winter,Primeira Liga,2004,False,
+Gil Vicente FC,Fábio Hempel,24,Brazil,Centre-Forward,CF,,CF Estrela,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Rui Baião,24,Portugal,Attacking Midfield,AM,50000.0,AO Kerkyra,Greece,0.0,out,winter,Primeira Liga,2004,True,free loan
+Gil Vicente FC,Edinho,22,Brazil,Centre-Forward,CF,,Jaguaré-ES,Brazil,,out,winter,Primeira Liga,2004,False,
+Moreirense FC,Afonso Martins,31,Portugal,Left Midfield,LM,,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Moreirense FC,Fernando,23,Brazil,Left Midfield,LM,,Varzim,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Moreirense FC,João Manuel,36,Portugal,Central Midfield,CM,,Leiria,Portugal,,in,summer,Primeira Liga,2004,False,
+Moreirense FC,Cristian Uribe,28,Chile,Central Midfield,CM,,La Serena,Chile,0.0,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Rêgo,25,Portugal,Attacking Midfield,AM,,Valenciano,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Carlos Lima,26,Portugal,Attacking Midfield,AM,,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Nuno Mendes,26,Portugal,Centre-Back,CB,,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Émerson,29,Brazil,Left Midfield,LM,,Felgueiras,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Jorge Brítez,23,Paraguay,Defensive Midfield,DM,,Olimpia,Paraguay,,out,summer,Primeira Liga,2004,False,
+Moreirense FC,Bruno,30,Portugal,Central Midfield,CM,,Marítimo,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Moreirense FC,Nei,24,Brazil,Centre-Forward,CF,,Ovarense,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+Moreirense FC,Eriverton,26,Brazil,Central Midfield,CM,,Santa Cruz,Brazil,0.0,in,winter,Primeira Liga,2004,False,
+Moreirense FC,Maurice Mendy,22,Senegal,Centre-Back,CB,,Raith Rovers,Scotland,0.0,in,winter,Primeira Liga,2004,False,
+Moreirense FC,Delfim,27,Portugal,Defensive Midfield,DM,500000.0,Marseille,France,0.0,in,winter,Primeira Liga,2004,True,free loan
+Moreirense FC,Sena,27,Portugal,Right-Back,RB,50000.0,Falkirk,Scotland,0.0,out,winter,Primeira Liga,2004,False,
+Moreirense FC,Demétrios,33,Brazil,Centre-Forward,CF,50000.0,Comercial-SP,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+Rio Ave FC,Delson,23,Brazil,Defensive Midfield,DM,,Salgueiros,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Gaúcho,31,Brazil,Centre-Forward,CF,,Busan I'Park,"Korea, South",0.0,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Saulo,22,Brazil,Right Winger,RW,,Maia,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Marquinhos,21,Brazil,Central Midfield,CM,,Oliveira Bairro,Portugal,,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Ricardo Nascimento,30,Portugal,Attacking Midfield,AM,,Maia,Portugal,,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Adriano,21,Portugal,Goalkeeper,GK,,Valenciano,Portugal,,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Amaobi,22,Nigeria,attack,attack,,D.N.H. Nam Dinh,Vietnam,,in,summer,Primeira Liga,2004,False,
+Rio Ave FC,Vandinho,26,Brazil,Central Midfield,CM,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Ronny van Es,26,Netherlands,Centre-Forward,CF,,Stormv. Telstar,Netherlands,0.0,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Jaime Júnior,25,Brazil,Attacking Midfield,AM,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Cuco,22,Portugal,Central Midfield,CM,,Ovarense,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Rio Ave FC,Ruben,21,Portugal,Central Midfield,CM,,Unknown,,,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Toni,37,Cape Verde,Centre-Forward,CF,,Braga,Portugal,,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Mário Neves,31,Portugal,Goalkeeper,GK,,Retired,,,out,summer,Primeira Liga,2004,False,
+Rio Ave FC,Ricardo Nascimento,30,Portugal,Attacking Midfield,AM,,FC Seoul,"Korea, South",250000.0,out,winter,Primeira Liga,2004,False,
+Rio Ave FC,Nuno Sousa,30,Portugal,Centre-Forward,CF,,Paços Ferreira,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+Rio Ave FC,Pedro Franco,30,Portugal,Centre-Back,CB,50000.0,FC Seoul,"Korea, South",0.0,out,winter,Primeira Liga,2004,False,
+Rio Ave FC,Tiago Carneiro,21,Portugal,Left Winger,LW,50000.0,FC Marco,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+Rio Ave FC,Amaobi,23,Nigeria,attack,attack,,S.H.B. Da Nang,Vietnam,,out,winter,Primeira Liga,2004,False,
+Rio Ave FC,Cuco,22,Portugal,Central Midfield,CM,50000.0,Rio Tinto,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+SC Beira-Mar,Beto,27,Brazil,midfield,midfield,,Paços Ferreira,Portugal,55000.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Stephen McPhee,23,Scotland,attack,attack,,Port Vale,England,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Mário Loja,26,Portugal,Left-Back,LB,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Paul Murray,27,England,Central Midfield,CM,,Oldham Athletic,England,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Rui Óscar,28,Portugal,Right-Back,RB,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Santiago Silva,23,Uruguay,Centre-Forward,CF,,River Plate,Uruguay,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Pablo Rodríguez,27,Argentina,Attacking Midfield,AM,,OGC Nice,France,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Pavel Srnicek,36,Czech Republic,Goalkeeper,GK,,Portsmouth,England,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Tininho,23,Portugal,Left-Back,LB,,Micaelense,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Ricardo,23,Cape Verde,Centre-Back,CB,,Freamunde,Portugal,,in,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Areias,27,Portugal,Left-Back,LB,,FC Porto,Portugal,500000.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Juninho Petrolina,29,Brazil,Attacking Midfield,AM,,Belenenses SAD,Portugal,120000.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Kata,26,Portugal,Defensive Midfield,DM,,Servette FC,Switzerland,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Gamboa,31,Portugal,Right Winger,RW,,Maia,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Andy Marriott,33,Wales,Goalkeeper,GK,,Coventry,England,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Thomas Debenest,30,France,Goalkeeper,GK,,Red Star FC 93,France,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Clyde Wijnhard,30,Netherlands,Centre-Forward,CF,,Darlington,England,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Fusco,31,Portugal,Defensive Midfield,DM,,Pinhalnovense,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Alejandro Osorio,27,Chile,Central Midfield,CM,,CDUC,Chile,,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Whelliton,31,Brazil,attack,attack,,Flamengo,Brazil,,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Mário Artur,35,Mozambique,Right Midfield,RM,,Retired,,,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Diogo Luís,23,Portugal,Left-Back,LB,,Without Club,,,out,summer,Primeira Liga,2004,False,
+SC Beira-Mar,Sául,26,Portugal,Centre-Back,CB,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Beira-Mar,Toni,24,Portugal,Right-Back,RB,,Benfica,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Beira-Mar,João Paulo,24,Portugal,Centre-Forward,CF,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Beira-Mar,Carlinhos Bala,24,Brazil,Centre-Forward,CF,,Santa Cruz,Brazil,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Beira-Mar,Ali El Omari,26,Morocco,Left Midfield,LM,50000.0,Boavista,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Hassan Ahamada,23,France,Attacking Midfield,AM,700000.0,FC Nantes,France,0.0,in,winter,Primeira Liga,2004,True,free loan
+SC Beira-Mar,Eugene Galekovic,23,Australia,Goalkeeper,GK,,South Melbourne,Australia,,in,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Jorge Silva,29,Portugal,Defensive Midfield,DM,,Boavista,Portugal,,in,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Heitor,26,Portugal,Centre-Forward,CF,,Salgueiros,Portugal,,in,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Ricardo Silva,29,Portugal,Centre-Back,CB,50000.0,Without Club,,,in,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Maurício Levato,28,Argentina,Central Midfield,CM,50000.0,FC Cartagena,Spain,0.0,out,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Pablo Rodríguez,27,Argentina,Attacking Midfield,AM,750000.0,Wanderers,Uruguay,0.0,out,winter,Primeira Liga,2004,False,
+SC Beira-Mar,Artur,20,Portugal,Attacking Midfield,AM,,Avanca,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+SC Beira-Mar,Marian Zeman,30,Slovakia,Centre-Back,CB,500000.0,Retired,,,out,winter,Primeira Liga,2004,False,
+SC Braga,Lima,22,Brazil,Centre-Forward,CF,,Cruzeiro,Brazil,1500000.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Nabil Baha,22,Morocco,Centre-Forward,CF,,Naval,Portugal,750000.0,in,summer,Primeira Liga,2004,False,
+SC Braga,José Nunes,27,Portugal,Centre-Back,CB,,Gil Vicente,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Vandinho,26,Brazil,Central Midfield,CM,,Rio Ave FC,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Luís Loureiro,27,Portugal,Defensive Midfield,DM,,Gil Vicente,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Abel Ferreira,25,Portugal,Right-Back,RB,,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,João Alves,23,Portugal,Central Midfield,CM,,Chaves,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Paulo Santos,31,Portugal,Goalkeeper,GK,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+SC Braga,Jaime Júnior,25,Brazil,Attacking Midfield,AM,,Rio Ave FC,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Césinha,24,Brazil,Second Striker,SS,,Santa Cruz,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,Nelsinho,24,Portugal,Attacking Midfield,AM,,Fafe,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SC Braga,João Tomás,29,Portugal,Centre-Forward,CF,,Real Betis,Spain,0.0,in,summer,Primeira Liga,2004,True,free loan
+SC Braga,Toni,37,Cape Verde,Centre-Forward,CF,,Rio Ave FC,Portugal,,in,summer,Primeira Liga,2004,False,
+SC Braga,Quim,28,Portugal,Goalkeeper,GK,,Benfica,Portugal,1400000.0,out,summer,Primeira Liga,2004,False,
+SC Braga,Éder Bonfim,23,Brazil,Right-Back,RB,,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SC Braga,Nordin Wooter,26,Netherlands,Right Winger,RW,,Anorthosis,Cyprus,0.0,out,summer,Primeira Liga,2004,False,
+SC Braga,Dominic Foley,27,Ireland,Centre-Forward,CF,,Bohemians,Ireland,0.0,out,summer,Primeira Liga,2004,False,
+SC Braga,Igor,24,Portugal,Centre-Forward,CF,,Vitória Setúbal,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SC Braga,Artur Jorge,32,Portugal,Centre-Back,CB,,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SC Braga,Marco Vanzini,28,Uruguay,Defensive Midfield,DM,,Terrassa FC,Spain,,out,summer,Primeira Liga,2004,False,
+SC Braga,Fredrik Söderström,31,Sweden,Central Midfield,CM,,CF Estrela,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Telmo,29,Brazil,Left-Back,LB,,Varzim,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Narcisse,23,Burkina Faso,Attacking Midfield,AM,,Portimonense,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Henrique,24,Portugal,Centre-Forward,CF,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SC Braga,Miguel Soares,22,Portugal,Central Midfield,CM,,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SC Braga,Toni,21,Portugal,Centre-Back,CB,,Santa Clara,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Paulo Fonseca,22,Portugal,Right-Back,RB,,Portimonense,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Zé Pedro,22,Portugal,Right-Back,RB,,Oliveirense,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Xano,23,Portugal,Left Midfield,LM,,Desportivo Aves,Portugal,,out,summer,Primeira Liga,2004,False,
+SC Braga,Nené,25,Cape Verde,Defensive Midfield,DM,,Desportivo Aves,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SC Braga,Kiril Nikolov,28,Bulgaria,Attacking Midfield,AM,,Litex Lovech,Bulgaria,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Braga,Pena,30,Brazil,Centre-Forward,CF,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+SC Braga,Candido Costa,23,Portugal,Right Midfield,RM,5000000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+SC Braga,Andrés Madrid,23,Argentina,Defensive Midfield,DM,,Gimnasia,Argentina,0.0,in,winter,Primeira Liga,2004,False,
+SC Braga,Léo Moura,26,Brazil,Right-Back,RB,,Fluminense,Brazil,0.0,in,winter,Primeira Liga,2004,False,
+SC Braga,Ilan Bakhar,29,Israel,Right-Back,RB,,FC Ashdod,Israel,0.0,in,winter,Primeira Liga,2004,False,
+SC Braga,Cícero,18,Guinea-Bissau,Centre-Forward,CF,,Dinamo Moscow,Russia,3500000.0,out,winter,Primeira Liga,2004,False,
+SC Braga,Lima,23,Brazil,Centre-Forward,CF,,Atlético-PR,Brazil,2500000.0,out,winter,Primeira Liga,2004,False,
+SC Braga,Luís Loureiro,28,Portugal,Defensive Midfield,DM,3500000.0,Dinamo Moscow,Russia,2000000.0,out,winter,Primeira Liga,2004,False,
+SC Braga,Kenedy,30,Portugal,Left-Back,LB,1500000.0,Coimbra,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+SC Braga,Nelsinho,25,Portugal,Attacking Midfield,AM,,CF Estrela,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+SL Benfica,Azar Karadas,22,Norway,Centre-Back,CB,,Rosenborg,Norway,1750000.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Quim,28,Portugal,Goalkeeper,GK,,Braga,Portugal,1400000.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Everson,28,Brazil,Defensive Midfield,DM,,OGC Nice,France,1200000.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Carlitos,21,Portugal,Left Midfield,LM,,Estoril Praia,Portugal,500000.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Yannick Quesnel,30,France,Goalkeeper,GK,,Alverca,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Amoreirinha,19,Portugal,Centre-Back,CB,,Alverca,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Paulo Almeida,23,Brazil,Defensive Midfield,DM,,Santos FC,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Manuel dos Santos,30,Cape Verde,Left-Back,LB,,Marseille,France,0.0,in,summer,Primeira Liga,2004,False,
+SL Benfica,Alcides,19,Brazil,Centre-Back,CB,,Chelsea,England,0.0,in,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Zé Rui,21,Cape Verde,Left Winger,LW,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+SL Benfica,Manú,21,Portugal,Right Winger,RW,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+SL Benfica,Rodolfo Lima,24,Cape Verde,Centre-Forward,CF,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+SL Benfica,Tiago Mendes,23,Portugal,Central Midfield,CM,,Chelsea,England,15000000.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Armando Sá,28,Mozambique,Right-Back,RB,,Villarreal,Spain,1000000.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Ednilson,21,Guinea-Bissau,Defensive Midfield,DM,,Gil Vicente,Portugal,100000.0,out,summer,Primeira Liga,2004,True,loan with fee
+SL Benfica,Carlos Bossio,30,Argentina,Goalkeeper,GK,,Lanús,Argentina,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Fernando Aguiar,32,Canada,Defensive Midfield,DM,,Landskrona,Sweden,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Zach Thornton,30,United States,Goalkeeper,GK,,Chicago Fire,United States,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Cristiano,27,Brazil,Left-Back,LB,,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Hélder Cristóvão,33,Portugal,Centre-Back,CB,,Paris SG,France,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Alex,24,Portugal,Right-Back,RB,,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Hélio Pinto,20,Portugal,Central Midfield,CM,,Sevilla B,Spain,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Cabral,32,Portugal,Right-Back,RB,,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Geraldo Alves,23,Portugal,Centre-Back,CB,,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Toni,25,Portugal,Right-Back,RB,,Servette FC,Switzerland,0.0,out,summer,Primeira Liga,2004,False,
+SL Benfica,Yannick Quesnel,30,France,Goalkeeper,GK,,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Rodolfo Lima,24,Cape Verde,Centre-Forward,CF,,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Manú,21,Portugal,Right Winger,RW,,Modena,Italy,0.0,out,summer,Primeira Liga,2004,True,free loan
+SL Benfica,Nuno Santos,31,Portugal,Goalkeeper,GK,,Santa Clara,Portugal,,out,summer,Primeira Liga,2004,False,
+SL Benfica,Emilio Peixe,31,Portugal,Defensive Midfield,DM,,Retired,,,out,summer,Primeira Liga,2004,False,
+SL Benfica,Andrade,30,Portugal,Defensive Midfield,DM,,Without Club,,,out,summer,Primeira Liga,2004,False,
+SL Benfica,Nuno Assis,27,Portugal,Attacking Midfield,AM,750000.0,Vit. Guimarães,Portugal,600000.0,in,winter,Primeira Liga,2004,False,
+SL Benfica,André Luis,25,Brazil,Centre-Back,CB,,Santos FC,Brazil,0.0,in,winter,Primeira Liga,2004,False,
+SL Benfica,Andrija Delibasic,23,Montenegro,Centre-Forward,CF,2200000.0,RCD Mallorca,Spain,0.0,in,winter,Primeira Liga,2004,True,free loan
+SL Benfica,Roger,26,Brazil,Attacking Midfield,AM,1500000.0,Corinthians,Brazil,2300000.0,out,winter,Primeira Liga,2004,False,
+SL Benfica,Argel Fucks,30,Brazil,Centre-Back,CB,5000000.0,Racing,Spain,0.0,out,winter,Primeira Liga,2004,False,
+SL Benfica,Amoreirinha,20,Portugal,Centre-Back,CB,250000.0,Estoril Praia,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+SL Benfica,Anderson,26,Brazil,Centre-Forward,CF,,Al-Shamal,Qatar,0.0,out,winter,Primeira Liga,2004,True,free loan
+SL Benfica,Ivan Dudic,27,Serbia,Right-Back,RB,,RAEC Mons,Belgium,,out,winter,Primeira Liga,2004,False,
+SL Benfica,Manú,22,Portugal,Right Winger,RW,50000.0,AC Carpenedolo,Italy,0.0,out,winter,Primeira Liga,2004,True,free loan
+SL Benfica,Zlatko Zahovic,33,Slovenia,Attacking Midfield,AM,3000000.0,Retired,,,out,winter,Primeira Liga,2004,False,
+Sporting CP,Mauricio Pinilla,20,Chile,Centre-Forward,CF,,Inter,Italy,1500000.0,in,summer,Primeira Liga,2004,False,
+Sporting CP,Douala,25,Cameroon,Left Winger,LW,,Boavista,Portugal,1000000.0,in,summer,Primeira Liga,2004,False,
+Sporting CP,Joseph Enakarhire,21,Nigeria,Centre-Back,CB,,Standard Liège,Belgium,750000.0,in,summer,Primeira Liga,2004,False,
+Sporting CP,Hugo Viana,21,Portugal,Central Midfield,CM,,Newcastle,England,0.0,in,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Rogério,28,Brazil,Right-Back,RB,,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Sporting CP,Facundo Quiroga,26,Argentina,Centre-Back,CB,,VfL Wolfsburg,Germany,1500000.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Toñito,27,Spain,Right Midfield,RM,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Santamaria,22,Portugal,Centre-Back,CB,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Elpídio Silva,28,Brazil,Centre-Forward,CF,,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,João Pinto,32,Portugal,Second Striker,SS,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Rui Bento,32,Portugal,Defensive Midfield,DM,,Académico Viseu,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Chiquinho Delgado,23,Portugal,Centre-Forward,CF,,Chaves,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Silvestre Varela,19,Portugal,Left Winger,LW,,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,José Semedo,19,Portugal,Defensive Midfield,DM,,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Beto,22,Portugal,Goalkeeper,GK,,Chaves,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Diogo,28,Portugal,Defensive Midfield,DM,,Alverca,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Sporting CP,Edgar Marcelino,19,Portugal,Right Winger,RW,,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Hugo Machado,22,Portugal,Attacking Midfield,AM,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Miguel Ângelo,19,Portugal,Centre-Back,CB,,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Pedro Araújo,19,Portugal,Left-Back,LB,,Olivais,Portugal,,out,summer,Primeira Liga,2004,False,
+Sporting CP,Gisvi,22,Portugal,Centre-Forward,CF,,CD Fátima,Portugal,,out,summer,Primeira Liga,2004,False,
+Sporting CP,Luís Filipe,25,Portugal,Right-Back,RB,,Marítimo,Portugal,,out,summer,Primeira Liga,2004,False,
+Sporting CP,Valdir,20,Portugal,Left-Back,LB,,Ovarense,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Lourenço,21,Angola,Centre-Forward,CF,,Belenenses SAD,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Clayton,28,Brazil,Left Winger,LW,,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+Sporting CP,Paulo Bento,35,Portugal,Defensive Midfield,DM,,Retired,,,out,summer,Primeira Liga,2004,False,
+Sporting CP,Mota,24,Brazil,Centre-Forward,CF,,Chunnam Dragons,"Korea, South",0.0,in,winter,Primeira Liga,2004,False,
+Sporting CP,Danny,21,Portugal,Attacking Midfield,AM,2250000.0,Dinamo Moscow,Russia,3000000.0,out,winter,Primeira Liga,2004,False,
+Sporting CP,Tinga,26,Brazil,Central Midfield,CM,2000000.0,Internacional,Brazil,300000.0,out,winter,Primeira Liga,2004,False,
+Sporting CP,Paulo Sérgio,20,Portugal,Attacking Midfield,AM,500000.0,Belenenses SAD,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+Sporting CP,Christopher,19,Portugal,Goalkeeper,GK,,Torreense,Portugal,,out,winter,Primeira Liga,2004,False,
+União de Leiria,Bernardo Vasconcelos,25,Portugal,Centre-Forward,CF,,RKC Waalwijk,Netherlands,0.0,in,summer,Primeira Liga,2004,True,free loan
+União de Leiria,Fangueiro,27,Portugal,Right Winger,RW,,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+União de Leiria,Hugo Faria,21,Portugal,Defensive Midfield,DM,,Louletano,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+União de Leiria,Modou Sougou,19,Senegal,Right Winger,RW,,AS Douanes,Senegal,0.0,in,summer,Primeira Liga,2004,False,
+União de Leiria,Torrão,27,Portugal,Defensive Midfield,DM,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Vargas,25,Portugal,Right Winger,RW,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Renato Queirós,26,Portugal,Right Winger,RW,,Paços Ferreira,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Hugo Cunha,27,Portugal,Attacking Midfield,AM,,Vit. Guimarães,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Fábio Felicio,22,Portugal,Central Midfield,CM,,Coimbra,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Petar Krpan,30,Croatia,Centre-Forward,CF,,Hajduk Split,Croatia,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Mário Carlos,21,Portugal,Right Winger,RW,,Nacional,Portugal,,in,summer,Primeira Liga,2004,False,
+União de Leiria,Eduardo Oliveira,31,France,Centre-Back,CB,,Stade Brest 29,France,0.0,out,summer,Primeira Liga,2004,False,
+União de Leiria,Bruno Jorge,19,Portugal,Goalkeeper,GK,,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+União de Leiria,Cédric De Cicco,25,France,Goalkeeper,GK,,Bourg-Péronnas,France,0.0,out,summer,Primeira Liga,2004,False,
+União de Leiria,Maurito,23,Angola,attack,attack,,Al-Jazira,United Arab Emirates,0.0,out,summer,Primeira Liga,2004,False,
+União de Leiria,Sérgio Gameiro,28,Portugal,Attacking Midfield,AM,,Maia,Portugal,,out,summer,Primeira Liga,2004,False,
+União de Leiria,Peter,21,Brazil,midfield,midfield,,Marília,Brazil,,out,summer,Primeira Liga,2004,False,
+União de Leiria,Cláudio,25,Brazil,Centre-Forward,CF,,Unknown,,,out,summer,Primeira Liga,2004,False,
+União de Leiria,João Manuel,36,Portugal,Central Midfield,CM,,Moreirense,Portugal,,out,summer,Primeira Liga,2004,False,
+União de Leiria,Mário Carlos,21,Portugal,Right Winger,RW,,Espinho,Portugal,0.0,out,summer,Primeira Liga,2004,True,free loan
+União de Leiria,Bilro,33,Portugal,Right-Back,RB,,Without Club,,,out,summer,Primeira Liga,2004,False,
+União de Leiria,Paulo Duarte,35,Portugal,Centre-Back,CB,,Retired,,,out,summer,Primeira Liga,2004,False,
+União de Leiria,Emilio Peixe,31,Portugal,Defensive Midfield,DM,,Benfica,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Luís Filipe,25,Portugal,Right-Back,RB,,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Hugo Almeida,20,Portugal,Centre-Forward,CF,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Tiago,28,Portugal,Defensive Midfield,DM,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Filipe Teixeira,23,Portugal,Right Winger,RW,,Paris SG,France,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Douala,25,Cameroon,Left Winger,LW,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+União de Leiria,Geufer,24,Brazil,Centre-Forward,CF,,Nacional,Portugal,0.0,in,winter,Primeira Liga,2004,True,free loan
+União de Leiria,Ferreira,25,Brazil,Centre-Forward,CF,50000.0,Nacional,Portugal,,in,winter,Primeira Liga,2004,False,
+União de Leiria,Caíco,30,Brazil,Attacking Midfield,AM,50000.0,Juventude,Brazil,0.0,out,winter,Primeira Liga,2004,False,
+União de Leiria,Vargas,26,Portugal,Right Winger,RW,50000.0,Estoril Praia,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan
+União de Leiria,Eddy Carazas,30,Peru,Right Midfield,RM,,Aviación,Peru,,out,winter,Primeira Liga,2004,False,
+Vitória Guimarães SC,Zé Nando,28,Portugal,Left-Back,LB,,Paços Ferreira,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Elpídio Silva,28,Brazil,Centre-Forward,CF,,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Guimarães SC,Alex,24,Portugal,Right-Back,RB,,Benfica,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Guimarães SC,Turra,30,Brazil,Centre-Back,CB,,Boavista,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Marco Ferreira,26,Portugal,Right Winger,RW,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Guimarães SC,Sanibal Orahovac,25,Montenegro,Centre-Forward,CF,,Red Star,Serbia,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,William Kwabena Tiero,23,Ghana,Attacking Midfield,AM,,Asante Kotoko,Ghana,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Braulio Leal,22,Chile,Defensive Midfield,DM,,Colo Colo,Chile,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Guimarães SC,Attila Dragóner,29,Hungary,Centre-Back,CB,,Ferencváros,Hungary,,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Jaílton,22,Brazil,Defensive Midfield,DM,,Ipatinga FC,Brazil,,in,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Abel Ferreira,25,Portugal,Right-Back,RB,,Braga,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Guga,27,Brazil,Right Winger,RW,,Boavista,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Afonso Martins,31,Portugal,Left Midfield,LM,,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Marco Couto,29,Portugal,Centre-Back,CB,,Al-Ahli SC,Qatar,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Fangueiro,27,Portugal,Right Winger,RW,,Leiria,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Evando,27,Brazil,Centre-Forward,CF,,Avaí FC,Brazil,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,Hugo Cunha,27,Portugal,Attacking Midfield,AM,,Leiria,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Guimarães SC,João Tomás,29,Portugal,Centre-Forward,CF,,Real Betis,Spain,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Guimarães SC,Bruno Alves,22,Portugal,Centre-Back,CB,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Guimarães SC,Ednilson,21,Guinea-Bissau,Defensive Midfield,DM,,Benfica,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Guimarães SC,Rubens Júnior,29,Brazil,Left-Back,LB,,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Guimarães SC,Jaílson,22,Brazil,Centre-Forward,CF,,Atlético-MG,Brazil,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Guimarães SC,César Peixoto,24,Portugal,Left Midfield,LM,1200000.0,FC Porto,Portugal,100000.0,in,winter,Primeira Liga,2004,True,loan with fee
+Vitória Guimarães SC,Nuno Assis,27,Portugal,Attacking Midfield,AM,750000.0,Benfica,Portugal,600000.0,out,winter,Primeira Liga,2004,False,
+Vitória Guimarães SC,Rui Ferreira,31,Portugal,Defensive Midfield,DM,50000.0,Belenenses SAD,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+Vitória Guimarães SC,Carlos Carneiro,30,Portugal,Centre-Forward,CF,50000.0,Gil Vicente,Portugal,0.0,out,winter,Primeira Liga,2004,False,
+Vitória Guimarães SC,Jaílton,22,Brazil,Defensive Midfield,DM,,CF Estrela,Portugal,,out,winter,Primeira Liga,2004,False,
+Vitória Setúbal FC,Pedro Oliveira,22,Portugal,Right Winger,RW,,Leixões,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Éder Bonfim,23,Brazil,Right-Back,RB,,Braga,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,João Paulo Brito,30,Portugal,Right Winger,RW,,CSKA Sofia,Bulgaria,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Dione,24,Brazil,defence,defence,,Anápolis-GO,Brazil,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Binho,27,Brazil,Defensive Midfield,DM,,Naval,Portugal,0.0,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Igor,24,Portugal,Centre-Forward,CF,,Braga,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Setúbal FC,Bruno Moraes,19,Brazil,Centre-Forward,CF,,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2004,True,free loan
+Vitória Setúbal FC,Ricardo Chaves,26,Portugal,Defensive Midfield,DM,,Chaves,Portugal,,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Nandinho,28,Portugal,Left-Back,LB,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Nélson Veríssimo,27,Portugal,Centre-Back,CB,,Alverca,Portugal,,in,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Pascal,23,Nigeria,Centre-Forward,CF,,Penafiel,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Orestes,23,Brazil,Centre-Back,CB,,Maia,Portugal,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Roberto Volpato,25,Brazil,Goalkeeper,GK,,Criciúma EC,Brazil,0.0,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,João Costa,30,Portugal,Defensive Midfield,DM,,Chaves,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Sérgio,19,Portugal,midfield,midfield,,Chaves,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Tiago Sousa,19,Portugal,Centre-Back,CB,,Chaves,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Rui André,29,Portugal,Left-Back,LB,,Maia,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Manuel do Carmo,29,Portugal,midfield,midfield,,Louletano,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Nélson,32,Portugal,Right-Back,RB,,Rio Tinto,Portugal,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,João de Deus,27,Portugal,Right-Back,RB,,Retired,,,out,summer,Primeira Liga,2004,False,
+Vitória Setúbal FC,Nuno Santos,31,Portugal,Goalkeeper,GK,,Benfica,Portugal,0.0,out,summer,Primeira Liga,2004,True,end of loan
+Vitória Setúbal FC,Moretto,26,Brazil,Goalkeeper,GK,,Felgueiras,Portugal,0.0,in,winter,Primeira Liga,2004,False,
+Vitória Setúbal FC,Fabien Farnolle,19,Benin,Goalkeeper,GK,,G. Bordeaux B,France,0.0,in,winter,Primeira Liga,2004,False,
+Vitória Setúbal FC,Diogo,21,Brazil,Centre-Forward,CF,,Kalmar FF,Sweden,0.0,in,winter,Primeira Liga,2004,False,
+Vitória Setúbal FC,João Paulo Brito,30,Portugal,Right Winger,RW,500000.0,AGS Kastoria,Greece,0.0,out,winter,Primeira Liga,2004,False,
+Vitória Setúbal FC,Mário Pessoa,20,Portugal,Central Midfield,CM,,Vendas Novas,Portugal,0.0,out,winter,Primeira Liga,2004,True,free loan

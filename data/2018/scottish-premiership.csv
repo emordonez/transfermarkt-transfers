@@ -1,0 +1,410 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aberdeen FC,Lewis Ferguson,18,Scotland,Central Midfield,CM,150000.0,Hamilton Acad.,Scotland,265000.0,in,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Stephen Gleeson,29,Ireland,Central Midfield,CM,500000.0,Ipswich,England,0.0,in,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Tomas Cerny,33,Czech Republic,Goalkeeper,GK,450000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Chris Forrester,25,Ireland,Left Midfield,LM,200000.0,Peterborough,England,,in,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Dominic Ball,22,England,Defensive Midfield,DM,200000.0,Rotherham,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Tommie Hoban,24,Ireland,Centre-Back,CB,750000.0,Watford,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Aberdeen FC,James Wilson,22,England,Centre-Forward,CF,2000000.0,Man Utd,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Max Lowe,21,England,Left-Back,LB,200000.0,Derby,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Anthony O'Connor,25,Ireland,Right-Back,RB,300000.0,Bradford,England,0.0,out,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Danny Rogers,24,Ireland,Goalkeeper,GK,250000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Adam Rooney,30,Ireland,Centre-Forward,CF,650000.0,Salford,England,,out,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Nicky Maynard,31,England,Centre-Forward,CF,350000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Aberdeen FC,Max Lowe,21,England,Left-Back,LB,350000.0,Derby,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Greg Stewart,28,Scotland,Centre-Forward,CF,600000.0,Birmingham,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Greg Halford,34,England,Centre-Back,CB,500000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Aberdeen FC,Greg Tansey,30,England,Central Midfield,CM,300000.0,St. Mirren,Scotland,0.0,out,winter,Scottish Premiership,2018,False,
+Aberdeen FC,Chris Forrester,26,Ireland,Left Midfield,LM,200000.0,St. Patricks,Ireland,0.0,out,winter,Scottish Premiership,2018,False,
+Aberdeen FC,Scott Wright,21,Scotland,Left Winger,LW,200000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Bruce Anderson,20,Scotland,Centre-Forward,CF,200000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Aberdeen FC,Mark Reynolds,31,Scotland,Centre-Back,CB,400000.0,Dundee United,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Odsonne Edouard,20,France,Centre-Forward,CF,1500000.0,Paris SG,France,10300000.0,in,summer,Scottish Premiership,2018,False,
+Celtic FC,Scott Bain,26,Scotland,Goalkeeper,GK,350000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Celtic FC,Emilio Izaguirre,32,Honduras,Left-Back,LB,2200000.0,Al-Fayha,Saudi Arabia,0.0,in,summer,Scottish Premiership,2018,False,
+Celtic FC,Youssouf Mulumbu,31,DR Congo,Defensive Midfield,DM,1000000.0,Kilmarnock FC,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Celtic FC,Daniel Arzani,19,Australia,Left Winger,LW,1500000.0,Man City,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Celtic FC,Filip Benkovic,21,Croatia,Centre-Back,CB,11000000.0,Leicester,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Celtic FC,Moussa Dembélé,22,France,Centre-Forward,CF,7000000.0,Olympique Lyon,France,22000000.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Stuart Armstrong,26,Scotland,Central Midfield,CM,2000000.0,Southampton,England,7950000.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Erik Sviatchenko,26,Denmark,Centre-Back,CB,2000000.0,FC Midtjylland,Denmark,1140000.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Sam Wardrop,20,Scotland,Right-Back,RB,150000.0,Dundee United,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Jamie Lindsay,22,Scotland,Central Midfield,CM,200000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Nadir Ciftci,26,Turkey,Centre-Forward,CF,400000.0,Genclerbirligi,Turkey,0.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Jamie McCart,21,Scotland,Centre-Back,CB,50000.0,Inverness CT,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Joe Thomson,21,Scotland,Central Midfield,CM,125000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Celtic FC,Calvin Miller,20,Scotland,Left-Back,LB,,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Celtic FC,Odsonne Edouard,20,France,Centre-Forward,CF,1500000.0,Paris SG,France,0.0,out,summer,Scottish Premiership,2018,True,end of loan
+Celtic FC,Vakoun Issouf Bayo,21,Cote d'Ivoire,Centre-Forward,CF,650000.0,Dunajska Streda,Slovakia,2230000.0,in,winter,Scottish Premiership,2018,False,
+Celtic FC,Maryan Shved,21,Ukraine,Right Winger,RW,2000000.0,Karpaty,Ukraine,2000000.0,in,winter,Scottish Premiership,2018,False,
+Celtic FC,Manny Perez,19,United States,Right Midfield,RM,,NC State,United States,0.0,in,winter,Scottish Premiership,2018,False,
+Celtic FC,Andrew Gutman,22,United States,Left-Back,LB,,Indiana Hoosier,United States,0.0,in,winter,Scottish Premiership,2018,False,
+Celtic FC,Oliver Burke,21,Scotland,Centre-Forward,CF,10000000.0,West Brom,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Timothy Weah,18,United States,Centre-Forward,CF,5000000.0,Paris SG,France,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Jeremy Toljan,24,Germany,Right-Back,RB,3000000.0,Bor. Dortmund,Germany,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Lewis Morgan,22,Scotland,Left Midfield,LM,750000.0,Sunderland,England,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Calvin Miller,21,Scotland,Left-Back,LB,150000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Youssouf Mulumbu,32,DR Congo,Defensive Midfield,DM,750000.0,Kilmarnock FC,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Maryan Shved,21,Ukraine,Right Winger,RW,2000000.0,Karpaty,Ukraine,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Manny Perez,19,United States,Right Midfield,RM,,North Carolina,United States,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Andrew Gutman,22,United States,Left-Back,LB,,Charlotte Ind.,United States,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Celtic FC,Kundai Benyu,21,Zimbabwe,Central Midfield,CM,200000.0,Helsingborg,Sweden,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Elton N'Gwatala,25,France,Attacking Midfield,AM,,Kidderminster,England,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Nathan Ralph,25,England,Left-Back,LB,100000.0,Woking FC,England,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Jean Alassane Mendy,28,Norway,Centre-Forward,CF,300000.0,KSC Lokeren,Belgium,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Tom Bradbury,20,England,Centre-Back,CB,,Banbury,England,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Adil Nabi,24,England,Attacking Midfield,AM,75000.0,Peterborough,England,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Kenny Miller,38,Scotland,Centre-Forward,CF,200000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Jack Hamilton,24,Scotland,Goalkeeper,GK,300000.0,Heart of Midl.,Scotland,,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Benjamin Källman,20,Finland,Centre-Forward,CF,150000.0,FC Inter,Finland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Calvin Miller,20,Scotland,Left-Back,LB,,Celtic,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Andy Boyle,27,Ireland,Centre-Back,CB,200000.0,Preston,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Ryan Inniss,23,England,Centre-Back,CB,75000.0,Crystal Palace,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Karl Madianga,24,France,Defensive Midfield,DM,,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Dundee FC,Scott Bain,26,Scotland,Goalkeeper,GK,350000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Jon Aurtenetxe,26,Spain,Centre-Back,CB,375000.0,SD Amorebieta,Spain,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Kostadin Gadzhalov,28,Bulgaria,Centre-Back,CB,350000.0,Botev Vratsa,Bulgaria,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Jérémy Malherbe,27,France,Goalkeeper,GK,150000.0,Panionios,Greece,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Kevin Holt,25,Scotland,Left-Back,LB,350000.0,Pafos FC,Cyprus,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Nicky Low,26,Scotland,Central Midfield,CM,175000.0,Derry City,Ireland,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Calum Ferrie,20,England,Goalkeeper,GK,,Stirling Albion,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Faissal El Bakhtaoui,25,France,Centre-Forward,CF,325000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Randy Wolters,28,Netherlands,Left Winger,LW,275000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Marcus Haber,29,Canada,Centre-Forward,CF,300000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Julen Etxabeguren,27,Spain,Centre-Back,CB,200000.0,Real Unión,Spain,0.0,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Mark O'Hara,22,Scotland,Defensive Midfield,DM,450000.0,Peterborough,England,,out,summer,Scottish Premiership,2018,False,
+Dundee FC,James Vincent,28,England,Central Midfield,CM,250000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Kerr Waddell,20,Scotland,Centre-Back,CB,200000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Dundee FC,Craig Wighton,21,Scotland,Centre-Forward,CF,250000.0,Heart of Midl.,Scotland,,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Steven Caulker,26,England,Centre-Back,CB,600000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Dundee FC,Craig Curran,29,England,Centre-Forward,CF,325000.0,Dundee United,Scotland,0.0,in,winter,Scottish Premiership,2018,False,
+Dundee FC,Andrew Davies,34,England,Centre-Back,CB,350000.0,Hartlepool Utd.,England,0.0,in,winter,Scottish Premiership,2018,False,
+Dundee FC,Andy Dales,24,England,Left Winger,LW,,Scunthorpe Utd.,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Ethan Robson,22,England,Central Midfield,CM,500000.0,Sunderland,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Seny Dieng,24,Senegal,Goalkeeper,GK,100000.0,QPR,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Andrew Nelson,21,England,Centre-Forward,CF,75000.0,Sunderland U23,England,,in,winter,Scottish Premiership,2018,False,
+Dundee FC,Andreas Hadenius,27,Sweden,Centre-Back,CB,75000.0,Halmstads BK,Sweden,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,James Horsfield,23,England,Defensive Midfield,DM,200000.0,Scunthorpe Utd.,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Ryan McGowan,29,Australia,Centre-Back,CB,400000.0,Bradford,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Scott Wright,21,Scotland,Left Winger,LW,200000.0,Aberdeen FC,Scotland,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,John O'Sullivan,25,Ireland,Right Winger,RW,75000.0,Blackpool,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Martin Woods,32,Scotland,Central Midfield,CM,275000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Dundee FC,Glen Kamara,23,Finland,Defensive Midfield,DM,450000.0,Rangers,Scotland,55000.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Adil Nabi,24,England,Attacking Midfield,AM,150000.0,OFI Crete,Greece,0.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Marcus Haber,29,Canada,Centre-Forward,CF,250000.0,Pacific FC,Canada,0.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Lewis Spence,22,Scotland,Central Midfield,CM,250000.0,Ross County,Scotland,0.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Sofiane Moussa,31,Tunisia,Centre-Forward,CF,325000.0,Concordia,Romania,0.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Jean Alassane Mendy,29,Norway,Centre-Forward,CF,250000.0,HamKam,Norway,0.0,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Tom Bradbury,20,England,Centre-Back,CB,,York City,England,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Dundee FC,Roarie Deacon,27,England,Left Midfield,LM,250000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Karl Madianga,25,France,Defensive Midfield,DM,150000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Dundee FC,Elton N'Gwatala,25,France,Attacking Midfield,AM,300000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Tom Taiwo,28,England,Defensive Midfield,DM,225000.0,Falkirk,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Ziggy Gordon,25,Scotland,Centre-Back,CB,250000.0,Pogon Siedlce,Poland,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Aaron Smith,20,England,Attacking Midfield,AM,,Nottingham U23,England,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Aaron McGowan,21,England,Right-Back,RB,100000.0,Morecambe FC,England,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Adam Phillips,20,England,Central Midfield,CM,,Norwich U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,Delphin Tshiembe,26,Denmark,Centre-Back,CB,400000.0,AC Horsens,Denmark,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Jacob Marsden,21,England,Goalkeeper,GK,,Mildenhall Town,England,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Kieran Monlouis,22,St. Lucia,Central Midfield,CM,,St. Albans City,England,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Matthew Kilgallon,34,England,Centre-Back,CB,350000.0,Bradford,England,0.0,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Alex Penny,21,England,Centre-Back,CB,,Peterborough,England,,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Mason Bloomfield,21,England,Centre-Forward,CF,,Norwich,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,Sam Kelly,24,England,Left Midfield,LM,100000.0,Grimsby Town,England,,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Scott Martin,21,Scotland,Central Midfield,CM,50000.0,Hibernian FC,Scotland,,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,James Keatings,26,Scotland,Centre-Forward,CF,225000.0,Dundee United,Scotland,,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Fredrik Brustad,29,Norway,Right Winger,RW,500000.0,Molde,Norway,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,Lennard Sowah,25,Germany,Left-Back,LB,200000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Lewis Ferguson,18,Scotland,Central Midfield,CM,150000.0,Aberdeen FC,Scotland,265000.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Ali Crawford,26,Scotland,Central Midfield,CM,700000.0,Doncaster,England,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Daniel Redmond,27,England,Central Midfield,CM,250000.0,The New Saints,Wales,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,David Templeton,29,Scotland,Left Winger,LW,275000.0,Burton Albion,England,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Darren Jamieson,27,Scotland,Goalkeeper,GK,150000.0,Arbroath,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Kenny van der Weg,27,Netherlands,Left-Back,LB,275000.0,KSV Roeselare,Belgium,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Darren Lyon,23,Scotland,Central Midfield,CM,400000.0,Peterborough,England,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Antonio Rojano,27,Argentina,Centre-Forward,CF,200000.0,Burgos CF,Spain,0.0,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Ross Cunningham,20,Scotland,Left Midfield,LM,50000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,Ronan Hughes,19,Scotland,Central Midfield,CM,50000.0,Stirling Albion,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,James Keatings,27,Scotland,Centre-Forward,CF,225000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Georgios Sarris,28,Greece,Centre-Back,CB,400000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Xavier Tomas,32,France,Centre-Back,CB,400000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Ross Jenkins,27,England,Defensive Midfield,DM,200000.0,Retired,,,out,summer,Scottish Premiership,2018,False,
+Hamilton Academical FC,Steve Davies,31,England,Centre-Forward,CF,350000.0,Blackpool,England,0.0,in,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Tony Andreu,30,France,Central Midfield,CM,500000.0,Coventry,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,David McMillan,30,Ireland,Centre-Forward,CF,300000.0,St. Johnstone,Scotland,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hamilton Academical FC,George Oakley,23,England,Centre-Forward,CF,250000.0,Inverness CT,Scotland,,in,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Jan Mucha,35,Slovakia,Goalkeeper,GK,150000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Aaron Smith,20,England,Attacking Midfield,AM,50000.0,Ashton United,England,0.0,out,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Rakish Bingham,25,England,Centre-Forward,CF,300000.0,Cheltenham,England,0.0,out,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Sam Kelly,25,England,Left Midfield,LM,100000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Kieran Monlouis,22,St. Lucia,Central Midfield,CM,50000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Hamilton Academical FC,Jan Mucha,36,Slovakia,Goalkeeper,GK,150000.0,Retired,,,out,winter,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Steven MacLean,35,Scotland,Centre-Forward,CF,350000.0,St. Johnstone,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Uche Ikpeazu,23,Uganda,Centre-Forward,CF,250000.0,Cambridge Utd.,England,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Jake Mulraney,22,Ireland,Left Midfield,LM,250000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Olly Lee,26,England,Central Midfield,CM,250000.0,Luton,England,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Benjamin Garuccio,23,Australia,Left-Back,LB,300000.0,Adelaide United,Australia,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Ryan Edwards,24,Australia,Central Midfield,CM,300000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Peter Haring,25,Austria,Defensive Midfield,DM,300000.0,SV Ried,Austria,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Oliver Bozanic,29,Australia,Central Midfield,CM,750000.0,Melbourne City,Australia,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Colin Doyle,33,Ireland,Goalkeeper,GK,250000.0,Bradford,England,0.0,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Bobby Burns,18,Northern Ireland,Left-Back,LB,,Glenavon,Northern Ireland,,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Zdenek Zlamal,32,Czech Republic,Goalkeeper,GK,350000.0,FC Zlin,Czech Republic,,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Jimmy Dunne,20,Ireland,Centre-Back,CB,,Burnley U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Demetri Mitchell,21,England,Left-Back,LB,100000.0,Man Utd U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Craig Wighton,21,Scotland,Centre-Forward,CF,250000.0,Dundee FC,Scotland,,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Clévid Dikamona,28,Congo,Centre-Back,CB,350000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Sean Clare,21,England,Central Midfield,CM,,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Kyle Lafferty,30,Northern Ireland,Centre-Forward,CF,1000000.0,Rangers,Scotland,502000.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Nikolay Todorov,21,Bulgaria,Centre-Forward,CF,100000.0,Rieti,Italy,0.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Angus Beith,22,Scotland,Central Midfield,CM,100000.0,Inverness CT,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Jon McLaughlin,30,Scotland,Goalkeeper,GK,400000.0,Sunderland,England,0.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Liam Smith,22,Scotland,Right-Back,RB,275000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Don Cowie,35,Scotland,Right Midfield,RM,350000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Malaury Martin,30,France,Defensive Midfield,DM,200000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Ryan Edwards,24,Australia,Central Midfield,CM,325000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Bobby Burns,18,Northern Ireland,Left-Back,LB,75000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Ross Callachan,24,Scotland,Central Midfield,CM,350000.0,St. Johnstone,Scotland,,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Lewis Moore,20,Scotland,Left Midfield,LM,100000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Conor Sammon,31,Ireland,Centre-Forward,CF,350000.0,Motherwell FC,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Ally Roy,20,Northern Ireland,Left Winger,LW,100000.0,Derry City,Ireland,,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Jack Hamilton,24,Scotland,Goalkeeper,GK,300000.0,Dundee FC,Scotland,,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Prince Buaben,30,Ghana,Central Midfield,CM,350000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Heart of Midlothian FC,David Vanecek,27,Czech Republic,Centre-Forward,CF,750000.0,FK Teplice,Czech Republic,0.0,in,winter,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Conor Shaughnessy,22,Ireland,Defensive Midfield,DM,250000.0,Leeds,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Heart of Midlothian FC,Danny Amankwaa,24,Denmark,Right Winger,RW,250000.0,SönderjyskE,Denmark,,out,winter,Scottish Premiership,2018,False,
+Heart of Midlothian FC,Anthony McDonald,17,Scotland,Right Winger,RW,250000.0,Inverness CT,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Hibernian FC,Stevie Mallan,22,Scotland,Central Midfield,CM,350000.0,Barnsley FC,England,200000.0,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,Florian Kamberi,23,Albania,Centre-Forward,CF,500000.0,Grasshoppers,Switzerland,130000.0,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,Mark Milligan,33,Australia,Centre-Back,CB,850000.0,Ahli,Saudi Arabia,0.0,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,Ádám Bogdán,30,Hungary,Goalkeeper,GK,1000000.0,Liverpool,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hibernian FC,Jamie Maclaren,25,Australia,Centre-Forward,CF,1000000.0,SV Darmstadt 98,Germany,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hibernian FC,Thomas Agyepong,21,Ghana,Left Winger,LW,250000.0,Man City U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hibernian FC,Emerson Hyndman,22,United States,Central Midfield,CM,1000000.0,Bournemouth,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Hibernian FC,Daryl Horgan,26,Ireland,Left Midfield,LM,250000.0,Preston,England,,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,Miquel Nelom,27,Suriname,Left-Back,LB,650000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,Charalampos Mavrias,24,Greece,Right-Back,RB,300000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Hibernian FC,John McGinn,23,Scotland,Central Midfield,CM,1250000.0,Aston Villa,England,3100000.0,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Simon Murray,26,Scotland,Centre-Forward,CF,450000.0,Bidvest Wits FC,South Africa,168000.0,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Callum Crane,22,Scotland,Left-Back,LB,,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Dylan McGeouch,25,Scotland,Central Midfield,CM,350000.0,Sunderland,England,0.0,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Cammy Bell,31,Scotland,Goalkeeper,GK,250000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Scott Martin,21,Scotland,Central Midfield,CM,50000.0,Hamilton Acad.,Scotland,,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Danny Swanson,31,Scotland,Right Midfield,RM,350000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Hibernian FC,Florian Kamberi,23,Albania,Centre-Forward,CF,500000.0,Grasshoppers,Switzerland,0.0,out,summer,Scottish Premiership,2018,True,end of loan
+Hibernian FC,Ryan Gauld,23,Scotland,Attacking Midfield,AM,600000.0,Sporting CP,Portugal,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hibernian FC,Stephane Omeonga,22,Belgium,Central Midfield,CM,1800000.0,Genoa,Italy,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hibernian FC,Darnell Johnson,20,England,Centre-Back,CB,,Leicester U23,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hibernian FC,Gaël Bigirimana,25,Burundi,Central Midfield,CM,350000.0,Motherwell FC,Scotland,,in,winter,Scottish Premiership,2018,False,
+Hibernian FC,Marc McNulty,26,Scotland,Centre-Forward,CF,1000000.0,Reading,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Hibernian FC,Jonathan Spector,33,United States,Centre-Back,CB,500000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Hibernian FC,Charalampos Mavrias,24,Greece,Right-Back,RB,300000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Hibernian FC,Charalampos Mavrias,24,Greece,Right-Back,RB,250000.0,Omonia Nikosia,Cyprus,0.0,out,winter,Scottish Premiership,2018,False,
+Hibernian FC,Efe Eric Ambrose,30,Nigeria,Centre-Back,CB,750000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+Hibernian FC,Ross Laidlaw,26,Scotland,Goalkeeper,GK,225000.0,Dundee United,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Stuart Findlay,22,Scotland,Centre-Back,CB,250000.0,Newcastle,England,0.0,in,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Ross Millen,23,Scotland,Right-Back,RB,,Queen's Park,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Jack Byrne,22,Ireland,Central Midfield,CM,1000000.0,Oldham Athletic,England,0.0,in,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Mikael Ndjoli,19,England,Centre-Forward,CF,,Bournemouth U21,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Daniel Bachmann,24,Austria,Goalkeeper,GK,250000.0,Watford,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Greg Stewart,28,Scotland,Centre-Forward,CF,550000.0,Birmingham,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Aaron Tshibola,23,DR Congo,Central Midfield,CM,1500000.0,Aston Villa,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Bright Enobakhare,20,Nigeria,Centre-Forward,CF,500000.0,Wolves,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Leonardo Fasan,24,Italy,Goalkeeper,GK,150000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Alexander Samizadeh,19,Iran,Left Winger,LW,50000.0,Curzon Ashton FC,England,0.0,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Brad Spencer,22,Scotland,Central Midfield,CM,50000.0,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Youssouf Mulumbu,31,DR Congo,Defensive Midfield,DM,1000000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Lee Erwin,24,Scotland,Centre-Forward,CF,300000.0,Tractor,Iran,,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Adam Frizzell,20,Scotland,Central Midfield,CM,200000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Daniel Higgins,20,Scotland,Centre-Back,CB,50000.0,Stranraer,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Dom Thomas,22,Scotland,Right Midfield,RM,150000.0,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Steven Smith,32,Scotland,Left-Back,LB,350000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Dean Hawkshaw,21,Scotland,Defensive Midfield,DM,75000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Gordon Greer,37,Scotland,Centre-Back,CB,200000.0,Retired,,,out,summer,Scottish Premiership,2018,False,
+Kilmarnock FC,Alex Bruce,34,Northern Ireland,Centre-Back,CB,350000.0,Wigan,England,0.0,in,winter,Scottish Premiership,2018,False,
+Kilmarnock FC,Conor McAleny,26,England,Centre-Forward,CF,500000.0,Fleetwood,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Liam Millar,19,Canada,Left Winger,LW,,Liverpool U23,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Youssouf Mulumbu,32,DR Congo,Defensive Midfield,DM,750000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Jack Byrne,22,Ireland,Central Midfield,CM,1000000.0,Shamrock Rovers,Ireland,0.0,out,winter,Scottish Premiership,2018,False,
+Kilmarnock FC,Iain Wilson,20,Scotland,Defensive Midfield,DM,200000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Greg Kiltie,22,Scotland,Left Winger,LW,300000.0,Morton,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Kilmarnock FC,Dom Thomas,22,Scotland,Right Midfield,RM,150000.0,Dumbarton,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Callum Crane,22,Scotland,Left-Back,LB,,Hibernian FC,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Steven Saunders,27,Scotland,Centre-Back,CB,200000.0,The New Saints,Wales,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Kenny Miller,38,Scotland,Centre-Forward,CF,350000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Ricki Lamie,25,Scotland,Centre-Back,CB,200000.0,Morton,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Steven Lawless,27,Scotland,Left Winger,LW,300000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Steve Lawson,24,Togo,Central Midfield,CM,225000.0,Neuchâtel Xamax,Switzerland,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Dolly Menga,25,Angola,Centre-Forward,CF,200000.0,Blackpool,England,0.0,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Craig Sibbald,23,Scotland,Left Winger,LW,325000.0,Falkirk,Scotland,,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Liam Kelly,22,Scotland,Goalkeeper,GK,100000.0,Rangers,Scotland,,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Ross Stewart,23,Scotland,Goalkeeper,GK,50000.0,St. Mirren,Scotland,,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Egli Kaja,20,Albania,Right Winger,RW,50000.0,AFC Wimbledon,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Scott Tiffoney,19,Scotland,Left Winger,LW,100000.0,Morton,Scotland,,in,summer,Scottish Premiership,2018,False,
+Livingston FC,James Brown,20,England,Right-Back,RB,,Millwall,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Bobby Burns,18,Northern Ireland,Left-Back,LB,75000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Henk van Schaik,20,Netherlands,Centre-Back,CB,,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Livingston FC,Josh Mullin,25,Scotland,Right Midfield,RM,250000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Jackson Longridge,23,Scotland,Left-Back,LB,225000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Gregor Buchanan,28,Scotland,Centre-Back,CB,175000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Kenny Miller,38,Scotland,Centre-Forward,CF,200000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Dylan Mackin,21,Scotland,Centre-Forward,CF,100000.0,Falkirk,Scotland,,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Scott Tiffoney,19,Scotland,Left Winger,LW,100000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Cameron Blues,20,Scotland,Central Midfield,CM,50000.0,Brechin City,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Gary Maley,36,Scotland,Goalkeeper,GK,50000.0,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Neil Alexander,40,Scotland,Goalkeeper,GK,150000.0,Retired,,,out,summer,Scottish Premiership,2018,False,
+Livingston FC,Callum Crane,22,Scotland,Left-Back,LB,100000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Livingston FC,Gregg Wylde,27,Scotland,Left Midfield,LM,250000.0,Plymouth,England,0.0,in,winter,Scottish Premiership,2018,False,
+Livingston FC,Hakeem Odoffin,20,England,Right-Back,RB,,Northampton,England,0.0,in,winter,Scottish Premiership,2018,False,
+Livingston FC,Chris Erskine,31,Scotland,Attacking Midfield,AM,350000.0,Partick Thistle,Scotland,,in,winter,Scottish Premiership,2018,False,
+Livingston FC,Ciaron Brown,21,Northern Ireland,Centre-Back,CB,,Cardiff,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Lyndon Dykes,23,Scotland,Centre-Forward,CF,250000.0,Queen o. t. S.,Scotland,,in,winter,Scottish Premiership,2018,False,
+Livingston FC,Henk van Schaik,20,Netherlands,Centre-Back,CB,,Without Club,,,in,winter,Scottish Premiership,2018,False,
+Livingston FC,Steven Saunders,27,Scotland,Centre-Back,CB,200000.0,Partick Thistle,Scotland,,out,winter,Scottish Premiership,2018,False,
+Livingston FC,Matthew Knox,19,Scotland,Left Winger,LW,75000.0,Berwick Rangers,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Jack McMillan,21,Scotland,Left-Back,LB,250000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Henk van Schaik,21,Netherlands,Centre-Back,CB,50000.0,Dumbarton,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Nicky Cadden,22,Scotland,Left Midfield,LM,175000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Lyndon Dykes,23,Scotland,Centre-Forward,CF,250000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Cameron Blues,20,Scotland,Central Midfield,CM,50000.0,Berwick Rangers,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Livingston FC,Gary Maley,36,Scotland,Goalkeeper,GK,50000.0,Cowdenbeath,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Motherwell FC,Aaron Taylor-Sinclair,27,Scotland,Left-Back,LB,250000.0,Plymouth,England,0.0,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Alex Gorrin,24,Spain,Central Midfield,CM,250000.0,Sepsi OSK,Romania,0.0,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Danny Johnson,25,England,Centre-Forward,CF,,Gateshead FC,England,0.0,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Christian Mbulu,22,England,Centre-Back,CB,,Millwall,England,0.0,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Mark Gillespie,26,England,Goalkeeper,GK,75000.0,Walsall,England,,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Liam Donnelly,22,Northern Ireland,Defensive Midfield,DM,,Hartlepool Utd.,England,,in,summer,Scottish Premiership,2018,False,
+Motherwell FC,Conor Sammon,31,Ireland,Centre-Forward,CF,350000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Motherwell FC,Tom Aldred,27,Scotland,Centre-Back,CB,225000.0,Bury,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Motherwell FC,Cédric Kipré,21,France,Centre-Back,CB,250000.0,Wigan,England,1100000.0,out,summer,Scottish Premiership,2018,False,
+Motherwell FC,Russell Griffiths,22,England,Goalkeeper,GK,100000.0,Fylde,England,0.0,out,summer,Scottish Premiership,2018,False,
+Motherwell FC,Deimantas Petravicius,22,Lithuania,Right Winger,RW,100000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Motherwell FC,Luke Watt,21,Scotland,Defensive Midfield,DM,,NK Novigrad,Croatia,0.0,out,summer,Scottish Premiership,2018,False,
+Motherwell FC,Ross MacLean,21,Scotland,Left Winger,LW,100000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Motherwell FC,Ellis Plummer,23,England,Centre-Back,CB,150000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+Motherwell FC,Ross McCormack,32,Scotland,Second Striker,SS,2500000.0,Aston Villa,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Motherwell FC,Gboly Ariyibi,23,United States,Right Winger,RW,500000.0,Nottm Forest,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Motherwell FC,Andy Rose,28,Australia,Central Midfield,CM,350000.0,Vancouver,United States,,out,winter,Scottish Premiership,2018,False,
+Motherwell FC,Ryan Bowman,27,England,Centre-Forward,CF,400000.0,Exeter City,England,,out,winter,Scottish Premiership,2018,False,
+Motherwell FC,Ross MacLean,21,Scotland,Left Winger,LW,100000.0,Falkirk,Scotland,,out,winter,Scottish Premiership,2018,False,
+Motherwell FC,Aaron Taylor-Sinclair,27,Scotland,Left-Back,LB,250000.0,Crewe Alexandra,England,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Motherwell FC,George Newell,22,England,Centre-Forward,CF,75000.0,Albion Rovers,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Motherwell FC,Gaël Bigirimana,25,Burundi,Central Midfield,CM,350000.0,Hibernian FC,Scotland,,out,winter,Scottish Premiership,2018,False,
+Rangers FC,Connor Goldson,25,England,Centre-Back,CB,1000000.0,Brighton,England,3400000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Borna Barisic,25,Croatia,Left-Back,LB,2000000.0,NK Osijek,Croatia,2450000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Nikola Katic,21,Croatia,Centre-Back,CB,950000.0,Slaven Belupo,Croatia,2280000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Eros Grezda,23,Albania,Right Winger,RW,1500000.0,NK Osijek,Croatia,2000000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Jamie Murphy,28,Scotland,Left Winger,LW,1750000.0,Brighton,England,1200000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Kyle Lafferty,30,Northern Ireland,Centre-Forward,CF,1000000.0,Heart of Midl.,Scotland,502000.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Scott Arfield,29,Canada,Central Midfield,CM,3000000.0,Burnley,England,0.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Allan McGregor,36,Scotland,Goalkeeper,GK,1000000.0,Hull City,England,0.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Jon Flanagan,25,England,Right-Back,RB,2500000.0,Liverpool,England,0.0,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Ovie Ejaria,20,England,Central Midfield,CM,1000000.0,Liverpool,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Lassana Coulibaly,22,Mali,Central Midfield,CM,1250000.0,SCO Angers,France,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Umar Sadiq,21,Nigeria,Centre-Forward,CF,1800000.0,AS Roma,Italy,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Ryan Kent,21,England,Left Winger,LW,1500000.0,Liverpool,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Joe Worrall,21,England,Centre-Back,CB,8000000.0,Nottm Forest,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Gareth McAuley,38,Northern Ireland,Centre-Back,CB,1000000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+Rangers FC,Josh Windass,24,England,Attacking Midfield,AM,650000.0,Wigan,England,2800000.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Declan John,23,Wales,Left-Back,LB,700000.0,Swansea,England,890000.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Bruno Alves,36,Portugal,Centre-Back,CB,500000.0,Parma,Italy,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Jak Alnwick,25,England,Goalkeeper,GK,250000.0,Scunthorpe Utd.,England,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Fábio Cardoso,24,Portugal,Centre-Back,CB,900000.0,Santa Clara,Portugal,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Harry Forrester,27,England,Left Winger,LW,350000.0,Tractor,Iran,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,David Bates,21,Scotland,Centre-Back,CB,250000.0,Hamburger SV,Germany,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Kenny Miller,38,Scotland,Centre-Forward,CF,350000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Jordan Thompson,21,Northern Ireland,Central Midfield,CM,100000.0,Blackpool,England,0.0,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Jason Holt,25,Scotland,Central Midfield,CM,750000.0,Fleetwood,England,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Michael O'Halloran,27,Scotland,Left Winger,LW,500000.0,Melbourne City,Australia,,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Eduardo Herrera,29,Mexico,Centre-Forward,CF,900000.0,Santos Laguna,Mexico,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Joe Dodoo,23,England,Left Winger,LW,250000.0,Blackpool,England,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Liam Kelly,22,Scotland,Goalkeeper,GK,100000.0,Livingston FC,Scotland,,out,summer,Scottish Premiership,2018,False,
+Rangers FC,Greg Docherty,21,Scotland,Central Midfield,CM,300000.0,Shrewsbury,England,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Carlos Peña,28,Mexico,Central Midfield,CM,1800000.0,Necaxa,Mexico,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Lee Hodson,26,Northern Ireland,Right-Back,RB,200000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+Rangers FC,Dálcio,22,Portugal,Attacking Midfield,AM,350000.0,Benfica B,Portugal,0.0,out,summer,Scottish Premiership,2018,True,end of loan
+Rangers FC,Glen Kamara,23,Finland,Defensive Midfield,DM,450000.0,Dundee FC,Scotland,55000.0,in,winter,Scottish Premiership,2018,False,
+Rangers FC,Matt Polster,25,United States,Defensive Midfield,DM,600000.0,Chicago Fire,United States,0.0,in,winter,Scottish Premiership,2018,False,
+Rangers FC,Jermain Defoe,36,England,Centre-Forward,CF,2000000.0,Bournemouth,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Rangers FC,Steven Davis,34,Northern Ireland,Central Midfield,CM,3000000.0,Southampton,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+Rangers FC,Andy Firth,22,England,Goalkeeper,GK,,Barrow,England,,in,winter,Scottish Premiership,2018,False,
+Rangers FC,Jordan Rossiter,21,England,Central Midfield,CM,450000.0,Bury,England,0.0,out,winter,Scottish Premiership,2018,True,free loan
+Rangers FC,Carlos Peña,28,Mexico,Central Midfield,CM,1000000.0,GKS Tychy,Poland,0.0,out,winter,Scottish Premiership,2018,False,
+Rangers FC,Eduardo Herrera,30,Mexico,Centre-Forward,CF,800000.0,Necaxa,Mexico,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Drey Wright,23,England,Right Midfield,RM,75000.0,Colchester Utd.,England,0.0,in,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Matty Kennedy,23,Northern Ireland,Left Winger,LW,150000.0,Cardiff,England,0.0,in,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Conor Mitchell,22,Northern Ireland,Goalkeeper,GK,,Burnley U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Tristan Nydam,18,England,Central Midfield,CM,500000.0,Ipswich,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Ross Callachan,24,Scotland,Central Midfield,CM,350000.0,Heart of Midl.,Scotland,,in,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Tony Watt,24,Scotland,Centre-Forward,CF,700000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Danny Swanson,31,Scotland,Right Midfield,RM,350000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Steven MacLean,35,Scotland,Centre-Forward,CF,350000.0,Heart of Midl.,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Alan Mannus,36,Northern Ireland,Goalkeeper,GK,300000.0,Shamrock Rovers,Ireland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Chris Millar,35,Scotland,Central Midfield,CM,300000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Keith Watson,28,Scotland,Right-Back,RB,200000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Ben McKenzie,20,Scotland,Goalkeeper,GK,,Airdrieonians,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Johnstone FC,Callum Hendry,20,Scotland,Centre-Forward,CF,50000.0,Brechin City,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Greg Hurst,21,Scotland,Centre-Forward,CF,50000.0,Berwick Rangers,Scotland,0.0,out,summer,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Michael O'Halloran,28,Scotland,Left Winger,LW,500000.0,Melbourne City,Australia,0.0,in,winter,Scottish Premiership,2018,False,
+St. Johnstone FC,Niall Keown,23,Ireland,Centre-Back,CB,225000.0,Partick Thistle,Scotland,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Cammy Bell,32,Scotland,Goalkeeper,GK,225000.0,Partick Thistle,Scotland,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Sean Goss,23,England,Central Midfield,CM,400000.0,QPR,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Greg Hurst,21,Scotland,Centre-Forward,CF,50000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2018,False,
+St. Johnstone FC,Stefan Scougall,26,Scotland,Left Midfield,LM,300000.0,Carlisle United,England,0.0,out,winter,Scottish Premiership,2018,False,
+St. Johnstone FC,Kyle McClean,20,Northern Ireland,Central Midfield,CM,75000.0,Linfield,Northern Ireland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Steven Anderson,33,Scotland,Centre-Back,CB,350000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,David McMillan,30,Ireland,Centre-Forward,CF,300000.0,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Johnstone FC,Ali McCann,19,Northern Ireland,Central Midfield,CM,50000.0,Stranraer,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Josh Heaton,21,England,Centre-Back,CB,,Darlington,England,85000.0,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Paul McGinn,27,Scotland,Right-Back,RB,300000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Jeff King,22,England,Right Midfield,RM,,Bolton,England,0.0,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Cody Cooke,25,England,Centre-Forward,CF,,Truro City FC,England,0.0,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Jim Kellermann,23,England,Central Midfield,CM,,Aldershot Town,England,0.0,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Matty Willock,21,England,Central Midfield,CM,250000.0,Man Utd U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Ryan Edwards,24,Australia,Central Midfield,CM,325000.0,Heart of Midl.,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Lee Hodson,26,Northern Ireland,Right-Back,RB,200000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Alfie Jones,20,England,Centre-Back,CB,,Southampton U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Nicolai Brock-Madsen,25,Denmark,Centre-Forward,CF,300000.0,Birmingham,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Danny Rogers,24,Ireland,Goalkeeper,GK,250000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Hayden Coulson,20,England,Left-Back,LB,,Boro U23,England,0.0,in,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Cole Kpekawa,22,England,Centre-Back,CB,400000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Anton Ferdinand,33,England,Centre-Back,CB,350000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Dean Lyness,27,England,Goalkeeper,GK,50000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Simeon Jackson,31,Canada,Centre-Forward,CF,250000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Adam Hammill,30,England,Right Winger,RW,500000.0,Without Club,,,in,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Josh Todd,24,England,Left Midfield,LM,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Stelios Dimitriou,27,Cyprus,Left-Back,LB,275000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Darren Whyte,21,Scotland,Centre-Back,CB,50000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Nathan Flanagan,21,Scotland,Left Midfield,LM,50000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Darryl Duffy,34,Scotland,Centre-Forward,CF,,Airdrieonians,Scotland,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Harry Davis,26,England,Centre-Back,CB,100000.0,Grimsby Town,England,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Gavin Reilly,25,Scotland,Centre-Forward,CF,350000.0,Bristol Rovers,England,0.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Ross Stewart,22,Scotland,Centre-Forward,CF,100000.0,Ross County,Scotland,45000.0,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Ross Stewart,23,Scotland,Goalkeeper,GK,50000.0,Livingston FC,Scotland,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Myles Hippolyte,23,England,Left Winger,LW,150000.0,Dunfermline A.,Scotland,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Jim Kellermann,23,England,Central Midfield,CM,150000.0,Fylde,England,0.0,out,summer,Scottish Premiership,2018,True,free loan
+St. Mirren FC,John Sutton,34,England,Centre-Forward,CF,225000.0,Career break,,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Gary Irvine,33,Scotland,Right-Back,RB,200000.0,Without Club,,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Massimo Donati,37,Italy,Defensive Midfield,DM,150000.0,Retired,,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Jamie Langfield,38,Scotland,Goalkeeper,GK,100000.0,Retired,,,out,summer,Scottish Premiership,2018,False,
+St. Mirren FC,Greg Tansey,30,England,Central Midfield,CM,300000.0,Aberdeen FC,Scotland,0.0,in,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Mihai Popescu,25,Romania,Centre-Back,CB,500000.0,Dinamo,Romania,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Laurentiu Corbu,24,Romania,Right-Back,RB,300000.0,Dinamo,Romania,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Mateo Muzek,23,Croatia,Left-Back,LB,500000.0,Shakhter K.,Kazakhstan,0.0,in,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Anders Dreyer,20,Denmark,Right Winger,RW,600000.0,Brighton,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Duckens Nazon,24,Haiti,Centre-Forward,CF,350000.0,Sint-Truiden,Belgium,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Jordan Holmes,21,Australia,Goalkeeper,GK,,Bournemouth U21,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Kyle McAllister,19,Scotland,Right Winger,RW,200000.0,Derby,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Brad Lyons,21,Northern Ireland,Central Midfield,CM,,Blackburn,England,0.0,in,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Vaclav Hladky,28,Czech Republic,Goalkeeper,GK,300000.0,Slovan Liberec,Czech Republic,,in,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Adam Hammill,30,England,Right Winger,RW,500000.0,Without Club,,,in,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Dean Lyness,27,England,Goalkeeper,GK,75000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Adam Hammill,30,England,Right Winger,RW,500000.0,Scunthorpe Utd.,England,0.0,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Josh Heaton,22,England,Centre-Back,CB,75000.0,Kidderminster,England,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Cammy Smith,23,Scotland,Second Striker,SS,400000.0,Dundee United,Scotland,,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Adam Eckersley,33,England,Left-Back,LB,250000.0,Forfar Athletic,Scotland,0.0,out,winter,Scottish Premiership,2018,True,free loan
+St. Mirren FC,Jordan Kirkpatrick,26,Scotland,Attacking Midfield,AM,150000.0,Alloa Athletic,Scotland,,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Ian McShane,26,Scotland,Central Midfield,CM,300000.0,Falkirk,Scotland,,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Jeff King,23,England,Right Midfield,RM,75000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Cole Kpekawa,22,England,Centre-Back,CB,250000.0,Without Club,,,out,winter,Scottish Premiership,2018,False,
+St. Mirren FC,Craig Samson,34,Scotland,Goalkeeper,GK,325000.0,Retired,,,out,winter,Scottish Premiership,2018,False,

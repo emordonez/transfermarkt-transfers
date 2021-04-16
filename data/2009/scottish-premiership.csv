@@ -1,0 +1,332 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aberdeen FC,Stuart Nelson,27,England,Goalkeeper,GK,100000.0,Norwich,England,0.0,in,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Jerel Ifil,27,England,Centre-Back,CB,50000.0,Swindon Town,England,0.0,in,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Davide Grassi,23,Italy,Centre-Back,CB,,Sant Andreu,Spain,0.0,in,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Mo Ross,28,Scotland,Right-Back,RB,400000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Lee Mair,28,Scotland,Centre-Back,CB,400000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Scott Severin,29,Scotland,Central Midfield,CM,1500000.0,Watford,England,0.0,out,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Jamie Smith,28,Scotland,Right Winger,RW,1000000.0,Colorado,United States,0.0,out,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Jonathan Bateman,20,England,Goalkeeper,GK,125000.0,Peterhead,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Bertrand Bossu,28,France,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Aberdeen FC,Steven MacLean,27,Scotland,Centre-Forward,CF,800000.0,Plymouth,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Jim Paterson,30,Scotland,Left-Back,LB,800000.0,Plymouth,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Paul Marshall,20,England,Attacking Midfield,AM,,Man City Res.,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Mo Ross,28,Scotland,Right-Back,RB,400000.0,Without Club,,,in,winter,Scottish Premiership,2009,False,
+Aberdeen FC,Lee Miller,26,Scotland,Centre-Forward,CF,2250000.0,Middlesbrough,England,685000.0,out,winter,Scottish Premiership,2009,False,
+Aberdeen FC,Mo Ross,28,Scotland,Right-Back,RB,400000.0,BJ Guoan,China,0.0,out,winter,Scottish Premiership,2009,False,
+Aberdeen FC,Tommy Wright,25,England,Centre-Forward,CF,225000.0,Grimsby Town,England,0.0,out,winter,Scottish Premiership,2009,False,
+Aberdeen FC,Chris Maguire,21,Scotland,Right Winger,RW,750000.0,Kilmarnock FC,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Mitch Megginson,17,Scotland,Centre-Forward,CF,75000.0,Arbroath,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Jonathan Crawford,19,Scotland,Centre-Back,CB,275000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Stuart Duff,27,Scotland,Defensive Midfield,DM,400000.0,Inverness CT,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Aberdeen FC,Sammy Stewart,18,Northern Ireland,Central Midfield,CM,175000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Marc-Antoine Fortuné,28,French Guiana,Centre-Forward,CF,3600000.0,AS Nancy,France,4400000.0,in,summer,Scottish Premiership,2009,False,
+Celtic FC,Danny Fox,23,Scotland,Left-Back,LB,1000000.0,Coventry,England,1750000.0,in,summer,Scottish Premiership,2009,False,
+Celtic FC,Landry N'Guémo,23,Cameroon,Defensive Midfield,DM,3500000.0,AS Nancy,France,750000.0,in,summer,Scottish Premiership,2009,True,loan with fee
+Celtic FC,Lukasz Zaluska,27,Poland,Goalkeeper,GK,1000000.0,Dundee United,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Celtic FC,Zhi Zheng,29,China,Defensive Midfield,DM,750000.0,Charlton,England,0.0,in,summer,Scottish Premiership,2009,False,
+Celtic FC,Massimo Donati,28,Italy,Defensive Midfield,DM,2000000.0,Bari,Italy,1200000.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Scott Cuthbert,22,Scotland,Centre-Back,CB,300000.0,Swindon Town,England,115000.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Michael McGlinchey,22,New Zealand,Right Midfield,RM,50000.0,Central Coast,Australia,0.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Paul Hartley,32,Scotland,Central Midfield,CM,3000000.0,Bristol City,England,0.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Shunsuke Nakamura,31,Japan,Attacking Midfield,AM,7750000.0,Espanyol,Spain,0.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Mark Millar,21,Scotland,Central Midfield,CM,,Újpest FC,Hungary,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Jan Vennegoor of Hesselink,30,Netherlands,Centre-Forward,CF,5000000.0,Hull City,England,0.0,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Cillian Sheridan,20,Ireland,Centre-Forward,CF,1250000.0,Plymouth,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Ben Hutchinson,21,England,Centre-Forward,CF,600000.0,Swindon Town,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Simon Ferry,21,Scotland,Central Midfield,CM,75000.0,Swindon Town,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Darren O'Dea,22,Ireland,Centre-Back,CB,750000.0,Reading,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Mark Brown,28,Scotland,Goalkeeper,GK,350000.0,Kilmarnock FC,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Celtic FC,Bobo Balde,33,Guinea,Centre-Back,CB,850000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Jean-Joël Perrier-Doumbé,30,Cameroon,Right-Back,RB,750000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Celtic FC,Sung-yueng Ki,20,"Korea, South",Defensive Midfield,DM,3000000.0,FC Seoul,"Korea, South",2400000.0,in,winter,Scottish Premiership,2009,False,
+Celtic FC,Jos Hooiveld,26,Netherlands,Centre-Back,CB,1250000.0,AIK,Sweden,2200000.0,in,winter,Scottish Premiership,2009,False,
+Celtic FC,Morten Duncan Rasmussen,24,Denmark,Centre-Forward,CF,2000000.0,Bröndby IF,Denmark,1300000.0,in,winter,Scottish Premiership,2009,False,
+Celtic FC,Robbie Keane,29,Ireland,Centre-Forward,CF,19000000.0,Spurs,England,1200000.0,in,winter,Scottish Premiership,2009,True,loan with fee
+Celtic FC,Thomas Rogne,19,Norway,Centre-Back,CB,400000.0,Stabæk Fotball,Norway,250000.0,in,winter,Scottish Premiership,2009,False,
+Celtic FC,Diomansy Kamara,29,Senegal,Right Winger,RW,3500000.0,Fulham,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,Edson Braafheid,26,Netherlands,Left-Back,LB,3000000.0,FC Bayern,Germany,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,Paul Slane,18,Scotland,Right Winger,RW,100000.0,Motherwell FC,Scotland,,in,winter,Scottish Premiership,2009,False,
+Celtic FC,Scott McDonald,26,Australia,Centre-Forward,CF,6000000.0,Middlesbrough,England,4300000.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Danny Fox,23,Scotland,Left-Back,LB,2000000.0,Burnley,England,2100000.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Gary Caldwell,27,Scotland,Centre-Back,CB,5250000.0,Wigan,England,1100000.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Barry Robson,31,Scotland,Right Midfield,RM,2500000.0,Middlesbrough,England,1100000.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Stephen McManus,27,Scotland,Centre-Back,CB,6000000.0,Middlesbrough,England,550000.0,out,winter,Scottish Premiership,2009,True,loan with fee
+Celtic FC,Willo Flood,24,Ireland,Central Midfield,CM,1000000.0,Middlesbrough,England,0.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Chris Killen,28,New Zealand,Centre-Forward,CF,1100000.0,Middlesbrough,England,0.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Cillian Sheridan,20,Ireland,Centre-Forward,CF,1250000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,Ryan Conroy,22,Scotland,Left Midfield,LM,350000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,Mark Brown,28,Scotland,Goalkeeper,GK,350000.0,Hibernian FC,Scotland,0.0,out,winter,Scottish Premiership,2009,False,
+Celtic FC,Graham Carey,20,Ireland,Left Winger,LW,,St. Mirren,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,Ben Hutchinson,22,England,Centre-Forward,CF,600000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Celtic FC,John Kennedy,26,Scotland,Centre-Back,CB,1000000.0,Retired,,,out,winter,Scottish Premiership,2009,False,
+Dundee United FC,Danny Cadamarteri,29,England,Right Winger,RW,750000.0,Huddersfield,England,0.0,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Jennison Myrie-Williams,21,England,Right Winger,RW,50000.0,Bristol City,England,0.0,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Damián Casalinuovo,22,Argentina,Centre-Forward,CF,75000.0,Platense,Argentina,0.0,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Nicky Weaver,30,England,Goalkeeper,GK,1500000.0,Charlton,England,0.0,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Andy Webster,27,Scotland,Centre-Back,CB,1500000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Dundee United FC,Steve Banks,37,England,Goalkeeper,GK,,Retired,,,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Mark Fotheringham,25,Scotland,Central Midfield,CM,500000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+Dundee United FC,Danny Grainger,22,England,Left-Back,LB,400000.0,St. Johnstone,Scotland,60000.0,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Lukasz Zaluska,27,Poland,Goalkeeper,GK,1000000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Sean Fleming,20,Scotland,Left-Back,LB,,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Michael McGovern,24,Northern Ireland,Goalkeeper,GK,100000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Damián Casalinuovo,22,Argentina,Centre-Forward,CF,75000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Dundee United FC,Johnny Russell,19,Scotland,Right Winger,RW,175000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Dundee United FC,Marco Andreoni,21,Scotland,midfield,midfield,50000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Dundee United FC,Lee Wilkie,29,Scotland,Centre-Back,CB,1500000.0,Retired,,,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Marco Andreoni,21,Scotland,midfield,midfield,50000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Dundee United FC,Dusan Pernis,25,Slovakia,Goalkeeper,GK,150000.0,MSK Zilina,Slovakia,0.0,in,winter,Scottish Premiership,2009,False,
+Dundee United FC,Pavels Mihadjuks,29,Latvia,Centre-Back,CB,50000.0,Ventspils,Latvia,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Dundee United FC,Mark Fotheringham,26,Scotland,Central Midfield,CM,500000.0,Anorthosis,Cyprus,0.0,out,winter,Scottish Premiership,2009,False,
+Dundee United FC,Nicky Weaver,30,England,Goalkeeper,GK,1500000.0,Burnley,England,0.0,out,winter,Scottish Premiership,2009,False,
+Dundee United FC,Greg Cameron,21,Scotland,Central Midfield,CM,200000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Dundee United FC,Marco Andreoni,21,Scotland,midfield,midfield,50000.0,Forfar Athletic,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Dundee United FC,Kevin Smith,22,Scotland,Centre-Forward,CF,150000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Marc Twaddle,22,Scotland,Left-Back,LB,350000.0,Partick Thistle,Scotland,70000.0,in,summer,Scottish Premiership,2009,False,
+Falkirk FC,Vítor Lima,27,Portugal,Defensive Midfield,DM,650000.0,Ethn. Piraeus,Greece,0.0,in,summer,Scottish Premiership,2009,False,
+Falkirk FC,Brian McLean,24,Northern Ireland,Centre-Back,CB,500000.0,Motherwell FC,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Falkirk FC,Alex MacDonald,19,Scotland,Left Winger,LW,200000.0,Burnley,England,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Josh Wagenaar,24,Canada,Goalkeeper,GK,300000.0,Yeovil Town,England,0.0,in,summer,Scottish Premiership,2009,False,
+Falkirk FC,Ryan Flynn,20,Scotland,Right Midfield,RM,100000.0,Liverpool U23,England,30000.0,in,summer,Scottish Premiership,2009,False,
+Falkirk FC,Danijel Marceta,20,Slovenia,Right Winger,RW,300000.0,Partizan,Serbia,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Kjartan Finnbogason,23,Iceland,Centre-Forward,CF,200000.0,Sandefjord,Norway,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Gerard Aafjes,24,Netherlands,Centre-Back,CB,200000.0,MVV Maastricht,Netherlands,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Steve Lovell,28,England,Centre-Forward,CF,1000000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Patrick Cregg,23,Ireland,Central Midfield,CM,500000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Dermot McCaffrey,23,Northern Ireland,Left-Back,LB,150000.0,Arbroath,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Dani Mallo,30,Spain,Goalkeeper,GK,300000.0,Girona,Spain,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Kevin McBride,28,Scotland,Defensive Midfield,DM,450000.0,Hibernian FC,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Scott Gibb,20,Northern Ireland,Centre-Back,CB,75000.0,Drogheda United,Ireland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Michael Higdon,25,England,Centre-Forward,CF,750000.0,St. Mirren,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Mark Staunton,20,Scotland,Centre-Back,CB,75000.0,East Fife,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Dean Holden,29,Northern Ireland,Centre-Back,CB,300000.0,Shrewsbury,England,0.0,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Craig McLeish,19,Scotland,Left Midfield,LM,,Stirling Uni,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Jamie Barclay,19,Scotland,Goalkeeper,GK,75000.0,East Stirling,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Paul Sludden,18,Scotland,Centre-Forward,CF,75000.0,East Fife,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Falkirk FC,Neil McCann,35,Scotland,Left Winger,LW,900000.0,Retired,,,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Steven Pressley,35,Scotland,Centre-Back,CB,1000000.0,Retired,,,out,summer,Scottish Premiership,2009,False,
+Falkirk FC,Colin Healy,29,Ireland,Central Midfield,CM,300000.0,Ipswich,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Enoch Showunmi,27,Nigeria,Centre-Forward,CF,300000.0,Leeds,England,0.0,in,winter,Scottish Premiership,2009,False,
+Falkirk FC,Toufik Zerara,23,Algeria,Defensive Midfield,DM,350000.0,Al-Dhafra SCC,United Arab Emirates,0.0,in,winter,Scottish Premiership,2009,False,
+Falkirk FC,Jack Compton,21,Wales,Left Winger,LW,,Weston-Super-Mare AFC,England,,in,winter,Scottish Premiership,2009,False,
+Falkirk FC,Pedro Moutinho,30,Portugal,Centre-Forward,CF,900000.0,Without Club,,,in,winter,Scottish Premiership,2009,False,
+Falkirk FC,Pelé,31,Cape Verde,Centre-Back,CB,700000.0,Without Club,,,in,winter,Scottish Premiership,2009,False,
+Falkirk FC,Dermot McCaffrey,23,Northern Ireland,Left-Back,LB,150000.0,Dungannon,Northern Ireland,0.0,out,winter,Scottish Premiership,2009,False,
+Falkirk FC,Stewart Murdoch,19,Scotland,Right-Back,RB,75000.0,East Fife,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Brian Allison,21,Scotland,Centre-Back,CB,100000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Chris Mitchell,21,Scotland,Right-Back,RB,175000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Jackie McNamara,36,Scotland,Right-Back,RB,1000000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Paul Sludden,18,Scotland,Centre-Forward,CF,75000.0,East Fife,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Falkirk FC,Toufik Zerara,23,Algeria,Defensive Midfield,DM,350000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Falkirk FC,Kevin Moffat,21,Scotland,attack,attack,50000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Tomas Cerny,24,Czech Republic,Goalkeeper,GK,550000.0,Sigma Olomouc,Czech Republic,235000.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Leon Knight,26,England,Centre-Forward,CF,100000.0,Thrasyvoulos,Greece,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,John Paul Kissock,19,England,Left Midfield,LM,75000.0,Everton,England,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Izzy Iriekpen,27,England,Centre-Back,CB,200000.0,Bristol City,England,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Marvin Andrews,33,Trinidad and Tobago,Centre-Back,CB,200000.0,Raith Rovers,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Kyle Wilkie,18,Scotland,Central Midfield,CM,,Stockport U18,England,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Flávio Paixão,24,Portugal,Centre-Forward,CF,,Benidorm CF,Spain,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,David Louhoungou,20,Congo,Defensive Midfield,DM,,Rennes B,France,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Kevin Welsh,24,Scotland,Left-Back,LB,,Harestanes AFC,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Luis Rubiales,31,Spain,Left-Back,LB,700000.0,Alicante CF,Spain,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Richard Hastings,32,Canada,Left-Back,LB,475000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,James Wesolowski,21,Australia,Central Midfield,CM,350000.0,Leicester,England,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Marco Paixão,24,Portugal,Centre-Forward,CF,,CyD Leonesa,Spain,,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Mickaël Antoine-Curier,26,Guadeloupe,Centre-Forward,CF,600000.0,Dundee FC,Scotland,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Gary Mason,29,Scotland,Defensive Midfield,DM,375000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Guillaume Beuzelin,30,France,Central Midfield,CM,800000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,James McCarthy,18,Ireland,Central Midfield,CM,1250000.0,Wigan,England,5100000.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Brian Easton,21,Scotland,Left-Back,LB,650000.0,Burnley,England,400000.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Joël Thomas,22,France,Centre-Forward,CF,250000.0,Colchester Utd.,England,225000.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Richard Offiong,25,England,Centre-Forward,CF,900000.0,Carlisle United,England,125000.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Rocco Quinn,22,Scotland,Central Midfield,CM,275000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Kenny Deuchar,28,Scotland,Centre-Forward,CF,550000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Jordan Love,19,Scotland,Centre-Forward,CF,75000.0,Craigmark Burtonians FC,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Chris Fagan,20,Ireland,Centre-Forward,CF,,Lincoln City,England,0.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Chris Swailes,38,England,Centre-Back,CB,275000.0,Gateshead FC,England,0.0,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Mark Corcoran,28,Scotland,Left Midfield,LM,350000.0,Partick Thistle,Scotland,,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Kevin Welsh,24,Scotland,Left-Back,LB,75000.0,Alloa Athletic,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Luis Rubiales,32,Spain,Left-Back,LB,700000.0,Retired,,,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Izzy Iriekpen,27,England,Centre-Back,CB,200000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hamilton Academical FC,Derek Asamoah,28,Ghana,Second Striker,SS,100000.0,OGC Nice,France,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Hamilton Academical FC,Tomas Cerny,24,Czech Republic,Goalkeeper,GK,550000.0,Sigma Olomouc,Czech Republic,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Hamilton Academical FC,Dougie Imrie,26,Scotland,Right Winger,RW,450000.0,Inverness CT,Scotland,60000.0,in,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Stuart Elliott,31,Northern Ireland,Left Midfield,LM,750000.0,Doncaster,England,0.0,in,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,David van Zanten,27,Ireland,Right-Back,RB,300000.0,Morton,Scotland,0.0,in,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Joël Thomas,22,France,Centre-Forward,CF,250000.0,Colchester Utd.,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Brian Easton,21,Scotland,Left-Back,LB,650000.0,Burnley,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Nicky Riley,23,Scotland,Left Midfield,LM,,Without Club,,,in,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Guillaume Beuzelin,30,France,Central Midfield,CM,800000.0,Olympiakos N.,Cyprus,0.0,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Leon Knight,27,England,Centre-Forward,CF,225000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,David Louhoungou,20,Congo,Defensive Midfield,DM,125000.0,Kocaelispor,Turkey,0.0,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Marvin Andrews,34,Trinidad and Tobago,Centre-Back,CB,200000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Tony Stevenson,21,Scotland,Defensive Midfield,DM,175000.0,Alloa Athletic,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,John Paul Kissock,19,England,Left Midfield,LM,75000.0,Unknown,,0.0,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Marvin Andrews,33,Trinidad and Tobago,Centre-Back,CB,200000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Stuart Elliott,31,Northern Ireland,Left Midfield,LM,500000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hamilton Academical FC,Gary Mason,30,Scotland,Defensive Midfield,DM,375000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Hamilton Academical FC,Kevin Welsh,25,Scotland,Left-Back,LB,75000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Ian Black,24,Scotland,Defensive Midfield,DM,750000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Suso Santana,24,Spain,Right Winger,RW,,CD Tenerife,Spain,0.0,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Dawid Kucharski,24,Poland,Centre-Back,CB,300000.0,Lech Poznan,Poland,0.0,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,David Witteveen,24,Austria,Centre-Forward,CF,,WAC - St. Andrä,Austria,0.0,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Gordon Smith,18,Scotland,Centre-Forward,CF,150000.0,Livingston U20,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Ismaël Bouzid,25,Algeria,Centre-Back,CB,800000.0,Ankaragücü,Turkey,,in,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Marius Cinikas,23,Lithuania,Right-Back,RB,125000.0,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Christos Karypidis,26,Greece,Centre-Back,CB,2000000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Deividas Cesnauskis,28,Lithuania,Right-Back,RB,1400000.0,Ergotelis,Greece,0.0,out,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Robbie Neilson,29,Scotland,Right-Back,RB,1500000.0,Leicester,England,0.0,out,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Bruno Aguiar,28,Portugal,Central Midfield,CM,2750000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Denis McLaughlin,22,Ireland,Centre-Forward,CF,,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Stephen Husband,18,Scotland,Central Midfield,CM,150000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Denis McLaughlin,22,Ireland,Centre-Forward,CF,,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Jonny Brown,19,Scotland,Left-Back,LB,50000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Ryan McGowan,20,Australia,Centre-Back,CB,100000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Ryan Wallace,19,Scotland,Centre-Forward,CF,,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Mike Tullberg,23,Denmark,Centre-Forward,CF,500000.0,Reggina,Italy,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Heart of Midlothian FC,Adrian Mrowiec,25,Poland,Defensive Midfield,DM,200000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Heart of Midlothian FC,Ryan Stevenson,25,Scotland,Centre-Forward,CF,275000.0,Ayr United,Scotland,,in,winter,Scottish Premiership,2009,False,
+Heart of Midlothian FC,Stephen Husband,19,Scotland,Central Midfield,CM,150000.0,Blackpool,England,125000.0,out,winter,Scottish Premiership,2009,False,
+Heart of Midlothian FC,David Witteveen,24,Austria,Centre-Forward,CF,200000.0,Morton,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Jamie Mole,21,England,Centre-Forward,CF,250000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Ryan McGowan,20,Australia,Centre-Back,CB,100000.0,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Ryan Wallace,19,Scotland,Centre-Forward,CF,,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Heart of Midlothian FC,Mark Ridgers,19,Scotland,Goalkeeper,GK,75000.0,East Fife,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Anthony Stokes,21,Ireland,Centre-Forward,CF,900000.0,Sunderland,England,575000.0,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Kevin McBride,28,Scotland,Defensive Midfield,DM,450000.0,Falkirk,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Patrick Cregg,23,Ireland,Central Midfield,CM,500000.0,Falkirk,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Danny Galbraith,18,Scotland,Defensive Midfield,DM,,Man Utd U23,England,0.0,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Graham Stack,27,Ireland,Goalkeeper,GK,350000.0,Plymouth,England,0.0,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Liam Miller,28,Ireland,Central Midfield,CM,2000000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+Hibernian FC,Steven Fletcher,22,Scotland,Centre-Forward,CF,4000000.0,Burnley,England,4700000.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Rob Jones,29,England,Centre-Back,CB,1250000.0,Scunthorpe Utd.,England,400000.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Fabián Yantorno,26,Uruguay,Central Midfield,CM,900000.0,Chester City,England,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Dénes Rósa,32,Hungary,Right Midfield,RM,500000.0,Ferencváros,Hungary,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Damon Gray,20,England,Centre-Forward,CF,200000.0,Berwick Rangers,England,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Alan O'Brien,24,Ireland,Left Midfield,LM,650000.0,Swindon Town,England,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Ross Campbell,21,Scotland,Centre-Forward,CF,100000.0,Östersund,Sweden,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Ross Chisholm,21,Scotland,Central Midfield,CM,500000.0,Shamrock Rovers,Ireland,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Ewan Moyes,19,Scotland,Centre-Back,CB,,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Hibernian FC,Grzegorz Szamotulski,33,Poland,Goalkeeper,GK,1000000.0,Jagiellonia,Poland,0.0,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Andy McNeil,22,Scotland,Goalkeeper,GK,150000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Thierry Gathuessi,27,Cameroon,Right-Back,RB,250000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,David van Zanten,27,Ireland,Right-Back,RB,600000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Jonatan Johansson,34,Finland,Centre-Forward,CF,1250000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Joe Keenan,26,England,Left-Back,LB,600000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Hibernian FC,Steve Pinau,21,France,Attacking Midfield,AM,150000.0,Genoa,Italy,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Hibernian FC,Graeme Smith,26,Scotland,Goalkeeper,GK,400000.0,Brighton,England,0.0,in,winter,Scottish Premiership,2009,False,
+Hibernian FC,Mark Brown,28,Scotland,Goalkeeper,GK,350000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2009,False,
+Hibernian FC,Alan Gow,27,Scotland,Attacking Midfield,AM,600000.0,Plymouth,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Lee Currie,19,Scotland,Central Midfield,CM,75000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Sean Welsh,19,Scotland,Central Midfield,CM,75000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Ewan Moyes,19,Scotland,Centre-Back,CB,,Arbroath,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Kurtis Byrne,19,Ireland,Centre-Forward,CF,200000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Hibernian FC,Thomas Flynn,19,England,Goalkeeper,GK,175000.0,Alloa Athletic,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Lee Robinson,22,England,Goalkeeper,GK,125000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Graeme Owens,21,England,Right Winger,RW,100000.0,Middlesbrough,England,0.0,in,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Mark Burchill,28,Scotland,Centre-Forward,CF,500000.0,Rotherham,England,0.0,in,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Mark Brown,28,Scotland,Goalkeeper,GK,350000.0,Celtic,Scotland,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Grant Murray,33,Scotland,Centre-Back,CB,250000.0,Raith Rovers,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,David Lilley,31,Scotland,Centre-Back,CB,200000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Scott Anson,20,Scotland,Centre-Forward,CF,125000.0,Annan Athletic,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Paul McInnes,19,Scotland,Central Midfield,CM,50000.0,Stranraer,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Damien Rascle,28,France,Goalkeeper,GK,100000.0,Beauvais,France,0.0,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Wullie Gibson,24,Scotland,Left Midfield,LM,400000.0,Dunfermline A.,Scotland,,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Allan Johnston,35,Scotland,Right Midfield,RM,600000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Alan Morgan,25,Scotland,Left Midfield,LM,200000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+Kilmarnock FC,Rob Kiernan,19,Ireland,Centre-Back,CB,50000.0,Watford,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Chris Maguire,21,Scotland,Right Winger,RW,750000.0,Aberdeen FC,Scotland,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Scott Severin,30,Scotland,Central Midfield,CM,900000.0,Watford,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Jamie Adams,22,Scotland,Central Midfield,CM,125000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Ryan O'Leary,22,Scotland,Centre-Back,CB,300000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Kilmarnock FC,Jamie Adams,22,Scotland,Central Midfield,CM,125000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Motherwell FC,Steve Jennings,24,England,Central Midfield,CM,,Tranmere Rovers,England,0.0,in,summer,Scottish Premiership,2009,False,
+Motherwell FC,Giles Coke,23,England,Central Midfield,CM,,Northampton,England,0.0,in,summer,Scottish Premiership,2009,False,
+Motherwell FC,John Ruddy,22,England,Goalkeeper,GK,450000.0,Everton,England,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Motherwell FC,Tom Hateley,19,England,Defensive Midfield,DM,200000.0,Reading U21,England,0.0,in,summer,Scottish Premiership,2009,False,
+Motherwell FC,Lukas Jutkiewicz,20,England,Centre-Forward,CF,500000.0,Everton,England,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Motherwell FC,Yassin Moutaouakil,23,France,Right-Back,RB,750000.0,Charlton,England,0.0,in,summer,Scottish Premiership,2009,True,free loan
+Motherwell FC,Michael Fraser,25,Scotland,Goalkeeper,GK,450000.0,Inverness CT,Scotland,,in,summer,Scottish Premiership,2009,False,
+Motherwell FC,Chris Humphrey,21,Jamaica,Right Midfield,RM,,Shrewsbury,England,,in,summer,Scottish Premiership,2009,False,
+Motherwell FC,David Clarkson,23,Scotland,Centre-Forward,CF,850000.0,Bristol City,England,950000.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Paul Quinn,23,Scotland,Centre-Back,CB,500000.0,Cardiff,England,350000.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Bob Malcolm,28,Scotland,Centre-Back,CB,500000.0,Brisbane Roar,Australia,0.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Brian McLean,24,Northern Ireland,Centre-Back,CB,500000.0,Falkirk,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Graeme Smith,26,Scotland,Goalkeeper,GK,750000.0,Brighton,England,0.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Stephen Hughes,26,Scotland,Central Midfield,CM,1250000.0,Norwich,England,0.0,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Ryan Wilson,19,Scotland,Centre-Back,CB,50000.0,Glenafton Athletic FC,Scotland,,out,summer,Scottish Premiership,2009,False,
+Motherwell FC,Maros Klimpl,28,Slovakia,Centre-Back,CB,400000.0,FC Midtjylland,Denmark,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Motherwell FC,Semih Aydilek,20,Germany,Centre-Forward,CF,200000.0,Birmingham,England,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Motherwell FC,Michael McGlinchey,23,New Zealand,Right Midfield,RM,400000.0,Central Coast,Australia,0.0,in,winter,Scottish Premiership,2009,True,free loan
+Motherwell FC,Mark Archdeacon,20,Scotland,Centre-Forward,CF,75000.0,Brechin City,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Motherwell FC,Paul Slane,18,Scotland,Right Winger,RW,100000.0,Celtic,Scotland,,out,winter,Scottish Premiership,2009,False,
+Motherwell FC,Darren Smith,21,Scotland,Left Winger,LW,250000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Motherwell FC,Jonathan Page,20,England,Centre-Back,CB,,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Motherwell FC,Steven McGarry,30,Scotland,Attacking Midfield,AM,350000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+Rangers FC,Jérôme Rothen,31,France,Left Midfield,LM,5500000.0,Paris SG,France,500000.0,in,summer,Scottish Premiership,2009,True,loan with fee
+Rangers FC,Barry Ferguson,31,Scotland,Defensive Midfield,DM,7000000.0,Birmingham,England,1200000.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Charlie Adam,23,Scotland,Central Midfield,CM,2000000.0,Blackpool,England,590000.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Alan Gow,26,Scotland,Attacking Midfield,AM,600000.0,Plymouth,England,275000.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Christian Dailly,35,Scotland,Centre-Back,CB,350000.0,Charlton,England,0.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Georgios Efrem,19,Cyprus,Right Winger,RW,300000.0,Omonia Nikosia,Cyprus,0.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Lee Robinson,22,England,Goalkeeper,GK,125000.0,Kilmarnock FC,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Dean Furman,21,South Africa,Central Midfield,CM,50000.0,Oldham Athletic,England,0.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Graeme Smith,26,Scotland,Goalkeeper,GK,150000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Andrius Velicka,30,Lithuania,Centre-Forward,CF,1250000.0,Bristol City,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Rangers FC,Andy Webster,27,Scotland,Centre-Back,CB,1500000.0,Dundee United,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Rangers FC,Ross Perry,19,Scotland,Centre-Back,CB,50000.0,Oxford United,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Rangers FC,Steve Kinniburgh,20,Scotland,Left-Back,LB,175000.0,Oxford United,England,0.0,out,summer,Scottish Premiership,2009,True,free loan
+Rangers FC,Brahim Hemdani,31,Algeria,Defensive Midfield,DM,2000000.0,Retired,,,out,summer,Scottish Premiership,2009,False,
+Rangers FC,Aarón Ñíguez,20,Spain,Right Winger,RW,800000.0,Valencia,Spain,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+Rangers FC,Pedro Mendes,30,Portugal,Defensive Midfield,DM,6250000.0,Sporting CP,Portugal,1700000.0,out,winter,Scottish Premiership,2009,False,
+Rangers FC,Jordan McMillan,21,Scotland,Right-Back,RB,150000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Rangers FC,Andrew Shinnie,20,Scotland,Attacking Midfield,AM,300000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Rangers FC,Rory Loy,21,Scotland,Centre-Forward,CF,275000.0,St. Mirren,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Rangers FC,Steven Lennon,22,Scotland,Centre-Forward,CF,200000.0,Lincoln City,England,0.0,out,winter,Scottish Premiership,2009,True,free loan
+Rangers FC,Tom Miller,19,England,Right-Back,RB,,Dundalk FC,Ireland,0.0,out,winter,Scottish Premiership,2009,False,
+Rangers FC,Tom Miller,19,England,Right-Back,RB,,Brechin City,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+St. Johnstone FC,Danny Grainger,22,England,Left-Back,LB,400000.0,Dundee United,Scotland,60000.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Murray Davidson,21,Scotland,Central Midfield,CM,400000.0,Livingston FC,Scotland,57000.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Dave Mackay,29,Scotland,Right-Back,RB,450000.0,Livingston FC,Scotland,57000.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Kenny Deuchar,28,Scotland,Centre-Forward,CF,550000.0,Hamilton Acad.,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Graeme Smith,26,Scotland,Goalkeeper,GK,150000.0,Rangers,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Filipe Morais,23,Portugal,Right Midfield,RM,400000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Jonatan Johansson,34,Finland,Centre-Forward,CF,1250000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Euan McLean,24,Scotland,Goalkeeper,GK,125000.0,Forfar Athletic,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+St. Johnstone FC,Derek Holmes,30,Scotland,Centre-Forward,CF,250000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Kevin James,33,Scotland,Centre-Back,CB,125000.0,Ayr United,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Steven Doris,20,Scotland,Centre-Forward,CF,,Arbroath,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Graham Barrett,27,Ireland,Centre-Forward,CF,600000.0,Shamrock Rovers,Ireland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Johnstone FC,Cillian Sheridan,20,Ireland,Centre-Forward,CF,1250000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2009,True,free loan
+St. Johnstone FC,Mark Connolly,18,Ireland,Centre-Back,CB,,Bolton,England,0.0,in,winter,Scottish Premiership,2009,True,free loan
+St. Johnstone FC,Michael Duberry,34,England,Centre-Back,CB,1200000.0,Wycombe,England,0.0,in,winter,Scottish Premiership,2009,False,
+St. Johnstone FC,Josh Falkingham,19,England,Central Midfield,CM,,Leeds Reserves,England,0.0,in,winter,Scottish Premiership,2009,False,
+St. Johnstone FC,Jonatan Johansson,34,Finland,Centre-Forward,CF,1250000.0,Without Club,,,in,winter,Scottish Premiership,2009,False,
+St. Johnstone FC,Jonatan Johansson,34,Finland,Centre-Forward,CF,500000.0,TPS,Finland,0.0,out,winter,Scottish Premiership,2009,False,
+St. Johnstone FC,Andy Jackson,22,Ireland,Centre-Forward,CF,250000.0,Arbroath,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Lee Mair,28,Scotland,Centre-Back,CB,400000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Michael Higdon,25,England,Centre-Forward,CF,750000.0,Falkirk,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Chris Innes,32,Scotland,Centre-Back,CB,500000.0,Livingston FC,Scotland,0.0,in,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Paul Gallacher,29,Scotland,Goalkeeper,GK,750000.0,Dunfermline A.,Scotland,,in,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Allan Johnston,35,Scotland,Right Midfield,RM,600000.0,Without Club,,,in,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Chris Smith,24,Scotland,Goalkeeper,GK,300000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Jim Hamilton,33,Scotland,Centre-Forward,CF,450000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Will Haining,26,Scotland,Centre-Back,CB,400000.0,Morecambe FC,England,0.0,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Marc McAusland,20,Scotland,Centre-Back,CB,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Sean Crighton,19,Scotland,Centre-Back,CB,75000.0,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Paul Quinn,19,Scotland,Centre-Forward,CF,,Queen's Park,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Craig Molloy,23,Scotland,Central Midfield,CM,450000.0,Stenhousemuir,Scotland,,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Dennis Wyness,32,Scotland,Centre-Forward,CF,550000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Tonet,30,Spain,Left-Back,LB,225000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Ryan McCay,23,Scotland,Left Midfield,LM,125000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Gary Mason,29,Scotland,Defensive Midfield,DM,375000.0,Without Club,,,out,summer,Scottish Premiership,2009,False,
+St. Mirren FC,Scott Cuthbert,22,Scotland,Centre-Back,CB,300000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2009,True,end of loan
+St. Mirren FC,Rory Loy,21,Scotland,Centre-Forward,CF,275000.0,Rangers,Scotland,0.0,in,winter,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Graham Carey,20,Ireland,Left Winger,LW,,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Stephen McGinn,21,Scotland,Central Midfield,CM,500000.0,Watford,England,340000.0,out,winter,Scottish Premiership,2009,False,
+St. Mirren FC,Paul Quinn,19,Scotland,Centre-Forward,CF,50000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2009,False,
+St. Mirren FC,Paul Quinn,19,Scotland,Centre-Forward,CF,,Queen's Park,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Chris Smith,23,Scotland,Goalkeeper,GK,300000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2009,True,free loan
+St. Mirren FC,Dennis Wyness,32,Scotland,Centre-Forward,CF,300000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,
+St. Mirren FC,Mohammed Camara,34,Guinea,Left-Back,LB,200000.0,Without Club,,,out,winter,Scottish Premiership,2009,False,

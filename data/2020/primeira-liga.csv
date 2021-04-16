@@ -1,0 +1,642 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Belenenses SAD,Afonso Taira,28,Portugal,Defensive Midfield,DM,300000.0,FC Hermannstadt,Romania,0.0,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Cauê,31,Brazil,Defensive Midfield,DM,400000.0,Without Club,,0.0,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Stanislav Kritsyuk,29,Russia,Goalkeeper,GK,2000000.0,Krasnodar,Russia,0.0,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Afonso Sousa,20,Portugal,Left Midfield,LM,525000.0,FC Porto B,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Thibang Phete,26,South Africa,Defensive Midfield,DM,300000.0,Famalicão,Portugal,,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Bruno Ramires,26,Brazil,Central Midfield,CM,200000.0,Feirense,Portugal,,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Miguel Cardoso,26,Portugal,Right Winger,RW,700000.0,Dynamo Moscow,Russia,0.0,in,summer,Primeira Liga,2020,True,free loan
+Belenenses SAD,Richard,20,Brazil,Attacking Midfield,AM,750000.0,Internacional,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Belenenses SAD,Pedro Álvaro,20,Portugal,Centre-Back,CB,450000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+Belenenses SAD,Henrique,33,Brazil,Centre-Back,CB,1600000.0,Without Club,,,in,summer,Primeira Liga,2020,False,
+Belenenses SAD,Ricardo Dias,29,Portugal,Defensive Midfield,DM,300000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Filipe Mendes,35,Portugal,Goalkeeper,GK,50000.0,Real SC,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,André Santos,31,Portugal,Defensive Midfield,DM,600000.0,Grasshoppers,Switzerland,0.0,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Ricardo Ferreira,27,Canada,Centre-Back,CB,475000.0,Farense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Gonçalo Tavares,23,Portugal,Right-Back,RB,100000.0,Cova Piedade,Portugal,,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Nuno Coelho,32,Portugal,Centre-Back,CB,300000.0,Chaves,Portugal,,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Kikas,21,Portugal,Centre-Forward,CF,300000.0,Doxa Katokopias,Cyprus,0.0,out,summer,Primeira Liga,2020,True,free loan
+Belenenses SAD,Licá,31,Portugal,Left Winger,LW,475000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Marco Matias,31,Portugal,Right Winger,RW,550000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Belenenses SAD,Hervé Koffi,23,Burkina Faso,Goalkeeper,GK,800000.0,LOSC Lille,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Belenenses SAD,Imad Faraj,20,France,Right Winger,RW,300000.0,LOSC Lille B,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Belenenses SAD,Show,21,Angola,Defensive Midfield,DM,1300000.0,LOSC Lille,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Belenenses SAD,Nuno Pina Nunes,21,Portugal,Defensive Midfield,DM,250000.0,Chievo Verona,Italy,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Belenenses SAD,Francisco Varela,26,Spain,Left-Back,LB,400000.0,San Fernando CD,Spain,0.0,out,winter,Primeira Liga,2020,False,
+Belenenses SAD,Cauê,31,Brazil,Defensive Midfield,DM,350000.0,Avispa Fukuoka,Japan,0.0,out,winter,Primeira Liga,2020,False,
+Belenenses SAD,Robinho,23,Portugal,Second Striker,SS,300000.0,Penafiel,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Belenenses SAD,Edi Semedo,21,Portugal,Centre-Forward,CF,200000.0,Mafra,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Boavista FC,Reggie Cannon,22,United States,Right-Back,RB,3000000.0,FC Dallas,United States,2500000.0,in,summer,Primeira Liga,2020,False,
+Boavista FC,Alberth Elis,24,Honduras,Right Winger,RW,3500000.0,Houston,United States,1000000.0,in,summer,Primeira Liga,2020,False,
+Boavista FC,Jackson Porozo,20,Ecuador,Centre-Back,CB,300000.0,Santos FC U20,Brazil,500000.0,in,summer,Primeira Liga,2020,False,
+Boavista FC,Javi García,33,Spain,Defensive Midfield,DM,1600000.0,Real Betis,Spain,0.0,in,summer,Primeira Liga,2020,False,
+Boavista FC,Cristian Devenish,19,Colombia,Centre-Back,CB,,Nacional U20,Colombia,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Adil Rami,34,France,Centre-Back,CB,500000.0,Sochi,Russia,0.0,in,summer,Primeira Liga,2020,False,
+Boavista FC,Cristian,18,Brazil,Goalkeeper,GK,,Atlético-MG U20,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Yanis Hamache,21,France,Left-Back,LB,,OGC Nice,France,,in,summer,Primeira Liga,2020,False,
+Boavista FC,Musa Juwara,18,The Gambia,Left Winger,LW,2000000.0,Bologna,Italy,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Nathan,19,Brazil,Right-Back,RB,,Vasco U20,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Sebastián Pérez,27,Colombia,Central Midfield,CM,650000.0,Boca Juniors,Argentina,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Chidozie Awaziem,23,Nigeria,Centre-Back,CB,6000000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Léo Jardim,25,Brazil,Goalkeeper,GK,3200000.0,LOSC Lille,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Alejandro Gómez,18,Mexico,Centre-Back,CB,,Atlas U20,Mexico,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Nuno Santos,21,Portugal,Central Midfield,CM,1300000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Jorge Benguche,24,Honduras,Centre-Forward,CF,300000.0,Olimpia,Honduras,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Show,21,Angola,Defensive Midfield,DM,1300000.0,LOSC Lille,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Ricardo Mangas,22,Portugal,Left-Back,LB,450000.0,Desportivo Aves,Portugal,,in,summer,Primeira Liga,2020,False,
+Boavista FC,Angel Gomes,19,England,Attacking Midfield,AM,3600000.0,LOSC Lille,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+Boavista FC,Helton Leite,29,Brazil,Goalkeeper,GK,550000.0,Benfica,Portugal,1500000.0,out,summer,Primeira Liga,2020,False,
+Boavista FC,Carraça,27,Portugal,Right-Back,RB,650000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Boavista FC,Edu Machado,30,Portugal,Right-Back,RB,300000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Boavista FC,Yaw Ackah,21,Ghana,Central Midfield,CM,725000.0,Kayserispor,Turkey,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Cassiano,31,Brazil,Centre-Forward,CF,300000.0,Vizela,Portugal,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Lucas Tagliapietra,29,Brazil,Centre-Back,CB,450000.0,Portimonense,Portugal,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Idris Mandiang,35,Senegal,Defensive Midfield,DM,100000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Mateus,36,Angola,Left Winger,LW,200000.0,Penafiel,Portugal,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Nwankwo Obiora,29,Nigeria,Defensive Midfield,DM,475000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Ricardo Costa,39,Portugal,Centre-Back,CB,100000.0,Retired,,,out,summer,Primeira Liga,2020,False,
+Boavista FC,Neris,28,Brazil,Centre-Back,CB,1200000.0,Barra FC (SC),Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Boavista FC,Fernando Cardozo,19,Paraguay,Left Winger,LW,100000.0,Olimpia,Paraguay,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Boavista FC,Heriberto Tavares,23,Portugal,Right Winger,RW,2200000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Boavista FC,Marlon,23,Brazil,Left-Back,LB,1200000.0,Fluminense,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Boavista FC,Juninho,24,Brazil,Right Midfield,RM,300000.0,Chaves,Portugal,,in,winter,Primeira Liga,2020,False,
+Boavista FC,Alberto Bueno,32,Spain,Second Striker,SS,300000.0,Volos NPS,Greece,0.0,out,winter,Primeira Liga,2020,False,
+Boavista FC,Gustavo Dulanto,25,Peru,Centre-Back,CB,400000.0,FC Sheriff,Moldova,0.0,out,winter,Primeira Liga,2020,False,
+CD Nacional,Vladan Danilovic,21,Bosnia-Herzegovina,Defensive Midfield,DM,500000.0,B. Banja Luka,Bosnia-Herzegovina,500000.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Gergely Bobál,24,Hungary,Centre-Forward,CF,250000.0,Zalaegerszeg,Hungary,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Riccardo Piscitelli,26,Italy,Goalkeeper,GK,475000.0,Dinamo,Romania,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Rúben Freitas,27,Portugal,Right-Back,RB,350000.0,Mafra,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Larry Azouni,26,Tunisia,Central Midfield,CM,550000.0,KV Kortrijk,Belgium,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,João Vigário,24,Portugal,Left-Back,LB,200000.0,Tondela,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Rui Encarnação,22,Portugal,Goalkeeper,GK,,Machico,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Nacional,Vincent Koziello,24,France,Central Midfield,CM,1200000.0,1. FC Köln,Germany,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Lucas Kal,24,Brazil,Centre-Back,CB,50000.0,São Paulo,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Nacional,João Victor Lima Ferreira,21,Brazil,Right Winger,RW,,Osasco-SP,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Pedrão,23,Brazil,Centre-Back,CB,50000.0,Palmeiras,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Vincent Thill,20,Luxembourg,Attacking Midfield,AM,1800000.0,FC Metz,France,,in,summer,Primeira Liga,2020,False,
+CD Nacional,Chico Ramos,25,Portugal,Central Midfield,CM,900000.0,Vit. Guimarães,Portugal,,in,summer,Primeira Liga,2020,False,
+CD Nacional,Diogo Coelho,26,Portugal,Centre-Back,CB,150000.0,Vilafranquense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Nacional,Vítor Gonçalves,28,Portugal,Attacking Midfield,AM,275000.0,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Nacional,Kaká,29,Brazil,Attacking Midfield,AM,100000.0,Mafra,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Nacional,Jota Garcês,27,Portugal,Attacking Midfield,AM,225000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Nacional,João Fernandes,19,Portugal,Right Winger,RW,75000.0,Camacha,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Seung-jun Lee,20,"Korea, South",Right-Back,RB,50000.0,Camacha,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Wan Cho,19,"Korea, South",Attacking Midfield,AM,,Câmara Lobos,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Nacional,Gauther,28,Brazil,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CD Nacional,Ohoulo Framelin,23,Cameroon,Goalkeeper,GK,75000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CD Nacional,Nuno Campos,27,Portugal,Right-Back,RB,150000.0,Mafra,Portugal,,out,summer,Primeira Liga,2020,False,
+CD Nacional,Felipe Lopes,32,Brazil,Centre-Back,CB,100000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CD Nacional,Geraldo,27,Mozambique,Defensive Midfield,DM,,LD Maputo,Mozambique,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Anthony Sosa,23,Uruguay,Left Midfield,LM,100000.0,Progreso,Uruguay,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Leonel Mosevich,23,Argentina,Centre-Back,CB,200000.0,Argentinos II,Argentina,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Marco Borgnino,22,Argentina,Left Winger,LW,300000.0,Rafaela,Argentina,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Paulo Vyctor,24,Brazil,Centre-Forward,CF,125000.0,Floresta-CE,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Malick Evouna,27,Gabon,Centre-Forward,CF,325000.0,Santa Clara,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,João Vigário,24,Portugal,Left-Back,LB,150000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Nacional,Dudu,21,Brazil,Centre-Forward,CF,50000.0,Marinhense,Portugal,,in,winter,Primeira Liga,2020,False,
+CD Nacional,Pedro Mendes,21,Portugal,Centre-Forward,CF,500000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+CD Nacional,Marco Matias,31,Portugal,Right Winger,RW,500000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+CD Nacional,Éber Bessa,28,Brazil,Left Midfield,LM,700000.0,Botafogo,Brazil,,in,winter,Primeira Liga,2020,False,
+CD Nacional,Seydou Sy,25,Senegal,Goalkeeper,GK,325000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+CD Nacional,António Filipe,35,Portugal,Goalkeeper,GK,75000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+CD Nacional,Aleksandar Palocevic,27,Serbia,Attacking Midfield,AM,1000000.0,FC Seoul,"Korea, South",1000000.0,out,winter,Primeira Liga,2020,False,
+CD Nacional,Marcelo Freitas,26,Brazil,Attacking Midfield,AM,100000.0,Londrina-PR,Brazil,0.0,out,winter,Primeira Liga,2020,False,
+CD Nacional,João Fernandes,20,Portugal,Right Winger,RW,75000.0,Santarém,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+CD Nacional,Wan Cho,19,"Korea, South",Attacking Midfield,AM,,Chuncheon FC,"Korea, South",,out,winter,Primeira Liga,2020,False,
+CD Nacional,Giorgi Arabidze,22,Georgia,Right Winger,RW,450000.0,Rotor Volgograd,Russia,0.0,out,winter,Primeira Liga,2020,True,free loan
+CD Santa Clara,Júlio Romão,22,Brazil,Defensive Midfield,DM,,Santa Cruz,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Mikel Villanueva,27,Venezuela,Centre-Back,CB,475000.0,Málaga CF,Spain,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Gustavo Viera,19,Uruguay,Centre-Forward,CF,200000.0,Liverpool FC,Uruguay,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,André Mesquita,22,Portugal,Right Winger,RW,25000.0,Marítimo B,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Shahriar Moghanlou,25,Iran,Centre-Forward,CF,300000.0,Paykan FC,Iran,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Cristian González,24,Uruguay,Centre-Back,CB,400000.0,Sevilla Atl.,Spain,0.0,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Mansur,27,Brazil,Left-Back,LB,550000.0,Atlético-MG B,Brazil,,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Jean Patric,23,Brazil,Right Winger,RW,300000.0,Académico Viseu,Portugal,,in,summer,Primeira Liga,2020,False,
+CD Santa Clara,Zaidu Sanusi,23,Nigeria,Left-Back,LB,2500000.0,FC Porto,Portugal,4000000.0,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Guilherme Schettine,24,Brazil,Centre-Forward,CF,800000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,César Martins,27,Brazil,Centre-Back,CB,500000.0,Farense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Steven Pereira,26,Cape Verde,Centre-Back,CB,250000.0,Oliveirense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Zé Manuel,29,Portugal,Centre-Forward,CF,400000.0,Gaz Metan,Romania,0.0,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Pablo,27,Brazil,Right Winger,RW,200000.0,Guarani,Brazil,,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Ricardinho,21,Portugal,Attacking Midfield,AM,,Torreense,Portugal,,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Rodrigo Simão,19,Portugal,Centre-Forward,CF,,Operário,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Santa Clara,Diogo Motty,20,Portugal,Left Winger,LW,,Mirandela,Portugal,,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Bruno Lamas,26,Brazil,Attacking Midfield,AM,600000.0,Khor Fakkan,United Arab Emirates,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Santa Clara,Denis Pineda,25,El Salvador,Left Midfield,LM,250000.0,Técnico U.,Ecuador,,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Muhammad Candé,28,Guinea-Bissau,Left-Back,LB,400000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CD Santa Clara,Chico Ramos,25,Portugal,Central Midfield,CM,650000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Santa Clara,Hidemasa Morita,25,Japan,Defensive Midfield,DM,1300000.0,Kawasaki Front.,Japan,0.0,in,winter,Primeira Liga,2020,False,
+CD Santa Clara,Rúben Oliveira,26,Portugal,Attacking Midfield,AM,325000.0,Without Club,,0.0,in,winter,Primeira Liga,2020,False,
+CD Santa Clara,Rui Costa,24,Portugal,Centre-Forward,CF,400000.0,Dep. La Coruña,Spain,0.0,in,winter,Primeira Liga,2020,False,
+CD Santa Clara,Allano,25,Brazil,Right Winger,RW,650000.0,Estoril Praia,Portugal,,in,winter,Primeira Liga,2020,False,
+CD Santa Clara,Thiago,27,Brazil,Centre-Forward,CF,1000000.0,Shimizu S-Pulse,Japan,2000000.0,out,winter,Primeira Liga,2020,False,
+CD Santa Clara,Shahriar Moghanlou,26,Iran,Centre-Forward,CF,300000.0,Persepolis,Iran,50000.0,out,winter,Primeira Liga,2020,True,loan with fee
+CD Santa Clara,Malick Evouna,27,Gabon,Centre-Forward,CF,250000.0,CS Sfaxien,Tunisia,0.0,out,winter,Primeira Liga,2020,False,
+CD Santa Clara,Osama Rashid,29,Iraq,Central Midfield,CM,1200000.0,Gaziantep FK,Turkey,,out,winter,Primeira Liga,2020,False,
+CD Santa Clara,André Mesquita,23,Portugal,Right Winger,RW,100000.0,Mafra,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+CD Tondela,Naoufel Khacef,22,Algeria,Left-Back,LB,350000.0,NA Hussein Dey,Algeria,185000.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Salvador Agra,28,Portugal,Right Winger,RW,200000.0,Legia Warszawa,Poland,0.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Pedro Trigueira,32,Portugal,Goalkeeper,GK,200000.0,Moreirense,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Rafael Barbosa,24,Portugal,Left Midfield,LM,350000.0,Sporting CP U23,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Bebeto,30,Brazil,Right-Back,RB,400000.0,Marítimo,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Souleymane Anne,22,Mauritania,Centre-Forward,CF,75000.0,Guingamp,France,0.0,in,summer,Primeira Liga,2020,False,
+CD Tondela,Jaume Grau,23,Spain,Central Midfield,CM,300000.0,CA Osasuna,Spain,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Tondela,Mario González,24,Spain,Left Winger,LW,325000.0,Villarreal,Spain,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Tondela,Abdel Medioub,23,Algeria,Centre-Back,CB,300000.0,G. Bordeaux B,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Tondela,Enzo Martínez,22,Uruguay,Centre-Back,CB,525000.0,Peñarol,Uruguay,0.0,in,summer,Primeira Liga,2020,True,free loan
+CD Tondela,Xavier,28,Portugal,Left Winger,LW,800000.0,Panathinaikos,Greece,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Cláudio Ramos,28,Portugal,Goalkeeper,GK,1600000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Marko Petkovic,27,Serbia,Right-Back,RB,325000.0,Without Club,,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,João Vigário,24,Portugal,Left-Back,LB,200000.0,Nacional,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,João Reis,28,Portugal,Left Midfield,LM,200000.0,Chaves,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Fahd Moufi,24,Morocco,Right-Back,RB,800000.0,Portimonense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Manu Sánchez,24,Spain,Right-Back,RB,250000.0,R. Majadahonda,Spain,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Ricardo Valente,29,Portugal,Left Winger,LW,350000.0,Gaz Metan,Romania,0.0,out,summer,Primeira Liga,2020,False,
+CD Tondela,Philipe Sampaio,25,Brazil,Centre-Back,CB,475000.0,Guingamp,France,,out,summer,Primeira Liga,2020,False,
+CD Tondela,Manuel Garruço,21,Portugal,Central Midfield,CM,,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+CD Tondela,Diogo Silva,27,Portugal,Goalkeeper,GK,100000.0,Fafe,Portugal,,out,summer,Primeira Liga,2020,False,
+CD Tondela,Pité,25,Portugal,Left Midfield,LM,300000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CD Tondela,Richard,20,Brazil,Attacking Midfield,AM,625000.0,Internacional,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Tondela,Jonathan Toro,23,Honduras,Second Striker,SS,550000.0,SD Huesca,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Tondela,Pepelu,21,Spain,Defensive Midfield,DM,900000.0,Levante,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Tondela,Ronan,25,Brazil,Centre-Forward,CF,300000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CD Tondela,Roberto Olabe,24,Spain,Central Midfield,CM,700000.0,SD Eibar,Spain,0.0,in,winter,Primeira Liga,2020,True,free loan
+CD Tondela,Rubilio Castillo,29,Honduras,Centre-Forward,CF,200000.0,Royal Pari,Bolivia,,out,winter,Primeira Liga,2020,False,
+CD Tondela,Rúben Fonseca,20,Portugal,Centre-Forward,CF,200000.0,Salgueiros,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+CD Tondela,João Mendes,26,Portugal,Attacking Midfield,AM,200000.0,Estoril Praia,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+CS Marítimo,Rafik Guitane,21,France,Attacking Midfield,AM,2700000.0,Stade Rennais,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+CS Marítimo,Rúben Macedo,24,Portugal,Left Winger,LW,300000.0,Desportivo Aves,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Marcelo Hermes,25,Brazil,Left-Back,LB,475000.0,Cruzeiro,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Ali Alipour,24,Iran,Centre-Forward,CF,800000.0,Persepolis,Iran,0.0,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Jean,25,Brazil,Defensive Midfield,DM,550000.0,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Faiq Bolkiah,22,Brunei Darussalam,Right Winger,RW,,Leicester U23,England,0.0,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Francois-Xavier Fumu Tamuzo,25,France,Right Winger,RW,325000.0,AS Béziers,France,,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Joel Tagueu,26,Cameroon,Centre-Forward,CF,900000.0,Cruzeiro,Brazil,,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Caio Secco,29,Brazil,Goalkeeper,GK,325000.0,Feirense,Portugal,,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Cláudio Winck,26,Brazil,Right-Back,RB,700000.0,Vasco da Gama,Brazil,,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Marcelinho,24,Brazil,Second Striker,SS,325000.0,Vizela,Portugal,,in,summer,Primeira Liga,2020,False,
+CS Marítimo,Getterson,29,Brazil,Centre-Forward,CF,400000.0,Al-Ain,Saudi Arabia,1000000.0,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Marcão,24,Brazil,Centre-Back,CB,200000.0,Sampaio Corrêa,Brazil,0.0,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Fabrício Baiano,28,Brazil,Defensive Midfield,DM,550000.0,C. Rizespor,Turkey,0.0,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Erivaldo,26,Portugal,Right Winger,RW,300000.0,PFC Beroe,Bulgaria,0.0,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Bebeto,30,Brazil,Right-Back,RB,400000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+CS Marítimo,João Gamboa,23,Portugal,Defensive Midfield,DM,400000.0,Estoril Praia,Portugal,,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Nanú,26,Guinea-Bissau,Right-Back,RB,1300000.0,FC Porto,Portugal,,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Leandro Barrera,29,Argentina,Left Midfield,LM,200000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Rúben,30,Portugal,Left-Back,LB,400000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+CS Marítimo,Daizen Maeda,22,Japan,Second Striker,SS,800000.0,Matsumoto Yama.,Japan,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CS Marítimo,Joel Tagueu,26,Cameroon,Centre-Forward,CF,900000.0,Cruzeiro,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CS Marítimo,Xadas,22,Portugal,Attacking Midfield,AM,2800000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+CS Marítimo,Stefano Beltrame,27,Italy,Attacking Midfield,AM,300000.0,CSKA-Sofia,Bulgaria,0.0,in,winter,Primeira Liga,2020,False,
+CS Marítimo,Sassá,27,Brazil,Centre-Forward,CF,1300000.0,Cruzeiro,Brazil,0.0,in,winter,Primeira Liga,2020,True,free loan
+CS Marítimo,Andreas Karo,24,Cyprus,Centre-Back,CB,500000.0,Lazio,Italy,,in,winter,Primeira Liga,2020,False,
+CS Marítimo,Tim Söderström,27,Sweden,Left-Back,LB,500000.0,Hammarby,Sweden,,in,winter,Primeira Liga,2020,False,
+CS Marítimo,Marcelinho,24,Brazil,Second Striker,SS,325000.0,Vizela,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+CS Marítimo,Dejan Kerkez,25,Serbia,Centre-Back,CB,500000.0,Mafra,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Famalicão,Ivan Zlobin,23,Russia,Goalkeeper,GK,1200000.0,Benfica,Portugal,1000000.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Iván Jaime,19,Spain,Central Midfield,CM,200000.0,A. Malagueño,Spain,500000.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Dani Morer,22,Spain,Right-Back,RB,300000.0,FC Barcelona B,Spain,400000.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Joaquín Pereyra,21,Argentina,Central Midfield,CM,450000.0,CA Rosario,Argentina,100000.0,in,summer,Primeira Liga,2020,True,loan with fee
+FC Famalicão,Diogo Queirós,21,Portugal,Centre-Back,CB,3200000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Vaná Alves,29,Brazil,Goalkeeper,GK,800000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Calvin Verdonk,23,Netherlands,Left-Back,LB,1600000.0,Feyenoord,Netherlands,0.0,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Henrique Trevisan,23,Brazil,Centre-Back,CB,100000.0,Estoril Praia,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Srdjan Babic,24,Serbia,Centre-Back,CB,1400000.0,Red Star,Serbia,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Bruno Jordão,21,Portugal,Central Midfield,CM,2300000.0,Wolves,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Jhonata Robert,20,Brazil,Left Winger,LW,,Grêmio B,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Leonardo Campana,20,Ecuador,Centre-Forward,CF,1800000.0,Wolves,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Gil Dias,23,Portugal,Right Winger,RW,3200000.0,Monaco,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Edwin Herrera,22,Colombia,Right-Back,RB,525000.0,Indep. Santa Fe,Colombia,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Marcello Trotta,28,Italy,Centre-Forward,CF,850000.0,Frosinone,Italy,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Dyego Sousa,31,Portugal,Centre-Forward,CF,3000000.0,Shenzhen FC,China,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Carlos Valenzuela,23,Argentina,Left Winger,LW,1200000.0,Barracas C.,Argentina,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Andrija Lukovic,25,Serbia,Central Midfield,CM,300000.0,Without Club,,,in,summer,Primeira Liga,2020,False,
+FC Famalicão,Pedro Gonçalves,22,Portugal,Attacking Midfield,AM,7000000.0,Sporting CP,Portugal,6500000.0,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Toni Martínez,23,Spain,Centre-Forward,CF,7000000.0,FC Porto,Portugal,3200000.0,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Rafael Defendi,36,Brazil,Goalkeeper,GK,100000.0,Farense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Luís Rocha,33,Portugal,Centre-Back,CB,100000.0,Chaves,Portugal,,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Thibang Phete,26,South Africa,Defensive Midfield,DM,300000.0,Belenenses SAD,Portugal,,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Hugo Gomes,25,Brazil,Centre-Back,CB,250000.0,Estoril Praia,Portugal,,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Walterson Silva,25,Brazil,Left Winger,LW,600000.0,Moreirense,Portugal,,out,summer,Primeira Liga,2020,False,
+FC Famalicão,Lawrence Ofori,22,Ghana,Central Midfield,CM,300000.0,Arouca,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Gabriel Souza,23,Brazil,Goalkeeper,GK,75000.0,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Famalicão,Fábio Martins,27,Portugal,Left Winger,LW,3200000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Diogo Gonçalves,23,Portugal,Right-Back,RB,1600000.0,Benfica,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Álex Centelles,20,Spain,Left-Back,LB,4500000.0,Valencia,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Nehuén Pérez,20,Argentina,Centre-Back,CB,6700000.0,Atlético Madrid,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Josh Tymon,20,England,Left-Back,LB,1500000.0,Stoke City,England,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Nicolás Schiappacasse,21,Uruguay,Left Winger,LW,800000.0,Atl. Madrid B,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Uros Racic,22,Serbia,Central Midfield,CM,2300000.0,Valencia,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Vaná Alves,29,Brazil,Goalkeeper,GK,475000.0,FC Porto,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Roderick Miranda,29,Portugal,Centre-Back,CB,1200000.0,Wolves,England,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Racine Coly,24,Senegal,Left-Back,LB,2000000.0,OGC Nice,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Ibrahim Cissé,21,Cote d'Ivoire,Centre-Back,CB,450000.0,OGC Nice B,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Famalicão,Manuel Ugarte,19,Uruguay,Defensive Midfield,DM,3000000.0,CA Fénix,Uruguay,3000000.0,in,winter,Primeira Liga,2020,False,
+FC Famalicão,Ivo Rodrigues,25,Portugal,Left Winger,LW,1000000.0,Royal Antwerp,Belgium,0.0,in,winter,Primeira Liga,2020,False,
+FC Famalicão,Rúben Vinagre,21,Portugal,Left-Back,LB,9000000.0,Wolves,England,0.0,in,winter,Primeira Liga,2020,True,free loan
+FC Famalicão,Alexandre Guedes,26,Portugal,Centre-Forward,CF,1200000.0,Vit. Guimarães,Portugal,,in,winter,Primeira Liga,2020,False,
+FC Famalicão,Bozhidar Kraev,23,Bulgaria,Attacking Midfield,AM,1500000.0,FC Midtjylland,Denmark,0.0,in,winter,Primeira Liga,2020,True,free loan
+FC Famalicão,Heriberto Tavares,23,Portugal,Right Winger,RW,1700000.0,Stade Brest 29,France,0.0,in,winter,Primeira Liga,2020,True,free loan
+FC Famalicão,Diogo Figueiras,29,Portugal,Right-Back,RB,800000.0,Braga,Portugal,,in,winter,Primeira Liga,2020,False,
+FC Famalicão,Pêpê,23,Portugal,Central Midfield,CM,4000000.0,Olympiacos,Greece,0.0,in,winter,Primeira Liga,2020,True,free loan
+FC Famalicão,Rúben Lameiras,26,Portugal,Right Winger,RW,2000000.0,Vit. Guimarães,Portugal,,out,winter,Primeira Liga,2020,False,
+FC Famalicão,Guga,23,Portugal,Central Midfield,CM,800000.0,Rio Ave FC,Portugal,,out,winter,Primeira Liga,2020,False,
+FC Famalicão,Rubén Del Campo,20,Switzerland,Centre-Forward,CF,200000.0,CD Numancia,Spain,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Dor Jan,25,Israel,Centre-Forward,CF,600000.0,Bnei Yehuda,Israel,100000.0,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Martín Calderón,21,Spain,Central Midfield,CM,100000.0,RM Castilla,Spain,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Jordi,26,Brazil,Goalkeeper,GK,475000.0,Vasco da Gama,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Pedro Martelo,20,Portugal,Centre-Forward,CF,300000.0,Depor Fabril,Spain,0.0,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Bruno Costa,23,Portugal,Central Midfield,CM,1600000.0,Portimonense,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Lucas Silva,22,Brazil,Left Winger,LW,325000.0,Flamengo,Brazil,,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Luther Singh,23,South Africa,Right Winger,RW,2500000.0,Braga,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,João Pedro,23,Portugal,Centre-Forward,CF,200000.0,Vit. Guimarães,Portugal,,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Michael,25,Brazil,Goalkeeper,GK,400000.0,Atlético-MG,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,David Sualehe,23,Portugal,Left-Back,LB,300000.0,Guimarães B,Portugal,,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Samuel Silvera,19,Australia,Left Winger,LW,50000.0,Central Coast,Australia,,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Fernando Fonseca,23,Portugal,Right-Back,RB,800000.0,Gil Vicente,Portugal,,in,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Pedrinho,27,Portugal,Attacking Midfield,AM,650000.0,Riga,Latvia,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,André Micael,31,Portugal,Centre-Back,CB,250000.0,Varzim,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Bruno Santos,27,Brazil,Right-Back,RB,525000.0,AEL Limassol,Cyprus,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Bruno Teles,34,Brazil,Left-Back,LB,200000.0,Coimbra,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Sodiq Fatai,24,Nigeria,Left Winger,LW,325000.0,Varzim,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Gonçalo Gregório,25,Portugal,Centre-Forward,CF,200000.0,Z. Sosnowiec,Poland,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Vasco Rocha,31,Portugal,Central Midfield,CM,200000.0,Trofense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Samuel Silvera,19,Australia,Left Winger,LW,50000.0,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Ricardo Ribeiro,30,Portugal,Goalkeeper,GK,400000.0,Al-Jabalain,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Marco Ribeiro,25,Portugal,Goalkeeper,GK,100000.0,Paredes,Portugal,,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Nuno Lima,19,Portugal,Centre-Back,CB,,Felgueiras,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Rafael Gava,27,Brazil,Central Midfield,CM,200000.0,Cuiabá-MT,Brazil,,out,summer,Primeira Liga,2020,False,
+FC Paços de Ferreira,Welthon,28,Brazil,Centre-Forward,CF,650000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Paços de Ferreira,Murilo,24,Brazil,Left Winger,LW,650000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+FC Paços de Ferreira,Stephen Eustáquio,24,Canada,Defensive Midfield,DM,4000000.0,CD Cruz Azul,Mexico,2500000.0,in,winter,Primeira Liga,2020,False,
+FC Paços de Ferreira,Cristian Parano,21,Argentina,Attacking Midfield,AM,175000.0,San Antonio FC,United States,0.0,in,winter,Primeira Liga,2020,False,
+FC Paços de Ferreira,Pedro Rebocho,25,Portugal,Left-Back,LB,1400000.0,Guingamp,France,0.0,in,winter,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Oleg Reabciuk,22,Moldova,Left-Back,LB,2000000.0,Olympiacos,Greece,2000000.0,out,winter,Primeira Liga,2020,False,
+FC Paços de Ferreira,Simão Rocha,20,Portugal,Left-Back,LB,100000.0,Real SC,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Pedro Martelo,21,Portugal,Centre-Forward,CF,300000.0,CD Badajoz,Spain,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Samuel Silvera,20,Australia,Left Winger,LW,125000.0,Sanjoanense,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Paços de Ferreira,Paul Ayongo,24,Ghana,Centre-Forward,CF,250000.0,Académico Viseu,Portugal,,out,winter,Primeira Liga,2020,False,
+FC Paços de Ferreira,Bernardo Martins,23,Portugal,Left Winger,LW,300000.0,Covilhã,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Porto,Evanilson,20,Brazil,Centre-Forward,CF,4000000.0,Tombense,Brazil,8700000.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Mehdi Taremi,28,Iran,Centre-Forward,CF,10000000.0,Rio Ave FC,Portugal,4730000.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Zaidu Sanusi,23,Nigeria,Left-Back,LB,2500000.0,Santa Clara,Portugal,4000000.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Toni Martínez,23,Spain,Centre-Forward,CF,7000000.0,Famalicão,Portugal,3200000.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Malang Sarr,21,France,Centre-Back,CB,16000000.0,Chelsea,England,2000000.0,in,summer,Primeira Liga,2020,True,loan with fee
+FC Porto,Carraça,27,Portugal,Right-Back,RB,650000.0,Boavista,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Cláudio Ramos,28,Portugal,Goalkeeper,GK,1600000.0,Tondela,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+FC Porto,Nanú,26,Guinea-Bissau,Right-Back,RB,1300000.0,Marítimo,Portugal,,in,summer,Primeira Liga,2020,False,
+FC Porto,Felipe Anderson,27,Brazil,Left Midfield,LM,25000000.0,West Ham,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Porto,Marko Grujic,24,Serbia,Defensive Midfield,DM,14500000.0,Liverpool,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+FC Porto,Fábio Silva,18,Portugal,Centre-Forward,CF,12000000.0,Wolves,England,40000000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Alex Telles,27,Brazil,Left-Back,LB,40000000.0,Man Utd,England,15000000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Zé Luís,29,Cape Verde,Centre-Forward,CF,8000000.0,Loko Moscow,Russia,5500000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Tiquinho Soares,29,Brazil,Centre-Forward,CF,9000000.0,TJ Jinmen Tiger,China,5400000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Danilo Pereira,29,Portugal,Defensive Midfield,DM,24000000.0,Paris SG,France,4000000.0,out,summer,Primeira Liga,2020,True,loan with fee
+FC Porto,Yordan Osorio,26,Venezuela,Centre-Back,CB,2500000.0,Parma,Italy,4000000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Saidy Janko,24,Switzerland,Right-Back,RB,2000000.0,Real Valladolid,Spain,1900000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Jorge Fernandes,23,Portugal,Centre-Back,CB,800000.0,Vit. Guimarães,Portugal,250000.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Diogo Queirós,21,Portugal,Centre-Back,CB,3200000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Porto,André Pereira,25,Portugal,Centre-Forward,CF,1600000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Vaná Alves,29,Brazil,Goalkeeper,GK,800000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Vincent Aboubakar,28,Cameroon,Centre-Forward,CF,5000000.0,Besiktas,Turkey,0.0,out,summer,Primeira Liga,2020,False,
+FC Porto,Tomás Esteves,18,Portugal,Right-Back,RB,8000000.0,Reading,England,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Porto,Fernando Andrade,27,Brazil,Left Winger,LW,3000000.0,C. Rizespor,Turkey,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Porto,Vitinha,20,Portugal,Central Midfield,CM,5000000.0,Wolves,England,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Porto,Chidozie Awaziem,23,Nigeria,Centre-Back,CB,6000000.0,Boavista,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+FC Porto,Iker Casillas,39,Spain,Goalkeeper,GK,,Retired,,,out,summer,Primeira Liga,2020,False,
+FC Porto,Ewerton,28,Brazil,Central Midfield,CM,1600000.0,Portimonense,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+FC Porto,Shoya Nakajima,26,Japan,Left Midfield,LM,12000000.0,Al-Ain FC,United Arab Emirates,0.0,out,winter,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Antoine Leautey,24,France,Left Winger,LW,475000.0,Chamois Niort,France,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Alaa Abbas,23,Iraq,Centre-Forward,CF,,Al-Zawra'a,Iraq,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Yves Baraye,28,Senegal,Right Winger,RW,550000.0,Parma,Italy,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Diogo Silva,25,Brazil,Centre-Back,CB,,Ypiranga-RS,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Guilherme Mantuan,23,Brazil,Right-Back,RB,400000.0,Corinthians,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Leandrinho,23,Brazil,Attacking Midfield,AM,325000.0,Botafogo,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Tim Hall,23,Luxembourg,Centre-Back,CB,300000.0,Karpaty,Ukraine,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Joao Talocha,30,Portugal,Left-Back,LB,550000.0,Riga,Latvia,0.0,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Souleymane Aw,21,Senegal,Left-Back,LB,150000.0,AS Béziers,France,,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Boubacar Hanne,21,Portugal,Second Striker,SS,200000.0,Wolves U23,England,,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Joel Pereira,23,Portugal,Right-Back,RB,400000.0,Omonia Nikosia,Cyprus,0.0,in,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Daniel Fuzato,23,Brazil,Goalkeeper,GK,400000.0,AS Roma,Italy,0.0,in,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Lucas Mineiro,24,Brazil,Defensive Midfield,DM,1000000.0,Chapecoense,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Miullen,22,Brazil,Centre-Forward,CF,,Londrina-PR,Brazil,,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Renan Oliveira,23,Brazil,Centre-Forward,CF,400000.0,PFK Lviv,Ukraine,0.0,in,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Kanya Fujimoto,21,Japan,Right Winger,RW,450000.0,Tokyo Verdy,Japan,0.0,in,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Juan Villa,21,Colombia,Attacking Midfield,AM,100000.0,Berço,Portugal,,in,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Arthur Henrique,26,Brazil,Left-Back,LB,475000.0,Ferroviária,Brazil,0.0,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Manuel Lopes,20,Portugal,Centre-Back,CB,,Espinho,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Rúben Ribeiro,33,Portugal,Central Midfield,CM,800000.0,Hatayspor,Turkey,0.0,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,William Soares,31,Brazil,Defensive Midfield,DM,400000.0,CFR Cluj,Romania,0.0,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Edwin Banguera,24,Colombia,Left-Back,LB,200000.0,Covilhã,Portugal,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Leo Cordeiro,24,Brazil,Attacking Midfield,AM,150000.0,Vilafranquense,Portugal,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Wellington Luís,25,Brazil,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Romário Baldé,23,Guinea-Bissau,Centre-Forward,CF,325000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Fernando Fonseca,23,Portugal,Right-Back,RB,800000.0,Paços Ferreira,Portugal,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Hugo Vieira,32,Portugal,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Gil Vicente FC,Alex Pinto,21,Portugal,Right-Back,RB,725000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Bruno,26,Brazil,Goalkeeper,GK,100000.0,Náutico,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Bozhidar Kraev,23,Bulgaria,Attacking Midfield,AM,1200000.0,FC Midtjylland,Denmark,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Zakaria Naidji,25,Algeria,Centre-Forward,CF,650000.0,Paradou AC,Algeria,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Yves Baraye,28,Senegal,Right Winger,RW,550000.0,Parma,Italy,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Sandro Lima,29,Brazil,Centre-Forward,CF,725000.0,Anápolis-GO,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Gil Vicente FC,Paulinho,29,Portugal,Right-Back,RB,800000.0,AEK Athens,Greece,0.0,in,winter,Primeira Liga,2020,False,
+Gil Vicente FC,Pedrinho,28,Portugal,Attacking Midfield,AM,500000.0,Riga,Latvia,,in,winter,Primeira Liga,2020,False,
+Gil Vicente FC,Pedro Marques,22,Portugal,Centre-Forward,CF,550000.0,Sporting B,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Edwin Banguera,24,Colombia,Left-Back,LB,200000.0,Covilhã,Portugal,,in,winter,Primeira Liga,2020,False,
+Gil Vicente FC,Quentin Beunardeau,26,France,Goalkeeper,GK,500000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+Gil Vicente FC,Tim Hall,23,Luxembourg,Centre-Back,CB,300000.0,Wisla Kraków,Poland,0.0,out,winter,Primeira Liga,2020,False,
+Gil Vicente FC,Ahmed Isaiah,25,Nigeria,Second Striker,SS,100000.0,Varzim,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Juan Villa,21,Colombia,Attacking Midfield,AM,100000.0,Berço,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Gil Vicente FC,Leandrinho,24,Brazil,Attacking Midfield,AM,250000.0,Operário-PR,Brazil,,out,winter,Primeira Liga,2020,False,
+Moreirense FC,Miguel Oliveira,26,Portugal,Goalkeeper,GK,100000.0,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Mateus Pasinato,28,Brazil,Goalkeeper,GK,550000.0,Piracicaba,Brazil,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Pedro Amador,21,Portugal,Left-Back,LB,350000.0,Braga,Portugal,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Nahuel Ferraresi,21,Venezuela,Centre-Back,CB,525000.0,Man City U23,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Yan,21,Brazil,Right Winger,RW,200000.0,Palmeiras,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Kewin,25,Brazil,Goalkeeper,GK,,Mirassol-SP,Brazil,0.0,in,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Derik Lacerda,20,Brazil,Centre-Forward,CF,,Coimbra,Portugal,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Matheus Silva,22,Brazil,Right-Back,RB,325000.0,EC Bahia,Brazil,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Gonçalo Franco,19,Portugal,Attacking Midfield,AM,100000.0,Leixões,Portugal,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Felipe Pires,25,Brazil,Left Winger,LW,725000.0,TSG Hoffenheim,Germany,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Reynaldo,23,Brazil,Centre-Back,CB,50000.0,Juventude,Brazil,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,David Tavares,21,Portugal,Attacking Midfield,AM,725000.0,Benfica B,Portugal,0.0,in,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Walterson Silva,25,Brazil,Left Winger,LW,600000.0,Famalicão,Portugal,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Galego,23,Brazil,Attacking Midfield,AM,,Portuguesa-SP,Brazil,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,André Luis,26,Brazil,Centre-Forward,CF,350000.0,Chaves,Portugal,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Afonso Figueiredo,27,Portugal,Left-Back,LB,475000.0,Without Club,,,in,summer,Primeira Liga,2020,False,
+Moreirense FC,Fabio Abreu,27,Angola,Centre-Forward,CF,1500000.0,Al-Batin,Saudi Arabia,2500000.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Ricardo Almeida,23,Portugal,Centre-Forward,CF,100000.0,ARC Oleiros,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Nenê,37,Brazil,Centre-Forward,CF,100000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Iago Santos,28,Brazil,Centre-Back,CB,475000.0,Al-Taawoun FC,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,João Aurélio,32,Portugal,Right-Back,RB,600000.0,Pafos FC,Cyprus,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Pedro Trigueira,32,Portugal,Goalkeeper,GK,200000.0,Tondela,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Elsinho,24,Portugal,Attacking Midfield,AM,,Beira-Mar,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Caleb Gomina,23,Ghana,Centre-Forward,CF,,Paredes,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,João Sousa,26,Portugal,Centre-Back,CB,,Amora FC,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Nuno Macedo,21,Portugal,Goalkeeper,GK,100000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Bruno Silva,27,Brazil,Left-Back,LB,200000.0,Mafra,Portugal,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Rúben Ramos,21,Portugal,Defensive Midfield,DM,,Mafra,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Malik Abubakari,20,Ghana,Centre-Forward,CF,100000.0,Casa Pia,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Iddriss Mohammed,20,Ghana,Central Midfield,CM,100000.0,Leiria,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Luís Machado,27,Portugal,Left Winger,LW,400000.0,NorthEast Utd.,India,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Luiz Henrique,23,Brazil,Attacking Midfield,AM,200000.0,Oliveirense,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Gustavo Moura,24,Brazil,Centre-Forward,CF,150000.0,Mafra,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Moreirense FC,Bilel Aouacheria,26,France,Right Winger,RW,475000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,David Texeira,29,Uruguay,Centre-Forward,CF,325000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Rafik Halliche,33,Algeria,Centre-Back,CB,200000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Djavan,32,Brazil,Left-Back,LB,200000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Moreirense FC,Gabrielzinho,23,Brazil,Right Winger,RW,475000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Moreirense FC,Mateus Pasinato,28,Brazil,Goalkeeper,GK,550000.0,Piracicaba,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Moreirense FC,Luther Singh,22,South Africa,Right Winger,RW,2400000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Moreirense FC,Nuno Santos,21,Portugal,Central Midfield,CM,1300000.0,Benfica B,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Moreirense FC,Abdoulaye Ba,30,Senegal,Centre-Back,CB,400000.0,Dinamo,Romania,0.0,in,winter,Primeira Liga,2020,False,
+Moreirense FC,David Simão,30,Portugal,Central Midfield,CM,300000.0,AEK Athens,Greece,0.0,in,winter,Primeira Liga,2020,True,free loan
+Moreirense FC,Rafael Martins,31,Brazil,Centre-Forward,CF,400000.0,ZJ FC,China,,in,winter,Primeira Liga,2020,False,
+Moreirense FC,Luiz Henrique,23,Brazil,Attacking Midfield,AM,175000.0,Náutico,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Welinton Junior,27,Brazil,Right Winger,RW,725000.0,Without Club,,0.0,in,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Júlio César,26,Brazil,Left Winger,LW,400000.0,Atlético-GO,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Fahd Moufi,24,Morocco,Right-Back,RB,800000.0,Tondela,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Rômulo,24,Brazil,Defensive Midfield,DM,400000.0,Londrina-PR,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Fabrício,30,Brazil,Centre-Forward,CF,2500000.0,Urawa Reds,Japan,0.0,in,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Maurício Antônio,28,Brazil,Centre-Back,CB,1300000.0,Urawa Reds,Japan,0.0,in,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Lucas Tagliapietra,29,Brazil,Centre-Back,CB,450000.0,Boavista,Portugal,,in,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Safawi Rasid,23,Malaysia,Right Winger,RW,300000.0,Johor DT,Malaysia,0.0,in,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Tabata,23,Brazil,Right Winger,RW,4000000.0,Sporting CP,Portugal,500000.0,out,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Felipe Macedo,26,Brazil,Centre-Back,CB,225000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Leonardo,27,Brazil,Goalkeeper,GK,175000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Carlos Henriques,26,Portugal,Goalkeeper,GK,300000.0,Mafra,Portugal,,out,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Bruno Costa,23,Portugal,Central Midfield,CM,1600000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Jean Felipe,26,Brazil,Right-Back,RB,200000.0,Covilhã,Portugal,,out,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Brendon Lucas,25,Brazil,Centre-Back,CB,325000.0,Leixões,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Gleison,25,Brazil,Second Striker,SS,300000.0,Covilhã,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Jackson Martínez,33,Colombia,Centre-Forward,CF,1600000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Rômulo,24,Brazil,Defensive Midfield,DM,600000.0,Londrina-PR,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Rodrigo,22,Brazil,Centre-Back,CB,300000.0,São Paulo,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Marlos Moreno,23,Colombia,Right Winger,RW,325000.0,Man City,England,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Júnior Tavares,23,Brazil,Left-Back,LB,725000.0,São Paulo,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Evans Mensah,22,Ghana,Left Winger,LW,200000.0,Al-Duhail SC,Qatar,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Mohanad Ali,20,Iraq,Centre-Forward,CF,800000.0,Al-Duhail SC,Qatar,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Portimonense Futebol SAD,Kosuke Nakamura,25,Japan,Goalkeeper,GK,1200000.0,Kashiwa Reysol,Japan,0.0,in,winter,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Bruno Moreira,33,Portugal,Centre-Forward,CF,300000.0,Rio Ave FC,Portugal,,in,winter,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Ewerton,28,Brazil,Central Midfield,CM,1600000.0,FC Porto,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Denis Will Poha,23,France,Central Midfield,CM,700000.0,Vit. Guimarães,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Seung-woo Lee,23,"Korea, South",Left Winger,LW,600000.0,Sint-Truiden,Belgium,0.0,in,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Jafar Salmani,23,Iran,Left Winger,LW,325000.0,Sanat Naft,Iran,,in,winter,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Giannelli Imbula,28,DR Congo,Defensive Midfield,DM,1500000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+Portimonense Futebol SAD,Shuichi Gonda,31,Japan,Goalkeeper,GK,300000.0,Shimizu S-Pulse,Japan,1000000.0,out,winter,Primeira Liga,2020,True,loan with fee
+Portimonense Futebol SAD,Welinton Junior,27,Brazil,Right Winger,RW,800000.0,Shonan Bellmare,Japan,1000000.0,out,winter,Primeira Liga,2020,True,loan with fee
+Portimonense Futebol SAD,Jadson,29,Brazil,Centre-Back,CB,400000.0,WH Three Towns,China,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Iury,25,Brazil,Centre-Forward,CF,450000.0,CSA,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Fernando Medeiros,25,Brazil,Central Midfield,CM,250000.0,Ituano,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Júlio César,26,Brazil,Left Winger,LW,300000.0,Guarani,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Rômulo,25,Brazil,Defensive Midfield,DM,200000.0,Brasil-RS,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Jadson,29,Brazil,Centre-Back,CB,600000.0,Vasco da Gama,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Portimonense Futebol SAD,Ruster,24,Brazil,Left Midfield,LM,,Without Club,,,out,winter,Primeira Liga,2020,False,
+Rio Ave FC,Aderllan Santos,31,Brazil,Centre-Back,CB,2000000.0,Ahli,Saudi Arabia,0.0,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Léo Vieira,29,Brazil,Goalkeeper,GK,50000.0,Athletico-PR,Brazil,0.0,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Gelson Dala,24,Angola,Second Striker,SS,1000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Chico Geraldes,25,Portugal,Attacking Midfield,AM,1000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,André Pereira,25,Portugal,Centre-Forward,CF,1600000.0,FC Porto,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Pelé,29,Guinea-Bissau,Defensive Midfield,DM,2800000.0,Monaco,France,0.0,in,summer,Primeira Liga,2020,True,free loan
+Rio Ave FC,Ryotaro Meshino,22,Japan,Attacking Midfield,AM,450000.0,Man City,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+Rio Ave FC,Ivo Pinto,30,Portugal,Right-Back,RB,1500000.0,Dinamo Zagreb,Croatia,0.0,in,summer,Primeira Liga,2020,True,free loan
+Rio Ave FC,Nando Pijnaker,21,New Zealand,Centre-Back,CB,200000.0,Grasshoppers,Switzerland,,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Fábio Coentrão,32,Portugal,Left-Back,LB,2500000.0,Career break,,,in,summer,Primeira Liga,2020,False,
+Rio Ave FC,Mehdi Taremi,28,Iran,Centre-Forward,CF,10000000.0,FC Porto,Portugal,4730000.0,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Nuno Santos,25,Portugal,Left Winger,LW,4000000.0,Sporting CP,Portugal,3700000.0,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Matheus Reis,26,Brazil,Left-Back,LB,2500000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Jonathan Buatu,26,Angola,Centre-Back,CB,400000.0,Sint-Truiden,Belgium,,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Paulo Vítor,31,Brazil,Goalkeeper,GK,200000.0,Chaves,Portugal,,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Nadjack,26,Guinea-Bissau,Right-Back,RB,475000.0,Grasshoppers,Switzerland,,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Vitó,22,Portugal,Attacking Midfield,AM,200000.0,Casa Pia,Portugal,,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Murilo,24,Brazil,Left Winger,LW,500000.0,Estoril Praia,Portugal,,out,summer,Primeira Liga,2020,False,
+Rio Ave FC,Aderllan Santos,31,Brazil,Centre-Back,CB,2000000.0,Ahli,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Rio Ave FC,Diogo Figueiras,29,Portugal,Right-Back,RB,650000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Rio Ave FC,Al Musrati,24,Libya,Defensive Midfield,DM,650000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Rio Ave FC,Guga,23,Portugal,Central Midfield,CM,800000.0,Famalicão,Portugal,,in,winter,Primeira Liga,2020,False,
+Rio Ave FC,Anderson Cruz,24,Angola,Left Winger,LW,300000.0,Bolívar,Bolivia,,in,winter,Primeira Liga,2020,False,
+Rio Ave FC,Savio,25,Brazil,Left-Back,LB,,Ferroviária,Brazil,,in,winter,Primeira Liga,2020,False,
+Rio Ave FC,Junior Brandão,26,Brazil,Centre-Forward,CF,500000.0,Ludogorets,Bulgaria,0.0,in,winter,Primeira Liga,2020,True,free loan
+Rio Ave FC,Rafael Camacho,20,Portugal,Left Winger,LW,3500000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+Rio Ave FC,Diego Lopes,26,Brazil,Attacking Midfield,AM,2000000.0,LC Sailors,Singapore,1800000.0,out,winter,Primeira Liga,2020,False,
+Rio Ave FC,Bruno Moreira,33,Portugal,Centre-Forward,CF,300000.0,Portimonense,Portugal,,out,winter,Primeira Liga,2020,False,
+Rio Ave FC,Matheus Reis,25,Brazil,Left-Back,LB,2500000.0,Sporting CP,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+SC Braga,Abel Ruiz,20,Spain,Centre-Forward,CF,4500000.0,FC Barcelona B,Spain,8000000.0,in,summer,Primeira Liga,2020,False,
+SC Braga,Nico Gaitán,32,Argentina,Attacking Midfield,AM,3200000.0,LOSC Lille,France,0.0,in,summer,Primeira Liga,2020,False,
+SC Braga,André Castro,32,Portugal,Central Midfield,CM,1000000.0,Göztepe,Turkey,0.0,in,summer,Primeira Liga,2020,False,
+SC Braga,Guilherme Schettine,24,Brazil,Centre-Forward,CF,800000.0,Santa Clara,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Braga,Al Musrati,24,Libya,Defensive Midfield,DM,650000.0,Vit. Guimarães,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Braga,Iuri Medeiros,26,Portugal,Right Winger,RW,1600000.0,1.FC Nuremberg,Germany,0.0,in,summer,Primeira Liga,2020,True,free loan
+SC Braga,Zé Carlos,22,Portugal,Right-Back,RB,,Leixões,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Braga,Trincão,20,Portugal,Right Winger,RW,16000000.0,FC Barcelona,Spain,31000000.0,out,summer,Primeira Liga,2020,False,
+SC Braga,Ahmed Hassan,27,Egypt,Centre-Forward,CF,2800000.0,Olympiacos,Greece,2000000.0,out,summer,Primeira Liga,2020,False,
+SC Braga,Alef,25,Brazil,Defensive Midfield,DM,800000.0,Fehérvár,Hungary,150000.0,out,summer,Primeira Liga,2020,False,
+SC Braga,Wilson Eduardo,30,Angola,Left Winger,LW,4000000.0,Al-Ain FC,United Arab Emirates,0.0,out,summer,Primeira Liga,2020,False,
+SC Braga,Pedro Amador,21,Portugal,Left-Back,LB,350000.0,Moreirense,Portugal,,out,summer,Primeira Liga,2020,False,
+SC Braga,Luther Singh,23,South Africa,Right Winger,RW,2500000.0,Paços Ferreira,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Pablo Santos,28,Brazil,Centre-Back,CB,2500000.0,Hatayspor,Turkey,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Nikola Stojiljkovic,28,Serbia,Centre-Forward,CF,800000.0,Farense,Portugal,,out,summer,Primeira Liga,2020,False,
+SC Braga,Bruno Wilson,23,Portugal,Centre-Back,CB,1500000.0,CD Tenerife,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Lucas Cunha,23,Brazil,Centre-Back,CB,700000.0,Celta Vigo B,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Murilo de Souza,25,Brazil,Right Winger,RW,1200000.0,RCD Mallorca,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Fábio Martins,27,Portugal,Left Winger,LW,7000000.0,Shabab,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Xadas,22,Portugal,Attacking Midfield,AM,3500000.0,Mouscron,Belgium,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Braga,Diogo Viana,30,Portugal,Right-Back,RB,700000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+SC Braga,João Palhinha,25,Portugal,Defensive Midfield,DM,4800000.0,Sporting CP,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Braga,Wallace,25,Brazil,Centre-Back,CB,4000000.0,Lazio,Italy,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Braga,Abel Ruiz,20,Spain,Centre-Forward,CF,4500000.0,FC Barcelona B,Spain,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Braga,Cristian Borja,27,Colombia,Left-Back,LB,3000000.0,Sporting CP,Portugal,3000000.0,in,winter,Primeira Liga,2020,False,
+SC Braga,Lucas Piazon,26,Brazil,Right Winger,RW,900000.0,Chelsea,England,0.0,in,winter,Primeira Liga,2020,False,
+SC Braga,Andraz Sporar,26,Slovenia,Centre-Forward,CF,5500000.0,Sporting CP,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+SC Braga,Dion McGhee,20,England,Attacking Midfield,AM,,Without Club,,,in,winter,Primeira Liga,2020,False,
+SC Braga,Paulinho,28,Portugal,Centre-Forward,CF,15000000.0,Sporting CP,Portugal,16000000.0,out,winter,Primeira Liga,2020,False,
+SC Braga,Diogo Figueiras,29,Portugal,Right-Back,RB,800000.0,Famalicão,Portugal,,out,winter,Primeira Liga,2020,False,
+SC Braga,Guilherme Schettine,25,Brazil,Centre-Forward,CF,1500000.0,UD Almería,Spain,0.0,out,winter,Primeira Liga,2020,True,free loan
+SC Braga,Crislan,28,Brazil,Centre-Forward,CF,500000.0,Bucheon FC,"Korea, South",,out,winter,Primeira Liga,2020,False,
+SC Braga,Bruno Viana,26,Brazil,Centre-Back,CB,7000000.0,Flamengo,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+SC Farense,Rafael Defendi,36,Brazil,Goalkeeper,GK,100000.0,Famalicão,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,Claudio Falcão,26,Brazil,Defensive Midfield,DM,475000.0,Desportivo Aves,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,César Martins,27,Brazil,Centre-Back,CB,500000.0,Santa Clara,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,Eduardo Mancha,24,Brazil,Centre-Back,CB,175000.0,Machine Sazi,Iran,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,Ricardo Ferreira,27,Canada,Centre-Back,CB,475000.0,Belenenses SAD,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,Djalma,33,Angola,Right Winger,RW,550000.0,Alanyaspor,Turkey,0.0,in,summer,Primeira Liga,2020,False,
+SC Farense,Amine Oudrhiri,27,Morocco,Central Midfield,CM,350000.0,Leixões,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Ricardo Velho,21,Portugal,Goalkeeper,GK,50000.0,Braga B,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Pedro Henrique,23,Brazil,Centre-Forward,CF,200000.0,Benfica B,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Alex Pinto,22,Portugal,Right-Back,RB,725000.0,Benfica B,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Brian Mansilla,23,Argentina,Left Winger,LW,800000.0,Racing Club II,Argentina,0.0,in,summer,Primeira Liga,2020,True,free loan
+SC Farense,Nikola Stojiljkovic,28,Serbia,Centre-Forward,CF,800000.0,Braga,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Madi Queta,21,Portugal,Left Winger,LW,650000.0,FC Porto B,Portugal,,in,summer,Primeira Liga,2020,False,
+SC Farense,Abner,24,Brazil,Left-Back,LB,150000.0,PSTC,Brazil,,in,summer,Primeira Liga,2020,False,
+SC Farense,Bilel Aouacheria,26,France,Right Winger,RW,475000.0,Without Club,,,in,summer,Primeira Liga,2020,False,
+SC Farense,Fabrício Simões,35,Brazil,Centre-Forward,CF,125000.0,Feirense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Miguel Carvalho,24,Portugal,Goalkeeper,GK,75000.0,Moura,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Telmo Watche,20,Portugal,Right Winger,RW,,CF Estrela,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Daniel Fernandes,36,Portugal,Goalkeeper,GK,50000.0,Tarxien,Malta,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Christian Irobiso,27,Nigeria,Centre-Forward,CF,275000.0,Varzim,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Jorge Fellipe,31,Brazil,Centre-Back,CB,325000.0,Al-Ta'ee,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,False,
+SC Farense,Pedro Simões,21,Portugal,Central Midfield,CM,150000.0,Louletano,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+SC Farense,André Vieira,27,Portugal,Central Midfield,CM,150000.0,Varzim,Portugal,,out,summer,Primeira Liga,2020,False,
+SC Farense,Rafa Vieira,27,Portugal,Centre-Back,CB,300000.0,Coimbra,Portugal,,out,summer,Primeira Liga,2020,False,
+SC Farense,David Sualehe,23,Portugal,Left-Back,LB,300000.0,Guimarães B,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Farense,Matheus Silva,22,Brazil,Right-Back,RB,325000.0,EC Bahia,Brazil,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Farense,Luís Rocha,33,Portugal,Centre-Back,CB,100000.0,Famalicão,Portugal,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Farense,Arnold Issoko,28,DR Congo,Right Winger,RW,475000.0,SM Caen,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+SC Farense,Tomás Tavares,19,Portugal,Right-Back,RB,6500000.0,Benfica,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+SC Farense,Beto,38,Portugal,Goalkeeper,GK,300000.0,Leixões,Portugal,,in,winter,Primeira Liga,2020,False,
+SC Farense,André Pinto,31,Portugal,Centre-Back,CB,1200000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+SC Farense,Licá,32,Portugal,Left Winger,LW,500000.0,Without Club,,,in,winter,Primeira Liga,2020,False,
+SC Farense,Mihlali Mayambela,24,South Africa,Right Winger,RW,300000.0,Coimbra,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+SC Farense,Patrick,27,Cape Verde,Centre-Forward,CF,150000.0,Varzim,Portugal,,out,winter,Primeira Liga,2020,False,
+SL Benfica,Darwin Núñez,21,Uruguay,Centre-Forward,CF,10000000.0,UD Almería,Spain,24000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Éverton,24,Brazil,Left Winger,LW,28000000.0,Grêmio,Brazil,20000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Pedrinho,22,Brazil,Right Midfield,RM,13500000.0,Corinthians,Brazil,18000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Luca Waldschmidt,24,Germany,Second Striker,SS,16000000.0,SC Freiburg,Germany,15000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Nicolás Otamendi,32,Argentina,Centre-Back,CB,14500000.0,Man City,England,15000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Gilberto,27,Brazil,Right-Back,RB,1000000.0,Fluminense,Brazil,3000000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Jean-Clair Todibo,20,France,Centre-Back,CB,14000000.0,FC Barcelona,Spain,2000000.0,in,summer,Primeira Liga,2020,True,loan with fee
+SL Benfica,Helton Leite,29,Brazil,Goalkeeper,GK,550000.0,Boavista,Portugal,1500000.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Jan Vertonghen,33,Belgium,Centre-Back,CB,14500000.0,Spurs,England,0.0,in,summer,Primeira Liga,2020,False,
+SL Benfica,Rúben Dias,23,Portugal,Centre-Back,CB,35000000.0,Man City,England,68000000.0,out,summer,Primeira Liga,2020,False,
+SL Benfica,Carlos Vinícius,25,Brazil,Centre-Forward,CF,20000000.0,Spurs,England,3000000.0,out,summer,Primeira Liga,2020,True,loan with fee
+SL Benfica,Cristian Lema,30,Argentina,Centre-Back,CB,2400000.0,Damac FC,Saudi Arabia,2000000.0,out,summer,Primeira Liga,2020,False,
+SL Benfica,Florentino,21,Portugal,Defensive Midfield,DM,18000000.0,Monaco,France,1500000.0,out,summer,Primeira Liga,2020,True,loan with fee
+SL Benfica,Ivan Zlobin,23,Russia,Goalkeeper,GK,1200000.0,Famalicão,Portugal,1000000.0,out,summer,Primeira Liga,2020,False,
+SL Benfica,Jhonder Cádiz,25,Venezuela,Centre-Forward,CF,2400000.0,Nashville SC,United States,500000.0,out,summer,Primeira Liga,2020,True,loan with fee
+SL Benfica,Yony González,26,Colombia,Right Winger,RW,1800000.0,LA Galaxy,United States,420000.0,out,summer,Primeira Liga,2020,True,loan with fee
+SL Benfica,Bruno Varela,25,Portugal,Goalkeeper,GK,2000000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+SL Benfica,Andrija Zivkovic,24,Serbia,Right Winger,RW,4000000.0,PAOK Salonika,Greece,0.0,out,summer,Primeira Liga,2020,False,
+SL Benfica,Pedro Pereira,22,Portugal,Right Midfield,RM,1800000.0,Crotone,Italy,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Ljubomir Fejsa,32,Serbia,Defensive Midfield,DM,2800000.0,Ahli,Saudi Arabia,,out,summer,Primeira Liga,2020,False,
+SL Benfica,Filip Krovinovic,25,Croatia,Attacking Midfield,AM,3200000.0,West Brom,England,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Tomás Tavares,19,Portugal,Right-Back,RB,7500000.0,Alavés,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Alfa Semedo,23,Guinea-Bissau,Defensive Midfield,DM,1600000.0,Reading,England,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Jota,21,Portugal,Left Winger,LW,8000000.0,Real Valladolid,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Tiago Dantas,19,Portugal,Central Midfield,CM,1300000.0,FC Bayern,Germany,0.0,out,summer,Primeira Liga,2020,True,free loan
+SL Benfica,Lucas Veríssimo,25,Brazil,Centre-Back,CB,4000000.0,Santos FC,Brazil,6500000.0,in,winter,Primeira Liga,2020,False,
+SL Benfica,Gedson Fernandes,22,Portugal,Central Midfield,CM,13500000.0,Galatasaray,Turkey,500000.0,out,winter,Primeira Liga,2020,True,loan with fee
+SL Benfica,Facundo Ferreyra,29,Argentina,Centre-Forward,CF,2000000.0,Celta de Vigo,Spain,0.0,out,winter,Primeira Liga,2020,False,
+SL Benfica,Germán Conti,26,Argentina,Centre-Back,CB,2500000.0,EC Bahia,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+SL Benfica,Tomás Tavares,19,Portugal,Right-Back,RB,6500000.0,Farense,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+SL Benfica,Filip Krovinovic,25,Croatia,Attacking Midfield,AM,6500000.0,Nottm Forest,England,0.0,out,winter,Primeira Liga,2020,True,free loan
+SL Benfica,Ferro,23,Portugal,Centre-Back,CB,7000000.0,Valencia,Spain,0.0,out,winter,Primeira Liga,2020,True,free loan
+SL Benfica,Yony González,26,Colombia,Right Winger,RW,1800000.0,Ceará SC,Brazil,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Pedro Gonçalves,22,Portugal,Attacking Midfield,AM,7000000.0,Famalicão,Portugal,6500000.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Nuno Santos,25,Portugal,Left Winger,LW,4000000.0,Rio Ave FC,Portugal,3700000.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Zouhair Feddal,30,Morocco,Centre-Back,CB,4000000.0,Real Betis,Spain,2150000.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Tabata,23,Brazil,Right Winger,RW,4000000.0,Portimonense,Portugal,500000.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Matheus Reis,26,Brazil,Left-Back,LB,2500000.0,Rio Ave FC,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Vitorino Antunes,33,Portugal,Left-Back,LB,1600000.0,Getafe,Spain,0.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Antonio Adán,33,Spain,Goalkeeper,GK,800000.0,Atlético Madrid,Spain,0.0,in,summer,Primeira Liga,2020,False,
+Sporting CP,Pedro Porro,20,Spain,Right-Back,RB,9000000.0,Man City,England,0.0,in,summer,Primeira Liga,2020,True,free loan
+Sporting CP,João Mário,27,Portugal,Central Midfield,CM,13000000.0,Inter,Italy,0.0,in,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Wendel,23,Brazil,Central Midfield,CM,12000000.0,Zenit S-Pb,Russia,20300000.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Marcos Acuña,28,Argentina,Left-Back,LB,12000000.0,Sevilla FC,Spain,10500000.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Matheus Pereira,24,Brazil,Right Winger,RW,9500000.0,West Brom,England,8250000.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Luciano Vietto,26,Argentina,Centre-Forward,CF,7000000.0,Hilal,Saudi Arabia,3500000.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Valentin Rosier,24,France,Right-Back,RB,4000000.0,Besiktas,Turkey,200000.0,out,summer,Primeira Liga,2020,True,loan with fee
+Sporting CP,Mauro Riquicho,25,Portugal,Right-Back,RB,100000.0,CD Fátima,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Miguel Luís,21,Portugal,Central Midfield,CM,2000000.0,Vit. Guimarães,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Alan Ruiz,27,Argentina,Attacking Midfield,AM,600000.0,Arsenal FC,Argentina,0.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Chico Geraldes,25,Portugal,Attacking Midfield,AM,1000000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Gelson Dala,24,Angola,Second Striker,SS,1000000.0,Rio Ave FC,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Sporting CP,Pedro Mendes,21,Portugal,Centre-Forward,CF,500000.0,UD Almería,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Mattheus,26,Brazil,Attacking Midfield,AM,1000000.0,Coritiba FC,Brazil,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Eduardo Henrique,25,Brazil,Defensive Midfield,DM,2400000.0,Crotone,Italy,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Rodrigo Battaglia,29,Argentina,Central Midfield,CM,4500000.0,Alavés,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Idrissa Doumbia,22,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,SD Huesca,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Abdoulay Diaby,29,Mali,Right Winger,RW,4000000.0,Getafe,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Josip Misic,26,Croatia,Central Midfield,CM,3000000.0,Dinamo Zagreb,Croatia,0.0,out,summer,Primeira Liga,2020,True,free loan
+Sporting CP,Jérémy Mathieu,36,France,Centre-Back,CB,1200000.0,Retired,,,out,summer,Primeira Liga,2020,False,
+Sporting CP,Paulinho,28,Portugal,Centre-Forward,CF,15000000.0,Braga,Portugal,16000000.0,in,winter,Primeira Liga,2020,False,
+Sporting CP,João Pereira,36,Portugal,Right-Back,RB,300000.0,Trabzonspor,Turkey,0.0,in,winter,Primeira Liga,2020,False,
+Sporting CP,Matheus Reis,25,Brazil,Left-Back,LB,2500000.0,Rio Ave FC,Portugal,0.0,in,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Cristian Borja,27,Colombia,Left-Back,LB,3000000.0,Braga,Portugal,3000000.0,out,winter,Primeira Liga,2020,False,
+Sporting CP,Stefan Ristovski,28,North Macedonia,Right-Back,RB,3000000.0,Dinamo Zagreb,Croatia,1000000.0,out,winter,Primeira Liga,2020,False,
+Sporting CP,Tiago Ilori,27,Portugal,Centre-Back,CB,1000000.0,FC Lorient,France,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Abdoulay Diaby,29,Mali,Right Winger,RW,2800000.0,RSC Anderlecht,Belgium,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Pedro Mendes,21,Portugal,Centre-Forward,CF,500000.0,Nacional,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Andraz Sporar,26,Slovenia,Centre-Forward,CF,5500000.0,Braga,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Rafael Camacho,20,Portugal,Left Winger,LW,3500000.0,Rio Ave FC,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan
+Sporting CP,Bruno Gaspar,27,Angola,Right-Back,RB,1000000.0,Vancouver,United States,0.0,out,winter,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Matous Trmal,21,Czech Republic,Goalkeeper,GK,1000000.0,Slovácko,Czech Republic,1200000.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Lyle Foster,19,South Africa,Centre-Forward,CF,1300000.0,Monaco,France,1200000.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Denis Will Poha,23,France,Central Midfield,CM,1200000.0,Stade Rennais,France,300000.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Jorge Fernandes,23,Portugal,Centre-Back,CB,800000.0,FC Porto,Portugal,250000.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Noah Jean Holm,19,Norway,Centre-Forward,CF,,RB Leipzig U19,Germany,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Abdul Mumin,22,Ghana,Centre-Back,CB,700000.0,Nordsjaelland,Denmark,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Bruno Varela,25,Portugal,Goalkeeper,GK,2000000.0,Benfica,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Ricardo Quaresma,36,Portugal,Right Winger,RW,400000.0,Kasimpasa,Turkey,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Sílvio,32,Portugal,Right-Back,RB,300000.0,Vitória Setúbal,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Miguel Luís,21,Portugal,Central Midfield,CM,2000000.0,Sporting CP,Portugal,0.0,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Yann Aurel Bisseck,19,Germany,Centre-Back,CB,325000.0,1. FC Köln,Germany,0.0,in,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Nicolas Tie,19,Cote d'Ivoire,Goalkeeper,GK,,Chelsea U23,England,,in,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Jonas Carls,23,Germany,Left-Back,LB,400000.0,FC Schalke 04,Germany,0.0,in,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Gideon Mensah,22,Ghana,Left-Back,LB,2700000.0,RB Salzburg,Austria,0.0,in,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Pepelu,22,Spain,Defensive Midfield,DM,1500000.0,Levante,Spain,0.0,in,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Pêpê,23,Portugal,Central Midfield,CM,3000000.0,Olympiacos,Greece,3000000.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,João Carlos Teixeira,27,Portugal,Attacking Midfield,AM,1500000.0,Feyenoord,Netherlands,1600000.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Guillermo Celis,27,Colombia,Defensive Midfield,DM,800000.0,Deportes Tolima,Colombia,900000.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Davidson,29,Brazil,Left Winger,LW,2800000.0,Alanyaspor,Turkey,500000.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Al Musrati,24,Libya,Defensive Midfield,DM,650000.0,Braga,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Ola John,28,Netherlands,Left Winger,LW,1300000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Víctor García,26,Venezuela,Right-Back,RB,700000.0,Alcorcón,Spain,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Miguel Oliveira,26,Portugal,Goalkeeper,GK,100000.0,Moreirense,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Marcos Valente,26,Portugal,Centre-Back,CB,350000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Miguel Silva,25,Portugal,Goalkeeper,GK,475000.0,APOEL Nicosia,Cyprus,0.0,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,João Pedro,23,Portugal,Centre-Forward,CF,200000.0,Paços Ferreira,Portugal,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Florent Hanin,30,France,Left-Back,LB,1600000.0,Paris FC,France,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,João Correia,23,Portugal,Right Winger,RW,175000.0,Chaves,Portugal,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Aziz,21,Ghana,Centre-Forward,CF,625000.0,Estoril Praia,Portugal,0.0,out,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Chico Ramos,25,Portugal,Central Midfield,CM,900000.0,Nacional,Portugal,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Frederico Venâncio,27,Portugal,Centre-Back,CB,1500000.0,CD Lugo,Spain,0.0,out,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Pedro Henrique,27,Brazil,Centre-Back,CB,3500000.0,Al-Wahda,Saudi Arabia,0.0,out,summer,Primeira Liga,2020,True,free loan
+Vitória Guimarães SC,Welthon,28,Brazil,Centre-Forward,CF,650000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Douglas Jesus,37,Brazil,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Ibrahim Blati Touré,26,Burkina Faso,Central Midfield,CM,250000.0,Without Club,,,out,summer,Primeira Liga,2020,False,
+Vitória Guimarães SC,Valeriy Bondarenko,26,Ukraine,Centre-Back,CB,800000.0,Shakhtar D.,Ukraine,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Vitória Guimarães SC,Denis Will Poha,23,France,Central Midfield,CM,1200000.0,Stade Rennais,France,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Vitória Guimarães SC,Léo Bonatini,26,Brazil,Centre-Forward,CF,2800000.0,Wolves,England,0.0,out,summer,Primeira Liga,2020,True,end of loan
+Vitória Guimarães SC,Rúben Lameiras,26,Portugal,Right Winger,RW,2000000.0,Famalicão,Portugal,,in,winter,Primeira Liga,2020,False,
+Vitória Guimarães SC,Alexandre Guedes,26,Portugal,Centre-Forward,CF,1200000.0,Famalicão,Portugal,,out,winter,Primeira Liga,2020,False,
+Vitória Guimarães SC,Denis Will Poha,23,France,Central Midfield,CM,700000.0,Portimonense,Portugal,0.0,out,winter,Primeira Liga,2020,True,free loan

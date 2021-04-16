@@ -1,0 +1,494 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Athletic Bilbao,Ander Herrera,21,Spain,Central Midfield,CM,7500000.0,Real Zaragoza,Spain,7500000.0,in,summer,Laliga,2011,False,
+Athletic Bilbao,Ion Vélez,26,Spain,Centre-Forward,CF,800000.0,Girona,Spain,0.0,out,summer,Laliga,2011,False,
+Athletic Bilbao,Mikel Balenziaga,23,Spain,Left-Back,LB,800000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2011,False,
+Athletic Bilbao,Urko Vera,24,Spain,Centre-Forward,CF,400000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2011,False,
+Athletic Bilbao,Iñigo Díaz de Cerio,27,Spain,Centre-Forward,CF,1000000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Athletic Bilbao,Ustaritz,28,Spain,Centre-Back,CB,1800000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Athletic Bilbao,Galder Cerrajería,22,Spain,Central Midfield,CM,300000.0,Real Murcia,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Athletic Bilbao,Pablo Orbaiz,32,Spain,Defensive Midfield,DM,2500000.0,Olympiacos,Greece,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Falcao,25,Colombia,Centre-Forward,CF,25000000.0,FC Porto,Portugal,40000000.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Arda Turan,24,Turkey,Left Winger,LW,15500000.0,Galatasaray,Turkey,13000000.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Sílvio,23,Portugal,Right-Back,RB,7500000.0,Braga,Portugal,8000000.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,4900000.0,FC Porto,Portugal,5000000.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Gabi,27,Spain,Defensive Midfield,DM,3000000.0,Real Zaragoza,Spain,3000000.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Pizzi,21,Portugal,Attacking Midfield,AM,4600000.0,Braga,Portugal,1500000.0,in,summer,Laliga,2011,True,loan with fee
+Atlético Madrid,Thibaut Courtois,19,Belgium,Goalkeeper,GK,4000000.0,Chelsea,England,1200000.0,in,summer,Laliga,2011,True,loan with fee
+Atlético Madrid,Miranda,26,Brazil,Centre-Back,CB,6500000.0,São Paulo,Brazil,0.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Adrián López,23,Spain,Centre-Forward,CF,3500000.0,Dep. La Coruña,Spain,0.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Tiago Mendes,30,Portugal,Central Midfield,CM,8000000.0,Juventus,Italy,0.0,in,summer,Laliga,2011,False,
+Atlético Madrid,Diego,26,Brazil,Attacking Midfield,AM,12000000.0,VfL Wolfsburg,Germany,0.0,in,summer,Laliga,2011,True,free loan
+Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,100000.0,Liverpool,England,0.0,in,summer,Laliga,2011,True,free loan
+Atlético Madrid,Sergio Agüero,23,Argentina,Centre-Forward,CF,36000000.0,Man City,England,40000000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,David de Gea,20,Spain,Goalkeeper,GK,12000000.0,Man Utd,England,25000000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,Elias,26,Brazil,Central Midfield,CM,7000000.0,Sporting CP,Portugal,8850000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,Diego Forlán,32,Uruguay,Centre-Forward,CF,10000000.0,Inter,Italy,5000000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,Tomas Ujfalusi,33,Czech Republic,Centre-Back,CB,3000000.0,Galatasaray,Turkey,2000000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,Ibrahima Balde,22,Senegal,Centre-Forward,CF,1000000.0,CA Osasuna,Spain,1000000.0,out,summer,Laliga,2011,False,
+Atlético Madrid,Borja Bastón,18,Spain,Centre-Forward,CF,,Real Murcia,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Juan Valera,26,Spain,Right-Back,RB,1500000.0,Getafe,Spain,,out,summer,Laliga,2011,False,
+Atlético Madrid,Raúl García,25,Spain,Centre-Forward,CF,4000000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,4900000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,100000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Fran Mérida,21,Spain,Central Midfield,CM,3000000.0,Braga,Portugal,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Leandro Cabrera,20,Uruguay,Centre-Back,CB,600000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Rubén Pérez,22,Spain,Defensive Midfield,DM,2500000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Atlético Madrid,Tiago Mendes,30,Portugal,Central Midfield,CM,8000000.0,Juventus,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Atlético Madrid,Pizzi,22,Portugal,Attacking Midfield,AM,7500000.0,Braga,Portugal,13500000.0,in,winter,Laliga,2011,False,
+Atlético Madrid,José Antonio Reyes,28,Spain,Right Winger,RW,15000000.0,Sevilla FC,Spain,3500000.0,out,winter,Laliga,2011,False,
+Atlético Madrid,Diego Costa,23,Spain,Centre-Forward,CF,5000000.0,Rayo Vallecano,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Atlético Madrid,Jorge Pulido,20,Spain,Centre-Back,CB,500000.0,Rayo Vallecano,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Atlético Madrid,Joel Robles,21,Spain,Goalkeeper,GK,2000000.0,Rayo Vallecano,Spain,0.0,out,winter,Laliga,2011,True,free loan
+CA Osasuna,Roland Lamah,23,Belgium,Left Winger,LW,1000000.0,Le Mans FC,France,1500000.0,in,summer,Laliga,2011,False,
+CA Osasuna,Ibrahima Balde,22,Senegal,Centre-Forward,CF,1000000.0,Atlético Madrid,Spain,1000000.0,in,summer,Laliga,2011,False,
+CA Osasuna,Jukka Raitala,22,Finland,Left-Back,LB,750000.0,TSG Hoffenheim,Germany,100000.0,in,summer,Laliga,2011,True,loan with fee
+CA Osasuna,Rubén González,29,Spain,Centre-Back,CB,1200000.0,RCD Mallorca,Spain,0.0,in,summer,Laliga,2011,False,
+CA Osasuna,Marc Bertrán,29,Spain,Right-Back,RB,1800000.0,CD Tenerife,Spain,0.0,in,summer,Laliga,2011,False,
+CA Osasuna,Nino,31,Spain,Centre-Forward,CF,2500000.0,CD Tenerife,Spain,,in,summer,Laliga,2011,False,
+CA Osasuna,Raúl García,25,Spain,Centre-Forward,CF,4000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2011,True,free loan
+CA Osasuna,Nacho Monreal,25,Spain,Left-Back,LB,7000000.0,Málaga CF,Spain,6000000.0,out,summer,Laliga,2011,False,
+CA Osasuna,Javier Camuñas,30,Spain,Right Winger,RW,2800000.0,Villarreal,Spain,2300000.0,out,summer,Laliga,2011,False,
+CA Osasuna,Josetxo,34,Spain,Centre-Back,CB,700000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Carlos Aranda,30,Spain,Centre-Forward,CF,2500000.0,Levante,Spain,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Fernando Soriano,31,Spain,Attacking Midfield,AM,3000000.0,UD Almería,Spain,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,1500000.0,Espanyol,Spain,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Jokin Esparza,23,Spain,Left Winger,LW,300000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Krisztián Vadócz,26,Hungary,Central Midfield,CM,1500000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Laliga,2011,False,
+CA Osasuna,Nacho Zabal,24,Spain,Goalkeeper,GK,100000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2011,True,free loan
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,300000.0,Kilmarnock FC,Scotland,0.0,out,summer,Laliga,2011,True,free loan
+CA Osasuna,Rúper,24,Spain,Central Midfield,CM,2000000.0,Elche CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+CA Osasuna,Oier,25,Spain,Defensive Midfield,DM,400000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2011,True,free loan
+CA Osasuna,Nélson,28,Portugal,Right-Back,RB,3000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+CA Osasuna,Coro,28,Spain,Centre-Forward,CF,1500000.0,Espanyol,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,300000.0,Real Unión,Spain,0.0,out,winter,Laliga,2011,True,free loan
+FC Barcelona,Cesc Fàbregas,24,Spain,Central Midfield,CM,54000000.0,Arsenal,England,34000000.0,in,summer,Laliga,2011,False,
+FC Barcelona,Alexis Sánchez,22,Chile,Centre-Forward,CF,25000000.0,Udinese Calcio,Italy,26000000.0,in,summer,Laliga,2011,False,
+FC Barcelona,Zlatan Ibrahimovic,29,Sweden,Centre-Forward,CF,35000000.0,AC Milan,Italy,24000000.0,out,summer,Laliga,2011,False,
+FC Barcelona,Bojan Krkic,20,Spain,Second Striker,SS,15000000.0,AS Roma,Italy,12000000.0,out,summer,Laliga,2011,False,
+FC Barcelona,Jeffren,23,Venezuela,Attacking Midfield,AM,5000000.0,Sporting CP,Portugal,3750000.0,out,summer,Laliga,2011,False,
+FC Barcelona,Martín Cáceres,24,Uruguay,Centre-Back,CB,7000000.0,Sevilla FC,Spain,3000000.0,out,summer,Laliga,2011,False,
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,3500000.0,VfL Wolfsburg,Germany,700000.0,out,summer,Laliga,2011,True,loan with fee
+FC Barcelona,Keirrison,23,Brazil,Centre-Forward,CF,1500000.0,Coritiba FC,Brazil,0.0,out,summer,Laliga,2011,True,free loan
+FC Barcelona,Víctor Sánchez,23,Spain,Central Midfield,CM,1000000.0,Neuchâtel Xamax,Switzerland,0.0,out,summer,Laliga,2011,False,
+FC Barcelona,Henrique,24,Brazil,Centre-Back,CB,5000000.0,Palmeiras,Brazil,0.0,out,summer,Laliga,2011,True,free loan
+FC Barcelona,Gabriel Milito,30,Argentina,Centre-Back,CB,6000000.0,Independiente,Argentina,0.0,out,summer,Laliga,2011,False,
+FC Barcelona,Keirrison,22,Brazil,Centre-Forward,CF,2000000.0,Cruzeiro,Brazil,0.0,out,summer,Laliga,2011,True,free loan
+FC Barcelona,Maxwell,30,Brazil,Left-Back,LB,7000000.0,Paris SG,France,3500000.0,out,winter,Laliga,2011,False,
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,3500000.0,KS Samara,Russia,0.0,out,winter,Laliga,2011,False,
+Getafe CF,Pablo Sarabia,19,Spain,Right Winger,RW,,RM Castilla,Spain,3000000.0,in,summer,Laliga,2011,False,
+Getafe CF,Tsepo Masilela,26,South Africa,Left-Back,LB,1000000.0,Maccabi Haifa,Israel,300000.0,in,summer,Laliga,2011,True,loan with fee
+Getafe CF,Diego Castro,28,Spain,Left Winger,LW,6000000.0,Sporting Gijón,Spain,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,3000000.0,Racing,Spain,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Alberto Lopo,31,Spain,Centre-Back,CB,4000000.0,Dep. La Coruña,Spain,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Juan Rodríguez,29,Spain,Defensive Midfield,DM,3500000.0,Dep. La Coruña,Spain,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Míchel,25,Spain,Central Midfield,CM,2500000.0,Birmingham,England,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Dani Güiza,31,Spain,Centre-Forward,CF,4000000.0,Fenerbahce,Turkey,0.0,in,summer,Laliga,2011,False,
+Getafe CF,Pedro León,24,Spain,Right Winger,RW,6000000.0,Real Madrid,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Getafe CF,Miguel Ángel Moyá,27,Spain,Goalkeeper,GK,1000000.0,Valencia,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Getafe CF,Michelangelo Albertazzi,20,Italy,Left-Back,LB,400000.0,Milan U19,Italy,0.0,in,summer,Laliga,2011,True,free loan
+Getafe CF,Juan Valera,26,Spain,Right-Back,RB,1500000.0,Atlético Madrid,Spain,,in,summer,Laliga,2011,False,
+Getafe CF,Rubén Pérez,22,Spain,Defensive Midfield,DM,2500000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Getafe CF,Dani Parejo,22,Spain,Central Midfield,CM,8000000.0,Valencia,Spain,6000000.0,out,summer,Laliga,2011,False,
+Getafe CF,Derek Boateng,28,Ghana,Defensive Midfield,DM,2500000.0,Dnipro,Ukraine,4880000.0,out,summer,Laliga,2011,False,
+Getafe CF,Manu del Moral,27,Spain,Centre-Forward,CF,5500000.0,Sevilla FC,Spain,4500000.0,out,summer,Laliga,2011,False,
+Getafe CF,Juan Albín,24,Uruguay,Attacking Midfield,AM,2500000.0,Espanyol,Spain,3000000.0,out,summer,Laliga,2011,False,
+Getafe CF,Miguel Pallardó,24,Spain,Central Midfield,CM,2000000.0,Levante,Spain,200000.0,out,summer,Laliga,2011,False,
+Getafe CF,Mario Abrante,29,Spain,Centre-Back,CB,1500000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,False,
+Getafe CF,Ibrahim Kas,24,Turkey,Centre-Back,CB,900000.0,Bursaspor,Turkey,0.0,out,summer,Laliga,2011,False,
+Getafe CF,Javier Arizmendi,27,Spain,Centre-Forward,CF,3000000.0,Neuchâtel Xamax,Switzerland,0.0,out,summer,Laliga,2011,True,free loan
+Getafe CF,Adrián Sardinero,20,Spain,Centre-Forward,CF,300000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Getafe CF,Borja Fernández,30,Spain,Defensive Midfield,DM,1800000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Getafe CF,Iván Marcano,24,Spain,Centre-Back,CB,4000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Getafe CF,Víctor Sánchez,23,Spain,Central Midfield,CM,1000000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Getafe CF,Alexis Ruano,26,Spain,Centre-Back,CB,2500000.0,Sevilla FC,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Getafe CF,Pedro Mosquera,23,Spain,Central Midfield,CM,700000.0,RM Castilla,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Getafe CF,Pablo Pintos,24,Uruguay,Right-Back,RB,1200000.0,Defensor,Uruguay,0.0,out,winter,Laliga,2011,True,free loan
+Getafe CF,Adrián Colunga,27,Spain,Centre-Forward,CF,4000000.0,Sporting Gijón,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,Pape Diakhaté,27,Senegal,Centre-Back,CB,3750000.0,Dynamo Kyiv,Ukraine,4500000.0,in,summer,Laliga,2011,False,
+Granada CF,Fran Rico,23,Spain,Central Midfield,CM,,RM Castilla,Spain,1000000.0,in,summer,Laliga,2011,False,
+Granada CF,Yohan Mollo,22,France,Right-Back,RB,1800000.0,Monaco,France,500000.0,in,summer,Laliga,2011,False,
+Granada CF,Franco Jara,23,Argentina,Centre-Forward,CF,5500000.0,Benfica,Portugal,400000.0,in,summer,Laliga,2011,True,loan with fee
+Granada CF,Toti,23,Spain,Attacking Midfield,AM,500000.0,UD Salamanca,Spain,200000.0,in,summer,Laliga,2011,False,
+Granada CF,Juanjo,25,Spain,Centre-Forward,CF,,CD Guadalajara,Spain,90000.0,in,summer,Laliga,2011,False,
+Granada CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,4000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Granada CF,Toño,32,Spain,Goalkeeper,GK,3500000.0,Racing,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Moisés Hurtado,30,Spain,Defensive Midfield,DM,3000000.0,Olympiacos,Greece,0.0,in,summer,Laliga,2011,False,
+Granada CF,Hassan Yebda,27,Algeria,Central Midfield,CM,4500000.0,Benfica,Portugal,0.0,in,summer,Laliga,2011,False,
+Granada CF,Jorge Ribeiro,29,Portugal,Left-Back,LB,1000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2011,False,
+Granada CF,David de Coz,31,Spain,Right-Back,RB,500000.0,Córdoba CF,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,David Ferreiro,23,Spain,Right Winger,RW,,Zamora CF,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,,Getafe CF B,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Noé Pamarot,32,France,Centre-Back,CB,2000000.0,Hércules CF,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,600000.0,UD Salamanca,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,David Cortés,31,Spain,Right-Back,RB,2500000.0,Hércules CF,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Jaime Romero,20,Spain,Right Winger,RW,750000.0,Udinese Calcio,Italy,0.0,in,summer,Laliga,2011,True,free loan
+Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,,Celta Vigo B,Spain,0.0,in,summer,Laliga,2011,False,
+Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,600000.0,Udinese Calcio,Italy,0.0,in,summer,Laliga,2011,False,
+Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,700000.0,UD Salamanca,Spain,,in,summer,Laliga,2011,False,
+Granada CF,Carlos Martins,29,Portugal,Attacking Midfield,AM,6200000.0,Benfica,Portugal,0.0,in,summer,Laliga,2011,True,free loan
+Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,,UD Salamanca,Spain,,in,summer,Laliga,2011,False,
+Granada CF,Júlio César,24,Brazil,Goalkeeper,GK,1700000.0,Benfica,Portugal,0.0,in,summer,Laliga,2011,True,free loan
+Granada CF,Juan José Collantes,28,Spain,Right Winger,RW,400000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2011,False,
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,David Ferreiro,23,Spain,Right Winger,RW,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Óscar Pérez,29,Spain,Central Midfield,CM,600000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Granada,31,Spain,Attacking Midfield,AM,200000.0,UD Melilla,Spain,0.0,out,summer,Laliga,2011,False,
+Granada CF,Toti,23,Spain,Attacking Midfield,AM,500000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,600000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Matías Alonso,26,Uruguay,Centre-Forward,CF,300000.0,Zamora CF,Spain,,out,summer,Laliga,2011,False,
+Granada CF,Jeison Murillo,19,Colombia,Centre-Back,CB,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,David de Coz,31,Spain,Right-Back,RB,500000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,700000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Jonathan Rosales,21,Spain,Centre-Back,CB,,UD Maracena,Spain,,out,summer,Laliga,2011,False,
+Granada CF,Rafa Martínez,24,Spain,Goalkeeper,GK,,Montañeros CF,Spain,,out,summer,Laliga,2011,False,
+Granada CF,Fabián Orellana,25,Chile,Right Winger,RW,1800000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Álex Cruz,21,Spain,Right Winger,RW,800000.0,CE Sabadell,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Juanjo,25,Spain,Centre-Forward,CF,,Cádiz CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Granada CF,Jonathan Mensah,20,Ghana,Centre-Back,CB,700000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Granada CF,Rubén Párraga,26,Spain,Left-Back,LB,500000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,600000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Granada CF,Carlos Calvo,25,Spain,Attacking Midfield,AM,900000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Granada CF,Juande,24,Spain,Defensive Midfield,DM,900000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,2500000.0,Palmeiras,Brazil,4000000.0,in,winter,Laliga,2011,False,
+Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,1800000.0,KRC Genk,Belgium,1000000.0,in,winter,Laliga,2011,False,
+Granada CF,Henrique Almeida,20,Brazil,Centre-Forward,CF,1200000.0,São Paulo,Brazil,500000.0,in,winter,Laliga,2011,True,loan with fee
+Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,1300000.0,Audax Italiano,Chile,0.0,in,winter,Laliga,2011,False,
+Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,,Orihuela CF,Spain,0.0,in,winter,Laliga,2011,False,
+Granada CF,Borja Gómez,23,Spain,Centre-Back,CB,500000.0,Karpaty,Ukraine,0.0,in,winter,Laliga,2011,True,free loan
+Granada CF,Yohan Mollo,22,France,Right-Back,RB,2000000.0,AS Nancy,France,150000.0,out,winter,Laliga,2011,True,loan with fee
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,,Caravaca CF,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,,Cádiz CF,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,1300000.0,CDUC,Chile,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,2200000.0,Cesena,Italy,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,2500000.0,Novara,Italy,0.0,out,winter,Laliga,2011,True,free loan
+Granada CF,Jorge Ribeiro,30,Portugal,Left-Back,LB,1000000.0,Without Club,,,out,winter,Laliga,2011,False,
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,5000000.0,Man City,England,1000000.0,in,summer,Laliga,2011,False,
+Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,2000000.0,Getafe,Spain,200000.0,in,summer,Laliga,2011,False,
+Levante UD,Pedro López,27,Spain,Right-Back,RB,2000000.0,Real Valladolid,Spain,200000.0,in,summer,Laliga,2011,False,
+Levante UD,Keylor Navas,24,Costa Rica,Goalkeeper,GK,600000.0,Albacete,Spain,150000.0,in,summer,Laliga,2011,True,loan with fee
+Levante UD,José Javier Barkero,32,Spain,Attacking Midfield,AM,2000000.0,CD Numancia,Spain,0.0,in,summer,Laliga,2011,False,
+Levante UD,Francisco Farinós,33,Spain,Defensive Midfield,DM,1000000.0,Hércules CF,Spain,0.0,in,summer,Laliga,2011,False,
+Levante UD,Asier del Horno,30,Spain,Left-Back,LB,1000000.0,Valencia,Spain,0.0,in,summer,Laliga,2011,False,
+Levante UD,Carlos Aranda,30,Spain,Centre-Forward,CF,2500000.0,CA Osasuna,Spain,0.0,in,summer,Laliga,2011,False,
+Levante UD,Gustavo Cabral,25,Argentina,Centre-Back,CB,1000000.0,Arsenal FC,Argentina,0.0,in,summer,Laliga,2011,True,free loan
+Levante UD,Nabil El Zhar,24,Morocco,Right Winger,RW,1500000.0,Liverpool,England,0.0,in,summer,Laliga,2011,False,
+Levante UD,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,2000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,5000000.0,Loko Moscow,Russia,7500000.0,out,summer,Laliga,2011,False,
+Levante UD,Manolo Reina,26,Spain,Goalkeeper,GK,2000000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2011,False,
+Levante UD,Xisco,30,Spain,Second Striker,SS,1000000.0,Dinamo Tbilisi,Georgia,0.0,out,summer,Laliga,2011,False,
+Levante UD,David Cerra,27,Spain,Right-Back,RB,600000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2011,False,
+Levante UD,Gorka Larrea,27,Spain,Central Midfield,CM,600000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2011,False,
+Levante UD,Xisco Nadal,25,Spain,Right Winger,RW,1000000.0,Alqueries,Spain,0.0,out,summer,Laliga,2011,False,
+Levante UD,Miquel Robusté,26,Spain,Centre-Back,CB,700000.0,Xerez CD,Spain,0.0,out,summer,Laliga,2011,False,
+Levante UD,Miguel Pérez,31,Spain,Right Midfield,RM,600000.0,Retired,,,out,summer,Laliga,2011,False,
+Levante UD,Sergio,34,Spain,Central Midfield,CM,1000000.0,Retired,,,out,summer,Laliga,2011,False,
+Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,2000000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Levante UD,Asier del Horno,30,Spain,Left-Back,LB,1000000.0,Valencia,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Levante UD,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,2500000.0,Reggina,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,5000000.0,Man City,England,0.0,out,summer,Laliga,2011,True,end of loan
+Levante UD,Jefferson Montero,21,Ecuador,Left Winger,LW,3000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Levante UD,Pedro Botelho,22,Brazil,Left-Back,LB,1500000.0,Arsenal,England,0.0,in,winter,Laliga,2011,True,free loan
+Levante UD,Óscar Serrano,30,Spain,Left Midfield,LM,2000000.0,Racing,Spain,0.0,in,winter,Laliga,2011,False,
+Levante UD,Abdelkader Ghezzal,27,Algeria,Centre-Forward,CF,3000000.0,Bari,Italy,0.0,in,winter,Laliga,2011,True,free loan
+Levante UD,David Navarro,31,Spain,Centre-Back,CB,1300000.0,Neuchâtel Xamax,Switzerland,0.0,in,winter,Laliga,2011,False,
+Levante UD,Nano,31,Spain,Centre-Back,CB,1500000.0,GZ Renhe,China,500000.0,out,winter,Laliga,2011,False,
+Levante UD,Carlos Aranda,31,Spain,Centre-Forward,CF,2500000.0,Real Zaragoza,Spain,0.0,out,winter,Laliga,2011,False,
+Levante UD,Héctor Rodas,23,Spain,Centre-Back,CB,500000.0,Elche CF,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Levante UD,Marc Mateu,21,Spain,Attacking Midfield,AM,200000.0,Real Zaragoza B,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Levante UD,Rafa Jordá,28,Spain,Centre-Forward,CF,900000.0,GZ Renhe,China,0.0,out,winter,Laliga,2011,False,
+Málaga CF,Santi Cazorla,26,Spain,Central Midfield,CM,18000000.0,Villarreal,Spain,23000000.0,in,summer,Laliga,2011,False,
+Málaga CF,Jérémy Toulalan,27,France,Defensive Midfield,DM,18000000.0,Olympique Lyon,France,11000000.0,in,summer,Laliga,2011,False,
+Málaga CF,Nacho Monreal,25,Spain,Left-Back,LB,7000000.0,CA Osasuna,Spain,6000000.0,in,summer,Laliga,2011,False,
+Málaga CF,Isco,19,Spain,Attacking Midfield,AM,,Valencia B,Spain,6000000.0,in,summer,Laliga,2011,False,
+Málaga CF,Diego Buonanotte,23,Argentina,Attacking Midfield,AM,2700000.0,River Plate,Argentina,4500000.0,in,summer,Laliga,2011,False,
+Málaga CF,Joaquín,29,Spain,Right Winger,RW,10000000.0,Valencia,Spain,4200000.0,in,summer,Laliga,2011,False,
+Málaga CF,Sergio Sánchez,25,Spain,Centre-Back,CB,4000000.0,Sevilla FC,Spain,2800000.0,in,summer,Laliga,2011,False,
+Málaga CF,Joris Mathijsen,31,Netherlands,Centre-Back,CB,5000000.0,Hamburger SV,Germany,1750000.0,in,summer,Laliga,2011,False,
+Málaga CF,Ruud van Nistelrooy,35,Netherlands,Centre-Forward,CF,6000000.0,Hamburger SV,Germany,0.0,in,summer,Laliga,2011,False,
+Málaga CF,Manu Torres,21,Spain,Centre-Back,CB,1000000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Manolo Gaspar,30,Spain,Right-Back,RB,800000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Javi López,23,Spain,Right Winger,RW,400000.0,Real Jaén CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Málaga CF,Edu Ramos,19,Spain,Central Midfield,CM,,FC Villarreal C,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,David González,21,Spain,Central Midfield,CM,100000.0,Oviedo Vetusta,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Patrick Mtiliga,30,Denmark,Left-Back,LB,1500000.0,Nordsjaelland,Denmark,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Dani Toribio,22,Spain,Central Midfield,CM,900000.0,Villarreal CF B,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Jordi Pablo,21,Spain,Right Midfield,RM,400000.0,Villarreal CF B,Spain,0.0,out,summer,Laliga,2011,False,
+Málaga CF,Sandro Silva,27,Brazil,Defensive Midfield,DM,2000000.0,Internacional,Brazil,0.0,out,summer,Laliga,2011,True,free loan
+Málaga CF,Francesc Arnau,36,Spain,Goalkeeper,GK,,Retired,,,out,summer,Laliga,2011,False,
+Málaga CF,Fernando,32,Spain,Attacking Midfield,AM,1000000.0,Without Club,,,out,summer,Laliga,2011,False,
+Málaga CF,Quincy Owusu-Abeyie,25,Ghana,Left Winger,LW,2000000.0,Al-Sadd SC,Qatar,0.0,out,summer,Laliga,2011,True,end of loan
+Málaga CF,Sergio Asenjo,22,Spain,Goalkeeper,GK,5000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Málaga CF,Carlos Kameni,27,Cameroon,Goalkeeper,GK,2000000.0,Espanyol,Spain,0.0,in,winter,Laliga,2011,False,
+Málaga CF,Apoño,27,Spain,Central Midfield,CM,4000000.0,Real Zaragoza,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Málaga CF,Kris Stadsgaard,26,Denmark,Centre-Back,CB,1500000.0,FC Copenhagen,Denmark,0.0,out,winter,Laliga,2011,False,
+Málaga CF,Edinho,29,Portugal,Centre-Forward,CF,1000000.0,Coimbra,Portugal,0.0,out,winter,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Juan Albín,24,Uruguay,Attacking Midfield,AM,2500000.0,Getafe,Spain,3000000.0,in,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Héctor Moreno,23,Mexico,Centre-Back,CB,4500000.0,AZ Alkmaar,Netherlands,2500000.0,in,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Attacking Midfield,AM,275000.0,Defensor,Uruguay,1000000.0,in,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Dídac Vilà,22,Spain,Left-Back,LB,3000000.0,AC Milan,Italy,0.0,in,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Rui Fonte,21,Portugal,Centre-Forward,CF,,Sporting CP,Portugal,0.0,in,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,1500000.0,CA Osasuna,Spain,0.0,in,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Vladimir Weiss,21,Slovakia,Left Winger,LW,3000000.0,Man City,England,0.0,in,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Daniel Osvaldo,25,Italy,Centre-Forward,CF,10000000.0,AS Roma,Italy,16000000.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,José Callejón,24,Spain,Right Winger,RW,6500000.0,Real Madrid,Spain,5000000.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Luis García,30,Spain,Central Midfield,CM,5000000.0,Real Zaragoza,Spain,1000000.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Coro,28,Spain,Centre-Forward,CF,1200000.0,Girona,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Milan Smiljanic,24,Serbia,Defensive Midfield,DM,1600000.0,Partizan,Serbia,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,David García,30,Spain,Left-Back,LB,2000000.0,Girona,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Aldo Duscher,32,Argentina,Defensive Midfield,DM,1000000.0,Barcelona SC,Ecuador,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Román Martínez,28,Argentina,Central Midfield,CM,1000000.0,Tigre,Argentina,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Ángel Martínez,25,Spain,Central Midfield,CM,700000.0,Blackpool,England,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Manu Molina,19,Spain,Attacking Midfield,AM,300000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Iván Alonso,32,Uruguay,Centre-Forward,CF,2000000.0,Toluca,Mexico,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Javi Chica,26,Spain,Right-Back,RB,2000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Ben Sahar,21,Israel,Centre-Forward,CF,1500000.0,AJ Auxerre,France,0.0,out,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Attacking Midfield,AM,1000000.0,Gimnàstic,Spain,0.0,out,summer,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Iván de la Peña,35,Spain,Attacking Midfield,AM,,Retired,,,out,summer,Laliga,2011,False,
+RCD Espanyol Barcelona,Philippe Coutinho,19,Brazil,Attacking Midfield,AM,8000000.0,Inter,Italy,0.0,in,winter,Laliga,2011,True,free loan
+RCD Espanyol Barcelona,Kalu Uche,29,Nigeria,Centre-Forward,CF,3500000.0,Neuchâtel Xamax,Switzerland,0.0,in,winter,Laliga,2011,False,
+RCD Espanyol Barcelona,Víctor Sánchez,24,Spain,Central Midfield,CM,1000000.0,Neuchâtel Xamax,Switzerland,0.0,in,winter,Laliga,2011,False,
+RCD Espanyol Barcelona,Jesús Dátolo,27,Argentina,Attacking Midfield,AM,3000000.0,Internacional,Brazil,3000000.0,out,winter,Laliga,2011,False,
+RCD Espanyol Barcelona,Carlos Kameni,27,Cameroon,Goalkeeper,GK,2000000.0,Málaga CF,Spain,0.0,out,winter,Laliga,2011,False,
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Attacking Midfield,AM,1000000.0,CE Sabadell,Spain,0.0,out,winter,Laliga,2011,True,free loan
+RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,3500000.0,KRC Genk,Belgium,2400000.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Alejandro Alfaro,24,Spain,Left Winger,LW,3000000.0,Sevilla FC,Spain,600000.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Pablo Cáceres,26,Uruguay,Left-Back,LB,300000.0,Tigre,Argentina,400000.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Chico,24,Spain,Centre-Back,CB,3000000.0,Genoa,Italy,200000.0,in,summer,Laliga,2011,True,loan with fee
+RCD Mallorca,Gianni Zuiverloon,24,Netherlands,Centre-Back,CB,4000000.0,West Brom,England,0.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Tomer Hemed,24,Israel,Centre-Forward,CF,500000.0,Maccabi Haifa,Israel,0.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Juan Calatayud,31,Spain,Goalkeeper,GK,2500000.0,Hércules CF,Spain,0.0,in,summer,Laliga,2011,False,
+RCD Mallorca,Fernando Tissone,25,Argentina,Defensive Midfield,DM,2400000.0,Sampdoria,Italy,0.0,in,summer,Laliga,2011,True,free loan
+RCD Mallorca,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,5000000.0,Villarreal,Spain,8000000.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Óscar Trejo,23,Argentina,Attacking Midfield,AM,1500000.0,Sporting Gijón,Spain,1000000.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Pierre Webó,29,Cameroon,Centre-Forward,CF,4000000.0,Istanbul BBSK,Turkey,750000.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Rubén González,29,Spain,Centre-Back,CB,1200000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Ayoze Díaz,29,Spain,Left-Back,LB,1800000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Sergi Enrich,21,Spain,Centre-Forward,CF,400000.0,Recr. Huelva,Spain,0.0,out,summer,Laliga,2011,True,free loan
+RCD Mallorca,Germán Lux,28,Argentina,Goalkeeper,GK,1000000.0,Dep. La Coruña,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Tuni,29,Spain,Right Winger,RW,900000.0,Gimnàstic,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Enrique Corrales,29,Spain,Left-Back,LB,1000000.0,UD Las Palmas,Spain,0.0,out,summer,Laliga,2011,False,
+RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,3500000.0,KRC Genk,Belgium,0.0,out,summer,Laliga,2011,True,free loan
+RCD Mallorca,Edson Ratinho,25,Brazil,Right-Back,RB,1000000.0,Mogi Mirim,Brazil,0.0,out,winter,Laliga,2011,False,
+RCD Mallorca,Akihiro Ienaga,25,Japan,Right Winger,RW,1000000.0,Ulsan Hyundai,"Korea, South",0.0,out,winter,Laliga,2011,True,free loan
+Racing Santander,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,2500000.0,Reggina,Italy,0.0,in,summer,Laliga,2011,True,free loan
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,2100000.0,Siena,Italy,0.0,in,summer,Laliga,2011,False,
+Racing Santander,Lautaro Acosta,23,Argentina,Left Winger,LW,1000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Racing Santander,Bernardo Espinosa,22,Colombia,Centre-Back,CB,300000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Racing Santander,Toño,32,Spain,Goalkeeper,GK,3500000.0,Granada CF,Spain,0.0,out,summer,Laliga,2011,False,
+Racing Santander,Fabio Coltorti,30,Switzerland,Goalkeeper,GK,1000000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Laliga,2011,False,
+Racing Santander,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,3000000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,False,
+Racing Santander,Iván Bolado,21,Equatorial Guinea,Centre-Forward,CF,1500000.0,FC Cartagena,Spain,,out,summer,Laliga,2011,False,
+Racing Santander,Brian Sarmiento,21,Argentina,Attacking Midfield,AM,700000.0,Racing Club,Argentina,,out,summer,Laliga,2011,False,
+Racing Santander,Pablo Pinillos,36,Spain,Right-Back,RB,400000.0,Retired,,,out,summer,Laliga,2011,False,
+Racing Santander,Henrique,24,Brazil,Centre-Back,CB,5000000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,2600000.0,Siena,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Racing Santander,Markus Rosenberg,28,Sweden,Centre-Forward,CF,3000000.0,Werder Bremen,Germany,0.0,out,summer,Laliga,2011,True,end of loan
+Racing Santander,Giovani dos Santos,22,Mexico,Second Striker,SS,5000000.0,Spurs,England,0.0,out,summer,Laliga,2011,True,end of loan
+Racing Santander,Khouma Babacar,18,Senegal,Centre-Forward,CF,2000000.0,Fiorentina,Italy,350000.0,in,winter,Laliga,2011,True,loan with fee
+Racing Santander,Marcos Gullón,22,Spain,Central Midfield,CM,1500000.0,Villarreal CF B,Spain,,in,winter,Laliga,2011,False,
+Racing Santander,Ariel Nahuelpán,24,Argentina,Centre-Forward,CF,1500000.0,LDU Quito,Ecuador,1900000.0,out,winter,Laliga,2011,False,
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,2000000.0,Monaco,France,200000.0,out,winter,Laliga,2011,False,
+Racing Santander,Óscar Serrano,30,Spain,Left Midfield,LM,2000000.0,Levante,Spain,0.0,out,winter,Laliga,2011,False,
+Racing Santander,Damián Ísmodes,22,Peru,Left Winger,LW,400000.0,Cienciano,Peru,,out,winter,Laliga,2011,False,
+Rayo Vallecano,Pedro Botelho,21,Brazil,Left-Back,LB,1500000.0,Arsenal,England,340000.0,in,summer,Laliga,2011,True,loan with fee
+Rayo Vallecano,Michu,25,Spain,Second Striker,SS,1000000.0,Celta de Vigo,Spain,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Raúl Bravo,30,Spain,Centre-Back,CB,1500000.0,Olympiacos,Greece,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Raúl Tamudo,33,Spain,Centre-Forward,CF,3000000.0,Real Sociedad,Spain,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Sueliton,24,Brazil,Right-Back,RB,,Vitória-PE,Brazil,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Roberto Trashorras,30,Spain,Central Midfield,CM,2000000.0,Celta de Vigo,Spain,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Mikel Labaka,30,Spain,Centre-Back,CB,1600000.0,Real Sociedad,Spain,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,1000000.0,Houston,United States,0.0,in,summer,Laliga,2011,False,
+Rayo Vallecano,Jordi Figueras,24,Spain,Centre-Back,CB,1000000.0,Rubin Kazan,Russia,0.0,in,summer,Laliga,2011,True,free loan
+Rayo Vallecano,Dani Pacheco,20,Spain,Left Winger,LW,100000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Rayo Vallecano,Coke,24,Spain,Right-Back,RB,2500000.0,Sevilla FC,Spain,1800000.0,out,summer,Laliga,2011,False,
+Rayo Vallecano,Borja García,20,Spain,Attacking Midfield,AM,600000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2011,False,
+Rayo Vallecano,Brayan Angulo,21,Colombia,Left-Back,LB,500000.0,Atl. Baleares,Spain,0.0,out,summer,Laliga,2011,False,
+Rayo Vallecano,David Aganzo,30,Spain,Centre-Forward,CF,1500000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2011,False,
+Rayo Vallecano,Juan Carlos,23,Spain,Goalkeeper,GK,,Hércules CF,Spain,,out,summer,Laliga,2011,False,
+Rayo Vallecano,Yuma,25,Spain,Central Midfield,CM,200000.0,UD Salamanca,Spain,,out,summer,Laliga,2011,False,
+Rayo Vallecano,Juli,29,Spain,Second Striker,SS,900000.0,Asteras Tripoli,Greece,0.0,out,summer,Laliga,2011,True,free loan
+Rayo Vallecano,Juan Quero,26,Spain,Left Winger,LW,700000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Rayo Vallecano,Salva,30,Spain,Centre-Back,CB,400000.0,Retired,,,out,summer,Laliga,2011,False,
+Rayo Vallecano,Carlos de la Vega,31,Spain,Right-Back,RB,300000.0,Without Club,,,out,summer,Laliga,2011,False,
+Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,2500000.0,Sevilla FC,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Rayo Vallecano,Antonio Amaya,28,Spain,Centre-Back,CB,800000.0,Wigan,England,0.0,out,summer,Laliga,2011,True,end of loan
+Rayo Vallecano,Óscar Trejo,23,Argentina,Attacking Midfield,AM,1500000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Rayo Vallecano,Diego Costa,23,Spain,Centre-Forward,CF,5000000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,3000000.0,Sevilla FC,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Rayo Vallecano,Jorge Pulido,20,Spain,Centre-Back,CB,500000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Rayo Vallecano,Joel Robles,21,Spain,Goalkeeper,GK,2000000.0,Atlético Madrid,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Rayo Vallecano,Néstor Susaeta,27,Spain,Right Winger,RW,600000.0,Lausanne-Sport,Switzerland,0.0,out,winter,Laliga,2011,False,
+Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,1000000.0,FC Baku,Azerbaijan,0.0,out,winter,Laliga,2011,False,
+Rayo Vallecano,Rafa García,25,Spain,Central Midfield,CM,500000.0,Xerez CD,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Real Betis Balompié,Roque Santa Cruz,30,Paraguay,Centre-Forward,CF,4000000.0,Man City,England,1500000.0,in,summer,Laliga,2011,True,loan with fee
+Real Betis Balompié,Javier Matilla,22,Spain,Central Midfield,CM,1500000.0,Villarreal,Spain,1350000.0,in,summer,Laliga,2011,False,
+Real Betis Balompié,Dusko Tosic,26,Serbia,Centre-Back,CB,1000000.0,Red Star,Serbia,300000.0,in,summer,Laliga,2011,True,loan with fee
+Real Betis Balompié,Antonio Amaya,28,Spain,Centre-Back,CB,800000.0,Wigan,England,285000.0,in,summer,Laliga,2011,False,
+Real Betis Balompié,Javi Chica,26,Spain,Right-Back,RB,2000000.0,Espanyol,Spain,0.0,in,summer,Laliga,2011,False,
+Real Betis Balompié,Mario Abrante,29,Spain,Centre-Back,CB,1500000.0,Getafe,Spain,0.0,in,summer,Laliga,2011,False,
+Real Betis Balompié,Fabri,23,Spain,Goalkeeper,GK,500000.0,Real Valladolid,Spain,0.0,in,summer,Laliga,2011,False,
+Real Betis Balompié,Jefferson Montero,21,Ecuador,Left Winger,LW,3000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Real Betis Balompié,Ustaritz,28,Spain,Centre-Back,CB,1800000.0,Athletic,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Real Betis Balompié,Achille Emaná,29,Cameroon,Attacking Midfield,AM,7000000.0,Hilal,Saudi Arabia,4500000.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Brimah Razak,24,Ghana,Goalkeeper,GK,100000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Israel Bascón,24,Spain,Right Midfield,RM,700000.0,Xerez CD,Spain,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Mariano Pavone,29,Argentina,Centre-Forward,CF,1200000.0,Lanús,Argentina,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Juande,24,Spain,Defensive Midfield,DM,900000.0,KVC Westerlo,Belgium,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Arzu,30,Spain,Defensive Midfield,DM,2000000.0,Gimnàstic,Spain,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,Rodri,25,Spain,Right Midfield,RM,600000.0,CD Guadalajara,Spain,0.0,out,summer,Laliga,2011,False,
+Real Betis Balompié,David Belenguer,38,Spain,Centre-Back,CB,,Retired,,,out,summer,Laliga,2011,False,
+Real Betis Balompié,David Odonkor,27,Germany,Right Winger,RW,700000.0,Without Club,,,out,summer,Laliga,2011,False,
+Real Betis Balompié,Fernando Vega,27,Spain,Left-Back,LB,1600000.0,Without Club,,,out,summer,Laliga,2011,False,
+Real Betis Balompié,Rovérsio,27,Brazil,Centre-Back,CB,1000000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Real Betis Balompié,Miguel Lopes,24,Portugal,Right-Back,RB,2500000.0,FC Porto,Portugal,0.0,out,summer,Laliga,2011,True,end of loan
+Real Betis Balompié,Paulão,29,Brazil,Centre-Back,CB,2500000.0,Saint-Étienne,France,0.0,in,winter,Laliga,2011,True,free loan
+Real Betis Balompié,Ezequiel Calvente,21,Spain,Right Winger,RW,1500000.0,CE Sabadell,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Real Betis Balompié,Momo,29,Spain,Left Winger,LW,1800000.0,UD Las Palmas,Spain,0.0,out,winter,Laliga,2011,False,
+Real Madrid,Fábio Coentrão,23,Portugal,Left-Back,LB,24000000.0,Benfica,Portugal,30000000.0,in,summer,Laliga,2011,False,
+Real Madrid,Nuri Sahin,22,Turkey,Defensive Midfield,DM,20000000.0,Bor. Dortmund,Germany,10000000.0,in,summer,Laliga,2011,False,
+Real Madrid,Raphaël Varane,18,France,Centre-Back,CB,4000000.0,Lens,France,10000000.0,in,summer,Laliga,2011,False,
+Real Madrid,José Callejón,24,Spain,Right Winger,RW,6500000.0,Espanyol,Spain,5000000.0,in,summer,Laliga,2011,False,
+Real Madrid,Hamit Altintop,28,Turkey,Right Midfield,RM,6000000.0,FC Bayern,Germany,0.0,in,summer,Laliga,2011,False,
+Real Madrid,Ezequiel Garay,24,Argentina,Centre-Back,CB,10000000.0,Benfica,Portugal,5500000.0,out,summer,Laliga,2011,False,
+Real Madrid,Sergio Canales,20,Spain,Attacking Midfield,AM,6000000.0,Valencia,Spain,2000000.0,out,summer,Laliga,2011,True,loan with fee
+Real Madrid,Fernando Gago,25,Argentina,Defensive Midfield,DM,7000000.0,AS Roma,Italy,500000.0,out,summer,Laliga,2011,True,loan with fee
+Real Madrid,Pedro León,24,Spain,Right Winger,RW,6000000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Real Madrid,Royston Drenthe,24,Netherlands,Left Midfield,LM,3500000.0,Everton,England,0.0,out,summer,Laliga,2011,True,free loan
+Real Madrid,Jerzy Dudek,38,Poland,Goalkeeper,GK,,Retired,,,out,summer,Laliga,2011,False,
+Real Madrid,Emmanuel Adebayor,27,Togo,Centre-Forward,CF,17000000.0,Man City,England,0.0,out,summer,Laliga,2011,True,end of loan
+Real Sociedad,McDonald Mariga,24,Kenya,Defensive Midfield,DM,7000000.0,Inter,Italy,1500000.0,in,summer,Laliga,2011,True,loan with fee
+Real Sociedad,Carlos Vela,22,Mexico,Right Winger,RW,4500000.0,Arsenal,England,0.0,in,summer,Laliga,2011,True,free loan
+Real Sociedad,Diego Rivas,31,Spain,Central Midfield,CM,3000000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Iosu Esnaola,24,Spain,Centre-Back,CB,,SD Noja,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Iñigo Sarasola,24,Spain,Left-Back,LB,,SD Beasain,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Toño,25,Spain,Goalkeeper,GK,200000.0,CD Guadalajara,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Raúl Tamudo,33,Spain,Centre-Forward,CF,3000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Paco Sutil,26,Spain,Attacking Midfield,AM,1000000.0,Real Murcia,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Mikel Labaka,30,Spain,Centre-Back,CB,1600000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2011,False,
+Real Sociedad,Borja Viguera,24,Spain,Centre-Forward,CF,300000.0,Albacete,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Real Sociedad,Jeffrey Sarpong,23,Netherlands,Left Winger,LW,1000000.0,NAC Breda,Netherlands,0.0,out,winter,Laliga,2011,True,free loan
+Real Zaragoza,Roberto,25,Spain,Goalkeeper,GK,5600000.0,Benfica,Portugal,8600000.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Hélder Postiga,29,Portugal,Centre-Forward,CF,6700000.0,Sporting CP,Portugal,1300000.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Luis García,30,Spain,Central Midfield,CM,5000000.0,Espanyol,Spain,1000000.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Franco Zuculini,20,Argentina,Central Midfield,CM,3000000.0,TSG Hoffenheim,Germany,400000.0,in,summer,Laliga,2011,True,loan with fee
+Real Zaragoza,David Mateos,24,Spain,Centre-Back,CB,500000.0,RM Castilla,Spain,200000.0,in,summer,Laliga,2011,True,loan with fee
+Real Zaragoza,Abraham Minero,25,Spain,Left-Back,LB,700000.0,FC Barcelona B,Spain,0.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Edu Oriol,24,Spain,Left Winger,LW,400000.0,FC Barcelona B,Spain,0.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,2000000.0,Zenit S-Pb,Russia,0.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Antonio Tomás,26,Spain,Central Midfield,CM,2000000.0,Dep. La Coruña,Spain,0.0,in,summer,Laliga,2011,False,
+Real Zaragoza,Efraín Juárez,23,Mexico,Right-Back,RB,2500000.0,Celtic,Scotland,0.0,in,summer,Laliga,2011,True,free loan
+Real Zaragoza,Rúben Micael,24,Portugal,Central Midfield,CM,4900000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2011,True,free loan
+Real Zaragoza,Pablo Barrera,24,Mexico,Right Winger,RW,3500000.0,West Ham,England,0.0,in,summer,Laliga,2011,True,free loan
+Real Zaragoza,Juankar,21,Spain,Left-Back,LB,,Braga,Portugal,0.0,in,summer,Laliga,2011,True,free loan
+Real Zaragoza,Ander Herrera,21,Spain,Central Midfield,CM,7500000.0,Athletic,Spain,7500000.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,4000000.0,Villarreal,Spain,5000000.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Gabi,27,Spain,Defensive Midfield,DM,3000000.0,Atlético Madrid,Spain,3000000.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Matteo Contini,31,Italy,Centre-Back,CB,2800000.0,Siena,Italy,300000.0,out,summer,Laliga,2011,True,loan with fee
+Real Zaragoza,Toni Doblas,30,Spain,Goalkeeper,GK,500000.0,Xerez CD,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Real Zaragoza,Jorge López,32,Spain,Right Winger,RW,2000000.0,OFI Crete,Greece,0.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Saïd Boutahar,28,Netherlands,Attacking Midfield,AM,1500000.0,Al-Wakrah SC,Qatar,0.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Jiri Jarosik,33,Czech Republic,Centre-Back,CB,1800000.0,Sparta Prague,Czech Republic,0.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Edmílson,34,Brazil,Defensive Midfield,DM,800000.0,Ceará SC,Brazil,0.0,out,summer,Laliga,2011,False,
+Real Zaragoza,Pablo,22,Brazil,Right Midfield,RM,750000.0,Figueirense FC,Brazil,0.0,out,summer,Laliga,2011,True,free loan
+Real Zaragoza,Raúl Goni,22,Spain,Centre-Back,CB,,FC Cartagena,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Real Zaragoza,Víctor Laguardia,21,Spain,Centre-Back,CB,500000.0,UD Las Palmas,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Real Zaragoza,Carlos Diogo,27,Uruguay,Right-Back,RB,2500000.0,Without Club,,,out,summer,Laliga,2011,False,
+Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,1200000.0,Without Club,,,out,summer,Laliga,2011,False,
+Real Zaragoza,Marco Pérez,20,Colombia,Centre-Forward,CF,2000000.0,Boyacá Chicó,Colombia,0.0,out,summer,Laliga,2011,True,end of loan
+Real Zaragoza,Nicolás Bertolo,25,Argentina,Left Winger,LW,3000000.0,US Palermo,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Real Zaragoza,Florent Sinama-Pongolle,26,France,Second Striker,SS,3500000.0,Sporting CP,Portugal,0.0,out,summer,Laliga,2011,True,end of loan
+Real Zaragoza,Guirane N'Daw,27,Senegal,Defensive Midfield,DM,2500000.0,Saint-Étienne,France,0.0,out,summer,Laliga,2011,True,end of loan
+Real Zaragoza,Carlos Aranda,31,Spain,Centre-Forward,CF,2500000.0,Levante,Spain,0.0,in,winter,Laliga,2011,False,
+Real Zaragoza,Apoño,27,Spain,Central Midfield,CM,4000000.0,Málaga CF,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Real Zaragoza,Tomislav Dujmovic,30,Croatia,Central Midfield,CM,2000000.0,Dinamo Moscow,Russia,0.0,in,winter,Laliga,2011,True,free loan
+Real Zaragoza,Pablo Álvarez,27,Argentina,Right-Back,RB,1300000.0,Catania,Italy,0.0,in,winter,Laliga,2011,True,free loan
+Real Zaragoza,Leonardo Ponzio,29,Argentina,Defensive Midfield,DM,3000000.0,River Plate,Argentina,0.0,out,winter,Laliga,2011,False,
+Real Zaragoza,Antonio Tomás,27,Spain,Central Midfield,CM,1500000.0,CSKA Sofia,Bulgaria,0.0,out,winter,Laliga,2011,False,
+Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,2000000.0,Retired,,,out,winter,Laliga,2011,False,
+Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,1200000.0,Without Club,,,out,winter,Laliga,2011,False,
+Sevilla FC,Manu del Moral,27,Spain,Centre-Forward,CF,5500000.0,Getafe,Spain,4500000.0,in,summer,Laliga,2011,False,
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,7000000.0,FC Barcelona,Spain,3000000.0,in,summer,Laliga,2011,False,
+Sevilla FC,Emir Spahic,30,Bosnia-Herzegovina,Centre-Back,CB,4500000.0,Montpellier,France,2000000.0,in,summer,Laliga,2011,False,
+Sevilla FC,Coke,24,Spain,Right-Back,RB,2500000.0,Rayo Vallecano,Spain,1800000.0,in,summer,Laliga,2011,False,
+Sevilla FC,Piotr Trochowski,27,Germany,Attacking Midfield,AM,5000000.0,Hamburger SV,Germany,0.0,in,summer,Laliga,2011,False,
+Sevilla FC,Didier Zokora,30,Cote d'Ivoire,Defensive Midfield,DM,10000000.0,Trabzonspor,Turkey,5000000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Diego Capel,23,Spain,Left Winger,LW,8000000.0,Sporting CP,Portugal,3500000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Sergio Sánchez,25,Spain,Centre-Back,CB,4000000.0,Málaga CF,Spain,2800000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Rodri Ríos,21,Spain,Centre-Forward,CF,500000.0,FC Barcelona B,Spain,1500000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Mouhamadou Dabo,24,France,Right-Back,RB,5000000.0,Olympique Lyon,France,800000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Alejandro Alfaro,24,Spain,Left Winger,LW,3000000.0,RCD Mallorca,Spain,600000.0,out,summer,Laliga,2011,False,
+Sevilla FC,Juan Cala,21,Spain,Centre-Back,CB,1500000.0,AEK Athens,Greece,0.0,out,summer,Laliga,2011,True,free loan
+Sevilla FC,José Carlos,23,Spain,Attacking Midfield,AM,1000000.0,AEK Athens,Greece,0.0,out,summer,Laliga,2011,False,
+Sevilla FC,David Prieto,28,Spain,Centre-Back,CB,1500000.0,Córdoba CF,Spain,0.0,out,summer,Laliga,2011,False,
+Sevilla FC,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,2000000.0,Levante,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Sevilla FC,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Espanyol,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Sevilla FC,Lautaro Acosta,23,Argentina,Left Winger,LW,1000000.0,Racing,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Sevilla FC,Bernardo Espinosa,22,Colombia,Centre-Back,CB,300000.0,Racing,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Sevilla FC,Ivica Dragutinovic,35,Serbia,Centre-Back,CB,600000.0,Retired,,,out,summer,Laliga,2011,False,
+Sevilla FC,Luca Cigarini,25,Italy,Defensive Midfield,DM,4500000.0,SSC Napoli,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,7000000.0,FC Barcelona,Spain,0.0,out,summer,Laliga,2011,True,end of loan
+Sevilla FC,José Antonio Reyes,28,Spain,Right Winger,RW,15000000.0,Atlético Madrid,Spain,3500000.0,in,winter,Laliga,2011,False,
+Sevilla FC,Baba Diawara,24,Senegal,Centre-Forward,CF,3000000.0,Marítimo,Portugal,3000000.0,in,winter,Laliga,2011,False,
+Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,300000.0,Córdoba CF,Spain,1200000.0,in,winter,Laliga,2011,False,
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,7000000.0,Juventus,Italy,1500000.0,out,winter,Laliga,2011,True,loan with fee
+Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,300000.0,Córdoba CF,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Sevilla FC,Alexis Ruano,26,Spain,Centre-Back,CB,2500000.0,Getafe,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Sevilla FC,Emiliano Armenteros,25,Argentina,Left Winger,LW,3000000.0,Rayo Vallecano,Spain,0.0,out,winter,Laliga,2011,True,free loan
+Sporting Gijón,Óscar Trejo,23,Argentina,Attacking Midfield,AM,1500000.0,RCD Mallorca,Spain,1000000.0,in,summer,Laliga,2011,False,
+Sporting Gijón,Damián Suárez,23,Uruguay,Right-Back,RB,450000.0,Defensor,Uruguay,500000.0,in,summer,Laliga,2011,False,
+Sporting Gijón,Ricardo León,28,Spain,Central Midfield,CM,1400000.0,CD Tenerife,Spain,0.0,in,summer,Laliga,2011,False,
+Sporting Gijón,José Ángel,21,Spain,Left-Back,LB,3000000.0,AS Roma,Italy,4500000.0,out,summer,Laliga,2011,False,
+Sporting Gijón,Diego Castro,28,Spain,Left Winger,LW,6000000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,False,
+Sporting Gijón,Rafael Sastre,35,Spain,Right-Back,RB,500000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2011,False,
+Sporting Gijón,Jorge García,27,Spain,Centre-Back,CB,800000.0,Real Murcia,Spain,0.0,out,summer,Laliga,2011,False,
+Sporting Gijón,Adrián Colunga,27,Spain,Centre-Forward,CF,4000000.0,Getafe,Spain,0.0,in,winter,Laliga,2011,True,free loan
+Sporting Gijón,Luis Morán,24,Spain,Centre-Forward,CF,1800000.0,AEK Larnaca,Cyprus,0.0,out,winter,Laliga,2011,True,free loan
+Sporting Gijón,Nacho Novo,32,Spain,Right Winger,RW,1800000.0,Legia Warszawa,Poland,0.0,out,winter,Laliga,2011,False,
+Valencia CF,Víctor Ruiz,22,Spain,Centre-Back,CB,8000000.0,SSC Napoli,Italy,8000000.0,in,summer,Laliga,2011,False,
+Valencia CF,Pablo Piatti,22,Argentina,Left Winger,LW,9000000.0,UD Almería,Spain,7500000.0,in,summer,Laliga,2011,False,
+Valencia CF,Adil Rami,25,France,Centre-Back,CB,12000000.0,LOSC Lille,France,6000000.0,in,summer,Laliga,2011,False,
+Valencia CF,Dani Parejo,22,Spain,Central Midfield,CM,8000000.0,Getafe,Spain,6000000.0,in,summer,Laliga,2011,False,
+Valencia CF,Diego Alves,26,Brazil,Goalkeeper,GK,12000000.0,UD Almería,Spain,3000000.0,in,summer,Laliga,2011,False,
+Valencia CF,Sergio Canales,20,Spain,Attacking Midfield,AM,6000000.0,Real Madrid,Spain,2000000.0,in,summer,Laliga,2011,True,loan with fee
+Valencia CF,Antonio Barragán,24,Spain,Right-Back,RB,600000.0,Real Valladolid,Spain,1500000.0,in,summer,Laliga,2011,False,
+Valencia CF,Cristiano Figueiredo,20,Portugal,Goalkeeper,GK,300000.0,Braga,Portugal,0.0,in,summer,Laliga,2011,True,free loan
+Valencia CF,Juan Mata,23,Spain,Attacking Midfield,AM,26000000.0,Chelsea,England,26700000.0,out,summer,Laliga,2011,False,
+Valencia CF,Joaquín,29,Spain,Right Winger,RW,10000000.0,Málaga CF,Spain,4200000.0,out,summer,Laliga,2011,False,
+Valencia CF,Manuel Fernandes,25,Portugal,Attacking Midfield,AM,8500000.0,Besiktas,Turkey,2000000.0,out,summer,Laliga,2011,False,
+Valencia CF,César Sánchez,39,Spain,Goalkeeper,GK,1000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2011,False,
+Valencia CF,David Navarro,31,Spain,Centre-Back,CB,4000000.0,Neuchâtel Xamax,Switzerland,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Asier del Horno,30,Spain,Left-Back,LB,1000000.0,Levante,Spain,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Aarón Ñíguez,22,Spain,Right Winger,RW,600000.0,UD Almería,Spain,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Renan,26,Brazil,Goalkeeper,GK,2000000.0,Internacional,Brazil,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Sunny,22,Nigeria,Defensive Midfield,DM,1000000.0,CD Numancia,Spain,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Alejandro Domínguez,30,Argentina,Attacking Midfield,AM,5500000.0,River Plate,Argentina,0.0,out,summer,Laliga,2011,True,free loan
+Valencia CF,Ignacio González,29,Uruguay,Attacking Midfield,AM,600000.0,Standard Liège,Belgium,0.0,out,summer,Laliga,2011,False,
+Valencia CF,Miguel Ángel Moyá,27,Spain,Goalkeeper,GK,1000000.0,Getafe,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Valencia CF,Míchel Herrero,22,Spain,Central Midfield,CM,1500000.0,Hércules CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Valencia CF,Vicente,29,Spain,Left Winger,LW,5000000.0,Without Club,,,out,summer,Laliga,2011,False,
+Valencia CF,Marius Stankevicius,29,Lithuania,Centre-Back,CB,2500000.0,Sampdoria,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Villarreal CF,Cristián Zapata,24,Colombia,Centre-Back,CB,9000000.0,Udinese Calcio,Italy,9000000.0,in,summer,Laliga,2011,False,
+Villarreal CF,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,5000000.0,RCD Mallorca,Spain,8000000.0,in,summer,Laliga,2011,False,
+Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,12000000.0,West Brom,England,6000000.0,in,summer,Laliga,2011,False,
+Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,4000000.0,Real Zaragoza,Spain,5000000.0,in,summer,Laliga,2011,False,
+Villarreal CF,Javier Camuñas,30,Spain,Right Winger,RW,2800000.0,CA Osasuna,Spain,2300000.0,in,summer,Laliga,2011,False,
+Villarreal CF,Florian Lejeune,20,France,Centre-Back,CB,1000000.0,FC Istres,France,1000000.0,in,summer,Laliga,2011,False,
+Villarreal CF,César Sánchez,39,Spain,Goalkeeper,GK,1000000.0,Valencia,Spain,0.0,in,summer,Laliga,2011,False,
+Villarreal CF,Santi Cazorla,26,Spain,Central Midfield,CM,18000000.0,Málaga CF,Spain,23000000.0,out,summer,Laliga,2011,False,
+Villarreal CF,Jozy Altidore,21,United States,Centre-Forward,CF,2200000.0,AZ Alkmaar,Netherlands,1500000.0,out,summer,Laliga,2011,False,
+Villarreal CF,Javier Matilla,22,Spain,Central Midfield,CM,1500000.0,Real Betis,Spain,1350000.0,out,summer,Laliga,2011,False,
+Villarreal CF,Iván Marcano,24,Spain,Centre-Back,CB,4000000.0,Olympiacos,Greece,1000000.0,out,summer,Laliga,2011,True,loan with fee
+Villarreal CF,Jefferson Montero,21,Ecuador,Left Winger,LW,3000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Villarreal CF,Cristóbal Márquez,27,Spain,Central Midfield,CM,1200000.0,Karpaty,Ukraine,0.0,out,summer,Laliga,2011,False,
+Villarreal CF,Joan Capdevila,33,Spain,Left-Back,LB,7000000.0,Benfica,Portugal,0.0,out,summer,Laliga,2011,False,
+Villarreal CF,Nicki Bille Nielsen,23,Denmark,Centre-Forward,CF,1800000.0,Elche CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,4000000.0,Granada CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Villarreal CF,Juan Carlos,23,Spain,Goalkeeper,GK,1000000.0,Elche CF,Spain,0.0,out,summer,Laliga,2011,True,free loan
+Villarreal CF,Xavier Oliva,35,Spain,Goalkeeper,GK,400000.0,Retired,,,out,summer,Laliga,2011,False,
+Villarreal CF,Cicinho,31,Brazil,Right-Back,RB,1500000.0,AS Roma,Italy,0.0,out,summer,Laliga,2011,True,end of loan
+Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,12000000.0,West Brom,England,0.0,out,summer,Laliga,2011,True,end of loan
+Villarreal CF,Alejandro Martinuccio,24,Argentina,Centre-Forward,CF,2000000.0,Fluminense,Brazil,0.0,in,winter,Laliga,2011,True,free loan

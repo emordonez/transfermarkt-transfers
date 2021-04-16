@@ -1,0 +1,479 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Marc Overmars,24,Netherlands,Left Winger,LW,,Ajax,Netherlands,7500000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Gilles Grimandi,26,France,Defensive Midfield,DM,,Monaco,France,3750000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Emmanuel Petit,26,France,Defensive Midfield,DM,,Monaco,France,3750000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Matthew Upson,18,England,Centre-Back,CB,,Luton,England,2800000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Luís Boa Morte,19,Portugal,Left Midfield,LM,,Sporting CP,Portugal,2400000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Alexander Manninger,20,Austria,Goalkeeper,GK,,Grazer AK,Austria,1450000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Alberto Méndez,22,Germany,Attacking Midfield,AM,,1.SC Feucht,Germany,375000.0,in,summer,Premier League,1997,False,
+Arsenal FC,Jehad Muntasser,18,Libya,Right Midfield,RM,,Pro Sesto,Italy,0.0,in,summer,Premier League,1997,False,
+Arsenal FC,Christopher Wreh,22,Liberia,Centre-Forward,CF,,Guingamp,France,,in,summer,Premier League,1997,False,
+Arsenal FC,Brian McGovern,17,Ireland,defence,defence,,Cherry Orchard FC,Ireland,,in,summer,Premier League,1997,False,
+Arsenal FC,Matthew Rose,21,England,defence,defence,,QPR,England,750000.0,out,summer,Premier League,1997,False,
+Arsenal FC,Paul Shaw,23,England,Centre-Forward,CF,,Millwall,England,320000.0,out,summer,Premier League,1997,False,
+Arsenal FC,Lee Harper,25,England,Goalkeeper,GK,,QPR,England,150000.0,out,summer,Premier League,1997,False,
+Arsenal FC,Peter Clark,18,England,defence,defence,,Carlisle United,England,0.0,out,summer,Premier League,1997,False,
+Arsenal FC,Gavin McGowan,21,England,Right-Back,RB,,Luton,England,0.0,out,summer,Premier League,1997,True,free loan
+Arsenal FC,Adrian Clarke,22,England,midfield,midfield,,Southend United,England,,out,summer,Premier League,1997,False,
+Arsenal FC,Glenn Helder,28,Netherlands,Left Winger,LW,,NAC Breda,Netherlands,,out,summer,Premier League,1997,False,
+Arsenal FC,Chris Kiwomya,27,England,Centre-Forward,CF,,Selangor FC,Malaysia,0.0,out,summer,Premier League,1997,True,free loan
+Arsenal FC,Ian Selley,23,England,midfield,midfield,,Fulham,England,,out,summer,Premier League,1997,False,
+Arsenal FC,Vince Bartram,29,England,Goalkeeper,GK,,Gillingham FC,England,0.0,out,winter,Premier League,1997,True,free loan
+Arsenal FC,Jehad Muntasser,19,Libya,Right Midfield,RM,,Bristol City,England,0.0,out,winter,Premier League,1997,False,
+Arsenal FC,Glenn Helder,28,Netherlands,Left Winger,LW,,NAC Breda,Netherlands,,out,winter,Premier League,1997,False,
+Arsenal FC,Chris Kiwomya,27,England,Centre-Forward,CF,,Selangor FC,Malaysia,0.0,out,winter,Premier League,1997,True,free loan
+Arsenal FC,Ian Selley,23,England,midfield,midfield,,Fulham,England,,out,winter,Premier League,1997,False,
+Aston Villa,Stan Collymore,26,England,Centre-Forward,CF,,Liverpool,England,10500000.0,in,summer,Premier League,1997,False,
+Aston Villa,Simon Grayson,27,England,Right-Back,RB,,Leicester,England,,in,summer,Premier League,1997,False,
+Aston Villa,Gareth Farrelly,21,Ireland,Left Midfield,LM,,Everton,England,1050000.0,out,summer,Premier League,1997,False,
+Aston Villa,Andy Townsend,34,Ireland,Central Midfield,CM,,Middlesbrough,England,575000.0,out,summer,Premier League,1997,False,
+Aston Villa,Neil Davis,23,England,attack,attack,,Tranmere Rovers,England,0.0,out,summer,Premier League,1997,True,free loan
+Aston Villa,Sasa Curcic,26,Serbia,Defensive Midfield,DM,,Crystal Palace,England,1500000.0,out,winter,Premier League,1997,False,
+Aston Villa,Scott Murray,23,Scotland,Right Midfield,RM,,Bristol City,England,225000.0,out,winter,Premier League,1997,False,
+Aston Villa,David Hughes,20,Wales,Left-Back,LB,,Carlisle United,England,0.0,out,winter,Premier League,1997,True,free loan
+Barnsley FC,Gjorgji Hristov,21,North Macedonia,Centre-Forward,CF,,Partizan,Serbia,2250000.0,in,summer,Premier League,1997,False,
+Barnsley FC,Ashley Ward,26,England,Centre-Forward,CF,,Derby,England,1820000.0,in,summer,Premier League,1997,False,
+Barnsley FC,Darren Barnard,25,Wales,Left-Back,LB,,Bristol City,England,900000.0,in,summer,Premier League,1997,False,
+Barnsley FC,Lars Leese,27,Germany,Goalkeeper,GK,,Bay. Leverkusen,Germany,375000.0,in,summer,Premier League,1997,False,
+Barnsley FC,Peter Markstedt,25,Sweden,Centre-Forward,CF,,Västerås SK,Sweden,,in,summer,Premier League,1997,False,
+Barnsley FC,Ales Krizan,25,Slovenia,defence,defence,,NK Maribor,Slovenia,,in,summer,Premier League,1997,False,
+Barnsley FC,Eric Tinkler,26,South Africa,Defensive Midfield,DM,,Cagliari Calcio,Italy,,in,summer,Premier League,1997,False,
+Barnsley FC,Paul Wilkinson,32,England,Centre-Forward,CF,,Millwall,England,190000.0,out,summer,Premier League,1997,False,
+Barnsley FC,Scott Jones,22,England,defence,defence,,Mansfield Town,England,0.0,out,summer,Premier League,1997,True,free loan
+Barnsley FC,Scott Jones,22,England,defence,defence,,Notts County,England,0.0,out,summer,Premier League,1997,True,free loan
+Barnsley FC,Carel van der Velden,24,Netherlands,midfield,midfield,,Scarborough,England,,out,summer,Premier League,1997,False,
+Barnsley FC,Jan Aage Fjörtoft,30,Norway,Centre-Forward,CF,,Sheff Utd,England,1150000.0,in,winter,Premier League,1997,False,
+Barnsley FC,Laurens ten Heuvel,21,Netherlands,Centre-Forward,CF,,Northampton,England,0.0,out,winter,Premier League,1997,False,
+Barnsley FC,Neil Thompson,34,England,defence,defence,,York City,England,0.0,out,winter,Premier League,1997,True,free loan
+Barnsley FC,Scott Jones,22,England,defence,defence,,Notts County,England,0.0,out,winter,Premier League,1997,True,free loan
+Barnsley FC,Neil Thompson,34,England,defence,defence,,Oldham Athletic,England,0.0,out,winter,Premier League,1997,True,free loan
+Barnsley FC,Steve Davis,32,England,defence,defence,,Oxford United,England,,out,winter,Premier League,1997,False,
+Blackburn Rovers,Stéphane Henchoz,22,Switzerland,Centre-Back,CB,,Hamburger SV,Germany,3000000.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,Martin Dahlin,29,Sweden,Centre-Forward,CF,,AS Roma,Italy,3000000.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,Callum Davidson,21,Scotland,Left-Back,LB,,St. Johnstone,Scotland,2500000.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,John Filan,27,Australia,Goalkeeper,GK,,Coventry,England,1000000.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,Jim Corbett,17,England,Right Winger,RW,,Gillingham FC,England,625000.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,Patrick Valéry,27,France,Right-Back,RB,,SC Bastia,France,0.0,in,summer,Premier League,1997,False,
+Blackburn Rovers,Tore Pedersen,27,Norway,Centre-Back,CB,,FC St. Pauli,Germany,,in,summer,Premier League,1997,False,
+Blackburn Rovers,Anders Andersson,23,Sweden,Defensive Midfield,DM,,Malmö FF,Sweden,,in,summer,Premier League,1997,False,
+Blackburn Rovers,Michael Watt,26,Scotland,Goalkeeper,GK,,Aberdeen FC,Scotland,0.0,in,summer,Premier League,1997,True,free loan
+Blackburn Rovers,Alan Fettis,26,Northern Ireland,Goalkeeper,GK,,Nottm Forest,England,,in,summer,Premier League,1997,False,
+Blackburn Rovers,Graeme Le Saux,28,England,Left-Back,LB,,Chelsea,England,10500000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Henning Berg,27,Norway,Right-Back,RB,,Man Utd,England,7500000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Ian Pearce,23,England,Centre-Back,CB,,West Ham,England,3600000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Shay Given,21,Ireland,Goalkeeper,GK,,Newcastle,England,2250000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Graham Fenton,23,England,Second Striker,SS,,Leicester,England,1100000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Matty Holmes,28,England,Left Midfield,LM,,Charlton,England,300000.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Paul Warhurst,27,England,Centre-Back,CB,,Crystal Palace,England,0.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,Georgios Donis,27,Greece,Right Winger,RW,,AEK Athens,Greece,0.0,out,summer,Premier League,1997,False,
+Blackburn Rovers,James Thomas,18,Wales,attack,attack,,West Brom,England,0.0,out,summer,Premier League,1997,True,free loan
+Blackburn Rovers,Niklas Gudmundsson,25,Sweden,Left Winger,LW,,Malmö FF,Sweden,,out,summer,Premier League,1997,False,
+Blackburn Rovers,Thomas Morgan,20,Ireland,Defensive Midfield,DM,,St. Patricks,Ireland,,out,summer,Premier League,1997,False,
+Blackburn Rovers,Nicky Marker,32,England,Centre-Back,CB,,Sheff Utd,England,,out,summer,Premier League,1997,False,
+Blackburn Rovers,Per Pedersen,28,Denmark,Centre-Forward,CF,,Bor. M'gladbach,Germany,,out,summer,Premier League,1997,False,
+Blackburn Rovers,Chris Coleman,27,Wales,Centre-Back,CB,,Fulham,England,3680000.0,out,winter,Premier League,1997,False,
+Blackburn Rovers,Lars Bohinen,28,Norway,Central Midfield,CM,,Derby,England,1500000.0,out,winter,Premier League,1997,False,
+Blackburn Rovers,Damien Johnson,19,Northern Ireland,Central Midfield,CM,,Nottm Forest,England,0.0,out,winter,Premier League,1997,True,free loan
+Blackburn Rovers,Anthony Williams,20,Wales,Goalkeeper,GK,,QPR,England,0.0,out,winter,Premier League,1997,True,free loan
+Blackburn Rovers,Graham Coughlan,23,Ireland,Centre-Back,CB,,Swindon Town,England,0.0,out,winter,Premier League,1997,True,free loan
+Blackburn Rovers,Wayne Gill,22,England,midfield,midfield,,Dundee United,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Blackburn Rovers,Per Pedersen,28,Denmark,Centre-Forward,CF,,Bor. M'gladbach,Germany,,out,winter,Premier League,1997,False,
+Bolton Wanderers,Dean Holdsworth,28,England,Centre-Forward,CF,,Wimbledon FC,England,4870000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Robbie Elliott,23,England,Left-Back,LB,,Newcastle,England,3480000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Mark Fish,23,South Africa,Centre-Back,CB,,Lazio,Italy,2320000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Neil Cox,25,England,Centre-Back,CB,,Middlesbrough,England,2000000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Peter Beardsley,36,England,Second Striker,SS,,Newcastle,England,500000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Arnar Gunnlaugsson,24,Iceland,Right Winger,RW,,ÍA Akranes,Iceland,140000.0,in,summer,Premier League,1997,False,
+Bolton Wanderers,Franz Carr,31,England,Right Winger,RW,,Reggiana,Italy,0.0,in,summer,Premier League,1997,True,free loan
+Bolton Wanderers,David Lee,29,England,midfield,midfield,,Wigan,England,313000.0,out,summer,Premier League,1997,False,
+Bolton Wanderers,Mixu Paatelainen,30,Finland,Centre-Forward,CF,,Wolves,England,275000.0,out,summer,Premier League,1997,False,
+Bolton Wanderers,Simon Coleman,29,England,defence,defence,,Wolves,England,0.0,out,summer,Premier League,1997,True,free loan
+Bolton Wanderers,Bryan Small,25,England,defence,defence,,Luton,England,0.0,out,summer,Premier League,1997,True,free loan
+Bolton Wanderers,Stuart Whittaker,22,England,midfield,midfield,,Macclesfield,England,,out,summer,Premier League,1997,False,
+Bolton Wanderers,John Sheridan,33,Ireland,Central Midfield,CM,,Without Club,,,out,summer,Premier League,1997,False,
+Bolton Wanderers,Mike Whitlow,29,England,Centre-Back,CB,,Leicester,England,750000.0,in,winter,Premier League,1997,False,
+Bolton Wanderers,Jussi Jääskeläinen,22,Finland,Goalkeeper,GK,,VPS,Finland,150000.0,in,winter,Premier League,1997,False,
+Bolton Wanderers,John Salako,28,England,Left Midfield,LM,,Coventry,England,0.0,in,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Franz Carr,31,England,Right Winger,RW,,Reggiana,Italy,0.0,in,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Bob Taylor,30,England,Centre-Forward,CF,,West Brom,England,0.0,in,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Gaetano Giallanza,23,Switzerland,Centre-Forward,CF,,FC Nantes,France,,in,winter,Premier League,1997,False,
+Bolton Wanderers,John McGinlay,33,Scotland,attack,attack,,Bradford,England,730000.0,out,winter,Premier League,1997,False,
+Bolton Wanderers,Simon Coleman,29,England,defence,defence,,Southend United,England,445000.0,out,winter,Premier League,1997,False,
+Bolton Wanderers,Steve McAnespie,25,Scotland,Right-Back,RB,,Fulham,England,150000.0,out,winter,Premier League,1997,False,
+Bolton Wanderers,Bryan Small,26,England,defence,defence,,Bury,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Greg Strong,22,England,Centre-Back,CB,,Blackpool,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Scott Taylor,21,England,Centre-Forward,CF,,Blackpool,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Bryan Small,26,England,defence,defence,,Bury,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Bryan Small,26,England,defence,defence,,Bradford,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Peter Beardsley,37,England,Second Striker,SS,,Fulham,England,0.0,out,winter,Premier League,1997,True,free loan
+Bolton Wanderers,Peter Beardsley,37,England,Second Striker,SS,,Man City,England,0.0,out,winter,Premier League,1997,True,free loan
+Chelsea FC,Graeme Le Saux,28,England,Left-Back,LB,,Blackburn,England,10500000.0,in,summer,Premier League,1997,False,
+Chelsea FC,Celestine Babayaro,18,Nigeria,Left-Back,LB,,RSC Anderlecht,Belgium,3500000.0,in,summer,Premier League,1997,False,
+Chelsea FC,Ed de Goey,30,Netherlands,Goalkeeper,GK,,Feyenoord,Netherlands,3350000.0,in,summer,Premier League,1997,False,
+Chelsea FC,Gustavo Poyet,29,Uruguay,Attacking Midfield,AM,,Real Zaragoza,Spain,0.0,in,summer,Premier League,1997,False,
+Chelsea FC,Bernard Lambourde,26,France,Centre-Back,CB,,G. Bordeaux,France,,in,summer,Premier League,1997,False,
+Chelsea FC,Danny Granville,22,England,Left-Back,LB,,Leeds,England,2200000.0,out,summer,Premier League,1997,False,
+Chelsea FC,Scott Minto,25,England,Left-Back,LB,,Benfica,Portugal,0.0,out,summer,Premier League,1997,False,
+Chelsea FC,Jimmy Aggrey,18,England,defence,defence,,Fulham,England,0.0,out,summer,Premier League,1997,False,
+Chelsea FC,David Rocastle,30,England,Attacking Midfield,AM,,Hull City,England,0.0,out,summer,Premier League,1997,True,free loan
+Chelsea FC,Paul Parker,33,England,Right-Back,RB,,Heybridge Swifts,England,,out,summer,Premier League,1997,False,
+Chelsea FC,Craig Burley,25,Scotland,Attacking Midfield,AM,,Celtic,Scotland,,out,summer,Premier League,1997,False,
+Chelsea FC,Chris Zoricich,28,New Zealand,defence,defence,,Brisbane Strikers FC,Australia,,out,summer,Premier League,1997,False,
+Chelsea FC,Mark Stein,31,England,Centre-Forward,CF,,Ipswich,England,0.0,out,summer,Premier League,1997,True,free loan
+Chelsea FC,Tore André Flo,24,Norway,Centre-Forward,CF,,Brann,Norway,450000.0,in,winter,Premier League,1997,False,
+Chelsea FC,David Lee,28,England,Centre-Back,CB,,Sheff Utd,England,0.0,in,winter,Premier League,1997,True,free loan
+Chelsea FC,Frode Grodas,33,Norway,Goalkeeper,GK,,Spurs,England,350000.0,out,winter,Premier League,1997,False,
+Chelsea FC,Nick Colgan,24,Ireland,Goalkeeper,GK,,Reading,England,0.0,out,winter,Premier League,1997,True,free loan
+Chelsea FC,David Rocastle,30,England,Attacking Midfield,AM,,Hull City,England,0.0,out,winter,Premier League,1997,True,free loan
+Chelsea FC,Mark Stein,32,England,Centre-Forward,CF,,Bournemouth,England,0.0,out,winter,Premier League,1997,True,free loan
+Coventry City,Trond Soltvedt,30,Norway,Attacking Midfield,AM,,Rosenborg,Norway,750000.0,in,summer,Premier League,1997,False,
+Coventry City,Roland Nilsson,33,Sweden,Right-Back,RB,,Helsingborg,Sweden,250000.0,in,summer,Premier League,1997,False,
+Coventry City,Magnus Hedman,24,Sweden,Goalkeeper,GK,,AIK,Sweden,0.0,in,summer,Premier League,1997,False,
+Coventry City,Martin Johansen,24,Denmark,Centre-Forward,CF,,FC Copenhagen,Denmark,,in,summer,Premier League,1997,False,
+Coventry City,Kyle Lightbourne,28,Bermuda,attack,attack,,Walsall,England,,in,summer,Premier League,1997,False,
+Coventry City,Peter Ndlovu,24,Zimbabwe,Centre-Forward,CF,,Birmingham,England,2250000.0,out,summer,Premier League,1997,False,
+Coventry City,John Filan,27,Australia,Goalkeeper,GK,,Blackburn,England,1000000.0,out,summer,Premier League,1997,False,
+Coventry City,Colin Hawkins,19,Ireland,Centre-Back,CB,,St. Patricks,Ireland,0.0,out,summer,Premier League,1997,False,
+Coventry City,Oleksandr Yevtushok,27,Ukraine,Centre-Back,CB,,Karpaty,Ukraine,,out,summer,Premier League,1997,False,
+Coventry City,Isaias,33,Brazil,Second Striker,SS,,Campomaiorense,Portugal,,out,summer,Premier League,1997,False,
+Coventry City,Brian Borrows,36,England,Right-Back,RB,,Swindon Town,England,,out,summer,Premier League,1997,False,
+Coventry City,Scott Goodwin,18,England,Defensive Midfield,DM,,Shepshed Dynamo,England,,out,summer,Premier League,1997,False,
+Coventry City,Lorcan Costello,20,Ireland,midfield,midfield,,Unknown,,,out,summer,Premier League,1997,False,
+Coventry City,Kevin Richardson,34,England,Central Midfield,CM,,Southampton,England,,out,summer,Premier League,1997,False,
+Coventry City,Gordon Strachan,40,Scotland,Central Midfield,CM,,Retired,,,out,summer,Premier League,1997,False,
+Coventry City,Gary Gillespie,36,Scotland,Centre-Back,CB,,Retired,,,out,summer,Premier League,1997,False,
+Coventry City,Tom Evans,20,Northern Ireland,Goalkeeper,GK,,Crystal Palace,England,0.0,out,summer,Premier League,1997,True,end of loan
+Coventry City,Gary Breen,24,Ireland,Centre-Back,CB,,Birmingham,England,3750000.0,in,winter,Premier League,1997,False,
+Coventry City,Viorel Moldovan,25,Romania,Centre-Forward,CF,,Grasshoppers,Switzerland,3300000.0,in,winter,Premier League,1997,False,
+Coventry City,George Boateng,22,Netherlands,Defensive Midfield,DM,,Feyenoord,Netherlands,350000.0,in,winter,Premier League,1997,False,
+Coventry City,Scott Howie,26,Scotland,Goalkeeper,GK,,Motherwell FC,Scotland,,in,winter,Premier League,1997,False,
+Coventry City,John Salako,28,England,Left Midfield,LM,,Bolton,England,0.0,out,winter,Premier League,1997,True,free loan
+Coventry City,Kyle Lightbourne,29,Bermuda,attack,attack,,Fulham,England,0.0,out,winter,Premier League,1997,True,free loan
+Coventry City,Craig Faulconbridge,19,England,Centre-Forward,CF,,Dunfermline A.,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Coventry City,Michael O'Neill,28,Northern Ireland,Attacking Midfield,AM,,Aberdeen FC,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Coventry City,Kyle Lightbourne,29,Bermuda,attack,attack,,Stoke City,England,,out,winter,Premier League,1997,False,
+Coventry City,Michael O'Neill,28,Northern Ireland,Attacking Midfield,AM,,Reading,England,0.0,out,winter,Premier League,1997,True,free loan
+Crystal Palace,Neil Emblen,26,England,Defensive Midfield,DM,,Wolves,England,2500000.0,in,summer,Premier League,1997,False,
+Crystal Palace,Kevin Miller,28,England,Goalkeeper,GK,,Watford,England,2000000.0,in,summer,Premier League,1997,False,
+Crystal Palace,Jamie Smith,23,England,Right-Back,RB,,Wolves,England,1500000.0,in,summer,Premier League,1997,False,
+Crystal Palace,Hermann Hreidarsson,23,Iceland,Centre-Back,CB,,ÍBV,Iceland,0.0,in,summer,Premier League,1997,False,
+Crystal Palace,Paul Warhurst,27,England,Centre-Back,CB,,Blackburn,England,0.0,in,summer,Premier League,1997,False,
+Crystal Palace,Itzik Zohar,26,Israel,Attacking Midfield,AM,,B. Jerusalem,Israel,,in,summer,Premier League,1997,False,
+Crystal Palace,Attilio Lombardo,31,Italy,Right Winger,RW,,Juventus,Italy,,in,summer,Premier League,1997,False,
+Crystal Palace,Jamie Fullarton,22,Scotland,midfield,midfield,,SC Bastia,France,,in,summer,Premier League,1997,False,
+Crystal Palace,Eric Young,37,Wales,Centre-Back,CB,,Wolves,England,,in,summer,Premier League,1997,False,
+Crystal Palace,David Hopkin,26,Scotland,Right Midfield,RM,,Leeds,England,4900000.0,out,summer,Premier League,1997,False,
+Crystal Palace,Ray Houghton,35,Ireland,Central Midfield,CM,,Reading,England,0.0,out,summer,Premier League,1997,False,
+Crystal Palace,Leon McKenzie,19,England,Centre-Forward,CF,,Fulham,England,0.0,out,summer,Premier League,1997,True,free loan
+Crystal Palace,Jason Harris,20,England,attack,attack,,Leyton Orient,England,29000.0,out,summer,Premier League,1997,False,
+Crystal Palace,Chris Day,21,England,Goalkeeper,GK,,Watford,England,,out,summer,Premier League,1997,False,
+Crystal Palace,Carl Veart,27,Australia,Centre-Forward,CF,,Millwall,England,,out,summer,Premier League,1997,False,
+Crystal Palace,Tom Evans,20,Northern Ireland,Goalkeeper,GK,,Scunthorpe Utd.,England,,out,summer,Premier League,1997,False,
+Crystal Palace,Ivano Bonetti,32,Italy,Left Midfield,LM,,Genoa,Italy,,out,summer,Premier League,1997,False,
+Crystal Palace,Tony Scully,21,Ireland,midfield,midfield,,Man City,England,,out,summer,Premier League,1997,False,
+Crystal Palace,Jason Harris,20,England,attack,attack,,Lincoln City,England,0.0,out,summer,Premier League,1997,True,free loan
+Crystal Palace,Valérien Ismaël,22,France,Centre-Back,CB,,R. Strasbourg,France,3800000.0,in,winter,Premier League,1997,False,
+Crystal Palace,Michele Padovano,31,Italy,Centre-Forward,CF,,Juventus,Italy,1950000.0,in,winter,Premier League,1997,False,
+Crystal Palace,Sasa Curcic,26,Serbia,Defensive Midfield,DM,,Aston Villa,England,1500000.0,in,winter,Premier League,1997,False,
+Crystal Palace,Jamie Smith,23,England,Right-Back,RB,,Wolves,England,1500000.0,in,winter,Premier League,1997,False,
+Crystal Palace,Marcus Bent,19,England,Centre-Forward,CF,,Brentford,England,450000.0,in,winter,Premier League,1997,False,
+Crystal Palace,Tomas Brolin,28,Sweden,Centre-Forward,CF,,Hudiksvall,Sweden,,in,winter,Premier League,1997,False,
+Crystal Palace,Patrizio Billio,23,Italy,Attacking Midfield,AM,,Calcio Monza,Italy,,in,winter,Premier League,1997,False,
+Crystal Palace,Dougie Freedman,23,Scotland,Centre-Forward,CF,,Wolves,England,950000.0,out,winter,Premier League,1997,False,
+Crystal Palace,Gareth Davies,24,Wales,Centre-Back,CB,,Reading,England,215000.0,out,winter,Premier League,1997,False,
+Crystal Palace,Itzik Zohar,27,Israel,Attacking Midfield,AM,,Maccabi Haifa,Israel,0.0,out,winter,Premier League,1997,False,
+Crystal Palace,Darren Pitcher,28,England,defence,defence,,Leyton Orient,England,0.0,out,winter,Premier League,1997,True,free loan
+Crystal Palace,Danny Boxall,20,Ireland,defence,defence,,Oldham Athletic,England,0.0,out,winter,Premier League,1997,True,free loan
+Crystal Palace,Leon McKenzie,19,England,Centre-Forward,CF,,Fulham,England,0.0,out,winter,Premier League,1997,True,free loan
+Crystal Palace,Danny Boxall,20,Ireland,defence,defence,,Oldham Athletic,England,0.0,out,winter,Premier League,1997,True,free loan
+Derby County,Deon Burton,20,Jamaica,Centre-Forward,CF,,Portsmouth,England,1250000.0,in,summer,Premier League,1997,False,
+Derby County,Jonathan Hunt,25,England,attack,attack,,Birmingham,England,750000.0,in,summer,Premier League,1997,False,
+Derby County,Rory Delap,21,Ireland,Central Midfield,CM,,Carlisle United,England,300000.0,in,summer,Premier League,1997,False,
+Derby County,Jacob Laursen,25,Denmark,Centre-Back,CB,,Silkeborg IF,Denmark,0.0,in,summer,Premier League,1997,False,
+Derby County,Stefano Eranio,30,Italy,Right Midfield,RM,,Milan,Italy,,in,summer,Premier League,1997,False,
+Derby County,Francesco Baiano,29,Italy,Right Winger,RW,,Fiorentina,Italy,,in,summer,Premier League,1997,False,
+Derby County,Richard Knight,17,England,Goalkeeper,GK,,Burton Albion,England,,in,summer,Premier League,1997,False,
+Derby County,Ashley Ward,26,England,Centre-Forward,CF,,Barnsley FC,England,1820000.0,out,summer,Premier League,1997,False,
+Derby County,Sean Flynn,29,England,midfield,midfield,,West Brom,England,315000.0,out,summer,Premier League,1997,False,
+Derby County,Paul Simpson,31,England,midfield,midfield,,Wolves,England,80000.0,out,summer,Premier League,1997,False,
+Derby County,Chris Boden,24,England,defence,defence,,Unknown,,0.0,out,summer,Premier League,1997,False,
+Derby County,Marco Gabbiadini,29,England,Centre-Forward,CF,,Panionios,Greece,0.0,out,summer,Premier League,1997,False,
+Derby County,Aljosa Asanovic,31,Croatia,Central Midfield,CM,,Napoli,Italy,,out,summer,Premier League,1997,False,
+Derby County,Paul McGrath,37,Ireland,Centre-Back,CB,,Sheff Utd,England,,out,summer,Premier League,1997,False,
+Derby County,Christophe Remy,25,France,defence,defence,,Oxford United,England,,out,summer,Premier League,1997,False,
+Derby County,Lars Bohinen,28,Norway,Central Midfield,CM,,Blackburn,England,1500000.0,in,winter,Premier League,1997,False,
+Derby County,Rory Delap,21,Ireland,Central Midfield,CM,,Carlisle United,England,300000.0,in,winter,Premier League,1997,False,
+Derby County,Paul Trollope,25,Wales,Attacking Midfield,AM,,Fulham,England,900000.0,out,winter,Premier League,1997,False,
+Derby County,Paul Simpson,31,England,midfield,midfield,,Wolves,England,80000.0,out,winter,Premier League,1997,False,
+Derby County,Nick Wright,22,England,attack,attack,,Carlisle United,England,,out,winter,Premier League,1997,False,
+Derby County,Nick Wright,22,England,attack,attack,,Carlisle United,England,0.0,out,winter,Premier League,1997,True,free loan
+Everton FC,John Oster,18,Wales,Central Midfield,CM,,Grimsby Town,England,1500000.0,in,summer,Premier League,1997,False,
+Everton FC,Gareth Farrelly,21,Ireland,Left Midfield,LM,,Aston Villa,England,1050000.0,in,summer,Premier League,1997,False,
+Everton FC,Tony Thomas,26,England,Right-Back,RB,,Tranmere Rovers,England,650000.0,in,summer,Premier League,1997,False,
+Everton FC,Slaven Bilic,28,Croatia,Centre-Back,CB,,West Ham,England,,in,summer,Premier League,1997,False,
+Everton FC,Daniel Williamson,23,England,Attacking Midfield,AM,,West Ham,England,,in,summer,Premier League,1997,False,
+Everton FC,Gary Speed,27,Wales,Left Midfield,LM,,Newcastle,England,8250000.0,out,summer,Premier League,1997,False,
+Everton FC,Graham Stuart,26,England,Attacking Midfield,AM,,Sheff Utd,England,750000.0,out,summer,Premier League,1997,False,
+Everton FC,John Hills,19,England,Left-Back,LB,,Blackpool,England,0.0,out,summer,Premier League,1997,False,
+Everton FC,Jamie Speare,20,England,Goalkeeper,GK,,Sligo Rovers,Ireland,0.0,out,summer,Premier League,1997,False,
+Everton FC,Marc Hottiger,29,Switzerland,Right-Back,RB,,Lausanne-Sport,Switzerland,50000.0,out,summer,Premier League,1997,False,
+Everton FC,Peter Beagrie,32,England,Left Winger,LW,,Bradford,England,,out,summer,Premier League,1997,False,
+Everton FC,David Unsworth,23,England,Left-Back,LB,,West Ham,England,,out,summer,Premier League,1997,False,
+Everton FC,Paul Rideout,32,England,Centre-Forward,CF,,Vanguard Huandao,China,,out,summer,Premier League,1997,False,
+Everton FC,Don Hutchison,26,Scotland,Attacking Midfield,AM,,Sheff Utd,England,1500000.0,in,winter,Premier League,1997,False,
+Everton FC,Thomas Myhre,24,Norway,Goalkeeper,GK,,Viking FK,Norway,1350000.0,in,winter,Premier League,1997,False,
+Everton FC,Mitch Ward,26,England,Central Midfield,CM,,Sheff Utd,England,938000.0,in,winter,Premier League,1997,False,
+Everton FC,Carl Tiler,27,England,Centre-Back,CB,,Sheff Utd,England,937000.0,in,winter,Premier League,1997,False,
+Everton FC,John O'Kane,23,England,Right-Back,RB,,Man Utd,England,400000.0,in,winter,Premier League,1997,False,
+Everton FC,John Spencer,27,Scotland,Centre-Forward,CF,,QPR,England,0.0,in,winter,Premier League,1997,False,
+Everton FC,Mitch Ward,26,England,Central Midfield,CM,,Sheff Utd,England,0.0,in,winter,Premier League,1997,True,free loan
+Everton FC,Mickaël Madar,29,France,Centre-Forward,CF,,Dep. La Coruña,Spain,,in,winter,Premier League,1997,False,
+Everton FC,Peter Beagrie,32,England,Left Winger,LW,,Bradford,England,,in,winter,Premier League,1997,False,
+Everton FC,Andy Hinchcliffe,28,England,Left-Back,LB,,Sheff Wed,England,4500000.0,out,winter,Premier League,1997,False,
+Everton FC,Claus Thomsen,27,Denmark,Centre-Back,CB,,Akademisk BK,Denmark,700000.0,out,winter,Premier League,1997,False,
+Everton FC,Earl Barrett,30,England,Right-Back,RB,,Sheff Utd,England,0.0,out,winter,Premier League,1997,True,free loan
+Everton FC,Earl Barrett,30,England,Right-Back,RB,,Sheff Wed,England,0.0,out,winter,Premier League,1997,False,
+Everton FC,Neville Southall,39,Wales,Goalkeeper,GK,,Stoke City,England,,out,winter,Premier League,1997,False,
+Everton FC,Jon O'Connor,21,England,defence,defence,,Sheff Utd,England,,out,winter,Premier League,1997,False,
+Everton FC,Jon O'Connor,21,England,defence,defence,,Sheff Utd,England,0.0,out,winter,Premier League,1997,True,free loan
+Everton FC,Neville Southall,39,Wales,Goalkeeper,GK,,Southend United,England,0.0,out,winter,Premier League,1997,True,free loan
+Leeds United,David Hopkin,26,Scotland,Right Midfield,RM,,Crystal Palace,England,4900000.0,in,summer,Premier League,1997,False,
+Leeds United,Jimmy Floyd Hasselbaink,25,Netherlands,Centre-Forward,CF,,Boavista,Portugal,2780000.0,in,summer,Premier League,1997,False,
+Leeds United,Alf-Inge Haaland,24,Norway,Defensive Midfield,DM,,Nottm Forest,England,2400000.0,in,summer,Premier League,1997,False,
+Leeds United,Danny Granville,22,England,Left-Back,LB,,Chelsea,England,2200000.0,in,summer,Premier League,1997,False,
+Leeds United,David Robertson,28,Scotland,Left-Back,LB,,Rangers,Scotland,750000.0,in,summer,Premier League,1997,False,
+Leeds United,Bruno Ribeiro,21,Portugal,Left Midfield,LM,,Vitória Setúbal,Portugal,700000.0,in,summer,Premier League,1997,False,
+Leeds United,Anthony Yeboah,31,Ghana,Centre-Forward,CF,,Hamburger SV,Germany,2150000.0,out,summer,Premier League,1997,False,
+Leeds United,Brian Deane,29,England,Centre-Forward,CF,,Sheff Utd,England,2000000.0,out,summer,Premier League,1997,False,
+Leeds United,Carlton Palmer,31,England,Defensive Midfield,DM,,Southampton,England,1200000.0,out,summer,Premier League,1997,False,
+Leeds United,Tony Dorigo,31,England,Left-Back,LB,,Torino,Italy,0.0,out,summer,Premier League,1997,False,
+Leeds United,Ian Rush,35,Wales,Centre-Forward,CF,,Newcastle,England,0.0,out,summer,Premier League,1997,False,
+Leeds United,Mark Ford,21,England,Defensive Midfield,DM,,Burnley,England,,out,summer,Premier League,1997,False,
+Leeds United,Andrew Couzens,22,England,midfield,midfield,,Carlisle United,England,,out,summer,Premier League,1997,False,
+Leeds United,Martin Hiden,24,Austria,Centre-Back,CB,,Rapid Vienna,Austria,2180000.0,in,winter,Premier League,1997,False,
+Leeds United,Sean Hessey,19,England,Centre-Back,CB,,Wigan,England,0.0,out,winter,Premier League,1997,False,
+Leeds United,Pierre Laurent,27,France,Centre-Forward,CF,,SC Bastia,France,0.0,out,winter,Premier League,1997,False,
+Leeds United,Richard Jobson,34,England,Centre-Back,CB,,Man City,England,0.0,out,winter,Premier League,1997,False,
+Leeds United,Andy Gray,20,Scotland,Centre-Forward,CF,,Bury,England,0.0,out,winter,Premier League,1997,True,free loan
+Leeds United,Jason Blunt,20,England,midfield,midfield,,Raith Rovers,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Leeds United,Richard Jobson,34,England,Centre-Back,CB,,Southend United,England,0.0,out,winter,Premier League,1997,True,free loan
+Leeds United,Paul Shepherd,20,England,Centre-Forward,CF,,Ayr United,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Leicester City,Theodoros Zagorakis,25,Greece,Central Midfield,CM,,PAOK Salonika,Greece,1200000.0,in,summer,Premier League,1997,False,
+Leicester City,Graham Fenton,23,England,Second Striker,SS,,Blackburn,England,1100000.0,in,summer,Premier League,1997,False,
+Leicester City,Tony Cottee,32,England,Centre-Forward,CF,,Selangor FC,Malaysia,750000.0,in,summer,Premier League,1997,False,
+Leicester City,Robbie Savage,22,Wales,Central Midfield,CM,,Crewe Alexandra,England,600000.0,in,summer,Premier League,1997,False,
+Leicester City,Ian Andrews,32,England,Goalkeeper,GK,,Bournemouth,England,0.0,in,summer,Premier League,1997,False,
+Leicester City,Pegguy Arphexad,24,France,Goalkeeper,GK,,LOSC Lille,France,,in,summer,Premier League,1997,False,
+Leicester City,Franck Rolling,28,France,Centre-Back,CB,,Bournemouth,England,0.0,out,summer,Premier League,1997,False,
+Leicester City,Kevin Poole,34,England,Goalkeeper,GK,,Birmingham,England,0.0,out,summer,Premier League,1997,False,
+Leicester City,Mark Robins,27,England,Centre-Forward,CF,,Reading,England,0.0,out,summer,Premier League,1997,True,free loan
+Leicester City,Guy Branston,18,England,Centre-Back,CB,,Rush. & Diamon.,England,0.0,out,summer,Premier League,1997,True,free loan
+Leicester City,Simon Grayson,27,England,Right-Back,RB,,Aston Villa,England,,out,summer,Premier League,1997,False,
+Leicester City,Jamie Lawrence,27,Jamaica,Right Winger,RW,,Bradford,England,,out,summer,Premier League,1997,False,
+Leicester City,Jimmy Willis,28,England,Centre-Back,CB,,Retired,,,out,summer,Premier League,1997,False,
+Leicester City,Mike Whitlow,29,England,Centre-Back,CB,,Bolton,England,750000.0,out,winter,Premier League,1997,False,
+Leicester City,Steve Claridge,31,England,Centre-Forward,CF,,Wolves,England,525000.0,out,winter,Premier League,1997,False,
+Leicester City,Mark Robins,28,England,Centre-Forward,CF,,CD Ourense,Spain,0.0,out,winter,Premier League,1997,False,
+Leicester City,Steve Claridge,31,England,Centre-Forward,CF,,Portsmouth,England,0.0,out,winter,Premier League,1997,True,free loan
+Leicester City,Guy Branston,19,England,Centre-Back,CB,,Colchester Utd.,England,0.0,out,winter,Premier League,1997,True,free loan
+Leicester City,Guy Branston,18,England,Centre-Back,CB,,Rush. & Diamon.,England,0.0,out,winter,Premier League,1997,True,free loan
+Leicester City,Tony Cottee,32,England,Centre-Forward,CF,,Birmingham,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,Paul Ince,29,England,Defensive Midfield,DM,,Inter,Italy,6300000.0,in,summer,Premier League,1997,False,
+Liverpool FC,Öyvind Leonhardsen,26,Norway,Attacking Midfield,AM,,Wimbledon FC,England,5250000.0,in,summer,Premier League,1997,False,
+Liverpool FC,Danny Murphy,20,England,Attacking Midfield,AM,,Crewe Alexandra,England,3000000.0,in,summer,Premier League,1997,False,
+Liverpool FC,Karl-Heinz Riedle,31,Germany,Centre-Forward,CF,,Bor. Dortmund,Germany,2500000.0,in,summer,Premier League,1997,False,
+Liverpool FC,Jörgen Nielsen,26,Denmark,Goalkeeper,GK,,Hvidovre IF,Denmark,0.0,in,summer,Premier League,1997,False,
+Liverpool FC,Stan Collymore,26,England,Centre-Forward,CF,,Aston Villa,England,10500000.0,out,summer,Premier League,1997,False,
+Liverpool FC,Mark Kennedy,21,Ireland,Left-Back,LB,,Wimbledon FC,England,2400000.0,out,summer,Premier League,1997,False,
+Liverpool FC,Lee Jones,24,Wales,Centre-Forward,CF,,Tranmere Rovers,England,120000.0,out,summer,Premier League,1997,False,
+Liverpool FC,Michael Stensgaard,22,Denmark,Goalkeeper,GK,,Hvidovre IF,Denmark,0.0,out,summer,Premier League,1997,False,
+Liverpool FC,John Barnes,33,England,Left Midfield,LM,,Newcastle,England,,out,summer,Premier League,1997,False,
+Liverpool FC,Brad Friedel,26,United States,Goalkeeper,GK,,Columbus Crew,United States,1500000.0,in,winter,Premier League,1997,False,
+Liverpool FC,Mark Kennedy,21,Ireland,Left-Back,LB,,QPR,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,Michael Thomas,30,England,Right Midfield,RM,,Middlesbrough,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,Neil Ruddock,29,England,Centre-Back,CB,,QPR,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,Tony Warner,23,Trinidad and Tobago,Goalkeeper,GK,,Swindon Town,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,David Thompson,20,England,Right Midfield,RM,,Swindon Town,England,0.0,out,winter,Premier League,1997,True,free loan
+Liverpool FC,Jörgen Nielsen,26,Denmark,Goalkeeper,GK,,Ikast FS,Denmark,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Henning Berg,27,Norway,Right-Back,RB,,Blackburn,England,7500000.0,in,summer,Premier League,1997,False,
+Manchester United,Teddy Sheringham,31,England,Centre-Forward,CF,,Spurs,England,5300000.0,in,summer,Premier League,1997,False,
+Manchester United,Erik Nevland,19,Norway,Centre-Forward,CF,,Viking FK,Norway,,in,summer,Premier League,1997,False,
+Manchester United,Ben Thornley,23,England,attack,attack,,Huddersfield,England,,in,summer,Premier League,1997,False,
+Manchester United,Michael Appleton,21,England,midfield,midfield,,Preston,England,760000.0,out,summer,Premier League,1997,False,
+Manchester United,Simon Davies,23,Wales,midfield,midfield,,Luton,England,300000.0,out,summer,Premier League,1997,False,
+Manchester United,Colin Murdock,21,Northern Ireland,Centre-Back,CB,,Preston,England,150000.0,out,summer,Premier League,1997,False,
+Manchester United,Graeme Tomlinson,21,England,attack,attack,,Bournemouth,England,0.0,out,summer,Premier League,1997,True,free loan
+Manchester United,Jon Macken,19,Ireland,Centre-Forward,CF,,Preston,England,10000.0,out,summer,Premier League,1997,False,
+Manchester United,Chris Casper,22,England,Centre-Back,CB,,Swindon Town,England,0.0,out,summer,Premier League,1997,True,free loan
+Manchester United,John O'Kane,22,England,Right-Back,RB,,Bradford,England,0.0,out,summer,Premier League,1997,True,free loan
+Manchester United,Eric Cantona,31,France,Second Striker,SS,,Retired,,,out,summer,Premier League,1997,False,
+Manchester United,Jonathan Greening,19,England,Central Midfield,CM,,York City,England,750000.0,in,winter,Premier League,1997,False,
+Manchester United,Karel Poborsky,25,Czech Republic,Right Midfield,RM,,Benfica,Portugal,2800000.0,out,winter,Premier League,1997,False,
+Manchester United,John O'Kane,23,England,Right-Back,RB,,Everton,England,400000.0,out,winter,Premier League,1997,False,
+Manchester United,Grant Brebner,20,Scotland,Defensive Midfield,DM,,Cambridge Utd.,England,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Grant Brebner,20,Scotland,Defensive Midfield,DM,,Hibernian FC,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Mark Wilson,18,England,Central Midfield,CM,,Wrexham,Wales,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Ronnie Wallwork,20,England,Central Midfield,CM,,Stockport,England,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Kevin Pilkington,24,England,Goalkeeper,GK,,Celtic,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Graeme Tomlinson,22,England,attack,attack,,Millwall,England,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Ronnie Wallwork,20,England,Central Midfield,CM,,Carlisle United,England,0.0,out,winter,Premier League,1997,True,free loan
+Manchester United,Andy Duncan,20,England,Centre-Back,CB,,Cambridge Utd.,England,25000.0,out,winter,Premier League,1997,False,
+Manchester United,John O'Kane,22,England,Right-Back,RB,,Bradford,England,0.0,out,winter,Premier League,1997,True,free loan
+Newcastle United,Gary Speed,27,Wales,Left Midfield,LM,,Everton,England,8250000.0,in,summer,Premier League,1997,False,
+Newcastle United,Alessandro Pistone,21,Italy,Left-Back,LB,,Inter,Italy,6500000.0,in,summer,Premier League,1997,False,
+Newcastle United,Jon Dahl Tomasson,20,Denmark,Centre-Forward,CF,,Heerenveen,Netherlands,3900000.0,in,summer,Premier League,1997,False,
+Newcastle United,Des Hamilton,20,England,Right Midfield,RM,,Bradford,England,3000000.0,in,summer,Premier League,1997,False,
+Newcastle United,Shay Given,21,Ireland,Goalkeeper,GK,,Blackburn,England,2250000.0,in,summer,Premier League,1997,False,
+Newcastle United,Brian Pinas,18,Netherlands,Left Winger,LW,,Feyenoord U19,Netherlands,400000.0,in,summer,Premier League,1997,False,
+Newcastle United,Bjarni Gudjónsson,18,Iceland,Right Midfield,RM,,ÍA Akranes,Iceland,0.0,in,summer,Premier League,1997,False,
+Newcastle United,Temur Ketsbaia,29,Georgia,Right Winger,RW,,AEK Athens,Greece,0.0,in,summer,Premier League,1997,False,
+Newcastle United,Ian Rush,35,Wales,Centre-Forward,CF,,Leeds,England,0.0,in,summer,Premier League,1997,False,
+Newcastle United,Paul Barrett,19,England,midfield,midfield,,Unknown,,,in,summer,Premier League,1997,False,
+Newcastle United,Stuart Pearce,35,England,Left-Back,LB,,Nottm Forest,England,,in,summer,Premier League,1997,False,
+Newcastle United,John Barnes,33,England,Left Midfield,LM,,Liverpool,England,,in,summer,Premier League,1997,False,
+Newcastle United,Ralf Keidel,20,Germany,Right-Back,RB,,Schweinfurt 05,Germany,,in,summer,Premier League,1997,False,
+Newcastle United,Les Ferdinand,30,England,Centre-Forward,CF,,Spurs,England,9500000.0,out,summer,Premier League,1997,False,
+Newcastle United,Robbie Elliott,23,England,Left-Back,LB,,Bolton,England,3480000.0,out,summer,Premier League,1997,False,
+Newcastle United,David Ginola,30,France,Left Winger,LW,,Spurs,England,2850000.0,out,summer,Premier League,1997,False,
+Newcastle United,Peter Beardsley,36,England,Second Striker,SS,,Bolton,England,500000.0,out,summer,Premier League,1997,False,
+Newcastle United,Jim Crawford,24,Ireland,midfield,midfield,,Reading,England,65000.0,out,summer,Premier League,1997,False,
+Newcastle United,Steve Harper,22,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,1997,True,free loan
+Newcastle United,Andreas Andersson,23,Sweden,Centre-Forward,CF,,Milan,Italy,4130000.0,in,winter,Premier League,1997,False,
+Newcastle United,Andy Griffin,18,England,Right-Back,RB,,Stoke City,England,2500000.0,in,winter,Premier League,1997,False,
+Newcastle United,Nikolaos Dabizas,24,Greece,Centre-Back,CB,,Olympiacos,Greece,2000000.0,in,winter,Premier League,1997,False,
+Newcastle United,Paul Robinson,19,England,Centre-Forward,CF,,Darlington,England,350000.0,in,winter,Premier League,1997,False,
+Newcastle United,James Coppinger,17,England,Right Midfield,RM,,Darlington,England,315000.0,in,winter,Premier League,1997,False,
+Newcastle United,Robin Hulbert,18,England,Defensive Midfield,DM,,Swindon Town,England,0.0,in,winter,Premier League,1997,True,free loan
+Newcastle United,David Terrier,24,France,Centre-Back,CB,,West Ham,England,,in,winter,Premier League,1997,False,
+Newcastle United,Ralf Keidel,20,Germany,Right-Back,RB,,Schweinfurt 05,Germany,,in,winter,Premier League,1997,False,
+Newcastle United,Paul Dalglish,20,Scotland,Centre-Forward,CF,,Liverpool U23,England,,in,winter,Premier League,1997,False,
+Newcastle United,Paul Brayson,20,England,attack,attack,,Reading,England,130000.0,out,winter,Premier League,1997,False,
+Newcastle United,Jim Crawford,24,Ireland,midfield,midfield,,Dundee United,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+Newcastle United,Ian Rush,36,Wales,Centre-Forward,CF,,Sheff Utd,England,0.0,out,winter,Premier League,1997,True,free loan
+Newcastle United,Paul Dalglish,20,Scotland,Centre-Forward,CF,,Bury,England,0.0,out,winter,Premier League,1997,True,free loan
+Newcastle United,Steve Harper,22,England,Goalkeeper,GK,,Huddersfield,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,Jim Magilton,28,Northern Ireland,Right Midfield,RM,,Southampton,England,1900000.0,in,summer,Premier League,1997,False,
+Sheffield Wednesday,Mark McKeever,18,Ireland,midfield,midfield,,Peterborough,England,750000.0,in,summer,Premier League,1997,False,
+Sheffield Wednesday,Paolo Di Canio,28,Italy,Centre-Forward,CF,,Celtic,Scotland,0.0,in,summer,Premier League,1997,False,
+Sheffield Wednesday,Nigel Clough,31,England,Attacking Midfield,AM,,Man City,England,0.0,in,summer,Premier League,1997,True,free loan
+Sheffield Wednesday,Bruce Grobbelaar,39,Zimbabwe,Goalkeeper,GK,,Oxford United,England,,in,summer,Premier League,1997,False,
+Sheffield Wednesday,David Hirst,29,England,Centre-Forward,CF,,Southampton,England,2500000.0,out,summer,Premier League,1997,False,
+Sheffield Wednesday,Brian Linighan,23,England,Centre-Back,CB,,Bury,England,0.0,out,summer,Premier League,1997,False,
+Sheffield Wednesday,Regi Blinker,28,Netherlands,Left Midfield,LM,,Celtic,Scotland,,out,summer,Premier League,1997,False,
+Sheffield Wednesday,Mike Williams,27,England,attack,attack,,Burnley,England,,out,summer,Premier League,1997,False,
+Sheffield Wednesday,Orlando Trustfull,26,Netherlands,Defensive Midfield,DM,,Vitesse,Netherlands,,out,summer,Premier League,1997,False,
+Sheffield Wednesday,Matt Clarke,23,England,Goalkeeper,GK,,Kidderminster,England,0.0,out,summer,Premier League,1997,True,free loan
+Sheffield Wednesday,Andy Hinchcliffe,28,England,Left-Back,LB,,Everton,England,4500000.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Goce Sedloski,23,North Macedonia,defence,defence,,Hajduk Split,Croatia,1500000.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Niclas Alexandersson,26,Sweden,Right Midfield,RM,,IFK Göteborg,Sweden,1100000.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Christian Mayrleb,25,Austria,Centre-Forward,CF,,FC Tirol,Austria,0.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Earl Barrett,30,England,Right-Back,RB,,Everton,England,0.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Émerson Thome,25,Brazil,Centre-Back,CB,,Benfica,Portugal,0.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Francesco Sanetti,19,Italy,Second Striker,SS,,Genoa U19,Italy,0.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,Alan Quinn,18,Ireland,Central Midfield,CM,,Cherry Orchard FC,Ireland,35000.0,in,winter,Premier League,1997,False,
+Sheffield Wednesday,David Hirst,29,England,Centre-Forward,CF,,Southampton,England,2500000.0,out,winter,Premier League,1997,False,
+Sheffield Wednesday,Patrick Blondeau,29,France,Right-Back,RB,,G. Bordeaux,France,1800000.0,out,winter,Premier League,1997,False,
+Sheffield Wednesday,Wayne Collins,28,England,Central Midfield,CM,,Fulham,England,600000.0,out,winter,Premier League,1997,False,
+Sheffield Wednesday,O'Neill Donaldson,28,England,Centre-Forward,CF,,Oxford United,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,Adem Poric,24,Australia,Central Midfield,CM,,Rotherham,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,Steve Nicol,36,Scotland,Right-Back,RB,,West Brom,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,O'Neill Donaldson,28,England,Centre-Forward,CF,,Stoke City,England,0.0,out,winter,Premier League,1997,False,
+Sheffield Wednesday,Adem Poric,24,Australia,Central Midfield,CM,,Notts County,England,0.0,out,winter,Premier League,1997,False,
+Sheffield Wednesday,Lee Briscoe,22,England,Left-Back,LB,,Man City,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,Matt Clarke,23,England,Goalkeeper,GK,,Kidderminster,England,0.0,out,winter,Premier League,1997,True,free loan
+Sheffield Wednesday,Bruce Grobbelaar,40,Zimbabwe,Goalkeeper,GK,,Oldham Athletic,England,,out,winter,Premier League,1997,False,
+Southampton FC,David Hirst,29,England,Centre-Forward,CF,,Sheff Wed,England,2500000.0,in,summer,Premier League,1997,False,
+Southampton FC,Paul Jones,30,Wales,Goalkeeper,GK,,Stockport,England,1350000.0,in,summer,Premier League,1997,False,
+Southampton FC,Carlton Palmer,31,England,Defensive Midfield,DM,,Leeds,England,1200000.0,in,summer,Premier League,1997,False,
+Southampton FC,Kevin Davies,20,England,Centre-Forward,CF,,Chesterfield FC,England,1130000.0,in,summer,Premier League,1997,False,
+Southampton FC,Lee Todd,25,England,Left-Back,LB,,Stockport,England,1100000.0,in,summer,Premier League,1997,False,
+Southampton FC,Allan Johnston,23,Scotland,Right Midfield,RM,,Stade Rennais,France,,in,summer,Premier League,1997,False,
+Southampton FC,Duncan Spedding,19,England,midfield,midfield,,Unknown,,,in,summer,Premier League,1997,False,
+Southampton FC,Kevin Gibbens,17,England,midfield,midfield,,Unknown,,,in,summer,Premier League,1997,False,
+Southampton FC,Stig Johansen,25,Norway,Centre-Forward,CF,,Bodø/Glimt,Norway,,in,summer,Premier League,1997,False,
+Southampton FC,Kevin Richardson,34,England,Central Midfield,CM,,Coventry,England,,in,summer,Premier League,1997,False,
+Southampton FC,Jason Bowen,25,Wales,Central Midfield,CM,,Birmingham,England,0.0,in,summer,Premier League,1997,True,free loan
+Southampton FC,Jim Magilton,28,Northern Ireland,Right Midfield,RM,,Sheff Wed,England,1900000.0,out,summer,Premier League,1997,False,
+Southampton FC,Mickey Evans,24,Ireland,Centre-Forward,CF,,West Brom,England,900000.0,out,summer,Premier League,1997,False,
+Southampton FC,Neil Maddison,28,England,midfield,midfield,,Middlesbrough,England,318000.0,out,summer,Premier League,1997,False,
+Southampton FC,Christer Warren,23,England,midfield,midfield,,Bournemouth,England,62000.0,out,summer,Premier League,1997,False,
+Southampton FC,Paul Tisdale,24,England,midfield,midfield,,Bristol City,England,0.0,out,summer,Premier League,1997,False,
+Southampton FC,Neil Moss,22,England,Goalkeeper,GK,,Gillingham FC,England,0.0,out,summer,Premier League,1997,True,free loan
+Southampton FC,Dave Beasant,38,England,Goalkeeper,GK,,Nottm Forest,England,0.0,out,summer,Premier League,1997,False,
+Southampton FC,Robbie Slater,32,Australia,Central Midfield,CM,,Wolves,England,,out,summer,Premier League,1997,False,
+Southampton FC,Ulrich van Gobbel,26,Netherlands,Right-Back,RB,,Feyenoord,Netherlands,,out,summer,Premier League,1997,False,
+Southampton FC,Eyal Berkovic,25,Israel,Attacking Midfield,AM,,Maccabi Haifa,Israel,0.0,out,summer,Premier League,1997,True,end of loan
+Southampton FC,David Hirst,29,England,Centre-Forward,CF,,Sheff Wed,England,2500000.0,in,winter,Premier League,1997,False,
+Southampton FC,Maik Taylor,26,Northern Ireland,Goalkeeper,GK,,Fulham,England,1050000.0,out,winter,Premier League,1997,False,
+Southampton FC,Alan Neilson,25,Wales,Centre-Back,CB,,Fulham,England,375000.0,out,winter,Premier League,1997,False,
+Southampton FC,Neil Maddison,28,England,midfield,midfield,,Middlesbrough,England,318000.0,out,winter,Premier League,1997,False,
+Southampton FC,Simon Charlton,21,England,Left-Back,LB,,Birmingham,England,275000.0,out,winter,Premier League,1997,False,
+Southampton FC,Christer Warren,23,England,midfield,midfield,,Bournemouth,England,62000.0,out,winter,Premier League,1997,False,
+Southampton FC,Matthew Robinson,23,England,Left-Back,LB,,Portsmouth,England,50000.0,out,winter,Premier League,1997,False,
+Southampton FC,Steve Basham,20,England,Centre-Forward,CF,,Wrexham,Wales,0.0,out,winter,Premier League,1997,True,free loan
+Southampton FC,Russell Watkinson,20,England,midfield,midfield,,Millwall,England,0.0,out,winter,Premier League,1997,True,free loan
+Southampton FC,Simon Charlton,26,England,Left-Back,LB,,Birmingham,England,0.0,out,winter,Premier League,1997,True,free loan
+Tottenham Hotspur,Les Ferdinand,30,England,Centre-Forward,CF,,Newcastle,England,9500000.0,in,summer,Premier League,1997,False,
+Tottenham Hotspur,David Ginola,30,France,Left Winger,LW,,Newcastle,England,2850000.0,in,summer,Premier League,1997,False,
+Tottenham Hotspur,José Dominguez,23,Portugal,Left Winger,LW,,Sporting CP,Portugal,2400000.0,in,summer,Premier League,1997,False,
+Tottenham Hotspur,Teddy Sheringham,31,England,Centre-Forward,CF,,Man Utd,England,5300000.0,out,summer,Premier League,1997,False,
+Tottenham Hotspur,Danny Hill,23,England,midfield,midfield,,Oxford United,England,0.0,out,summer,Premier League,1997,False,
+Tottenham Hotspur,Ronny Rosenthal,33,Israel,Left Winger,LW,,Watford,England,0.0,out,summer,Premier League,1997,False,
+Tottenham Hotspur,David Kerslake,31,England,Right-Back,RB,,Ipswich,England,0.0,out,summer,Premier League,1997,False,
+Tottenham Hotspur,David Kerslake,31,England,Right-Back,RB,,Charlton,England,0.0,out,summer,Premier League,1997,True,free loan
+Tottenham Hotspur,Rory Allen,19,England,attack,attack,,Luton,England,0.0,out,summer,Premier League,1997,True,free loan
+Tottenham Hotspur,Jason Dozzell,29,England,Central Midfield,CM,,Unknown,,,out,summer,Premier League,1997,False,
+Tottenham Hotspur,Gary Mabbutt,36,England,Centre-Back,CB,,Retired,,,out,summer,Premier League,1997,False,
+Tottenham Hotspur,Moussa Saïb,28,Algeria,Left Midfield,LM,,Valencia,Spain,2600000.0,in,winter,Premier League,1997,False,
+Tottenham Hotspur,Frode Grodas,33,Norway,Goalkeeper,GK,,Chelsea,England,350000.0,in,winter,Premier League,1997,False,
+Tottenham Hotspur,Jürgen Klinsmann,33,Germany,Centre-Forward,CF,,Sampdoria,Italy,0.0,in,winter,Premier League,1997,False,
+Tottenham Hotspur,Nicola Berti,30,Italy,Central Midfield,CM,,Inter,Italy,,in,winter,Premier League,1997,False,
+Tottenham Hotspur,Jamie Clapham,22,England,Left-Back,LB,,Ipswich,England,450000.0,out,winter,Premier League,1997,False,
+Tottenham Hotspur,Stuart Nethercott,24,England,Centre-Back,CB,,Millwall,England,0.0,out,winter,Premier League,1997,False,
+Tottenham Hotspur,Kevin Maher,21,Ireland,Central Midfield,CM,,Southend United,England,0.0,out,winter,Premier League,1997,False,
+Tottenham Hotspur,Neale Fenn,20,Ireland,Centre-Forward,CF,,Leyton Orient,England,0.0,out,winter,Premier League,1997,True,free loan
+Tottenham Hotspur,Danny Hill,23,England,midfield,midfield,,Cardiff,Wales,0.0,out,winter,Premier League,1997,True,free loan
+Tottenham Hotspur,Neale Fenn,21,Ireland,Centre-Forward,CF,,Norwich,England,0.0,out,winter,Premier League,1997,True,free loan
+Tottenham Hotspur,Paul Mahorn,24,England,attack,attack,,Port Vale,England,0.0,out,winter,Premier League,1997,False,
+West Ham United,Ian Pearce,23,England,Centre-Back,CB,,Blackburn,England,3600000.0,in,summer,Premier League,1997,False,
+West Ham United,Eyal Berkovic,25,Israel,Attacking Midfield,AM,,Maccabi Haifa,Israel,2700000.0,in,summer,Premier League,1997,False,
+West Ham United,Andy Impey,25,England,Defensive Midfield,DM,,QPR,England,1680000.0,in,summer,Premier League,1997,False,
+West Ham United,Craig Forrest,29,Canada,Goalkeeper,GK,,Ipswich,England,750000.0,in,summer,Premier League,1997,False,
+West Ham United,Samassi Abou,24,France,Centre-Forward,CF,,Cannes,France,375000.0,in,summer,Premier League,1997,False,
+West Ham United,Ian Thomas-Moore,21,England,Centre-Forward,CF,,Nottm Forest,England,0.0,in,summer,Premier League,1997,False,
+West Ham United,David Unsworth,23,England,Left-Back,LB,,Everton,England,,in,summer,Premier League,1997,False,
+West Ham United,David Terrier,23,France,Centre-Back,CB,,FC Metz,France,,in,summer,Premier League,1997,False,
+West Ham United,Paulo Futre,31,Portugal,Left Winger,LW,,Atlético Madrid,Spain,0.0,out,summer,Premier League,1997,False,
+West Ham United,Marc Rieper,29,Denmark,Centre-Back,CB,,Celtic,Scotland,0.0,out,summer,Premier League,1997,False,
+West Ham United,Slaven Bilic,28,Croatia,Centre-Back,CB,,Everton,England,,out,summer,Premier League,1997,False,
+West Ham United,Daniel Williamson,23,England,Attacking Midfield,AM,,Everton,England,,out,summer,Premier League,1997,False,
+West Ham United,Ian Thomas-Moore,21,England,Centre-Forward,CF,,Nottm Forest,England,,out,summer,Premier League,1997,False,
+West Ham United,Florin Raducioiu,27,Romania,Centre-Forward,CF,,Espanyol,Spain,0.0,out,summer,Premier League,1997,True,end of loan
+West Ham United,Porfírio,23,Portugal,Left Midfield,LM,,Sporting CP,Portugal,0.0,out,summer,Premier League,1997,True,end of loan
+West Ham United,Trevor Sinclair,24,England,Left Winger,LW,,QPR,England,3050000.0,in,winter,Premier League,1997,False,
+West Ham United,Stephen Bywater,16,England,Goalkeeper,GK,,Rochdale,England,450000.0,in,winter,Premier League,1997,False,
+West Ham United,Samassi Abou,24,France,Centre-Forward,CF,,Cannes,France,375000.0,in,winter,Premier League,1997,False,
+West Ham United,Mohammed Berthé,25,France,Centre-Forward,CF,,AC Ajaccio,France,,in,winter,Premier League,1997,False,
+West Ham United,Paulo Alves,27,Portugal,Centre-Forward,CF,,Sporting CP,Portugal,0.0,in,winter,Premier League,1997,True,free loan
+West Ham United,Bernard Lama,34,France,Goalkeeper,GK,,Paris SG,France,,in,winter,Premier League,1997,False,
+West Ham United,Michael Hughes,26,Northern Ireland,Attacking Midfield,AM,,Wimbledon FC,England,2000000.0,out,winter,Premier League,1997,False,
+West Ham United,Lee Hodges,19,England,Left Midfield,LM,,Plymouth,England,0.0,out,winter,Premier League,1997,True,free loan
+West Ham United,Neil Finn,19,England,Goalkeeper,GK,,Dorchester,England,0.0,out,winter,Premier League,1997,True,free loan
+West Ham United,Les Sealey,40,England,Goalkeeper,GK,,Bury,England,0.0,out,winter,Premier League,1997,True,free loan
+West Ham United,Keith Rowland,26,Northern Ireland,Left-Back,LB,,QPR,England,0.0,out,winter,Premier League,1997,False,
+West Ham United,Ian Bishop,32,England,Central Midfield,CM,,Man City,England,,out,winter,Premier League,1997,False,
+West Ham United,Emmanuel Omoyinmi,20,Nigeria,Centre-Forward,CF,,Dundee United,Scotland,0.0,out,winter,Premier League,1997,True,free loan
+West Ham United,Ian Thomas-Moore,21,England,Centre-Forward,CF,,Nottm Forest,England,,out,winter,Premier League,1997,False,
+West Ham United,Iain Dowie,33,Northern Ireland,Centre-Forward,CF,,QPR,England,,out,winter,Premier League,1997,False,
+West Ham United,David Terrier,24,France,Centre-Back,CB,,Newcastle,England,,out,winter,Premier League,1997,False,
+Wimbledon FC,Mark Kennedy,21,Ireland,Left-Back,LB,,Liverpool,England,2400000.0,in,summer,Premier League,1997,False,
+Wimbledon FC,Ceri Hughes,26,Wales,Central Midfield,CM,,Luton,England,450000.0,in,summer,Premier League,1997,False,
+Wimbledon FC,Öyvind Leonhardsen,26,Norway,Attacking Midfield,AM,,Liverpool,England,5250000.0,out,summer,Premier League,1997,False,
+Wimbledon FC,Dean Holdsworth,28,England,Centre-Forward,CF,,Bolton,England,4870000.0,out,summer,Premier League,1997,False,
+Wimbledon FC,Aidan Newhouse,25,England,attack,attack,,Fulham,England,127000.0,out,summer,Premier League,1997,False,
+Wimbledon FC,Scott Fitzgerald,27,Ireland,Centre-Back,CB,,Millwall,England,60000.0,out,summer,Premier League,1997,False,
+Wimbledon FC,Iain Laidlaw,20,England,Centre-Back,CB,,Unknown,,,out,summer,Premier League,1997,False,
+Wimbledon FC,Michael Hughes,26,Northern Ireland,Attacking Midfield,AM,,West Ham,England,2000000.0,in,winter,Premier League,1997,False,
+Wimbledon FC,Carl Leaburn,28,England,Centre-Forward,CF,,Charlton,England,359000.0,in,winter,Premier League,1997,False,
+Wimbledon FC,Stale Solbakken,29,Norway,Central Midfield,CM,,Lillestrøm SK,Norway,,in,winter,Premier League,1997,False,
+Wimbledon FC,Vinnie Jones,33,Wales,Defensive Midfield,DM,,QPR,England,890000.0,out,winter,Premier League,1997,False,

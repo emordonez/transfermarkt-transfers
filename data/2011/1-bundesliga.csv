@@ -1,0 +1,417 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1. FC Köln,Sascha Riether,28,Germany,Right-Back,RB,4500000.0,VfL Wolfsburg,Germany,2800000.0,in,summer,1 Bundesliga,2011,False,
+1. FC Köln,Mato Jajalo,23,Bosnia-Herzegovina,Defensive Midfield,DM,2500000.0,Siena,Italy,2000000.0,in,summer,1 Bundesliga,2011,False,
+1. FC Köln,Henrique Sereno,26,Portugal,Centre-Back,CB,1200000.0,FC Porto,Portugal,300000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+1. FC Köln,Ammar Jemal,24,Tunisia,Centre-Back,CB,1500000.0,BSC Young Boys,Switzerland,300000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+1. FC Köln,Odise Roshi,20,Albania,Right Winger,RW,250000.0,Flamurtari FC,Albania,0.0,in,summer,1 Bundesliga,2011,False,
+1. FC Köln,Youssef Mohamad,31,Lebanon,Centre-Back,CB,2750000.0,Al-Ahli (UAE),United Arab Emirates,2530000.0,out,summer,1 Bundesliga,2011,False,
+1. FC Köln,Thomas Kessler,25,Germany,Goalkeeper,GK,2000000.0,E. Frankfurt,Germany,150000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+1. FC Köln,Taner Yalcin,21,Germany,Attacking Midfield,AM,1500000.0,Istanbul BBSK,Turkey,150000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+1. FC Köln,Simon Terodde,23,Germany,Centre-Forward,CF,250000.0,Union Berlin,Germany,50000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+1. FC Köln,Reinhold Yabo,19,Germany,Central Midfield,CM,500000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,Fabrice Ehret,31,France,Left-Back,LB,750000.0,Évian,France,0.0,out,summer,1 Bundesliga,2011,False,
+1. FC Köln,Stephan Salger,21,Germany,Centre-Back,CB,400000.0,VfL Osnabrück,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,José Pierre Vunguidica,21,Angola,Left Winger,LW,250000.0,Preußen Münster,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,Konstantinos Giannoulis,23,Greece,Centre-Back,CB,250000.0,Atromitos Athen,Greece,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,Michael Gardawski,20,Germany,Left-Back,LB,250000.0,VfL Osnabrück,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1. FC Köln,Bienvenue Basala-Mazana,19,Germany,Right-Back,RB,350000.0,SV Ried,Austria,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,Christopher Schorch,22,Germany,Centre-Back,CB,1750000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1. FC Köln,Wilfried Sanou,27,Burkina Faso,Left Winger,LW,500000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+1. FC Köln,Manasseh Ishiaku,28,Nigeria,Centre-Forward,CF,300000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+1. FC Köln,Mato Jajalo,23,Bosnia-Herzegovina,Defensive Midfield,DM,2500000.0,Siena,Italy,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1. FC Köln,Mikael Ishak,18,Sweden,Centre-Forward,CF,40000.0,Assyriska FF,Sweden,280000.0,in,winter,1 Bundesliga,2011,False,
+1. FC Köln,Chong Tese,27,"Korea, North",Centre-Forward,CF,1250000.0,VfL Bochum,Germany,200000.0,in,winter,1 Bundesliga,2011,False,
+1. FC Köln,Tomoaki Makino,24,Japan,Centre-Back,CB,1000000.0,Urawa Reds,Japan,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1. FC Köln,Alexandru Ionita,22,Romania,Centre-Forward,CF,750000.0,Rapid Bucharest,Romania,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1. FC Köln,Adam Matuszczyk,22,Poland,Defensive Midfield,DM,2500000.0,F. Düsseldorf,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1. FC Köln,Thiemo-Jérôme Kialka,22,Germany,Centre-Forward,CF,150000.0,Jahn Regensburg,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+1. FC Köln,Sebastian Freis,26,Germany,Centre-Forward,CF,750000.0,SC Freiburg,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Itay Shechter,24,Israel,Centre-Forward,CF,3000000.0,Hapoel Tel Aviv,Israel,2500000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Gil Vermouth,25,Israel,Right Midfield,RM,1700000.0,Hapoel Tel Aviv,Israel,750000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Richard Sukuta-Pasu,21,Germany,Centre-Forward,CF,500000.0,Bay. Leverkusen,Germany,280000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Konstantinos Fortounis,18,Greece,Attacking Midfield,AM,800000.0,Asteras Tripoli,Greece,250000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Dorge Kouemaha,28,Cameroon,Centre-Forward,CF,2000000.0,Club Brugge,Belgium,100000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+1.FC Kaiserslautern,Olcay Sahan,24,Turkey,Right Winger,RW,1500000.0,MSV Duisburg,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Ivo Ilicevic,24,Croatia,Left Winger,LW,5000000.0,Hamburger SV,Germany,4000000.0,out,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Bastian Schulz,26,Germany,Defensive Midfield,DM,500000.0,RB Leipzig,Germany,100000.0,out,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Srdjan Lakic,27,Croatia,Centre-Forward,CF,6000000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Danny Fuchs,35,Germany,Left Winger,LW,,Retired,,,out,summer,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Jan Morávek,21,Czech Republic,Central Midfield,CM,3500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Kaiserslautern,Erwin Hoffer,24,Austria,Centre-Forward,CF,2000000.0,SSC Napoli,Italy,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Kaiserslautern,Adam Hlousek,22,Czech Republic,Left-Back,LB,1500000.0,Slavia Prague,Czech Republic,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Kaiserslautern,Ariel Borysiuk,20,Poland,Defensive Midfield,DM,1600000.0,Legia Warszawa,Poland,2000000.0,in,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Jakub Swierczok,19,Poland,Centre-Forward,CF,125000.0,Polonia Bytom,Poland,420000.0,in,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Sandro Wagner,24,Germany,Centre-Forward,CF,1000000.0,Werder Bremen,Germany,300000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+1.FC Kaiserslautern,Anthar Yahia,29,Algeria,Centre-Back,CB,1500000.0,Al-Nassr,Saudi Arabia,0.0,in,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Nicolai Jörgensen,20,Denmark,Centre-Forward,CF,1500000.0,Bay. Leverkusen,Germany,30000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+1.FC Kaiserslautern,Martin Amedick,29,Germany,Centre-Back,CB,2500000.0,E. Frankfurt,Germany,350000.0,out,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Chadli Amri,27,Algeria,Right Winger,RW,500000.0,FSV Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1.FC Kaiserslautern,Iliyan Mitsanski,26,Bulgaria,Centre-Forward,CF,750000.0,FSV Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1.FC Kaiserslautern,Clemens Walch,24,Austria,Right Midfield,RM,750000.0,Dynamo Dresden,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1.FC Kaiserslautern,Jiri Bilek,28,Czech Republic,Centre-Back,CB,1250000.0,Zaglebie Lubin,Poland,0.0,out,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Gil Vermouth,26,Israel,Right Midfield,RM,1500000.0,De Graafschap,Netherlands,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1.FC Kaiserslautern,Adam Nemec,26,Slovakia,Centre-Forward,CF,1500000.0,FC Ingolstadt,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+1.FC Kaiserslautern,Stiven Rivic,26,Croatia,Attacking Midfield,AM,600000.0,Without Club,,,out,winter,1 Bundesliga,2011,False,
+1.FC Nuremberg,Tomas Pekhart,22,Czech Republic,Centre-Forward,CF,1600000.0,FK Jablonec,Czech Republic,2000000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Timm Klose,23,Switzerland,Centre-Back,CB,800000.0,FC Thun,Switzerland,400000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Daniel Didavi,21,Germany,Attacking Midfield,AM,1000000.0,VfB Stuttgart,Germany,300000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+1.FC Nuremberg,Alexander Esswein,21,Germany,Right Winger,RW,800000.0,Dynamo Dresden,Germany,200000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Markus Feulner,29,Germany,Central Midfield,CM,1000000.0,Bor. Dortmund,Germany,150000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Patrick Rakovsky,18,Germany,Goalkeeper,GK,,Schalke 04 U19,Germany,100000.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Manuel Zeitz,20,Germany,Defensive Midfield,DM,600000.0,Saarbrücken,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Wilson Kamavuaka,21,DR Congo,Defensive Midfield,DM,50000.0,Hoffenheim II,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Philipp Klement,18,Germany,Attacking Midfield,AM,25000.0,K'lautern U19,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Ilkay Gündogan,20,Germany,Central Midfield,CM,6500000.0,Bor. Dortmund,Germany,5500000.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Daniel Batz,20,Germany,Goalkeeper,GK,100000.0,SC Freiburg,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Andreas Wolf,29,Germany,Centre-Back,CB,2500000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Marek Mintal,33,Slovakia,Attacking Midfield,AM,900000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Timo Ochs,29,Germany,Goalkeeper,GK,300000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Christoph Sauter,19,Germany,Right Winger,RW,150000.0,VfR Aalen,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1.FC Nuremberg,Pascal Bieler,25,Germany,Left-Back,LB,350000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Felicio Brown Forbes,19,Costa Rica,Centre-Forward,CF,150000.0,RW Oberhausen,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1.FC Nuremberg,Dario Vidosic,24,Australia,Attacking Midfield,AM,500000.0,Adelaide United,Australia,0.0,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Rubin Okotie,24,Austria,Centre-Forward,CF,750000.0,Sint-Truiden,Belgium,0.0,out,summer,1 Bundesliga,2011,True,free loan
+1.FC Nuremberg,Daniel Klewer,34,Germany,Goalkeeper,GK,,Retired,,,out,summer,1 Bundesliga,2011,False,
+1.FC Nuremberg,Julian Schieber,22,Germany,Centre-Forward,CF,6500000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Nuremberg,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,6500000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Nuremberg,Nassim Ben Khalifa,19,Switzerland,Second Striker,SS,1250000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FC Nuremberg,Adam Hlousek,23,Czech Republic,Left-Back,LB,1200000.0,FK Jablonec,Czech Republic,1000000.0,in,winter,1 Bundesliga,2011,False,
+1.FC Nuremberg,Omar González,23,United States,Centre-Back,CB,400000.0,LA Galaxy,United States,0.0,in,winter,1 Bundesliga,2011,True,free loan
+1.FC Nuremberg,Hanno Balitsch,30,Germany,Defensive Midfield,DM,2500000.0,Bay. Leverkusen,Germany,0.0,in,winter,1 Bundesliga,2011,False,
+1.FC Nuremberg,Rubin Okotie,24,Austria,Centre-Forward,CF,600000.0,Sturm Graz,Austria,0.0,out,winter,1 Bundesliga,2011,True,free loan
+1.FSV Mainz 05,Anthony Ujah,20,Nigeria,Centre-Forward,CF,2600000.0,Lillestrøm SK,Norway,2300000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Nicolai Müller,23,Germany,Attacking Midfield,AM,2000000.0,Greuther Fürth,Germany,1800000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,4000000.0,VfL Bochum,Germany,1800000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Julian Baumgartlinger,23,Austria,Defensive Midfield,DM,2250000.0,Austria Vienna,Austria,1100000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Malik Fathi,27,Germany,Left-Back,LB,2500000.0,Spartak Moscow,Russia,1000000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Zoltán Stieber,22,Hungary,Left Winger,LW,2500000.0,Alem. Aachen,Germany,900000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Marcel Risse,21,Germany,Right Midfield,RM,1750000.0,Bay. Leverkusen,Germany,800000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Fabian Schönheim,24,Germany,Centre-Back,CB,700000.0,Wehen Wiesbaden,Germany,400000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Andreas Ivanschitz,27,Austria,Attacking Midfield,AM,3000000.0,Panathinaikos,Greece,200000.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Mario Gavranovic,21,Switzerland,Centre-Forward,CF,1750000.0,FC Schalke 04,Germany,200000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+1.FSV Mainz 05,Yunus Malli,19,Turkey,Attacking Midfield,AM,150000.0,M'gladbach U19,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Deniz Yilmaz,23,Azerbaijan,Centre-Forward,CF,700000.0,FC Bayern II,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Eric Maxim Choupo-Moting,22,Cameroon,Centre-Forward,CF,2000000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Zdenek Pospech,32,Czech Republic,Right-Back,RB,2000000.0,FC Copenhagen,Denmark,0.0,in,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Loris Karius,18,Germany,Goalkeeper,GK,,Man City Res.,England,0.0,in,summer,1 Bundesliga,2011,True,free loan
+1.FSV Mainz 05,André Schürrle,20,Germany,Left Winger,LW,12500000.0,Bay. Leverkusen,Germany,8500000.0,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,5000000.0,FC Schalke 04,Germany,3800000.0,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Stefan Bell,19,Germany,Centre-Back,CB,1500000.0,E. Frankfurt,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+1.FSV Mainz 05,Petar Sliskovic,20,Croatia,Centre-Forward,CF,600000.0,FC St. Pauli,Germany,50000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+1.FSV Mainz 05,Miroslav Karhan,35,Slovakia,Central Midfield,CM,300000.0,Spartak Trnava,Slovakia,0.0,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Jan Simak,32,Czech Republic,Attacking Midfield,AM,300000.0,Carl Zeiss Jena,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Filip Trojan,28,Czech Republic,Left Midfield,LM,1000000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Martin Pieckenhagen,39,Germany,Goalkeeper,GK,100000.0,Retired,,,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Zsolt Löw,32,Hungary,Left-Back,LB,300000.0,Retired,,,out,summer,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Andreas Ivanschitz,27,Austria,Attacking Midfield,AM,3000000.0,Panathinaikos,Greece,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FSV Mainz 05,Lewis Holtby,20,Germany,Central Midfield,CM,6000000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,4000000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FSV Mainz 05,Marcel Risse,21,Germany,Right Midfield,RM,1750000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FSV Mainz 05,Malik Fathi,27,Germany,Left-Back,LB,2500000.0,Spartak Moscow,Russia,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+1.FSV Mainz 05,Mohamed Zidan,30,Egypt,Second Striker,SS,2000000.0,Bor. Dortmund,Germany,400000.0,in,winter,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Loris Karius,18,Germany,Goalkeeper,GK,200000.0,Man City Res.,England,0.0,in,winter,1 Bundesliga,2011,False,
+1.FSV Mainz 05,Florian Heller,29,Germany,Right Winger,RW,1000000.0,FC Ingolstadt,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,André Schürrle,20,Germany,Left Winger,LW,12500000.0,1.FSV Mainz 05,Germany,8500000.0,in,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Ömer Toprak,21,Turkey,Centre-Back,CB,4000000.0,SC Freiburg,Germany,3000000.0,in,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Bernd Leno,19,Germany,Goalkeeper,GK,600000.0,VfB Stuttgart,Germany,500000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+Bayer 04 Leverkusen,David Yelldell,29,United States,Goalkeeper,GK,1000000.0,MSV Duisburg,Germany,260000.0,in,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Karim Bellarabi,21,Germany,Right Winger,RW,1000000.0,E. Braunschweig,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Michael Ortega,20,Colombia,Attacking Midfield,AM,800000.0,Atlas,Mexico,0.0,in,summer,1 Bundesliga,2011,True,free loan
+Bayer 04 Leverkusen,Arturo Vidal,24,Chile,Central Midfield,CM,20000000.0,Juventus,Italy,12500000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Domagoj Vida,22,Croatia,Centre-Back,CB,1750000.0,Dinamo Zagreb,Croatia,1300000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Marcel Risse,21,Germany,Right Midfield,RM,1750000.0,1.FSV Mainz 05,Germany,800000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Burak Kaplan,21,Turkey,Attacking Midfield,AM,750000.0,Besiktas,Turkey,650000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Constant Djakpa,24,Cote d'Ivoire,Left-Back,LB,1000000.0,E. Frankfurt,Germany,500000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Richard Sukuta-Pasu,21,Germany,Centre-Forward,CF,500000.0,1.FC K'lautern,Germany,280000.0,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Zvonko Pamic,20,Croatia,Central Midfield,CM,750000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Bayer 04 Leverkusen,Christoph Kramer,20,Germany,Defensive Midfield,DM,100000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Bayer 04 Leverkusen,Kevin Kampl,20,Slovenia,Central Midfield,CM,100000.0,VfL Osnabrück,Germany,,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Sami Hyypiä,37,Finland,Centre-Back,CB,,Retired,,,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Tomasz Bobel,36,Poland,Goalkeeper,GK,,Without Club,,,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Benedikt Fernandez,26,Germany,Goalkeeper,GK,200000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Bernd Leno,19,Germany,Goalkeeper,GK,5000000.0,VfB Stuttgart,Germany,7500000.0,in,winter,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Vedran Corluka,25,Croatia,Centre-Back,CB,10000000.0,Spurs,England,550000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+Bayer 04 Leverkusen,Hanno Balitsch,30,Germany,Defensive Midfield,DM,2500000.0,1.FC Nuremberg,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+Bayer 04 Leverkusen,Nicolai Jörgensen,20,Denmark,Centre-Forward,CF,1500000.0,1.FC K'lautern,Germany,30000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+Bayern Munich,Manuel Neuer,25,Germany,Goalkeeper,GK,28000000.0,FC Schalke 04,Germany,30000000.0,in,summer,1 Bundesliga,2011,False,
+Bayern Munich,Jérôme Boateng,22,Germany,Centre-Back,CB,15000000.0,Man City,England,13500000.0,in,summer,1 Bundesliga,2011,False,
+Bayern Munich,Rafinha,25,Brazil,Right-Back,RB,8000000.0,Genoa,Italy,5500000.0,in,summer,1 Bundesliga,2011,False,
+Bayern Munich,Nils Petersen,22,Germany,Centre-Forward,CF,4000000.0,Energie Cottbus,Germany,2800000.0,in,summer,1 Bundesliga,2011,False,
+Bayern Munich,Takashi Usami,19,Japan,Centre-Forward,CF,1500000.0,Gamba Osaka,Japan,300000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+Bayern Munich,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,6500000.0,Werder Bremen,Germany,5000000.0,out,summer,1 Bundesliga,2011,False,
+Bayern Munich,Thomas Kraft,22,Germany,Goalkeeper,GK,2500000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Bayern Munich,Hamit Altintop,28,Turkey,Right Midfield,RM,6000000.0,Real Madrid,Spain,0.0,out,summer,1 Bundesliga,2011,False,
+Bayern Munich,Andreas Ottl,26,Germany,Defensive Midfield,DM,2500000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Bayern Munich,Miroslav Klose,33,Germany,Centre-Forward,CF,5000000.0,Lazio,Italy,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Ilkay Gündogan,20,Germany,Central Midfield,CM,6500000.0,1.FC Nuremberg,Germany,5500000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Ivan Perisic,22,Croatia,Left Winger,LW,6000000.0,Club Brugge,Belgium,4000000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Chris Löwe,22,Germany,Left-Back,LB,200000.0,Chemnitzer FC,Germany,225000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Nuri Sahin,22,Turkey,Defensive Midfield,DM,20000000.0,Real Madrid,Spain,10000000.0,out,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,2500000.0,VfB Stuttgart,Germany,1000000.0,out,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Dimitar Rangelov,28,Bulgaria,Centre-Forward,CF,1500000.0,Energie Cottbus,Germany,200000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Dortmund,Markus Feulner,29,Germany,Central Midfield,CM,1000000.0,1.FC Nuremberg,Germany,150000.0,out,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Marco Stiepermann,20,Germany,Attacking Midfield,AM,400000.0,Alem. Aachen,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Dortmund,Lasse Sobiech,20,Germany,Centre-Back,CB,300000.0,FC St. Pauli,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Dortmund,Daniel Ginczek,20,Germany,Centre-Forward,CF,400000.0,VfL Bochum,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Dortmund,Dedê,33,Brazil,Left-Back,LB,1500000.0,Eskisehirspor,Turkey,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Dortmund,Mohamed Zidan,30,Egypt,Second Striker,SS,2000000.0,1.FSV Mainz 05,Germany,400000.0,out,winter,1 Bundesliga,2011,False,
+Borussia Dortmund,Marc Hornschuh,20,Germany,Centre-Back,CB,300000.0,FC Ingolstadt,Germany,90000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+Borussia Dortmund,Damien Le Tallec,21,France,Defensive Midfield,DM,150000.0,FC Nantes,France,0.0,out,winter,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Matthias Zimmermann,19,Germany,Right-Back,RB,1750000.0,Karlsruher SC,Germany,1000000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Lukas Rupp,20,Germany,Central Midfield,CM,750000.0,Karlsruher SC,Germany,600000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Yuki Otsu,21,Japan,Left Winger,LW,600000.0,Kashiwa Reysol,Japan,400000.0,in,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Joshua King,19,Norway,Second Striker,SS,250000.0,Man Utd U23,England,100000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Mathew Leckie,20,Australia,Right Winger,RW,1000000.0,Adelaide United,Australia,0.0,in,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Oscar Wendt,25,Sweden,Left-Back,LB,3000000.0,FC Copenhagen,Denmark,0.0,in,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Michael Bradley,24,United States,Central Midfield,CM,3500000.0,Chievo Verona,Italy,1200000.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Karim Matmour,26,Algeria,Right Winger,RW,1000000.0,E. Frankfurt,Germany,500000.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Logan Bailly,25,Belgium,Goalkeeper,GK,1000000.0,Neuchâtel Xamax,Switzerland,400000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Tobias Levels,24,Germany,Right-Back,RB,1250000.0,F. Düsseldorf,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Bamba Anderson,23,Brazil,Centre-Back,CB,1000000.0,E. Frankfurt,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Marcel Meeuwis,30,Netherlands,Defensive Midfield,DM,800000.0,VVV-Venlo,Netherlands,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Mohamadou Idrissou,31,Cameroon,Centre-Forward,CF,1750000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Christian Dorda,22,Germany,Left-Back,LB,200000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Jens Wissing,23,Germany,Left-Back,LB,400000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Sebastian Schachten,26,Germany,Right-Back,RB,400000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Fabian Bäcker,21,Germany,Right Winger,RW,400000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Paul Stalteri,33,Canada,Right-Back,RB,200000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Jean-Sébastien Jaurès,33,France,Left-Back,LB,,Retired,,,out,summer,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Michael Fink,29,Germany,Defensive Midfield,DM,1000000.0,Besiktas,Turkey,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+Borussia Mönchengladbach,Tolga Cigerci,19,Turkey,Central Midfield,CM,600000.0,VfL Wolfsburg,Germany,350000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Alexander Ring,20,Finland,Central Midfield,CM,600000.0,HJK Helsinki,Finland,200000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+Borussia Mönchengladbach,Raúl Bobadilla,24,Paraguay,Centre-Forward,CF,2500000.0,BSC Young Boys,Switzerland,1500000.0,out,winter,1 Bundesliga,2011,False,
+Borussia Mönchengladbach,Logan Bailly,26,Belgium,Goalkeeper,GK,600000.0,KRC Genk,Belgium,0.0,out,winter,1 Bundesliga,2011,True,free loan
+Borussia Mönchengladbach,Lukas Rupp,21,Germany,Central Midfield,CM,750000.0,SC Paderborn,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+Borussia Mönchengladbach,Elias Kachunga,19,DR Congo,Centre-Forward,CF,250000.0,VfL Osnabrück,Germany,30000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+FC Augsburg,Dawda Bah,27,The Gambia,Left Winger,LW,750000.0,HJK Helsinki,Finland,200000.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Sascha Mölders,26,Germany,Centre-Forward,CF,1500000.0,FSV Frankfurt,Germany,175000.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Sebastian Langkamp,23,Germany,Centre-Back,CB,1000000.0,Karlsruher SC,Germany,100000.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Dominic Peitz,26,Germany,Defensive Midfield,DM,1000000.0,Union Berlin,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Patrick Mayer,23,Germany,Centre-Forward,CF,1000000.0,1.FC Heidenheim,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Lorenzo Davids,24,Netherlands,Defensive Midfield,DM,1250000.0,NEC Nijmegen,Netherlands,0.0,in,summer,1 Bundesliga,2011,False,
+FC Augsburg,Akaki Gogia,19,Germany,Right Winger,RW,125000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2011,True,free loan
+FC Augsburg,Dominic Peitz,26,Germany,Defensive Midfield,DM,1000000.0,Hansa Rostock,Germany,50000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Augsburg,Ibrahima Traoré,23,Guinea,Right Winger,RW,2000000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Daniel Framberger,21,Germany,Central Midfield,CM,,TSV Neusäß,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Lukas Sinkiewicz,25,Germany,Defensive Midfield,DM,1000000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Thomas Rudolph,22,Germany,Central Midfield,CM,,TSV Gersthofen,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Benjamin Woltmann,21,Germany,Centre-Back,CB,50000.0,TSV Aindling,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Kees Kwakman,28,Netherlands,Defensive Midfield,DM,1250000.0,FC Groningen,Netherlands,10000.0,out,summer,1 Bundesliga,2011,False,
+FC Augsburg,Sören Bertram,20,Germany,Second Striker,SS,500000.0,Hamburger SV,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+FC Augsburg,Moritz Leitner,18,Germany,Central Midfield,CM,1500000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+FC Augsburg,Matthias Ostrzolek,21,Germany,Left-Back,LB,1000000.0,VfL Bochum,Germany,500000.0,in,winter,1 Bundesliga,2011,False,
+FC Augsburg,Ja-cheol Koo,22,"Korea, South",Central Midfield,CM,2500000.0,VfL Wolfsburg,Germany,125000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+FC Augsburg,Jan Morávek,22,Czech Republic,Central Midfield,CM,3500000.0,FC Schalke 04,Germany,75000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+FC Augsburg,Uwe Möhrle,32,Germany,Centre-Back,CB,1250000.0,Energie Cottbus,Germany,200000.0,out,winter,1 Bundesliga,2011,False,
+FC Augsburg,Michael Thurk,35,Germany,Centre-Forward,CF,500000.0,1.FC Heidenheim,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+FC Augsburg,Patrick Mayer,23,Germany,Centre-Forward,CF,1000000.0,1.FC Heidenheim,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+FC Schalke 04,Christian Fuchs,25,Austria,Left-Back,LB,5000000.0,1.FSV Mainz 05,Germany,3800000.0,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Marco Höger,21,Germany,Defensive Midfield,DM,2000000.0,Alem. Aachen,Germany,1500000.0,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Teemu Pukki,21,Finland,Centre-Forward,CF,200000.0,HJK Helsinki,Finland,1500000.0,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Ralf Fährmann,22,Germany,Goalkeeper,GK,1500000.0,E. Frankfurt,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Ciprian Marica,25,Romania,Centre-Forward,CF,3500000.0,VfB Stuttgart,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Timo Hildebrand,32,Germany,Goalkeeper,GK,1700000.0,Without Club,,,in,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Manuel Neuer,25,Germany,Goalkeeper,GK,28000000.0,FC Bayern,Germany,30000000.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Junmin Hao,24,China,Central Midfield,CM,750000.0,SD Luneng,China,1100000.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Lukas Schmitz,22,Germany,Left-Back,LB,2500000.0,Werder Bremen,Germany,1000000.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Edú,29,Brazil,Centre-Forward,CF,1500000.0,Besiktas,Turkey,500000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Tore Reginiussen,25,Norway,Centre-Back,CB,1000000.0,Odense BK,Denmark,400000.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Anthony Annan,25,Ghana,Defensive Midfield,DM,2500000.0,Vitesse,Netherlands,400000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Ciprian Deac,25,Romania,Right Winger,RW,1250000.0,Rapid Bucharest,Romania,300000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Mario Gavranovic,21,Switzerland,Centre-Forward,CF,1750000.0,1.FSV Mainz 05,Germany,200000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Vasilios Pliatsikas,23,Greece,Centre-Back,CB,750000.0,MSV Duisburg,Germany,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Ali Karimi,32,Iran,Attacking Midfield,AM,500000.0,Persepolis,Iran,0.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Angelos Charisteas,31,Greece,Centre-Forward,CF,500000.0,Panetolikos,Greece,0.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Christian Pander,27,Germany,Left-Back,LB,2000000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Gerald Asamoah,32,Germany,Centre-Forward,CF,1500000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Nicolas Plestan,30,France,Centre-Back,CB,500000.0,Retired,,,out,summer,1 Bundesliga,2011,False,
+FC Schalke 04,Danilo Avelar,22,Brazil,Centre-Back,CB,600000.0,Karpaty,Ukraine,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+FC Schalke 04,Chinedu Obasi,25,Nigeria,Centre-Forward,CF,6000000.0,TSG Hoffenheim,Germany,500000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+FC Schalke 04,Timo Hildebrand,32,Germany,Goalkeeper,GK,1700000.0,Without Club,,,in,winter,1 Bundesliga,2011,False,
+FC Schalke 04,Jan Morávek,22,Czech Republic,Central Midfield,CM,3500000.0,FC Augsburg,Germany,75000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+Hamburger SV,Gökhan Töre,19,Turkey,Right Winger,RW,,Chelsea Res.,England,4300000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Ivo Ilicevic,24,Croatia,Left Winger,LW,5000000.0,1.FC K'lautern,Germany,4000000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Michael Mancienne,23,England,Centre-Back,CB,3500000.0,Chelsea,England,2500000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Slobodan Rajkovic,22,Serbia,Centre-Back,CB,2500000.0,Chelsea,England,2000000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Jeffrey Bruma,19,Netherlands,Centre-Back,CB,2000000.0,Chelsea,England,500000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+Hamburger SV,Per Ciljan Skjelbred,24,Norway,Central Midfield,CM,2300000.0,Rosenborg,Norway,500000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Jacopo Sala,19,Italy,Right-Back,RB,,Chelsea Res.,England,100000.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Sven Neuhaus,33,Germany,Goalkeeper,GK,300000.0,RB Leipzig,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hamburger SV,Eljero Elia,24,Netherlands,Left Winger,LW,12500000.0,Juventus,Italy,9000000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Jonathan Pitroipa,25,Burkina Faso,Right Winger,RW,4500000.0,Stade Rennais,France,3500000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Alex Silva,26,Brazil,Centre-Back,CB,4500000.0,Flamengo,Brazil,2000000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Joris Mathijsen,31,Netherlands,Centre-Back,CB,5000000.0,Málaga CF,Spain,1750000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Änis Ben-Hatira,23,Tunisia,Attacking Midfield,AM,2000000.0,Hertha BSC,Germany,600000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,David Rozehnal,30,Czech Republic,Centre-Back,CB,2500000.0,LOSC Lille,France,500000.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Guy Demel,30,Cote d'Ivoire,Right-Back,RB,1750000.0,West Ham,England,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Frank Rost,38,Germany,Goalkeeper,GK,1500000.0,Red Bulls,United States,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Wolfgang Hesl,25,Germany,Goalkeeper,GK,300000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Collin Benjamin,32,Namibia,Defensive Midfield,DM,750000.0,1860 Munich,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Kai-Fabian Schulz,21,Germany,Centre-Back,CB,100000.0,Carl Zeiss Jena,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Macauley Chrisantus,20,Nigeria,Centre-Forward,CF,1000000.0,FSV Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Hamburger SV,Zé Roberto,37,Brazil,Left Midfield,LM,2500000.0,Al-Gharafa SC,Qatar,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Eric Maxim Choupo-Moting,22,Cameroon,Centre-Forward,CF,2000000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Tunay Torun,21,Turkey,Right Winger,RW,1500000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Ruud van Nistelrooy,35,Netherlands,Centre-Forward,CF,6000000.0,Málaga CF,Spain,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Piotr Trochowski,27,Germany,Attacking Midfield,AM,5000000.0,Sevilla FC,Spain,0.0,out,summer,1 Bundesliga,2011,False,
+Hamburger SV,Lennard Sowah,19,Germany,Left-Back,LB,250000.0,Millwall,England,0.0,out,winter,1 Bundesliga,2011,True,free loan
+Hannover 96,Artur Sobiech,21,Poland,Centre-Forward,CF,2000000.0,Pol. Warsaw,Poland,1100000.0,in,summer,1 Bundesliga,2011,False,
+Hannover 96,Daniel Royer,21,Austria,Left Winger,LW,800000.0,SV Ried,Austria,600000.0,in,summer,1 Bundesliga,2011,False,
+Hannover 96,Henning Hauger,25,Norway,Defensive Midfield,DM,1200000.0,Stabæk Fotball,Norway,450000.0,in,summer,1 Bundesliga,2011,False,
+Hannover 96,Samuel Sahin-Radlinger,18,Austria,Goalkeeper,GK,,SV Ried,Austria,250000.0,in,summer,1 Bundesliga,2011,False,
+Hannover 96,Christian Pander,27,Germany,Left-Back,LB,2000000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hannover 96,Florian Fromlowitz,24,Germany,Goalkeeper,GK,1750000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hannover 96,Felix Burmeister,21,Germany,Centre-Back,CB,250000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hannover 96,Willi Evseev,19,Germany,Central Midfield,CM,150000.0,Wiener Neustadt,Austria,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Hannover 96,DaMarcus Beasley,29,United States,Left-Back,LB,750000.0,Puebla FC,Mexico,0.0,out,summer,1 Bundesliga,2011,False,
+Hannover 96,Tim Hofmann,23,Germany,Centre-Back,CB,100000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+Hannover 96,Mikael Forssell,30,Finland,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+Hannover 96,Constant Djakpa,24,Cote d'Ivoire,Left-Back,LB,1000000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+Hannover 96,Mame Diouf,24,Senegal,Centre-Forward,CF,4000000.0,Man Utd,England,1800000.0,in,winter,1 Bundesliga,2011,False,
+Hertha BSC,Peter Niemeyer,27,Germany,Defensive Midfield,DM,2250000.0,Werder Bremen,Germany,700000.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Änis Ben-Hatira,23,Tunisia,Attacking Midfield,AM,2000000.0,Hamburger SV,Germany,600000.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Tunay Torun,21,Turkey,Right Winger,RW,1500000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Thomas Kraft,22,Germany,Goalkeeper,GK,2500000.0,FC Bayern,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Andreas Ottl,26,Germany,Defensive Midfield,DM,2500000.0,FC Bayern,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Maik Franz,29,Germany,Centre-Back,CB,3000000.0,E. Frankfurt,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+Hertha BSC,Valeri Domovchiyski,24,Bulgaria,Centre-Forward,CF,1000000.0,MSV Duisburg,Germany,450000.0,out,summer,1 Bundesliga,2011,False,
+Hertha BSC,Rob Friend,30,Canada,Centre-Forward,CF,1000000.0,E. Frankfurt,Germany,250000.0,out,summer,1 Bundesliga,2011,False,
+Hertha BSC,Kaká,30,Brazil,Centre-Back,CB,1000000.0,APOEL Nicosia,Cyprus,250000.0,out,summer,1 Bundesliga,2011,False,
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,600000.0,MSV Duisburg,Germany,50000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+Hertha BSC,Lennart Hartmann,20,Germany,Defensive Midfield,DM,200000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hertha BSC,Marvin Knoll,20,Germany,Defensive Midfield,DM,200000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Hertha BSC,Sascha Bigalke,21,Germany,Attacking Midfield,AM,250000.0,Unterhaching,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,600000.0,SV Ried,Austria,0.0,out,summer,1 Bundesliga,2011,True,free loan
+Hertha BSC,Peter Niemeyer,27,Germany,Defensive Midfield,DM,2250000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+Hertha BSC,Felix Bastians,23,Germany,Centre-Back,CB,2500000.0,SC Freiburg,Germany,100000.0,in,winter,1 Bundesliga,2011,False,
+SC Freiburg,Garra Dembélé,25,Mali,Centre-Forward,CF,1700000.0,Levski Sofia,Bulgaria,2200000.0,in,summer,1 Bundesliga,2011,False,
+SC Freiburg,Beg Ferati,24,Switzerland,Centre-Back,CB,800000.0,FC Basel,Switzerland,0.0,in,summer,1 Bundesliga,2011,False,
+SC Freiburg,Daniel Batz,20,Germany,Goalkeeper,GK,100000.0,1.FC Nuremberg,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+SC Freiburg,Andreas Hinkel,29,Germany,Right-Back,RB,1500000.0,Without Club,,,in,summer,1 Bundesliga,2011,False,
+SC Freiburg,Ömer Toprak,21,Turkey,Centre-Back,CB,4000000.0,Bay. Leverkusen,Germany,3000000.0,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Danny Williams,22,United States,Defensive Midfield,DM,500000.0,TSG Hoffenheim,Germany,200000.0,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Tommy Bechmann,29,Denmark,Centre-Forward,CF,500000.0,SönderjyskE,Denmark,0.0,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Nicolas Höfler,21,Germany,Defensive Midfield,DM,150000.0,Erzgebirge Aue,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+SC Freiburg,Ivica Banovic,31,Croatia,Defensive Midfield,DM,700000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Jonathan Jäger,33,France,Left Winger,LW,500000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Simon Pouplin,26,France,Goalkeeper,GK,3000000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+SC Freiburg,Zvonko Pamic,20,Croatia,Central Midfield,CM,750000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+SC Freiburg,Fallou Diagne,22,Senegal,Centre-Back,CB,500000.0,FC Metz,France,500000.0,in,winter,1 Bundesliga,2011,False,
+SC Freiburg,Karim Guédé,27,Slovakia,Centre-Forward,CF,600000.0,Slo. Bratislava,Slovakia,300000.0,in,winter,1 Bundesliga,2011,False,
+SC Freiburg,Ivan Santini,22,Croatia,Centre-Forward,CF,1000000.0,NK Zadar,Croatia,300000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+SC Freiburg,Michael Lumb,24,Denmark,Left-Back,LB,750000.0,Zenit S-Pb,Russia,200000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+SC Freiburg,Sebastian Freis,26,Germany,Centre-Forward,CF,750000.0,1. FC Köln,Germany,0.0,in,winter,1 Bundesliga,2011,False,
+SC Freiburg,Andreas Hinkel,29,Germany,Right-Back,RB,1500000.0,Without Club,,,in,winter,1 Bundesliga,2011,False,
+SC Freiburg,Papiss Demba Cissé,26,Senegal,Centre-Forward,CF,13500000.0,Newcastle,England,12000000.0,out,winter,1 Bundesliga,2011,False,
+SC Freiburg,Felix Bastians,23,Germany,Centre-Back,CB,2500000.0,Hertha BSC,Germany,100000.0,out,winter,1 Bundesliga,2011,False,
+SC Freiburg,Heiko Butscher,31,Germany,Centre-Back,CB,2000000.0,E. Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+SC Freiburg,Maximilian Nicu,29,Romania,Centre-Back,CB,1000000.0,1860 Munich,Germany,0.0,out,winter,1 Bundesliga,2011,False,
+SC Freiburg,Christian Bickel,21,Germany,Attacking Midfield,AM,150000.0,Jahn Regensburg,Germany,0.0,out,winter,1 Bundesliga,2011,True,free loan
+SC Freiburg,Kisho Yano,27,Japan,Centre-Forward,CF,500000.0,Albirex Niigata,Japan,0.0,out,winter,1 Bundesliga,2011,False,
+SC Freiburg,Yacine Abdessadki,30,Morocco,Right Winger,RW,1500000.0,Career break,,,out,winter,1 Bundesliga,2011,False,
+SV Werder Bremen,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,6500000.0,FC Bayern,Germany,5000000.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Lukas Schmitz,22,Germany,Left-Back,LB,2500000.0,FC Schalke 04,Germany,1000000.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Sokratis Papastathopoulos,23,Greece,Centre-Back,CB,5000000.0,Genoa,Italy,600000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+SV Werder Bremen,Aleksandar Ignjovski,20,Serbia,Defensive Midfield,DM,2250000.0,OFK Beograd,Serbia,500000.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Tom Trybull,18,Germany,Defensive Midfield,DM,500000.0,Hansa Rostock,Germany,200000.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Florian Hartherz,18,Germany,Left-Back,LB,100000.0,Wolfsburg II,Germany,200000.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Andreas Wolf,29,Germany,Centre-Back,CB,2500000.0,1.FC Nuremberg,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Aleksandar Stevanovic,19,Germany,Central Midfield,CM,,Schalke 04 U19,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Per Mertesacker,26,Germany,Centre-Back,CB,12500000.0,Arsenal,England,11300000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Peter Niemeyer,27,Germany,Defensive Midfield,DM,2250000.0,Hertha BSC,Germany,700000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,John Jairo Mosquera,23,Colombia,Centre-Forward,CF,750000.0,Union Berlin,Germany,150000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Kevin Schindler,23,Germany,Defensive Midfield,DM,350000.0,FC St. Pauli,Germany,150000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Felix Wiedwald,21,Germany,Goalkeeper,GK,350000.0,MSV Duisburg,Germany,100000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Pascal Testroet,20,Germany,Centre-Forward,CF,350000.0,K. Offenbach,Germany,50000.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Petri Pasanen,30,Finland,Centre-Back,CB,2000000.0,RB Salzburg,Austria,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Samuel Jesus,25,Brazil,Centre-Back,CB,200000.0,RSC Anderlecht,Belgium,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Torsten Frings,34,Germany,Defensive Midfield,DM,2500000.0,Toronto FC,United States,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Timo Perthel,22,Germany,Left-Back,LB,400000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Dominik Schmidt,24,Germany,Centre-Back,CB,800000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Márkó Futács,21,Hungary,Centre-Forward,CF,200000.0,Portsmouth,England,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Jurica Vranjes,31,Croatia,Defensive Midfield,DM,500000.0,Aris Saloniki,Greece,0.0,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Daniel Jensen,32,Denmark,Central Midfield,CM,1500000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Niklas Andersen,22,Germany,Centre-Back,CB,175000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Said Husejinovic,23,Bosnia-Herzegovina,Attacking Midfield,AM,500000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+SV Werder Bremen,Zlatko Junuzovic,24,Austria,Central Midfield,CM,2500000.0,Austria Vienna,Austria,800000.0,in,winter,1 Bundesliga,2011,False,
+SV Werder Bremen,François Affolter,20,Switzerland,Centre-Back,CB,1500000.0,BSC Young Boys,Switzerland,500000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+SV Werder Bremen,Wesley,24,Brazil,Central Midfield,CM,4500000.0,Palmeiras,Brazil,6000000.0,out,winter,1 Bundesliga,2011,False,
+SV Werder Bremen,Andreas Wolf,29,Germany,Centre-Back,CB,2500000.0,Monaco,France,1500000.0,out,winter,1 Bundesliga,2011,False,
+SV Werder Bremen,Sandro Wagner,24,Germany,Centre-Forward,CF,1000000.0,1.FC K'lautern,Germany,300000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Knowledge Musona,21,Zimbabwe,Left Winger,LW,800000.0,Kaizer Chiefs,South Africa,1500000.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Koen Casteels,19,Belgium,Goalkeeper,GK,800000.0,KRC Genk,Belgium,1200000.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Fabian Johnson,23,United States,Left Winger,LW,1250000.0,VfL Wolfsburg,Germany,700000.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Michael Gregoritsch,17,Austria,Second Striker,SS,250000.0,SV Kapfenberg,Austria,200000.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Danny Williams,22,United States,Defensive Midfield,DM,500000.0,SC Freiburg,Germany,200000.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Sven Schipplock,22,Germany,Centre-Forward,CF,750000.0,Stuttgart II,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Prince Tagoe,24,Ghana,Centre-Forward,CF,1500000.0,Bursaspor,Turkey,1500000.0,out,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Franco Zuculini,20,Argentina,Central Midfield,CM,3000000.0,Real Zaragoza,Spain,400000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Jukka Raitala,22,Finland,Left-Back,LB,750000.0,CA Osasuna,Spain,100000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Ramazan Özcan,27,Austria,Goalkeeper,GK,250000.0,FC Ingolstadt,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Michael Gregoritsch,17,Austria,Second Striker,SS,250000.0,SV Kapfenberg,Austria,0.0,out,summer,1 Bundesliga,2011,True,free loan
+TSG 1899 Hoffenheim,Jens Grahl,22,Germany,Goalkeeper,GK,100000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,400000.0,Goiás EC,Brazil,0.0,out,summer,1 Bundesliga,2011,True,free loan
+TSG 1899 Hoffenheim,Josip Simunic,33,Croatia,Centre-Back,CB,2500000.0,Dinamo Zagreb,Croatia,0.0,out,summer,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,David Alaba,19,Austria,Centre-Back,CB,5000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+TSG 1899 Hoffenheim,Sandro Wieser,18,Liechtenstein,Defensive Midfield,DM,200000.0,FC Basel,Switzerland,1000000.0,in,winter,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Srdjan Lakic,28,Croatia,Centre-Forward,CF,4500000.0,VfL Wolfsburg,Germany,1000000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Stefan Thesker,20,Germany,Centre-Back,CB,100000.0,FC Twente U21,Netherlands,100000.0,in,winter,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Vedad Ibisevic,27,Bosnia-Herzegovina,Centre-Forward,CF,6000000.0,VfB Stuttgart,Germany,4500000.0,out,winter,1 Bundesliga,2011,False,
+TSG 1899 Hoffenheim,Chinedu Obasi,25,Nigeria,Centre-Forward,CF,6000000.0,FC Schalke 04,Germany,500000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Gylfi Sigurdsson,22,Iceland,Attacking Midfield,AM,7500000.0,Swansea,England,500000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,,Linense-SP,Brazil,0.0,out,winter,1 Bundesliga,2011,True,free loan
+VfB Stuttgart,William Kvist,26,Denmark,Defensive Midfield,DM,4000000.0,FC Copenhagen,Denmark,3500000.0,in,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Francisco Rodríguez,29,Mexico,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,1800000.0,in,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,2500000.0,Bor. Dortmund,Germany,1000000.0,in,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Ibrahima Traoré,23,Guinea,Right Winger,RW,2000000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Christian Träsch,23,Germany,Defensive Midfield,DM,10000000.0,VfL Wolfsburg,Germany,9000000.0,out,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,600000.0,Bay. Leverkusen,Germany,500000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfB Stuttgart,Daniel Didavi,21,Germany,Attacking Midfield,AM,1000000.0,1.FC Nuremberg,Germany,300000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfB Stuttgart,Patrick Funk,21,Germany,Defensive Midfield,DM,750000.0,FC St. Pauli,Germany,200000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfB Stuttgart,Ciprian Marica,25,Romania,Centre-Forward,CF,3500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Élson,29,Brazil,Attacking Midfield,AM,750000.0,Rostov,Russia,0.0,out,summer,1 Bundesliga,2011,False,
+VfB Stuttgart,Philipp Degen,28,Switzerland,Right-Back,RB,750000.0,Liverpool,England,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+VfB Stuttgart,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,2500000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+VfB Stuttgart,Vedad Ibisevic,27,Bosnia-Herzegovina,Centre-Forward,CF,6000000.0,TSG Hoffenheim,Germany,4500000.0,in,winter,1 Bundesliga,2011,False,
+VfB Stuttgart,Gotoku Sakai,20,Japan,Left-Back,LB,1000000.0,Albirex Niigata,Japan,300000.0,in,winter,1 Bundesliga,2011,True,loan with fee
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,5000000.0,Bay. Leverkusen,Germany,7500000.0,out,winter,1 Bundesliga,2011,False,
+VfB Stuttgart,Pavel Pogrebnyak,28,Russia,Centre-Forward,CF,3500000.0,Fulham,England,500000.0,out,winter,1 Bundesliga,2011,False,
+VfB Stuttgart,Ermin Bicakcic,21,Bosnia-Herzegovina,Centre-Back,CB,250000.0,E. Braunschweig,Germany,100000.0,out,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Christian Träsch,23,Germany,Defensive Midfield,DM,10000000.0,VfB Stuttgart,Germany,9000000.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Rasmus Jönsson,21,Sweden,Centre-Forward,CF,3000000.0,Helsingborg,Sweden,3400000.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Patrick Ochs,27,Germany,Right-Back,RB,5000000.0,E. Frankfurt,Germany,3000000.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Marco Russ,25,Germany,Centre-Back,CB,2750000.0,E. Frankfurt,Germany,3000000.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Mateusz Klich,21,Poland,Central Midfield,CM,1500000.0,Cracovia,Poland,1500000.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,3500000.0,FC Barcelona,Spain,700000.0,in,summer,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Srdjan Lakic,27,Croatia,Centre-Forward,CF,6000000.0,1.FC K'lautern,Germany,0.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Hasan Salihamidzic,34,Bosnia-Herzegovina,Right Midfield,RM,400000.0,Juventus,Italy,0.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Thomas Hitzlsperger,29,Germany,Central Midfield,CM,5000000.0,West Ham,England,0.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Hrvoje Cale,26,Croatia,Left-Back,LB,2700000.0,Trabzonspor,Turkey,0.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Sotiris Kyrgiakos,32,Greece,Centre-Back,CB,1500000.0,Liverpool,England,0.0,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Chris,33,Brazil,Centre-Back,CB,1500000.0,Without Club,,,in,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Grafite,32,Brazil,Centre-Forward,CF,4000000.0,Al-Ahli (UAE),United Arab Emirates,3000000.0,out,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Simon Kjaer,22,Denmark,Centre-Back,CB,10000000.0,AS Roma,Italy,3000000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Sascha Riether,28,Germany,Right-Back,RB,4500000.0,1. FC Köln,Germany,2800000.0,out,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Tuncay Sanli,29,Turkey,Left Winger,LW,4000000.0,Bolton,England,1000000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Fabian Johnson,23,United States,Left Winger,LW,1250000.0,TSG Hoffenheim,Germany,700000.0,out,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Peter Pekarik,24,Slovakia,Right-Back,RB,2500000.0,Kayserispor,Turkey,150000.0,out,summer,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Nassim Ben Khalifa,19,Switzerland,Second Striker,SS,1250000.0,BSC Young Boys,Switzerland,0.0,out,summer,1 Bundesliga,2011,True,free loan
+VfL Wolfsburg,Karim Ziani,28,Algeria,Attacking Midfield,AM,3000000.0,El-Jaish,Qatar,0.0,out,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Akaki Gogia,19,Germany,Right Winger,RW,125000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2011,True,free loan
+VfL Wolfsburg,Diego,26,Brazil,Attacking Midfield,AM,12000000.0,Atlético Madrid,Spain,0.0,out,summer,1 Bundesliga,2011,True,free loan
+VfL Wolfsburg,Arne Friedrich,32,Germany,Centre-Back,CB,4000000.0,Without Club,,,out,summer,1 Bundesliga,2011,False,
+VfL Wolfsburg,Cícero,26,Brazil,Central Midfield,CM,2000000.0,Tombense,Brazil,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+VfL Wolfsburg,Dieumerci Mbokani,25,DR Congo,Centre-Forward,CF,4000000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2011,True,end of loan
+VfL Wolfsburg,Ricardo Rodríguez,19,Switzerland,Left-Back,LB,7500000.0,FC Zürich,Switzerland,8500000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Giovanni Sio,22,Cote d'Ivoire,Centre-Forward,CF,4500000.0,FC Sion,Switzerland,5800000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Vieirinha,25,Portugal,Right-Back,RB,8000000.0,PAOK Salonika,Greece,4000000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Petr Jiracek,25,Czech Republic,Central Midfield,CM,3000000.0,Viktoria Plzen,Czech Republic,3500000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Felipe Lopes,24,Brazil,Centre-Back,CB,3100000.0,Nacional,Portugal,2500000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Slobodan Medojevic,21,Serbia,Defensive Midfield,DM,2000000.0,Vojvodina,Serbia,2000000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Ibrahim Sissoko,20,Cote d'Ivoire,Attacking Midfield,AM,400000.0,Coimbra,Portugal,1500000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Ferhan Hasani,21,North Macedonia,Attacking Midfield,AM,650000.0,Shkendija,North Macedonia,400000.0,in,winter,1 Bundesliga,2011,False,
+VfL Wolfsburg,Srdjan Lakic,28,Croatia,Centre-Forward,CF,4500000.0,TSG Hoffenheim,Germany,1000000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Tolga Cigerci,19,Turkey,Central Midfield,CM,600000.0,Bor. M'gladbach,Germany,350000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Ja-cheol Koo,22,"Korea, South",Central Midfield,CM,2500000.0,FC Augsburg,Germany,125000.0,out,winter,1 Bundesliga,2011,True,loan with fee
+VfL Wolfsburg,Thomas Kahlenberg,28,Denmark,Central Midfield,CM,2000000.0,Évian,France,0.0,out,winter,1 Bundesliga,2011,True,free loan
+VfL Wolfsburg,Sotiris Kyrgiakos,32,Greece,Centre-Back,CB,750000.0,Sunderland,England,0.0,out,winter,1 Bundesliga,2011,True,free loan

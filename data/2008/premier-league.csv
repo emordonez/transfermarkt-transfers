@@ -1,0 +1,651 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Arsenal FC,Samir Nasri,21,France,Attacking Midfield,AM,15000000.0,Marseille,France,16000000.0,in,summer,Premier League,2008,False,
+Arsenal FC,Aaron Ramsey,17,Wales,Central Midfield,CM,5000000.0,Cardiff,England,6400000.0,in,summer,Premier League,2008,False,
+Arsenal FC,Mikaël Silvestre,31,France,Centre-Back,CB,3500000.0,Man Utd,England,950000.0,in,summer,Premier League,2008,False,
+Arsenal FC,Amaury Bischoff,21,Portugal,Central Midfield,CM,300000.0,W. Bremen II,Germany,300000.0,in,summer,Premier League,2008,False,
+Arsenal FC,Aleksandr Hleb,27,Belarus,Attacking Midfield,AM,18000000.0,FC Barcelona,Spain,17000000.0,out,summer,Premier League,2008,False,
+Arsenal FC,Justin Hoyte,23,Trinidad and Tobago,Right-Back,RB,1500000.0,Middlesbrough,England,3800000.0,out,summer,Premier League,2008,False,
+Arsenal FC,Gilberto Silva,31,Brazil,Defensive Midfield,DM,6500000.0,Panathinaikos,Greece,2500000.0,out,summer,Premier League,2008,False,
+Arsenal FC,Philippe Senderos,23,Switzerland,Centre-Back,CB,6500000.0,AC Milan,Italy,2500000.0,out,summer,Premier League,2008,True,loan with fee
+Arsenal FC,Jens Lehmann,38,Germany,Goalkeeper,GK,3000000.0,VfB Stuttgart,Germany,0.0,out,summer,Premier League,2008,False,
+Arsenal FC,Mathieu Flamini,24,France,Defensive Midfield,DM,11000000.0,AC Milan,Italy,0.0,out,summer,Premier League,2008,False,
+Arsenal FC,Kerrea Gilbert,21,England,Right-Back,RB,450000.0,Leicester,England,0.0,out,summer,Premier League,2008,True,free loan
+Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,,Derby,England,0.0,out,summer,Premier League,2008,True,free loan
+Arsenal FC,Armand Traoré,18,Senegal,Left-Back,LB,1000000.0,Portsmouth,England,0.0,out,summer,Premier League,2008,True,free loan
+Arsenal FC,Andrey Arshavin,27,Russia,Second Striker,SS,24000000.0,Zenit S-Pb,Russia,16500000.0,in,winter,Premier League,2008,False,
+Arsenal FC,Gavin Hoyte,18,Trinidad and Tobago,Right-Back,RB,50000.0,Watford,England,0.0,out,winter,Premier League,2008,True,free loan
+Arsenal FC,Rene Steer,18,England,Left-Back,LB,,Gillingham FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Arsenal FC,Henri Lansbury,18,England,Central Midfield,CM,50000.0,Scunthorpe Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,James Milner,22,England,Central Midfield,CM,8750000.0,Newcastle,England,15000000.0,in,summer,Premier League,2008,False,
+Aston Villa,Curtis Davies,23,England,Centre-Back,CB,3500000.0,West Brom,England,10000000.0,in,summer,Premier League,2008,False,
+Aston Villa,Carlos Cuéllar,26,Spain,Centre-Back,CB,6000000.0,Rangers,Scotland,10000000.0,in,summer,Premier League,2008,False,
+Aston Villa,Steve Sidwell,25,England,Central Midfield,CM,4000000.0,Chelsea,England,6300000.0,in,summer,Premier League,2008,False,
+Aston Villa,Nicky Shorey,27,England,Left-Back,LB,6000000.0,Reading,England,4400000.0,in,summer,Premier League,2008,False,
+Aston Villa,Luke Young,29,England,Right-Back,RB,5000000.0,Middlesbrough,England,3000000.0,in,summer,Premier League,2008,False,
+Aston Villa,Brad Friedel,37,United States,Goalkeeper,GK,3500000.0,Blackburn,England,2500000.0,in,summer,Premier League,2008,False,
+Aston Villa,Brad Guzan,23,United States,Goalkeeper,GK,500000.0,Chivas USA,United States,1000000.0,in,summer,Premier League,2008,False,
+Aston Villa,Luke Moore,22,England,Centre-Forward,CF,3750000.0,West Brom,England,3750000.0,out,summer,Premier League,2008,False,
+Aston Villa,Shaun Maloney,25,Scotland,Attacking Midfield,AM,4000000.0,Celtic,Scotland,3100000.0,out,summer,Premier League,2008,False,
+Aston Villa,Olof Mellberg,30,Sweden,Centre-Back,CB,7500000.0,Juventus,Italy,0.0,out,summer,Premier League,2008,False,
+Aston Villa,Patrik Berger,34,Czech Republic,Attacking Midfield,AM,900000.0,Sparta Prague,Czech Republic,0.0,out,summer,Premier League,2008,False,
+Aston Villa,Thomas Sörensen,32,Denmark,Goalkeeper,GK,1800000.0,Stoke City,England,0.0,out,summer,Premier League,2008,False,
+Aston Villa,Scott Carson,22,England,Goalkeeper,GK,5250000.0,Liverpool,England,0.0,out,summer,Premier League,2008,True,end of loan
+Aston Villa,Emile Heskey,31,England,Centre-Forward,CF,5000000.0,Wigan,England,3700000.0,in,winter,Premier League,2008,False,
+Aston Villa,Wayne Routledge,23,England,Left Winger,LW,1200000.0,QPR,England,670000.0,out,winter,Premier League,2008,False,
+Aston Villa,Sam Williams,21,England,Centre-Forward,CF,,Walsall,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Isaiah Osbourne,21,England,Central Midfield,CM,500000.0,Nottm Forest,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Sam Williams,21,England,Centre-Forward,CF,,Brentford,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Stuart Taylor,28,England,Goalkeeper,GK,700000.0,Cardiff,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Barry Bannan,19,Scotland,Central Midfield,CM,50000.0,Derby,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Marlon Harewood,29,England,Centre-Forward,CF,2200000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Sam Williams,21,England,Centre-Forward,CF,,Colchester Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Stephen O'Halloran,20,Ireland,Left-Back,LB,200000.0,Swansea,England,0.0,out,winter,Premier League,2008,True,free loan
+Aston Villa,Wayne Routledge,23,England,Left Winger,LW,1200000.0,Cardiff,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Paul Robinson,28,England,Goalkeeper,GK,5000000.0,Spurs,England,4400000.0,in,summer,Premier League,2008,False,
+Blackburn Rovers,Vince Grella,28,Australia,Central Midfield,CM,2500000.0,Torino,Italy,4000000.0,in,summer,Premier League,2008,False,
+Blackburn Rovers,Keith Andrews,27,Ireland,Central Midfield,CM,100000.0,MK Dons,England,930000.0,in,summer,Premier League,2008,False,
+Blackburn Rovers,Mark Bunn,23,England,Goalkeeper,GK,,Northampton,England,150000.0,in,summer,Premier League,2008,False,
+Blackburn Rovers,Danny Simpson,21,England,Right-Back,RB,900000.0,Man Utd,England,0.0,in,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Carlos Villanueva,22,Chile,Attacking Midfield,AM,2000000.0,Audax Italiano,Chile,0.0,in,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Robbie Fowler,33,England,Centre-Forward,CF,1800000.0,Without Club,,,in,summer,Premier League,2008,False,
+Blackburn Rovers,David Bentley,23,England,Right Midfield,RM,12000000.0,Spurs,England,22000000.0,out,summer,Premier League,2008,False,
+Blackburn Rovers,Brad Friedel,37,United States,Goalkeeper,GK,3500000.0,Aston Villa,England,2500000.0,out,summer,Premier League,2008,False,
+Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,100000.0,Preston,England,900000.0,out,summer,Premier League,2008,False,
+Blackburn Rovers,Bruno Berner,30,Switzerland,Left-Back,LB,500000.0,Leicester,England,0.0,out,summer,Premier League,2008,False,
+Blackburn Rovers,Rafa De Vita,20,Italy,Left Winger,LW,50000.0,Livingston FC,Scotland,0.0,out,summer,Premier League,2008,False,
+Blackburn Rovers,Jamie Clarke,19,England,Centre-Forward,CF,50000.0,Accrington,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Maceo Rigters,24,Netherlands,Centre-Forward,CF,600000.0,Barnsley FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Gunnar Nielsen,21,Faroe Islands,Goalkeeper,GK,200000.0,Motherwell FC,Scotland,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Paul Gallagher,24,Scotland,Central Midfield,CM,1000000.0,Plymouth,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,300000.0,Northampton,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Rostyn Griffiths,20,Australia,Centre-Back,CB,300000.0,Accrington,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,200000.0,Stockport,England,0.0,out,summer,Premier League,2008,True,free loan
+Blackburn Rovers,Johann Vogel,32,Switzerland,Defensive Midfield,DM,1700000.0,Without Club,,,out,summer,Premier League,2008,False,
+Blackburn Rovers,Stéphane Henchoz,33,Switzerland,Centre-Back,CB,800000.0,Retired,,,out,summer,Premier League,2008,False,
+Blackburn Rovers,El-Hadji Diouf,28,Senegal,Centre-Forward,CF,4500000.0,Sunderland,England,2200000.0,in,winter,Premier League,2008,False,
+Blackburn Rovers,Nick Blackman,19,Barbados,Centre-Forward,CF,,Macclesfield,England,,in,winter,Premier League,2008,False,
+Blackburn Rovers,Gaël Givet,27,France,Centre-Back,CB,2700000.0,Marseille,France,0.0,in,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,100000.0,Preston,England,900000.0,out,winter,Premier League,2008,False,
+Blackburn Rovers,Sergio Peter,22,Germany,Left Midfield,LM,400000.0,Sparta Prague,Czech Republic,600000.0,out,winter,Premier League,2008,False,
+Blackburn Rovers,Matt Derbyshire,22,England,Centre-Forward,CF,3500000.0,Olympiacos,Greece,500000.0,out,winter,Premier League,2008,True,loan with fee
+Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,300000.0,Rochdale,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Alan Judge,20,Ireland,Left Midfield,LM,50000.0,Plymouth,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Jamie Clarke,20,England,Centre-Forward,CF,50000.0,Rotherham,England,0.0,out,winter,Premier League,2008,False,
+Blackburn Rovers,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,250000.0,Man City,England,0.0,out,winter,Premier League,2008,False,
+Blackburn Rovers,Rostyn Griffiths,20,Australia,Centre-Back,CB,300000.0,Adelaide United,Australia,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,200000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,False,
+Blackburn Rovers,Mark Bunn,24,England,Goalkeeper,GK,100000.0,Leicester,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Nick Blackman,19,Barbados,Centre-Forward,CF,150000.0,Blackpool,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,200000.0,Stockport,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Jon Bateson,19,England,Right-Back,RB,,Buxton FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Blackburn Rovers,Robbie Fowler,33,England,Centre-Forward,CF,1800000.0,Without Club,,,out,winter,Premier League,2008,False,
+Bolton Wanderers,Johan Elmander,27,Sweden,Centre-Forward,CF,10000000.0,Toulouse,France,12600000.0,in,summer,Premier League,2008,False,
+Bolton Wanderers,Fabrice Muamba,20,England,Central Midfield,CM,4500000.0,Birmingham,England,6400000.0,in,summer,Premier League,2008,False,
+Bolton Wanderers,Danny Shittu,27,Nigeria,Centre-Back,CB,2500000.0,Watford,England,2400000.0,in,summer,Premier League,2008,False,
+Bolton Wanderers,Riga Mustapha,26,Netherlands,Right Winger,RW,3400000.0,Levante,Spain,400000.0,in,summer,Premier League,2008,False,
+Bolton Wanderers,Ebi Smolarek,27,Poland,Centre-Forward,CF,4000000.0,Racing,Spain,0.0,in,summer,Premier League,2008,True,free loan
+Bolton Wanderers,El-Hadji Diouf,27,Senegal,Centre-Forward,CF,4500000.0,Sunderland,England,3200000.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Abdoulaye Méïté,27,Cote d'Ivoire,Centre-Back,CB,3500000.0,West Brom,England,2600000.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Iván Campo,34,Spain,Defensive Midfield,DM,2250000.0,Ipswich,England,0.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Stelios Giannakopoulos,33,Greece,Right Winger,RW,2500000.0,Hull City,England,0.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Gary Speed,38,Wales,Left Midfield,LM,650000.0,Sheff Utd,England,0.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Andranik Teymourian,25,Iran,Defensive Midfield,DM,500000.0,Fulham,England,0.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Daniel Braaten,26,Norway,Right Winger,RW,1000000.0,Toulouse,France,0.0,out,summer,Premier League,2008,False,
+Bolton Wanderers,Blerim Dzemaili,22,Switzerland,Central Midfield,CM,1000000.0,Torino,Italy,0.0,out,summer,Premier League,2008,True,free loan
+Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,200000.0,Stockport,England,0.0,out,summer,Premier League,2008,True,free loan
+Bolton Wanderers,Michael Burns,19,England,Central Midfield,CM,,Without Club,,,out,summer,Premier League,2008,False,
+Bolton Wanderers,Mikel Alonso,28,Spain,Central Midfield,CM,2500000.0,Real Sociedad,Spain,0.0,out,summer,Premier League,2008,True,end of loan
+Bolton Wanderers,Ariza Makukula,27,Portugal,Centre-Forward,CF,4000000.0,Benfica,Portugal,800000.0,in,winter,Premier League,2008,True,loan with fee
+Bolton Wanderers,Mark Davies,20,England,Central Midfield,CM,300000.0,Wolves,England,600000.0,in,winter,Premier League,2008,False,
+Bolton Wanderers,Sébastien Puygrenier,26,France,Centre-Back,CB,7200000.0,Zenit S-Pb,Russia,500000.0,in,winter,Premier League,2008,True,loan with fee
+Bolton Wanderers,Kevin Nolan,26,England,Attacking Midfield,AM,6500000.0,Newcastle,England,4500000.0,out,winter,Premier League,2008,False,
+Bolton Wanderers,Heidar Helguson,31,Iceland,Centre-Forward,CF,1000000.0,QPR,England,450000.0,out,winter,Premier League,2008,False,
+Bolton Wanderers,Jaroslaw Fojut,21,Poland,Centre-Back,CB,200000.0,Slask Wroclaw,Poland,125000.0,out,winter,Premier League,2008,False,
+Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,200000.0,Stockport,England,0.0,out,winter,Premier League,2008,True,free loan
+Bolton Wanderers,Nicky Hunt,25,England,Centre-Back,CB,1800000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+Bolton Wanderers,Ian Walker,37,England,Goalkeeper,GK,300000.0,Retired,,,out,winter,Premier League,2008,False,
+Chelsea FC,Bosingwa,25,Portugal,Right-Back,RB,17000000.0,FC Porto,Portugal,20500000.0,in,summer,Premier League,2008,False,
+Chelsea FC,Deco,30,Portugal,Attacking Midfield,AM,18000000.0,FC Barcelona,Spain,10000000.0,in,summer,Premier League,2008,False,
+Chelsea FC,Fábio Paim,20,Portugal,Right Midfield,RM,400000.0,Sporting CP,Portugal,0.0,in,summer,Premier League,2008,True,free loan
+Chelsea FC,Mineiro,33,Brazil,Defensive Midfield,DM,3000000.0,Without Club,,,in,summer,Premier League,2008,False,
+Chelsea FC,Shaun Wright-Phillips,26,England,Right Winger,RW,13000000.0,Man City,England,11250000.0,out,summer,Premier League,2008,False,
+Chelsea FC,Tal Ben Haim,26,Israel,Centre-Back,CB,4000000.0,Man City,England,6400000.0,out,summer,Premier League,2008,False,
+Chelsea FC,Steve Sidwell,25,England,Central Midfield,CM,4000000.0,Aston Villa,England,6300000.0,out,summer,Premier League,2008,False,
+Chelsea FC,Khalid Boulahrouz,26,Netherlands,Centre-Back,CB,5000000.0,VfB Stuttgart,Germany,5000000.0,out,summer,Premier League,2008,False,
+Chelsea FC,Claudio Pizarro,29,Peru,Centre-Forward,CF,6000000.0,Werder Bremen,Germany,2000000.0,out,summer,Premier League,2008,True,loan with fee
+Chelsea FC,Alcides,23,Brazil,Centre-Back,CB,3000000.0,Dnipro,Ukraine,600000.0,out,summer,Premier League,2008,False,
+Chelsea FC,Ben Sahar,18,Israel,Centre-Forward,CF,400000.0,Portsmouth,England,0.0,out,summer,Premier League,2008,True,free loan
+Chelsea FC,Slobodan Rajkovic,19,Serbia,Centre-Back,CB,1300000.0,Twente FC,Netherlands,0.0,out,summer,Premier League,2008,True,free loan
+Chelsea FC,Claude Makélélé,35,France,Defensive Midfield,DM,6000000.0,Paris SG,France,0.0,out,summer,Premier League,2008,False,
+Chelsea FC,Hernán Crespo,32,Argentina,Centre-Forward,CF,11000000.0,Inter,Italy,0.0,out,summer,Premier League,2008,False,
+Chelsea FC,Lee Sawyer,18,England,Central Midfield,CM,,Southend United,England,0.0,out,summer,Premier League,2008,True,free loan
+Chelsea FC,Andriy Shevchenko,31,Ukraine,Centre-Forward,CF,16000000.0,AC Milan,Italy,0.0,out,summer,Premier League,2008,True,free loan
+Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,600000.0,Wolves,England,0.0,out,summer,Premier League,2008,True,free loan
+Chelsea FC,Adrian Pettigrew,21,England,Centre-Back,CB,50000.0,Without Club,,,out,summer,Premier League,2008,False,
+Chelsea FC,Ricardo Quaresma,25,Portugal,Right Winger,RW,25000000.0,Inter,Italy,0.0,in,winter,Premier League,2008,True,free loan
+Chelsea FC,Wayne Bridge,28,England,Left-Back,LB,6000000.0,Man City,England,13000000.0,out,winter,Premier League,2008,False,
+Chelsea FC,Ben Sahar,19,Israel,Centre-Forward,CF,600000.0,De Graafschap,Netherlands,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Scott Sinclair,19,England,Left Winger,LW,800000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Carlo Cudicini,35,Italy,Goalkeeper,GK,1500000.0,Spurs,England,0.0,out,winter,Premier League,2008,False,
+Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,,Coventry,England,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,,Wycombe,England,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,,Northampton,England,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,600000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,,MK Dons,England,0.0,out,winter,Premier League,2008,True,free loan
+Everton FC,Marouane Fellaini,20,Belgium,Central Midfield,CM,7000000.0,Standard Liège,Belgium,21760000.0,in,summer,Premier League,2008,False,
+Everton FC,Steven Pienaar,26,South Africa,Left Winger,LW,4500000.0,Bor. Dortmund,Germany,2750000.0,in,summer,Premier League,2008,False,
+Everton FC,Segundo Castillo,26,Ecuador,Defensive Midfield,DM,2750000.0,Red Star,Serbia,500000.0,in,summer,Premier League,2008,True,loan with fee
+Everton FC,Lars Jacobsen,28,Denmark,Right-Back,RB,1500000.0,1.FC Nuremberg,Germany,0.0,in,summer,Premier League,2008,False,
+Everton FC,Louis Saha,30,France,Centre-Forward,CF,7500000.0,Man Utd,England,0.0,in,summer,Premier League,2008,False,
+Everton FC,Carlo Nash,34,England,Goalkeeper,GK,300000.0,Wigan,England,,in,summer,Premier League,2008,False,
+Everton FC,Andy Johnson,27,England,Centre-Forward,CF,10000000.0,Fulham,England,13300000.0,out,summer,Premier League,2008,False,
+Everton FC,Stefan Wessels,29,Germany,Goalkeeper,GK,1000000.0,VfL Osnabrück,Germany,0.0,out,summer,Premier League,2008,False,
+Everton FC,Lee Carsley,34,Ireland,Defensive Midfield,DM,3500000.0,Birmingham,England,0.0,out,summer,Premier League,2008,False,
+Everton FC,Paddy Boyle,21,Scotland,Left-Back,LB,200000.0,Without Club,,,out,summer,Premier League,2008,False,
+Everton FC,Steven Pienaar,26,South Africa,Left Winger,LW,4500000.0,Bor. Dortmund,Germany,0.0,out,summer,Premier League,2008,True,end of loan
+Everton FC,Manuel Fernandes,22,Portugal,Attacking Midfield,AM,8000000.0,Valencia,Spain,0.0,out,summer,Premier League,2008,True,end of loan
+Everton FC,Seamus Coleman,20,Ireland,Right-Back,RB,125000.0,Sligo Rovers,Ireland,70000.0,in,winter,Premier League,2008,False,
+Everton FC,Jô,21,Brazil,Centre-Forward,CF,16000000.0,Man City,England,0.0,in,winter,Premier League,2008,True,free loan
+Everton FC,John Paul Kissock,19,England,Left Midfield,LM,75000.0,Accrington,England,0.0,out,winter,Premier League,2008,True,free loan
+Everton FC,John Ruddy,22,England,Goalkeeper,GK,500000.0,Crewe Alexandra,England,0.0,out,winter,Premier League,2008,True,free loan
+Everton FC,Lukas Jutkiewicz,19,England,Centre-Forward,CF,700000.0,Huddersfield,England,0.0,out,winter,Premier League,2008,True,free loan
+Everton FC,Iain Turner,25,Scotland,Goalkeeper,GK,450000.0,Nottm Forest,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Andy Johnson,27,England,Centre-Forward,CF,10000000.0,Everton,England,13300000.0,in,summer,Premier League,2008,False,
+Fulham FC,Bobby Zamora,27,England,Centre-Forward,CF,3000000.0,West Ham,England,4099999.9999999995,in,summer,Premier League,2008,False,
+Fulham FC,John Paintsil,27,Ghana,Right-Back,RB,1500000.0,West Ham,England,3800000.0,in,summer,Premier League,2008,False,
+Fulham FC,Fredrik Stoor,24,Sweden,Right-Back,RB,850000.0,Rosenborg,Norway,3000000.0,in,summer,Premier League,2008,False,
+Fulham FC,Dickson Etuhu,26,Nigeria,Defensive Midfield,DM,2000000.0,Sunderland,England,1850000.0,in,summer,Premier League,2008,False,
+Fulham FC,David Stockdale,22,England,Goalkeeper,GK,100000.0,Darlington,England,400000.0,in,summer,Premier League,2008,False,
+Fulham FC,Julian Gray,28,England,Centre-Forward,CF,900000.0,Coventry,England,400000.0,in,summer,Premier League,2008,False,
+Fulham FC,Mark Schwarzer,35,Australia,Goalkeeper,GK,3750000.0,Middlesbrough,England,0.0,in,summer,Premier League,2008,False,
+Fulham FC,Zoltán Gera,29,Hungary,Central Midfield,CM,3500000.0,West Brom,England,0.0,in,summer,Premier League,2008,False,
+Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,500000.0,Bolton,England,0.0,in,summer,Premier League,2008,False,
+Fulham FC,Chris Smalling,18,England,Centre-Back,CB,,Maidstone,England,0.0,in,summer,Premier League,2008,False,
+Fulham FC,Pascal Zuberbühler,37,Switzerland,Goalkeeper,GK,400000.0,Xamax,Switzerland,0.0,in,summer,Premier League,2008,False,
+Fulham FC,Steven Davis,23,Northern Ireland,Central Midfield,CM,4500000.0,Rangers,Scotland,3800000.0,out,summer,Premier League,2008,False,
+Fulham FC,David Healy,29,Northern Ireland,Centre-Forward,CF,3000000.0,Sunderland,England,1500000.0,out,summer,Premier League,2008,False,
+Fulham FC,Lee Cook,26,England,Left Winger,LW,1300000.0,QPR,England,1280000.0,out,summer,Premier League,2008,False,
+Fulham FC,Dejan Stefanovic,33,Serbia,Centre-Back,CB,1500000.0,Norwich,England,900000.0,out,summer,Premier League,2008,False,
+Fulham FC,Gabriel Zakuani,22,DR Congo,Centre-Back,CB,400000.0,Peterborough,England,650000.0,out,summer,Premier League,2008,False,
+Fulham FC,Ricardo Batista,21,Portugal,Goalkeeper,GK,400000.0,Sporting CP,Portugal,150000.0,out,summer,Premier League,2008,False,
+Fulham FC,Nathan Ashton,21,England,Left-Back,LB,100000.0,Wycombe,England,100000.0,out,summer,Premier League,2008,False,
+Fulham FC,Elliot Omozusi,19,England,Right-Back,RB,1000000.0,Norwich,England,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Collins John,22,Netherlands,Centre-Forward,CF,1500000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Moritz Volz,25,Germany,Right-Back,RB,2000000.0,Ipswich,England,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Eddie Johnson,24,United States,Centre-Forward,CF,2500000.0,Cardiff,England,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Hameur Bouazza,23,Algeria,Right Winger,RW,3500000.0,Charlton,England,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Kasey Keller,38,United States,Goalkeeper,GK,,Sounders FC,United States,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Jari Litmanen,37,Finland,Attacking Midfield,AM,,FC Lahti,Finland,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Brian McBride,36,United States,Centre-Forward,CF,800000.0,Chicago Fire,United States,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,600000.0,Hull City,England,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Carlos Bocanegra,29,United States,Centre-Back,CB,4000000.0,Stade Rennais,France,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Ismael Ehui,21,France,Centre-Forward,CF,50000.0,Harrow Borough,England,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Michael Timlin,23,Ireland,Central Midfield,CM,250000.0,Swindon Town,England,0.0,out,summer,Premier League,2008,False,
+Fulham FC,TJ Moncur,20,England,Centre-Back,CB,,Bradford,England,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Björn Runström,24,Sweden,Centre-Forward,CF,600000.0,Odense BK,Denmark,0.0,out,summer,Premier League,2008,False,
+Fulham FC,Wayne Brown,20,England,Attacking Midfield,AM,150000.0,TPS,Finland,0.0,out,summer,Premier League,2008,True,free loan
+Fulham FC,Antti Niemi,36,Finland,Goalkeeper,GK,3000000.0,Career break,,,out,summer,Premier League,2008,False,
+Fulham FC,Aleksey Smertin,33,Russia,Defensive Midfield,DM,1000000.0,Retired,,,out,summer,Premier League,2008,False,
+Fulham FC,Ian Pearce,34,England,Centre-Back,CB,600000.0,Retired,,,out,summer,Premier League,2008,False,
+Fulham FC,Simon Elliott,34,New Zealand,Defensive Midfield,DM,250000.0,Without Club,,,out,summer,Premier League,2008,False,
+Fulham FC,Philippe Christanval,29,France,Centre-Back,CB,400000.0,Retired,,,out,summer,Premier League,2008,False,
+Fulham FC,Giles Barnes,20,Jamaica,Centre-Forward,CF,2000000.0,Derby,England,0.0,in,winter,Premier League,2008,True,free loan
+Fulham FC,Olivier Dacourt,34,France,Defensive Midfield,DM,2000000.0,Inter,Italy,0.0,in,winter,Premier League,2008,True,free loan
+Fulham FC,Jimmy Bullard,30,England,Central Midfield,CM,4500000.0,Hull City,England,5300000.0,out,winter,Premier League,2008,False,
+Fulham FC,Leon Andreasen,25,Denmark,Central Midfield,CM,3000000.0,Hannover 96,Germany,2500000.0,out,winter,Premier League,2008,False,
+Fulham FC,Bruno Luz,20,Portugal,Left Winger,LW,,QPR,England,150000.0,out,winter,Premier League,2008,True,loan with fee
+Fulham FC,TJ Moncur,21,England,Centre-Back,CB,,Wycombe,England,0.0,out,winter,Premier League,2008,False,
+Fulham FC,Hameur Bouazza,23,Algeria,Right Winger,RW,1750000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Ki-hyeon Seol,29,"Korea, South",Right Winger,RW,1200000.0,Hilal,Saudi Arabia,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,500000.0,Barnsley FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Adrian Leijer,22,Australia,Centre-Back,CB,500000.0,Norwich,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,150000.0,Leicester,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Adam Watts,20,England,Centre-Back,CB,50000.0,Northampton,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,100000.0,Rotherham,England,0.0,out,winter,Premier League,2008,True,free loan
+Fulham FC,Rob Milsom,21,England,Central Midfield,CM,50000.0,Southend United,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,Anthony Gardner,27,England,Centre-Back,CB,900000.0,Spurs,England,3200000.0,in,summer,Premier League,2008,False,
+Hull City,Péter Halmosi,28,Hungary,Left Midfield,LM,925000.0,Plymouth,England,2500000.0,in,summer,Premier League,2008,False,
+Hull City,Daniel Cousin,31,Gabon,Centre-Forward,CF,4000000.0,Rangers,Scotland,1900000.0,in,summer,Premier League,2008,False,
+Hull City,George Boateng,32,Netherlands,Defensive Midfield,DM,5250000.0,Middlesbrough,England,1200000.0,in,summer,Premier League,2008,False,
+Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,900000.0,BSC Young Boys,Switzerland,600000.0,in,summer,Premier League,2008,True,loan with fee
+Hull City,Mark Oxley,17,England,Goalkeeper,GK,,Rotherham,England,195000.0,in,summer,Premier League,2008,False,
+Hull City,Bernard Mendy,26,France,Right-Back,RB,2000000.0,Paris SG,France,0.0,in,summer,Premier League,2008,False,
+Hull City,Geovanni,28,Brazil,Attacking Midfield,AM,3500000.0,Man City,England,0.0,in,summer,Premier League,2008,False,
+Hull City,Stelios Giannakopoulos,33,Greece,Right Winger,RW,2500000.0,Bolton,England,0.0,in,summer,Premier League,2008,False,
+Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,600000.0,Fulham,England,0.0,in,summer,Premier League,2008,False,
+Hull City,Marlon King,28,Jamaica,Centre-Forward,CF,3000000.0,Wigan,England,0.0,in,summer,Premier League,2008,True,free loan
+Hull City,Paul McShane,22,Ireland,Centre-Back,CB,3000000.0,Sunderland,England,0.0,in,summer,Premier League,2008,True,free loan
+Hull City,Ben Wilkinson,21,England,Central Midfield,CM,200000.0,York City,England,0.0,out,summer,Premier League,2008,False,
+Hull City,David Livermore,28,England,Central Midfield,CM,350000.0,Brighton,England,0.0,out,summer,Premier League,2008,False,
+Hull City,Stuart Elliott,29,Northern Ireland,Left Midfield,LM,600000.0,Doncaster,England,0.0,out,summer,Premier League,2008,False,
+Hull City,Henrik Pedersen,33,Denmark,Centre-Forward,CF,1500000.0,Silkeborg IF,Denmark,0.0,out,summer,Premier League,2008,False,
+Hull City,Michael Bridges,29,England,Centre-Forward,CF,300000.0,Carlisle United,England,0.0,out,summer,Premier League,2008,True,free loan
+Hull City,Wayne Brown,31,England,Centre-Back,CB,1800000.0,Preston,England,0.0,out,summer,Premier League,2008,True,free loan
+Hull City,John Welsh,24,England,Central Midfield,CM,250000.0,Carlisle United,England,0.0,out,summer,Premier League,2008,True,free loan
+Hull City,Jay-Jay Okocha,34,Nigeria,Attacking Midfield,AM,900000.0,Career break,,,out,summer,Premier League,2008,False,
+Hull City,Jimmy Bullard,30,England,Central Midfield,CM,4500000.0,Fulham,England,5300000.0,in,winter,Premier League,2008,False,
+Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,900000.0,BSC Young Boys,Switzerland,2500000.0,in,winter,Premier League,2008,False,
+Hull City,Kevin Kilbane,31,Ireland,Left Midfield,LM,3500000.0,Wigan,England,550000.0,in,winter,Premier League,2008,False,
+Hull City,Manucho,25,Angola,Centre-Forward,CF,2000000.0,Man Utd,England,0.0,in,winter,Premier League,2008,True,free loan
+Hull City,Dean Windass,39,England,Centre-Forward,CF,1000000.0,Oldham Athletic,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,Stelios Giannakopoulos,34,Greece,Right Winger,RW,800000.0,AE Larisa,Greece,0.0,out,winter,Premier League,2008,False,
+Hull City,Wayne Brown,31,England,Centre-Back,CB,1000000.0,Leicester,England,0.0,out,winter,Premier League,2008,False,
+Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,300000.0,Leicester,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,James Bennett,20,England,Central Midfield,CM,50000.0,Lincoln City,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,John Welsh,25,England,Central Midfield,CM,250000.0,Bury,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,Wayne Brown,31,England,Centre-Back,CB,1800000.0,Preston,England,0.0,out,winter,Premier League,2008,True,free loan
+Hull City,John Welsh,24,England,Central Midfield,CM,250000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Robbie Keane,28,Ireland,Centre-Forward,CF,16500000.0,Spurs,England,24000000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Javier Mascherano,24,Argentina,Defensive Midfield,DM,20000000.0,West Ham,England,22500000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Albert Riera,26,Spain,Left Winger,LW,12000000.0,Espanyol,Spain,9800000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Andrea Dossena,26,Italy,Left Midfield,LM,6500000.0,Udinese,Italy,9000000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Diego Cavalieri,25,Brazil,Goalkeeper,GK,1200000.0,Palmeiras,Brazil,4400000.0,in,summer,Premier League,2008,False,
+Liverpool FC,David N'Gog,19,France,Centre-Forward,CF,1000000.0,Paris SG,France,1500000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Péter Gulácsi,18,Hungary,Goalkeeper,GK,,MTK U19,Hungary,250000.0,in,summer,Premier League,2008,False,
+Liverpool FC,Philipp Degen,25,Switzerland,Right-Back,RB,2500000.0,Bor. Dortmund,Germany,0.0,in,summer,Premier League,2008,False,
+Liverpool FC,Peter Crouch,27,England,Centre-Forward,CF,9500000.0,Portsmouth,England,13700000.0,out,summer,Premier League,2008,False,
+Liverpool FC,John Arne Riise,27,Norway,Left-Back,LB,12500000.0,AS Roma,Italy,5500000.0,out,summer,Premier League,2008,False,
+Liverpool FC,Danny Guthrie,21,England,Central Midfield,CM,1800000.0,Newcastle,England,4300000.0,out,summer,Premier League,2008,False,
+Liverpool FC,Scott Carson,22,England,Goalkeeper,GK,6000000.0,West Brom,England,4000000.0,out,summer,Premier League,2008,False,
+Liverpool FC,Anthony Le Tallec,23,France,Centre-Forward,CF,1800000.0,Le Mans UC 72,France,1500000.0,out,summer,Premier League,2008,False,
+Liverpool FC,Sebastián Leto,21,Argentina,Left Winger,LW,3000000.0,Olympiacos,Greece,750000.0,out,summer,Premier League,2008,True,loan with fee
+Liverpool FC,Jack Hobbs,19,England,Centre-Back,CB,500000.0,Leicester,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Harry Kewell,29,Australia,Left Winger,LW,5500000.0,Galatasaray,Turkey,0.0,out,summer,Premier League,2008,False,
+Liverpool FC,Robbie Threlfall,19,England,Left-Back,LB,100000.0,Hereford Utd.,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,100000.0,Tranmere Rovers,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,David Martin,22,England,Goalkeeper,GK,200000.0,Leicester,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Craig Lindfield,19,England,Right Midfield,RM,100000.0,Bournemouth,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Josh Mimms,19,England,Goalkeeper,GK,,York City,England,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Andriy Voronin,29,Ukraine,Second Striker,SS,6000000.0,Hertha BSC,Germany,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Miki Roqué,19,Spain,Centre-Back,CB,200000.0,FC Cartagena,Spain,0.0,out,summer,Premier League,2008,True,free loan
+Liverpool FC,Steve Finnan,32,Ireland,Right-Back,RB,5500000.0,Espanyol,Spain,,out,summer,Premier League,2008,False,
+Liverpool FC,Besian Idrizaj,20,Austria,Centre-Forward,CF,,Without Club,,,out,summer,Premier League,2008,False,
+Liverpool FC,Javier Mascherano,24,Argentina,Defensive Midfield,DM,20000000.0,West Ham,England,0.0,out,summer,Premier League,2008,True,end of loan
+Liverpool FC,Robbie Keane,28,Ireland,Centre-Forward,CF,21000000.0,Spurs,England,16700000.0,out,winter,Premier League,2008,False,
+Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,100000.0,Stockport,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Jermaine Pennant,26,England,Right Winger,RW,8500000.0,Portsmouth,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Krisztián Németh,19,Hungary,Centre-Forward,CF,50000.0,Blackpool,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,100000.0,Accrington,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Josh Mimms,19,England,Goalkeeper,GK,,York City,England,0.0,out,winter,Premier League,2008,False,
+Liverpool FC,Péter Gulácsi,18,Hungary,Goalkeeper,GK,,Hereford Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,100000.0,Hereford Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Martin Kelly,18,England,Right-Back,RB,50000.0,Huddersfield,England,0.0,out,winter,Premier League,2008,True,free loan
+Liverpool FC,Astrit Ajdarevic,18,Albania,Central Midfield,CM,45000.0,Leicester,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester City,Robinho,24,Brazil,Left Winger,LW,34000000.0,Real Madrid,Spain,43000000.0,in,summer,Premier League,2008,False,
+Manchester City,Jô,21,Brazil,Centre-Forward,CF,16000000.0,CSKA Moscow,Russia,24000000.0,in,summer,Premier League,2008,False,
+Manchester City,Shaun Wright-Phillips,26,England,Right Winger,RW,13000000.0,Chelsea,England,11250000.0,in,summer,Premier League,2008,False,
+Manchester City,Pablo Zabaleta,23,Argentina,Right-Back,RB,8000000.0,Espanyol,Spain,8700000.0,in,summer,Premier League,2008,False,
+Manchester City,Vincent Kompany,22,Belgium,Centre-Back,CB,10000000.0,Hamburger SV,Germany,8500000.0,in,summer,Premier League,2008,False,
+Manchester City,Tal Ben Haim,26,Israel,Centre-Back,CB,4000000.0,Chelsea,England,6400000.0,in,summer,Premier League,2008,False,
+Manchester City,Gláuber,25,Brazil,Centre-Back,CB,1800000.0,1.FC Nuremberg,Germany,0.0,in,summer,Premier League,2008,False,
+Manchester City,Vedran Corluka,22,Croatia,Centre-Back,CB,11500000.0,Spurs,England,13750000.0,out,summer,Premier League,2008,False,
+Manchester City,Rolando Bianchi,25,Italy,Centre-Forward,CF,6500000.0,Torino,Italy,7000000.0,out,summer,Premier League,2008,False,
+Manchester City,Andreas Isaksson,26,Sweden,Goalkeeper,GK,3000000.0,PSV Eindhoven,Netherlands,2800000.0,out,summer,Premier League,2008,False,
+Manchester City,Georgios Samaras,23,Greece,Left Winger,LW,3000000.0,Celtic,Scotland,2500000.0,out,summer,Premier League,2008,False,
+Manchester City,Matt Mills,22,England,Centre-Back,CB,400000.0,Doncaster,England,450000.0,out,summer,Premier League,2008,False,
+Manchester City,Richard Martin,21,England,Goalkeeper,GK,75000.0,Burton Albion,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester City,Donal McDermott,18,Ireland,Attacking Midfield,AM,,MK Dons,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester City,Karl Moore,19,Ireland,Attacking Midfield,AM,,Millwall,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester City,Bernardo Corradi,32,Italy,Centre-Forward,CF,1500000.0,Reggina,Italy,0.0,out,summer,Premier League,2008,False,
+Manchester City,Emile Mpenza,30,Belgium,Centre-Forward,CF,1000000.0,Plymouth,England,0.0,out,summer,Premier League,2008,False,
+Manchester City,Paul Dickov,35,Scotland,Centre-Forward,CF,400000.0,Leicester,England,0.0,out,summer,Premier League,2008,False,
+Manchester City,Geovanni,28,Brazil,Attacking Midfield,AM,3500000.0,Hull City,England,0.0,out,summer,Premier League,2008,False,
+Manchester City,Jihai Sun,30,China,Centre-Back,CB,1500000.0,Sheff Utd,England,0.0,out,summer,Premier League,2008,False,
+Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,,Morecambe FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester City,Nigel de Jong,24,Netherlands,Defensive Midfield,DM,10000000.0,Hamburger SV,Germany,18000000.0,in,winter,Premier League,2008,False,
+Manchester City,Craig Bellamy,29,Wales,Left Winger,LW,7500000.0,West Ham,England,15500000.0,in,winter,Premier League,2008,False,
+Manchester City,Wayne Bridge,28,England,Left-Back,LB,6000000.0,Chelsea,England,13000000.0,in,winter,Premier League,2008,False,
+Manchester City,Shay Given,32,Ireland,Goalkeeper,GK,7500000.0,Newcastle,England,9000000.0,in,winter,Premier League,2008,False,
+Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,250000.0,Blackburn,England,0.0,in,winter,Premier League,2008,False,
+Manchester City,Tal Ben Haim,26,Israel,Centre-Back,CB,4000000.0,Sunderland,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester City,Jô,21,Brazil,Centre-Forward,CF,16000000.0,Everton,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,250000.0,Wrexham,Wales,0.0,out,winter,Premier League,2008,True,free loan
+Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,,Morecambe FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester United,Dimitar Berbatov,27,Bulgaria,Centre-Forward,CF,26000000.0,Spurs,England,38000000.0,in,summer,Premier League,2008,False,
+Manchester United,Gerard Piqué,21,Spain,Centre-Back,CB,5500000.0,FC Barcelona,Spain,5000000.0,out,summer,Premier League,2008,False,
+Manchester United,Chris Eagles,22,England,Right Winger,RW,800000.0,Burnley,England,1500000.0,out,summer,Premier League,2008,False,
+Manchester United,Mikaël Silvestre,31,France,Centre-Back,CB,3500000.0,Arsenal,England,950000.0,out,summer,Premier League,2008,False,
+Manchester United,Tom Heaton,22,England,Goalkeeper,GK,200000.0,Cardiff,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester United,Michael Lea,20,England,Left-Back,LB,150000.0,Scunthorpe Utd.,England,0.0,out,summer,Premier League,2008,False,
+Manchester United,Ritchie Jones,21,England,Central Midfield,CM,250000.0,Hartlepool Utd.,England,0.0,out,summer,Premier League,2008,False,
+Manchester United,Danny Simpson,21,England,Right-Back,RB,900000.0,Blackburn,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester United,Lee Martin,21,England,Attacking Midfield,AM,900000.0,Nottm Forest,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester United,Fangzhuo Dong,23,China,Centre-Forward,CF,400000.0,DL Shide,China,0.0,out,summer,Premier League,2008,False,
+Manchester United,Michael Barnes,20,England,Left Midfield,LM,,Northwich Victoria,England,0.0,out,summer,Premier League,2008,False,
+Manchester United,Louis Saha,30,France,Centre-Forward,CF,7500000.0,Everton,England,0.0,out,summer,Premier League,2008,False,
+Manchester United,Fraizer Campbell,20,England,Centre-Forward,CF,2000000.0,Spurs,England,0.0,out,summer,Premier League,2008,True,free loan
+Manchester United,Zoran Tosic,21,Serbia,Right Winger,RW,4250000.0,Partizan,Serbia,7000000.0,in,winter,Premier League,2008,False,
+Manchester United,Ritchie De Laet,20,Belgium,Right-Back,RB,300000.0,Stoke City,England,250000.0,in,winter,Premier League,2008,False,
+Manchester United,David Gray,20,Scotland,Right-Back,RB,100000.0,Plymouth,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester United,Sam Hewson,20,England,Central Midfield,CM,,Hereford Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester United,Manucho,25,Angola,Centre-Forward,CF,2000000.0,Hull City,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester United,Tom Cleverley,19,England,Central Midfield,CM,,Leicester,England,0.0,out,winter,Premier League,2008,True,free loan
+Manchester United,James Chester,20,Wales,Centre-Back,CB,,Peterborough,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Didier Digard,21,France,Defensive Midfield,DM,3000000.0,Paris SG,France,5000000.0,in,summer,Premier League,2008,False,
+Middlesbrough FC,Marvin Emnes,20,Netherlands,Centre-Forward,CF,1000000.0,Sparta R.,Netherlands,4000000.0,in,summer,Premier League,2008,False,
+Middlesbrough FC,Justin Hoyte,23,Trinidad and Tobago,Right-Back,RB,1500000.0,Arsenal,England,3800000.0,in,summer,Premier League,2008,False,
+Middlesbrough FC,Lee Cattermole,20,England,Defensive Midfield,DM,2000000.0,Wigan,England,4400000.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Luke Young,29,England,Right-Back,RB,5000000.0,Aston Villa,England,3000000.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,George Boateng,32,Netherlands,Defensive Midfield,DM,5250000.0,Hull City,England,1200000.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,300000.0,Luton,England,120000.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Fábio Rochemback,26,Brazil,Central Midfield,CM,5000000.0,Sporting CP,Portugal,0.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Dong-gook Lee,29,"Korea, South",Centre-Forward,CF,1500000.0,Seongnam Ilhwa,"Korea, South",0.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Mark Schwarzer,35,Australia,Goalkeeper,GK,3750000.0,Fulham,England,0.0,out,summer,Premier League,2008,False,
+Middlesbrough FC,Tony McMahon,22,England,Right-Back,RB,250000.0,Sheff Wed,England,0.0,out,summer,Premier League,2008,True,free loan
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,400000.0,Norwich,England,0.0,out,summer,Premier League,2008,True,free loan
+Middlesbrough FC,Jason Kennedy,21,England,Central Midfield,CM,100000.0,Darlington,England,,out,summer,Premier League,2008,False,
+Middlesbrough FC,Gaizka Mendieta,34,Spain,Right Midfield,RM,400000.0,Retired,,,out,summer,Premier League,2008,False,
+Middlesbrough FC,Marlon King,28,Jamaica,Centre-Forward,CF,3000000.0,Wigan,England,0.0,in,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,300000.0,Luton,England,120000.0,out,winter,Premier League,2008,False,
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,400000.0,Norwich,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Graeme Owens,20,England,Right Winger,RW,100000.0,Blackpool,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Mido,25,Egypt,Centre-Forward,CF,4000000.0,Wigan,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Rhys Williams,20,Australia,Centre-Back,CB,50000.0,Burnley,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,200000.0,Oldham Athletic,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,John Johnson,20,England,Centre-Back,CB,50000.0,Tranmere Rovers,England,0.0,out,winter,Premier League,2008,True,free loan
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,200000.0,Derby,England,0.0,out,winter,Premier League,2008,True,free loan
+Newcastle United,Fabricio Coloccini,26,Argentina,Centre-Back,CB,10000000.0,Dep. La Coruña,Spain,13000000.0,in,summer,Premier League,2008,False,
+Newcastle United,Jonás Gutiérrez,24,Argentina,Central Midfield,CM,6000000.0,RCD Mallorca,Spain,5800000.0,in,summer,Premier League,2008,False,
+Newcastle United,Xisco,22,Spain,Centre-Forward,CF,5000000.0,Dep. La Coruña,Spain,5680000.0,in,summer,Premier League,2008,False,
+Newcastle United,Danny Guthrie,21,England,Central Midfield,CM,1800000.0,Liverpool,England,4300000.0,in,summer,Premier League,2008,False,
+Newcastle United,Sébastien Bassong,21,Cameroon,Centre-Back,CB,1600000.0,FC Metz,France,1800000.0,in,summer,Premier League,2008,False,
+Newcastle United,Ignacio González,26,Uruguay,Attacking Midfield,AM,750000.0,Valencia,Spain,0.0,in,summer,Premier League,2008,True,free loan
+Newcastle United,James Milner,22,England,Central Midfield,CM,8750000.0,Aston Villa,England,15000000.0,out,summer,Premier League,2008,False,
+Newcastle United,Emre Belözoglu,27,Turkey,Central Midfield,CM,7500000.0,Fenerbahce,Turkey,4500000.0,out,summer,Premier League,2008,False,
+Newcastle United,David Rozehnal,27,Czech Republic,Centre-Back,CB,4000000.0,Lazio,Italy,3600000.0,out,summer,Premier League,2008,False,
+Newcastle United,Abdoulaye Fayé,30,Senegal,Centre-Back,CB,3500000.0,Stoke City,England,2900000.0,out,summer,Premier League,2008,False,
+Newcastle United,Peter Ramage,24,England,Centre-Back,CB,1000000.0,QPR,England,0.0,out,summer,Premier League,2008,False,
+Newcastle United,Mark Cook,19,England,Goalkeeper,GK,,Hartlepool Utd.,England,0.0,out,summer,Premier League,2008,False,
+Newcastle United,James Troisi,20,Australia,Attacking Midfield,AM,200000.0,Genclerbirligi,Turkey,0.0,out,summer,Premier League,2008,False,
+Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,400000.0,Stockport,England,0.0,out,summer,Premier League,2008,True,free loan
+Newcastle United,Stephen Carr,31,Ireland,Right-Back,RB,2500000.0,Career break,,,out,summer,Premier League,2008,False,
+Newcastle United,Lamine Diatta,32,Senegal,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Premier League,2008,False,
+Newcastle United,Kevin Nolan,26,England,Attacking Midfield,AM,6500000.0,Bolton,England,4500000.0,in,winter,Premier League,2008,False,
+Newcastle United,Ryan Taylor,24,England,Right-Back,RB,1500000.0,Wigan,England,300000.0,in,winter,Premier League,2008,False,
+Newcastle United,Haris Vuckic,16,Slovenia,Centre-Forward,CF,200000.0,NK Domzale,Slovenia,100000.0,in,winter,Premier League,2008,False,
+Newcastle United,Peter Lövenkrands,28,Denmark,Centre-Forward,CF,3000000.0,FC Schalke 04,Germany,0.0,in,winter,Premier League,2008,False,
+Newcastle United,Shay Given,32,Ireland,Goalkeeper,GK,7500000.0,Man City,England,9000000.0,out,winter,Premier League,2008,False,
+Newcastle United,Charles N'Zogbia,22,France,Right Winger,RW,7000000.0,Wigan,England,6400000.0,out,winter,Premier League,2008,False,
+Newcastle United,Fabio Zamblera,18,Italy,Centre-Forward,CF,,Sampdoria U19,Italy,0.0,out,winter,Premier League,2008,True,free loan
+Newcastle United,Kazenga LuaLua,18,England,Left Winger,LW,400000.0,Doncaster,England,0.0,out,winter,Premier League,2008,True,free loan
+Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,400000.0,Stockport,England,0.0,out,winter,Premier League,2008,True,free loan
+Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,900000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,True,free loan
+Portsmouth FC,Peter Crouch,27,England,Centre-Forward,CF,9500000.0,Liverpool,England,13700000.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Younès Kaboul,22,France,Centre-Back,CB,6500000.0,Spurs,England,6250000.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Glen Little,32,England,Right Midfield,RM,650000.0,Reading,England,0.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Ben Sahar,18,Israel,Centre-Forward,CF,400000.0,Chelsea,England,0.0,in,summer,Premier League,2008,True,free loan
+Portsmouth FC,Omar Alieu Koroma,18,The Gambia,Centre-Forward,CF,,Hawks FC,The Gambia,0.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Jerome Thomas,25,England,Left Winger,LW,750000.0,Charlton,England,0.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Jon Stewart,19,England,Goalkeeper,GK,50000.0,Weymouth FC,England,0.0,in,summer,Premier League,2008,False,
+Portsmouth FC,Armand Traoré,18,Senegal,Left-Back,LB,1000000.0,Arsenal,England,0.0,in,summer,Premier League,2008,True,free loan
+Portsmouth FC,Nadir Belhadj,26,Algeria,Left-Back,LB,3500000.0,Lens,France,0.0,in,summer,Premier League,2008,True,free loan
+Portsmouth FC,Sulley Muntari,23,Ghana,Central Midfield,CM,12000000.0,Inter,Italy,14000000.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Pedro Mendes,29,Portugal,Defensive Midfield,DM,3500000.0,Rangers,Scotland,3750000.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Franck Songo'o,21,Cameroon,Right Winger,RW,600000.0,Real Zaragoza,Spain,0.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Omar Alieu Koroma,18,The Gambia,Centre-Forward,CF,,Norwich,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Asmir Begovic,21,Bosnia-Herzegovina,Goalkeeper,GK,200000.0,Yeovil Town,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,400000.0,Zulte Waregem,Belgium,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Linvoy Primus,34,England,Centre-Back,CB,600000.0,Charlton,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Joel Ward,18,England,Right-Back,RB,,Bournemouth,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Nick Jordan,18,England,Goalkeeper,GK,,Exeter City,England,0.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Adda Djeziri,20,Denmark,Second Striker,SS,,FC Hjörring,Denmark,0.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Martin Cranie,21,England,Centre-Back,CB,1000000.0,Charlton,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Jean-François Christophe,20,France,Defensive Midfield,DM,100000.0,Southend United,England,0.0,out,summer,Premier League,2008,False,
+Portsmouth FC,Matt Ritchie,18,Scotland,Left-Back,LB,,Dag & Red FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Portsmouth FC,Camilo Muñoz,17,Colombia,defence,defence,,Hayes & Yeading,England,,out,summer,Premier League,2008,False,
+Portsmouth FC,Nadir Belhadj,26,Algeria,Left-Back,LB,3500000.0,Lens,France,4500000.0,in,winter,Premier League,2008,False,
+Portsmouth FC,Hayden Mullins,29,England,Defensive Midfield,DM,4500000.0,West Ham,England,2300000.0,in,winter,Premier League,2008,False,
+Portsmouth FC,Theofanis Gekas,28,Greece,Centre-Forward,CF,4500000.0,Bay. Leverkusen,Germany,800000.0,in,winter,Premier League,2008,True,loan with fee
+Portsmouth FC,Pelé,21,Portugal,Central Midfield,CM,5000000.0,FC Porto,Portugal,650000.0,in,winter,Premier League,2008,True,loan with fee
+Portsmouth FC,Jermaine Pennant,26,England,Right Winger,RW,8500000.0,Liverpool,England,0.0,in,winter,Premier League,2008,True,free loan
+Portsmouth FC,Angelos Basinas,33,Greece,Defensive Midfield,DM,3000000.0,AEK Athens,Greece,0.0,in,winter,Premier League,2008,False,
+Portsmouth FC,Torric Jebrin,17,Ghana,Attacking Midfield,AM,,Hearts of Oak,Ghana,,in,winter,Premier League,2008,False,
+Portsmouth FC,Lassana Diarra,23,France,Defensive Midfield,DM,8500000.0,Real Madrid,Spain,20000000.0,out,winter,Premier League,2008,False,
+Portsmouth FC,Jermain Defoe,26,England,Centre-Forward,CF,11000000.0,Spurs,England,16399999.999999998,out,winter,Premier League,2008,False,
+Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,400000.0,Southend United,England,0.0,out,winter,Premier League,2008,True,free loan
+Portsmouth FC,Djimi Traoré,28,Mali,Centre-Back,CB,3000000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+Portsmouth FC,Richard Duffy,23,Wales,Centre-Back,CB,300000.0,Millwall,England,0.0,out,winter,Premier League,2008,False,
+Portsmouth FC,Glen Little,33,England,Right Midfield,RM,800000.0,Reading,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Dave Kitson,28,England,Centre-Forward,CF,4250000.0,Reading,England,7000000.0,in,summer,Premier League,2008,False,
+Stoke City,Seyi Olofinjana,28,Nigeria,Central Midfield,CM,2500000.0,Wolves,England,3800000.0,in,summer,Premier League,2008,False,
+Stoke City,Ibrahima Sonko,27,Senegal,Centre-Back,CB,1500000.0,Reading,England,3000000.0,in,summer,Premier League,2008,False,
+Stoke City,Danny Higginbotham,29,Gibraltar,Centre-Back,CB,2500000.0,Sunderland,England,3000000.0,in,summer,Premier League,2008,False,
+Stoke City,Michael Tonge,25,England,Central Midfield,CM,800000.0,Sheff Utd,England,3000000.0,in,summer,Premier League,2008,False,
+Stoke City,Abdoulaye Fayé,30,Senegal,Centre-Back,CB,3500000.0,Newcastle,England,2900000.0,in,summer,Premier League,2008,False,
+Stoke City,Andrew Davies,23,England,Centre-Back,CB,1000000.0,Southampton,England,1900000.0,in,summer,Premier League,2008,False,
+Stoke City,Tom Soares,22,England,Central Midfield,CM,800000.0,Crystal Palace,England,1900000.0,in,summer,Premier League,2008,False,
+Stoke City,Amdy Fayé,31,Senegal,Defensive Midfield,DM,1750000.0,Charlton,England,450000.0,in,summer,Premier League,2008,False,
+Stoke City,Thomas Sörensen,32,Denmark,Goalkeeper,GK,1800000.0,Aston Villa,England,0.0,in,summer,Premier League,2008,False,
+Stoke City,Lewis Buxton,24,England,Right-Back,RB,400000.0,Sheff Wed,England,100000.0,out,summer,Premier League,2008,False,
+Stoke City,Adam Rooney,20,Ireland,Centre-Forward,CF,350000.0,Inverness CT,Scotland,65000.0,out,summer,Premier League,2008,False,
+Stoke City,Robert Garrett,20,Northern Ireland,Central Midfield,CM,50000.0,Linfield,Northern Ireland,0.0,out,summer,Premier League,2008,False,
+Stoke City,Russell Hoult,35,England,Goalkeeper,GK,900000.0,Notts County,England,0.0,out,summer,Premier League,2008,False,
+Stoke City,Marlon Broomes,30,England,Centre-Back,CB,300000.0,Blackpool,England,0.0,out,summer,Premier League,2008,False,
+Stoke City,Anthony Pulis,23,Wales,Central Midfield,CM,50000.0,Southampton,England,0.0,out,summer,Premier League,2008,False,
+Stoke City,Ryan Shotton,19,England,Centre-Back,CB,,Tranmere Rovers,England,0.0,out,summer,Premier League,2008,True,free loan
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,,Stafford Rangers,England,0.0,out,summer,Premier League,2008,True,free loan
+Stoke City,Jon Parkin,26,England,Centre-Forward,CF,500000.0,Preston,England,,out,summer,Premier League,2008,False,
+Stoke City,James Beattie,30,England,Centre-Forward,CF,2250000.0,Sheff Utd,England,4000000.0,in,winter,Premier League,2008,False,
+Stoke City,Matthew Etherington,27,England,Left Midfield,LM,4000000.0,West Ham,England,3000000.0,in,winter,Premier League,2008,False,
+Stoke City,Henri Camara,31,Senegal,Centre-Forward,CF,2000000.0,Wigan,England,0.0,in,winter,Premier League,2008,True,free loan
+Stoke City,Stephen Kelly,25,Ireland,Right-Back,RB,1250000.0,Birmingham,England,0.0,in,winter,Premier League,2008,True,free loan
+Stoke City,Demar Phillips,25,Jamaica,Left-Back,LB,250000.0,Aalesund,Norway,350000.0,out,winter,Premier League,2008,False,
+Stoke City,Ritchie De Laet,20,Belgium,Right-Back,RB,300000.0,Man Utd,England,250000.0,out,winter,Premier League,2008,False,
+Stoke City,Lewis Buxton,24,England,Right-Back,RB,400000.0,Sheff Wed,England,100000.0,out,winter,Premier League,2008,False,
+Stoke City,Tom Soares,22,England,Central Midfield,CM,1400000.0,Charlton,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Carl Dickinson,21,England,Left-Back,LB,1000000.0,Leeds,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,50000.0,Stafford Rangers,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Andrew Davies,24,England,Centre-Back,CB,1000000.0,Preston,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,50000.0,Bristol Rovers,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Vincent Péricard,26,France,Centre-Forward,CF,400000.0,Millwall,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Dave Kitson,29,England,Centre-Forward,CF,3500000.0,Reading,England,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Ritchie De Laet,19,Belgium,Right-Back,RB,300000.0,Wrexham,Wales,0.0,out,winter,Premier League,2008,True,free loan
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,50000.0,Burscough FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Anton Ferdinand,23,England,Centre-Back,CB,4000000.0,West Ham,England,10000000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,George McCartney,27,Northern Ireland,Left-Back,LB,4000000.0,West Ham,England,5500000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Steed Malbranque,28,France,Central Midfield,CM,9000000.0,Spurs,England,5000000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Pascal Chimbonda,29,Guadeloupe,Centre-Back,CB,6500000.0,Spurs,England,3200000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,El-Hadji Diouf,27,Senegal,Centre-Forward,CF,4500000.0,Bolton,England,3200000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Teemu Tainio,28,Finland,Defensive Midfield,DM,3000000.0,Spurs,England,3000000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,David Healy,29,Northern Ireland,Centre-Forward,CF,3000000.0,Fulham,England,1500000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Djibril Cissé,27,France,Centre-Forward,CF,11000000.0,Marseille,France,1500000.0,in,summer,Premier League,2008,True,loan with fee
+Sunderland AFC,David Meyler,19,Ireland,Central Midfield,CM,,Cork City,Ireland,210000.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Nick Colgan,34,Ireland,Goalkeeper,GK,375000.0,Ipswich,England,0.0,in,summer,Premier League,2008,False,
+Sunderland AFC,Danny Higginbotham,29,Gibraltar,Centre-Back,CB,2500000.0,Stoke City,England,3000000.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Dickson Etuhu,26,Nigeria,Defensive Midfield,DM,2000000.0,Fulham,England,1850000.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Ross Wallace,23,Scotland,Right Midfield,RM,2500000.0,Preston,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,1800000.0,Sheff Utd,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,600000.0,Carlisle United,England,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Carlos Edwards,29,Trinidad and Tobago,Right-Back,RB,1400000.0,Wolves,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Paul McShane,22,Ireland,Centre-Back,CB,3000000.0,Hull City,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Russell Anderson,29,Scotland,Centre-Back,CB,850000.0,Burnley,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Trevor Carson,20,Northern Ireland,Goalkeeper,GK,100000.0,Chesterfield FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Roy O'Donovan,22,Ireland,Centre-Forward,CF,800000.0,Dundee United,Scotland,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Jack Pelter,20,New Zealand,Centre-Back,CB,100000.0,Western Suburbs,New Zealand,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Greg Halford,23,England,Centre-Back,CB,1800000.0,Sheff Utd,England,0.0,out,summer,Premier League,2008,True,free loan
+Sunderland AFC,Stephen Wright,28,England,Right-Back,RB,800000.0,Coventry,England,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Gavin Donoghue,19,Ireland,Left-Back,LB,100000.0,Unknown,,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Billy Dennehy,21,Ireland,Left Midfield,LM,100000.0,Derry City,Ireland,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Jake Richardson,19,England,Central Midfield,CM,150000.0,Unknown,,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Andy Cole,36,England,Centre-Forward,CF,500000.0,Nottm Forest,England,0.0,out,summer,Premier League,2008,False,
+Sunderland AFC,Ian Harte,30,Ireland,Left-Back,LB,2000000.0,Without Club,,,out,summer,Premier League,2008,False,
+Sunderland AFC,Stanislav Varga,35,Slovakia,Centre-Back,CB,1000000.0,Retired,,,out,summer,Premier League,2008,False,
+Sunderland AFC,Tal Ben Haim,26,Israel,Centre-Back,CB,4000000.0,Man City,England,0.0,in,winter,Premier League,2008,True,free loan
+Sunderland AFC,Calum Davenport,26,England,Centre-Back,CB,700000.0,West Ham,England,0.0,in,winter,Premier League,2008,True,free loan
+Sunderland AFC,Pascal Chimbonda,29,Guadeloupe,Centre-Back,CB,6500000.0,Spurs,England,3200000.0,out,winter,Premier League,2008,False,
+Sunderland AFC,El-Hadji Diouf,28,Senegal,Centre-Forward,CF,4500000.0,Blackburn,England,2200000.0,out,winter,Premier League,2008,False,
+Sunderland AFC,Rade Prica,28,Sweden,Centre-Forward,CF,1300000.0,Rosenborg,Norway,800000.0,out,winter,Premier League,2008,False,
+Sunderland AFC,Liam Miller,27,Ireland,Central Midfield,CM,2000000.0,QPR,England,100000.0,out,winter,Premier League,2008,False,
+Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,800000.0,Blackpool,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,50000.0,Coventry,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Michael Chopra,25,England,Centre-Forward,CF,4500000.0,Cardiff,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,900000.0,Crystal Palace,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Darren Ward,34,Wales,Goalkeeper,GK,400000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Carlos Edwards,29,Trinidad and Tobago,Right-Back,RB,1400000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,600000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,False,
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,1800000.0,Sheff Utd,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Michael Chopra,24,England,Centre-Forward,CF,4500000.0,Cardiff,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Michael Liddle,18,Ireland,Left-Back,LB,50000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,50000.0,Charlton,England,0.0,out,winter,Premier League,2008,True,free loan
+Sunderland AFC,Ross Wallace,23,Scotland,Right Midfield,RM,2000000.0,Preston,England,,out,winter,Premier League,2008,False,
+Tottenham Hotspur,David Bentley,23,England,Right Midfield,RM,12000000.0,Blackburn,England,22000000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Luka Modric,22,Croatia,Central Midfield,CM,18000000.0,Dinamo Zagreb,Croatia,21000000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Roman Pavlyuchenko,26,Russia,Centre-Forward,CF,8000000.0,Spartak Moscow,Russia,17400000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Vedran Corluka,22,Croatia,Centre-Back,CB,11500000.0,Man City,England,13750000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Heurelho Gomes,27,Brazil,Goalkeeper,GK,7500000.0,PSV Eindhoven,Netherlands,9000000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Giovani dos Santos,19,Mexico,Second Striker,SS,6000000.0,FC Barcelona,Spain,6000000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,John Bostock,16,Trinidad and Tobago,Central Midfield,CM,300000.0,Crystal Palace,England,2000000.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,César Sánchez,36,Spain,Goalkeeper,GK,2600000.0,Real Zaragoza,Spain,0.0,in,summer,Premier League,2008,False,
+Tottenham Hotspur,Fraizer Campbell,20,England,Centre-Forward,CF,2000000.0,Man Utd,England,0.0,in,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Dimitar Berbatov,27,Bulgaria,Centre-Forward,CF,26000000.0,Man Utd,England,38000000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Robbie Keane,28,Ireland,Centre-Forward,CF,16500000.0,Liverpool,England,24000000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Younès Kaboul,22,France,Centre-Back,CB,6500000.0,Portsmouth,England,6250000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Steed Malbranque,28,France,Central Midfield,CM,9000000.0,Sunderland,England,5000000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Paul Robinson,28,England,Goalkeeper,GK,5000000.0,Blackburn,England,4400000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Pascal Chimbonda,29,Guadeloupe,Centre-Back,CB,6500000.0,Sunderland,England,3200000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Anthony Gardner,27,England,Centre-Back,CB,900000.0,Hull City,England,3200000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Teemu Tainio,28,Finland,Defensive Midfield,DM,3000000.0,Sunderland,England,3000000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Young-pyo Lee,31,"Korea, South",Left-Back,LB,4000000.0,Bor. Dortmund,Germany,500000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Tommy Forecast,21,England,Goalkeeper,GK,,Southampton,England,400000.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,900000.0,Carlisle United,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,David Button,20,England,Goalkeeper,GK,,Dag & Red FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Andy Barcham,21,England,Left Winger,LW,50000.0,Gillingham FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,,Grays Athletic FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,500000.0,Southampton,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Charlie Daniels,21,England,Left-Back,LB,,Gillingham FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,250000.0,Gillingham FC,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Radek Cerny,34,Czech Republic,Goalkeeper,GK,1500000.0,QPR,England,0.0,out,summer,Premier League,2008,False,
+Tottenham Hotspur,Simon Dawkins,20,Jamaica,Left Winger,LW,50000.0,Leyton Orient,England,0.0,out,summer,Premier League,2008,True,free loan
+Tottenham Hotspur,Robbie Keane,28,Ireland,Centre-Forward,CF,21000000.0,Liverpool,England,16700000.0,in,winter,Premier League,2008,False,
+Tottenham Hotspur,Jermain Defoe,26,England,Centre-Forward,CF,11000000.0,Portsmouth,England,16399999.999999998,in,winter,Premier League,2008,False,
+Tottenham Hotspur,Wilson Palacios,24,Honduras,Defensive Midfield,DM,3500000.0,Wigan,England,15000000.0,in,winter,Premier League,2008,False,
+Tottenham Hotspur,Pascal Chimbonda,29,Guadeloupe,Centre-Back,CB,6500000.0,Sunderland,England,3200000.0,in,winter,Premier League,2008,False,
+Tottenham Hotspur,Carlo Cudicini,35,Italy,Goalkeeper,GK,1500000.0,Chelsea,England,0.0,in,winter,Premier League,2008,False,
+Tottenham Hotspur,Kevin-Prince Boateng,21,Ghana,Attacking Midfield,AM,3500000.0,Bor. Dortmund,Germany,100000.0,out,winter,Premier League,2008,True,loan with fee
+Tottenham Hotspur,Danny Hutchins,19,England,Right-Back,RB,,Yeovil Town,England,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,900000.0,Carlisle United,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Andros Townsend,17,England,Right Winger,RW,,Yeovil Town,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,David Hutton,19,Ireland,midfield,midfield,,Cheltenham,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Jonathan Obika,18,England,Centre-Forward,CF,,Yeovil Town,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Danny Rose,18,England,Left-Back,LB,500000.0,Watford,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Giovani dos Santos,19,Mexico,Second Striker,SS,5500000.0,Ipswich,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Adel Taarabt,19,Morocco,Attacking Midfield,AM,2000000.0,QPR,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Chris Gunter,19,Wales,Right-Back,RB,3500000.0,Nottm Forest,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,David Button,20,England,Goalkeeper,GK,,Luton,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Paul Stalteri,31,Canada,Right-Back,RB,1500000.0,Bor. M'gladbach,Germany,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,Hossam Ghaly,27,Egypt,Central Midfield,CM,2000000.0,Al-Nassr,Saudi Arabia,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,Andy Barcham,22,England,Left Winger,LW,50000.0,Gillingham FC,England,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,Dorian Dervite,20,France,Centre-Back,CB,500000.0,Southend United,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,César Sánchez,37,Spain,Goalkeeper,GK,900000.0,Valencia,Spain,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,,Bournemouth,England,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Charlie Daniels,22,England,Left-Back,LB,,Leyton Orient,England,0.0,out,winter,Premier League,2008,False,
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,500000.0,Slavia Prague,Czech Republic,0.0,out,winter,Premier League,2008,True,free loan
+Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,250000.0,Without Club,,,out,winter,Premier League,2008,False,
+West Bromwich Albion,Borja Valero,23,Spain,Central Midfield,CM,3800000.0,RCD Mallorca,Spain,5900000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Scott Carson,22,England,Goalkeeper,GK,6000000.0,Liverpool,England,4000000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Gianni Zuiverloon,21,Netherlands,Centre-Back,CB,2500000.0,Heerenveen,Netherlands,4000000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Luke Moore,22,England,Centre-Forward,CF,3750000.0,Aston Villa,England,3750000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Abdoulaye Méïté,27,Cote d'Ivoire,Centre-Back,CB,3500000.0,Bolton,England,2600000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Marek Cech,25,Slovakia,Left-Back,LB,3500000.0,FC Porto,Portugal,1800000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Jonas Olsson,25,Sweden,Centre-Back,CB,1250000.0,NEC Nijmegen,Netherlands,1000000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Do-heon Kim,25,"Korea, South",Central Midfield,CM,900000.0,Seongnam Ilhwa,"Korea, South",720000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Graham Dorrans,21,Scotland,Central Midfield,CM,50000.0,Livingston FC,Scotland,300000.0,in,summer,Premier League,2008,False,
+West Bromwich Albion,Ryan Donk,22,Suriname,Centre-Back,CB,3000000.0,AZ Alkmaar,Netherlands,0.0,in,summer,Premier League,2008,True,free loan
+West Bromwich Albion,Curtis Davies,23,England,Centre-Back,CB,3500000.0,Aston Villa,England,10000000.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Zoltán Gera,29,Hungary,Central Midfield,CM,3500000.0,Fulham,England,0.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Martin Albrechtsen,28,Denmark,Centre-Back,CB,4000000.0,Derby,England,0.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Kevin Phillips,34,England,Centre-Forward,CF,3500000.0,Birmingham,England,0.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Stuart Nicholson,21,England,Centre-Forward,CF,50000.0,Tamworth,England,0.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Luke Daniels,20,England,Goalkeeper,GK,100000.0,Shrewsbury,England,0.0,out,summer,Premier League,2008,True,free loan
+West Bromwich Albion,Jared Hodgkiss,21,England,Right-Back,RB,150000.0,Aberdeen FC,Scotland,0.0,out,summer,Premier League,2008,True,free loan
+West Bromwich Albion,Lee Baker,19,England,Left-Back,LB,,Kidderminster,England,0.0,out,summer,Premier League,2008,False,
+West Bromwich Albion,Craig Beattie,24,Scotland,Centre-Forward,CF,2250000.0,Crystal Palace,England,0.0,out,summer,Premier League,2008,True,free loan
+West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,300000.0,Doncaster,England,0.0,out,summer,Premier League,2008,True,free loan
+West Bromwich Albion,Tininho,27,Portugal,Left-Back,LB,400000.0,Without Club,,,out,summer,Premier League,2008,False,
+West Bromwich Albion,Do-heon Kim,25,"Korea, South",Central Midfield,CM,900000.0,Seongnam Ilhwa,"Korea, South",0.0,out,summer,Premier League,2008,True,end of loan
+West Bromwich Albion,Luke Moore,22,England,Centre-Forward,CF,3750000.0,Aston Villa,England,0.0,out,summer,Premier League,2008,True,end of loan
+West Bromwich Albion,Youssouf Mulumbu,22,DR Congo,Defensive Midfield,DM,800000.0,Paris SG,France,250000.0,in,winter,Premier League,2008,True,loan with fee
+West Bromwich Albion,Jay Simpson,20,England,Centre-Forward,CF,,Arsenal Res.,England,0.0,in,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Marc-Antoine Fortuné,27,French Guiana,Centre-Forward,CF,3600000.0,AS Nancy,France,0.0,in,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Juan Carlos Menseguez,24,Argentina,Right Winger,RW,1500000.0,San Lorenzo,Argentina,0.0,in,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Bartosz Slusarski,27,Poland,Centre-Forward,CF,750000.0,Cracovia,Poland,250000.0,out,winter,Premier League,2008,False,
+West Bromwich Albion,Craig Beattie,25,Scotland,Centre-Forward,CF,2250000.0,Sheff Utd,England,0.0,out,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,400000.0,Northampton,England,0.0,out,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,300000.0,Doncaster,England,0.0,out,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Bartosz Slusarski,26,Poland,Centre-Forward,CF,900000.0,Sheff Wed,England,0.0,out,winter,Premier League,2008,True,free loan
+West Bromwich Albion,Sherjill MacDonald,24,Netherlands,Centre-Forward,CF,400000.0,KSV Roeselare,Belgium,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Valon Behrami,23,Switzerland,Defensive Midfield,DM,8000000.0,Lazio,Italy,6300000.0,in,summer,Premier League,2008,False,
+West Ham United,David Di Michele,32,Italy,Centre-Forward,CF,3300000.0,Torino,Italy,700000.0,in,summer,Premier League,2008,True,loan with fee
+West Ham United,Jan Lastuvka,26,Czech Republic,Goalkeeper,GK,1200000.0,Shakhtar D.,Ukraine,0.0,in,summer,Premier League,2008,True,free loan
+West Ham United,Wálter López,22,Uruguay,Left-Back,LB,400000.0,River Plate,Uruguay,0.0,in,summer,Premier League,2008,False,
+West Ham United,Hérita Ilunga,26,DR Congo,Left-Back,LB,3500000.0,Toulouse,France,0.0,in,summer,Premier League,2008,True,free loan
+West Ham United,Diego Tristán,32,Spain,Centre-Forward,CF,2000000.0,Without Club,,,in,summer,Premier League,2008,False,
+West Ham United,Javier Mascherano,24,Argentina,Defensive Midfield,DM,20000000.0,Liverpool,England,22500000.0,out,summer,Premier League,2008,False,
+West Ham United,Anton Ferdinand,23,England,Centre-Back,CB,4000000.0,Sunderland,England,10000000.0,out,summer,Premier League,2008,False,
+West Ham United,George McCartney,27,Northern Ireland,Left-Back,LB,4000000.0,Sunderland,England,5500000.0,out,summer,Premier League,2008,False,
+West Ham United,Bobby Zamora,27,England,Centre-Forward,CF,3000000.0,Fulham,England,4099999.9999999995,out,summer,Premier League,2008,False,
+West Ham United,John Paintsil,27,Ghana,Right-Back,RB,1500000.0,Fulham,England,3800000.0,out,summer,Premier League,2008,False,
+West Ham United,Richard Wright,30,England,Goalkeeper,GK,800000.0,Ipswich,England,630000.0,out,summer,Premier League,2008,False,
+West Ham United,Nolberto Solano,33,Peru,Right Midfield,RM,4000000.0,AE Larisa,Greece,0.0,out,summer,Premier League,2008,False,
+West Ham United,Jack Jeffery,19,England,midfield,midfield,,Leyton Orient,England,0.0,out,summer,Premier League,2008,True,free loan
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,600000.0,Birmingham,England,0.0,out,summer,Premier League,2008,True,free loan
+West Ham United,Freddie Ljungberg,31,Sweden,Right Winger,RW,5000000.0,Without Club,,,out,summer,Premier League,2008,False,
+West Ham United,Savio Nsereko,19,Germany,Right Winger,RW,1500000.0,Brescia,Italy,8500000.0,in,winter,Premier League,2008,False,
+West Ham United,Radoslav Kovac,29,Czech Republic,Centre-Back,CB,4700000.0,Spartak Moscow,Russia,500000.0,in,winter,Premier League,2008,True,loan with fee
+West Ham United,Péter Kurucz,20,Hungary,Goalkeeper,GK,,Újpest FC,Hungary,0.0,in,winter,Premier League,2008,True,free loan
+West Ham United,Terry Dixon,19,Ireland,Centre-Forward,CF,,Without Club,,,in,winter,Premier League,2008,False,
+West Ham United,Diego Tristán,32,Spain,Centre-Forward,CF,2000000.0,Without Club,,,in,winter,Premier League,2008,False,
+West Ham United,Craig Bellamy,29,Wales,Left Winger,LW,7500000.0,Man City,England,15500000.0,out,winter,Premier League,2008,False,
+West Ham United,Matthew Etherington,27,England,Left Midfield,LM,4000000.0,Stoke City,England,3000000.0,out,winter,Premier League,2008,False,
+West Ham United,Hayden Mullins,29,England,Defensive Midfield,DM,4500000.0,Portsmouth,England,2300000.0,out,winter,Premier League,2008,False,
+West Ham United,Julien Faubert,25,Martinique,Right-Back,RB,7000000.0,Real Madrid,Spain,1500000.0,out,winter,Premier League,2008,True,loan with fee
+West Ham United,Tony Stokes,22,England,Central Midfield,CM,100000.0,Újpest FC,Hungary,0.0,out,winter,Premier League,2008,False,
+West Ham United,Junior Stanislas,19,England,Left Winger,LW,,Southend United,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Jimmy Walker,35,England,Goalkeeper,GK,150000.0,Colchester Utd.,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,James Tomkins,19,England,Centre-Back,CB,800000.0,Derby,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Kyel Reid,20,England,Left Winger,LW,500000.0,Blackpool,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Jordan Spence,18,England,Right-Back,RB,50000.0,Leyton Orient,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,600000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Marek Stech,19,Czech Republic,Goalkeeper,GK,100000.0,Wycombe,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Jack Jeffery,19,England,midfield,midfield,,Eastbourne,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Calum Davenport,26,England,Centre-Back,CB,700000.0,Sunderland,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Lorcan Fitzgerald,19,Ireland,Left-Back,LB,,Sporting Fingal,Ireland,0.0,out,winter,Premier League,2008,False,
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,600000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Kyel Reid,21,England,Left Winger,LW,500000.0,Wolves,England,0.0,out,winter,Premier League,2008,True,free loan
+West Ham United,Lee Bowyer,31,England,Central Midfield,CM,3000000.0,Birmingham,England,0.0,out,winter,Premier League,2008,True,free loan
+Wigan Athletic,Olivier Kapo,27,France,Attacking Midfield,AM,3500000.0,Birmingham,England,4400000.0,in,summer,Premier League,2008,False,
+Wigan Athletic,Lee Cattermole,20,England,Defensive Midfield,DM,2000000.0,Middlesbrough,England,4400000.0,in,summer,Premier League,2008,False,
+Wigan Athletic,Amr Zaki,25,Egypt,Centre-Forward,CF,2300000.0,Zamalek,Egypt,2000000.0,in,summer,Premier League,2008,True,loan with fee
+Wigan Athletic,Daniël de Ridder,24,Netherlands,Left Winger,LW,2000000.0,Birmingham,England,0.0,in,summer,Premier League,2008,False,
+Wigan Athletic,Richard Kingson,30,Ghana,Goalkeeper,GK,500000.0,Birmingham,England,0.0,in,summer,Premier League,2008,False,
+Wigan Athletic,David Cotterill,20,Wales,Right Winger,RW,2000000.0,Sheff Utd,England,2600000.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Julius Aghahowa,26,Nigeria,Centre-Forward,CF,1500000.0,Kayserispor,Turkey,1000000.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Andreas Granqvist,23,Sweden,Centre-Back,CB,2000000.0,FC Groningen,Netherlands,1000000.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Andy Webster,26,Scotland,Centre-Back,CB,1500000.0,Rangers,Scotland,350000.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Josip Skoko,32,Australia,Central Midfield,CM,1750000.0,Hajduk Split,Croatia,0.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Salomon Olembé,27,Cameroon,Left Midfield,LM,1250000.0,Kayserispor,Turkey,0.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,,Northwich Victoria,England,0.0,out,summer,Premier League,2008,False,
+Wigan Athletic,Marlon King,28,Jamaica,Centre-Forward,CF,3000000.0,Hull City,England,0.0,out,summer,Premier League,2008,True,free loan
+Wigan Athletic,Rachid Bouaouzan,24,Netherlands,Left Midfield,LM,450000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Premier League,2008,True,free loan
+Wigan Athletic,Luke Ashworth,18,England,Centre-Back,CB,,Leyton Orient,England,0.0,out,summer,Premier League,2008,True,free loan
+Wigan Athletic,Antoine Sibierski,34,France,Attacking Midfield,AM,1800000.0,Norwich,England,0.0,out,summer,Premier League,2008,True,free loan
+Wigan Athletic,Lewis Montrose,19,England,Central Midfield,CM,100000.0,Cheltenham,England,0.0,out,summer,Premier League,2008,True,free loan
+Wigan Athletic,Russell Saunders,19,England,Goalkeeper,GK,100000.0,Stalybridge II,England,,out,summer,Premier League,2008,False,
+Wigan Athletic,Carlo Nash,34,England,Goalkeeper,GK,300000.0,Everton,England,,out,summer,Premier League,2008,False,
+Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,,Northwich Victoria,England,,out,summer,Premier League,2008,False,
+Wigan Athletic,Charles N'Zogbia,22,France,Right Winger,RW,7000000.0,Newcastle,England,6400000.0,in,winter,Premier League,2008,False,
+Wigan Athletic,Hugo Rodallega,23,Colombia,Centre-Forward,CF,4000000.0,Necaxa,Mexico,4800000.0,in,winter,Premier League,2008,False,
+Wigan Athletic,Ben Watson,23,England,Central Midfield,CM,700000.0,Crystal Palace,England,2100000.0,in,winter,Premier League,2008,False,
+Wigan Athletic,Mido,25,Egypt,Centre-Forward,CF,4000000.0,Middlesbrough,England,0.0,in,winter,Premier League,2008,True,free loan
+Wigan Athletic,Maynor Figueroa,25,Honduras,Centre-Back,CB,500000.0,Olimpia,Honduras,,in,winter,Premier League,2008,False,
+Wigan Athletic,Won-hee Cho,25,"Korea, South",Defensive Midfield,DM,1800000.0,Suwon Bluewings,"Korea, South",,in,winter,Premier League,2008,False,
+Wigan Athletic,Wilson Palacios,24,Honduras,Defensive Midfield,DM,3500000.0,Spurs,England,15000000.0,out,winter,Premier League,2008,False,
+Wigan Athletic,Emile Heskey,31,England,Centre-Forward,CF,5000000.0,Aston Villa,England,3700000.0,out,winter,Premier League,2008,False,
+Wigan Athletic,Kevin Kilbane,31,Ireland,Left Midfield,LM,3500000.0,Hull City,England,550000.0,out,winter,Premier League,2008,False,
+Wigan Athletic,Ryan Taylor,24,England,Right-Back,RB,1500000.0,Newcastle,England,300000.0,out,winter,Premier League,2008,False,
+Wigan Athletic,Luke Ashworth,19,England,Centre-Back,CB,,Leyton Orient,England,0.0,out,winter,Premier League,2008,False,
+Wigan Athletic,Marlon King,28,Jamaica,Centre-Forward,CF,3000000.0,Middlesbrough,England,0.0,out,winter,Premier League,2008,True,free loan
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,100000.0,Cheltenham,England,0.0,out,winter,Premier League,2008,True,free loan
+Wigan Athletic,Henri Camara,31,Senegal,Centre-Forward,CF,2000000.0,Stoke City,England,0.0,out,winter,Premier League,2008,True,free loan
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,100000.0,Chesterfield FC,England,0.0,out,winter,Premier League,2008,True,free loan
+Wigan Athletic,Craig Mahon,19,Ireland,Left Winger,LW,,Accrington,England,0.0,out,winter,Premier League,2008,True,free loan

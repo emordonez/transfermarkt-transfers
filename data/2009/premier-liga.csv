@@ -1,0 +1,424 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Amkar Perm,Dimitar Telkiyski,32,Bulgaria,Right Winger,RW,350000.0,Hapoel Tel Aviv,Israel,0.0,in,summer,Premier Liga,2009,False,
+Amkar Perm,Victor,20,Brazil,Centre-Forward,CF,100000.0,Frosinone,Italy,,in,summer,Premier Liga,2009,False,
+Amkar Perm,Aleksey Epifanov,26,Russia,Centre-Back,CB,200000.0,SKA-Energia,Russia,,in,summer,Premier Liga,2009,False,
+Amkar Perm,Stjepan Babic,20,Croatia,Defensive Midfield,DM,125000.0,Baltika,Russia,,in,summer,Premier Liga,2009,False,
+Amkar Perm,Dimitar Telkiyski,32,Bulgaria,Right Winger,RW,350000.0,Levski Sofia,Bulgaria,0.0,out,summer,Premier Liga,2009,False,
+Amkar Perm,Edin Junuzovic,23,Croatia,Centre-Forward,CF,800000.0,Dinamo Bryansk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Amkar Perm,Ivan Starkov,23,Russia,Left Winger,LW,700000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Amkar Perm,Josip Knezevic,21,Croatia,Attacking Midfield,AM,1100000.0,NK Osijek,Croatia,500000.0,in,winter,Premier Liga,2009,False,
+Amkar Perm,Aleksey Popov,31,Kazakhstan,Centre-Back,CB,1700000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2009,False,
+Amkar Perm,Nikita Burmistrov,20,Russia,Right Winger,RW,200000.0,CSKA Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Amkar Perm,Aleksandr Kolomeytsev,21,Russia,Central Midfield,CM,100000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Amkar Perm,Denys Dedechko,22,Ukraine,Defensive Midfield,DM,200000.0,Dynamo 2 Kyiv,Ukraine,,in,winter,Premier Liga,2009,False,
+Amkar Perm,Andrey Topchu,29,Russia,Left Winger,LW,1200000.0,Kuban Krasnodar,Russia,,in,winter,Premier Liga,2009,False,
+Amkar Perm,Nikolay Zhilyaev,22,Russia,Right Winger,RW,650000.0,Kuban Krasnodar,Russia,250000.0,out,winter,Premier Liga,2009,False,
+Amkar Perm,Nikola Drincic,25,Montenegro,Defensive Midfield,DM,3000000.0,Spartak Moscow,Russia,0.0,out,winter,Premier Liga,2009,False,
+Amkar Perm,Ivan Starkov,23,Russia,Left Winger,LW,700000.0,SKA-Energia,Russia,0.0,out,winter,Premier Liga,2009,False,
+Amkar Perm,Predrag Sikimic,27,Serbia,Centre-Forward,CF,500000.0,Ural,Russia,0.0,out,winter,Premier Liga,2009,False,
+Amkar Perm,Dimitar Telkiyski,32,Bulgaria,Right Winger,RW,350000.0,Levski Sofia,Bulgaria,0.0,out,winter,Premier Liga,2009,False,
+Amkar Perm,Vyacheslav Krendelev,27,Turkmenistan,Left Midfield,LM,300000.0,Baltika,Russia,,out,winter,Premier Liga,2009,False,
+Amkar Perm,Stjepan Babic,21,Croatia,Defensive Midfield,DM,125000.0,NK Zagreb,Croatia,,out,winter,Premier Liga,2009,False,
+Amkar Perm,William,27,Brazil,Left-Back,LB,650000.0,Shinnik,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Amkar Perm,Aleksey Epifanov,26,Russia,Centre-Back,CB,200000.0,Rotor Volgograd,Russia,,out,winter,Premier Liga,2009,False,
+Amkar Perm,Jean Carlos,25,Brazil,Centre-Forward,CF,1500000.0,Shinnik,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Amkar Perm,Mikhail Afanasjev,23,Belarus,Right Midfield,RM,500000.0,Kuban Krasnodar,Russia,,out,winter,Premier Liga,2009,False,
+Amkar Perm,Artur Stepanyan,22,Armenia,Centre-Back,CB,100000.0,Gazovik Orenburg,Russia,,out,winter,Premier Liga,2009,False,
+Amkar Perm,Marius Papsys,20,Lithuania,Right Winger,RW,,FC Klaipeda,Lithuania,,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Artur Maloyan,20,Russia,Centre-Forward,CF,400000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Konstantin Sovetkin,20,Russia,Central Midfield,CM,300000.0,Spartak II,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Anton Vlasov,20,Russia,Centre-Back,CB,300000.0,CSKA Moscow II,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Alan Kusov,27,Russia,Left Midfield,LM,500000.0,Standard Sumqayit,Azerbaijan,,in,summer,Premier Liga,2009,False,
+Anzhi Makhachkala,Evgeniy Shcherbakov,23,Russia,Attacking Midfield,AM,500000.0,Unknown,,0.0,out,summer,Premier Liga,2009,False,
+Anzhi Makhachkala,Artem Stepanov,21,Russia,Goalkeeper,GK,50000.0,Lokomotiv 2,Russia,,out,summer,Premier Liga,2009,False,
+Anzhi Makhachkala,Konstantin Zuev,27,Russia,Central Midfield,CM,450000.0,Zhemchuzhina,Russia,,out,summer,Premier Liga,2009,False,
+Anzhi Makhachkala,Nazir Kazharov,22,Russia,Centre-Forward,CF,1000000.0,Spartak Nalchik,Russia,0.0,out,summer,Premier Liga,2009,True,end of loan
+Anzhi Makhachkala,Sergey Serdyukov,28,Russia,Centre-Forward,CF,350000.0,Terek Grozny,Russia,0.0,out,summer,Premier Liga,2009,True,end of loan
+Anzhi Makhachkala,Todor Timonov,23,Bulgaria,Attacking Midfield,AM,,CSKA Sofia,Bulgaria,350000.0,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Mahir Shukurov,27,Azerbaijan,Right-Back,RB,250000.0,Inter Baku,Azerbaijan,200000.0,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Mitar Pekovic,28,Montenegro,Centre-Back,CB,650000.0,Vojvodina,Serbia,0.0,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Nukri Revishvili,22,Georgia,Goalkeeper,GK,400000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Andrey Streltsov,25,Russia,Second Striker,SS,150000.0,Khimki,Russia,0.0,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Jan Holenda,24,Czech Republic,Centre-Forward,CF,950000.0,Sparta Prague,Czech Republic,,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Davit Kvirkvelia,29,Georgia,Left-Back,LB,2000000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,William,27,Brazil,Centre-Forward,CF,1700000.0,Paços Ferreira,Portugal,,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Revaz Barabadze,21,Georgia,Centre-Forward,CF,200000.0,Career break,,,in,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Aleksandr Danishevski,25,Russia,Centre-Forward,CF,700000.0,Zhemchuzhina,Russia,0.0,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Oleg Malyukov,24,Russia,Centre-Back,CB,100000.0,Kuban Krasnodar,Russia,0.0,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Viktor Chakrygin,25,Russia,Goalkeeper,GK,150000.0,Rusichi Orel,Russia,0.0,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Daniil Gridnev,24,Russia,Defensive Midfield,DM,300000.0,KS Samara,Russia,0.0,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Sandro Iashvili,24,Georgia,Centre-Forward,CF,325000.0,Metalurgi R.,Georgia,0.0,out,winter,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Alan Kusov,28,Russia,Left Midfield,LM,150000.0,Torpedo Moscow,Russia,,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Edik Sajaia,28,Georgia,Centre-Back,CB,250000.0,Volga NN,Russia,,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Otar Martsvaladze,25,Georgia,Second Striker,SS,400000.0,Volga NN,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Giorgi Navalovski,23,Georgia,Left-Back,LB,700000.0,Inter Baku,Azerbaijan,0.0,out,winter,Premier Liga,2009,True,free loan
+Anzhi Makhachkala,Valerian Bestaev,27,Russia,Right-Back,RB,400000.0,Retired,,,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Kakhaber Aladashvili,26,Georgia,Right-Back,RB,400000.0,Without Club,,,out,winter,Premier Liga,2009,False,
+Anzhi Makhachkala,Vartan Mazalov,26,Russia,Centre-Forward,CF,500000.0,Career break,,,out,winter,Premier Liga,2009,False,
+CSKA Moscow,Mark González,25,Chile,Left Winger,LW,5000000.0,Real Betis,Spain,6500000.0,in,summer,Premier Liga,2009,False,
+CSKA Moscow,Guilherme,20,Brazil,Attacking Midfield,AM,8000000.0,Dynamo Kyiv,Ukraine,700000.0,in,summer,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Sekou Oliseh,19,Liberia,Right Winger,RW,150000.0,FC Midtjylland,Denmark,100000.0,in,summer,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Nika Piliev,18,Russia,Left Midfield,LM,50000.0,Loko Moscow II,Russia,0.0,in,summer,Premier Liga,2009,False,
+CSKA Moscow,Yuri Zhirkov,25,Russia,Left-Back,LB,20000000.0,Chelsea,England,21000000.0,out,summer,Premier Liga,2009,False,
+CSKA Moscow,Caner Erkin,20,Turkey,Left-Back,LB,2000000.0,Galatasaray,Turkey,400000.0,out,summer,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Daniel Carvalho,27,Brazil,Attacking Midfield,AM,1800000.0,Atlético-MG,Brazil,0.0,out,summer,Premier Liga,2009,False,
+CSKA Moscow,Ramón,21,Brazil,Attacking Midfield,AM,1800000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+CSKA Moscow,Vágner Love,25,Brazil,Centre-Forward,CF,22000000.0,Palmeiras,Brazil,0.0,out,summer,Premier Liga,2009,True,free loan
+CSKA Moscow,Lubos Kalouda,22,Czech Republic,Attacking Midfield,AM,2300000.0,Sparta Prague,Czech Republic,0.0,out,summer,Premier Liga,2009,True,free loan
+CSKA Moscow,Dmitri Ryzhov,19,Russia,Centre-Forward,CF,550000.0,Spartak V-kavkaz,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+CSKA Moscow,Keisuke Honda,23,Japan,Attacking Midfield,AM,3000000.0,VVV-Venlo,Netherlands,6000000.0,in,winter,Premier Liga,2009,False,
+CSKA Moscow,Sekou Oliseh,19,Liberia,Right Winger,RW,550000.0,FC Midtjylland,Denmark,540000.0,in,winter,Premier Liga,2009,False,
+CSKA Moscow,Sergey Chepchugov,24,Russia,Goalkeeper,GK,800000.0,Sibir,Russia,0.0,in,winter,Premier Liga,2009,False,
+CSKA Moscow,Kirill Nababkin,23,Russia,Right-Back,RB,2000000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+CSKA Moscow,Moussa Maazou,21,Niger,Centre-Forward,CF,2200000.0,Monaco,France,700000.0,out,winter,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Daniel Carvalho,26,Brazil,Attacking Midfield,AM,1800000.0,Al-Arabi SC,Qatar,350000.0,out,winter,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Dawid Janczyk,22,Poland,Centre-Forward,CF,1500000.0,Germ. Beerschot,Belgium,150000.0,out,winter,Premier Liga,2009,True,loan with fee
+CSKA Moscow,Ricardo Jesus,24,Brazil,Centre-Forward,CF,500000.0,AE Larisa,Greece,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Vágner Love,25,Brazil,Centre-Forward,CF,9000000.0,Flamengo,Brazil,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Ramón,21,Brazil,Attacking Midfield,AM,1400000.0,Flamengo,Brazil,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Dmitri Ryzhov,20,Russia,Centre-Forward,CF,550000.0,Ural,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Nikita Burmistrov,20,Russia,Right Winger,RW,200000.0,Amkar Perm,Russia,0.0,out,winter,Premier Liga,2009,False,
+CSKA Moscow,Anton Grigorjev,24,Russia,Centre-Back,CB,800000.0,Kuban Krasnodar,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Veniamin Mandrykin,28,Russia,Goalkeeper,GK,750000.0,Spartak Nalchik,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+CSKA Moscow,Evgeniy Pomazan,20,Russia,Goalkeeper,GK,500000.0,Ural,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Dinamo Moscow,Luis Aguiar,23,Uruguay,Central Midfield,CM,2000000.0,Braga,Portugal,3000000.0,in,summer,Premier Liga,2009,False,
+Dinamo Moscow,Aleksandr Denisov,21,Russia,Centre-Back,CB,650000.0,Dinamo Bryansk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Dinamo Moscow,Igor Semshov,31,Russia,Central Midfield,CM,3500000.0,Zenit S-Pb,Russia,4700000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Aleksandr Samedov,25,Russia,Right Winger,RW,3800000.0,FC Moscow,Russia,4500000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Edgaras Cesnauskis,25,Lithuania,Left Winger,LW,3700000.0,FC Moscow,Russia,4200000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Alexandru Epureanu,23,Moldova,Centre-Back,CB,3200000.0,FC Moscow,Russia,2500000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Andriy Voronin,30,Ukraine,Second Striker,SS,6000000.0,Liverpool,England,2000000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Aleksey Rebko,23,Russia,Central Midfield,CM,4500000.0,FC Moscow,Russia,1500000.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Yuri Kirillov,19,Russia,Defensive Midfield,DM,350000.0,Khimki,Russia,0.0,in,winter,Premier Liga,2009,False,
+Dinamo Moscow,Aleksandr Kerzhakov,27,Russia,Centre-Forward,CF,8500000.0,Zenit S-Pb,Russia,6500000.0,out,winter,Premier Liga,2009,False,
+Dinamo Moscow,Jovan Tanasijevic,31,Montenegro,Centre-Back,CB,950000.0,Salyut Belgorod,Russia,0.0,out,winter,Premier Liga,2009,False,
+Dinamo Moscow,Ruslan Pimenov,28,Russia,Centre-Forward,CF,300000.0,Dinamo Minsk,Belarus,0.0,out,winter,Premier Liga,2009,False,
+Dinamo Moscow,Zydrunas Karcemarskas,26,Lithuania,Goalkeeper,GK,500000.0,Gaziantepspor,Turkey,0.0,out,winter,Premier Liga,2009,False,
+Dinamo Moscow,Tsvetan Genkov,25,Bulgaria,Centre-Forward,CF,700000.0,Lok. Sofia,Bulgaria,0.0,out,winter,Premier Liga,2009,True,free loan
+Dinamo Moscow,Luis Aguiar,24,Uruguay,Central Midfield,CM,2500000.0,Braga,Portugal,0.0,out,winter,Premier Liga,2009,True,free loan
+Dinamo Moscow,Yuri Kirillov,19,Russia,Defensive Midfield,DM,500000.0,Spartak V-kavkaz,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Dinamo Moscow,Aleksandr Dimidko,23,Russia,Centre-Back,CB,800000.0,SKA-Energia,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+FK Rostov,Aleksandr Salugin,20,Russia,Centre-Forward,CF,600000.0,KS Samara,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+FK Rostov,Evgeniy Lutsenko,22,Russia,Centre-Forward,CF,450000.0,Stavropolje,Russia,,in,summer,Premier Liga,2009,False,
+FK Rostov,Petr Gitselov,26,Russia,Right Winger,RW,200000.0,Rubin 2,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+FK Rostov,Aleksandr Pavlenko,24,Russia,Central Midfield,CM,1700000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+FK Rostov,Artur Valikaev,21,Russia,Defensive Midfield,DM,100000.0,FK Novgorod,Russia,,in,summer,Premier Liga,2009,False,
+FK Rostov,Astemir Sheriev,19,Russia,Centre-Back,CB,,Spartak N. II,Russia,,in,summer,Premier Liga,2009,False,
+FK Rostov,Tomislav Zivko,21,Croatia,Left Midfield,LM,250000.0,Ventspils,Latvia,0.0,out,summer,Premier Liga,2009,False,
+FK Rostov,Aleksandr Ponomarev,23,Russia,Centre-Back,CB,200000.0,Vityaz Podolsk,Russia,,out,summer,Premier Liga,2009,False,
+FK Rostov,Sorin Ghionea,30,Romania,Centre-Back,CB,2250000.0,Steaua Bukarest,Romania,100000.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Isaac Okoronkwo,31,Nigeria,Centre-Back,CB,1200000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Timofey Kalachev,28,Belarus,Right Midfield,RM,2500000.0,KS Samara,Russia,0.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Dejan Radic,29,Serbia,Goalkeeper,GK,500000.0,Spartak Nalchik,Russia,0.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Anton Amelchenko,24,Belarus,Goalkeeper,GK,1000000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Dragan Blatnjak,28,Bosnia-Herzegovina,Right Winger,RW,800000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+FK Rostov,Stanislav Ivanov,29,Moldova,Central Midfield,CM,1500000.0,Loko Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+FK Rostov,Anri Khagush,23,Russia,Right-Back,RB,750000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+FK Rostov,Gia Grigalava,20,Georgia,Centre-Back,CB,1800000.0,SKA Rostov,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+FK Rostov,Roman Adamov,27,Russia,Centre-Forward,CF,1500000.0,Rubin Kazan,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+FK Rostov,Andrey Proshin,24,Russia,Centre-Back,CB,350000.0,Spartak V-kavkaz,Russia,,in,winter,Premier Liga,2009,False,
+FK Rostov,Maksim Kabanov,27,Russia,Goalkeeper,GK,650000.0,SKA-Energia,Russia,,in,winter,Premier Liga,2009,False,
+FK Rostov,Aleksandr Pavlenko,24,Russia,Central Midfield,CM,1500000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+FK Rostov,Branimir Petrovic,27,Serbia,Central Midfield,CM,800000.0,KS Samara,Russia,500000.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Mikhail Osinov,34,Russia,Defensive Midfield,DM,650000.0,Ural,Russia,0.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Maksim Astafjev,27,Russia,Right Winger,RW,400000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Nenad Sljivic,24,Serbia,Defensive Midfield,DM,500000.0,Jagodina,Serbia,0.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Mikhail Kozlov,23,Russia,Right Winger,RW,500000.0,Dinamo SPb,Russia,0.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Roman Gerus,29,Russia,Goalkeeper,GK,650000.0,Loko Astana,Kazakhstan,0.0,out,winter,Premier Liga,2009,False,
+FK Rostov,Mikhail Rozhkov,26,Kazakhstan,Centre-Back,CB,700000.0,Loko Astana,Kazakhstan,,out,winter,Premier Liga,2009,False,
+FK Rostov,Stanislav Khoteev,28,Russia,Goalkeeper,GK,125000.0,Shinnik,Russia,,out,winter,Premier Liga,2009,False,
+FK Rostov,Yakov Erlikh,21,Russia,Centre-Forward,CF,50000.0,Rotor Volgograd,Russia,,out,winter,Premier Liga,2009,False,
+FK Rostov,Astemir Sheriev,20,Russia,Centre-Back,CB,75000.0,FK Novgorod,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+FK Rostov,Sergey Kuznetsov,23,Russia,Central Midfield,CM,400000.0,Khimki,Russia,,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Nenad Djordjevic,30,Serbia,Centre-Back,CB,2500000.0,Partizan,Serbia,100000.0,in,summer,Premier Liga,2009,False,
+Krylya Sovetov Samara,Krzysztof Lagiewka,27,Poland,Centre-Back,CB,100000.0,Kuban Krasnodar,Russia,0.0,in,summer,Premier Liga,2009,False,
+Krylya Sovetov Samara,Roman Adamov,27,Russia,Centre-Forward,CF,2200000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Ramón,21,Brazil,Attacking Midfield,AM,1800000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Stanislav Ivanov,28,Moldova,Central Midfield,CM,1500000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Denis Kovba,29,Belarus,Defensive Midfield,DM,1200000.0,Sparta Prague,Czech Republic,0.0,out,summer,Premier Liga,2009,False,
+Krylya Sovetov Samara,David Yurchenko,24,Armenia,Goalkeeper,GK,150000.0,Volgar-Gazprom,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Sergey Politevich,19,Belarus,Centre-Back,CB,150000.0,Naftan,Belarus,0.0,out,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Aleksandr Salugin,20,Russia,Centre-Forward,CF,600000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Juan Carlos Escobar,26,Colombia,Right Midfield,RM,2600000.0,Cúcuta Dep.,Colombia,0.0,out,summer,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Beom-seok Oh,24,"Korea, South",Defensive Midfield,DM,2300000.0,Ulsan Hyundai,"Korea, South",,out,summer,Premier Liga,2009,False,
+Krylya Sovetov Samara,Branimir Petrovic,27,Serbia,Central Midfield,CM,800000.0,Rostov,Russia,500000.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Vladimir Khozin,20,Russia,Centre-Back,CB,100000.0,FC Moscow II,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Aleksandr Stavpets,20,Russia,Right Winger,RW,500000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Igor Strelkov,27,Russia,Centre-Forward,CF,800000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Daniil Gridnev,24,Russia,Defensive Midfield,DM,300000.0,Anzhi,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Aleksey Kontsedalov,19,Russia,Centre-Back,CB,50000.0,FC Moscow II,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Aleksandr Alkhazov,25,Russia,Centre-Forward,CF,750000.0,KamAZ,Russia,0.0,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Oleg Samsonov,22,Russia,Right Winger,RW,1200000.0,Zenit S-Pb,Russia,,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Nikolay Tsygan,25,Russia,Goalkeeper,GK,450000.0,Spartak V-kavkaz,Russia,,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Farkhod Vasiev,19,Tajikistan,Left-Back,LB,200000.0,Saturn II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Krylya Sovetov Samara,Goran Drmic,22,Bosnia-Herzegovina,Right-Back,RB,75000.0,FC Moscow,Russia,,in,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Jiri Jarosik,32,Czech Republic,Centre-Back,CB,3200000.0,Real Zaragoza,Spain,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Jan Koller,36,Czech Republic,Centre-Forward,CF,2500000.0,Cannes,France,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Vladislav Ignatjev,22,Russia,Right-Back,RB,2800000.0,Loko Moscow,Russia,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Vladislav Kulik,24,Russia,Central Midfield,CM,1800000.0,Kuban Krasnodar,Russia,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Timofey Kalachev,28,Belarus,Right Midfield,RM,2500000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Aleksandr Budakov,24,Russia,Goalkeeper,GK,350000.0,Kuban Krasnodar,Russia,0.0,out,winter,Premier Liga,2009,False,
+Krylya Sovetov Samara,Juan Carlos Escobar,27,Colombia,Right Midfield,RM,2600000.0,Deportivo Cali,Colombia,0.0,out,winter,Premier Liga,2009,True,free loan
+Lokomotiv Moscow,Wagner,24,Brazil,Attacking Midfield,AM,4500000.0,Cruzeiro,Brazil,6000000.0,in,summer,Premier Liga,2009,False,
+Lokomotiv Moscow,Sani Kaita,23,Nigeria,Defensive Midfield,DM,700000.0,Monaco,France,0.0,in,summer,Premier Liga,2009,True,free loan
+Lokomotiv Moscow,Sergey Efimov,21,Russia,Centre-Back,CB,250000.0,Career break,,,in,summer,Premier Liga,2009,False,
+Lokomotiv Moscow,Diniyar Bilyaletdinov,24,Russia,Attacking Midfield,AM,6700000.0,Everton,England,10000000.0,out,summer,Premier Liga,2009,False,
+Lokomotiv Moscow,Fininho,25,Brazil,Left-Back,LB,700000.0,Sport Recife,Brazil,0.0,out,summer,Premier Liga,2009,False,
+Lokomotiv Moscow,Stanislav Ivanov,28,Moldova,Central Midfield,CM,1500000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Lokomotiv Moscow,Igor Smolnikov,20,Russia,Right-Back,RB,650000.0,Chita,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Lokomotiv Moscow,Guillermo Pereyra,29,Argentina,Central Midfield,CM,800000.0,Real Murcia,Spain,,out,summer,Premier Liga,2009,False,
+Lokomotiv Moscow,Oleksandr Aliyev,24,Ukraine,Attacking Midfield,AM,7000000.0,Dynamo Kyiv,Ukraine,8000000.0,in,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Maicón,20,Brazil,Centre-Forward,CF,2000000.0,Desp. Brasil,Brazil,4000000.0,in,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Dmitri Tarasov,22,Russia,Defensive Midfield,DM,3500000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Vladislav Ignatjev,22,Russia,Right-Back,RB,2800000.0,KS Samara,Russia,0.0,in,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Branko Ilic,27,Slovenia,Centre-Back,CB,700000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Djiby Fall,24,Senegal,Centre-Forward,CF,1800000.0,Molde,Norway,500000.0,out,winter,Premier Liga,2009,True,loan with fee
+Lokomotiv Moscow,Jan Durica,28,Slovakia,Centre-Back,CB,2100000.0,Hannover 96,Germany,300000.0,out,winter,Premier Liga,2009,True,loan with fee
+Lokomotiv Moscow,Roman Kontsedalov,23,Russia,Central Midfield,CM,800000.0,Spartak Nalchik,Russia,0.0,out,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Razvan Cocis,26,Romania,Central Midfield,CM,2400000.0,FC Timisoara,Romania,0.0,out,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Stanislav Ivanov,29,Moldova,Central Midfield,CM,1500000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Lokomotiv Moscow,Ivan Levenets,29,Russia,Goalkeeper,GK,800000.0,Career break,,,out,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,David Mujiri,31,Georgia,Attacking Midfield,AM,1000000.0,Without Club,,,out,winter,Premier Liga,2009,False,
+Lokomotiv Moscow,Eldin Jakupovic,25,Switzerland,Goalkeeper,GK,1250000.0,Without Club,,,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Alan Kasaev,23,Russia,Left Winger,LW,2500000.0,Kuban Krasnodar,Russia,5000000.0,in,summer,Premier Liga,2009,False,
+Rubin Kazan,Rafal Murawski,27,Poland,Central Midfield,CM,2400000.0,Lech Poznan,Poland,3200000.0,in,summer,Premier Liga,2009,False,
+Rubin Kazan,Roman Adamov,27,Russia,Centre-Forward,CF,2200000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Rubin Kazan,Sergiy Rebrov,35,Ukraine,Second Striker,SS,3000000.0,Retired,,,out,summer,Premier Liga,2009,False,
+Rubin Kazan,Fatih Tekke,32,Turkey,Centre-Forward,CF,4500000.0,Zenit S-Pb,Russia,2000000.0,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Jordi Figueras,22,Spain,Centre-Back,CB,600000.0,Celta de Vigo,Spain,850000.0,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Bibras Natcho,22,Israel,Central Midfield,CM,1000000.0,Hapoel Tel Aviv,Israel,650000.0,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Ilie Cebanu,23,Moldova,Goalkeeper,GK,100000.0,Wisla Kraków,Poland,50000.0,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Vitali Kaleshin,29,Russia,Right-Back,RB,1700000.0,FC Moscow,Russia,,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Bakhodir Nasimov,22,Uzbekistan,Centre-Forward,CF,,Dinamo,Uzbekistan,,in,winter,Premier Liga,2009,False,
+Rubin Kazan,Gabriel,28,Brazil,Centre-Back,CB,1000000.0,Chern. Burgas,Bulgaria,0.0,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Alejandro Domínguez,28,Argentina,Attacking Midfield,AM,14000000.0,Valencia,Spain,0.0,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Nukri Revishvili,22,Georgia,Goalkeeper,GK,400000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Aleksey Popov,31,Kazakhstan,Centre-Back,CB,1700000.0,Amkar Perm,Russia,0.0,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Stjepan Tomas,33,Croatia,Centre-Back,CB,800000.0,Gaziantepspor,Turkey,0.0,out,winter,Premier Liga,2009,False,
+Rubin Kazan,Anri Khagush,23,Russia,Right-Back,RB,750000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Rubin Kazan,Roman Adamov,27,Russia,Centre-Forward,CF,1500000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Rubin Kazan,Davit Kvirkvelia,29,Georgia,Left-Back,LB,2000000.0,Anzhi,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Rubin Kazan,Sergey Kozko,34,Russia,Goalkeeper,GK,350000.0,Career break,,,out,winter,Premier Liga,2009,False,
+Saturn Ramenskoe,Yevgen Levchenko,31,Ukraine,Central Midfield,CM,1250000.0,FC Groningen,Netherlands,0.0,in,summer,Premier Liga,2009,False,
+Saturn Ramenskoe,Dmitri Parfenov,34,Russia,Right-Back,RB,200000.0,Inter-2005 M.,Russia,0.0,in,summer,Premier Liga,2009,False,
+Saturn Ramenskoe,Dmitri Grachev,25,Russia,Centre-Back,CB,500000.0,KamAZ,Russia,,in,summer,Premier Liga,2009,False,
+Saturn Ramenskoe,Aleksandr Makarov,30,Russia,Goalkeeper,GK,800000.0,Career break,,,in,summer,Premier Liga,2009,False,
+Saturn Ramenskoe,Aleksey Eremenko Jr.,26,Finland,Attacking Midfield,AM,2200000.0,Metalist,Ukraine,0.0,out,summer,Premier Liga,2009,False,
+Saturn Ramenskoe,Denis Boyarintsev,31,Russia,Right Midfield,RM,800000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Saturn Ramenskoe,Dmitri Kudryashov,26,Russia,Central Midfield,CM,350000.0,Luch Vladivostok,Russia,0.0,in,winter,Premier Liga,2009,False,
+Saturn Ramenskoe,Martin Jakubko,29,Slovakia,Centre-Forward,CF,1800000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Saturn Ramenskoe,Aleksey Botvinjev,28,Russia,Goalkeeper,GK,300000.0,Krasnodar,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Saturn Ramenskoe,Aleksandr Makarov,31,Russia,Goalkeeper,GK,500000.0,Dinamo SPb,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Gennadi Bliznyuk,28,Belarus,Centre-Forward,CF,500000.0,FSV Frankfurt,Germany,0.0,in,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Nikolay Lipatkin,23,Russia,Defensive Midfield,DM,75000.0,MVD Rossii,Russia,0.0,in,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksandr Mineev,21,Russia,Left Midfield,LM,100000.0,MVD Rossii,Russia,0.0,in,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Mantas Savenas,26,Lithuania,Central Midfield,CM,200000.0,Nosta,Russia,,in,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksandr Dovbnya,22,Russia,Goalkeeper,GK,200000.0,Without Club,,,in,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Kirill Akilov,20,Russia,Central Midfield,CM,50000.0,Khimki,Russia,,out,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksandr Vasiljev,28,Russia,Defensive Midfield,DM,500000.0,Luch Vladivostok,Russia,,out,summer,Premier Liga,2009,False,
+Sibir Novosibirsk,Igor Shestakov,24,Russia,Defensive Midfield,DM,700000.0,Chernomorets N.,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Aleksey Zhitnikov,24,Russia,Right-Back,RB,350000.0,Vityaz Podolsk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Roman Belyaev,21,Russia,Right Winger,RW,150000.0,Chita,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Andrey Kuznetsov,21,Russia,Right-Back,RB,300000.0,Loko Moscow II,Russia,0.0,out,summer,Premier Liga,2009,True,end of loan
+Sibir Novosibirsk,Aleksandr Antipenko,27,Russia,Centre-Forward,CF,500000.0,Khimki,Russia,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Tomas Cizek,31,Czech Republic,Attacking Midfield,AM,750000.0,FK Jablonec,Czech Republic,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Arunas Klimavicius,27,Lithuania,Centre-Back,CB,450000.0,Ural,Russia,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Igor Shevchenko,24,Russia,Right Winger,RW,300000.0,Terek Grozny,Russia,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Nikola Valentic,26,Serbia,Right-Back,RB,300000.0,Spartak V-kavkaz,Russia,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Maksim Astafjev,27,Russia,Right Winger,RW,400000.0,Rostov,Russia,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Wojciech Kowalewski,32,Poland,Goalkeeper,GK,1250000.0,Iraklis,Greece,0.0,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksey Vasiljev,22,Russia,Left Winger,LW,150000.0,Nosta,Russia,,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksey Solosin,22,Russia,Goalkeeper,GK,100000.0,Tom Tomsk,Russia,,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Ivan Nagibin,23,Russia,Central Midfield,CM,500000.0,Chita,Russia,,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Timur Bagautdinov,23,Russia,Goalkeeper,GK,,Soyuz-Gazprom,Russia,,in,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Egor Filipenko,21,Belarus,Centre-Back,CB,800000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Sergey Chepchugov,24,Russia,Goalkeeper,GK,800000.0,CSKA Moscow,Russia,0.0,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Goran Stankovski,33,North Macedonia,Second Striker,SS,200000.0,Diyarbakirspor,Turkey,0.0,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Nenad Eric,27,Kazakhstan,Goalkeeper,GK,300000.0,Kairat Almaty,Kazakhstan,0.0,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksandr Dovbnya,22,Russia,Goalkeeper,GK,200000.0,FK Novgorod,Russia,0.0,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Artem Kabanov,25,Russia,Defensive Midfield,DM,50000.0,Chkalovets-O,Russia,0.0,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Igor Shestakov,25,Russia,Defensive Midfield,DM,700000.0,Rotor Volgograd,Russia,,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Aleksey Zhitnikov,25,Russia,Right-Back,RB,350000.0,Rotor Volgograd,Russia,,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Timur Bagautdinov,23,Russia,Goalkeeper,GK,,Tyumen,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Sibir Novosibirsk,Semen Semenenko,28,Russia,Right-Back,RB,200000.0,Career break,,,out,winter,Premier Liga,2009,False,
+Sibir Novosibirsk,Denis Laktionov,32,Russia,Left Winger,LW,400000.0,Career break,,,out,winter,Premier Liga,2009,False,
+Spartak Moscow,Ibson,25,Brazil,Central Midfield,CM,5000000.0,FC Porto,Portugal,4000000.0,in,summer,Premier Liga,2009,False,
+Spartak Moscow,Sergey Pesjakov,20,Russia,Goalkeeper,GK,700000.0,Shinnik,Russia,300000.0,in,summer,Premier Liga,2009,False,
+Spartak Moscow,Eldar Nizamutdinov,28,Russia,Second Striker,SS,2000000.0,Khimki,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Vladimir Bystrov,25,Russia,Right Midfield,RM,6300000.0,Zenit S-Pb,Russia,9000000.0,out,summer,Premier Liga,2009,False,
+Spartak Moscow,Radoslav Kovac,29,Czech Republic,Centre-Back,CB,4500000.0,West Ham,England,3800000.0,out,summer,Premier Liga,2009,False,
+Spartak Moscow,Quincy Owusu-Abeyie,23,Ghana,Left Winger,LW,1000000.0,Al-Sadd SC,Qatar,3400000.0,out,summer,Premier Liga,2009,False,
+Spartak Moscow,Clemente Rodríguez,28,Argentina,Left-Back,LB,2400000.0,Estudiantes,Argentina,0.0,out,summer,Premier Liga,2009,False,
+Spartak Moscow,Aleksandr Prudnikov,21,Russia,Centre-Forward,CF,1350000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Artem Dzyuba,21,Russia,Centre-Forward,CF,700000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Aleksandr Prudnikov,20,Russia,Centre-Forward,CF,1800000.0,Sparta Prague,Czech Republic,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Artem Dzyuba,20,Russia,Centre-Forward,CF,1000000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Artur Maloyan,20,Russia,Centre-Forward,CF,400000.0,Anzhi,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Aleksandr Pavlenko,24,Russia,Central Midfield,CM,1700000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Moscow,Ari,24,Russia,Centre-Forward,CF,3000000.0,AZ Alkmaar,Netherlands,3000000.0,in,winter,Premier Liga,2009,False,
+Spartak Moscow,Marek Suchy,21,Czech Republic,Centre-Back,CB,2500000.0,Slavia Prague,Czech Republic,1200000.0,in,winter,Premier Liga,2009,True,loan with fee
+Spartak Moscow,Nikola Drincic,25,Montenegro,Defensive Midfield,DM,3000000.0,Amkar Perm,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Moscow,Aleksandr Sheshukov,26,Russia,Centre-Back,CB,2800000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Moscow,Pavel Golyshev,22,Russia,Attacking Midfield,AM,400000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Moscow,Dmitri Khomich,25,Russia,Goalkeeper,GK,700000.0,Spartak V-kavkaz,Russia,1300000.0,out,winter,Premier Liga,2009,False,
+Spartak Moscow,Malik Fathi,26,Germany,Left-Back,LB,2400000.0,1.FSV Mainz 05,Germany,1000000.0,out,winter,Premier Liga,2009,True,loan with fee
+Spartak Moscow,Quincy Owusu-Abeyie,23,Ghana,Left Winger,LW,1250000.0,Portsmouth,England,280000.0,out,winter,Premier Liga,2009,True,loan with fee
+Spartak Moscow,Rafael Carioca,20,Brazil,Defensive Midfield,DM,4000000.0,Vasco da Gama,Brazil,70000.0,out,winter,Premier Liga,2009,True,loan with fee
+Spartak Moscow,Ignas Dedura,31,Lithuania,Centre-Back,CB,450000.0,Salyut Belgorod,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Moscow,Denis Boyarintsev,31,Russia,Right Midfield,RM,800000.0,Saturn,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Moscow,Serghei Covalciuc,28,Moldova,Central Midfield,CM,650000.0,Tom Tomsk,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Moscow,Egor Filipenko,21,Belarus,Centre-Back,CB,800000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Moscow,Aleksandr Pavlenko,24,Russia,Central Midfield,CM,1500000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Moscow,Artur Maloyan,20,Russia,Centre-Forward,CF,400000.0,Salyut Belgorod,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Moscow,Artur Maloyan,21,Russia,Centre-Forward,CF,400000.0,Ural,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Moscow,Andrey Ivanov,21,Russia,Left-Back,LB,1400000.0,Tom Tomsk,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Shamil Asildarov,26,Russia,Centre-Forward,CF,300000.0,Unknown,,,in,summer,Premier Liga,2009,False,
+Spartak Nalchik,Ricardo,28,Bosnia-Herzegovina,Attacking Midfield,AM,500000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Oleg Samsonov,21,Russia,Right Winger,RW,1200000.0,Zenit S-Pb,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Sergiy Pylypchuk,24,Ukraine,Left Winger,LW,1200000.0,Khimki,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Sergey Ovchinnikov,24,Russia,Centre-Forward,CF,150000.0,Loko Moscow II,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,David Siradze,27,Georgia,Centre-Forward,CF,400000.0,Without Club,,,in,summer,Premier Liga,2009,False,
+Spartak Nalchik,Ferro,24,Brazil,Centre-Forward,CF,200000.0,FC Baku,Azerbaijan,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,David Loria,27,Kazakhstan,Goalkeeper,GK,250000.0,Loko Astana,Kazakhstan,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Vitali Shumeyko,27,Ukraine,Centre-Back,CB,450000.0,Atyrau,Kazakhstan,,out,summer,Premier Liga,2009,False,
+Spartak Nalchik,Gogita Gogua,25,Georgia,Centre-Back,CB,700000.0,Terek Grozny,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Marat Dzakhmishev,29,Russia,Central Midfield,CM,400000.0,Chernomorets N.,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Nalchik,Álvaro Pires,24,Brazil,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Premier Liga,2009,False,
+Spartak Nalchik,Rustam Balov,23,Russia,Right Midfield,RM,350000.0,Without Club,,,out,summer,Premier Liga,2009,False,
+Spartak Nalchik,Franco Parodi,19,Argentina,Centre-Forward,CF,200000.0,Defensores,Argentina,0.0,out,summer,Premier Liga,2009,True,end of loan
+Spartak Nalchik,Aleksandr Shchanitsin,25,Russia,Attacking Midfield,AM,300000.0,Ural,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Nalchik,Dejan Rusic,27,Slovenia,Centre-Forward,CF,800000.0,FC Timisoara,Romania,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Nikita Malyarov,20,Russia,Central Midfield,CM,,Khimik,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Nalchik,Roman Kontsedalov,23,Russia,Central Midfield,CM,800000.0,Loko Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Nalchik,Vladimir Dyadyun,21,Russia,Centre-Forward,CF,250000.0,Rubin Kazan II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Otto Fredrikson,28,Finland,Goalkeeper,GK,500000.0,Lillestrøm SK,Norway,,in,winter,Premier Liga,2009,False,
+Spartak Nalchik,Veniamin Mandrykin,28,Russia,Goalkeeper,GK,750000.0,CSKA Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Vladislav Khatazhenkov,25,Russia,Left-Back,LB,200000.0,Vityaz Podolsk,Russia,,in,winter,Premier Liga,2009,False,
+Spartak Nalchik,Patrick Etshimi,20,DR Congo,Centre-Forward,CF,,MK Etanchéité,DR Congo,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Ivan Lapin,21,Russia,Centre-Back,CB,150000.0,Zenit II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Shamil Asildarov,26,Russia,Centre-Forward,CF,300000.0,Terek Grozny,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Dejan Radic,29,Serbia,Goalkeeper,GK,500000.0,Rostov,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Nazir Kazharov,22,Russia,Centre-Forward,CF,500000.0,Volgar-Gazprom,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Kirill Kochubey,23,Russia,Right Winger,RW,350000.0,Rotor Volgograd,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Dmitri Yatchenko,23,Russia,Right-Back,RB,750000.0,Terek Grozny,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Ferreira,25,Brazil,Centre-Back,CB,500000.0,Terek Grozny,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Artem Kontsevoj,26,Belarus,Centre-Forward,CF,350000.0,BATE Borisov,Belarus,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Aslan Mashukov,25,Russia,Defensive Midfield,DM,1500000.0,Spartak V-kavkaz,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Marat Dzakhmishev,29,Russia,Central Midfield,CM,400000.0,Turan,Azerbaijan,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,David Loria,28,Kazakhstan,Goalkeeper,GK,250000.0,Irtysh,Kazakhstan,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Ferro,24,Brazil,Centre-Forward,CF,300000.0,Rio Branco-SP,Brazil,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Nalchik,Konstantin Mikhailov,20,Russia,Left Winger,LW,,Avangard Laz.,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Nalchik,Kantemir Berkhamov,21,Russia,Central Midfield,CM,150000.0,FK Novgorod,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Paulo Adriano,32,Portugal,Defensive Midfield,DM,500000.0,FC Brasov,Romania,0.0,in,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,George Florescu,25,Romania,Defensive Midfield,DM,1250000.0,FC Midtjylland,Denmark,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Dmitri Ryzhov,19,Russia,Centre-Forward,CF,550000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Taras Tsarikaev,20,Russia,Centre-Back,CB,25000.0,Loko Moscow II,Russia,,in,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,Mikhail Mishchenko,20,Russia,Left-Back,LB,150000.0,Rubin Kazan II,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Tomas Cizek,30,Czech Republic,Attacking Midfield,AM,750000.0,FK Jablonec,Czech Republic,0.0,out,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,Soslan Dzhioev,21,Russia,Central Midfield,CM,50000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Aleksandr Gagloev,19,Russia,Left Midfield,LM,100000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Kamalutdin Akhmedov,23,Russia,Centre-Back,CB,350000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Mikhail Mysin,30,Russia,Centre-Forward,CF,400000.0,Volga NN,Russia,,out,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,Robert Bitarov,33,Russia,Left Winger,LW,150000.0,Retired,,,out,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,Zakhar Dubenskiy,30,Russia,Defensive Midfield,DM,150000.0,Without Club,,,out,summer,Premier Liga,2009,False,
+Spartak Vladikavkaz,Abdoul Gafar Mamah,24,Togo,Right-Back,RB,750000.0,FC Sheriff,Moldova,1500000.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Ivan Ivanov,21,Bulgaria,Centre-Back,CB,500000.0,CSKA Sofia,Bulgaria,1500000.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Dmitri Khomich,25,Russia,Goalkeeper,GK,700000.0,Spartak Moscow,Russia,1300000.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Ivan Stoyanov,26,Bulgaria,Right Winger,RW,800000.0,CSKA Sofia,Bulgaria,700000.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Akès da Costa Goore,25,Cote d'Ivoire,Left-Back,LB,2300000.0,FC Moscow,Russia,500000.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Zuela,26,Angola,Centre-Back,CB,1000000.0,Kuban Krasnodar,Russia,120000.0,in,winter,Premier Liga,2009,True,loan with fee
+Spartak Vladikavkaz,Aleksandr Marenich,20,Russia,Left Winger,LW,500000.0,FC Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Zajko Zeba,26,Bosnia-Herzegovina,Attacking Midfield,AM,750000.0,KamAZ,Russia,0.0,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Boris Rotenberg,23,Russia,Right-Back,RB,100000.0,Zenit II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Yuri Kirillov,19,Russia,Defensive Midfield,DM,500000.0,Dinamo Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Mikhail Kerzhakov,22,Russia,Goalkeeper,GK,350000.0,Zenit II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Aslan Mashukov,25,Russia,Defensive Midfield,DM,1500000.0,Spartak Nalchik,Russia,,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Eldar Nizamutdinov,28,Russia,Second Striker,SS,500000.0,Khimki,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Sani Kaita,23,Nigeria,Defensive Midfield,DM,800000.0,Monaco,France,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Sergey Kuznetsov,27,Russia,Centre-Forward,CF,1100000.0,Karpaty,Ukraine,0.0,in,winter,Premier Liga,2009,True,free loan
+Spartak Vladikavkaz,Georgi Gabulov,21,Russia,Central Midfield,CM,200000.0,Lokomotiv 2,Russia,,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Karen Oganyan,27,Russia,Centre-Forward,CF,100000.0,KamAZ,Russia,,in,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Dmitri Godunok,33,Russia,Centre-Back,CB,750000.0,Ak. Dimitrovgrad,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Nikola Valentic,26,Serbia,Right-Back,RB,300000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Kamalutdin Akhmedov,23,Russia,Centre-Back,CB,350000.0,Gazovik Orenburg,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Paulo Adriano,32,Portugal,Defensive Midfield,DM,500000.0,Anadia FC,Portugal,0.0,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Amzor Aylarov,27,Russia,Second Striker,SS,100000.0,Salyut Belgorod,Russia,0.0,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Andrey Proshin,24,Russia,Centre-Back,CB,350000.0,Rostov,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Nikolay Tsygan,25,Russia,Goalkeeper,GK,450000.0,KS Samara,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Serghei Pascenco,27,Moldova,Goalkeeper,GK,200000.0,Olimpia Bălți,Moldova,,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Tamerlan Varziev,31,Russia,Centre-Back,CB,150000.0,Volgar-Gazprom,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Elbrus Tandelov,27,Russia,Right Winger,RW,50000.0,Mordovia,Russia,,out,winter,Premier Liga,2009,False,
+Spartak Vladikavkaz,Sergey Shtanyuk,36,Belarus,Centre-Back,CB,,Retired,,,out,winter,Premier Liga,2009,False,
+Terek Grozny,Héctor Bracamonte,31,Argentina,Centre-Forward,CF,2400000.0,FC Moscow,Russia,1500000.0,in,summer,Premier Liga,2009,False,
+Terek Grozny,Fabricio,27,Brazil,Attacking Midfield,AM,,Mesquita-RJ,Brazil,0.0,in,summer,Premier Liga,2009,False,
+Terek Grozny,Zeev Haimovich,26,Israel,Centre-Back,CB,,Maccabi Netanya,Israel,,in,summer,Premier Liga,2009,False,
+Terek Grozny,Gogita Gogua,25,Georgia,Centre-Back,CB,700000.0,Spartak Nalchik,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Terek Grozny,German Kutarba,30,Russia,Defensive Midfield,DM,200000.0,Without Club,,,in,summer,Premier Liga,2009,False,
+Terek Grozny,Sergey Serdyukov,28,Russia,Centre-Forward,CF,350000.0,Nosta,Russia,0.0,out,summer,Premier Liga,2009,False,
+Terek Grozny,Jean Blaise Bouli,28,Cameroon,Right Winger,RW,650000.0,FK Novgorod,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Terek Grozny,Guy Stephane Essamé,24,Cameroon,Central Midfield,CM,250000.0,FK Novgorod,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Terek Grozny,Igor Shevchenko,24,Russia,Right Winger,RW,500000.0,Kuban Krasnodar,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Terek Grozny,Dmitri A. Smirnov,29,Russia,Central Midfield,CM,350000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Terek Grozny,Mikhail Mishchenko,20,Russia,Left-Back,LB,150000.0,Rubin Kazan II,Russia,0.0,out,summer,Premier Liga,2009,True,end of loan
+Terek Grozny,Aleksandr Prudnikov,20,Russia,Centre-Forward,CF,1800000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2009,True,end of loan
+Terek Grozny,Maurício,21,Brazil,Defensive Midfield,DM,600000.0,Fluminense,Brazil,218000.0,in,winter,Premier Liga,2009,False,
+Terek Grozny,Juan Carlos Arce,24,Bolivia,Centre-Forward,CF,500000.0,Oriente P.,Bolivia,120000.0,in,winter,Premier Liga,2009,True,loan with fee
+Terek Grozny,Shamil Asildarov,26,Russia,Centre-Forward,CF,300000.0,Spartak Nalchik,Russia,0.0,in,winter,Premier Liga,2009,False,
+Terek Grozny,Dmitri Yatchenko,23,Russia,Right-Back,RB,750000.0,Spartak Nalchik,Russia,,in,winter,Premier Liga,2009,False,
+Terek Grozny,Ferreira,25,Brazil,Centre-Back,CB,500000.0,Spartak Nalchik,Russia,,in,winter,Premier Liga,2009,False,
+Terek Grozny,Anderson Mineiro,23,Brazil,Left-Back,LB,200000.0,Náutico,Brazil,0.0,in,winter,Premier Liga,2009,True,free loan
+Terek Grozny,Fabricio,28,Brazil,Attacking Midfield,AM,50000.0,Maccabi Netanya,Israel,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Florentin Petre,33,Romania,Right Winger,RW,750000.0,CSKA Sofia,Bulgaria,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Andrei Margaritescu,30,Romania,Defensive Midfield,DM,800000.0,Dinamo,Romania,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Cléber,35,Brazil,Centre-Back,CB,650000.0,Wisla Kraków,Poland,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Daniel Pancu,32,Romania,Centre-Forward,CF,1200000.0,CSKA Sofia,Bulgaria,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Igor Shevchenko,24,Russia,Right Winger,RW,300000.0,Sibir,Russia,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Radoslav Zabavnik,29,Slovakia,Left-Back,LB,500000.0,1.FSV Mainz 05,Germany,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Valentin Iliev,28,Bulgaria,Centre-Back,CB,450000.0,FC U Craiova,Romania,0.0,out,winter,Premier Liga,2009,False,
+Terek Grozny,Ilion Lika,29,Albania,Goalkeeper,GK,500000.0,KF Vllaznia,Albania,,out,winter,Premier Liga,2009,False,
+Terek Grozny,Jean Blaise Bouli,29,Cameroon,Right Winger,RW,650000.0,Luch Vladivostok,Russia,,out,winter,Premier Liga,2009,False,
+Terek Grozny,Viktor Zemchenkov,23,Russia,Centre-Forward,CF,200000.0,Baltika,Russia,,out,winter,Premier Liga,2009,False,
+Terek Grozny,Stefan Sicaci,21,Moldova,Goalkeeper,GK,100000.0,Volgar-Gazprom,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Terek Grozny,Sergey Bendz,26,Russia,Centre-Back,CB,500000.0,FK Novgorod,Russia,,out,winter,Premier Liga,2009,False,
+Terek Grozny,German Kutarba,31,Russia,Defensive Midfield,DM,200000.0,Career break,,,out,winter,Premier Liga,2009,False,
+Terek Grozny,Timur Dzhabrailov,36,Russia,Centre-Back,CB,100000.0,Retired,,,out,winter,Premier Liga,2009,False,
+Tom Tomsk,Ilya Gultyaev,20,Russia,Centre-Back,CB,100000.0,Spartak II,Russia,0.0,in,summer,Premier Liga,2009,False,
+Tom Tomsk,Aleksandr Prudnikov,21,Russia,Centre-Forward,CF,1350000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Artem Dzyuba,21,Russia,Centre-Forward,CF,700000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Artem Dzyuba,20,Russia,Centre-Forward,CF,1000000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Dmitri A. Smirnov,29,Russia,Central Midfield,CM,350000.0,Terek Grozny,Russia,0.0,in,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Sergey Kornilenko,26,Belarus,Centre-Forward,CF,500000.0,Zenit S-Pb,Russia,1400000.0,out,summer,Premier Liga,2009,False,
+Tom Tomsk,Anton Arkhipov,23,Russia,Centre-Forward,CF,400000.0,Chernomorets N.,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Sergey Golyatkin,21,Russia,Centre-Back,CB,125000.0,Chernomorets N.,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Tom Tomsk,Denis Evsikov,28,Russia,Left-Back,LB,450000.0,Without Club,,,out,summer,Premier Liga,2009,False,
+Tom Tomsk,Sergey Kornilenko,26,Belarus,Centre-Forward,CF,1700000.0,Zenit S-Pb,Russia,1300000.0,in,winter,Premier Liga,2009,True,loan with fee
+Tom Tomsk,Georgi Dzhioev,23,Russia,Centre-Back,CB,1000000.0,Kuban Krasnodar,Russia,0.0,in,winter,Premier Liga,2009,False,
+Tom Tomsk,Nam-il Kim,32,"Korea, South",Defensive Midfield,DM,1100000.0,Vissel Kobe,Japan,0.0,in,winter,Premier Liga,2009,False,
+Tom Tomsk,Serghei Covalciuc,28,Moldova,Central Midfield,CM,650000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2009,False,
+Tom Tomsk,Eugene Starikov,21,United States,Centre-Forward,CF,100000.0,Zenit II,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Tom Tomsk,Andrey Ivanov,21,Russia,Left-Back,LB,1400000.0,Spartak Moscow,Russia,0.0,in,winter,Premier Liga,2009,True,free loan
+Tom Tomsk,Aleksandar Radosavljevic,30,Slovenia,Defensive Midfield,DM,1200000.0,AE Larisa,Greece,0.0,out,winter,Premier Liga,2009,False,
+Tom Tomsk,Mikhail Vanev,28,Russia,Defensive Midfield,DM,50000.0,Chita,Russia,0.0,out,winter,Premier Liga,2009,False,
+Tom Tomsk,Aleksey Solosin,22,Russia,Goalkeeper,GK,100000.0,Sibir,Russia,,out,winter,Premier Liga,2009,False,
+Tom Tomsk,Anton Arkhipov,24,Russia,Centre-Forward,CF,400000.0,Shinnik,Russia,0.0,out,winter,Premier Liga,2009,True,free loan
+Tom Tomsk,Valeriu Catinsus,31,Moldova,Centre-Back,CB,750000.0,Shinnik,Russia,,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Vladimir Bystrov,25,Russia,Right Midfield,RM,6300000.0,Spartak Moscow,Russia,9000000.0,in,summer,Premier Liga,2009,False,
+Zenit St. Petersburg,Alessandro Rosina,25,Italy,Right Winger,RW,11000000.0,Torino,Italy,7300000.0,in,summer,Premier Liga,2009,False,
+Zenit St. Petersburg,Sergey Kornilenko,26,Belarus,Centre-Forward,CF,500000.0,Tom Tomsk,Russia,1400000.0,in,summer,Premier Liga,2009,False,
+Zenit St. Petersburg,Mateja Kezman,30,Serbia,Centre-Forward,CF,2700000.0,Paris SG,France,0.0,in,summer,Premier Liga,2009,True,free loan
+Zenit St. Petersburg,Anatoliy Tymoshchuk,30,Ukraine,Defensive Midfield,DM,20000000.0,FC Bayern,Germany,11000000.0,out,summer,Premier Liga,2009,False,
+Zenit St. Petersburg,Pavel Pogrebnyak,25,Russia,Centre-Forward,CF,9000000.0,VfB Stuttgart,Germany,4800000.0,out,summer,Premier Liga,2009,False,
+Zenit St. Petersburg,Sébastien Puygrenier,27,France,Centre-Back,CB,4200000.0,Monaco,France,700000.0,out,summer,Premier Liga,2009,True,loan with fee
+Zenit St. Petersburg,Oleg Samsonov,21,Russia,Right Winger,RW,1200000.0,Spartak Nalchik,Russia,0.0,out,summer,Premier Liga,2009,True,free loan
+Zenit St. Petersburg,Aleksandr Kerzhakov,27,Russia,Centre-Forward,CF,8500000.0,Dinamo Moscow,Russia,6500000.0,in,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Danko Lazovic,26,Serbia,Second Striker,SS,5500000.0,PSV Eindhoven,Netherlands,5000000.0,in,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Michael Lumb,21,Denmark,Left-Back,LB,2000000.0,Aarhus GF,Denmark,1600000.0,in,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Yuri Zhevnov,28,Belarus,Goalkeeper,GK,4099999.9999999995,FC Moscow,Russia,1000000.0,in,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Igor Semshov,31,Russia,Central Midfield,CM,3500000.0,Dinamo Moscow,Russia,4700000.0,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Fatih Tekke,32,Turkey,Centre-Forward,CF,4500000.0,Rubin Kazan,Russia,2000000.0,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Sergey Kornilenko,26,Belarus,Centre-Forward,CF,1700000.0,Tom Tomsk,Russia,1300000.0,out,winter,Premier Liga,2009,True,loan with fee
+Zenit St. Petersburg,Kamil Contofalsky,31,Slovakia,Goalkeeper,GK,1200000.0,AEL Limassol,Cyprus,0.0,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Dong-jin Kim,27,"Korea, South",Left-Back,LB,3000000.0,Ulsan Hyundai,"Korea, South",0.0,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Oleg Kozhanov,22,Russia,Second Striker,SS,625000.0,Volga NN,Russia,0.0,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Oleg Samsonov,22,Russia,Right Winger,RW,1200000.0,KS Samara,Russia,,out,winter,Premier Liga,2009,False,
+Zenit St. Petersburg,Ilya Maksimov,22,Russia,Central Midfield,CM,400000.0,Career break,,,out,winter,Premier Liga,2009,False,

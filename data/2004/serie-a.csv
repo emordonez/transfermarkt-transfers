@@ -1,0 +1,715 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Jaap Stam,31,Netherlands,Centre-Back,CB,,Lazio,Italy,10500000.0,in,summer,Serie A,2004,False,
+AC Milan,Vikash Dhorasoo,30,France,Central Midfield,CM,,Olympique Lyon,France,0.0,in,summer,Serie A,2004,False,
+AC Milan,Hernán Crespo,29,Argentina,Centre-Forward,CF,,Chelsea,England,0.0,in,summer,Serie A,2004,True,free loan
+AC Milan,Sandro Bloudek,18,Slovenia,Attacking Midfield,AM,,NK Maribor U19,Slovenia,0.0,in,summer,Serie A,2004,False,
+AC Milan,Giuseppe Pancaro,32,Italy,Right-Back,RB,,Lazio,Italy,0.0,in,summer,Serie A,2004,False,
+AC Milan,Martin Laursen,26,Denmark,Centre-Back,CB,,Aston Villa,England,5300000.0,out,summer,Serie A,2004,False,
+AC Milan,Vitali Kutuzov,24,Belarus,Centre-Forward,CF,,Sampdoria,Italy,1500000.0,out,summer,Serie A,2004,False,
+AC Milan,Alessandro Budel,23,Italy,Defensive Midfield,DM,,Parma,Italy,400000.0,out,summer,Serie A,2004,True,loan with fee
+AC Milan,Marco Borriello,22,Italy,Centre-Forward,CF,,Reggina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Paolo Sammarco,21,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Catilina Aubameyang,20,Gabon,Left Midfield,LM,,Rimini,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Samuele Dalla Bona,23,Italy,Central Midfield,CM,,Lecce,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Roque Júnior,27,Brazil,Centre-Back,CB,,Bay. Leverkusen,Germany,0.0,out,summer,Serie A,2004,False,
+AC Milan,Filippo Porcari,20,Italy,Defensive Midfield,DM,,AC Pisa,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Giuseppe Ticli,25,Italy,Left Midfield,LM,,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Patrick Kalambay,20,Italy,Right Midfield,RM,,Fermana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Nicola Pozzi,18,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Massimo Donati,23,Italy,Defensive Midfield,DM,,Messina Peloro,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Marco Donadel,21,Italy,Defensive Midfield,DM,,Sampdoria,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AC Milan,Fernando Redondo,35,Argentina,Defensive Midfield,DM,,Retired,,,out,summer,Serie A,2004,False,
+AC Milan,Digão,19,Brazil,Centre-Back,CB,,São Paulo,Brazil,500000.0,in,winter,Serie A,2004,False,
+AC Milan,Harvey Esajas,30,Netherlands,defence,defence,,Zamora CF,Spain,0.0,in,winter,Serie A,2004,False,
+AC Milan,Fabricio Coloccini,23,Argentina,Centre-Back,CB,8000000.0,Dep. La Coruña,Spain,5000000.0,out,winter,Serie A,2004,False,
+AC Milan,Mohamed Sarr,21,Senegal,Centre-Back,CB,200000.0,Vittoria Calcio,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AC Milan,Catilina Aubameyang,21,Gabon,Left Midfield,LM,,Ancona,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AC Milan,Nicola Pozzi,18,Italy,Centre-Forward,CF,2000000.0,Pescara,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AC Milan,Alessandro Budel,23,Italy,Defensive Midfield,DM,850000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AC Milan,Marco Donadel,21,Italy,Defensive Midfield,DM,5000000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AC Milan,Michele Piccolo,19,Italy,Centre-Forward,CF,,AS Pizzighettone,Italy,0.0,out,winter,Serie A,2004,True,free loan
+ACF Fiorentina,Tomas Ujfalusi,26,Czech Republic,Centre-Back,CB,,Hamburger SV,Germany,7500000.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Fabrizio Miccoli,25,Italy,Centre-Forward,CF,,Juventus,Italy,7000000.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Giorgio Chiellini,19,Italy,Centre-Back,CB,,AS Livorno,Italy,6500000.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Dario Dainelli,25,Italy,Centre-Back,CB,,Brescia,Italy,5500000.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Hidetoshi Nakata,27,Japan,Attacking Midfield,AM,,Parma,Italy,0.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Javier Portillo,22,Spain,Centre-Forward,CF,,Real Madrid,Spain,0.0,in,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Gianni Guigou,29,Uruguay,Defensive Midfield,DM,,AS Roma,Italy,0.0,in,summer,Serie A,2004,False,
+ACF Fiorentina,Christian Obodo,20,Nigeria,Central Midfield,CM,,Perugia,Italy,0.0,in,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Cristiano Lupatelli,26,Italy,Goalkeeper,GK,,AS Roma,Italy,,in,summer,Serie A,2004,False,
+ACF Fiorentina,Daniele Delli Carri,32,Italy,Centre-Back,CB,,Siena,Italy,,in,summer,Serie A,2004,False,
+ACF Fiorentina,Enzo Maresca,24,Italy,Central Midfield,CM,,Juventus,Italy,0.0,in,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Jaime Valdés,23,Chile,Central Midfield,CM,,Bari,Italy,,in,summer,Serie A,2004,False,
+ACF Fiorentina,Martin Jörgensen,28,Denmark,Central Midfield,CM,,Udinese,Italy,,in,summer,Serie A,2004,False,
+ACF Fiorentina,Davide Carrus,25,Italy,Defensive Midfield,DM,,Bari,Italy,2000000.0,out,summer,Serie A,2004,False,
+ACF Fiorentina,Riccardo Maspero,33,Italy,Attacking Midfield,AM,,Unknown,,0.0,out,summer,Serie A,2004,False,
+ACF Fiorentina,Zisis Vryzas,30,Greece,Centre-Forward,CF,,Celta de Vigo,Spain,0.0,out,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Francesco Scotti,21,Italy,Goalkeeper,GK,,Fermana,Italy,0.0,out,summer,Serie A,2004,False,
+ACF Fiorentina,Andrea Ivan,31,Italy,Goalkeeper,GK,,Pescara,Italy,0.0,out,summer,Serie A,2004,False,
+ACF Fiorentina,Andrea Soncin,25,Italy,Centre-Forward,CF,,Virtus Lanciano,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Mattia Graffiedi,24,Italy,Centre-Forward,CF,,Siena,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Giacomo Brandi,23,Italy,Goalkeeper,GK,,Foggia,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Francesco Magnanelli,19,Italy,Defensive Midfield,DM,,Sangiovannese,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Julio de León,24,Honduras,Attacking Midfield,AM,,Catanzaro,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Carlo Cherubini,27,Italy,Left-Back,LB,,Vicenza,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Alessandro Lucarelli,26,Italy,Centre-Back,CB,,AS Livorno,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Antonio Rizzo,23,Italy,Right-Back,RB,,Spezia,Italy,0.0,out,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Daniele De Vezze,24,Italy,Central Midfield,CM,,Reggiana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+ACF Fiorentina,Alfonso Camorani,26,Italy,Central Midfield,CM,,Siena,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Massimiliano Scaglia,27,Italy,Left-Back,LB,,Bari,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Michele Bacis,24,Italy,Centre-Back,CB,,Arezzo,Italy,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Roberto Ripa,36,Italy,Centre-Back,CB,,Retired,,,out,summer,Serie A,2004,False,
+ACF Fiorentina,Thomas Manfredini,24,Italy,Centre-Back,CB,,Udinese,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+ACF Fiorentina,Valeri Bojinov,18,Bulgaria,Centre-Forward,CF,13000000.0,Lecce,Italy,14000000.0,in,winter,Serie A,2004,False,
+ACF Fiorentina,Giampaolo Pazzini,20,Italy,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,6500000.0,in,winter,Serie A,2004,False,
+ACF Fiorentina,Marco Donadel,21,Italy,Defensive Midfield,DM,5000000.0,AC Milan,Italy,0.0,in,winter,Serie A,2004,True,free loan
+ACF Fiorentina,Matthieu Bochu,24,France,Attacking Midfield,AM,,Ravenna,Italy,0.0,out,winter,Serie A,2004,True,free loan
+ACF Fiorentina,Gaetano Fontana,34,Italy,Central Midfield,CM,150000.0,Napoli,Italy,,out,winter,Serie A,2004,False,
+ACF Fiorentina,Jaime Valdés,23,Chile,Central Midfield,CM,2000000.0,Lecce,Italy,,out,winter,Serie A,2004,False,
+AS Livorno,Alessandro Grandoni,26,Italy,Centre-Back,CB,,Sampdoria,Italy,500000.0,in,summer,Serie A,2004,False,
+AS Livorno,José Luís Vidigal,31,Portugal,Defensive Midfield,DM,,Napoli,Italy,0.0,in,summer,Serie A,2004,False,
+AS Livorno,Fabio Galante,30,Italy,Centre-Back,CB,,Torino,Italy,0.0,in,summer,Serie A,2004,False,
+AS Livorno,Emmanuel Osei,22,Ghana,Defensive Midfield,DM,,A.Sebatspor,Turkey,0.0,in,summer,Serie A,2004,False,
+AS Livorno,Jorge Vargas,28,Chile,Centre-Back,CB,,FC Empoli,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Cristiano Lucarelli,28,Italy,Centre-Forward,CF,,Torino,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Nicolás Córdova,25,Chile,Central Midfield,CM,,Bari,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Corrado Colombo,24,Italy,Centre-Forward,CF,,Sampdoria,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Andrea Giallombardo,23,Italy,Left-Back,LB,,Catania,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Alessandro Lucarelli,26,Italy,Centre-Back,CB,,Fiorentina,Italy,,in,summer,Serie A,2004,False,
+AS Livorno,Giorgio Chiellini,19,Italy,Centre-Back,CB,,Fiorentina,Italy,6500000.0,out,summer,Serie A,2004,False,
+AS Livorno,Emiliano Biliotti,29,Italy,Attacking Midfield,AM,,AC Venezia 1907,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Stefano Fanucci,25,Italy,Centre-Back,CB,,Pescara,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Livorno,Armando Perna,23,Italy,Centre-Back,CB,,Modena,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Richard Vanigli,33,Italy,Right-Back,RB,,FC Empoli,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Juriy Cannarsa,28,Italy,Right-Back,RB,,Reggina,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Nicola Pavarini,30,Italy,Goalkeeper,GK,,Reggina,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Nicola Iannotti,19,Italy,Right Midfield,RM,,Rosetana,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Andrea Rabito,24,Italy,Right Winger,RW,,Ternana,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Nicolò Rossetti,19,Italy,attack,attack,,Pavia,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Tommaso Corucci,18,Italy,defence,defence,,Aglianese,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Daniele Lotti,18,Italy,defence,defence,,Aglianese,Italy,,out,summer,Serie A,2004,False,
+AS Livorno,Luca Valtriani,19,Italy,attack,attack,,Without Club,,,out,summer,Serie A,2004,False,
+AS Livorno,Maurizio Ciaramitaro,22,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+AS Livorno,Andrea Rabito,24,Italy,Right Winger,RW,,AC Milan,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+AS Livorno,Paulinho,18,Brazil,Centre-Forward,CF,,Juventude,Brazil,100000.0,in,winter,Serie A,2004,False,
+AS Livorno,Mario Licka,22,Czech Republic,Attacking Midfield,AM,,Banik Ostrava,Czech Republic,0.0,in,winter,Serie A,2004,True,free loan
+AS Livorno,Emmanuel Osei,22,Ghana,Defensive Midfield,DM,,A.Sebatspor,Turkey,0.0,in,winter,Serie A,2004,False,
+AS Livorno,Adrian Mutu,25,Romania,Centre-Forward,CF,15000000.0,Without Club,,,in,winter,Serie A,2004,False,
+AS Livorno,Adrian Mutu,26,Romania,Centre-Forward,CF,15000000.0,Juventus,Italy,0.0,out,winter,Serie A,2004,False,
+AS Livorno,Nicolás Córdova,25,Chile,Central Midfield,CM,800000.0,Ascoli,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AS Livorno,Alessandro Evangelisti,23,Italy,Central Midfield,CM,50000.0,Prato,Italy,,out,winter,Serie A,2004,False,
+AS Livorno,Alessandro Gambadori,23,Italy,Defensive Midfield,DM,100000.0,Pavia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AS Roma,Matteo Brighi,23,Italy,Central Midfield,CM,,Juventus,Italy,16000000.0,in,summer,Serie A,2004,False,
+AS Roma,Simone Perrotta,26,Italy,Attacking Midfield,AM,,Chievo Verona,Italy,7200000.0,in,summer,Serie A,2004,False,
+AS Roma,Matteo Ferrari,24,Italy,Centre-Back,CB,,Parma,Italy,7000000.0,in,summer,Serie A,2004,False,
+AS Roma,Philippe Mexès,22,France,Centre-Back,CB,,AJ Auxerre,France,7000000.0,in,summer,Serie A,2004,False,
+AS Roma,Mido,21,Egypt,Centre-Forward,CF,,Marseille,France,6000000.0,in,summer,Serie A,2004,False,
+AS Roma,Cesare Bovo,21,Italy,Centre-Back,CB,,Lecce,Italy,10000.0,in,summer,Serie A,2004,False,
+AS Roma,Émerson,28,Brazil,Defensive Midfield,DM,,Juventus,Italy,28000000.0,out,summer,Serie A,2004,False,
+AS Roma,Wálter Samuel,26,Argentina,Centre-Back,CB,,Real Madrid,Spain,25000000.0,out,summer,Serie A,2004,False,
+AS Roma,Francisco Lima,33,Brazil,Defensive Midfield,DM,,Loko Moscow,Russia,5700000.0,out,summer,Serie A,2004,False,
+AS Roma,Massimo Bonanni,22,Italy,Left Midfield,LM,,Vicenza,Italy,200000.0,out,summer,Serie A,2004,False,
+AS Roma,Cesare Bovo,21,Italy,Centre-Back,CB,,Parma,Italy,100000.0,out,summer,Serie A,2004,True,loan with fee
+AS Roma,Jonathan Zebina,25,France,Centre-Back,CB,,Juventus,Italy,0.0,out,summer,Serie A,2004,False,
+AS Roma,Simone Piva,20,Italy,Left-Back,LB,,Triestina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,Manuel Cattani,19,Italy,defence,defence,,Chaux-de-Fonds,Switzerland,0.0,out,summer,Serie A,2004,False,
+AS Roma,Gianni Guigou,29,Uruguay,Defensive Midfield,DM,,Fiorentina,Italy,0.0,out,summer,Serie A,2004,False,
+AS Roma,Adewale Dauda Wahab,19,Nigeria,Central Midfield,CM,,Ternana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,Daniele Galloppa,19,Italy,Central Midfield,CM,,Triestina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,Damiano Ferronetti,19,Italy,Centre-Back,CB,,Parma,Italy,,out,summer,Serie A,2004,False,
+AS Roma,Olasunkanmi Akande Ajide,18,Nigeria,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,Christian Scarlato,20,Italy,midfield,midfield,,Salernitana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,Alessandro Cremaschini,21,Italy,defence,defence,,Castel di Sangro,Italy,,out,summer,Serie A,2004,False,
+AS Roma,Giuseppe Coppola,20,Italy,defence,defence,,Castel di Sangro,Italy,,out,summer,Serie A,2004,False,
+AS Roma,Cristiano Lupatelli,26,Italy,Goalkeeper,GK,,Fiorentina,Italy,,out,summer,Serie A,2004,False,
+AS Roma,Matteo Brighi,23,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2004,True,free loan
+AS Roma,John Carew,24,Norway,Centre-Forward,CF,,Valencia,Spain,0.0,out,summer,Serie A,2004,True,end of loan
+AS Roma,Felipe,18,Brazil,Second Striker,SS,,EC Juventude B,Brazil,0.0,in,winter,Serie A,2004,True,free loan
+AS Roma,Abel Xavier,32,Portugal,Right-Back,RB,1250000.0,Without Club,,,in,winter,Serie A,2004,False,
+AS Roma,Mido,21,Egypt,Centre-Forward,CF,7000000.0,Spurs,England,2000000.0,out,winter,Serie A,2004,True,loan with fee
+AS Roma,Gaetano D'Agostino,22,Italy,Central Midfield,CM,6000000.0,Messina Peloro,Italy,400000.0,out,winter,Serie A,2004,True,loan with fee
+AS Roma,Vincent Candela,31,France,Left-Back,LB,4000000.0,Bolton,England,0.0,out,winter,Serie A,2004,False,
+AS Roma,Marco Delvecchio,31,Italy,Centre-Forward,CF,4000000.0,Brescia,Italy,0.0,out,winter,Serie A,2004,False,
+AS Roma,Luigi Sartor,29,Italy,Right-Back,RB,1000000.0,Genoa,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AS Roma,Christian Scarlato,21,Italy,midfield,midfield,,Fermana,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AS Roma,Olasunkanmi Akande Ajide,19,Nigeria,Centre-Forward,CF,,Andria,Italy,0.0,out,winter,Serie A,2004,True,free loan
+AS Roma,Luigi Stillo,20,Italy,midfield,midfield,,Reggiana,Italy,,out,winter,Serie A,2004,False,
+Atalanta BC,Demetrio Albertini,32,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,in,summer,Serie A,2004,False,
+Atalanta BC,Santos,23,Brazil,Centre-Back,CB,100000.0,Monza,Italy,,in,summer,Serie A,2004,False,
+Atalanta BC,Claudio Rivalta,26,Italy,Centre-Back,CB,,Vicenza,Italy,,in,summer,Serie A,2004,False,
+Atalanta BC,Michele Magrin,18,Italy,Central Midfield,CM,,Monza,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Atalanta BC,Davor Vugrinec,29,Croatia,Centre-Forward,CF,,Catania,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Biagio Pagano,21,Italy,Right Winger,RW,,Sampdoria,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Atalanta BC,Mauro Minelli,23,Italy,Centre-Back,CB,,UC AlbinoLeffe,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Alex Pinardi,23,Italy,Defensive Midfield,DM,,Lecce,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Stefano Lorenzi,27,Italy,Centre-Back,CB,,Arezzo,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Atalanta BC,Rolando Bianchi,21,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Tiberio Guarente,18,Italy,Central Midfield,CM,,Hellas Verona,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Alessandro Wilson,21,Italy,defence,defence,,Monza,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Fausto Rossini,26,Italy,Centre-Forward,CF,,Sampdoria,Italy,,out,summer,Serie A,2004,False,
+Atalanta BC,Vlado Smit,24,Serbia,Left-Back,LB,,Bologna,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Atalanta BC,Mohamed Sarr,20,Senegal,Centre-Back,CB,,AC Milan,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Atalanta BC,Luigi Della Rocca,19,Italy,Centre-Forward,CF,,Bologna,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Atalanta BC,Stephen Makinwa,21,Nigeria,Centre-Forward,CF,200000.0,Genoa,Italy,5400000.0,in,winter,Serie A,2004,False,
+Atalanta BC,Lampros Choutos,25,Greece,Centre-Forward,CF,2500000.0,Inter,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Atalanta BC,Adriano,22,Brazil,Right-Back,RB,800000.0,US Palermo,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Atalanta BC,Giulio Migliaccio,23,Italy,Central Midfield,CM,50000.0,Ternana,Italy,,in,winter,Serie A,2004,False,
+Atalanta BC,Davide Sinigaglia,23,Italy,Centre-Forward,CF,,Arezzo,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Atalanta BC,Mariano Stendardo,21,Italy,Centre-Back,CB,,Perugia,Italy,,in,winter,Serie A,2004,False,
+Atalanta BC,Giampaolo Pazzini,20,Italy,Centre-Forward,CF,3000000.0,Fiorentina,Italy,6500000.0,out,winter,Serie A,2004,False,
+Atalanta BC,Piá,22,Brazil,Left Winger,LW,1000000.0,Napoli,Italy,1350000.0,out,winter,Serie A,2004,False,
+Atalanta BC,Demetrio Albertini,33,Italy,Defensive Midfield,DM,800000.0,FC Barcelona,Spain,0.0,out,winter,Serie A,2004,False,
+Atalanta BC,Damiano Zenoni,27,Italy,Right-Back,RB,1000000.0,Udinese,Italy,0.0,out,winter,Serie A,2004,False,
+Atalanta BC,Gianni Comandini,27,Italy,Centre-Forward,CF,300000.0,Ternana,Italy,30000.0,out,winter,Serie A,2004,True,loan with fee
+Atalanta BC,Luca Saudati,25,Italy,Centre-Forward,CF,600000.0,FC Empoli,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Atalanta BC,Natale Gonnella,29,Italy,Centre-Back,CB,300000.0,Arezzo,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Atalanta BC,Carmine Gautieri,34,Italy,Right Winger,RW,300000.0,Napoli,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Atalanta BC,Santos,23,Brazil,Centre-Back,CB,100000.0,Monza,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Bologna FC 1909,Federico Giunti,32,Italy,Defensive Midfield,DM,,Besiktas,Turkey,1000000.0,in,summer,Serie A,2004,False,
+Bologna FC 1909,Theodoros Zagorakis,32,Greece,Central Midfield,CM,,AEK Athens,Greece,0.0,in,summer,Serie A,2004,False,
+Bologna FC 1909,Giacomo Cipriani,23,Italy,Centre-Forward,CF,,Sampdoria,Italy,0.0,in,summer,Serie A,2004,False,
+Bologna FC 1909,Daniele Daino,24,Italy,Right-Back,RB,,Ancona,Italy,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Fabio Petruzzi,33,Italy,Centre-Back,CB,,Brescia,Italy,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Stefano Torrisi,33,Italy,Centre-Back,CB,,Reggina,Italy,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Valentin Nastase,29,Romania,Centre-Back,CB,,US Palermo,Italy,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Ciro Capuano,22,Italy,Centre-Back,CB,,AC Pisa,Italy,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Alessandro Violini,20,Italy,Goalkeeper,GK,,Unknown,,,in,summer,Serie A,2004,False,
+Bologna FC 1909,Cristian Zaccardo,22,Italy,Centre-Back,CB,,US Palermo,Italy,680000.0,out,summer,Serie A,2004,False,
+Bologna FC 1909,Giuseppe Signori,36,Italy,Centre-Forward,CF,,Iraklis,Greece,0.0,out,summer,Serie A,2004,False,
+Bologna FC 1909,Marco Zanchi,27,Italy,Centre-Back,CB,,Messina Peloro,Italy,,out,summer,Serie A,2004,False,
+Bologna FC 1909,Fabio Pecchia,30,Italy,Right Midfield,RM,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Claudio Terzi,20,Italy,Centre-Back,CB,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Fulvio Fedi,19,Italy,midfield,midfield,,Montevarchi,Italy,,out,summer,Serie A,2004,False,
+Bologna FC 1909,Alexander Manninger,27,Austria,Goalkeeper,GK,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Vlado Smit,24,Serbia,Left-Back,LB,,Pescara,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Luigi Della Rocca,19,Italy,Centre-Forward,CF,,AC Pisa,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Pasquale D'Aniello,18,Italy,defence,defence,,US Castelnuovo,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Bologna FC 1909,Hidetoshi Nakata,27,Japan,Attacking Midfield,AM,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Fausto Rossini,26,Italy,Centre-Forward,CF,,Atalanta BC,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Emanuele Troise,25,Italy,Centre-Back,CB,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Guly,30,Argentina,Left Midfield,LM,,Inter,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Samuele Dalla Bona,23,Italy,Central Midfield,CM,,AC Milan,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Emiliano Moretti,23,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Bologna FC 1909,Marco Ferrante,33,Italy,Centre-Forward,CF,900000.0,Catania,Italy,0.0,in,winter,Serie A,2004,False,
+Bologna FC 1909,Fabrizio Ferron,39,Italy,Goalkeeper,GK,300000.0,Como,Italy,,in,winter,Serie A,2004,False,
+Bologna FC 1909,Nicola Legrottaglie,28,Italy,Centre-Back,CB,5000000.0,Juventus,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Bologna FC 1909,Gennaro Fragiello,20,Italy,Centre-Forward,CF,,AC Carpenedolo,Italy,,out,winter,Serie A,2004,False,
+Bologna FC 1909,Nicolò Consolini,20,Italy,Right-Back,RB,50000.0,Sassuolo,Italy,,out,winter,Serie A,2004,False,
+Bologna FC 1909,Leonardo Colucci,32,Italy,Central Midfield,CM,500000.0,Lazio,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Brescia Calcio,Matías Almeyda,30,Argentina,Defensive Midfield,DM,,Inter,Italy,0.0,in,summer,Serie A,2004,False,
+Brescia Calcio,Moïse Brou Apanga,22,Gabon,Centre-Back,CB,,Perugia,Italy,0.0,in,summer,Serie A,2004,False,
+Brescia Calcio,Pierre Womé,25,Cameroon,Left-Back,LB,,Espanyol,Spain,0.0,in,summer,Serie A,2004,False,
+Brescia Calcio,Maurizio Domizzi,24,Italy,Centre-Back,CB,,Sampdoria,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Fabrizio Zambrella,18,Switzerland,Central Midfield,CM,,Servette FC,Switzerland,,in,summer,Serie A,2004,False,
+Brescia Calcio,Giuseppe Sculli,23,Italy,Left Winger,LW,,Juventus,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Brescia Calcio,Daniele Mannini,20,Italy,Right Midfield,RM,,AC Pisa,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Omar Milanetto,28,Italy,Defensive Midfield,DM,,Modena,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Luigi Dipasquale,23,Italy,Centre-Forward,CF,,Gallipoli,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Daniele Adani,29,Italy,Centre-Back,CB,,Inter,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Ernesto Luca Fiumicelli,19,Italy,attack,attack,,Varese,Italy,,in,summer,Serie A,2004,False,
+Brescia Calcio,Matuzalém,24,Brazil,Defensive Midfield,DM,,Shakhtar D.,Ukraine,14000000.0,out,summer,Serie A,2004,False,
+Brescia Calcio,Dario Dainelli,25,Italy,Centre-Back,CB,,Fiorentina,Italy,5500000.0,out,summer,Serie A,2004,False,
+Brescia Calcio,Cyril Gona,19,Nigeria,Defensive Midfield,DM,,Ternana,Italy,250000.0,out,summer,Serie A,2004,True,loan with fee
+Brescia Calcio,Tiziano Ramon,33,Italy,Goalkeeper,GK,,Arezzo,Italy,0.0,out,summer,Serie A,2004,False,
+Brescia Calcio,Mario Salgado,23,Chile,Centre-Forward,CF,,Ternana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Brescia Calcio,Marco Pisano,22,Italy,Left-Back,LB,,Sampdoria,Italy,,out,summer,Serie A,2004,False,
+Brescia Calcio,Fabio Petruzzi,33,Italy,Centre-Back,CB,,Bologna,Italy,,out,summer,Serie A,2004,False,
+Brescia Calcio,Alejandro Correa,24,Uruguay,Defensive Midfield,DM,,Peñarol,Uruguay,,out,summer,Serie A,2004,False,
+Brescia Calcio,Emiliano Viviano,18,Italy,Goalkeeper,GK,,Cesena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Brescia Calcio,Jonathan Bachini,29,Italy,Right Midfield,RM,,Without Club,,,out,summer,Serie A,2004,False,
+Brescia Calcio,Paolo Castellini,25,Italy,Left-Back,LB,,Torino,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Brescia Calcio,Stefano Mauri,24,Italy,Attacking Midfield,AM,,Modena,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Brescia Calcio,Matteo Brighi,23,Italy,Central Midfield,CM,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Brescia Calcio,Giuseppe Colucci,23,Italy,Central Midfield,CM,,Hellas Verona,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Brescia Calcio,Filippo Maniero,31,Italy,Centre-Forward,CF,,US Palermo,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Brescia Calcio,Marco Delvecchio,31,Italy,Centre-Forward,CF,4000000.0,AS Roma,Italy,0.0,in,winter,Serie A,2004,False,
+Brescia Calcio,Johan Vonlanthen,18,Switzerland,Left Midfield,LM,3500000.0,PSV Eindhoven,Netherlands,0.0,in,winter,Serie A,2004,True,free loan
+Brescia Calcio,Daniele Berretta,32,Italy,Defensive Midfield,DM,200000.0,Ancona,Italy,,in,winter,Serie A,2004,False,
+Brescia Calcio,Abderrazzak Jadid,21,Morocco,Central Midfield,CM,150000.0,AC Pisa,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Brescia Calcio,Cyril Gona,20,Nigeria,Defensive Midfield,DM,200000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Brescia Calcio,Giordano Paganotto,19,Italy,defence,defence,,Viterbese,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Cagliari Calcio,Massimo Gobbi,23,Italy,Left-Back,LB,,Treviso,Italy,700000.0,in,summer,Serie A,2004,False,
+Cagliari Calcio,Theofanis Katergiannakis,30,Greece,Goalkeeper,GK,,Olympiacos,Greece,0.0,in,summer,Serie A,2004,False,
+Cagliari Calcio,Francesco Bega,29,Italy,Centre-Back,CB,,Triestina,Italy,,in,summer,Serie A,2004,False,
+Cagliari Calcio,Horacio Peralta,22,Uruguay,Centre-Forward,CF,,Inter,Italy,,in,summer,Serie A,2004,False,
+Cagliari Calcio,Rolando Bianchi,21,Italy,Centre-Forward,CF,,Atalanta BC,Italy,,in,summer,Serie A,2004,False,
+Cagliari Calcio,François Modesto,25,France,Centre-Back,CB,,Monaco,France,0.0,out,summer,Serie A,2004,False,
+Cagliari Calcio,Armando Pantanelli,33,Italy,Goalkeeper,GK,,Catania,Italy,0.0,out,summer,Serie A,2004,False,
+Cagliari Calcio,Di Fábio,24,Brazil,Centre-Back,CB,,Como,Italy,0.0,out,summer,Serie A,2004,False,
+Cagliari Calcio,Gianluca Festa,35,Italy,Right-Back,RB,,Nuorese,Italy,0.0,out,summer,Serie A,2004,False,
+Cagliari Calcio,Andrea Capone,23,Italy,Attacking Midfield,AM,,Treviso,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Cagliari Calcio,Fabio Macellari,29,Italy,Left-Back,LB,,Pavia,Italy,,out,summer,Serie A,2004,False,
+Cagliari Calcio,Fabrizio Marinelli,20,Italy,Goalkeeper,GK,,Unknown,,,out,summer,Serie A,2004,False,
+Cagliari Calcio,Fabrizio Cammarata,28,Italy,Centre-Forward,CF,,Catanzaro,Italy,,out,summer,Serie A,2004,False,
+Cagliari Calcio,Alberto Aramu,18,Italy,attack,attack,,Without Club,,,out,summer,Serie A,2004,False,
+Cagliari Calcio,Alessandro Budel,23,Italy,Defensive Midfield,DM,850000.0,AC Milan,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Cagliari Calcio,Fabio Vignati,20,Italy,Centre-Back,CB,,Pistoiese,Italy,,in,winter,Serie A,2004,False,
+Cagliari Calcio,Édgar Álvarez,24,Honduras,Right Midfield,RM,,Peñarol,Uruguay,0.0,in,winter,Serie A,2004,True,free loan
+Cagliari Calcio,Alex Brunner,31,Italy,Goalkeeper,GK,,Salernitana,Italy,,in,winter,Serie A,2004,False,
+Cagliari Calcio,Davide Capello,20,Italy,Goalkeeper,GK,300000.0,Belluno,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Cagliari Calcio,Horacio Peralta,22,Uruguay,Centre-Forward,CF,600000.0,Albacete,Spain,,out,winter,Serie A,2004,False,
+Chievo Verona,Marco Esposito,24,Italy,Centre-Back,CB,,Ancona,Italy,0.0,in,summer,Serie A,2004,False,
+Chievo Verona,Paolo Sammarco,21,Italy,Central Midfield,CM,,AC Milan,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Chievo Verona,Sergio Marcon,33,Italy,Goalkeeper,GK,,Ancona,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Mattia Marchesetti,20,Italy,Left Winger,LW,,Cremonese,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Davide Mandelli,27,Italy,Centre-Back,CB,,Torino,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Simone Tiribocchi,26,Italy,Centre-Forward,CF,,Torino,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Riccardo Allegretti,26,Italy,Central Midfield,CM,,Modena,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Chievo Verona,Massimiliano Fusani,24,Italy,Central Midfield,CM,,Perugia,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Mattia Passarini,23,Italy,Goalkeeper,GK,,Comprensorio,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Davide Marchini,23,Italy,Right Midfield,RM,,Virtus Lanciano,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Roberto Bortolotto,19,Italy,Centre-Forward,CF,,Milan U19,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Marco Brighi,21,Italy,Defensive Midfield,DM,,Lucchese,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Andrea Mengoni,20,Italy,Centre-Back,CB,,Chieti,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Franco Semioli,24,Italy,Right Winger,RW,,Inter,Italy,,in,summer,Serie A,2004,False,
+Chievo Verona,Matteo Brighi,23,Italy,Central Midfield,CM,,AS Roma,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Chievo Verona,Simone Perrotta,26,Italy,Attacking Midfield,AM,,AS Roma,Italy,7200000.0,out,summer,Serie A,2004,False,
+Chievo Verona,Andrea Barzagli,23,Italy,Centre-Back,CB,,US Palermo,Italy,1500000.0,out,summer,Serie A,2004,False,
+Chievo Verona,Guido Lippi,22,Italy,Goalkeeper,GK,,Pistoiese,Italy,0.0,out,summer,Serie A,2004,False,
+Chievo Verona,Massimo Marazzina,30,Italy,Centre-Forward,CF,,Torino,Italy,0.0,out,summer,Serie A,2004,False,
+Chievo Verona,Santos Oliveira,18,Brazil,Left Midfield,LM,,Catania,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Davide Marchini,23,Italy,Right Midfield,RM,,Torres,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Roberto Bortolotto,19,Italy,Centre-Forward,CF,,Biellese,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Mattia Passarini,24,Italy,Goalkeeper,GK,,Ancona,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Andrea Mengoni,20,Italy,Centre-Back,CB,,Fermana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Chievo Verona,Marcos De Paula,20,Brazil,Centre-Forward,CF,,Belluno,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Chievo Verona,Alfredo Cariello,24,Italy,Left Midfield,LM,,Frosinone,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Tommaso Chiecchi,24,Italy,Centre-Back,CB,,Vittoria Calcio,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Chievo Verona,Stefano Garzon,22,Italy,Defensive Midfield,DM,,Pescara,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Giorgio Frezzolini,28,Italy,Goalkeeper,GK,,Modena,Italy,,out,summer,Serie A,2004,False,
+Chievo Verona,Salvatore Bruno,24,Italy,Centre-Forward,CF,,Catania,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Chievo Verona,Francesco Carbone,24,Italy,Right-Back,RB,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Chievo Verona,Maurizio D'Angelo,34,Italy,Centre-Back,CB,,Retired,,,out,summer,Serie A,2004,False,
+Chievo Verona,Roberto Baronio,26,Italy,Defensive Midfield,DM,,Lazio,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Mario Santana,22,Argentina,Second Striker,SS,,US Palermo,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Stefano Morrone,25,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Luigi Sala,30,Italy,Centre-Back,CB,,Atalanta BC,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Simone Bonomi,23,Italy,Left-Back,LB,,Siena,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Giuseppe Sculli,23,Italy,Left Winger,LW,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Juninho,20,Brazil,Central Midfield,CM,,Junior,Brazil,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Franco Semioli,24,Italy,Right Winger,RW,,Inter,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Chievo Verona,Alessandro Potenza,20,Italy,Centre-Back,CB,3000000.0,Inter,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Chievo Verona,Simone Rizzato,23,Italy,Left-Back,LB,,Torino,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Chievo Verona,Júlio César,25,Brazil,Goalkeeper,GK,2000000.0,Inter,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Chievo Verona,César,25,Brazil,Centre-Back,CB,500000.0,Catania,Italy,,out,winter,Serie A,2004,False,
+Chievo Verona,Ivone De Franceschi,31,Italy,Left Winger,LW,600000.0,Padova,Italy,,out,winter,Serie A,2004,False,
+Chievo Verona,Davide Succi,23,Italy,Centre-Forward,CF,,Lucchese,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Chievo Verona,Emanuele Pesaresi,28,Italy,Left-Back,LB,400000.0,Torino,Italy,,out,winter,Serie A,2004,False,
+Chievo Verona,Salvatore Bruno,25,Italy,Centre-Forward,CF,50000.0,Torino,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Chievo Verona,Marco Esposito,24,Italy,Centre-Back,CB,300000.0,Triestina,Italy,,out,winter,Serie A,2004,False,
+Chievo Verona,Marcos De Paula,21,Brazil,Centre-Forward,CF,200000.0,Benevento,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Chievo Verona,Marco Brighi,21,Italy,Defensive Midfield,DM,,Bellaria IM,Italy,,out,winter,Serie A,2004,False,
+FC Internazionale,Fabián Carini,24,Uruguay,Goalkeeper,GK,,Juventus,Italy,10000000.0,in,summer,Serie A,2004,False,
+FC Internazionale,Nicolás Burdisso,23,Argentina,Centre-Back,CB,,Boca Juniors,Argentina,3500000.0,in,summer,Serie A,2004,False,
+FC Internazionale,Edgar Davids,31,Netherlands,Central Midfield,CM,,Juventus,Italy,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Giuseppe Favalli,32,Italy,Left-Back,LB,,Lazio,Italy,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Juan Sebastián Verón,29,Argentina,Central Midfield,CM,,Chelsea,England,0.0,in,summer,Serie A,2004,True,free loan
+FC Internazionale,Esteban Cambiasso,23,Argentina,Defensive Midfield,DM,,Real Madrid,Spain,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Lampros Choutos,24,Greece,Centre-Forward,CF,,Olympiacos,Greece,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Sinisa Mihajlovic,35,Serbia,Centre-Back,CB,,Lazio,Italy,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Zé Maria,30,Brazil,Right-Back,RB,,Perugia,Italy,0.0,in,summer,Serie A,2004,False,
+FC Internazionale,Ilario Aloe,17,Italy,Right Winger,RW,,Varese,Italy,,in,summer,Serie A,2004,False,
+FC Internazionale,Fabio Cannavaro,30,Italy,Centre-Back,CB,,Juventus,Italy,10000000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Goran Pandev,20,North Macedonia,Second Striker,SS,,Lazio,Italy,8000000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Mohamed Kallon,24,Sierra Leone,Centre-Forward,CF,,Monaco,France,5000000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Francisco Farinós,26,Spain,Defensive Midfield,DM,,RCD Mallorca,Spain,2500000.0,out,summer,Serie A,2004,True,loan with fee
+FC Internazionale,Jérémie Bréchet,24,France,Centre-Back,CB,,Real Sociedad,Spain,1500000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Mauricio Pinilla,20,Chile,Centre-Forward,CF,,Sporting CP,Portugal,1500000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Ümit Davala,30,Turkey,Right Midfield,RM,,Werder Bremen,Germany,500000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Guly,30,Argentina,Left Midfield,LM,,Boca Juniors,Argentina,220000.0,out,summer,Serie A,2004,False,
+FC Internazionale,Aco Stojkov,21,North Macedonia,Left Winger,LW,,Andria,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Sabri Lamouchi,32,France,Central Midfield,CM,,Genoa,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Gonzalo Sorondo,24,Uruguay,Centre-Back,CB,,Crystal Palace,England,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Paolo Ginestra,25,Italy,Goalkeeper,GK,,Vis Pesaro,Italy,0.0,out,summer,Serie A,2004,False,
+FC Internazionale,Okan Buruk,30,Turkey,Right Midfield,RM,,Besiktas,Turkey,0.0,out,summer,Serie A,2004,False,
+FC Internazionale,Thomas Helveg,33,Denmark,Right-Back,RB,,Norwich,England,0.0,out,summer,Serie A,2004,False,
+FC Internazionale,Matías Almeyda,30,Argentina,Defensive Midfield,DM,,Brescia,Italy,0.0,out,summer,Serie A,2004,False,
+FC Internazionale,Julien Brellier,22,France,Central Midfield,CM,,Salernitana,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Julien Brellier,22,France,Central Midfield,CM,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Carl Valeri,19,Australia,Central Midfield,CM,,SPAL,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Mattia Altobelli,20,Italy,Attacking Midfield,AM,,SPAL,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Mario Rebecchi,20,Italy,Central Midfield,CM,,Parma,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Mathieu Moreau,21,France,Goalkeeper,GK,,Ternana,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Fabrizio Biava,20,Italy,midfield,midfield,,Ternana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Franco Semioli,24,Italy,Right Winger,RW,,Chievo Verona,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Daniele Adani,29,Italy,Centre-Back,CB,,Brescia,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Alberto Quadri,21,Italy,Defensive Midfield,DM,,AC Montichiari,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Nicola Ventola,26,Italy,Centre-Forward,CF,,Crystal Palace,England,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Antonio Pacheco,28,Uruguay,Second Striker,SS,,Albacete,Spain,,out,summer,Serie A,2004,False,
+FC Internazionale,Luca Ceccarelli,21,Italy,Centre-Back,CB,,Pro Patria,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Stéphane Dalmat,25,France,Central Midfield,CM,,Toulouse,France,0.0,out,summer,Serie A,2004,True,free loan
+FC Internazionale,Horacio Peralta,22,Uruguay,Centre-Forward,CF,,Cagliari Calcio,Italy,,out,summer,Serie A,2004,False,
+FC Internazionale,Khalilou Fadiga,29,Senegal,Left Winger,LW,,Without Club,,,out,summer,Serie A,2004,False,
+FC Internazionale,Júlio César,25,Brazil,Goalkeeper,GK,2000000.0,Flamengo,Brazil,2450000.0,in,winter,Serie A,2004,False,
+FC Internazionale,Mario Rebecchi,21,Italy,Central Midfield,CM,500000.0,Parma,Italy,,in,winter,Serie A,2004,False,
+FC Internazionale,Paolo Dellafiore,19,Italy,Centre-Back,CB,,Spezia,Italy,400000.0,out,winter,Serie A,2004,True,loan with fee
+FC Internazionale,Ianis Zicu,21,Romania,Attacking Midfield,AM,2000000.0,Dinamo,Romania,200000.0,out,winter,Serie A,2004,True,loan with fee
+FC Internazionale,Lampros Choutos,25,Greece,Centre-Forward,CF,2500000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Alex Cordaz,22,Italy,Goalkeeper,GK,200000.0,Spezia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Nicola Beati,21,Italy,Defensive Midfield,DM,2000000.0,Spezia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Dimitar Makriev,20,Bulgaria,Centre-Forward,CF,75000.0,FC Chiasso,Switzerland,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Riccardo Meggiorini,19,Italy,Second Striker,SS,,Spezia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Alessandro Potenza,20,Italy,Centre-Back,CB,3000000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Mario Rebecchi,21,Italy,Central Midfield,CM,500000.0,Cremonese,Italy,,out,winter,Serie A,2004,False,
+FC Internazionale,Giovanni Pasquale,22,Italy,Left-Back,LB,3000000.0,Siena,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Fabrizio Biava,21,Italy,midfield,midfield,50000.0,Lucchese,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Internazionale,Júlio César,25,Brazil,Goalkeeper,GK,2000000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Messina Peloro,Rafael,24,Brazil,Right-Back,RB,,Flamengo,Brazil,500000.0,in,summer,Serie A,2004,False,
+FC Messina Peloro,Dimitrios Eleftheropoulos,27,Greece,Goalkeeper,GK,,Olympiacos,Greece,0.0,in,summer,Serie A,2004,False,
+FC Messina Peloro,Ivica Iliev,24,Serbia,Second Striker,SS,,Partizan,Serbia,0.0,in,summer,Serie A,2004,False,
+FC Messina Peloro,Nicola Amoruso,29,Italy,Centre-Forward,CF,,Modena,Italy,0.0,in,summer,Serie A,2004,False,
+FC Messina Peloro,Takis Gonias,32,Greece,Right Midfield,RM,,Olympiacos,Greece,0.0,in,summer,Serie A,2004,False,
+FC Messina Peloro,Atsushi Yanagisawa,27,Japan,Centre-Forward,CF,,Sampdoria,Italy,0.0,in,summer,Serie A,2004,True,free loan
+FC Messina Peloro,Mirko Conte,29,Italy,Centre-Back,CB,,Sampdoria,Italy,,in,summer,Serie A,2004,False,
+FC Messina Peloro,Marco Zanchi,27,Italy,Centre-Back,CB,,Bologna,Italy,,in,summer,Serie A,2004,False,
+FC Messina Peloro,Alessandro Cucciari,34,Italy,Defensive Midfield,DM,,Siena,Italy,,in,summer,Serie A,2004,False,
+FC Messina Peloro,Massimo Donati,23,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,in,summer,Serie A,2004,True,free loan
+FC Messina Peloro,Raffaele Sorriso,16,Italy,Goalkeeper,GK,,Napoli U19,Italy,,in,summer,Serie A,2004,False,
+FC Messina Peloro,Igor Zaniolo,31,Italy,Centre-Forward,CF,,Salernitana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Messina Peloro,Salvatore Accursi,26,Italy,Centre-Back,CB,,Napoli,Italy,0.0,out,summer,Serie A,2004,False,
+FC Messina Peloro,Giuseppe Russo,21,Italy,Central Midfield,CM,,Rimini,Italy,0.0,out,summer,Serie A,2004,False,
+FC Messina Peloro,Andrea Gentile,24,Italy,Central Midfield,CM,,Arezzo,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Messina Peloro,Sergio Campolo,32,Italy,Central Midfield,CM,,Catanzaro,Italy,,out,summer,Serie A,2004,False,
+FC Messina Peloro,Gianluca Temelin,27,Italy,Centre-Forward,CF,,Pro Patria,Italy,,out,summer,Serie A,2004,False,
+FC Messina Peloro,Alessandro Demetrio Greco,24,Italy,Goalkeeper,GK,,Giulianova,Italy,0.0,out,summer,Serie A,2004,True,free loan
+FC Messina Peloro,Marco Giambruno,19,Italy,Goalkeeper,GK,,Tolentino,Italy,,out,summer,Serie A,2004,False,
+FC Messina Peloro,Niccolò Guzzo,21,Italy,Right-Back,RB,,Acireale,Italy,,out,summer,Serie A,2004,False,
+FC Messina Peloro,Luigi Lavecchia,22,Italy,Right Midfield,RM,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+FC Messina Peloro,Landry Bonnefoi,20,France,Goalkeeper,GK,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+FC Messina Peloro,Tomás Guzmán,22,Paraguay,Attacking Midfield,AM,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+FC Messina Peloro,Nicola Princivalli,24,Italy,Central Midfield,CM,,Triestina,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+FC Messina Peloro,Roberto Sosa,29,Argentina,Centre-Forward,CF,,Udinese,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+FC Messina Peloro,Gaetano D'Agostino,22,Italy,Central Midfield,CM,6000000.0,AS Roma,Italy,400000.0,in,winter,Serie A,2004,True,loan with fee
+FC Messina Peloro,Filippo Cristante,27,Italy,Centre-Back,CB,,Piacenza,Italy,,in,winter,Serie A,2004,False,
+FC Messina Peloro,Matthew Olorunleke,21,Nigeria,Centre-Back,CB,,Reggiana,Italy,,in,winter,Serie A,2004,False,
+FC Messina Peloro,Raffaele Ametrano,31,Italy,Right-Back,RB,100000.0,Avellino,Italy,0.0,out,winter,Serie A,2004,False,
+FC Messina Peloro,Simone Eramo,18,Italy,Centre-Back,CB,,Taranto,Italy,0.0,out,winter,Serie A,2004,True,free loan
+FC Messina Peloro,Takis Gonias,33,Greece,Right Midfield,RM,400000.0,FC Crotone,Italy,0.0,out,winter,Serie A,2004,False,
+FC Messina Peloro,Mirko Conte,30,Italy,Centre-Back,CB,750000.0,Arezzo,Italy,,out,winter,Serie A,2004,False,
+Juventus FC,Émerson,28,Brazil,Defensive Midfield,DM,,AS Roma,Italy,28000000.0,in,summer,Serie A,2004,False,
+Juventus FC,Zlatan Ibrahimovic,22,Sweden,Centre-Forward,CF,,Ajax,Netherlands,16000000.0,in,summer,Serie A,2004,False,
+Juventus FC,Matteo Brighi,23,Italy,Central Midfield,CM,,Parma,Italy,11500000.0,in,summer,Serie A,2004,False,
+Juventus FC,Fabio Cannavaro,30,Italy,Centre-Back,CB,,Inter,Italy,10000000.0,in,summer,Serie A,2004,False,
+Juventus FC,Fabián Carini,24,Uruguay,Goalkeeper,GK,,Standard Liège,Belgium,5200000.0,in,summer,Serie A,2004,False,
+Juventus FC,Benjamin Onwuachi,20,Nigeria,Centre-Forward,CF,,Reggiana U19,Italy,420000.0,in,summer,Serie A,2004,False,
+Juventus FC,Olivier Kapo,23,France,Attacking Midfield,AM,,AJ Auxerre,France,0.0,in,summer,Serie A,2004,False,
+Juventus FC,Jonathan Zebina,25,France,Centre-Back,CB,,AS Roma,Italy,0.0,in,summer,Serie A,2004,False,
+Juventus FC,Rey Volpato,17,Italy,Centre-Forward,CF,,Padova,Italy,,in,summer,Serie A,2004,False,
+Juventus FC,Matteo Brighi,23,Italy,Central Midfield,CM,,AS Roma,Italy,16000000.0,out,summer,Serie A,2004,False,
+Juventus FC,Marco Di Vaio,27,Italy,Centre-Forward,CF,,Valencia,Spain,11000000.0,out,summer,Serie A,2004,False,
+Juventus FC,Fabián Carini,24,Uruguay,Goalkeeper,GK,,Inter,Italy,10000000.0,out,summer,Serie A,2004,False,
+Juventus FC,Fabrizio Miccoli,25,Italy,Centre-Forward,CF,,Fiorentina,Italy,7000000.0,out,summer,Serie A,2004,False,
+Juventus FC,Cristian Zenoni,27,Italy,Right-Back,RB,,Sampdoria,Italy,1000000.0,out,summer,Serie A,2004,False,
+Juventus FC,Antonio Nocerino,19,Italy,Central Midfield,CM,,Genoa,Italy,450000.0,out,summer,Serie A,2004,False,
+Juventus FC,Orlando Urbano,20,Italy,Centre-Back,CB,,Reggiana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Abdoulay Konko,20,France,Right-Back,RB,,FC Crotone,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Edgar Davids,31,Netherlands,Central Midfield,CM,,Inter,Italy,0.0,out,summer,Serie A,2004,False,
+Juventus FC,Benjamin Onwuachi,20,Nigeria,Centre-Forward,CF,,Salernitana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Salvatore Fresi,31,Italy,Centre-Back,CB,,Catania,Italy,0.0,out,summer,Serie A,2004,False,
+Juventus FC,Antonio Mirante,20,Italy,Goalkeeper,GK,,FC Crotone,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Luigi Lavecchia,22,Italy,Right Midfield,RM,,Arezzo,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Tomás Guzmán,22,Paraguay,Attacking Midfield,AM,,FC Crotone,Italy,,out,summer,Serie A,2004,False,
+Juventus FC,Alessio Ammendolea,19,Italy,attack,attack,,Ragusa,Italy,,out,summer,Serie A,2004,False,
+Juventus FC,Vincenzo Nardo,18,Italy,defence,defence,,Biellese,Italy,,out,summer,Serie A,2004,False,
+Juventus FC,Raffaele Palladino,20,Italy,Left Winger,LW,,Salernitana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Luca Scicchitano,19,Italy,Central Midfield,CM,,Avellino,Italy,,out,summer,Serie A,2004,False,
+Juventus FC,Felice Piccolo,20,Italy,Centre-Back,CB,,Reggina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Davide Chiumiento,19,Switzerland,Attacking Midfield,AM,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Massimiliano Vieri,25,Australia,Centre-Forward,CF,,Ternana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Alessandro Frara,21,Italy,Defensive Midfield,DM,,Ternana,Italy,,out,summer,Serie A,2004,False,
+Juventus FC,Giuseppe Sculli,23,Italy,Left Winger,LW,,Brescia,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Enzo Maresca,24,Italy,Central Midfield,CM,,Fiorentina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Juventus FC,Antonio Conte,34,Italy,Central Midfield,CM,,Retired,,,out,summer,Serie A,2004,False,
+Juventus FC,Adrian Mutu,26,Romania,Centre-Forward,CF,15000000.0,AS Livorno,Italy,0.0,in,winter,Serie A,2004,False,
+Juventus FC,Orlando Urbano,20,Italy,Centre-Back,CB,,Pavia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Juventus FC,Mark Iuliano,31,Italy,Centre-Back,CB,2000000.0,RCD Mallorca,Spain,,out,winter,Serie A,2004,False,
+Juventus FC,Nicola Legrottaglie,28,Italy,Centre-Back,CB,5000000.0,Bologna,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Parma FC,Massimo Maccarone,24,Italy,Centre-Forward,CF,,Middlesbrough,England,1000000.0,in,summer,Serie A,2004,True,loan with fee
+Parma FC,Matteo Contini,24,Italy,Centre-Back,CB,,Avellino,Italy,580000.0,in,summer,Serie A,2004,False,
+Parma FC,Alessandro Budel,23,Italy,Defensive Midfield,DM,,AC Milan,Italy,400000.0,in,summer,Serie A,2004,True,loan with fee
+Parma FC,Cesare Bovo,21,Italy,Centre-Back,CB,,AS Roma,Italy,100000.0,in,summer,Serie A,2004,True,loan with fee
+Parma FC,Gianluca Berti,37,Italy,Goalkeeper,GK,,US Palermo,Italy,0.0,in,summer,Serie A,2004,False,
+Parma FC,Vince Grella,24,Australia,Central Midfield,CM,,FC Empoli,Italy,0.0,in,summer,Serie A,2004,False,
+Parma FC,Fábio Simplício,24,Brazil,Central Midfield,CM,,São Paulo,Brazil,0.0,in,summer,Serie A,2004,False,
+Parma FC,Damiano Ferronetti,19,Italy,Centre-Back,CB,,AS Roma,Italy,,in,summer,Serie A,2004,False,
+Parma FC,Andrea Pisanu,22,Italy,Right Midfield,RM,,Hellas Verona,Italy,,in,summer,Serie A,2004,False,
+Parma FC,Mario Rebecchi,20,Italy,Central Midfield,CM,,Inter,Italy,,in,summer,Serie A,2004,False,
+Parma FC,Matteo Brighi,23,Italy,Central Midfield,CM,,Juventus,Italy,11500000.0,out,summer,Serie A,2004,False,
+Parma FC,Matteo Ferrari,24,Italy,Centre-Back,CB,,AS Roma,Italy,7000000.0,out,summer,Serie A,2004,False,
+Parma FC,Simone Barone,26,Italy,Central Midfield,CM,,US Palermo,Italy,5000000.0,out,summer,Serie A,2004,False,
+Parma FC,Marcello Castellini,31,Italy,Centre-Back,CB,,Sampdoria,Italy,1200000.0,out,summer,Serie A,2004,False,
+Parma FC,Júnior,31,Brazil,Left-Back,LB,,São Paulo,Brazil,0.0,out,summer,Serie A,2004,False,
+Parma FC,Hidetoshi Nakata,27,Japan,Attacking Midfield,AM,,Fiorentina,Italy,0.0,out,summer,Serie A,2004,False,
+Parma FC,Emiliano Moretti,23,Italy,Centre-Back,CB,,Valencia,Spain,0.0,out,summer,Serie A,2004,False,
+Parma FC,Savo Milosevic,30,Serbia,Centre-Forward,CF,,CA Osasuna,Spain,0.0,out,summer,Serie A,2004,False,
+Parma FC,Benny Carbone,32,Italy,Second Striker,SS,,Catanzaro,Italy,,out,summer,Serie A,2004,False,
+Parma FC,Sebastiano Siviglia,31,Italy,Centre-Back,CB,,Lazio,Italy,,out,summer,Serie A,2004,False,
+Parma FC,Paolo Ruffini,20,Italy,midfield,midfield,,Pro Sesto,Italy,,out,summer,Serie A,2004,False,
+Parma FC,Mirko Stefani,20,Italy,Centre-Back,CB,,Bellaria IM,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Parma FC,Zlatko Dedic,19,Slovenia,Centre-Forward,CF,,FC Empoli,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Parma FC,Gabriel Oyola,21,Argentina,Centre-Back,CB,,Huracan de Tres Arroyos,Argentina,,out,summer,Serie A,2004,False,
+Parma FC,Andrea Staffolani,21,Italy,Centre-Forward,CF,,Fermana,Italy,,out,summer,Serie A,2004,False,
+Parma FC,Antonio Benarrivo,35,Italy,Left-Back,LB,,Retired,,,out,summer,Serie A,2004,False,
+Parma FC,Ianis Zicu,20,Romania,Attacking Midfield,AM,1200000.0,Inter,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Fabrizio Cammarata,28,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Manuele Blasi,23,Italy,Central Midfield,CM,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Marco Amelia,22,Italy,Goalkeeper,GK,,AS Livorno,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Anthony Seric,25,Croatia,Left-Back,LB,,Hellas Verona,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Marco Donadel,21,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Parma FC,Stefano Bettarini,32,Italy,Left-Back,LB,750000.0,Sampdoria,Italy,0.0,in,winter,Serie A,2004,False,
+Parma FC,Luca Bucci,35,Italy,Goalkeeper,GK,300000.0,Without Club,,0.0,in,winter,Serie A,2004,False,
+Parma FC,Daniele Degano,22,Italy,Second Striker,SS,200000.0,Ancona,Italy,,in,winter,Serie A,2004,False,
+Parma FC,Fabio Vignaroli,28,Italy,Centre-Forward,CF,800000.0,Modena,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Parma FC,Federico Ranieri,18,Italy,midfield,midfield,,Forlì,Italy,,in,winter,Serie A,2004,False,
+Parma FC,Renato Olive,33,Italy,Central Midfield,CM,400000.0,Without Club,,,in,winter,Serie A,2004,False,
+Parma FC,Gianluca Berti,37,Italy,Goalkeeper,GK,50000.0,Torino,Italy,0.0,out,winter,Serie A,2004,False,
+Parma FC,Alessandro Rosina,20,Italy,Right Winger,RW,600000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Parma FC,Martin Djetou,30,France,Centre-Back,CB,7000000.0,OGC Nice,France,0.0,out,winter,Serie A,2004,False,
+Parma FC,Gaetano Grieco,22,Italy,Centre-Forward,CF,250000.0,Foggia,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Parma FC,Mario Rebecchi,21,Italy,Central Midfield,CM,500000.0,Inter,Italy,,out,winter,Serie A,2004,False,
+Reggina Calcio,Ricardo Esteves,24,Portugal,Right-Back,RB,,Paços Ferreira,Portugal,0.0,in,summer,Serie A,2004,False,
+Reggina Calcio,Marco Borriello,22,Italy,Centre-Forward,CF,,AC Milan,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Reggina Calcio,Marco Zamboni,26,Italy,Centre-Back,CB,,Napoli,Italy,0.0,in,summer,Serie A,2004,False,
+Reggina Calcio,Jacopo Balestri,29,Italy,Left-Back,LB,,Modena,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Gaetano De Rosa,31,Italy,Centre-Back,CB,,Bari,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Giuseppe Colucci,23,Italy,Central Midfield,CM,,Hellas Verona,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Reggina Calcio,Salvatore Soviero,31,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Juriy Cannarsa,28,Italy,Right-Back,RB,,AS Livorno,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Massimo Ganci,22,Italy,Centre-Forward,CF,,Treviso,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Nicola Pavarini,30,Italy,Goalkeeper,GK,,AS Livorno,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Davide Dionigi,30,Italy,Centre-Forward,CF,,Napoli,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Felice Piccolo,20,Italy,Centre-Back,CB,,Juventus,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Reggina Calcio,Giacomo Mazzi,25,Italy,Goalkeeper,GK,,Cisco Lodigiani,Italy,,in,summer,Serie A,2004,False,
+Reggina Calcio,Martin Jiranek,25,Czech Republic,Centre-Back,CB,,Spartak Moscow,Russia,3300000.0,out,summer,Serie A,2004,False,
+Reggina Calcio,Christophe Meoli,19,Switzerland,Defensive Midfield,DM,,Chieti,Italy,0.0,out,summer,Serie A,2004,False,
+Reggina Calcio,Simone Giacchetta,34,Italy,Centre-Back,CB,,Torino,Italy,0.0,out,summer,Serie A,2004,False,
+Reggina Calcio,Martin Lejsal,21,Czech Republic,Goalkeeper,GK,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2004,False,
+Reggina Calcio,Juan Sara,27,Argentina,Centre-Forward,CF,,Shelbourne,Ireland,0.0,out,summer,Serie A,2004,False,
+Reggina Calcio,Stefano Torrisi,33,Italy,Centre-Back,CB,,Bologna,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Andrea Sottil,30,Italy,Centre-Back,CB,,Genoa,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Emanuele Belardi,26,Italy,Goalkeeper,GK,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Reggina Calcio,Gianluca Falsini,28,Italy,Left-Back,LB,,Siena,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Nicola Carlo Pagani,26,Italy,Centre-Back,CB,,Frosinone,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Graziano Tilaro,19,Italy,Goalkeeper,GK,,Gela,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Stefano Dall'Acqua,22,Italy,Centre-Forward,CF,,Treviso,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Davide Baiocco,29,Italy,Defensive Midfield,DM,,Perugia,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Nassim Mendil,25,France,Centre-Forward,CF,,Salernitana,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Reggina Calcio,Francesco Cozza,30,Italy,Attacking Midfield,AM,,Genoa,Italy,,out,summer,Serie A,2004,False,
+Reggina Calcio,Erjon Bogdani,27,Albania,Centre-Forward,CF,,Hellas Verona,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Reggina Calcio,Giovanni Lavrendi,18,Italy,Central Midfield,CM,,Trento,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Reggina Calcio,Gianluca Comotto,25,Italy,Right-Back,RB,,Torino,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Reggina Calcio,Ferdinando Coppola,26,Italy,Goalkeeper,GK,,Ascoli,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Reggina Calcio,David Di Michele,28,Italy,Centre-Forward,CF,,Udinese,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Reggina Calcio,Roberto Stellone,26,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Reggina Calcio,Ilyas Zeytulaev,22,Uzbekistan,Left Winger,LW,,Juventus U19,Italy,,in,winter,Serie A,2004,False,
+Reggina Calcio,Viktor Budyanskiy,20,Russia,Central Midfield,CM,,Juventus U19,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Reggina Calcio,Davide Dionigi,30,Italy,Centre-Forward,CF,,Bari,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Reggina Calcio,Giovanni Morabito,26,Italy,Left-Back,LB,400000.0,Catanzaro,Italy,,out,winter,Serie A,2004,False,
+Reggina Calcio,Massimo Ganci,23,Italy,Centre-Forward,CF,,Piacenza,Italy,,out,winter,Serie A,2004,False,
+Reggina Calcio,José Cianni,20,Italy,Defensive Midfield,DM,,Vigor Lamezia,Italy,,out,winter,Serie A,2004,False,
+Robur Siena,Adriano Zancopè,32,Italy,Goalkeeper,GK,,Modena,Italy,0.0,in,summer,Serie A,2004,False,
+Robur Siena,Daniele Portanova,25,Italy,Centre-Back,CB,,Napoli,Italy,0.0,in,summer,Serie A,2004,False,
+Robur Siena,Alfonso Camorani,26,Italy,Central Midfield,CM,,Fiorentina,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Alexander Manninger,27,Austria,Goalkeeper,GK,,Bologna,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Davide Chiumiento,19,Switzerland,Attacking Midfield,AM,,Juventus,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Marco Carparelli,28,Italy,Second Striker,SS,,Como,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Alberto Valentim,29,Brazil,Right Midfield,RM,,Udinese,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Fabio Pecchia,30,Italy,Right Midfield,RM,,Bologna,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Gennaro Esposito,19,Italy,Defensive Midfield,DM,,Napoli,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Davide Nicola,31,Italy,Right-Back,RB,,Ternana,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Daniele Di Donato,27,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Francesco Carbone,24,Italy,Right-Back,RB,,Chievo Verona,Italy,0.0,in,summer,Serie A,2004,True,free loan
+Robur Siena,Matteo Serafini,26,Italy,Centre-Forward,CF,,Arezzo,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Simone Marini,22,Italy,Centre-Forward,CF,,Benevento,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Mattia Graffiedi,24,Italy,Centre-Forward,CF,,Fiorentina,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Gianluca Falsini,28,Italy,Left-Back,LB,,Reggina,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Francesco Colonnese,32,Italy,Centre-Back,CB,,Lazio,Italy,,in,summer,Serie A,2004,False,
+Robur Siena,Matteo Gianello,28,Italy,Goalkeeper,GK,,Napoli,Italy,300000.0,out,summer,Serie A,2004,False,
+Robur Siena,Alin Stoica,25,Romania,Attacking Midfield,AM,3000000.0,FC National,Romania,0.0,out,summer,Serie A,2004,False,
+Robur Siena,Daniele Delli Carri,32,Italy,Centre-Back,CB,,Fiorentina,Italy,,out,summer,Serie A,2004,False,
+Robur Siena,Alessandro Cucciari,34,Italy,Defensive Midfield,DM,,Messina Peloro,Italy,,out,summer,Serie A,2004,False,
+Robur Siena,Simone Farelli,21,Italy,Goalkeeper,GK,,Nocerina,Italy,,out,summer,Serie A,2004,False,
+Robur Siena,Francesco Scotto Di Luzio,18,Italy,defence,defence,,Morro d'Oro Calcio,Italy,,out,summer,Serie A,2004,False,
+Robur Siena,Roque Júnior,27,Brazil,Centre-Back,CB,,AC Milan,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Gianni Guigou,29,Uruguay,Defensive Midfield,DM,,AS Roma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Nikola Lazetic,26,Serbia,Right Winger,RW,,Lazio,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Konstantinos Louboutis,25,Greece,Left-Back,LB,,Perugia,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Júnior,31,Brazil,Left-Back,LB,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Juarez,30,Brazil,Right-Back,RB,,Bologna,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Leandro Cufré,26,Argentina,Left-Back,LB,,AS Roma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Nicola Ventola,26,Italy,Centre-Forward,CF,,Inter,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+Robur Siena,Massimo Maccarone,25,Italy,Centre-Forward,CF,6500000.0,Middlesbrough,England,400000.0,in,winter,Serie A,2004,True,loan with fee
+Robur Siena,Alin Stoica,25,Romania,Attacking Midfield,AM,3000000.0,Club Brugge,Belgium,0.0,in,winter,Serie A,2004,False,
+Robur Siena,Giovanni Pasquale,22,Italy,Left-Back,LB,3000000.0,Inter,Italy,0.0,in,winter,Serie A,2004,True,free loan
+Robur Siena,Francesco Cozza,30,Italy,Attacking Midfield,AM,500000.0,Genoa,Italy,,in,winter,Serie A,2004,False,
+Robur Siena,Generoso Rossi,25,Italy,Goalkeeper,GK,1000000.0,QPR,England,,out,winter,Serie A,2004,False,
+Robur Siena,Fernando,23,Brazil,Defensive Midfield,DM,1000000.0,Catania,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Robur Siena,Matteo Serafini,26,Italy,Centre-Forward,CF,350000.0,Catania,Italy,,out,winter,Serie A,2004,False,
+Robur Siena,Simone Bonomi,24,Italy,Left-Back,LB,200000.0,Napoli,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Robur Siena,Mattia Graffiedi,24,Italy,Centre-Forward,CF,3200000.0,Modena,Italy,,out,winter,Serie A,2004,False,
+Robur Siena,Marco Carparelli,28,Italy,Second Striker,SS,,Genoa,Italy,,out,winter,Serie A,2004,False,
+Robur Siena,Simone Marini,23,Italy,Centre-Forward,CF,150000.0,Castel di Sangro,Italy,0.0,out,winter,Serie A,2004,True,free loan
+SS Lazio,Goran Pandev,20,North Macedonia,Second Striker,SS,,Inter,Italy,8000000.0,in,summer,Serie A,2004,False,
+SS Lazio,Anthony Seric,25,Croatia,Left-Back,LB,,Hellas Verona,Italy,1500000.0,in,summer,Serie A,2004,False,
+SS Lazio,Matías Lequi,23,Argentina,Centre-Back,CB,,Atlético Madrid,Spain,0.0,in,summer,Serie A,2004,False,
+SS Lazio,Paolo Di Canio,35,Italy,Centre-Forward,CF,,Charlton,England,0.0,in,summer,Serie A,2004,False,
+SS Lazio,Miguel Mea Vitali,23,Venezuela,Defensive Midfield,DM,,Caracas FC,Venezuela,0.0,in,summer,Serie A,2004,False,
+SS Lazio,Sebastiano Siviglia,31,Italy,Centre-Back,CB,,Parma,Italy,,in,summer,Serie A,2004,False,
+SS Lazio,Emanuele Filippini,30,Italy,Central Midfield,CM,,US Palermo,Italy,0.0,in,summer,Serie A,2004,True,free loan
+SS Lazio,Antonio Filippini,30,Italy,Right Midfield,RM,,US Palermo,Italy,0.0,in,summer,Serie A,2004,True,free loan
+SS Lazio,Tommaso Rocchi,26,Italy,Centre-Forward,CF,,FC Empoli,Italy,,in,summer,Serie A,2004,False,
+SS Lazio,Óscar López,24,Spain,Right-Back,RB,,FC Barcelona,Spain,0.0,in,summer,Serie A,2004,True,free loan
+SS Lazio,Braian Robert,20,Argentina,Left Midfield,LM,,Independiente,Argentina,,in,summer,Serie A,2004,False,
+SS Lazio,Esteban González,25,Argentina,Defensive Midfield,DM,,Gimnasia,Argentina,,in,summer,Serie A,2004,False,
+SS Lazio,Leonardo Talamonti,22,Argentina,Centre-Back,CB,,CA Rosario,Argentina,0.0,in,summer,Serie A,2004,True,free loan
+SS Lazio,Stefano Fiore,29,Italy,Attacking Midfield,AM,,Valencia,Spain,17000000.0,out,summer,Serie A,2004,False,
+SS Lazio,Jaap Stam,31,Netherlands,Centre-Back,CB,,AC Milan,Italy,10500000.0,out,summer,Serie A,2004,False,
+SS Lazio,Bernardo Corradi,28,Italy,Centre-Forward,CF,,Valencia,Spain,10000000.0,out,summer,Serie A,2004,False,
+SS Lazio,Claudio López,29,Argentina,Second Striker,SS,,América,Mexico,0.0,out,summer,Serie A,2004,True,free loan
+SS Lazio,Giuseppe Favalli,32,Italy,Left-Back,LB,,Inter,Italy,0.0,out,summer,Serie A,2004,False,
+SS Lazio,Demetrio Albertini,32,Italy,Defensive Midfield,DM,,Atalanta BC,Italy,0.0,out,summer,Serie A,2004,False,
+SS Lazio,Sinisa Mihajlovic,35,Serbia,Centre-Back,CB,,Inter,Italy,0.0,out,summer,Serie A,2004,False,
+SS Lazio,Gaizka Mendieta,30,Spain,Right Midfield,RM,,Middlesbrough,England,0.0,out,summer,Serie A,2004,False,
+SS Lazio,Giuseppe Pancaro,32,Italy,Right-Back,RB,,AC Milan,Italy,0.0,out,summer,Serie A,2004,False,
+SS Lazio,Francesco Colonnese,32,Italy,Centre-Back,CB,,Siena,Italy,,out,summer,Serie A,2004,False,
+SS Lazio,Alessandro Volpe,21,Italy,Central Midfield,CM,,Ternana,Italy,,out,summer,Serie A,2004,False,
+SS Lazio,Luca Giacomi,20,Italy,defence,defence,,Rosetana,Italy,,out,summer,Serie A,2004,False,
+SS Lazio,Nikola Lazetic,26,Serbia,Right Winger,RW,,Genoa,Italy,,out,summer,Serie A,2004,False,
+SS Lazio,Guerino Gottardi,33,Italy,Defensive Midfield,DM,,Retired,,,out,summer,Serie A,2004,False,
+SS Lazio,Fabio Bazzani,28,Italy,Centre-Forward,CF,8000000.0,Sampdoria,Italy,0.0,in,winter,Serie A,2004,True,free loan
+SS Lazio,Leonardo Colucci,32,Italy,Central Midfield,CM,500000.0,Bologna,Italy,0.0,in,winter,Serie A,2004,True,free loan
+SS Lazio,Simone Inzaghi,28,Italy,Centre-Forward,CF,5000000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2004,True,free loan
+SS Lazio,Braian Robert,20,Argentina,Left Midfield,LM,200000.0,Catanzaro,Italy,0.0,out,winter,Serie A,2004,True,free loan
+SS Lazio,Pierpaolo Masi,21,Italy,midfield,midfield,,AC Montichiari,Italy,,out,winter,Serie A,2004,False,
+UC Sampdoria,Vitali Kutuzov,24,Belarus,Centre-Forward,CF,,AC Milan,Italy,1500000.0,in,summer,Serie A,2004,False,
+UC Sampdoria,Marcello Castellini,31,Italy,Centre-Back,CB,,Parma,Italy,1200000.0,in,summer,Serie A,2004,False,
+UC Sampdoria,Cristian Zenoni,27,Italy,Right-Back,RB,,Juventus,Italy,1000000.0,in,summer,Serie A,2004,False,
+UC Sampdoria,Max Tonetto,29,Italy,Left-Back,LB,,Lecce,Italy,0.0,in,summer,Serie A,2004,False,
+UC Sampdoria,Simone Pavan,30,Italy,Centre-Back,CB,,Modena,Italy,0.0,in,summer,Serie A,2004,False,
+UC Sampdoria,Marco Pisano,22,Italy,Left-Back,LB,,Brescia,Italy,,in,summer,Serie A,2004,False,
+UC Sampdoria,Biagio Pagano,21,Italy,Right Winger,RW,,Atalanta BC,Italy,0.0,in,summer,Serie A,2004,True,free loan
+UC Sampdoria,Marco Donadel,21,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,in,summer,Serie A,2004,True,free loan
+UC Sampdoria,Daniele Padelli,18,Italy,Goalkeeper,GK,,Como U19,Italy,,in,summer,Serie A,2004,False,
+UC Sampdoria,Vincenzo Iacopino,27,Italy,Attacking Midfield,AM,,Lucchese,Italy,,in,summer,Serie A,2004,False,
+UC Sampdoria,Fausto Rossini,26,Italy,Centre-Forward,CF,,Atalanta BC,Italy,,in,summer,Serie A,2004,False,
+UC Sampdoria,Alessandro Grandoni,26,Italy,Centre-Back,CB,,AS Livorno,Italy,500000.0,out,summer,Serie A,2004,False,
+UC Sampdoria,Giacomo Cipriani,23,Italy,Centre-Forward,CF,,Bologna,Italy,0.0,out,summer,Serie A,2004,False,
+UC Sampdoria,Francis Zé,22,Cameroon,Right Winger,RW,,FC Chiasso,Switzerland,0.0,out,summer,Serie A,2004,False,
+UC Sampdoria,Claudio Costanzo,18,Italy,Defensive Midfield,DM,,Ascoli,Italy,0.0,out,summer,Serie A,2004,False,
+UC Sampdoria,Salvatore Amirante,20,Italy,Centre-Forward,CF,,Sestrese,Italy,0.0,out,summer,Serie A,2004,False,
+UC Sampdoria,Maurizio Domizzi,24,Italy,Centre-Back,CB,,Brescia,Italy,,out,summer,Serie A,2004,False,
+UC Sampdoria,Atsushi Yanagisawa,27,Japan,Centre-Forward,CF,,Messina Peloro,Italy,0.0,out,summer,Serie A,2004,True,free loan
+UC Sampdoria,Mirko Conte,29,Italy,Centre-Back,CB,,Messina Peloro,Italy,,out,summer,Serie A,2004,False,
+UC Sampdoria,Bratislav Zivkovic,33,Serbia,Left Midfield,LM,,FK Obilic,Serbia,,out,summer,Serie A,2004,False,
+UC Sampdoria,Corrado Colombo,24,Italy,Centre-Forward,CF,,AS Livorno,Italy,,out,summer,Serie A,2004,False,
+UC Sampdoria,Thomas Job,19,Cameroon,Right Winger,RW,,Pescara,Italy,0.0,out,summer,Serie A,2004,True,free loan
+UC Sampdoria,Giampaolo Calzi,18,Italy,Defensive Midfield,DM,,Montevarchi,Italy,,out,summer,Serie A,2004,False,
+UC Sampdoria,Luca Antonini,21,Italy,Left-Back,LB,,Modena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+UC Sampdoria,Francesco Pedone,36,Italy,Right Midfield,RM,,Retired,,,out,summer,Serie A,2004,False,
+UC Sampdoria,Nenad Sakic,33,Serbia,Centre-Back,CB,,Retired,,,out,summer,Serie A,2004,False,
+UC Sampdoria,Fabian Natale Valtolina,33,Italy,Left Winger,LW,,Without Club,,,out,summer,Serie A,2004,False,
+UC Sampdoria,Antonio Floro Flores,21,Italy,Centre-Forward,CF,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+UC Sampdoria,Cristian Zenoni,27,Italy,Right-Back,RB,,Juventus,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+UC Sampdoria,Simone Inzaghi,28,Italy,Centre-Forward,CF,5000000.0,Lazio,Italy,0.0,in,winter,Serie A,2004,True,free loan
+UC Sampdoria,Andrea Gasbarroni,23,Italy,Second Striker,SS,1000000.0,US Palermo,Italy,0.0,in,winter,Serie A,2004,True,free loan
+UC Sampdoria,Gennaro Delvecchio,26,Italy,Central Midfield,CM,350000.0,Perugia,Italy,,in,winter,Serie A,2004,False,
+UC Sampdoria,Stefano Bettarini,32,Italy,Left-Back,LB,750000.0,Parma,Italy,0.0,out,winter,Serie A,2004,False,
+UC Sampdoria,Fabio Bazzani,28,Italy,Centre-Forward,CF,8000000.0,Lazio,Italy,0.0,out,winter,Serie A,2004,True,free loan
+UC Sampdoria,Luca Antonini,22,Italy,Left-Back,LB,200000.0,Pescara,Italy,0.0,out,winter,Serie A,2004,True,free loan
+US Lecce,Aleksey Eremenko Jr.,21,Finland,Attacking Midfield,AM,,HJK Helsinki,Finland,250000.0,in,summer,Serie A,2004,False,
+US Lecce,Samuele Dalla Bona,23,Italy,Central Midfield,CM,,AC Milan,Italy,0.0,in,summer,Serie A,2004,True,free loan
+US Lecce,Souleymane Diamoutene,21,Mali,Centre-Back,CB,,Perugia,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Sasa Bjelanovic,25,Croatia,Centre-Forward,CF,,Genoa,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Francesco Marianini,25,Italy,Central Midfield,CM,,Triestina,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Alex Pinardi,23,Italy,Defensive Midfield,DM,,Atalanta BC,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Massimo Paci,26,Italy,Centre-Back,CB,,Ternana,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Babù,23,Brazil,Right Winger,RW,,AC Venezia 1907,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Luca Anania,24,Italy,Goalkeeper,GK,,Avellino,Italy,,in,summer,Serie A,2004,False,
+US Lecce,Javier Chevantón,23,Uruguay,Centre-Forward,CF,,Monaco,France,10000000.0,out,summer,Serie A,2004,False,
+US Lecce,Aldo Osorio,30,Argentina,Centre-Forward,CF,,CD Numancia,Spain,500000.0,out,summer,Serie A,2004,False,
+US Lecce,Philippe Billy,22,France,Right-Back,RB,,RAEC Mons,Belgium,0.0,out,summer,Serie A,2004,False,
+US Lecce,Max Tonetto,29,Italy,Left-Back,LB,,Sampdoria,Italy,0.0,out,summer,Serie A,2004,False,
+US Lecce,Arnaud Kouyo,20,Cote d'Ivoire,Centre-Back,CB,,RAEC Mons,Belgium,0.0,out,summer,Serie A,2004,True,free loan
+US Lecce,Cesare Bovo,21,Italy,Centre-Back,CB,,AS Roma,Italy,10000.0,out,summer,Serie A,2004,False,
+US Lecce,Djuric Winklaar,22,Curacao,Left Midfield,LM,,AGOVV Apeldoorn,Netherlands,,out,summer,Serie A,2004,False,
+US Lecce,Carmine Nuzzaci,20,Italy,midfield,midfield,,Retired,,,out,summer,Serie A,2004,False,
+US Lecce,Jorge Bolaño,27,Colombia,Central Midfield,CM,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Nicola Mariniello,27,Italy,Right Midfield,RM,,Foggia,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Wilfried Dalmat,21,Saint-Martin,Right Winger,RW,,Grenoble,France,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Daniele Franceschini,28,Italy,Left Midfield,LM,,Chievo Verona,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Sebastiano Siviglia,31,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Mariano Stendardo,21,Italy,Centre-Back,CB,,Napoli,Italy,0.0,out,summer,Serie A,2004,True,end of loan
+US Lecce,Jaime Valdés,23,Chile,Central Midfield,CM,2000000.0,Fiorentina,Italy,,in,winter,Serie A,2004,False,
+US Lecce,Giuseppe Cozzolino,19,Italy,Centre-Forward,CF,,Giulianova,Italy,,in,winter,Serie A,2004,False,
+US Lecce,Valeri Bojinov,18,Bulgaria,Centre-Forward,CF,13000000.0,Fiorentina,Italy,14000000.0,out,winter,Serie A,2004,False,
+US Lecce,Cristian Silvestri,29,Italy,Centre-Back,CB,1250000.0,Catania,Italy,3200000.0,out,winter,Serie A,2004,False,
+US Lecce,Graziano Pellè,19,Italy,Centre-Forward,CF,,Catania,Italy,0.0,out,winter,Serie A,2004,True,free loan
+US Lecce,Cristian Agnelli,19,Italy,Central Midfield,CM,,Catanzaro,Italy,0.0,out,winter,Serie A,2004,True,free loan
+US Palermo,Simone Barone,26,Italy,Central Midfield,CM,,Parma,Italy,5000000.0,in,summer,Serie A,2004,False,
+US Palermo,Mariano González,23,Argentina,Right Midfield,RM,,Racing Club,Argentina,3500000.0,in,summer,Serie A,2004,False,
+US Palermo,Andrea Barzagli,23,Italy,Centre-Back,CB,,Chievo Verona,Italy,1500000.0,in,summer,Serie A,2004,False,
+US Palermo,Cristian Zaccardo,22,Italy,Centre-Back,CB,,Bologna,Italy,680000.0,in,summer,Serie A,2004,False,
+US Palermo,Matteo Guardalben,30,Italy,Goalkeeper,GK,,Piacenza,Italy,,in,summer,Serie A,2004,False,
+US Palermo,Cristian Raimondi,23,Italy,Right Midfield,RM,,UC AlbinoLeffe,Italy,,in,summer,Serie A,2004,False,
+US Palermo,Daniele Fornaio,16,Italy,Central Midfield,CM,,AC Venezia 1907,Italy,,in,summer,Serie A,2004,False,
+US Palermo,Francesco Milano,20,Italy,attack,attack,,Isernia,Italy,,in,summer,Serie A,2004,False,
+US Palermo,Adriano,22,Brazil,Right-Back,RB,,Grêmio,Brazil,,in,summer,Serie A,2004,False,
+US Palermo,Gianluca Berti,37,Italy,Goalkeeper,GK,,Parma,Italy,0.0,out,summer,Serie A,2004,False,
+US Palermo,Vincenzo Giannusa,23,Italy,Central Midfield,CM,,Carrarese,Italy,0.0,out,summer,Serie A,2004,False,
+US Palermo,Olufemi,20,Nigeria,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,out,summer,Serie A,2004,False,
+US Palermo,Davide Matteini,22,Italy,Left Winger,LW,,Padova,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Simone Pepe,20,Italy,Right Winger,RW,,Piacenza,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Leandro Rinaudo,21,Italy,Centre-Back,CB,,Cesena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Maurizio Ciaramitaro,22,Italy,Central Midfield,CM,,Cesena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Daniele Zito,18,Italy,defence,defence,,Gela,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Nicola Milano,21,Italy,midfield,midfield,,Carrarese,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Michele Trionfante,22,Italy,midfield,midfield,,Igea 1946,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Gaetano Vasari,33,Italy,Right Winger,RW,,Vittoria Calcio,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Franck Ongfiang,19,Cameroon,Left Midfield,LM,,Martina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Paolo Cotroneo,20,Italy,Centre-Back,CB,,Fermana,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Jeda,25,Brazil,Second Striker,SS,,Piacenza,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Evans Soligo,25,Italy,Central Midfield,CM,,Triestina,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Valentin Nastase,29,Romania,Centre-Back,CB,,Bologna,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Daniele Di Donato,27,Italy,Central Midfield,CM,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Antonio Filippini,30,Italy,Right Midfield,RM,,Lazio,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Emanuele Filippini,30,Italy,Central Midfield,CM,,Lazio,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Valentino Lai,20,Sweden,Central Midfield,CM,,Triestina,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Salvatore Masiello,22,Italy,Left-Back,LB,,Piacenza,Italy,0.0,out,summer,Serie A,2004,True,free loan
+US Palermo,Giuseppe Mascara,24,Italy,Second Striker,SS,,Perugia,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Filippo Maniero,31,Italy,Centre-Forward,CF,,Torino,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Ighli Vannucchi,27,Italy,Attacking Midfield,AM,500000.0,FC Empoli,Italy,,out,summer,Serie A,2004,False,
+US Palermo,Gianluca Atzori,33,Italy,defence,defence,,Retired,,,out,summer,Serie A,2004,False,
+US Palermo,Antonino Asta,33,Italy,Right Midfield,RM,,Retired,,,out,summer,Serie A,2004,False,
+US Palermo,Davide Possanzini,28,Italy,Centre-Forward,CF,50000.0,UC AlbinoLeffe,Italy,1900000.0,in,winter,Serie A,2004,False,
+US Palermo,Davide Matteini,22,Italy,Left Winger,LW,,FC Crotone,Italy,0.0,out,winter,Serie A,2004,True,free loan
+US Palermo,Adriano,22,Brazil,Right-Back,RB,800000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2004,True,free loan
+US Palermo,Ernesto Farías,24,Argentina,Centre-Forward,CF,3500000.0,River Plate,Argentina,,out,winter,Serie A,2004,False,
+US Palermo,Andrea Gasbarroni,23,Italy,Second Striker,SS,1000000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Udinese Calcio,Antonio Di Natale,26,Italy,Centre-Forward,CF,,FC Empoli,Italy,100000.0,in,summer,Serie A,2004,False,
+Udinese Calcio,Samir Handanovic,19,Slovenia,Goalkeeper,GK,,NK Domzale,Slovenia,0.0,in,summer,Serie A,2004,False,
+Udinese Calcio,Cribari,24,Brazil,Centre-Back,CB,,FC Empoli,Italy,,in,summer,Serie A,2004,False,
+Udinese Calcio,Manuel Belleri,26,Italy,Right-Back,RB,,FC Empoli,Italy,,in,summer,Serie A,2004,False,
+Udinese Calcio,José Devaca,21,Paraguay,Centre-Back,CB,,Cerro Porteño,Paraguay,,in,summer,Serie A,2004,False,
+Udinese Calcio,Stefano Mauri,24,Italy,Attacking Midfield,AM,,Modena,Italy,,in,summer,Serie A,2004,False,
+Udinese Calcio,Claudio Vargas,18,Paraguay,Defensive Midfield,DM,,Cerro Porteño,Paraguay,,in,summer,Serie A,2004,False,
+Udinese Calcio,Sergio Almirón,23,Argentina,Central Midfield,CM,,FC Empoli,Italy,2200000.0,out,summer,Serie A,2004,False,
+Udinese Calcio,Carsten Jancker,29,Germany,Centre-Forward,CF,,1.FC K'lautern,Germany,0.0,out,summer,Serie A,2004,False,
+Udinese Calcio,Anthony Basso,24,France,Goalkeeper,GK,,Viking FK,Norway,0.0,out,summer,Serie A,2004,False,
+Udinese Calcio,Siyabonga Nomvethe,26,South Africa,Centre-Forward,CF,,FC Empoli,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Julio Gutiérrez,24,Chile,Centre-Forward,CF,,Sambenedettese,Italy,0.0,out,summer,Serie A,2004,False,
+Udinese Calcio,Roberto Sosa,29,Argentina,Centre-Forward,CF,,Napoli,Italy,0.0,out,summer,Serie A,2004,False,
+Udinese Calcio,Olivier Renard,25,Belgium,Goalkeeper,GK,,Modena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Martin Jörgensen,28,Denmark,Central Midfield,CM,,Fiorentina,Italy,,out,summer,Serie A,2004,False,
+Udinese Calcio,Fabio Rossitto,32,Italy,Right Midfield,RM,,Germ. Beerschot,Belgium,,out,summer,Serie A,2004,False,
+Udinese Calcio,Alessandro Pierini,31,Italy,Centre-Back,CB,,Racing,Spain,,out,summer,Serie A,2004,False,
+Udinese Calcio,Asamoah Gyan,18,Ghana,Centre-Forward,CF,,Modena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Alberto Valentim,29,Brazil,Right Midfield,RM,,Siena,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Toni Bernal,27,Spain,Goalkeeper,GK,,Ciudad Murcia,Spain,,out,summer,Serie A,2004,False,
+Udinese Calcio,Zlatan Muslimovic,23,Bosnia-Herzegovina,Centre-Forward,CF,,Rimini,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Renny Vega,24,Venezuela,Goalkeeper,GK,,Italchacao,Venezuela,,out,summer,Serie A,2004,False,
+Udinese Calcio,Thomas Manfredini,24,Italy,Centre-Back,CB,,Catania,Italy,0.0,out,summer,Serie A,2004,True,free loan
+Udinese Calcio,Diego Gavilán,24,Paraguay,Central Midfield,CM,,Newcastle,England,0.0,out,summer,Serie A,2004,True,end of loan
+Udinese Calcio,Lucas Castromán,23,Argentina,Attacking Midfield,AM,,Vélez Sarsfield,Argentina,0.0,out,summer,Serie A,2004,True,end of loan
+Udinese Calcio,Damiano Zenoni,27,Italy,Right-Back,RB,1000000.0,Atalanta BC,Italy,0.0,in,winter,Serie A,2004,False,
+Udinese Calcio,Olivier Renard,25,Belgium,Goalkeeper,GK,200000.0,Napoli,Italy,0.0,out,winter,Serie A,2004,True,free loan
+Udinese Calcio,José Devaca,22,Paraguay,Centre-Back,CB,,Libertad,Paraguay,,out,winter,Serie A,2004,False,

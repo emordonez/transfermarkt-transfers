@@ -1,0 +1,338 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1. FC Köln,Lukas Podolski,24,Germany,Second Striker,SS,12000000.0,FC Bayern,Germany,10000000.0,in,summer,1 Bundesliga,2009,False,
+1. FC Köln,Christopher Schorch,20,Germany,Centre-Back,CB,600000.0,RM Castilla,Spain,1000000.0,in,summer,1 Bundesliga,2009,False,
+1. FC Köln,Sebastian Freis,24,Germany,Centre-Forward,CF,2200000.0,Karlsruher SC,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+1. FC Köln,Maniche,31,Portugal,Central Midfield,CM,10000000.0,Atlético Madrid,Spain,0.0,in,summer,1 Bundesliga,2009,False,
+1. FC Köln,Derek Boateng,26,Ghana,Defensive Midfield,DM,2000000.0,Getafe,Spain,750000.0,out,summer,1 Bundesliga,2009,False,
+1. FC Köln,Thomas Broich,28,Germany,Attacking Midfield,AM,750000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+1. FC Köln,Nemanja Vucicevic,29,Serbia,Left Winger,LW,1500000.0,Hapoel Tel Aviv,Israel,0.0,out,summer,1 Bundesliga,2009,False,
+1. FC Köln,Matthias Scherz,37,Germany,Centre-Forward,CF,400000.0,Career break,,,out,summer,1 Bundesliga,2009,False,
+1. FC Köln,Sergiu Radu,31,Romania,Centre-Forward,CF,700000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+1. FC Köln,Zoran Tosic,22,Serbia,Right Winger,RW,4500000.0,Man Utd,England,500000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+1. FC Köln,Wilfried Sanou,25,Burkina Faso,Left Winger,LW,700000.0,Urawa Reds,Japan,100000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+1. FC Köln,Marvin Matip,24,Cameroon,Centre-Back,CB,800000.0,Karlsruher SC,Germany,50000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+1. FC Köln,Michael Gardawski,19,Germany,Left-Back,LB,100000.0,Carl Zeiss Jena,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+1. FC Köln,Lukas Nottbeck,21,Germany,Defensive Midfield,DM,75000.0,B. Dortmund II,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+1.FC Nuremberg,Havard Nordtveit,19,Norway,Centre-Back,CB,700000.0,Arsenal Res.,England,150000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+1.FC Nuremberg,Eric Maxim Choupo-Moting,20,Cameroon,Centre-Forward,CF,1000000.0,Hamburger SV,Germany,50000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+1.FC Nuremberg,Tomasz Welnicki,19,Poland,Centre-Back,CB,100000.0,VfL Bochum U19,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+1.FC Nuremberg,Güngör Kaya,19,Turkey,Centre-Forward,CF,,VfL Bochum U19,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+1.FC Nuremberg,Thomas Broich,28,Germany,Attacking Midfield,AM,750000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+1.FC Nuremberg,Mario Breska,29,Slovakia,Right Winger,RW,800000.0,APOEL Nicosia,Cyprus,200000.0,out,summer,1 Bundesliga,2009,False,
+1.FC Nuremberg,Dominik Reinhardt,24,Germany,Right-Back,RB,800000.0,FC Augsburg,Germany,100000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+1.FC Nuremberg,Aleksandar Mitreski,28,North Macedonia,Centre-Back,CB,400000.0,FC Sion,Switzerland,0.0,out,summer,1 Bundesliga,2009,False,
+1.FC Nuremberg,José Goncalves,23,Portugal,Centre-Back,CB,800000.0,Heart of Midl.,Scotland,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+1.FC Nuremberg,Stefan Reinartz,20,Germany,Defensive Midfield,DM,1200000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+1.FC Nuremberg,Mickaël Tavares,27,Senegal,Defensive Midfield,DM,1800000.0,Hamburger SV,Germany,250000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+1.FC Nuremberg,Breno,20,Brazil,Centre-Back,CB,3500000.0,FC Bayern,Germany,0.0,in,winter,1 Bundesliga,2009,True,free loan
+1.FC Nuremberg,Andreas Ottl,24,Germany,Defensive Midfield,DM,2000000.0,FC Bayern,Germany,0.0,in,winter,1 Bundesliga,2009,True,free loan
+1.FC Nuremberg,Peer Kluge,29,Germany,Defensive Midfield,DM,2500000.0,FC Schalke 04,Germany,1500000.0,out,winter,1 Bundesliga,2009,False,
+1.FC Nuremberg,Matthew Spiranovic,21,Australia,Centre-Back,CB,700000.0,Urawa Reds,Japan,450000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+1.FC Nuremberg,Dario Vidosic,22,Australia,Attacking Midfield,AM,500000.0,MSV Duisburg,Germany,100000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+1.FSV Mainz 05,Andreas Ivanschitz,25,Austria,Attacking Midfield,AM,3250000.0,Panathinaikos,Greece,1500000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+1.FSV Mainz 05,Eugen Polanski,23,Poland,Defensive Midfield,DM,3000000.0,Getafe,Spain,400000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+1.FSV Mainz 05,Heinz Müller,31,Germany,Goalkeeper,GK,900000.0,Barnsley FC,England,300000.0,in,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Filip Trojan,26,Czech Republic,Left Midfield,LM,1500000.0,FC St. Pauli,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Gamal Hamza,27,Egypt,Second Striker,SS,250000.0,Zamalek,Egypt,25000.0,in,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Markus Feulner,27,Germany,Central Midfield,CM,3000000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Robert Fleßers,22,Germany,Defensive Midfield,DM,200000.0,FC Ingolstadt,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Roman Neustädter,21,Russia,Defensive Midfield,DM,500000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Christian Demirtas,25,Germany,Right-Back,RB,400000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Delron Buckley,31,South Africa,Left Winger,LW,800000.0,Anorthosis,Cyprus,0.0,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Mario Vrancic,20,Bosnia-Herzegovina,Central Midfield,CM,200000.0,Rot Weiss Ahlen,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+1.FSV Mainz 05,Daniel Ischdonat,33,Germany,Goalkeeper,GK,250000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Gamal Hamza,27,Egypt,Second Striker,SS,700000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Malik Fathi,26,Germany,Left-Back,LB,2400000.0,Spartak Moscow,Russia,1000000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+1.FSV Mainz 05,Ádám Szalai,22,Hungary,Centre-Forward,CF,2000000.0,RM Castilla,Spain,200000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+1.FSV Mainz 05,Jan Simak,31,Czech Republic,Attacking Midfield,AM,1500000.0,VfB Stuttgart,Germany,100000.0,in,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Jared Jeffrey,19,United States,Central Midfield,CM,250000.0,Club Brugge,Belgium,75000.0,in,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Radoslav Zabavnik,29,Slovakia,Left-Back,LB,500000.0,Terek Grozny,Russia,0.0,in,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Srdjan Baljak,31,Serbia,Second Striker,SS,1500000.0,MSV Duisburg,Germany,150000.0,out,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Daniel Gunkel,29,Germany,Defensive Midfield,DM,1000000.0,TuS Koblenz,Germany,50000.0,out,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Milorad Pekovic,32,Montenegro,Defensive Midfield,DM,800000.0,Greuther Fürth,Germany,0.0,out,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Peter Van der Heyden,33,Belgium,Left-Back,LB,1000000.0,Club Brugge,Belgium,0.0,out,winter,1 Bundesliga,2009,False,
+1.FSV Mainz 05,Gamal Hamza,27,Egypt,Second Striker,SS,700000.0,Without Club,,,out,winter,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Eren Derdiyok,21,Switzerland,Centre-Forward,CF,5000000.0,FC Basel,Switzerland,3800000.0,in,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Lars Bender,20,Germany,Right-Back,RB,1700000.0,1860 Munich,Germany,2500000.0,in,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Daniel Schwaab,20,Germany,Centre-Back,CB,2500000.0,SC Freiburg,Germany,250000.0,in,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Sami Hyypiä,35,Finland,Centre-Back,CB,2700000.0,Liverpool,England,0.0,in,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Tomasz Bobel,34,Poland,Goalkeeper,GK,550000.0,Neftchi Baku,Azerbaijan,0.0,in,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Pirmin Schwegler,22,Switzerland,Defensive Midfield,DM,1500000.0,E. Frankfurt,Germany,500000.0,out,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Constant Djakpa,22,Cote d'Ivoire,Left-Back,LB,1000000.0,Hannover 96,Germany,400000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Bayer 04 Leverkusen,Erik Domaschke,23,Germany,Goalkeeper,GK,200000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Karim Haggui,25,Tunisia,Centre-Back,CB,3000000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Sascha Dum,23,Germany,Left Midfield,LM,900000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+Bayer 04 Leverkusen,Bernd Schneider,35,Germany,Right Midfield,RM,2500000.0,Retired,,,out,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Vratislav Gresko,31,Slovakia,Left-Back,LB,500000.0,Career break,,,out,summer,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Henrique,22,Brazil,Centre-Back,CB,10000000.0,FC Barcelona,Spain,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Bayer 04 Leverkusen,Angelos Charisteas,29,Greece,Centre-Forward,CF,2000000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Bayer 04 Leverkusen,Gábor Király,33,Hungary,Goalkeeper,GK,800000.0,Burnley,England,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Bayer 04 Leverkusen,Lucas Rocha,18,Brazil,Centre-Back,CB,,Portuguesa B,Brazil,,in,winter,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Theofanis Gekas,29,Greece,Centre-Forward,CF,3300000.0,Hertha BSC,Germany,600000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+Bayer 04 Leverkusen,Richard Sukuta-Pasu,19,Germany,Centre-Forward,CF,500000.0,FC St. Pauli,Germany,100000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+Bayer 04 Leverkusen,Pierre De Wit,22,Germany,Central Midfield,CM,800000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Bastian Oczipka,20,Germany,Left-Back,LB,900000.0,FC St. Pauli,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayer 04 Leverkusen,Assimiou Touré,22,Togo,Centre-Back,CB,200000.0,Arm. Bielefeld,Germany,0.0,out,winter,1 Bundesliga,2009,False,
+Bayer 04 Leverkusen,Lucas Rocha,18,Brazil,Centre-Back,CB,,Portuguesa B,Brazil,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayern Munich,Mario Gómez,23,Germany,Centre-Forward,CF,30000000.0,VfB Stuttgart,Germany,30000000.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Arjen Robben,25,Netherlands,Right Winger,RW,30000000.0,Real Madrid,Spain,25000000.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Anatoliy Tymoshchuk,30,Ukraine,Defensive Midfield,DM,20000000.0,Zenit S-Pb,Russia,11000000.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Danijel Pranjic,27,Croatia,Left-Back,LB,9000000.0,Heerenveen,Netherlands,7700000.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Edson Braafheid,26,Netherlands,Left-Back,LB,3500000.0,Twente FC,Netherlands,2000000.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Ivica Olic,29,Croatia,Centre-Forward,CF,12000000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Alexander Baumjohann,22,Germany,Attacking Midfield,AM,2500000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Bayern Munich,Lukas Podolski,24,Germany,Second Striker,SS,12000000.0,1. FC Köln,Germany,10000000.0,out,summer,1 Bundesliga,2009,False,
+Bayern Munich,Lúcio,31,Brazil,Centre-Back,CB,18000000.0,Inter,Italy,7000000.0,out,summer,1 Bundesliga,2009,False,
+Bayern Munich,Mats Hummels,20,Germany,Centre-Back,CB,4000000.0,Bor. Dortmund,Germany,4200000.0,out,summer,1 Bundesliga,2009,False,
+Bayern Munich,Tim Borowski,29,Germany,Central Midfield,CM,5000000.0,Werder Bremen,Germany,750000.0,out,summer,1 Bundesliga,2009,False,
+Bayern Munich,José Sosa,24,Argentina,Central Midfield,CM,5000000.0,Estudiantes,Argentina,0.0,out,summer,1 Bundesliga,2009,True,free loan
+Bayern Munich,Massimo Oddo,33,Italy,Right-Back,RB,3500000.0,AC Milan,Italy,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Bayern Munich,Zé Roberto,34,Brazil,Left Midfield,LM,5000000.0,Nacional,Uruguay,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Bayern Munich,Alexander Baumjohann,22,Germany,Attacking Midfield,AM,2000000.0,FC Schalke 04,Germany,1000000.0,out,winter,1 Bundesliga,2009,False,
+Bayern Munich,Luca Toni,32,Italy,Centre-Forward,CF,13000000.0,AS Roma,Italy,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayern Munich,Breno,20,Brazil,Centre-Back,CB,3500000.0,1.FC Nuremberg,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayern Munich,Andreas Ottl,24,Germany,Defensive Midfield,DM,2000000.0,1.FC Nuremberg,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayern Munich,Edson Braafheid,26,Netherlands,Left-Back,LB,3000000.0,Celtic,Scotland,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Bayern Munich,José Sosa,24,Argentina,Central Midfield,CM,5000000.0,Estudiantes,Argentina,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Borussia Dortmund,Lucas Barrios,24,Paraguay,Centre-Forward,CF,2400000.0,Colo Colo,Chile,4200000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Mats Hummels,20,Germany,Centre-Back,CB,4000000.0,FC Bayern,Germany,4200000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Sven Bender,20,Germany,Centre-Back,CB,1200000.0,1860 Munich,Germany,1500000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Dimitar Rangelov,26,Bulgaria,Centre-Forward,CF,2500000.0,Energie Cottbus,Germany,1000000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Kevin Großkreutz,20,Germany,Right-Back,RB,1200000.0,Rot Weiss Ahlen,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Markus Feulner,27,Germany,Central Midfield,CM,3000000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Damien Le Tallec,19,France,Defensive Midfield,DM,300000.0,Stade Rennais,France,0.0,in,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Alex Frei,30,Switzerland,Centre-Forward,CF,8000000.0,FC Basel,Switzerland,4250000.0,out,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Antonio Rukavina,25,Serbia,Right-Back,RB,1500000.0,1860 Munich,Germany,1500000.0,out,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Markus Brzenska,25,Germany,Centre-Back,CB,1400000.0,Energie Cottbus,Germany,400000.0,out,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Florian Kringe,27,Germany,Central Midfield,CM,2500000.0,Hertha BSC,Germany,200000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Borussia Dortmund,Young-pyo Lee,32,"Korea, South",Left-Back,LB,2500000.0,Hilal,Saudi Arabia,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Giovanni Federico,28,Italy,Attacking Midfield,AM,1000000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Dortmund,Kevin-Prince Boateng,22,Ghana,Attacking Midfield,AM,3000000.0,Spurs,England,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Borussia Dortmund,Mats Hummels,20,Germany,Centre-Back,CB,4000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Borussia Mönchengladbach,Raúl Bobadilla,22,Paraguay,Centre-Forward,CF,4000000.0,Grasshoppers,Switzerland,4200000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Juan Arango,29,Venezuela,Left Midfield,LM,7000000.0,RCD Mallorca,Spain,3600000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Marcel Meeuwis,28,Netherlands,Defensive Midfield,DM,2000000.0,Roda JC,Netherlands,1700000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Marco Reus,20,Germany,Attacking Midfield,AM,1000000.0,Rot Weiss Ahlen,Germany,1000000.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Roman Neustädter,21,Russia,Defensive Midfield,DM,500000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Thorben Marx,28,Germany,Defensive Midfield,DM,1600000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Marko Marin,20,Germany,Attacking Midfield,AM,9000000.0,Werder Bremen,Germany,8199999.999999999,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Johannes van den Bergh,22,Germany,Left-Back,LB,500000.0,F. Düsseldorf,Germany,100000.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Marcel Ndjeng,27,Cameroon,Right Midfield,RM,700000.0,FC Augsburg,Germany,50000.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Alexander Baumjohann,22,Germany,Attacking Midfield,AM,2500000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Soumaila Coulibaly,31,Mali,Attacking Midfield,AM,500000.0,FSV Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Sharbel Touma,30,Sweden,Attacking Midfield,AM,400000.0,Iraklis,Greece,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Patrick Paauwe,33,Netherlands,Centre-Back,CB,1000000.0,VVV-Venlo,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Tomás Galásek,36,Czech Republic,Defensive Midfield,DM,,FSV Erlangen-B.,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Sebastian Schachten,24,Germany,Right-Back,RB,150000.0,SC Paderborn,Germany,50000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Borussia Mönchengladbach,Steve Gohouri,28,Cote d'Ivoire,Centre-Back,CB,750000.0,Wigan,England,0.0,out,winter,1 Bundesliga,2009,False,
+Borussia Mönchengladbach,Sebastian Svärd,26,Denmark,Defensive Midfield,DM,400000.0,Roda JC,Netherlands,0.0,out,winter,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Maik Franz,27,Germany,Centre-Back,CB,3000000.0,Karlsruher SC,Germany,750000.0,in,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Pirmin Schwegler,22,Switzerland,Defensive Midfield,DM,1500000.0,Bay. Leverkusen,Germany,500000.0,in,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Ralf Fährmann,20,Germany,Goalkeeper,GK,600000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Selim Teber,28,Germany,Central Midfield,CM,1000000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Habib Bellaid,23,Algeria,Centre-Back,CB,3000000.0,R. Strasbourg,France,250000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Eintracht Frankfurt,Kreso Ljubicic,20,Croatia,Central Midfield,CM,300000.0,Hajduk Split,Croatia,200000.0,out,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Michael Fink,27,Germany,Defensive Midfield,DM,2500000.0,Besiktas,Turkey,0.0,out,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Junichi Inamoto,29,Japan,Defensive Midfield,DM,2000000.0,Stade Rennais,France,0.0,out,summer,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Alexander Dercho,22,Germany,Left-Back,LB,250000.0,VfL Osnabrück,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+Eintracht Frankfurt,Léonard Kweuke,21,Cameroon,Centre-Forward,CF,500000.0,Dunajska Streda,Slovakia,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Eintracht Frankfurt,Ricardo Clark,26,United States,Central Midfield,CM,300000.0,Houston,United States,0.0,in,winter,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Halil Altintop,27,Turkey,Attacking Midfield,AM,3500000.0,FC Schalke 04,Germany,0.0,in,winter,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Habib Bellaid,23,Algeria,Centre-Back,CB,1300000.0,US Boulogne,France,150000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+Eintracht Frankfurt,Markus Steinhöfer,23,Germany,Right-Back,RB,2750000.0,1.FC K'lautern,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Eintracht Frankfurt,Mehdi Mahdavikia,32,Iran,Right-Back,RB,500000.0,Steel Azin,Iran,0.0,out,winter,1 Bundesliga,2009,False,
+Eintracht Frankfurt,Christoph Preuß,28,Germany,Defensive Midfield,DM,500000.0,Retired,,,out,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Lewis Holtby,18,Germany,Central Midfield,CM,3000000.0,Alem. Aachen,Germany,3000000.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Jan Morávek,19,Czech Republic,Central Midfield,CM,500000.0,Bohemians 1905,Czech Republic,1500000.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Vasilios Pliatsikas,21,Greece,Centre-Back,CB,1750000.0,AEK Athens,Greece,300000.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Lubos Hanzel,22,Slovakia,Left-Back,LB,,Spartak Trnava,Slovakia,100000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+FC Schalke 04,Lukas Schmitz,20,Germany,Left-Back,LB,,VfL Bochum II,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Christoph Moritz,19,Germany,Central Midfield,CM,,Aachen U19,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Emin Yalin,20,Turkey,Left Winger,LW,200000.0,Nuremberg II,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Mineiro,34,Brazil,Defensive Midfield,DM,800000.0,Chelsea,England,0.0,in,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Orlando Engelaar,29,Netherlands,Defensive Midfield,DM,3500000.0,PSV Eindhoven,Netherlands,4000000.0,out,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Carlos Grossmüller,26,Uruguay,Central Midfield,CM,1500000.0,Danubio FC,Uruguay,200000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+FC Schalke 04,Ralf Fährmann,20,Germany,Goalkeeper,GK,600000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Mladen Krstajic,35,Serbia,Centre-Back,CB,2500000.0,Partizan,Serbia,0.0,out,summer,1 Bundesliga,2009,False,
+FC Schalke 04,Peer Kluge,29,Germany,Defensive Midfield,DM,2500000.0,1.FC Nuremberg,Germany,1500000.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Alexander Baumjohann,22,Germany,Attacking Midfield,AM,2000000.0,FC Bayern,Germany,1000000.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Mario Gavranovic,20,Switzerland,Centre-Forward,CF,1000000.0,Yverdon-Sport,Switzerland,500000.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Besart Ibraimi,23,North Macedonia,Centre-Forward,CF,425000.0,Renova,North Macedonia,450000.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Bogdan Müller,21,Germany,Centre-Forward,CF,50000.0,SpVgg Neckarelz,Germany,150000.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Tore Reginiussen,23,Norway,Centre-Back,CB,1500000.0,Tromsø IL,Norway,0.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Edú,28,Brazil,Centre-Forward,CF,1500000.0,Suwon Bluewings,"Korea, South",0.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Junmin Hao,22,China,Central Midfield,CM,425000.0,TJ Teda,China,0.0,in,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Lewis Holtby,19,Germany,Central Midfield,CM,3000000.0,VfL Bochum,Germany,500000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+FC Schalke 04,Marvin Pourié,19,Germany,Centre-Forward,CF,200000.0,TuS Koblenz,Germany,100000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+FC Schalke 04,Levan Kobiashvili,32,Georgia,Left Midfield,LM,2000000.0,Hertha BSC,Germany,0.0,out,winter,1 Bundesliga,2009,False,
+FC Schalke 04,Halil Altintop,27,Turkey,Attacking Midfield,AM,3500000.0,E. Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2009,False,
+Hamburger SV,Marcus Berg,22,Sweden,Centre-Forward,CF,8000000.0,FC Groningen,Netherlands,10000000.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,Eljero Elia,22,Netherlands,Left Winger,LW,6000000.0,Twente FC,Netherlands,9000000.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,David Rozehnal,29,Czech Republic,Centre-Back,CB,4000000.0,Lazio,Italy,6000000.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,Zé Roberto,34,Brazil,Left Midfield,LM,5000000.0,Nacional,Uruguay,4000000.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,Robert Tesche,22,Germany,Central Midfield,CM,1300000.0,Arm. Bielefeld,Germany,1000000.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,Tolgay Arslan,18,Germany,Central Midfield,CM,,B. Dortmund U19,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Hamburger SV,Thiago Neves,24,Brazil,Attacking Midfield,AM,5000000.0,Hilal,Saudi Arabia,7000000.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Rouwen Hennings,21,Germany,Centre-Forward,CF,500000.0,FC St. Pauli,Germany,200000.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Eric Maxim Choupo-Moting,20,Cameroon,Centre-Forward,CF,1000000.0,1.FC Nuremberg,Germany,50000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hamburger SV,Ivica Olic,29,Croatia,Centre-Forward,CF,12000000.0,FC Bayern,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Macauley Chrisantus,18,Nigeria,Centre-Forward,CF,500000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+Hamburger SV,Khalid Sinouh,34,Morocco,Goalkeeper,GK,500000.0,FC Utrecht,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Raphael Wolf,21,Germany,Goalkeeper,GK,100000.0,SV Kapfenberg,Austria,0.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Thimothée Atouba,27,Cameroon,Left-Back,LB,3500000.0,Ajax,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Sascha Kirschstein,29,Germany,Goalkeeper,GK,600000.0,Rot Weiss Ahlen,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Änis Ben-Hatira,21,Tunisia,Attacking Midfield,AM,1000000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+Hamburger SV,Bastian Reinhardt,34,Germany,Centre-Back,CB,1000000.0,Career break,,,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Timo Kunert,22,Germany,Right-Back,RB,100000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+Hamburger SV,Marcel Ndjeng,27,Cameroon,Right Midfield,RM,700000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Hamburger SV,Albert Streit,29,Germany,Right Winger,RW,2500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Hamburger SV,Michael Gravgaard,31,Denmark,Centre-Back,CB,2300000.0,FC Nantes,France,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Hamburger SV,Tomás Rincón,21,Venezuela,Defensive Midfield,DM,1000000.0,Táchira,Venezuela,450000.0,in,winter,1 Bundesliga,2009,False,
+Hamburger SV,Ruud van Nistelrooy,33,Netherlands,Centre-Forward,CF,12000000.0,Real Madrid,Spain,0.0,in,winter,1 Bundesliga,2009,False,
+Hamburger SV,Alex Silva,24,Brazil,Centre-Back,CB,8500000.0,São Paulo,Brazil,1000000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+Hamburger SV,Mickaël Tavares,27,Senegal,Defensive Midfield,DM,1800000.0,1.FC Nuremberg,Germany,250000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Didier Ya Konan,25,Cote d'Ivoire,Centre-Forward,CF,850000.0,Rosenborg,Norway,550000.0,in,summer,1 Bundesliga,2009,False,
+Hannover 96,Constant Djakpa,22,Cote d'Ivoire,Left-Back,LB,1000000.0,Bay. Leverkusen,Germany,400000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Valdet Rama,21,Albania,Left Winger,LW,600000.0,FC Ingolstadt,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Hannover 96,Karim Haggui,25,Tunisia,Centre-Back,CB,3000000.0,Bay. Leverkusen,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Hannover 96,Sofian Chahed,26,Tunisia,Right-Back,RB,2000000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Hannover 96,Bastian Schulz,23,Germany,Defensive Midfield,DM,700000.0,1.FC K'lautern,Germany,100000.0,out,summer,1 Bundesliga,2009,False,
+Hannover 96,Chavdar Yankov,25,Bulgaria,Central Midfield,CM,1000000.0,MSV Duisburg,Germany,100000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Frank Fahrenhorst,31,Germany,Centre-Back,CB,1500000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Hannover 96,Gaetan Krebs,23,France,Central Midfield,CM,500000.0,Karlsruher SC,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Hannover 96,Michael Tarnat,39,Germany,Left-Back,LB,500000.0,Retired,,,out,summer,1 Bundesliga,2009,False,
+Hannover 96,Valérien Ismaël,33,France,Centre-Back,CB,2500000.0,Retired,,,out,summer,1 Bundesliga,2009,False,
+Hannover 96,Arouna Koné,26,Cote d'Ivoire,Centre-Forward,CF,2000000.0,Sevilla FC,Spain,500000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Jan Durica,28,Slovakia,Centre-Back,CB,2100000.0,Loko Moscow,Russia,300000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Élson,28,Brazil,Attacking Midfield,AM,2000000.0,VfB Stuttgart,Germany,300000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+Hannover 96,Uwe Gospodarek,36,Germany,Goalkeeper,GK,,Without Club,,,in,winter,1 Bundesliga,2009,False,
+Hannover 96,Chavdar Yankov,25,Bulgaria,Central Midfield,CM,1000000.0,Metalurg D.,Ukraine,600000.0,out,winter,1 Bundesliga,2009,False,
+Hertha BSC,Adrián Ramos,23,Colombia,Centre-Forward,CF,1000000.0,CD América,Colombia,2000000.0,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,Artur Wichniarek,32,Poland,Centre-Forward,CF,3000000.0,Arm. Bielefeld,Germany,700000.0,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,Rasmus Bengtsson,23,Sweden,Centre-Back,CB,1000000.0,Trelleborg,Sweden,460000.0,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,Nemanja Pejcinovic,21,Serbia,Centre-Back,CB,900000.0,Rad,Serbia,350000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Florian Kringe,27,Germany,Central Midfield,CM,2500000.0,Bor. Dortmund,Germany,200000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Christoph Janker,24,Germany,defence,defence,800000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,César,30,Brazil,Left Midfield,LM,1200000.0,Al-Ahli (UAE),United Arab Emirates,0.0,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,Timo Ochs,27,Germany,Goalkeeper,GK,1350000.0,Without Club,,,in,summer,1 Bundesliga,2009,False,
+Hertha BSC,Josip Simunic,31,Croatia,Centre-Back,CB,9000000.0,TSG Hoffenheim,Germany,7000000.0,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Amine Chermiti,21,Tunisia,Centre-Forward,CF,2000000.0,Ittihad,Saudi Arabia,900000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Lúcio,30,Brazil,Left-Back,LB,3000000.0,Grêmio,Brazil,250000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Rodnei,23,Brazil,Centre-Back,CB,800000.0,1.FC K'lautern,Germany,200000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,André Lima,24,Brazil,Centre-Forward,CF,1000000.0,Botafogo,Brazil,150000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Ibrahima Traoré,21,Guinea,Right Winger,RW,125000.0,FC Augsburg,Germany,50000.0,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Marko Pantelic,30,Serbia,Centre-Forward,CF,7000000.0,Ajax,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Sofian Chahed,26,Tunisia,Right-Back,RB,2000000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Marko Babic,28,Croatia,Left Midfield,LM,900000.0,Real Zaragoza,Spain,0.0,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Christian Fiedler,34,Germany,Goalkeeper,GK,750000.0,Retired,,,out,summer,1 Bundesliga,2009,False,
+Hertha BSC,Andriy Voronin,29,Ukraine,Second Striker,SS,6000000.0,Liverpool,England,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Hertha BSC,Leandro Cufré,31,Argentina,Left-Back,LB,2000000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+Hertha BSC,Theofanis Gekas,29,Greece,Centre-Forward,CF,3300000.0,Bay. Leverkusen,Germany,600000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Roman Hubnik,25,Czech Republic,Centre-Back,CB,1500000.0,FC Moscow,Russia,200000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+Hertha BSC,Levan Kobiashvili,32,Georgia,Left Midfield,LM,2000000.0,FC Schalke 04,Germany,0.0,in,winter,1 Bundesliga,2009,False,
+Hertha BSC,Bryan Arguez,21,United States,Defensive Midfield,DM,100000.0,Miami FC,United States,0.0,out,winter,1 Bundesliga,2009,False,
+Hertha BSC,Kaká,28,Brazil,Centre-Back,CB,600000.0,Omonia Nikosia,Cyprus,0.0,out,winter,1 Bundesliga,2009,True,free loan
+Hertha BSC,César,30,Brazil,Left Midfield,LM,900000.0,Al-Ahli (UAE),United Arab Emirates,0.0,out,winter,1 Bundesliga,2009,False,
+Hertha BSC,André Lima,24,Brazil,Centre-Forward,CF,1000000.0,Fluminense,Brazil,0.0,out,winter,1 Bundesliga,2009,True,free loan
+SC Freiburg,Cédric Makiadi,25,DR Congo,Central Midfield,CM,2000000.0,VfL Wolfsburg,Germany,900000.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Mensur Mujdza,25,Bosnia-Herzegovina,Right-Back,RB,750000.0,NK Zagreb,Croatia,500000.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Felix Bastians,21,Germany,Centre-Back,CB,500000.0,BSC Young Boys,Switzerland,250000.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Stefan Reisinger,27,Germany,Centre-Forward,CF,1500000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Manuel Salz,23,Germany,Goalkeeper,GK,300000.0,Stuttg. Kickers,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Du-ri Cha,28,"Korea, South",Right-Back,RB,1000000.0,TuS Koblenz,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+SC Freiburg,Daniel Schwaab,20,Germany,Centre-Back,CB,2500000.0,Bay. Leverkusen,Germany,250000.0,out,summer,1 Bundesliga,2009,False,
+SC Freiburg,Kevin Schlitte,27,Germany,Right-Back,RB,600000.0,Hansa Rostock,Germany,120000.0,out,summer,1 Bundesliga,2009,False,
+SC Freiburg,Michael Müller,19,Germany,Goalkeeper,GK,50000.0,Saarbrücken,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+SC Freiburg,Manuel Konrad,21,Germany,Defensive Midfield,DM,250000.0,Unterhaching,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+SC Freiburg,Ali Günes,30,Turkey,Central Midfield,CM,500000.0,Kasimpasa,Turkey,0.0,out,summer,1 Bundesliga,2009,False,
+SC Freiburg,Maximilian Mehring,23,Germany,Central Midfield,CM,100000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+SC Freiburg,Vitali Rodionov,25,Belarus,Centre-Forward,CF,800000.0,BATE Borisov,Belarus,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+SC Freiburg,Papiss Demba Cissé,24,Senegal,Centre-Forward,CF,2000000.0,FC Metz,France,1500000.0,in,winter,1 Bundesliga,2009,False,
+SC Freiburg,Hamed Namouchi,25,Tunisia,Attacking Midfield,AM,1000000.0,Without Club,,,in,winter,1 Bundesliga,2009,False,
+SC Freiburg,Alain Junior Ollé Ollé,22,Cameroon,Left Midfield,LM,250000.0,Rot Weiss Ahlen,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+SC Freiburg,Andreas Glockner,21,Germany,Defensive Midfield,DM,500000.0,TuS Koblenz,Germany,40000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+SC Freiburg,Eke Uzoma,20,Nigeria,Left-Back,LB,1200000.0,1860 Munich,Germany,35000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+SV Werder Bremen,Marko Marin,20,Germany,Attacking Midfield,AM,9000000.0,Bor. M'gladbach,Germany,8199999.999999999,in,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Claudio Pizarro,30,Peru,Centre-Forward,CF,12000000.0,Chelsea,England,2000000.0,in,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Marcelo Moreno,22,Bolivia,Centre-Forward,CF,4500000.0,Shakhtar D.,Ukraine,1500000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+SV Werder Bremen,Tim Borowski,29,Germany,Central Midfield,CM,5000000.0,FC Bayern,Germany,750000.0,in,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Diego,24,Brazil,Attacking Midfield,AM,29000000.0,Juventus,Italy,27000000.0,out,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Boubacar Sanogo,26,Cote d'Ivoire,Centre-Forward,CF,3000000.0,Saint-Étienne,France,5000000.0,out,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Martin Harnik,22,Austria,Right Winger,RW,1000000.0,F. Düsseldorf,Germany,300000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+SV Werder Bremen,Kevin Schindler,21,Germany,Defensive Midfield,DM,1200000.0,FC Augsburg,Germany,75000.0,out,summer,1 Bundesliga,2009,True,loan with fee
+SV Werder Bremen,Max Kruse,21,Germany,Second Striker,SS,350000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Nico Pellatz,22,Germany,Goalkeeper,GK,250000.0,Apol. Limassol,Cyprus,0.0,out,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,John Jairo Mosquera,21,Colombia,Centre-Forward,CF,350000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+SV Werder Bremen,Frank Baumann,33,Germany,Defensive Midfield,DM,3000000.0,Retired,,,out,summer,1 Bundesliga,2009,False,
+SV Werder Bremen,Alexandros Tziolis,24,Greece,Defensive Midfield,DM,3000000.0,Panathinaikos,Greece,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+SV Werder Bremen,Claudio Pizarro,30,Peru,Centre-Forward,CF,12000000.0,Chelsea,England,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+SV Werder Bremen,Sandro Wagner,22,Germany,Centre-Forward,CF,1500000.0,MSV Duisburg,Germany,350000.0,in,winter,1 Bundesliga,2009,False,
+SV Werder Bremen,Aymen Abdennour,20,Tunisia,Centre-Back,CB,800000.0,ES Sahel,Tunisia,200000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+SV Werder Bremen,Torsten Oehrl,24,Germany,Centre-Forward,CF,500000.0,F. Düsseldorf,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+SV Werder Bremen,Kevin Schindler,21,Germany,Defensive Midfield,DM,750000.0,MSV Duisburg,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+SV Werder Bremen,Jurica Vranjes,30,Croatia,Defensive Midfield,DM,1000000.0,Genclerbirligi,Turkey,0.0,out,winter,1 Bundesliga,2009,True,free loan
+SV Werder Bremen,Dusko Tosic,25,Serbia,Centre-Back,CB,750000.0,Portsmouth,England,0.0,out,winter,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Josip Simunic,31,Croatia,Centre-Back,CB,9000000.0,Hertha BSC,Germany,7000000.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Franco Zuculini,18,Argentina,Central Midfield,CM,3000000.0,Racing Club,Argentina,4600000.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Maicosuel,23,Brazil,Left Winger,LW,2000000.0,Desp. Brasil,Brazil,4500000.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Jukka Raitala,20,Finland,Left-Back,LB,1500000.0,HJK Helsinki,Finland,150000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+TSG 1899 Hoffenheim,Christian Eichner,26,Germany,Left-Back,LB,2000000.0,Karlsruher SC,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Jens Grahl,20,Germany,Goalkeeper,GK,100000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Prince Tagoe,22,Ghana,Centre-Forward,CF,700000.0,Al-Ettifaq,Saudi Arabia,0.0,in,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Selim Teber,28,Germany,Central Midfield,CM,1000000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Christoph Janker,24,Germany,defence,defence,800000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Jonas Strifler,19,Germany,Right-Back,RB,100000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Steffen Haas,21,Germany,Defensive Midfield,DM,300000.0,K. Offenbach,Germany,25000.0,out,summer,1 Bundesliga,2009,False,
+TSG 1899 Hoffenheim,Wellington,21,Brazil,Centre-Forward,CF,2500000.0,Twente FC,Netherlands,0.0,out,summer,1 Bundesliga,2009,True,free loan
+TSG 1899 Hoffenheim,Boubacar Sanogo,26,Cote d'Ivoire,Centre-Forward,CF,3000000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2009,True,end of loan
+TSG 1899 Hoffenheim,Ramazan Özcan,25,Austria,Goalkeeper,GK,600000.0,Besiktas,Turkey,200000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+VfB Stuttgart,Zdravko Kuzmanovic,21,Serbia,Central Midfield,CM,9500000.0,Fiorentina,Italy,8000000.0,in,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Pavel Pogrebnyak,25,Russia,Centre-Forward,CF,9000000.0,Zenit S-Pb,Russia,4800000.0,in,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Stefano Celozzi,20,Germany,Right-Back,RB,1700000.0,Karlsruher SC,Germany,2500000.0,in,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Aleksandr Hleb,28,Belarus,Attacking Midfield,AM,12000000.0,FC Barcelona,Spain,2000000.0,in,summer,1 Bundesliga,2009,True,loan with fee
+VfB Stuttgart,Alessandro Riedle,17,Germany,Central Midfield,CM,300000.0,Grasshoppers,Switzerland,300000.0,in,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Matthias Schwarz,21,Germany,Central Midfield,CM,400000.0,FC Ingolstadt,Germany,0.0,in,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Mario Gómez,23,Germany,Centre-Forward,CF,30000000.0,FC Bayern,Germany,30000000.0,out,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Danijel Ljuboja,30,Serbia,Centre-Forward,CF,500000.0,Grenoble,France,0.0,out,summer,1 Bundesliga,2009,False,
+VfB Stuttgart,Georges Mandjeck,20,Cameroon,Defensive Midfield,DM,400000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+VfB Stuttgart,Cristian Molinaro,26,Italy,Left-Back,LB,7000000.0,Juventus,Italy,500000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+VfB Stuttgart,Thomas Hitzlsperger,27,Germany,Central Midfield,CM,6500000.0,Lazio,Italy,550000.0,out,winter,1 Bundesliga,2009,False,
+VfB Stuttgart,Élson,28,Brazil,Attacking Midfield,AM,2000000.0,Hannover 96,Germany,300000.0,out,winter,1 Bundesliga,2009,True,loan with fee
+VfB Stuttgart,Jan Simak,31,Czech Republic,Attacking Midfield,AM,1500000.0,1.FSV Mainz 05,Germany,100000.0,out,winter,1 Bundesliga,2009,False,
+VfB Stuttgart,Ludovic Magnin,30,Switzerland,Left-Back,LB,2500000.0,FC Zürich,Switzerland,0.0,out,winter,1 Bundesliga,2009,False,
+VfB Stuttgart,Yildiray Bastürk,31,Turkey,Attacking Midfield,AM,2000000.0,Blackburn,England,0.0,out,winter,1 Bundesliga,2009,False,
+VfL Bochum,Zlatko Dedic,24,Slovenia,Centre-Forward,CF,1000000.0,Frosinone,Italy,800000.0,in,summer,1 Bundesliga,2009,False,
+VfL Bochum,Andreas Johansson,27,Sweden,Centre-Back,CB,1000000.0,Halmstads BK,Sweden,400000.0,in,summer,1 Bundesliga,2009,False,
+VfL Bochum,Heinrich Schmidtgal,23,Kazakhstan,Left-Back,LB,200000.0,RW Oberhausen,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Ivo Ilicevic,22,Croatia,Left Winger,LW,1400000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+VfL Bochum,David Zajas,26,Germany,Defensive Midfield,DM,125000.0,Velbert 02,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Danny Fuchs,33,Germany,Left Winger,LW,500000.0,1.FC K'lautern,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Marcin Mieciel,33,Poland,Centre-Forward,CF,600000.0,Legia Warszawa,Poland,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Oliver Schröder,29,Germany,Defensive Midfield,DM,1000000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Sinan Kaloglu,28,Turkey,Centre-Forward,CF,1500000.0,Vitesse,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Andreas Lengsfeld,23,Germany,Goalkeeper,GK,100000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+VfL Bochum,Lewis Holtby,19,Germany,Central Midfield,CM,3000000.0,FC Schalke 04,Germany,500000.0,in,winter,1 Bundesliga,2009,True,loan with fee
+VfL Bochum,Milos Maric,27,Serbia,Central Midfield,CM,2750000.0,KAA Gent,Belgium,400000.0,in,winter,1 Bundesliga,2009,False,
+VfL Bochum,Shinji Ono,30,Japan,Attacking Midfield,AM,1400000.0,Shimizu S-Pulse,Japan,250000.0,out,winter,1 Bundesliga,2009,False,
+VfL Bochum,Daniel Imhof,32,Canada,Defensive Midfield,DM,1300000.0,FC St. Gallen,Switzerland,0.0,out,winter,1 Bundesliga,2009,False,
+VfL Bochum,Daniel Fernandes,26,Portugal,Goalkeeper,GK,1000000.0,Iraklis,Greece,0.0,out,winter,1 Bundesliga,2009,True,free loan
+VfL Wolfsburg,Obafemi Martins,24,Nigeria,Centre-Forward,CF,12500000.0,Newcastle,England,10500000.0,in,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Karim Ziani,26,Algeria,Attacking Midfield,AM,6500000.0,Marseille,France,7000000.0,in,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Thomas Kahlenberg,26,Denmark,Central Midfield,CM,4500000.0,AJ Auxerre,France,3700000.0,in,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Fabian Johnson,21,United States,Left Winger,LW,1000000.0,1860 Munich,Germany,1100000.0,in,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Cristian Zaccardo,27,Italy,Centre-Back,CB,5000000.0,Parma,Italy,2000000.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Cédric Makiadi,25,DR Congo,Central Midfield,CM,2000000.0,SC Freiburg,Germany,900000.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Rick Hoogendorp,34,Netherlands,Centre-Forward,CF,700000.0,Scheveningen,Netherlands,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Kamani Hill,23,United States,Centre-Forward,CF,150000.0,Vit. Guimarães,Portugal,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Alex,29,Portugal,Right-Back,RB,300000.0,Vit. Guimarães,Portugal,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Christopher Lamprecht,24,Germany,Right-Back,RB,250000.0,Holstein Kiel,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Sergiu Radu,31,Romania,Centre-Forward,CF,700000.0,Energie Cottbus,Germany,0.0,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Caiuby,20,Brazil,Second Striker,SS,2000000.0,MSV Duisburg,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+VfL Wolfsburg,Daniel Adlung,21,Germany,Central Midfield,CM,500000.0,Alem. Aachen,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+VfL Wolfsburg,Mahir Saglik,26,Turkey,Centre-Forward,CF,700000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2009,True,free loan
+VfL Wolfsburg,Patrick Platins,26,Germany,Goalkeeper,GK,75000.0,Without Club,,,out,summer,1 Bundesliga,2009,False,
+VfL Wolfsburg,Réver,24,Brazil,Centre-Back,CB,5500000.0,Grêmio,Brazil,5000000.0,in,winter,1 Bundesliga,2009,False,
+VfL Wolfsburg,Ricardo Costa,28,Portugal,Centre-Back,CB,3500000.0,LOSC Lille,France,500000.0,out,winter,1 Bundesliga,2009,False,
+VfL Wolfsburg,Rodrigo Alvim,26,Brazil,Left-Back,LB,1000000.0,Flamengo,Brazil,0.0,out,winter,1 Bundesliga,2009,False,
+VfL Wolfsburg,Vlad Munteanu,28,Romania,Left Midfield,LM,900000.0,FSV Frankfurt,Germany,0.0,out,winter,1 Bundesliga,2009,True,free loan
+VfL Wolfsburg,Daniel Baier,25,Germany,Defensive Midfield,DM,750000.0,FC Augsburg,Germany,0.0,out,winter,1 Bundesliga,2009,False,

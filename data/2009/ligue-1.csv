@@ -1,0 +1,446 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AJ Auxerre,Valter Birsa,22,Slovenia,Attacking Midfield,AM,1700000.0,FC Sochaux,France,1500000.0,in,summer,Ligue 1,2009,False,
+AJ Auxerre,Alexandre Licata,25,France,Centre-Forward,CF,2200000.0,Monaco,France,0.0,in,summer,Ligue 1,2009,False,
+AJ Auxerre,Roy Contout,24,French Guiana,Right Winger,RW,600000.0,Amiens SC,France,0.0,in,summer,Ligue 1,2009,False,
+AJ Auxerre,Aurélien Capoue,27,Guadeloupe,Left Winger,LW,1800000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2009,True,free loan
+AJ Auxerre,Thomas Kahlenberg,26,Denmark,Central Midfield,CM,4500000.0,VfL Wolfsburg,Germany,3700000.0,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Marc Fachan,20,France,Right-Back,RB,50000.0,Dynamo Kyiv II,Ukraine,0.0,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Ludovic Genest,21,France,Attacking Midfield,AM,800000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Maxime Jasse,21,France,Central Midfield,CM,300000.0,Dijon,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AJ Auxerre,Lynel Kitambala,20,France,Centre-Forward,CF,400000.0,Dijon,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AJ Auxerre,Denis Petric,21,Serbia,Goalkeeper,GK,200000.0,Cassis Carnoux,France,0.0,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Maurice Dalé,24,France,Centre-Forward,CF,300000.0,AC Arles-Avignon,France,0.0,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Steeven Langil,21,Martinique,Left Winger,LW,500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AJ Auxerre,Issa Ba,27,Senegal,Central Midfield,CM,300000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+AJ Auxerre,Valter Birsa,22,Slovenia,Attacking Midfield,AM,1700000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+AJ Auxerre,Gabriel Tamas,26,Romania,Centre-Back,CB,3400000.0,West Brom,England,1000000.0,out,winter,Ligue 1,2009,True,loan with fee
+AJ Auxerre,Kevin Lejeune,24,France,Left Midfield,LM,2200000.0,FC Nantes,France,0.0,out,winter,Ligue 1,2009,False,
+AJ Auxerre,Marcos António,26,Brazil,Centre-Back,CB,600000.0,Belenenses SAD,Portugal,0.0,out,winter,Ligue 1,2009,False,
+AJ Auxerre,Moussa Narry,23,Ghana,Defensive Midfield,DM,2200000.0,Le Mans UC 72,France,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Monaco,Mathieu Coutadeur,23,France,Central Midfield,CM,5000000.0,Le Mans UC 72,France,4000000.0,in,summer,Ligue 1,2009,False,
+AS Monaco,Eduardo Costa,26,Brazil,Defensive Midfield,DM,1500000.0,São Paulo,Brazil,2500000.0,in,summer,Ligue 1,2009,False,
+AS Monaco,Eidur Gudjohnsen,30,Iceland,Centre-Forward,CF,7000000.0,FC Barcelona,Spain,2000000.0,in,summer,Ligue 1,2009,False,
+AS Monaco,Sébastien Puygrenier,27,France,Centre-Back,CB,4200000.0,Zenit S-Pb,Russia,700000.0,in,summer,Ligue 1,2009,True,loan with fee
+AS Monaco,Djimi Traoré,29,Mali,Centre-Back,CB,2000000.0,Portsmouth,England,0.0,in,summer,Ligue 1,2009,False,
+AS Monaco,Djamel Bakar,20,Comoros,Centre-Forward,CF,800000.0,AS Nancy,France,2500000.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Nikola Pokrivac,23,Croatia,Defensive Midfield,DM,2000000.0,RB Salzburg,Austria,2000000.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Bolívar,28,Brazil,Centre-Back,CB,2800000.0,Internacional,Brazil,1500000.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Torben Joneleit,22,Germany,Centre-Back,CB,650000.0,RSC Charleroi,Belgium,75000.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Alexandre Licata,25,France,Centre-Forward,CF,2200000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Leandro Cufré,31,Argentina,Left-Back,LB,2000000.0,Gimnasia,Argentina,0.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Gonzalo Vargas,27,Uruguay,Centre-Forward,CF,1800000.0,Atlas,Mexico,0.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Manuel Vallaurio,22,Monaco,Goalkeeper,GK,50000.0,Rodez AF,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Monaco,Flavio Roma,35,Italy,Goalkeeper,GK,1400000.0,AC Milan,Italy,0.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Loïc Dufau,20,France,Defensive Midfield,DM,50000.0,Cassis Carnoux,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Monaco,Vincent Ramaël,21,France,Centre-Forward,CF,250000.0,Cassis Carnoux,France,0.0,out,summer,Ligue 1,2009,False,
+AS Monaco,Kévin Diaz,20,France,Right Midfield,RM,150000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Monaco,Massamba Sambou,22,Senegal,Centre-Back,CB,1400000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Monaco,Sani Kaita,23,Nigeria,Defensive Midfield,DM,700000.0,Loko Moscow,Russia,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Monaco,Camel Meriem,29,France,Attacking Midfield,AM,4500000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+AS Monaco,Arnaud Lescure,23,France,Centre-Back,CB,200000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+AS Monaco,Freddy Adu,20,United States,Attacking Midfield,AM,900000.0,Benfica,Portugal,0.0,out,summer,Ligue 1,2009,True,end of loan
+AS Monaco,Moussa Maazou,21,Niger,Centre-Forward,CF,2200000.0,CSKA Moscow,Russia,700000.0,in,winter,Ligue 1,2009,True,loan with fee
+AS Monaco,Frédéric Nimani,21,Central African Republic,Centre-Forward,CF,2100000.0,Burnley,England,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Monaco,Serge Gakpé,22,Togo,Right Winger,RW,1500000.0,Tours FC,France,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Monaco,Eidur Gudjohnsen,31,Iceland,Centre-Forward,CF,4800000.0,Spurs,England,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Monaco,Sani Kaita,23,Nigeria,Defensive Midfield,DM,800000.0,Spartak V-kavkaz,Russia,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Djamel Bakar,20,Comoros,Centre-Forward,CF,800000.0,Monaco,France,2500000.0,in,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Jordan Lotiès,24,France,Centre-Back,CB,1200000.0,Dijon,France,1200000.0,in,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Bocundji Ca,22,Guinea-Bissau,Defensive Midfield,DM,1000000.0,Tours FC,France,1000000.0,in,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Reynald Lemaître,26,France,Left-Back,LB,1500000.0,SM Caen,France,1000000.0,in,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Bakaye Traoré,24,Mali,Central Midfield,CM,900000.0,Amiens SC,France,0.0,in,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Floyd Ayité,20,Togo,Left Winger,LW,600000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Florian Marange,23,France,Left-Back,LB,750000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Cheick Diabaté,21,Mali,Centre-Forward,CF,1200000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Marc-Antoine Fortuné,28,French Guiana,Centre-Forward,CF,3600000.0,Celtic,Scotland,4400000.0,out,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Landry N'Guémo,23,Cameroon,Defensive Midfield,DM,3500000.0,Celtic,Scotland,750000.0,out,summer,Ligue 1,2009,True,loan with fee
+AS Nancy-Lorraine,Helder,21,Brazil,Right-Back,RB,1000000.0,Rapid Bucharest,Romania,200000.0,out,summer,Ligue 1,2009,True,loan with fee
+AS Nancy-Lorraine,Geoffrey Adjet,21,France,Left-Back,LB,300000.0,Tours FC,France,0.0,out,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Frédéric Biancalani,35,France,Left-Back,LB,900000.0,FC Metz,France,0.0,out,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Monsef Zerka,28,Morocco,Right Midfield,RM,1500000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2009,False,
+AS Nancy-Lorraine,Benjamin Gavanon,29,France,Central Midfield,CM,4000000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Momar Faye,21,Senegal,Defensive Midfield,DM,50000.0,FC Vesoul,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Basile Camerling,22,France,Centre-Forward,CF,200000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Thomas Gaudu,22,France,Goalkeeper,GK,50000.0,AS Moulins,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Jean Calvé,25,France,Right-Back,RB,900000.0,Grenoble,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Nancy-Lorraine,Veigar Páll Gunnarsson,29,Iceland,Second Striker,SS,650000.0,Stabæk Fotball,Norway,250000.0,out,winter,Ligue 1,2009,False,
+AS Nancy-Lorraine,Jean Calvé,25,France,Right-Back,RB,900000.0,Grenoble,France,0.0,out,winter,Ligue 1,2009,True,free loan
+AS Saint-Étienne,Gonzalo Bergessio,25,Argentina,Centre-Forward,CF,3300000.0,San Lorenzo,Argentina,6200000.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Boubacar Sanogo,26,Cote d'Ivoire,Centre-Forward,CF,3000000.0,Werder Bremen,Germany,5000000.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Gelson Fernandes,22,Switzerland,Defensive Midfield,DM,5500000.0,Man City,England,3500000.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Bakary Sako,21,Mali,Left Winger,LW,1000000.0,LB Châteauroux,France,3000000.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Guirane N'Daw,25,Senegal,Defensive Midfield,DM,4000000.0,FC Nantes,France,1000000.0,in,summer,Ligue 1,2009,True,loan with fee
+AS Saint-Étienne,Vincent Planté,28,France,Goalkeeper,GK,2600000.0,SM Caen,France,800000.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Augusto Fernández,23,Argentina,Central Midfield,CM,3200000.0,River Plate,Argentina,0.0,in,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Bafétimbi Gomis,23,France,Centre-Forward,CF,8000000.0,Olympique Lyon,France,13000000.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Daisuke Matsui,28,Japan,Left Midfield,LM,2500000.0,Grenoble,France,1000000.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Jody Viviani,27,France,Goalkeeper,GK,1200000.0,Grenoble,France,400000.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Geoffrey Dernis,28,France,Left Winger,LW,2800000.0,Montpellier,France,0.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Lasse Nilsson,27,Sweden,Centre-Forward,CF,1000000.0,Vitesse,Netherlands,0.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Sébastien Grax,25,France,Centre-Forward,CF,1200000.0,Guingamp,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Saint-Étienne,Jessy Moulin,23,France,Goalkeeper,GK,150000.0,Fréjus-St-Raph.,France,0.0,out,summer,Ligue 1,2009,True,free loan
+AS Saint-Étienne,Samy Houri,24,France,Attacking Midfield,AM,100000.0,KV Oostende,Belgium,0.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,David Sauget,29,France,Left-Back,LB,2000000.0,Grenoble,France,0.0,out,summer,Ligue 1,2009,False,
+AS Saint-Étienne,Paulo Machado,23,Portugal,Central Midfield,CM,3200000.0,FC Porto,Portugal,0.0,out,summer,Ligue 1,2009,True,end of loan
+AS Saint-Étienne,Pape Diakhaté,25,Senegal,Centre-Back,CB,4500000.0,Dynamo Kyiv,Ukraine,0.0,in,winter,Ligue 1,2009,True,free loan
+AS Saint-Étienne,David Gigliotti,24,France,Centre-Forward,CF,500000.0,AC Le Havre,France,0.0,out,winter,Ligue 1,2009,False,
+AS Saint-Étienne,Amine Linganzi,20,Congo,Central Midfield,CM,150000.0,Blackburn,England,0.0,out,winter,Ligue 1,2009,False,
+AS Saint-Étienne,Ilan,29,Brazil,Centre-Forward,CF,3300000.0,West Ham,England,0.0,out,winter,Ligue 1,2009,False,
+FC Girondins Bordeaux,Yoann Gourcuff,22,France,Attacking Midfield,AM,18500000.0,AC Milan,Italy,13500000.0,in,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Cédric Carrasso,27,France,Goalkeeper,GK,6000000.0,Toulouse,France,8000000.0,in,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Michaël Ciani,25,France,Centre-Back,CB,3000000.0,FC Lorient,France,4000000.0,in,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Jaroslav Plasil,27,Czech Republic,Central Midfield,CM,4000000.0,CA Osasuna,Spain,3000000.0,in,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Souleymane Diawara,30,Senegal,Centre-Back,CB,7500000.0,Marseille,France,6500000.0,out,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Gabriel Obertan,20,France,Attacking Midfield,AM,3000000.0,Man Utd,England,4000000.0,out,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Mathieu Valverde,26,France,Goalkeeper,GK,1600000.0,US Boulogne,France,500000.0,out,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Kévin Olimpa,21,Martinique,Goalkeeper,GK,400000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Floyd Ayité,20,Togo,Left Winger,LW,600000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Florian Marange,23,France,Left-Back,LB,750000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Wilfried Moimbé,20,France,Left-Back,LB,500000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Ted Lavie,23,France,Right-Back,RB,300000.0,Cannes,France,0.0,out,summer,Ligue 1,2009,False,
+FC Girondins Bordeaux,Matthieu Saunier,19,France,Centre-Back,CB,50000.0,Rodez AF,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Cheick Diabaté,21,Mali,Centre-Forward,CF,1200000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Yoann Gourcuff,22,France,Attacking Midfield,AM,18500000.0,AC Milan,Italy,0.0,out,summer,Ligue 1,2009,True,end of loan
+FC Girondins Bordeaux,Paul Lasne,20,France,Defensive Midfield,DM,150000.0,LB Châteauroux,France,0.0,out,winter,Ligue 1,2009,True,free loan
+FC Girondins Bordeaux,Grzegorz Krychowiak,19,Poland,Defensive Midfield,DM,100000.0,Stade Reims,France,0.0,out,winter,Ligue 1,2009,True,free loan
+FC Lorient,Gabriel Peñalba,24,Argentina,Central Midfield,CM,1800000.0,Argentinos Jrs.,Argentina,1500000.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Laurent Koscielny,23,France,Centre-Back,CB,1200000.0,Tours FC,France,1500000.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Franco Sosa,28,Argentina,Right-Back,RB,1500000.0,Racing Club,Argentina,800000.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Arnold Mvuemba,24,DR Congo,Defensive Midfield,DM,900000.0,Portsmouth,England,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,James Fanchone,29,France,Right Winger,RW,2000000.0,R. Strasbourg,France,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Maxime Baca,26,France,Right-Back,RB,800000.0,AC Le Havre,France,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Olivier Monterrubio,32,France,Left Winger,LW,2500000.0,FC Sion,Switzerland,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Sigamary Diarra,25,Mali,Left Midfield,LM,700000.0,Tours FC,France,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Maxime Barthelmé,20,France,Left Midfield,LM,,RC Paris,France,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Jonas Sakuwaha,26,Zambia,Right Winger,RW,,ZESCO United FC,Zambia,0.0,in,summer,Ligue 1,2009,False,
+FC Lorient,Michaël Ciani,25,France,Centre-Back,CB,3000000.0,G. Bordeaux,France,4000000.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Christophe Jallet,25,France,Right-Back,RB,2500000.0,Paris SG,France,2500000.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Fabrice Abriel,30,France,Central Midfield,CM,4500000.0,Marseille,France,2500000.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Rafik Saïfi,34,Algeria,Centre-Forward,CF,2000000.0,Al-Khor SC,Qatar,500000.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Ulrich Le Pen,35,France,Left Midfield,LM,800000.0,Stade Lavallois,France,0.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Bertrand Robert,25,Réunion,Left Winger,LW,500000.0,Panthrakikos,Greece,0.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Oscar Ewolo,30,Congo,Central Midfield,CM,1500000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Fabien Robert,20,France,Left Midfield,LM,500000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Lorient,Alain Cantareil,25,France,Left-Back,LB,900000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Nicolas Marin,28,France,Right Midfield,RM,900000.0,FC Sion,Switzerland,0.0,out,summer,Ligue 1,2009,False,
+FC Lorient,Rafik Bouderbal,21,Algeria,Right Winger,RW,50000.0,ES Sétif,Algeria,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Lorient,Marc Boutruche,32,France,Right-Back,RB,200000.0,Retired,,,out,summer,Ligue 1,2009,False,
+FC Lorient,Julian Pinard,23,France,Centre-Forward,CF,150000.0,Retired,,,out,summer,Ligue 1,2009,False,
+FC Lorient,Hamed Namouchi,25,Tunisia,Attacking Midfield,AM,1000000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+FC Lorient,Ricardo Sophie,21,France,Central Midfield,CM,50000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+FC Lorient,André Ayew,19,Ghana,Centre-Forward,CF,1200000.0,Marseille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+FC Lorient,Gabriel Obertan,20,France,Attacking Midfield,AM,3000000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+FC Lorient,Jean Calvé,25,France,Right-Back,RB,2000000.0,AS Nancy,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+FC Lorient,Bakary Soro,23,Cote d'Ivoire,Centre-Back,CB,500000.0,Charlton U21,England,0.0,out,summer,Ligue 1,2009,True,end of loan
+FC Lorient,Grégory Bourillon,25,France,Centre-Back,CB,1000000.0,Paris SG,France,1700000.0,in,winter,Ligue 1,2009,False,
+FC Lorient,Sebastián Dubarbier,23,Argentina,Left-Back,LB,2650000.0,CFR Cluj,Romania,1500000.0,in,winter,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Charlie Davies,23,United States,Centre-Forward,CF,2000000.0,Hammarby,Sweden,1500000.0,in,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Jérémie Bréchet,29,France,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,1000000.0,in,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Ivan Stevanovic,26,Serbia,Right-Back,RB,1250000.0,Partizan,Serbia,1000000.0,in,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Benjamin Gavanon,29,France,Central Midfield,CM,4000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2009,True,free loan
+FC Sochaux-Montbéliard,Mevlüt Erdinc,22,Turkey,Centre-Forward,CF,5500000.0,Paris SG,France,8500000.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Valter Birsa,22,Slovenia,Attacking Midfield,AM,1700000.0,AJ Auxerre,France,1500000.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Ivan Perisic,20,Croatia,Left Winger,LW,1000000.0,Club Brugge,Belgium,200000.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Jérémy Gavanon,25,France,Goalkeeper,GK,600000.0,Cannes,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Romain Pitau,31,France,Defensive Midfield,DM,3000000.0,Montpellier,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Stéphane Pichot,32,France,Right-Back,RB,1300000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Mickaël Isabey,34,France,Right Midfield,RM,1500000.0,Dijon,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Robin Previtali,22,France,Attacking Midfield,AM,150000.0,FC Gueugnon,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Sochaux-Montbéliard,Valéry Mézague,25,Cameroon,Attacking Midfield,AM,900000.0,Vannes,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Rabiu Afolabi,29,Nigeria,Centre-Back,CB,3000000.0,RB Salzburg,Austria,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Omar Daf,32,Senegal,Right-Back,RB,800000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Lionel Mathis,27,France,Defensive Midfield,DM,1000000.0,Guingamp,France,0.0,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Kandia Traoré,28,Cote d'Ivoire,Centre-Forward,CF,1800000.0,SM Caen,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Sochaux-Montbéliard,Badara Sène,24,Senegal,Defensive Midfield,DM,650000.0,Le Mans UC 72,France,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Sochaux-Montbéliard,Olivier Thomas,34,France,Left-Back,LB,400000.0,Retired,,,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Hakim El Bounadi,22,France,Centre-Back,CB,250000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Brown Ideye,21,Nigeria,Centre-Forward,CF,3000000.0,Xamax,Switzerland,4000000.0,in,winter,Ligue 1,2009,False,
+FC Sochaux-Montbéliard,Bojan Jokic,23,Slovenia,Left-Back,LB,1000000.0,Chievo Verona,Italy,0.0,out,winter,Ligue 1,2009,True,free loan
+FC Toulouse,Paulo Machado,23,Portugal,Central Midfield,CM,3200000.0,FC Porto,Portugal,3500000.0,in,summer,Ligue 1,2009,False,
+FC Toulouse,Luan,20,Brazil,Left Winger,LW,2000000.0,São Caetano,Brazil,2500000.0,in,summer,Ligue 1,2009,False,
+FC Toulouse,Yohann Pelé,26,France,Goalkeeper,GK,5000000.0,Le Mans UC 72,France,0.0,in,summer,Ligue 1,2009,False,
+FC Toulouse,Antoine Devaux,24,France,Central Midfield,CM,600000.0,US Boulogne,France,0.0,in,summer,Ligue 1,2009,False,
+FC Toulouse,Dany Nounkeu,23,Cameroon,Centre-Back,CB,,Pau FC,France,0.0,in,summer,Ligue 1,2009,False,
+FC Toulouse,Jean-Joël Perrier-Doumbé,31,Cameroon,Right-Back,RB,750000.0,Without Club,,,in,summer,Ligue 1,2009,False,
+FC Toulouse,Cédric Carrasso,27,France,Goalkeeper,GK,6000000.0,G. Bordeaux,France,8000000.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Hérita Ilunga,27,DR Congo,Left-Back,LB,5500000.0,West Ham,England,3500000.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Pavel Fort,26,Czech Republic,Centre-Forward,CF,1000000.0,Arm. Bielefeld,Germany,450000.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Anthony Ouasfane,20,Algeria,Centre-Back,CB,50000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Jérémy Mathieu,25,France,Centre-Back,CB,6000000.0,Valencia,Spain,0.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Bryan Bergougnoux,26,France,Attacking Midfield,AM,1700000.0,Lecce,Italy,0.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Paulo César,31,Brazil,Right Midfield,RM,1000000.0,Fluminense,Brazil,0.0,out,summer,Ligue 1,2009,False,
+FC Toulouse,Sören Larsen,27,Denmark,Centre-Forward,CF,1200000.0,MSV Duisburg,Germany,0.0,out,summer,Ligue 1,2009,True,free loan
+FC Toulouse,Alexandre Bonnet,22,France,Left Midfield,LM,1400000.0,AC Le Havre,France,,out,summer,Ligue 1,2009,False,
+FC Toulouse,Sébastien Hamel,33,France,Goalkeeper,GK,400000.0,Retired,,,out,summer,Ligue 1,2009,False,
+FC Toulouse,Colin Kazim-Richards,23,Turkey,Centre-Forward,CF,4000000.0,Fenerbahce,Turkey,0.0,in,winter,Ligue 1,2009,True,free loan
+FC Toulouse,Mathieu Valverde,26,France,Goalkeeper,GK,1600000.0,US Boulogne,France,,in,winter,Ligue 1,2009,False,
+FC Toulouse,Jean-Joël Perrier-Doumbé,31,Cameroon,Right-Back,RB,750000.0,Without Club,,,in,winter,Ligue 1,2009,False,
+FC Toulouse,Xavier Pentecôte,23,France,Centre-Forward,CF,1200000.0,SC Bastia,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Grenoble Foot 38,Sandy Paillot,22,France,Centre-Back,CB,1400000.0,Olympique Lyon,France,1500000.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Daisuke Matsui,28,Japan,Left Midfield,LM,2500000.0,Saint-Étienne,France,1000000.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Josip Tadic,21,Croatia,Centre-Forward,CF,1300000.0,Dinamo Zagreb,Croatia,600000.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Jody Viviani,27,France,Goalkeeper,GK,1200000.0,Saint-Étienne,France,400000.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Nicolas Dieuze,30,France,Central Midfield,CM,2500000.0,AC Le Havre,France,100000.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Danijel Ljuboja,30,Serbia,Centre-Forward,CF,500000.0,VfB Stuttgart,Germany,0.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,David Sauget,29,France,Left-Back,LB,2000000.0,Saint-Étienne,France,0.0,in,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Jean Calvé,25,France,Right-Back,RB,900000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2009,True,free loan
+Grenoble Foot 38,Francis N'Ganga,24,Congo,Left-Back,LB,400000.0,Tours FC,France,0.0,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Hristo Yanev,30,Bulgaria,Attacking Midfield,AM,300000.0,Litex Lovech,Bulgaria,0.0,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Bouchaib El Moubarki,31,Morocco,Right Winger,RW,600000.0,Moghreb Tétouan,Morocco,0.0,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Mathieu Gianni,24,France,Central Midfield,CM,50000.0,Le Pontet,France,0.0,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Grégory Wimbée,37,France,Goalkeeper,GK,,Valenciennes FC,France,0.0,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Mustafa Kucukovic,23,Germany,Centre-Forward,CF,150000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Maxence Flachez,36,France,Centre-Back,CB,900000.0,Retired,,,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Walid Regragui,33,Morocco,Right-Back,RB,800000.0,Retired,,,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Paul Cattier,23,France,Goalkeeper,GK,150000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Grenoble Foot 38,Sandy Paillot,22,France,Centre-Back,CB,1400000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Grenoble Foot 38,Daniel Moreira,31,France,Second Striker,SS,1700000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Grenoble Foot 38,Albert Baning,24,Cameroon,Defensive Midfield,DM,1000000.0,Paris SG,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Grenoble Foot 38,Larsen Touré,24,Guinea,Right Winger,RW,700000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Grenoble Foot 38,Elliot Grandin,21,France,Right Winger,RW,1300000.0,Marseille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Grenoble Foot 38,François Marque,26,France,Centre-Back,CB,500000.0,FC Basel,Switzerland,0.0,in,winter,Ligue 1,2009,False,
+Grenoble Foot 38,Jean Calvé,25,France,Right-Back,RB,900000.0,AS Nancy,France,0.0,in,winter,Ligue 1,2009,True,free loan
+Grenoble Foot 38,Milos Dimitrijevic,25,Serbia,Central Midfield,CM,800000.0,Rad,Serbia,0.0,out,winter,Ligue 1,2009,False,
+Grenoble Foot 38,Laurent Macquet,30,France,Central Midfield,CM,450000.0,Vannes,France,0.0,out,winter,Ligue 1,2009,False,
+LOSC Lille,Gervinho,22,Cote d'Ivoire,Left Winger,LW,6000000.0,Le Mans UC 72,France,6500000.0,in,summer,Ligue 1,2009,False,
+LOSC Lille,Mickaël Landreau,30,France,Goalkeeper,GK,6500000.0,Paris SG,France,1600000.0,in,summer,Ligue 1,2009,False,
+LOSC Lille,Ludovic Butelle,26,France,Goalkeeper,GK,700000.0,Valencia,Spain,0.0,in,summer,Ligue 1,2009,False,
+LOSC Lille,Barel Mouko,30,Congo,Goalkeeper,GK,400000.0,FC Gueugnon,France,0.0,in,summer,Ligue 1,2009,False,
+LOSC Lille,Pierre-Emerick Aubameyang,20,Gabon,Centre-Forward,CF,1000000.0,AC Milan,Italy,0.0,in,summer,Ligue 1,2009,True,free loan
+LOSC Lille,Michel Bastos,25,Brazil,Left Midfield,LM,10000000.0,Olympique Lyon,France,18000000.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Souleymane Youla,27,Guinea,Centre-Forward,CF,2500000.0,Eskisehirspor,Turkey,750000.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Badis Lebbihi,19,Algeria,Centre-Back,CB,100000.0,Zulte Waregem,Belgium,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Chris Makiese,21,France,Centre-Forward,CF,600000.0,Zulte Waregem,Belgium,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Grégory Tafforeau,32,France,Left-Back,LB,2500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Brian Obino,21,France,Attacking Midfield,AM,100000.0,Marck,France,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Grégory Malicki,35,France,Goalkeeper,GK,2000000.0,Dijon,France,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Nicolas Fauvergue,24,France,Centre-Forward,CF,2000000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2009,True,free loan
+LOSC Lille,Cédric Baseya,21,DR Congo,Centre-Forward,CF,150000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2009,True,free loan
+LOSC Lille,Luis Yanes,26,Colombia,Centre-Forward,CF,400000.0,Cúcuta Dep.,Colombia,0.0,out,summer,Ligue 1,2009,False,
+LOSC Lille,Peter Franquart,24,France,Centre-Back,CB,1000000.0,RSC Charleroi,Belgium,0.0,out,summer,Ligue 1,2009,True,free loan
+LOSC Lille,Jérémy Taravel,22,France,Centre-Back,CB,750000.0,Zulte Waregem,Belgium,,out,summer,Ligue 1,2009,False,
+LOSC Lille,Ludovic Butelle,26,France,Goalkeeper,GK,700000.0,Valencia,Spain,0.0,out,summer,Ligue 1,2009,True,end of loan
+LOSC Lille,Ricardo Costa,28,Portugal,Centre-Back,CB,3500000.0,VfL Wolfsburg,Germany,500000.0,in,winter,Ligue 1,2009,False,
+LOSC Lille,Marko Maric,26,Croatia,Defensive Midfield,DM,200000.0,Skoda Xanthi,Greece,0.0,out,winter,Ligue 1,2009,False,
+LOSC Lille,Emil Lyng,20,Denmark,Second Striker,SS,400000.0,Zulte Waregem,Belgium,0.0,out,winter,Ligue 1,2009,True,free loan
+LOSC Lille,Robert Vittek,27,Slovakia,Centre-Forward,CF,2500000.0,Ankaragücü,Turkey,0.0,out,winter,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,João Paulo,28,Portugal,Centre-Back,CB,2300000.0,FC Porto,Portugal,1500000.0,in,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Didier Ovono,26,Gabon,Goalkeeper,GK,200000.0,Dinamo Tbilisi,Georgia,800000.0,in,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Sekou Ouattara,23,Cote d'Ivoire,Right-Back,RB,350000.0,KSV Roeselare,Belgium,,in,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Patrick Ekeng,19,Cameroon,Central Midfield,CM,,Canon Yaoundé,Cameroon,,in,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Badara Sène,24,Senegal,Defensive Midfield,DM,650000.0,FC Sochaux,France,0.0,in,summer,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Gervinho,22,Cote d'Ivoire,Left Winger,LW,6000000.0,LOSC Lille,France,6500000.0,out,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Mathieu Coutadeur,23,France,Central Midfield,CM,5000000.0,Monaco,France,4000000.0,out,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Yohann Pelé,26,France,Goalkeeper,GK,5000000.0,Toulouse,France,0.0,out,summer,Ligue 1,2009,False,
+Le Mans Union Club 72,Thibault Ferrand,23,France,Goalkeeper,GK,200000.0,Stade Reims,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Abdou Dieye,21,Senegal,Left Winger,LW,50000.0,Rodez AF,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Khaled Adénon,23,Benin,Centre-Back,CB,600000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Paulo André,25,Brazil,Centre-Back,CB,1700000.0,Corinthians,Brazil,0.0,out,summer,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Almen Abdi,23,Switzerland,Central Midfield,CM,2000000.0,FC Zürich,Switzerland,333000.0,in,winter,Ligue 1,2009,False,
+Le Mans Union Club 72,Idir Ouali,21,Algeria,Left Winger,LW,500000.0,Exc. Mouscron,Belgium,0.0,in,winter,Ligue 1,2009,False,
+Le Mans Union Club 72,Olivier Thomert,29,Martinique,Left Midfield,LM,1700000.0,Stade Rennais,France,0.0,in,winter,Ligue 1,2009,False,
+Le Mans Union Club 72,Moussa Narry,23,Ghana,Defensive Midfield,DM,2200000.0,AJ Auxerre,France,0.0,in,winter,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Marcelo Estigarribia,22,Paraguay,Left Midfield,LM,800000.0,Newell's,Argentina,0.0,out,winter,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Ibrahima Camara,25,Guinea,Left-Back,LB,1800000.0,FC Nantes,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Le Mans Union Club 72,Alphousseyni Keita,24,Mali,Defensive Midfield,DM,600000.0,Nîmes Olympique,France,,out,winter,Ligue 1,2009,False,
+Le Mans Union Club 72,Saber Ben Frej,30,Tunisia,Right-Back,RB,900000.0,Without Club,,,out,winter,Ligue 1,2009,False,
+Montpellier HSC,Cyril Jeunechamp,33,France,Defensive Midfield,DM,1000000.0,OGC Nice,France,0.0,in,summer,Ligue 1,2009,False,
+Montpellier HSC,Romain Pitau,31,France,Defensive Midfield,DM,3000000.0,FC Sochaux,France,0.0,in,summer,Ligue 1,2009,False,
+Montpellier HSC,Geoffrey Dernis,28,France,Left Winger,LW,2800000.0,Saint-Étienne,France,0.0,in,summer,Ligue 1,2009,False,
+Montpellier HSC,Emir Spahic,28,Bosnia-Herzegovina,Centre-Back,CB,3000000.0,Without Club,,,in,summer,Ligue 1,2009,False,
+Montpellier HSC,Romain Armand,22,France,Centre-Forward,CF,250000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Montpellier HSC,Anthony Lippini,20,France,Right-Back,RB,150000.0,Troyes,France,0.0,out,summer,Ligue 1,2009,False,
+Montpellier HSC,Nicolas Sahnoun,28,France,Defensive Midfield,DM,300000.0,Racing Ferrol,Spain,0.0,out,summer,Ligue 1,2009,True,free loan
+Montpellier HSC,Abdelnasser Ouadah,33,Algeria,Left Winger,LW,600000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Montpellier HSC,Bruno Carotti,36,France,Centre-Back,CB,400000.0,Retired,,,out,summer,Ligue 1,2009,False,
+Montpellier HSC,Jean-Philippe Sabo,22,France,Left-Back,LB,600000.0,Marseille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Montpellier HSC,Garry Bocaly,21,Martinique,Right-Back,RB,2300000.0,Marseille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Montpellier HSC,Thomas Deruda,22,France,Central Midfield,CM,400000.0,Marseille,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Montpellier HSC,Garry Bocaly,21,Martinique,Right-Back,RB,2300000.0,Marseille,France,0.0,in,winter,Ligue 1,2009,True,free loan
+OGC Nice,Anthony Mounier,21,France,Left Winger,LW,2500000.0,Olympique Lyon,France,2500000.0,in,summer,Ligue 1,2009,False,
+OGC Nice,Mamadou Bagayoko,30,Mali,Centre-Forward,CF,2200000.0,FC Nantes,France,1000000.0,in,summer,Ligue 1,2009,False,
+OGC Nice,Larrys Mabiala,21,DR Congo,Centre-Back,CB,400000.0,Paris SG,France,0.0,in,summer,Ligue 1,2009,False,
+OGC Nice,Mickael Pote,24,Benin,Centre-Forward,CF,900000.0,Clermont Foot,France,0.0,in,summer,Ligue 1,2009,False,
+OGC Nice,Alain Cantareil,25,France,Left-Back,LB,900000.0,FC Lorient,France,0.0,in,summer,Ligue 1,2009,False,
+OGC Nice,Jonathan Quartey,21,Ghana,Centre-Back,CB,400000.0,Kaizer Chiefs,South Africa,,in,summer,Ligue 1,2009,False,
+OGC Nice,Grégory Paisley,32,France,Left-Back,LB,1300000.0,R. Strasbourg,France,,in,summer,Ligue 1,2009,False,
+OGC Nice,Alaeddine Yahia,27,Tunisia,Centre-Back,CB,1200000.0,Lens,France,1000000.0,out,summer,Ligue 1,2009,False,
+OGC Nice,Cyril Rool,34,France,Left-Back,LB,2000000.0,Marseille,France,400000.0,out,summer,Ligue 1,2009,False,
+OGC Nice,Derek Asamoah,28,Ghana,Second Striker,SS,100000.0,Lok. Sofia,Bulgaria,50000.0,out,summer,Ligue 1,2009,False,
+OGC Nice,Cyril Jeunechamp,33,France,Defensive Midfield,DM,1000000.0,Montpellier,France,0.0,out,summer,Ligue 1,2009,False,
+OGC Nice,Cédric Kanté,29,Mali,Centre-Back,CB,3500000.0,Panathinaikos,Greece,0.0,out,summer,Ligue 1,2009,False,
+OGC Nice,Adeílson,23,Brazil,Centre-Forward,CF,1500000.0,Fluminense,Brazil,0.0,out,summer,Ligue 1,2009,True,free loan
+OGC Nice,Anthony Modeste,21,France,Centre-Forward,CF,1800000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2009,True,free loan
+OGC Nice,Nduka Ozokwo,20,Nigeria,Right Winger,RW,250000.0,Gateway FC,Nigeria,,out,summer,Ligue 1,2009,False,
+OGC Nice,Vincent Hognon,34,France,Centre-Back,CB,2500000.0,Retired,,,out,summer,Ligue 1,2009,False,
+OGC Nice,Patrick Barul,31,France,Right-Back,RB,200000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+OGC Nice,Matt Moussilou,27,Congo,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+OGC Nice,Didier Digard,23,France,Defensive Midfield,DM,3700000.0,Middlesbrough,England,0.0,in,winter,Ligue 1,2009,True,free loan
+OGC Nice,Renato Civelli,26,Argentina,Centre-Back,CB,1800000.0,San Lorenzo,Argentina,0.0,in,winter,Ligue 1,2009,True,free loan
+Olympique Lyon,Lisandro López,26,Argentina,Centre-Forward,CF,16500000.0,FC Porto,Portugal,24000000.0,in,summer,Ligue 1,2009,False,
+Olympique Lyon,Michel Bastos,25,Brazil,Left Midfield,LM,10000000.0,LOSC Lille,France,18000000.0,in,summer,Ligue 1,2009,False,
+Olympique Lyon,Aly Cissokho,21,France,Left-Back,LB,12000000.0,FC Porto,Portugal,16200000.0,in,summer,Ligue 1,2009,False,
+Olympique Lyon,Bafétimbi Gomis,23,France,Centre-Forward,CF,8000000.0,Saint-Étienne,France,13000000.0,in,summer,Ligue 1,2009,False,
+Olympique Lyon,Timothée Kolodziejczak,17,France,Centre-Back,CB,600000.0,Lens,France,2500000.0,in,summer,Ligue 1,2009,False,
+Olympique Lyon,Karim Benzema,21,France,Centre-Forward,CF,29000000.0,Real Madrid,Spain,35000000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,Abdul Kader Keita,27,Cote d'Ivoire,Right Winger,RW,8000000.0,Galatasaray,Turkey,7500000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,Juninho Pernambucano,34,Brazil,Attacking Midfield,AM,7000000.0,Al-Gharafa SC,Qatar,2500000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,Anthony Mounier,21,France,Left Winger,LW,2500000.0,OGC Nice,France,2500000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,Fabio Grosso,31,Italy,Left-Back,LB,7500000.0,Juventus,Italy,2000000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,Sandy Paillot,22,France,Centre-Back,CB,1400000.0,Grenoble,France,1500000.0,out,summer,Ligue 1,2009,False,
+Olympique Lyon,John Mensah,26,Ghana,Centre-Back,CB,6000000.0,Sunderland,England,1500000.0,out,summer,Ligue 1,2009,True,loan with fee
+Olympique Lyon,Frédéric Piquionne,30,Martinique,Centre-Forward,CF,5000000.0,Portsmouth,England,500000.0,out,summer,Ligue 1,2009,True,loan with fee
+Olympique Lyon,Jérémy Pied,20,France,Right-Back,RB,50000.0,FC Metz,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Olympique Lyon,Timothée Kolodziejczak,17,France,Centre-Back,CB,600000.0,Lens,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+Olympique Lyon,Dejan Lovren,20,Croatia,Centre-Back,CB,2500000.0,Dinamo Zagreb,Croatia,8000000.0,in,winter,Ligue 1,2009,False,
+Olympique Lyon,Romain Beynié,22,France,Defensive Midfield,DM,150000.0,FC Gueugnon,France,0.0,out,winter,Ligue 1,2009,False,
+Olympique Marseille,Lucho González,28,Argentina,Central Midfield,CM,21000000.0,FC Porto,Portugal,19000000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Stéphane Mbia,23,Cameroon,Defensive Midfield,DM,9500000.0,Stade Rennais,France,12000000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Souleymane Diawara,30,Senegal,Centre-Back,CB,7500000.0,G. Bordeaux,France,6500000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Fabrice Abriel,30,France,Central Midfield,CM,4500000.0,FC Lorient,France,2500000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Gabriel Heinze,31,Argentina,Centre-Back,CB,5000000.0,Real Madrid,Spain,1500000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Cyril Rool,34,France,Left-Back,LB,2000000.0,OGC Nice,France,400000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Charley Fomen,19,Cameroon,Left-Back,LB,,Panthère du Ndé,Cameroon,200000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Andrade,30,Portugal,Goalkeeper,GK,1200000.0,Rapid Bucharest,Romania,200000.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Fernando Morientes,33,Spain,Centre-Forward,CF,7000000.0,Valencia,Spain,0.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Édouard Cissé,31,France,Defensive Midfield,DM,3000000.0,Besiktas,Turkey,0.0,in,summer,Ligue 1,2009,False,
+Olympique Marseille,Djibril Cissé,27,France,Centre-Forward,CF,10500000.0,Panathinaikos,Greece,8000000.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Karim Ziani,26,Algeria,Attacking Midfield,AM,6500000.0,VfL Wolfsburg,Germany,7000000.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Lorik Cana,25,Albania,Defensive Midfield,DM,14000000.0,Sunderland,England,5800000.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Gaël Givet,27,France,Centre-Back,CB,2700000.0,Blackburn,England,4000000.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Ronald Zubar,23,Guadeloupe,Centre-Back,CB,2400000.0,Wolves,England,3000000.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Salim Arrache,27,Algeria,Left Winger,LW,600000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Renato Civelli,25,Argentina,Centre-Back,CB,2300000.0,San Lorenzo,Argentina,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Dmitriy Nepogodov,21,Kazakhstan,Goalkeeper,GK,50000.0,Cannes,France,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Thomas Deruda,22,France,Central Midfield,CM,400000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Fabrice Begeorgi,22,France,Left-Back,LB,250000.0,FC Istres,France,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Milos Krstic,22,Serbia,Attacking Midfield,AM,200000.0,OFK Beograd,Serbia,0.0,out,summer,Ligue 1,2009,False,
+Olympique Marseille,André Ayew,19,Ghana,Centre-Forward,CF,1200000.0,AC Arles-Avignon,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Olympique Marseille,Mamadou Samassa,23,Mali,Centre-Forward,CF,1500000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Olympique Marseille,Jean-Philippe Sabo,22,France,Left-Back,LB,600000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Olympique Marseille,Modeste M'Bami,26,Cameroon,Defensive Midfield,DM,4200000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Sylvain Wiltord,35,France,Second Striker,SS,1000000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Boudewijn Zenden,32,Netherlands,Left Winger,LW,2500000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Elliot Grandin,21,France,Right Winger,RW,1300000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Olympique Marseille,Tyrone Mears,26,England,Right-Back,RB,1700000.0,Derby,England,0.0,out,summer,Ligue 1,2009,True,end of loan
+Olympique Marseille,Cédric D'Ulivo,20,France,Right-Back,RB,50000.0,Cassis Carnoux,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Olympique Marseille,Hilaire Muñoz,26,France,Goalkeeper,GK,300000.0,Cassis Carnoux,France,0.0,out,winter,Ligue 1,2009,False,
+Olympique Marseille,Mohamed Dennoun,23,France,Attacking Midfield,AM,200000.0,Amiens SC,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Olympique Marseille,Garry Bocaly,21,Martinique,Right-Back,RB,2300000.0,Montpellier,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Mevlüt Erdinc,22,Turkey,Centre-Forward,CF,5500000.0,FC Sochaux,France,8500000.0,in,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Mateja Kezman,30,Serbia,Centre-Forward,CF,2700000.0,Fenerbahce,Turkey,3700000.0,in,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Christophe Jallet,25,France,Right-Back,RB,2500000.0,FC Lorient,France,2500000.0,in,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Grégory Coupet,36,France,Goalkeeper,GK,4000000.0,Atlético Madrid,Spain,800000.0,in,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Willy Grondin,34,France,Goalkeeper,GK,400000.0,Valenciennes FC,France,0.0,in,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Souza,30,Brazil,Attacking Midfield,AM,1800000.0,Grêmio,Brazil,2200000.0,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Mickaël Landreau,30,France,Goalkeeper,GK,6500000.0,LOSC Lille,France,1600000.0,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Jérôme Rothen,31,France,Left Midfield,LM,5500000.0,Rangers,Scotland,500000.0,out,summer,Ligue 1,2009,True,loan with fee
+Paris Saint-Germain,Youssouf Mulumbu,22,DR Congo,Defensive Midfield,DM,800000.0,West Brom,England,200000.0,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Larrys Mabiala,21,DR Congo,Centre-Back,CB,400000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Éverton Santos,22,Brazil,Centre-Forward,CF,500000.0,Albirex Niigata,Japan,0.0,out,summer,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Mateja Kezman,30,Serbia,Centre-Forward,CF,2700000.0,Zenit S-Pb,Russia,0.0,out,summer,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Adama Traoré,20,Mali,Second Striker,SS,,SR Saint-Dié,France,,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Fabrice Pancrate,29,France,Right Winger,RW,1300000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Stéphane Véron,23,France,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+Paris Saint-Germain,Mateja Kezman,30,Serbia,Centre-Forward,CF,2700000.0,Fenerbahce,Turkey,0.0,out,summer,Ligue 1,2009,True,end of loan
+Paris Saint-Germain,Grégory Bourillon,25,France,Centre-Back,CB,1000000.0,FC Lorient,France,1700000.0,out,winter,Ligue 1,2009,False,
+Paris Saint-Germain,Yannick Boli,22,Cote d'Ivoire,Centre-Forward,CF,300000.0,Nîmes Olympique,France,100000.0,out,winter,Ligue 1,2009,False,
+Paris Saint-Germain,Loris Arnaud,22,France,Centre-Forward,CF,700000.0,Clermont Foot,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Albert Baning,24,Cameroon,Defensive Midfield,DM,350000.0,R. Strasbourg,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Jérôme Rothen,31,France,Left Midfield,LM,1800000.0,Ankaragücü,Turkey,0.0,out,winter,Ligue 1,2009,True,free loan
+Paris Saint-Germain,Éverton Santos,23,Brazil,Centre-Forward,CF,400000.0,Goiás EC,Brazil,0.0,out,winter,Ligue 1,2009,True,free loan
+RC Lens,Eduardo,28,Brazil,Centre-Forward,CF,1500000.0,Guingamp,France,3000000.0,in,summer,Ligue 1,2009,False,
+RC Lens,Alaeddine Yahia,27,Tunisia,Centre-Back,CB,1200000.0,OGC Nice,France,1000000.0,in,summer,Ligue 1,2009,False,
+RC Lens,Hamdi Kasraoui,26,Tunisia,Goalkeeper,GK,1100000.0,Esperance,Tunisia,600000.0,in,summer,Ligue 1,2009,False,
+RC Lens,Issam El Adoua,22,Morocco,Defensive Midfield,DM,,Wydad AC,Morocco,350000.0,in,summer,Ligue 1,2009,False,
+RC Lens,Timothée Kolodziejczak,17,France,Centre-Back,CB,600000.0,Olympique Lyon,France,2500000.0,out,summer,Ligue 1,2009,False,
+RC Lens,Aruna Dindane,28,Cote d'Ivoire,Second Striker,SS,3000000.0,Portsmouth,England,500000.0,out,summer,Ligue 1,2009,True,loan with fee
+RC Lens,Nolan Roux,21,France,Centre-Forward,CF,100000.0,Stade Brest 29,France,0.0,out,summer,Ligue 1,2009,False,
+RC Lens,David Pollet,20,Belgium,Centre-Forward,CF,150000.0,Paris FC,France,0.0,out,summer,Ligue 1,2009,True,free loan
+RC Lens,Arnaud Brocard,22,France,Goalkeeper,GK,500000.0,Paris FC,France,0.0,out,summer,Ligue 1,2009,False,
+RC Lens,Sidi Keita,24,Mali,Defensive Midfield,DM,1600000.0,Xerez CD,Spain,0.0,out,summer,Ligue 1,2009,True,free loan
+RC Lens,Grégory Vignal,28,France,Left-Back,LB,600000.0,Birmingham,England,0.0,out,summer,Ligue 1,2009,False,
+RC Lens,Kévin Goeman,21,Belgium,Goalkeeper,GK,50000.0,Zulte Waregem,Belgium,0.0,out,summer,Ligue 1,2009,True,free loan
+RC Lens,Dalibor Veselinovic,21,Serbia,Centre-Forward,CF,200000.0,FC Brüssel,Belgium,,out,summer,Ligue 1,2009,False,
+RC Lens,Alaeddine Yahia,27,Tunisia,Centre-Back,CB,1200000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+RC Lens,Henri Bedimo,25,Cameroon,Left-Back,LB,900000.0,LB Châteauroux,France,,in,winter,Ligue 1,2009,False,
+RC Lens,Fabien Laurenti,27,France,Right-Back,RB,1400000.0,Stade Brest 29,France,0.0,out,winter,Ligue 1,2009,True,free loan
+RC Lens,Geoffrey Doumeng,29,France,Central Midfield,CM,1200000.0,Tours FC,France,0.0,out,winter,Ligue 1,2009,True,free loan
+RC Lens,Steven Joseph-Monrose,19,France,Centre-Forward,CF,400000.0,LB Châteauroux,France,0.0,out,winter,Ligue 1,2009,True,free loan
+RC Lens,Issam El Adoua,23,Morocco,Defensive Midfield,DM,500000.0,FC Nantes,France,0.0,out,winter,Ligue 1,2009,True,free loan
+Stade Rennais FC,Ismaël Bangoura,24,Guinea,Centre-Forward,CF,9000000.0,Dynamo Kyiv,Ukraine,11000000.0,in,summer,Ligue 1,2009,False,
+Stade Rennais FC,Alexander Tettey,23,Norway,Defensive Midfield,DM,3000000.0,Rosenborg,Norway,3500000.0,in,summer,Ligue 1,2009,False,
+Stade Rennais FC,Tongo Doumbia,19,Mali,Defensive Midfield,DM,,Châteauroux B,France,100000.0,in,summer,Ligue 1,2009,False,
+Stade Rennais FC,Junichi Inamoto,29,Japan,Defensive Midfield,DM,2000000.0,E. Frankfurt,Germany,0.0,in,summer,Ligue 1,2009,False,
+Stade Rennais FC,John Boye,22,Ghana,Centre-Back,CB,150000.0,Heart of Lions,Ghana,,in,summer,Ligue 1,2009,False,
+Stade Rennais FC,Stéphane Mbia,23,Cameroon,Defensive Midfield,DM,9500000.0,Marseille,France,12000000.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Olivier Sorlin,30,France,Defensive Midfield,DM,2000000.0,PAOK Salonika,Greece,150000.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Guillaume Borne,21,France,Right-Back,RB,400000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Yacine Brahimi,19,Algeria,Left Winger,LW,50000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Felix Katongo,25,Zambia,Attacking Midfield,AM,200000.0,Sundowns,South Africa,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Julian Esteban,22,Switzerland,Centre-Forward,CF,400000.0,Servette FC,Switzerland,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Bira Dembélé,21,France,Centre-Back,CB,400000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Maxime Le Marchand,19,France,Centre-Back,CB,,AC Le Havre,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Prince Oniangué,20,Congo,Defensive Midfield,DM,200000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Abdoul Camara,19,Guinea,Left Winger,LW,,Vannes,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Damien Le Tallec,19,France,Defensive Midfield,DM,300000.0,Bor. Dortmund,Germany,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Daniel Moreira,32,France,Second Striker,SS,1700000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Samuel Souprayen,20,France,Centre-Back,CB,100000.0,Dijon,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Stade Rennais FC,Benjamin Moukandjo,20,Cameroon,Centre-Forward,CF,,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,Fabrice Ondama,21,Congo,Centre-Forward,CF,,Diables Noirs,Congo,0.0,out,summer,Ligue 1,2009,False,
+Stade Rennais FC,John Boye,22,Ghana,Centre-Back,CB,150000.0,Heart of Lions,Ghana,0.0,out,summer,Ligue 1,2009,True,end of loan
+Stade Rennais FC,Lucien Aubey,25,Congo,Centre-Back,CB,2000000.0,Sivasspor,Turkey,1500000.0,out,winter,Ligue 1,2009,False,
+Stade Rennais FC,Junichi Inamoto,30,Japan,Defensive Midfield,DM,1700000.0,Kawasaki Front.,Japan,152000.0,out,winter,Ligue 1,2009,False,
+Stade Rennais FC,Kévin Bru,21,Mauritius,Central Midfield,CM,350000.0,Dijon,France,0.0,out,winter,Ligue 1,2009,False,
+Stade Rennais FC,Bruno Cheyrou,31,France,Central Midfield,CM,1900000.0,Anorthosis,Cyprus,0.0,out,winter,Ligue 1,2009,False,
+Stade Rennais FC,Olivier Thomert,29,Martinique,Left Midfield,LM,1700000.0,Le Mans UC 72,France,0.0,out,winter,Ligue 1,2009,False,
+US Boulogne,Bakary Soumaré,23,Mali,Centre-Back,CB,,Chicago Fire,United States,1000000.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Mathieu Valverde,26,France,Goalkeeper,GK,1600000.0,G. Bordeaux,France,500000.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Laurent Karim Agouazi,25,Algeria,Defensive Midfield,DM,800000.0,FC Metz,France,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Frédéric Da Rocha,34,France,Right Winger,RW,1200000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Kévin Das Neves,23,France,Defensive Midfield,DM,400000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Guillaume Borne,21,France,Right-Back,RB,400000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Olubayo Adefemi,23,Nigeria,Right Midfield,RM,650000.0,SCR Altach,Austria,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Bira Dembélé,21,France,Centre-Back,CB,400000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2009,True,free loan
+US Boulogne,Fabien Robert,20,France,Left Midfield,LM,500000.0,FC Lorient,France,0.0,in,summer,Ligue 1,2009,True,free loan
+US Boulogne,Daniel Moreira,32,France,Second Striker,SS,1700000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2009,False,
+US Boulogne,Ovidy Karuru,20,Zimbabwe,Right Winger,RW,,Masvingo Utd.,Zimbabwe,,in,summer,Ligue 1,2009,False,
+US Boulogne,Matt Moussilou,27,Congo,Centre-Forward,CF,300000.0,Without Club,,,in,summer,Ligue 1,2009,False,
+US Boulogne,Steven Mouyokolo,22,France,Centre-Back,CB,1200000.0,Hull City,England,2150000.0,out,summer,Ligue 1,2009,False,
+US Boulogne,Christian Kinkela,27,DR Congo,Right Midfield,RM,300000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2009,False,
+US Boulogne,Alain N'Kong,30,Cameroon,Attacking Midfield,AM,500000.0,Indios,Mexico,0.0,out,summer,Ligue 1,2009,False,
+US Boulogne,Antoine Devaux,24,France,Central Midfield,CM,600000.0,Toulouse,France,0.0,out,summer,Ligue 1,2009,False,
+US Boulogne,Paulin Voavy,21,Madagascar,Left Winger,LW,100000.0,Évian,France,0.0,out,summer,Ligue 1,2009,True,free loan
+US Boulogne,Matthieu Labbé,24,France,Right Midfield,RM,50000.0,USL Dunkerque,France,0.0,out,summer,Ligue 1,2009,False,
+US Boulogne,Ibrahima Sané,19,Senegal,Centre-Forward,CF,150000.0,Sp. Toulon Var,France,0.0,out,summer,Ligue 1,2009,True,free loan
+US Boulogne,Jonas,25,Brazil,Centre-Back,CB,600000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+US Boulogne,David Vandenbossche,28,France,Attacking Midfield,AM,300000.0,Without Club,,,out,summer,Ligue 1,2009,False,
+US Boulogne,Yannick Busin,37,France,defence,defence,,Retired,,,out,summer,Ligue 1,2009,False,
+US Boulogne,Ima Andriatsima,25,Madagascar,Centre-Forward,CF,250000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2009,True,end of loan
+US Boulogne,Juan Gonzalo Lorca,24,Chile,Centre-Forward,CF,600000.0,Colo Colo,Chile,385000.0,in,winter,Ligue 1,2009,False,
+US Boulogne,Habib Bellaid,23,Algeria,Centre-Back,CB,1300000.0,E. Frankfurt,Germany,150000.0,in,winter,Ligue 1,2009,True,loan with fee
+US Boulogne,Olivier Kapo,29,France,Attacking Midfield,AM,2900000.0,Wigan,England,0.0,in,winter,Ligue 1,2009,True,free loan
+US Boulogne,Mustapha Yatabaré,23,Mali,Centre-Forward,CF,750000.0,Clermont Foot,France,,in,winter,Ligue 1,2009,False,
+US Boulogne,Matt Moussilou,27,Congo,Centre-Forward,CF,300000.0,Without Club,,,in,winter,Ligue 1,2009,False,
+US Boulogne,Mathieu Valverde,26,France,Goalkeeper,GK,1600000.0,Toulouse,France,,out,winter,Ligue 1,2009,False,
+Valenciennes FC,Fahid Ben Khalfallah,26,Tunisia,Right Winger,RW,2600000.0,SM Caen,France,2000000.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Rémi Gomis,25,Senegal,Defensive Midfield,DM,2500000.0,SM Caen,France,1750000.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Gaëtan Bong,21,Cameroon,Left-Back,LB,1000000.0,FC Metz,France,700000.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Renaud Cohade,24,France,Central Midfield,CM,2000000.0,R. Strasbourg,France,500000.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Foued Kadir,25,Algeria,Attacking Midfield,AM,700000.0,Amiens SC,France,0.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Mamadou Samassa,23,Mali,Centre-Forward,CF,1500000.0,Marseille,France,0.0,in,summer,Ligue 1,2009,True,free loan
+Valenciennes FC,Grégory Wimbée,37,France,Goalkeeper,GK,,Grenoble,France,0.0,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Guy Ndy Assembé,23,Cameroon,Goalkeeper,GK,250000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2009,True,free loan
+Valenciennes FC,Bobo Balde,33,Guinea,Centre-Back,CB,850000.0,Without Club,,,in,summer,Ligue 1,2009,False,
+Valenciennes FC,Jeovânio,31,Brazil,Defensive Midfield,DM,900000.0,Figueirense FC,Brazil,0.0,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Willy Grondin,34,France,Goalkeeper,GK,400000.0,Paris SG,France,0.0,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Jean-Claude Darcheville,34,French Guiana,Centre-Forward,CF,2400000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Seïd Khiter,24,France,Right Winger,RW,600000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2009,True,free loan
+Valenciennes FC,Williams Martínez,26,Uruguay,Centre-Back,CB,500000.0,Defensor,Uruguay,0.0,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Dame Traoré,23,Qatar,Centre-Back,CB,150000.0,Lekhwiya,Qatar,0.0,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Djamel Belmadi,33,Algeria,Right Midfield,RM,900000.0,Retired,,,out,summer,Ligue 1,2009,False,
+Valenciennes FC,Benjamin Angoua,23,Cote d'Ivoire,Centre-Back,CB,275000.0,Honvéd,Hungary,500000.0,in,winter,Ligue 1,2009,False,
+Valenciennes FC,Bobo Balde,33,Guinea,Centre-Back,CB,850000.0,Without Club,,,in,winter,Ligue 1,2009,False,
+Valenciennes FC,Luigi Pieroni,29,Belgium,Centre-Forward,CF,850000.0,KAA Gent,Belgium,500000.0,out,winter,Ligue 1,2009,False,
+Valenciennes FC,Dame Traoré,23,Qatar,Centre-Back,CB,150000.0,Lekhwiya,Qatar,0.0,out,winter,Ligue 1,2009,False,
+Valenciennes FC,Mody Traoré,29,France,Right-Back,RB,900000.0,AC Ajaccio,France,0.0,out,winter,Ligue 1,2009,True,free loan

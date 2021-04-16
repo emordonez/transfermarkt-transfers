@@ -1,0 +1,1491 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Alessandro Matri,29,Italy,Centre-Forward,CF,11000000.0,Juventus,Italy,11000000.0,in,summer,Serie A,2013,False,
+AC Milan,Cristián Zapata,26,Colombia,Centre-Back,CB,6000000.0,Villarreal,Spain,10000000.0,in,summer,Serie A,2013,False,
+AC Milan,Andrea Poli,23,Italy,Central Midfield,CM,8000000.0,Sampdoria,Italy,6000000.0,in,summer,Serie A,2013,False,
+AC Milan,Riccardo Saponara,21,Italy,Attacking Midfield,AM,7000000.0,FC Empoli,Italy,4800000.0,in,summer,Serie A,2013,False,
+AC Milan,Giacomo Beretta,21,Italy,Centre-Forward,CF,350000.0,Genoa,Italy,4000000.0,in,summer,Serie A,2013,False,
+AC Milan,Valter Birsa,27,Slovenia,Attacking Midfield,AM,1500000.0,Genoa,Italy,3000000.0,in,summer,Serie A,2013,False,
+AC Milan,Jherson Vergara,19,Colombia,Centre-Back,CB,2000000.0,Quindío,Colombia,2430000.0,in,summer,Serie A,2013,False,
+AC Milan,Matías Silvestre,28,Argentina,Centre-Back,CB,6000000.0,Inter,Italy,1000000.0,in,summer,Serie A,2013,True,loan with fee
+AC Milan,Ferdinando Coppola,35,Italy,Goalkeeper,GK,100000.0,Torino,Italy,0.0,in,summer,Serie A,2013,False,
+AC Milan,Kaká,31,Brazil,Attacking Midfield,AM,10000000.0,Real Madrid,Spain,0.0,in,summer,Serie A,2013,False,
+AC Milan,Kevin-Prince Boateng,26,Ghana,Attacking Midfield,AM,15000000.0,FC Schalke 04,Germany,10000000.0,out,summer,Serie A,2013,False,
+AC Milan,Rodney Strasser,23,Sierra Leone,Defensive Midfield,DM,1200000.0,Genoa,Italy,3500000.0,out,summer,Serie A,2013,False,
+AC Milan,Bartosz Salamon,22,Poland,Centre-Back,CB,3000000.0,Sampdoria,Italy,3400000.0,out,summer,Serie A,2013,False,
+AC Milan,Michelangelo Albertazzi,22,Italy,Left-Back,LB,300000.0,Hellas Verona,Italy,500000.0,out,summer,Serie A,2013,False,
+AC Milan,Cristian Daminuta,23,Romania,Defensive Midfield,DM,50000.0,FC Viitorul,Romania,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Bakaye Traoré,28,Mali,Central Midfield,CM,1200000.0,K. Erciyesspor,Turkey,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Luca Antonini,31,Italy,Left-Back,LB,2000000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,False,
+AC Milan,Mathieu Flamini,29,France,Defensive Midfield,DM,5000000.0,Arsenal,England,0.0,out,summer,Serie A,2013,False,
+AC Milan,Adrià Carmona,21,Spain,Left Winger,LW,300000.0,Girona,Spain,0.0,out,summer,Serie A,2013,False,
+AC Milan,Gianmarco Zigoni,22,Italy,Centre-Forward,CF,350000.0,Lecce,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Mario Yepes,37,Colombia,Centre-Back,CB,300000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2013,False,
+AC Milan,Massimo Ambrosini,36,Italy,Central Midfield,CM,500000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2013,False,
+AC Milan,Taye Taiwo,28,Nigeria,Left-Back,LB,3000000.0,Bursaspor,Turkey,0.0,out,summer,Serie A,2013,False,
+AC Milan,Pelé,21,Guinea-Bissau,Defensive Midfield,DM,400000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Marco Gaeta,21,Italy,Centre-Forward,CF,100000.0,Teramo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Andrea Schenetti,22,Italy,Attacking Midfield,AM,225000.0,Como,Italy,,out,summer,Serie A,2013,False,
+AC Milan,Andrea Petagna,18,Italy,Centre-Forward,CF,250000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Attila Filkor,25,Hungary,Central Midfield,CM,250000.0,LB Châteauroux,France,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Gianmario Comi,21,Italy,Centre-Forward,CF,900000.0,Novara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Mattia Desolé,20,Switzerland,Left-Back,LB,75000.0,FC Chiasso,Switzerland,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Rodrigo Ely,19,Brazil,Centre-Back,CB,600000.0,Varese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Pontons Paz,18,Bolivia,Left Winger,LW,75000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Edmund Hottor,20,Ghana,Central Midfield,CM,150000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Luca Santonocito,22,Italy,Attacking Midfield,AM,50000.0,Monza,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Uros Palibrk,21,Slovenia,Left Winger,LW,100000.0,NK Triglav,Slovenia,,out,summer,Serie A,2013,False,
+AC Milan,Matteo Chinellato,21,Italy,Centre-Forward,CF,50000.0,Sorrento,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Filippo Perucchini,21,Italy,Goalkeeper,GK,125000.0,Lecce,Italy,,out,summer,Serie A,2013,False,
+AC Milan,Edoardo Pazzagli,24,Italy,Goalkeeper,GK,50000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Nnamdi Oduamadi,22,Nigeria,Right Winger,RW,800000.0,Brescia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Marco Fossati,20,Italy,Defensive Midfield,DM,2000000.0,Bari,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Dídac Vilà,24,Spain,Left-Back,LB,3000000.0,Real Betis,Spain,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Alessio Innocenti,20,Argentina,Defensive Midfield,DM,250000.0,Südtirol,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Giacomo Beretta,21,Italy,Centre-Forward,CF,350000.0,Lecce,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AC Milan,Umberto Previti,23,Italy,Goalkeeper,GK,50000.0,Retired,,,out,summer,Serie A,2013,False,
+AC Milan,Cristián Zapata,26,Colombia,Centre-Back,CB,6000000.0,Villarreal,Spain,0.0,out,summer,Serie A,2013,True,end of loan
+AC Milan,Bojan Krkic,22,Spain,Second Striker,SS,8000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AC Milan,Michael Essien,31,Ghana,Defensive Midfield,DM,7500000.0,Chelsea,England,500000.0,in,winter,Serie A,2013,False,
+AC Milan,Adil Rami,28,France,Centre-Back,CB,8000000.0,Valencia,Spain,400000.0,in,winter,Serie A,2013,True,loan with fee
+AC Milan,Keisuke Honda,27,Japan,Attacking Midfield,AM,20000000.0,CSKA Moscow,Russia,0.0,in,winter,Serie A,2013,False,
+AC Milan,Adel Taarabt,24,Morocco,Attacking Midfield,AM,6000000.0,QPR,England,0.0,in,winter,Serie A,2013,True,free loan
+AC Milan,Alessandro Matri,29,Italy,Centre-Forward,CF,9000000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,M'Baye Niang,19,Senegal,Centre-Forward,CF,5000000.0,Montpellier,France,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Ezekiel Henty,20,Nigeria,Centre-Forward,CF,100000.0,Perugia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Jherson Vergara,19,Colombia,Centre-Back,CB,1800000.0,Parma,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Matteo Chinellato,22,Italy,Centre-Forward,CF,50000.0,Nuova Cosenza,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Gianmario Comi,21,Italy,Centre-Forward,CF,1000000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Antonio Nocerino,28,Italy,Central Midfield,CM,4500000.0,West Ham,England,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Alessio Innocenti,20,Argentina,Defensive Midfield,DM,200000.0,Barletta,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Simone Ganz,20,Italy,Centre-Forward,CF,600000.0,Barletta,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Nnamdi Oduamadi,23,Nigeria,Right Winger,RW,600000.0,Varese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AC Milan,Pontons Paz,19,Bolivia,Left Winger,LW,75000.0,Teramo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Juan Cuadrado,25,Colombia,Right-Back,RB,15000000.0,Udinese Calcio,Italy,20000000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Mario Gómez,28,Germany,Centre-Forward,CF,28000000.0,FC Bayern,Germany,15500000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Josip Ilicic,25,Slovenia,Second Striker,SS,9500000.0,US Palermo,Italy,9000000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Ante Rebic,19,Croatia,Left Winger,LW,1000000.0,RNK Split,Croatia,4500000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Marko Bakic,19,Montenegro,Central Midfield,CM,2000000.0,Torino,Italy,2500000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Joaquín,31,Spain,Right Winger,RW,3000000.0,Málaga CF,Spain,1800000.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Oleksandr Yakovenko,25,Ukraine,Left Winger,LW,2000000.0,RSC Anderlecht,Belgium,0.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Marcos Alonso,22,Spain,Left-Back,LB,1500000.0,Bolton,England,0.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Massimo Ambrosini,36,Italy,Central Midfield,CM,500000.0,AC Milan,Italy,0.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Gustavo Munúa,35,Uruguay,Goalkeeper,GK,400000.0,Levante,Spain,0.0,in,summer,Serie A,2013,False,
+ACF Fiorentina,Stevan Jovetic,23,Montenegro,Centre-Forward,CF,28000000.0,Man City,England,26000000.0,out,summer,Serie A,2013,False,
+ACF Fiorentina,Adem Ljajic,21,Serbia,Attacking Midfield,AM,12000000.0,AS Roma,Italy,12000000.0,out,summer,Serie A,2013,False,
+ACF Fiorentina,Haris Seferovic,21,Switzerland,Centre-Forward,CF,2800000.0,Real Sociedad,Spain,3000000.0,out,summer,Serie A,2013,False,
+ACF Fiorentina,Federico Carraro,21,Italy,Defensive Midfield,DM,450000.0,Pavia,Italy,0.0,out,summer,Serie A,2013,False,
+ACF Fiorentina,Luca Toni,36,Italy,Centre-Forward,CF,500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2013,False,
+ACF Fiorentina,Kenneth Zohore,19,Denmark,Centre-Forward,CF,500000.0,Bröndby IF,Denmark,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Pietro Iemmello,21,Italy,Centre-Forward,CF,700000.0,Pro Vercelli,Italy,,out,summer,Serie A,2013,False,
+ACF Fiorentina,Federico Bernardeschi,19,Italy,Right Winger,RW,200000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Daniel Kofi Agyei,21,Ghana,Defensive Midfield,DM,500000.0,Benevento,Italy,,out,summer,Serie A,2013,False,
+ACF Fiorentina,Mounir El Hamdaoui,29,Morocco,Centre-Forward,CF,2000000.0,Málaga CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Rômulo,26,Italy,Central Midfield,CM,2000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Khouma Babacar,20,Senegal,Centre-Forward,CF,900000.0,Modena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Mattia Cassani,29,Italy,Right-Back,RB,2200000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Amidu Salifu,20,Ghana,Central Midfield,CM,1100000.0,Modena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Andrea Seculin,23,Italy,Goalkeeper,GK,300000.0,Chievo Verona,Italy,,out,summer,Serie A,2013,False,
+ACF Fiorentina,Michele Camporese,21,Italy,Centre-Back,CB,1600000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Cristiano Piccini,20,Italy,Right-Back,RB,750000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Felipe,28,Brazil,Centre-Back,CB,900000.0,Parma,Italy,,out,summer,Serie A,2013,False,
+ACF Fiorentina,Maxwell Acosty,21,Ghana,Right Winger,RW,1000000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+ACF Fiorentina,Luca Bittante,19,Italy,Right-Back,RB,225000.0,AS Avellino,Italy,,out,summer,Serie A,2013,False,
+ACF Fiorentina,Juan Cuadrado,25,Colombia,Right-Back,RB,15000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Emiliano Viviano,27,Italy,Goalkeeper,GK,7000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Giulio Migliaccio,32,Italy,Central Midfield,CM,2000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Cristian Llama,27,Argentina,Left Midfield,LM,800000.0,Catania,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Marcelo Larrondo,24,Argentina,Centre-Forward,CF,1500000.0,Siena,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Mohamed Sissoko,28,Mali,Defensive Midfield,DM,3600000.0,Paris SG,France,0.0,out,summer,Serie A,2013,True,end of loan
+ACF Fiorentina,Alessandro Matri,29,Italy,Centre-Forward,CF,9000000.0,AC Milan,Italy,0.0,in,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Anderson,25,Brazil,Central Midfield,CM,6500000.0,Man Utd,England,0.0,in,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Antonio Rosati,30,Italy,Goalkeeper,GK,800000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Modibo Diakité,26,France,Centre-Back,CB,3000000.0,Sunderland,England,0.0,in,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Gustavo Munúa,35,Uruguay,Goalkeeper,GK,300000.0,Nacional,Uruguay,0.0,out,winter,Serie A,2013,False,
+ACF Fiorentina,Rubén Olivera,30,Uruguay,Central Midfield,CM,800000.0,Brescia,Italy,0.0,out,winter,Serie A,2013,False,
+ACF Fiorentina,Oleksandr Yakovenko,26,Ukraine,Left Winger,LW,1800000.0,Málaga CF,Spain,0.0,out,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Marcos Alonso,23,Spain,Left-Back,LB,2000000.0,Sunderland,England,0.0,out,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Matías Vecino,22,Uruguay,Central Midfield,CM,2300000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+ACF Fiorentina,Maxwell Acosty,22,Ghana,Right Winger,RW,900000.0,Carpi,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Innocent Emeghara,24,Switzerland,Centre-Forward,CF,5000000.0,Siena,Italy,1000000.0,in,summer,Serie A,2013,True,loan with fee
+AS Livorno,Leandro Greco,27,Italy,Central Midfield,CM,2500000.0,Olympiacos,Greece,920000.0,in,summer,Serie A,2013,False,
+AS Livorno,Saulo Decarli,21,Switzerland,Centre-Back,CB,700000.0,FC Chiasso,Switzerland,750000.0,in,summer,Serie A,2013,False,
+AS Livorno,Alfred Duncan,20,Ghana,Central Midfield,CM,5000000.0,Inter,Italy,500000.0,in,summer,Serie A,2013,True,loan with fee
+AS Livorno,Marco Biagianti,29,Italy,Defensive Midfield,DM,2300000.0,Catania,Italy,400000.0,in,summer,Serie A,2013,False,
+AS Livorno,Jonny Mosquera,22,Colombia,Defensive Midfield,DM,400000.0,Envigado,Colombia,250000.0,in,summer,Serie A,2013,True,loan with fee
+AS Livorno,Nahuel Valentini,24,Argentina,Centre-Back,CB,600000.0,CA Rosario,Argentina,0.0,in,summer,Serie A,2013,False,
+AS Livorno,Rubén Botta,23,Argentina,Attacking Midfield,AM,5000000.0,Tigre,Argentina,0.0,in,summer,Serie A,2013,False,
+AS Livorno,Leandro Rinaudo,30,Italy,Centre-Back,CB,300000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,False,
+AS Livorno,Miguel Borja,20,Colombia,Centre-Forward,CF,75000.0,Deportivo Cali,Colombia,,in,summer,Serie A,2013,False,
+AS Livorno,Luca Anania,33,Italy,Goalkeeper,GK,200000.0,Padova,Italy,,in,summer,Serie A,2013,False,
+AS Livorno,Andrea Coda,28,Italy,Centre-Back,CB,1000000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Ibrahima Mbaye,18,Senegal,Right-Back,RB,1000000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Matteo Cipriani,16,Italy,Goalkeeper,GK,,Sestese Jun.,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Gabriele Aldegani,37,Italy,Goalkeeper,GK,50000.0,Nocerina,Italy,,in,summer,Serie A,2013,False,
+AS Livorno,Cristiano Piccini,20,Italy,Right-Back,RB,750000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Marco Benassi,18,Italy,Central Midfield,CM,2200000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Francesco Bardi,21,Italy,Goalkeeper,GK,6000000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+AS Livorno,Simone Salviato,26,Italy,Right-Back,RB,400000.0,Novara,Italy,400000.0,out,summer,Serie A,2013,False,
+AS Livorno,Antonio Piccolo,25,Italy,Right Winger,RW,250000.0,Virtus Lanciano,Italy,200000.0,out,summer,Serie A,2013,False,
+AS Livorno,Bryan Gioè,20,Italy,Centre-Forward,CF,100000.0,Grosseto,Italy,0.0,out,summer,Serie A,2013,False,
+AS Livorno,Matteo Lignani,21,Italy,Defensive Midfield,DM,50000.0,Varese,Italy,0.0,out,summer,Serie A,2013,False,
+AS Livorno,Lorenzo Remedi,22,Italy,Central Midfield,CM,75000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Gastón Cellerino,27,Argentina,Centre-Forward,CF,100000.0,Wanderers,Chile,0.0,out,summer,Serie A,2013,False,
+AS Livorno,Antonio Meola,23,Italy,Right-Back,RB,75000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Simone Dell'Agnello,21,Italy,Centre-Forward,CF,300000.0,Südtirol,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Andrey Galabinov,24,Bulgaria,Centre-Forward,CF,350000.0,AS Avellino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Dario Colombi,19,Italy,Central Midfield,CM,125000.0,Grosseto,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Andrea Molinelli,20,Italy,Defensive Midfield,DM,100000.0,Südtirol,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Jürgen Prutsch,23,Austria,Central Midfield,CM,75000.0,Barletta,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Mirko Bigazzi,24,Italy,Right Winger,RW,150000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Iacopo Ricciarelli,18,Italy,Goalkeeper,GK,75000.0,Prato,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Diego Pellegrini,17,Italy,Centre-Forward,CF,50000.0,Tirreno,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Alessandro Bernardini,26,Italy,Centre-Back,CB,650000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Luca Mazzoni,29,Italy,Goalkeeper,GK,250000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Iacopo Galli,19,Italy,Right-Back,RB,50000.0,Pontedera,Italy,,out,summer,Serie A,2013,False,
+AS Livorno,Federico Dionisi,26,Italy,Centre-Forward,CF,1500000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+AS Livorno,Vincenzo Fiorillo,23,Italy,Goalkeeper,GK,800000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Savvas Gentsoglou,22,Greece,Defensive Midfield,DM,900000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Alfred Duncan,20,Ghana,Central Midfield,CM,5000000.0,Inter,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Saulo Decarli,21,Switzerland,Centre-Back,CB,700000.0,FC Chiasso,Switzerland,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Gabriele Aldegani,37,Italy,Goalkeeper,GK,50000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Antonio Junior Vacca,23,Italy,Defensive Midfield,DM,150000.0,Benevento,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Livorno,Ishak Belfodil,22,Algeria,Centre-Forward,CF,11000000.0,Inter,Italy,1000000.0,in,winter,Serie A,2013,True,loan with fee
+AS Livorno,Paolo Castellini,34,Italy,Left-Back,LB,100000.0,Sampdoria,Italy,,in,winter,Serie A,2013,False,
+AS Livorno,Djamel Mesbah,29,Algeria,Left-Back,LB,600000.0,Parma,Italy,0.0,in,winter,Serie A,2013,True,free loan
+AS Livorno,Pasquale Schiattarella,26,Italy,Central Midfield,CM,1600000.0,Spezia Calcio,Italy,1200000.0,out,winter,Serie A,2013,False,
+AS Livorno,Rubén Botta,23,Argentina,Attacking Midfield,AM,5000000.0,Inter,Italy,0.0,out,winter,Serie A,2013,False,
+AS Livorno,Antonio Meola,23,Italy,Right-Back,RB,75000.0,Crotone,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Saulo Decarli,21,Switzerland,Centre-Back,CB,600000.0,AS Avellino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Alessandro Lambrughi,26,Italy,Centre-Back,CB,500000.0,Novara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Luca Belingheri,30,Italy,Attacking Midfield,AM,900000.0,Cesena,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Riccardo Regno,21,Italy,Centre-Back,CB,100000.0,Pontedera,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Livorno,Andrea Gasbarro,19,Italy,Centre-Back,CB,75000.0,Pontedera,Italy,,out,winter,Serie A,2013,False,
+AS Roma,Kevin Strootman,23,Netherlands,Central Midfield,CM,13000000.0,PSV Eindhoven,Netherlands,17500000.0,in,summer,Serie A,2013,False,
+AS Roma,Medhi Benatia,26,Morocco,Centre-Back,CB,13000000.0,Udinese Calcio,Italy,13500000.0,in,summer,Serie A,2013,False,
+AS Roma,Adem Ljajic,21,Serbia,Attacking Midfield,AM,12000000.0,Fiorentina,Italy,12000000.0,in,summer,Serie A,2013,False,
+AS Roma,Gervinho,26,Cote d'Ivoire,Left Winger,LW,10000000.0,Arsenal,England,8000000.0,in,summer,Serie A,2013,False,
+AS Roma,Tin Jedvaj,17,Croatia,Centre-Back,CB,750000.0,Dinamo Zagreb,Croatia,5000000.0,in,summer,Serie A,2013,False,
+AS Roma,Mattia Destro,22,Italy,Centre-Forward,CF,11500000.0,Genoa,Italy,4500000.0,in,summer,Serie A,2013,False,
+AS Roma,Valerio Verre,19,Italy,Central Midfield,CM,1200000.0,Genoa,Italy,2500000.0,in,summer,Serie A,2013,False,
+AS Roma,Gianluca Caprari,19,Italy,Left Winger,LW,1700000.0,Pescara,Italy,2000000.0,in,summer,Serie A,2013,False,
+AS Roma,Giammario Piscitella,20,Italy,Left Winger,LW,1500000.0,Genoa,Italy,1500000.0,in,summer,Serie A,2013,False,
+AS Roma,Lukasz Skorupski,22,Poland,Goalkeeper,GK,1000000.0,Górnik Zabrze,Poland,890000.0,in,summer,Serie A,2013,False,
+AS Roma,Morgan De Sanctis,36,Italy,Goalkeeper,GK,1000000.0,SSC Napoli,Italy,500000.0,in,summer,Serie A,2013,False,
+AS Roma,Federico Barba,19,Italy,Centre-Back,CB,500000.0,Grosseto,Italy,400000.0,in,summer,Serie A,2013,False,
+AS Roma,Maicon,31,Brazil,Right-Back,RB,4000000.0,Man City,England,0.0,in,summer,Serie A,2013,False,
+AS Roma,Amara Konate,22,Cote d'Ivoire,Centre-Forward,CF,100000.0,Campobasso,Italy,0.0,in,summer,Serie A,2013,False,
+AS Roma,Babù,32,Brazil,Right Winger,RW,25000.0,Paganese,Italy,0.0,in,summer,Serie A,2013,False,
+AS Roma,Marquinhos,19,Brazil,Centre-Back,CB,15000000.0,Paris SG,France,31400000.0,out,summer,Serie A,2013,False,
+AS Roma,Erik Lamela,21,Argentina,Right Winger,RW,23000000.0,Spurs,England,30000000.0,out,summer,Serie A,2013,False,
+AS Roma,Daniel Osvaldo,27,Italy,Centre-Forward,CF,17000000.0,Southampton,England,15100000.0,out,summer,Serie A,2013,False,
+AS Roma,Bojan Krkic,22,Spain,Second Striker,SS,8000000.0,FC Barcelona,Spain,13000000.0,out,summer,Serie A,2013,False,
+AS Roma,Maarten Stekelenburg,30,Netherlands,Goalkeeper,GK,5500000.0,Fulham,England,5600000.0,out,summer,Serie A,2013,False,
+AS Roma,Nicolás López,19,Uruguay,Right Winger,RW,1700000.0,Udinese Calcio,Italy,4000000.0,out,summer,Serie A,2013,False,
+AS Roma,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3300000.0,Genoa,Italy,3000000.0,out,summer,Serie A,2013,False,
+AS Roma,Valerio Verre,19,Italy,Central Midfield,CM,1200000.0,Udinese Calcio,Italy,2500000.0,out,summer,Serie A,2013,False,
+AS Roma,Giammario Piscitella,20,Italy,Left Winger,LW,1500000.0,Pescara,Italy,1500000.0,out,summer,Serie A,2013,False,
+AS Roma,Federico Barba,19,Italy,Centre-Back,CB,500000.0,FC Empoli,Italy,1150000.0,out,summer,Serie A,2013,False,
+AS Roma,Stefano Sabelli,20,Italy,Right-Back,RB,450000.0,Bari,Italy,900000.0,out,summer,Serie A,2013,False,
+AS Roma,Matteo Politano,19,Italy,Right Winger,RW,750000.0,Pescara,Italy,500000.0,out,summer,Serie A,2013,False,
+AS Roma,Federico Barba,19,Italy,Centre-Back,CB,450000.0,Grosseto,Italy,200000.0,out,summer,Serie A,2013,False,
+AS Roma,Marco D'Alessandro,22,Italy,Right Winger,RW,1200000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Babù,32,Brazil,Right Winger,RW,25000.0,Alcanenense,Portugal,0.0,out,summer,Serie A,2013,False,
+AS Roma,Gianluca Curci,27,Italy,Goalkeeper,GK,2000000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Junior Tallo,20,Cote d'Ivoire,Centre-Forward,CF,1000000.0,AC Ajaccio,France,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Valerio Virga,27,Italy,Right-Back,RB,75000.0,Aprilia,Italy,0.0,out,summer,Serie A,2013,False,
+AS Roma,Amara Konate,22,Cote d'Ivoire,Centre-Forward,CF,100000.0,Lleida Esportiu,Spain,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Loïc Nego,22,Hungary,Right-Back,RB,400000.0,Újpest FC,Hungary,,out,summer,Serie A,2013,False,
+AS Roma,Wesley Yamnaine,20,France,Left-Back,LB,75000.0,RWDM Brussels,Belgium,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Alessandro Crescenzi,21,Italy,Left-Back,LB,1800000.0,AC Ajaccio,France,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Luca Antei,21,Italy,Centre-Back,CB,200000.0,Sassuolo,Italy,,out,summer,Serie A,2013,False,
+AS Roma,Tomas Svedkauskas,19,Lithuania,Goalkeeper,GK,400000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Simone Sini,21,Italy,Centre-Back,CB,200000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Sebastian Mladen,21,Romania,Centre-Back,CB,400000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Filippo Scardina,21,Italy,Centre-Forward,CF,100000.0,US Poggibonsi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Federico Viviani,21,Italy,Defensive Midfield,DM,1500000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Amato Ciciretti,19,Italy,Right Winger,RW,150000.0,L'Aquila,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Paolo Frascatore,21,Italy,Left-Back,LB,300000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+AS Roma,Matteo Brighi,32,Italy,Central Midfield,CM,1600000.0,Torino,Italy,,out,summer,Serie A,2013,False,
+AS Roma,Alessandro Viscontini,19,Italy,attack,attack,50000.0,Without Club,,,out,summer,Serie A,2013,False,
+AS Roma,Simone Perrotta,35,Italy,Attacking Midfield,AM,300000.0,Retired,,,out,summer,Serie A,2013,False,
+AS Roma,Mattia Destro,22,Italy,Centre-Forward,CF,11500000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+AS Roma,Mauro Goicoechea,25,Uruguay,Goalkeeper,GK,900000.0,Danubio FC,Uruguay,0.0,out,summer,Serie A,2013,True,end of loan
+AS Roma,Iván Piris,24,Paraguay,Right-Back,RB,2500000.0,Maldonado,Uruguay,0.0,out,summer,Serie A,2013,True,end of loan
+AS Roma,Radja Nainggolan,25,Belgium,Attacking Midfield,AM,14000000.0,Cagliari Calcio,Italy,3000000.0,in,winter,Serie A,2013,True,loan with fee
+AS Roma,Giammario Piscitella,20,Italy,Left Winger,LW,1500000.0,Pescara,Italy,1500000.0,in,winter,Serie A,2013,False,
+AS Roma,Michel Bastos,30,Brazil,Left Midfield,LM,3000000.0,Al-Ain FC,United Arab Emirates,1100000.0,in,winter,Serie A,2013,True,loan with fee
+AS Roma,Petar Golubovic,19,Serbia,Right-Back,RB,700000.0,OFK Beograd,Serbia,1000000.0,in,winter,Serie A,2013,False,
+AS Roma,Rafael Tolói,23,Italy,Centre-Back,CB,4000000.0,São Paulo,Brazil,500000.0,in,winter,Serie A,2013,True,loan with fee
+AS Roma,Francis Obeng,27,Ghana,Central Midfield,CM,,Santarcangelo,Italy,,in,winter,Serie A,2013,False,
+AS Roma,Michael Bradley,26,United States,Central Midfield,CM,6500000.0,Toronto FC,United States,9090000.0,out,winter,Serie A,2013,False,
+AS Roma,Gianluca Caprari,20,Italy,Left Winger,LW,1800000.0,Pescara,Italy,1750000.0,out,winter,Serie A,2013,False,
+AS Roma,Marco Borriello,31,Italy,Centre-Forward,CF,5000000.0,West Ham,England,700000.0,out,winter,Serie A,2013,True,loan with fee
+AS Roma,Júlio Sérgio,35,Brazil,Goalkeeper,GK,100000.0,Comercial-SP,Brazil,0.0,out,winter,Serie A,2013,False,
+AS Roma,Nicolás Burdisso,32,Argentina,Centre-Back,CB,1000000.0,Genoa,Italy,0.0,out,winter,Serie A,2013,False,
+AS Roma,Alessandro Crescenzi,22,Italy,Left-Back,LB,2000000.0,Novara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Federico Viviani,21,Italy,Defensive Midfield,DM,1300000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Tomas Svedkauskas,19,Lithuania,Goalkeeper,GK,400000.0,Pescara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Petar Golubovic,19,Serbia,Right-Back,RB,700000.0,Novara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Paolo Frascatore,22,Italy,Left-Back,LB,300000.0,Reggina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Giammario Piscitella,20,Italy,Left Winger,LW,1500000.0,Cittadella,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Jonatan Lucca,19,Brazil,Central Midfield,CM,500000.0,Atlético-PR B,Brazil,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Marquinho,27,Brazil,Attacking Midfield,AM,4000000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2013,True,free loan
+AS Roma,Francis Obeng,27,Ghana,Central Midfield,CM,,Santarcangelo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Luca Cigarini,27,Italy,Defensive Midfield,DM,7500000.0,SSC Napoli,Italy,4200000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Constantin Nica,20,Romania,Right-Back,RB,900000.0,Dinamo,Romania,1600000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Prince Gouano,19,France,Centre-Back,CB,200000.0,Juventus,Italy,1450000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Daniele Baselli,21,Italy,Central Midfield,CM,900000.0,Cittadella,Italy,800000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Luigi Giorgi,26,Italy,Central Midfield,CM,1000000.0,Novara,Italy,800000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Giuseppe De Luca,21,Italy,Centre-Forward,CF,3200000.0,Varese,Italy,600000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Giulio Migliaccio,32,Italy,Central Midfield,CM,2000000.0,US Palermo,Italy,300000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Leonardo Gatto,21,Italy,Left Winger,LW,100000.0,AC Pisa,Italy,75000.0,in,summer,Serie A,2013,False,
+Atalanta BC,Mario Yepes,37,Colombia,Centre-Back,CB,300000.0,AC Milan,Italy,0.0,in,summer,Serie A,2013,False,
+Atalanta BC,Elia Cortesi,21,Italy,Right Winger,RW,150000.0,Carpi,Italy,,in,summer,Serie A,2013,False,
+Atalanta BC,Federico Peluso,29,Italy,Centre-Back,CB,5000000.0,Juventus,Italy,4800000.0,out,summer,Serie A,2013,False,
+Atalanta BC,Ivan Radovanovic,24,Serbia,Defensive Midfield,DM,600000.0,Chievo Verona,Italy,800000.0,out,summer,Serie A,2013,False,
+Atalanta BC,Matteo Ardemagni,26,Italy,Centre-Forward,CF,3000000.0,Chievo Verona,Italy,500000.0,out,summer,Serie A,2013,True,loan with fee
+Atalanta BC,Matteo Gentili,24,Italy,Centre-Back,CB,100000.0,Reggina,Italy,100000.0,out,summer,Serie A,2013,False,
+Atalanta BC,Leonardo Gatto,21,Italy,Left Winger,LW,175000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Marcello Possenti,21,Italy,Left-Back,LB,250000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,False,
+Atalanta BC,Carlo Cremaschi,21,Italy,Right-Back,RB,50000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Matteo Contini,33,Italy,Centre-Back,CB,300000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Matteo Scozzarella,25,Italy,Defensive Midfield,DM,400000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Daniele Capelli,27,Italy,Centre-Back,CB,500000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Francesco Rossi,22,Italy,Goalkeeper,GK,175000.0,Pavia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Carlos Matheu,28,Argentina,Centre-Back,CB,500000.0,Siena,Italy,,out,summer,Serie A,2013,False,
+Atalanta BC,Elia Cortesi,21,Italy,Right Winger,RW,150000.0,Bassano,Italy,,out,summer,Serie A,2013,False,
+Atalanta BC,Prince Gouano,19,France,Centre-Back,CB,200000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Salvatore Molina,21,Italy,Right Midfield,RM,175000.0,Modena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Emanuele Suagher,20,Italy,Centre-Back,CB,250000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Simone Colombi,22,Italy,Goalkeeper,GK,1300000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Alberto Almici,20,Italy,Right-Back,RB,600000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Simone Magnaghi,19,Italy,Centre-Forward,CF,400000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,James Troisi,25,Australia,Attacking Midfield,AM,1200000.0,Melbourne,Australia,0.0,out,summer,Serie A,2013,True,free loan
+Atalanta BC,Luca Barbugian,19,Italy,Goalkeeper,GK,50000.0,Retired,,,out,summer,Serie A,2013,False,
+Atalanta BC,Michele Ferri,32,Italy,Centre-Back,CB,300000.0,Without Club,,,out,summer,Serie A,2013,False,
+Atalanta BC,Luca Cigarini,27,Italy,Defensive Midfield,DM,7500000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Facundo Parra,28,Argentina,Centre-Forward,CF,1500000.0,Independiente,Argentina,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Davide Biondini,30,Italy,Central Midfield,CM,2000000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Giuseppe De Luca,21,Italy,Centre-Forward,CF,3200000.0,Varese,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Luigi Giorgi,26,Italy,Central Midfield,CM,1000000.0,Novara,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Igor Budan,33,Croatia,Centre-Forward,CF,400000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Atalanta BC,Rubén Bentancourt,20,Uruguay,Centre-Forward,CF,50000.0,PSV U21,Netherlands,1500000.0,in,winter,Serie A,2013,False,
+Atalanta BC,Yohan Benalouane,26,Tunisia,Centre-Back,CB,1000000.0,Parma,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Atalanta BC,Marcelo Estigarribia,26,Paraguay,Left Midfield,LM,2000000.0,Maldonado,Uruguay,0.0,in,winter,Serie A,2013,True,free loan
+Atalanta BC,Simone Colombi,22,Italy,Goalkeeper,GK,1300000.0,Carpi,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Roberto Gagliardini,19,Italy,Central Midfield,CM,100000.0,Cesena,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Guido Marilungo,24,Italy,Centre-Forward,CF,900000.0,Cesena,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Alberto Almici,21,Italy,Right-Back,RB,600000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Simone Magnaghi,20,Italy,Centre-Forward,CF,400000.0,Prato,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Matteo Ardemagni,26,Italy,Centre-Forward,CF,2500000.0,Carpi,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Antonio Palma,20,Italy,Central Midfield,CM,200000.0,Como,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Michele Canini,28,Italy,Centre-Back,CB,1600000.0,Chievo Verona,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Ciro Polito,34,Italy,Goalkeeper,GK,100000.0,Sassuolo,Italy,,out,winter,Serie A,2013,False,
+Atalanta BC,Matteo Scozzarella,25,Italy,Defensive Midfield,DM,300000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Atalanta BC,Carlo Cremaschi,22,Italy,Right-Back,RB,50000.0,Lumezzane,Italy,,out,winter,Serie A,2013,False,
+Bologna FC 1909,Riccardo Casini,21,Italy,Defensive Midfield,DM,200000.0,Parma,Italy,2000000.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Damjan Djokovic,23,Croatia,Central Midfield,CM,300000.0,Cesena,Italy,1400000.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Andrea Bandini,19,Italy,Right-Back,RB,150000.0,Inter U19,Italy,1250000.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Andrea Romanò,19,Italy,Central Midfield,CM,500000.0,Inter,Italy,1250000.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Jonathan Cristaldo,24,Argentina,Centre-Forward,CF,5500000.0,Metalist,Ukraine,500000.0,in,summer,Serie A,2013,True,loan with fee
+Bologna FC 1909,Rolando Bianchi,30,Italy,Centre-Forward,CF,4000000.0,Torino,Italy,0.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Abdallah Yaisien,19,Egypt,Attacking Midfield,AM,,Paris SG B,France,0.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Angelo Gregorio,22,Italy,Centre-Back,CB,50000.0,Cesena,Italy,0.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Denis Alibec,22,Romania,Centre-Forward,CF,600000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Gianluca Curci,27,Italy,Goalkeeper,GK,2000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Marek Cech,30,Slovakia,Left-Back,LB,1500000.0,Trabzonspor,Turkey,0.0,in,summer,Serie A,2013,False,
+Bologna FC 1909,Francesco Della Rocca,25,Italy,Central Midfield,CM,2500000.0,US Palermo,Italy,,in,summer,Serie A,2013,False,
+Bologna FC 1909,Daniele Grandi,20,Italy,Centre-Forward,CF,50000.0,Como,Italy,,in,summer,Serie A,2013,False,
+Bologna FC 1909,Diego Laxalt,20,Uruguay,Left-Back,LB,2300000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Andrea Mantovani,29,Italy,Centre-Back,CB,1500000.0,US Palermo,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Thomas Job,29,Cameroon,Right Winger,RW,,Without Club,,,in,summer,Serie A,2013,False,
+Bologna FC 1909,Saphir Taider,21,Algeria,Central Midfield,CM,5000000.0,Inter,Italy,7500000.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Andrea Ingegneri,21,Italy,Centre-Back,CB,200000.0,Cesena,Italy,1250000.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Francesco Finocchio,21,Italy,Right Midfield,RM,200000.0,Parma,Italy,1000000.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Gaby Mudingayi,31,Belgium,Defensive Midfield,DM,2000000.0,Inter,Italy,750000.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Thomas Job,29,Cameroon,Right Winger,RW,200000.0,Honvéd,Hungary,0.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Nicola Capellini,22,Italy,Attacking Midfield,AM,75000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,False,
+Bologna FC 1909,Martí Riverola,22,Spain,Central Midfield,CM,700000.0,RCD Mallorca,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Angelo Gregorio,22,Italy,Centre-Back,CB,50000.0,Teramo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Matteo Boccaccini,20,Italy,Centre-Back,CB,75000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Gianluca Draghetti,19,Italy,Right Winger,RW,100000.0,San Marino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Alessandro Marchi,23,Italy,Central Midfield,CM,150000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Andrea Romanò,19,Italy,Central Midfield,CM,500000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Andrea Bandini,19,Italy,Right-Back,RB,150000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Cesare Rickler,26,Italy,Centre-Back,CB,,Mantova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Damjan Djokovic,23,Croatia,Central Midfield,CM,300000.0,CFR Cluj,Romania,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Federico Casarini,23,Italy,Central Midfield,CM,800000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Mathías Abero,23,Uruguay,Left-Back,LB,300000.0,AS Avellino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Kadir Caidi,23,Italy,Centre-Back,CB,25000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Nico Pulzetti,29,Italy,Central Midfield,CM,900000.0,Siena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Juan Cruz,20,Spain,Left-Back,LB,50000.0,San Marino,Italy,,out,summer,Serie A,2013,False,
+Bologna FC 1909,Daniele Grandi,20,Italy,Centre-Forward,CF,50000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Luca Veratti,20,Italy,Centre-Forward,CF,125000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Riccardo Pasi,22,Italy,Attacking Midfield,AM,75000.0,Santarcangelo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Manuel Gavilán,21,Spain,Centre-Forward,CF,150000.0,San Marino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Filippo Lombardi,23,Italy,Goalkeeper,GK,100000.0,Bassano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Riccardo Casini,21,Italy,Defensive Midfield,DM,200000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Giacomo Venturi,21,Italy,Goalkeeper,GK,450000.0,San Marino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Bologna FC 1909,Giuseppe Nazzani,23,Italy,Defensive Midfield,DM,50000.0,Without Club,,,out,summer,Serie A,2013,False,
+Bologna FC 1909,Cristian Pasquato,23,Italy,Second Striker,SS,1300000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Gianluca Curci,27,Italy,Goalkeeper,GK,2000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Roger Carvalho,26,Brazil,Centre-Back,CB,450000.0,Tombense,Brazil,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Marco Motta,27,Italy,Right-Back,RB,1700000.0,Juventus,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Tiberio Guarente,27,Italy,Central Midfield,CM,2000000.0,Sevilla FC,Spain,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Manolo Gabbiadini,21,Italy,Centre-Forward,CF,7000000.0,Juventus,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Alberto Gilardino,30,Italy,Centre-Forward,CF,7000000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Naldo,24,Brazil,Centre-Back,CB,600000.0,Granada CF,Spain,0.0,out,summer,Serie A,2013,True,end of loan
+Bologna FC 1909,Erik Friberg,27,Sweden,Defensive Midfield,DM,1000000.0,Malmö FF,Sweden,190000.0,in,winter,Serie A,2013,False,
+Bologna FC 1909,Ibson,30,Brazil,Central Midfield,CM,2000000.0,Corinthians,Brazil,0.0,in,winter,Serie A,2013,False,
+Bologna FC 1909,Alessandro Diamanti,30,Italy,Attacking Midfield,AM,8000000.0,GZ Evergrande,China,7500000.0,out,winter,Serie A,2013,False,
+Bologna FC 1909,Abdallah Yaisien,19,Egypt,Attacking Midfield,AM,400000.0,Trapani,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Andrea Pisanu,31,Italy,Right Midfield,RM,300000.0,Prato,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Luca Veratti,20,Italy,Centre-Forward,CF,125000.0,Südtirol,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Rubén Palomeque,19,Spain,Right-Back,RB,50000.0,Paganese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Andrea Romanò,20,Italy,Central Midfield,CM,500000.0,Prato,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Henry Giménez,27,Uruguay,Centre-Forward,CF,400000.0,Nacional,Uruguay,,out,winter,Serie A,2013,False,
+Bologna FC 1909,Matteo Montorsi,19,Italy,Attacking Midfield,AM,75000.0,Cuneo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Alex Ferrari,19,Italy,Centre-Back,CB,100000.0,Crotone,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Uros Radakovic,19,Serbia,Centre-Back,CB,400000.0,Novara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Bologna FC 1909,Federico Agliardi,30,Italy,Goalkeeper,GK,700000.0,Cesena,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Cagliari Calcio,Danilo Avelar,24,Brazil,Centre-Back,CB,1200000.0,Karpaty,Ukraine,1000000.0,in,summer,Serie A,2013,False,
+Cagliari Calcio,Marios Ikonomou,20,Greece,Centre-Back,CB,250000.0,PAS Giannina,Greece,500000.0,in,summer,Serie A,2013,False,
+Cagliari Calcio,Mauro Vigorito,23,Italy,Goalkeeper,GK,250000.0,Lumezzane,Italy,,in,summer,Serie A,2013,False,
+Cagliari Calcio,Agim Ibraimi,25,North Macedonia,Right Winger,RW,1500000.0,NK Maribor,Slovenia,0.0,in,summer,Serie A,2013,True,free loan
+Cagliari Calcio,Thiago Ribeiro,27,Brazil,Left Winger,LW,2000000.0,Santos FC,Brazil,3500000.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Riccardo Anedda,20,Italy,Goalkeeper,GK,100000.0,US Poggibonsi,Italy,0.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Paolo Dametto,20,Italy,Centre-Back,CB,350000.0,Parma,Italy,0.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Mattia Gallon,21,Italy,Left Winger,LW,150000.0,Olbia 1905,Italy,0.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Marco Ruzittu,22,Italy,Goalkeeper,GK,100000.0,Arzachena,Italy,0.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Mauro Vigorito,23,Italy,Goalkeeper,GK,250000.0,Unione Venezia,Italy,1000.0,out,summer,Serie A,2013,False,
+Cagliari Calcio,Daniele Giorico,21,Italy,Defensive Midfield,DM,325000.0,Unione Venezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Cagliari Calcio,Marco Piredda,19,Italy,Attacking Midfield,AM,150000.0,Como,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Cagliari Calcio,Pablo Ceppelini,21,Uruguay,Attacking Midfield,AM,500000.0,NK Maribor,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Cagliari Calcio,Alberto Melis,20,Italy,Central Midfield,CM,50000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Cagliari Calcio,Lorenzo Porceddu,20,Italy,Left Winger,LW,50000.0,Retired,,,out,summer,Serie A,2013,False,
+Cagliari Calcio,Danilo Avelar,24,Brazil,Centre-Back,CB,1200000.0,Karpaty,Ukraine,0.0,out,summer,Serie A,2013,True,end of loan
+Cagliari Calcio,Federico Casarini,23,Italy,Central Midfield,CM,800000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Cagliari Calcio,Andrea Tabanelli,23,Italy,Central Midfield,CM,250000.0,Cesena,Italy,300000.0,in,winter,Serie A,2013,True,loan with fee
+Cagliari Calcio,Adryan,19,Brazil,Attacking Midfield,AM,1500000.0,Flamengo,Brazil,0.0,in,winter,Serie A,2013,True,free loan
+Cagliari Calcio,Matías Vecino,22,Uruguay,Central Midfield,CM,2300000.0,Fiorentina,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Cagliari Calcio,Marco Silvestri,22,Italy,Goalkeeper,GK,500000.0,Chievo Verona,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Cagliari Calcio,Alessandro Bastrini,26,Italy,Centre-Back,CB,200000.0,Novara,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Cagliari Calcio,Antonio Adán,26,Spain,Goalkeeper,GK,1500000.0,Without Club,,,in,winter,Serie A,2013,False,
+Cagliari Calcio,Radja Nainggolan,25,Belgium,Attacking Midfield,AM,14000000.0,AS Roma,Italy,3000000.0,out,winter,Serie A,2013,True,loan with fee
+Cagliari Calcio,Lorenzo Ariaudo,24,Italy,Centre-Back,CB,1500000.0,Sassuolo,Italy,800000.0,out,winter,Serie A,2013,False,
+Cagliari Calcio,Rui Sampaio,26,Portugal,Central Midfield,CM,600000.0,Arouca,Portugal,0.0,out,winter,Serie A,2013,False,
+Cagliari Calcio,Antonio Adán,26,Spain,Goalkeeper,GK,1500000.0,Real Betis,Spain,0.0,out,winter,Serie A,2013,False,
+Cagliari Calcio,Marco Ruzittu,22,Italy,Goalkeeper,GK,100000.0,Arzachena,Italy,0.0,out,winter,Serie A,2013,False,
+Cagliari Calcio,Michael Agazzi,29,Italy,Goalkeeper,GK,7000000.0,Chievo Verona,Italy,,out,winter,Serie A,2013,False,
+Cagliari Calcio,Alberto Melis,20,Italy,Central Midfield,CM,50000.0,Aprilia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Gino Peruzzi,21,Argentina,Right-Back,RB,3000000.0,Vélez Sarsfield,Argentina,3720000.0,in,summer,Serie A,2013,False,
+Calcio Catania,Fabián Monzón,26,Argentina,Left-Back,LB,2500000.0,Olympique Lyon,France,3300000.0,in,summer,Serie A,2013,False,
+Calcio Catania,Kingsley Boateng,19,Italy,Right Winger,RW,100000.0,Milan U19,Italy,500000.0,in,summer,Serie A,2013,True,loan with fee
+Calcio Catania,Norbert Gyomber,20,Slovakia,Centre-Back,CB,500000.0,Banska Bystrica,Slovakia,350000.0,in,summer,Serie A,2013,False,
+Calcio Catania,Federico Freire,22,Argentina,Central Midfield,CM,750000.0,Vélez Sarsfield,Argentina,0.0,in,summer,Serie A,2013,False,
+Calcio Catania,Roberto Cappai,24,Italy,Centre-Forward,CF,,Arzachena,Italy,0.0,in,summer,Serie A,2013,False,
+Calcio Catania,Nabila Samba,20,Senegal,Centre-Back,CB,100000.0,GC Biaschesi,Switzerland,0.0,in,summer,Serie A,2013,False,
+Calcio Catania,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3300000.0,Genoa,Italy,,in,summer,Serie A,2013,False,
+Calcio Catania,Tiberio Guarente,27,Italy,Central Midfield,CM,1500000.0,Sevilla FC,Spain,0.0,in,summer,Serie A,2013,True,free loan
+Calcio Catania,Jaroslav Plasil,31,Czech Republic,Central Midfield,CM,4000000.0,G. Bordeaux,France,0.0,in,summer,Serie A,2013,True,free loan
+Calcio Catania,Cristiano Biraghi,21,Italy,Left-Back,LB,1200000.0,Cittadella,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Calcio Catania,Sebastián Leto,26,Argentina,Left Winger,LW,2000000.0,Without Club,,,in,summer,Serie A,2013,False,
+Calcio Catania,Papu Gómez,25,Argentina,Second Striker,SS,11000000.0,Metalist,Ukraine,7000000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Andrea Catellani,25,Italy,Centre-Forward,CF,1000000.0,Spezia Calcio,Italy,1300000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Raphael Martinho,25,Brazil,Left Midfield,LM,2000000.0,Hellas Verona,Italy,900000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Alfredo Donnarumma,22,Italy,Centre-Forward,CF,300000.0,Cittadella,Italy,600000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Marco Biagianti,29,Italy,Defensive Midfield,DM,2300000.0,AS Livorno,Italy,400000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Takayuki Morimoto,25,Japan,Centre-Forward,CF,1400000.0,JEF Utd. Chiba,Japan,300000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Mario Paglialunga,24,Argentina,Defensive Midfield,DM,600000.0,Real Zaragoza,Spain,200000.0,out,summer,Serie A,2013,False,
+Calcio Catania,Edgar Cani,24,Albania,Centre-Forward,CF,500000.0,Carpi,Italy,200000.0,out,summer,Serie A,2013,True,loan with fee
+Calcio Catania,Pietro Terracciano,23,Italy,Goalkeeper,GK,100000.0,AS Avellino,Italy,100000.0,out,summer,Serie A,2013,True,loan with fee
+Calcio Catania,Blazej Augustyn,25,Poland,Centre-Back,CB,300000.0,Górnik Zabrze,Poland,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Giordano Maccarrone,23,Italy,Centre-Back,CB,100000.0,Parma,Italy,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Roberto Cappai,24,Italy,Centre-Forward,CF,,Castel Rigone,Italy,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Adrián Ricchiuti,35,Argentina,Second Striker,SS,100000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Giovanni Marchese,28,Italy,Left-Back,LB,4500000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Cristian Llama,27,Argentina,Left Midfield,LM,800000.0,Tiburones Rojos,Mexico,0.0,out,summer,Serie A,2013,False,
+Calcio Catania,Ameth Fall,22,Senegal,Centre-Forward,CF,100000.0,Rimini,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Gabriele Franchina,19,Italy,Right-Back,RB,100000.0,NFC Orlandina,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Souleymane Doukara,21,Senegal,Centre-Forward,CF,700000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Nabila Samba,20,Senegal,Centre-Back,CB,100000.0,HNK Gorica,Croatia,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Emiliano Tortolano,23,Italy,Right Winger,RW,200000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Francesco Nicastro,21,Italy,Centre-Forward,CF,200000.0,Rimini,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Rocco Benci,23,Italy,Centre-Back,CB,,Sorrento,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Alessandro Potenza,29,Italy,Centre-Back,CB,300000.0,Modena,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Mario Bria,20,Italy,Left-Back,LB,50000.0,FC Sambiase,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Cristian Suarino,23,Italy,Defensive Midfield,DM,125000.0,Aversa Norm.,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Fabio Sciacca,24,Italy,Central Midfield,CM,400000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Mirco Antenucci,28,Italy,Centre-Forward,CF,1000000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Francesco Lodi,29,Italy,Defensive Midfield,DM,7000000.0,Genoa,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Federico Moretti,24,Italy,Central Midfield,CM,600000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Calcio Catania,Luca Calapai,20,Italy,Right-Back,RB,100000.0,Modena,Italy,,out,summer,Serie A,2013,False,
+Calcio Catania,Davide Lanzafame,26,Italy,Centre-Forward,CF,,Without Club,,,out,summer,Serie A,2013,False,
+Calcio Catania,Amidu Salifu,20,Ghana,Central Midfield,CM,1100000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Calcio Catania,Fabián Rinaudo,26,Argentina,Defensive Midfield,DM,7500000.0,Sporting CP,Portugal,500000.0,in,winter,Serie A,2013,True,loan with fee
+Calcio Catania,Francesco Lodi,29,Italy,Defensive Midfield,DM,7000000.0,Genoa,Italy,,in,winter,Serie A,2013,False,
+Calcio Catania,Juan Ramos,17,Uruguay,Left-Back,LB,,Wanderers U19,Uruguay,,in,winter,Serie A,2013,False,
+Calcio Catania,Francesco Fedato,21,Italy,Left Winger,LW,550000.0,Sampdoria,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Calcio Catania,Jean Mbida,23,Cameroon,Central Midfield,CM,150000.0,Thermal Abano,Italy,90000.0,out,winter,Serie A,2013,False,
+Calcio Catania,Maxi López,29,Argentina,Centre-Forward,CF,3500000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Federico Freire,23,Argentina,Central Midfield,CM,700000.0,Arsenal FC,Argentina,0.0,out,winter,Serie A,2013,False,
+Calcio Catania,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3000000.0,Torino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Federico Moretti,25,Italy,Central Midfield,CM,600000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Emiliano Tortolano,23,Italy,Right Winger,RW,200000.0,Aprilia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Edgar Cani,24,Albania,Centre-Forward,CF,400000.0,Bari,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Calcio Catania,Davide Lanzafame,26,Italy,Centre-Forward,CF,,Without Club,,,out,winter,Serie A,2013,False,
+Chievo Verona,Dejan Lazarevic,23,Slovenia,Left Winger,LW,1600000.0,Genoa,Italy,1500000.0,in,summer,Serie A,2013,False,
+Chievo Verona,Ivan Radovanovic,24,Serbia,Defensive Midfield,DM,600000.0,Atalanta BC,Italy,800000.0,in,summer,Serie A,2013,False,
+Chievo Verona,Matteo Ardemagni,26,Italy,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,500000.0,in,summer,Serie A,2013,True,loan with fee
+Chievo Verona,Tomasz Kupisz,23,Poland,Right Midfield,RM,750000.0,Jagiellonia,Poland,500000.0,in,summer,Serie A,2013,False,
+Chievo Verona,Yohan Tavares,25,Portugal,Centre-Back,CB,1200000.0,Standard Liège,Belgium,500000.0,in,summer,Serie A,2013,False,
+Chievo Verona,Claiton,28,Brazil,Centre-Back,CB,500000.0,Bari,Italy,100000.0,in,summer,Serie A,2013,False,
+Chievo Verona,Alessio Sestu,29,Italy,Right Winger,RW,800000.0,Siena,Italy,0.0,in,summer,Serie A,2013,False,
+Chievo Verona,Marcello Falzerano,22,Italy,Central Midfield,CM,150000.0,Grosseto,Italy,0.0,in,summer,Serie A,2013,False,
+Chievo Verona,Adrián Calello,26,Argentina,Defensive Midfield,DM,900000.0,Siena,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Alessandro Bernardini,26,Italy,Centre-Back,CB,650000.0,AS Livorno,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Chievo Verona,Marcelo Estigarribia,25,Paraguay,Left Midfield,LM,2500000.0,Maldonado,Uruguay,0.0,in,summer,Serie A,2013,True,free loan
+Chievo Verona,Luca Martinelli,24,Italy,Centre-Back,CB,250000.0,Juve Stabia,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Federico Scappi,19,Italy,Centre-Back,CB,75000.0,Reggiana,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Simone Aldrovandi,19,Italy,Centre-Back,CB,100000.0,Modena,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Andrea Seculin,23,Italy,Goalkeeper,GK,300000.0,Fiorentina,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Manuel Pamic,26,Croatia,Left-Back,LB,1200000.0,Sparta Prague,Czech Republic,0.0,in,summer,Serie A,2013,True,free loan
+Chievo Verona,Maxwell Acosty,21,Ghana,Right Winger,RW,1000000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Chievo Verona,Riccardo Improta,19,Italy,Left Winger,LW,600000.0,Genoa,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Chievo Verona,Nicolò Brighenti,23,Italy,Centre-Back,CB,300000.0,Vicenza,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Marco Pavanello,21,Italy,Goalkeeper,GK,50000.0,Alessandria,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Jacopo Coletta,21,Italy,Goalkeeper,GK,50000.0,Lumezzane,Italy,,in,summer,Serie A,2013,False,
+Chievo Verona,Isaac Cofie,21,Ghana,Defensive Midfield,DM,3000000.0,Genoa,Italy,3000000.0,out,summer,Serie A,2013,False,
+Chievo Verona,Stefano Sorrentino,34,Italy,Goalkeeper,GK,3000000.0,US Palermo,Italy,2000000.0,out,summer,Serie A,2013,False,
+Chievo Verona,Diego Farias,23,Brazil,Left Winger,LW,800000.0,Sassuolo,Italy,550000.0,out,summer,Serie A,2013,True,loan with fee
+Chievo Verona,Antimo Iunco,29,Italy,Second Striker,SS,500000.0,Trapani,Italy,100000.0,out,summer,Serie A,2013,False,
+Chievo Verona,Nestor Djengoue,22,Cameroon,Centre-Back,CB,150000.0,FSV Frankfurt,Germany,100000.0,out,summer,Serie A,2013,False,
+Chievo Verona,Davide Tonani,21,Italy,Centre-Forward,CF,75000.0,Borgomanero,Italy,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Marco Andreolli,27,Italy,Centre-Back,CB,4200000.0,Inter,Italy,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Filippo Fondi,24,Italy,Central Midfield,CM,150000.0,Bassano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Yohan Tavares,25,Portugal,Centre-Back,CB,1200000.0,Estoril Praia,Portugal,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Andrea Seculin,23,Italy,Goalkeeper,GK,300000.0,AS Avellino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Massimo Zamparo,21,Italy,Centre-Back,CB,50000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Bojan Jokic,27,Slovenia,Left-Back,LB,800000.0,Villarreal,Spain,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Nikolaos Spyropoulos,29,Greece,Left-Back,LB,1500000.0,PAOK Salonika,Greece,0.0,out,summer,Serie A,2013,False,
+Chievo Verona,Santiago Morero,31,Argentina,Centre-Back,CB,200000.0,Siena,Italy,20000.0,out,summer,Serie A,2013,False,
+Chievo Verona,Pablo Granoche,29,Uruguay,Centre-Forward,CF,600000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Adrian Stoian,22,Romania,Left Winger,LW,1600000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Kamil Vacek,26,Czech Republic,Central Midfield,CM,900000.0,Sparta Prague,Czech Republic,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Roberto Inglese,21,Italy,Centre-Forward,CF,300000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Alan Hernández,21,Panama,Right Winger,RW,100000.0,Chorrillo FC,Panama,,out,summer,Serie A,2013,False,
+Chievo Verona,Michel Cruciani,27,Italy,Central Midfield,CM,75000.0,Casertana,Italy,,out,summer,Serie A,2013,False,
+Chievo Verona,Luca Martinelli,24,Italy,Centre-Back,CB,250000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Jakub Vojtus,19,Slovakia,Centre-Forward,CF,50000.0,Olhanense,Portugal,,out,summer,Serie A,2013,False,
+Chievo Verona,Nicola Rigoni,22,Italy,Central Midfield,CM,400000.0,Reggina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Luciano,37,Brazil,Right Midfield,RM,200000.0,Mantova,Italy,,out,summer,Serie A,2013,False,
+Chievo Verona,Alessandro Sbaffo,22,Italy,Central Midfield,CM,,Reggina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Amedeo Benedetti,21,Italy,Left-Back,LB,325000.0,Lumezzane,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Federico Scappi,19,Italy,Centre-Back,CB,75000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Jacopo Coletta,21,Italy,Goalkeeper,GK,50000.0,SPAL,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Francesco Bonato,20,Italy,Goalkeeper,GK,100000.0,Castiglione,Italy,,out,summer,Serie A,2013,False,
+Chievo Verona,Ivan Fatic,24,Montenegro,Centre-Back,CB,150000.0,Vojvodina,Serbia,,out,summer,Serie A,2013,False,
+Chievo Verona,Marco Pavanello,21,Italy,Goalkeeper,GK,50000.0,Virtus Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Valerio Anastasi,23,Italy,Centre-Forward,CF,100000.0,Reggiana,Italy,,out,summer,Serie A,2013,False,
+Chievo Verona,Matteo Solini,20,Italy,Centre-Back,CB,200000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Salvatore Gallo,20,Italy,Central Midfield,CM,125000.0,Unione Venezia,Italy,,out,summer,Serie A,2013,False,
+Chievo Verona,Sergio Viotti,23,Italy,Goalkeeper,GK,250000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Pavol Farkas,28,Slovakia,Centre-Back,CB,400000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Caleb Ekuban,19,Ghana,Right Winger,RW,125000.0,Südtirol,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Radoslav Kirilov,21,Bulgaria,Left Winger,LW,350000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Chievo Verona,Matteo Oliboni,20,Italy,Left-Back,LB,75000.0,Without Club,,,out,summer,Serie A,2013,False,
+Chievo Verona,Marcello Falzerano,22,Italy,Central Midfield,CM,150000.0,Without Club,,,out,summer,Serie A,2013,False,
+Chievo Verona,Felipe Seymour,25,Chile,Defensive Midfield,DM,900000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Chievo Verona,Samir Ujkani,24,Kosovo,Goalkeeper,GK,2500000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Chievo Verona,Mario Sampirisi,20,Italy,Right-Back,RB,800000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Chievo Verona,Gabriel Hauche,26,Argentina,Centre-Forward,CF,1500000.0,Racing Club,Argentina,0.0,out,summer,Serie A,2013,True,end of loan
+Chievo Verona,Francesco Acerbi,25,Italy,Centre-Back,CB,3500000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Chievo Verona,Riccardo Improta,20,Italy,Left Winger,LW,1000000.0,Genoa,Italy,,in,winter,Serie A,2013,False,
+Chievo Verona,Matteo Rubin,26,Italy,Left-Back,LB,900000.0,Siena,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Chievo Verona,Michele Canini,28,Italy,Centre-Back,CB,1600000.0,Atalanta BC,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Chievo Verona,Leandro Paredes,19,Argentina,Defensive Midfield,DM,3500000.0,Boca Juniors,Argentina,0.0,in,winter,Serie A,2013,True,free loan
+Chievo Verona,Michael Agazzi,29,Italy,Goalkeeper,GK,7000000.0,Cagliari Calcio,Italy,,in,winter,Serie A,2013,False,
+Chievo Verona,Tiberio Guarente,28,Italy,Central Midfield,CM,1200000.0,Sevilla FC,Spain,0.0,in,winter,Serie A,2013,True,free loan
+Chievo Verona,Victor Obinna,26,Nigeria,Second Striker,SS,3000000.0,Loko Moscow,Russia,0.0,in,winter,Serie A,2013,True,free loan
+Chievo Verona,Paul Papp,24,Romania,Centre-Back,CB,1200000.0,Astra Giurgiu,Romania,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Filippo Fondi,24,Italy,Central Midfield,CM,150000.0,Reggiana,Italy,0.0,out,winter,Serie A,2013,False,
+Chievo Verona,Amadou Samb,25,Senegal,Centre-Forward,CF,125000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2013,False,
+Chievo Verona,Nicola Rigoni,23,Italy,Central Midfield,CM,350000.0,Cittadella,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Caleb Ekuban,19,Ghana,Right Winger,RW,125000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Domenico Franco,21,Italy,Central Midfield,CM,100000.0,Messina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Riccardo Improta,20,Italy,Left Winger,LW,1000000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Oumaro Coulibaly,20,Mali,Centre-Back,CB,100000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Marcos De Paula,30,Brazil,Centre-Forward,CF,200000.0,Lumezzane,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Luca Martinelli,25,Italy,Centre-Back,CB,200000.0,FC Empoli,Italy,,out,winter,Serie A,2013,False,
+Chievo Verona,Marco Silvestri,22,Italy,Goalkeeper,GK,500000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Radoslav Kirilov,21,Bulgaria,Left Winger,LW,300000.0,Unione Venezia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Mamadou Samassa,27,Mali,Centre-Forward,CF,700000.0,Pescara,Italy,,out,winter,Serie A,2013,False,
+Chievo Verona,Pablo Granoche,30,Uruguay,Centre-Forward,CF,400000.0,Modena,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Chievo Verona,Alessio Sestu,30,Italy,Right Winger,RW,500000.0,Sampdoria,Italy,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Mauro Icardi,20,Argentina,Centre-Forward,CF,12000000.0,Sampdoria,Italy,13000000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Saphir Taider,21,Algeria,Central Midfield,CM,5000000.0,Bologna,Italy,7500000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Matías Silvestre,28,Argentina,Centre-Back,CB,6000000.0,US Palermo,Italy,6000000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Ishak Belfodil,21,Algeria,Centre-Forward,CF,10000000.0,Parma,Italy,5750000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Diego Laxalt,20,Uruguay,Left-Back,LB,2300000.0,Defensor,Uruguay,2300000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Wallace Oliveira,19,Brazil,Right-Back,RB,2000000.0,Chelsea,England,1500000.0,in,summer,Serie A,2013,True,loan with fee
+FC Internazionale,Gaby Mudingayi,31,Belgium,Defensive Midfield,DM,2000000.0,Bologna,Italy,750000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Luca Caldirola,22,Italy,Centre-Back,CB,3000000.0,Cesena,Italy,750000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Rolando,27,Portugal,Centre-Back,CB,6500000.0,FC Porto,Portugal,500000.0,in,summer,Serie A,2013,True,loan with fee
+FC Internazionale,Luca Tremolada,21,Italy,Attacking Midfield,AM,325000.0,Como,Italy,50000.0,in,summer,Serie A,2013,False,
+FC Internazionale,Marco Andreolli,27,Italy,Centre-Back,CB,4200000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2013,False,
+FC Internazionale,Hugo Campagnaro,33,Argentina,Centre-Back,CB,4200000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,False,
+FC Internazionale,Diego Mella,20,Italy,Attacking Midfield,AM,100000.0,Parma,Italy,,in,summer,Serie A,2013,False,
+FC Internazionale,Jacopo Galimberti,20,Italy,Centre-Back,CB,150000.0,Parma,Italy,,in,summer,Serie A,2013,False,
+FC Internazionale,Giulio Donati,23,Italy,Right-Back,RB,750000.0,Bay. Leverkusen,Germany,3000000.0,out,summer,Serie A,2013,False,
+FC Internazionale,Luca Caldirola,22,Italy,Centre-Back,CB,3000000.0,Werder Bremen,Germany,2250000.0,out,summer,Serie A,2013,False,
+FC Internazionale,Matteo Bianchetti,20,Italy,Centre-Back,CB,1000000.0,Hellas Verona,Italy,1600000.0,out,summer,Serie A,2013,False,
+FC Internazionale,Andrea Romanò,19,Italy,Central Midfield,CM,500000.0,Bologna,Italy,1250000.0,out,summer,Serie A,2013,False,
+FC Internazionale,Matías Silvestre,28,Argentina,Centre-Back,CB,6000000.0,AC Milan,Italy,1000000.0,out,summer,Serie A,2013,True,loan with fee
+FC Internazionale,Alfred Duncan,20,Ghana,Central Midfield,CM,5000000.0,AS Livorno,Italy,500000.0,out,summer,Serie A,2013,True,loan with fee
+FC Internazionale,Cristiano Biraghi,20,Italy,Left-Back,LB,800000.0,Cittadella,Italy,150000.0,out,summer,Serie A,2013,False,
+FC Internazionale,Denis Alibec,22,Romania,Centre-Forward,CF,600000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Ezequiel Schelotto,24,Italy,Right-Back,RB,5000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Simone Benedetti,21,Italy,Centre-Back,CB,800000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Jacopo Galimberti,20,Italy,Centre-Back,CB,150000.0,Monza,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Diego Mella,20,Italy,Attacking Midfield,AM,100000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Michele Rigione,22,Italy,Centre-Back,CB,150000.0,Catanzaro,Italy,,out,summer,Serie A,2013,False,
+FC Internazionale,Ibrahima Mbaye,18,Senegal,Right-Back,RB,1000000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Samuele Longo,21,Italy,Centre-Forward,CF,2000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Diego Laxalt,20,Uruguay,Left-Back,LB,2300000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Mame Thiam,20,Senegal,Left Winger,LW,375000.0,Virtus Lanciano,Italy,,out,summer,Serie A,2013,False,
+FC Internazionale,Simone Pasa,19,Italy,Defensive Midfield,DM,1000000.0,Varese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Vid Belec,23,Slovenia,Goalkeeper,GK,1400000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Antonio Cassano,30,Italy,Second Striker,SS,6000000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Raffaele Di Gennaro,19,Italy,Goalkeeper,GK,300000.0,Cittadella,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Luca Tremolada,21,Italy,Attacking Midfield,AM,325000.0,Varese,Italy,,out,summer,Serie A,2013,False,
+FC Internazionale,Simone Pecorini,20,Italy,Right-Back,RB,200000.0,Cittadella,Italy,,out,summer,Serie A,2013,False,
+FC Internazionale,Lukas Spendlhofer,20,Austria,Centre-Back,CB,250000.0,Varese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Francesco Bardi,21,Italy,Goalkeeper,GK,6000000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Marco Benassi,18,Italy,Central Midfield,CM,2200000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Daniel Bessa,20,Italy,Central Midfield,CM,700000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Joel Obi,22,Nigeria,Central Midfield,CM,5500000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,free loan
+FC Internazionale,Dejan Stanković,34,Serbia,Central Midfield,CM,500000.0,Retired,,,out,summer,Serie A,2013,False,
+FC Internazionale,Tommaso Rocchi,35,Italy,Centre-Forward,CF,500000.0,Without Club,,,out,summer,Serie A,2013,False,
+FC Internazionale,Matías Silvestre,28,Argentina,Centre-Back,CB,6000000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+FC Internazionale,Gaby Mudingayi,31,Belgium,Defensive Midfield,DM,2000000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+FC Internazionale,Walter Gargano,28,Uruguay,Defensive Midfield,DM,7500000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+FC Internazionale,Hernanes,28,Brazil,Central Midfield,CM,22000000.0,Lazio,Italy,18000000.0,in,winter,Serie A,2013,False,
+FC Internazionale,Danilo D'Ambrosio,25,Italy,Right-Back,RB,5000000.0,Torino,Italy,3790000.0,in,winter,Serie A,2013,False,
+FC Internazionale,Rubén Botta,23,Argentina,Attacking Midfield,AM,5000000.0,AS Livorno,Italy,0.0,in,winter,Serie A,2013,False,
+FC Internazionale,Ishak Belfodil,22,Algeria,Centre-Forward,CF,11000000.0,AS Livorno,Italy,1000000.0,out,winter,Serie A,2013,True,loan with fee
+FC Internazionale,Denis Alibec,23,Romania,Centre-Forward,CF,500000.0,Astra Giurgiu,Romania,200000.0,out,winter,Serie A,2013,False,
+FC Internazionale,Ezequiel Schelotto,24,Italy,Right-Back,RB,4300000.0,Parma,Italy,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Stefano Tonsi,19,Italy,Central Midfield,CM,100000.0,Novese,Italy,,out,winter,Serie A,2013,False,
+FC Internazionale,Daniel Bessa,21,Italy,Central Midfield,CM,700000.0,Sparta R.,Netherlands,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Samuele Longo,22,Italy,Centre-Forward,CF,2000000.0,Rayo Vallecano,Spain,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Simone Pasa,20,Italy,Defensive Midfield,DM,900000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Álvaro Pereira,28,Uruguay,Left-Back,LB,6500000.0,São Paulo,Brazil,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Patrick Olsen,19,Denmark,Central Midfield,CM,800000.0,Strømsgodset,Norway,0.0,out,winter,Serie A,2013,True,free loan
+FC Internazionale,Cristian Chivu,33,Romania,Centre-Back,CB,800000.0,Retired,,,out,winter,Serie A,2013,False,
+Genoa CFC,Sime Vrsaljko,21,Croatia,Right-Back,RB,5000000.0,Dinamo Zagreb,Croatia,4880000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Giannis Fetfatzidis,22,Greece,Right Winger,RW,3250000.0,Olympiacos,Greece,4000000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Rodney Strasser,23,Sierra Leone,Defensive Midfield,DM,1200000.0,AC Milan,Italy,3500000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3300000.0,AS Roma,Italy,3000000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Mario Santana,31,Argentina,Second Striker,SS,1900000.0,SSC Napoli,Italy,3000000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Isaac Cofie,21,Ghana,Defensive Midfield,DM,3000000.0,Chievo Verona,Italy,3000000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Kévin Vinetot,25,France,Centre-Back,CB,1000000.0,Crotone,Italy,1000000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Ricardo Centurión,20,Argentina,Left Winger,LW,5000000.0,Racing Club,Argentina,610000.0,in,summer,Serie A,2013,True,loan with fee
+Genoa CFC,Albano Bizzarri,35,Argentina,Goalkeeper,GK,200000.0,Lazio,Italy,300000.0,in,summer,Serie A,2013,False,
+Genoa CFC,Giovanni Marchese,28,Italy,Left-Back,LB,4500000.0,Catania,Italy,0.0,in,summer,Serie A,2013,False,
+Genoa CFC,Jami Rafati,19,Italy,Central Midfield,CM,,West Ham U21,England,0.0,in,summer,Serie A,2013,False,
+Genoa CFC,Luca Antonini,31,Italy,Left-Back,LB,2000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2013,False,
+Genoa CFC,Daniane Jawad,27,Morocco,Left Winger,LW,150000.0,Viktoria Zizkov,Czech Republic,0.0,in,summer,Serie A,2013,False,
+Genoa CFC,Sebastien De Maio,26,France,Centre-Back,CB,600000.0,Brescia,Italy,0.0,in,summer,Serie A,2013,False,
+Genoa CFC,Moussa Konaté,20,Senegal,Centre-Forward,CF,1200000.0,Krasnodar,Russia,0.0,in,summer,Serie A,2013,True,free loan
+Genoa CFC,Francesco Lodi,29,Italy,Defensive Midfield,DM,7000000.0,Catania,Italy,,in,summer,Serie A,2013,False,
+Genoa CFC,Daniel Jara,19,Paraguay,Centre-Forward,CF,100000.0,US Palermo,Italy,,in,summer,Serie A,2013,False,
+Genoa CFC,Alessandro Gamberini,31,Italy,Centre-Back,CB,4000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Genoa CFC,Matuzalém,33,Brazil,Defensive Midfield,DM,1000000.0,Lazio,Italy,,in,summer,Serie A,2013,False,
+Genoa CFC,Adrian Stoian,22,Romania,Left Winger,LW,1600000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Genoa CFC,Emanuele Calaiò,31,Italy,Centre-Forward,CF,2000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Genoa CFC,Andreas Granqvist,28,Sweden,Centre-Back,CB,6500000.0,Krasnodar,Russia,5000000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Mattia Destro,22,Italy,Centre-Forward,CF,11500000.0,AS Roma,Italy,4500000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Giacomo Beretta,21,Italy,Centre-Forward,CF,350000.0,AC Milan,Italy,4000000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Francesco Acerbi,25,Italy,Centre-Back,CB,3500000.0,Sassuolo,Italy,3200000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Valter Birsa,27,Slovenia,Attacking Midfield,AM,1500000.0,AC Milan,Italy,3000000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Ciro Immobile,23,Italy,Centre-Forward,CF,7000000.0,Juventus,Italy,2750000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Valerio Verre,19,Italy,Central Midfield,CM,1200000.0,AS Roma,Italy,2500000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Giammario Piscitella,20,Italy,Left Winger,LW,1500000.0,AS Roma,Italy,1500000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Dejan Lazarevic,23,Slovenia,Left Winger,LW,1600000.0,Chievo Verona,Italy,1500000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Cesare Bovo,30,Italy,Centre-Back,CB,1900000.0,Torino,Italy,800000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Emiliano Moretti,32,Italy,Centre-Back,CB,1200000.0,Torino,Italy,700000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Eros Pisano,26,Italy,Right-Back,RB,1100000.0,US Palermo,Italy,531000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Linus Hallenius,24,Sweden,Centre-Forward,CF,300000.0,FC Aarau,Switzerland,50000.0,out,summer,Serie A,2013,False,
+Genoa CFC,Robert Stillo,22,Canada,Goalkeeper,GK,100000.0,Parma,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Selim Ben Djemia,24,Tunisia,Centre-Back,CB,250000.0,Stade Lavallois,France,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Alessio De Bode,22,Italy,Centre-Back,CB,75000.0,Messina,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Vincenzo Rennella,24,Italy,Centre-Forward,CF,700000.0,Real Betis,Spain,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Giacomo Bindi,26,Italy,Goalkeeper,GK,400000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Damiano Ferronetti,28,Italy,Centre-Back,CB,600000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Niccolò Romero,21,Italy,Centre-Forward,CF,125000.0,Pavia,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Alexandros Tzorvas,30,Greece,Goalkeeper,GK,600000.0,Apollon Smyrnis,Greece,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Cristobal Jorquera,25,Chile,Central Midfield,CM,1300000.0,Parma,Italy,0.0,out,summer,Serie A,2013,False,
+Genoa CFC,Andrea Parodi,20,Italy,attack,attack,75000.0,Sorrento,Italy,,out,summer,Serie A,2013,False,
+Genoa CFC,Michael Ventre,17,Italy,Second Striker,SS,,Inter U19,Italy,,out,summer,Serie A,2013,False,
+Genoa CFC,Antonio Floro Flores,30,Italy,Centre-Forward,CF,3000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Felipe Seymour,26,Chile,Defensive Midfield,DM,900000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Rodney Strasser,23,Sierra Leone,Defensive Midfield,DM,1200000.0,Reggina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,William Lacerda,21,Brazil,Right Winger,RW,150000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Daniel Jara,19,Paraguay,Centre-Forward,CF,100000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Nicola Pasini,22,Italy,Centre-Back,CB,200000.0,Unione Venezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Kévin Vinetot,25,France,Centre-Back,CB,800000.0,Lecce,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Mario Sampirisi,21,Italy,Right-Back,RB,700000.0,Olhanense,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Eugenio Lamanna,23,Italy,Goalkeeper,GK,900000.0,Siena,Italy,,out,summer,Serie A,2013,False,
+Genoa CFC,Boško Janković,29,Serbia,Right Winger,RW,2800000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Sebastián Ribas,25,Uruguay,Centre-Forward,CF,500000.0,Barcelona SC,Ecuador,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3300000.0,Catania,Italy,,out,summer,Serie A,2013,False,
+Genoa CFC,Moro Alhassan,19,Ghana,Defensive Midfield,DM,75000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Enis Nadarevic,25,Austria,Left Winger,LW,1100000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Sébastien Frey,33,France,Goalkeeper,GK,5000000.0,Bursaspor,Turkey,,out,summer,Serie A,2013,False,
+Genoa CFC,Eduardo,30,Portugal,Goalkeeper,GK,3700000.0,Braga,Portugal,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Riccardo Improta,19,Italy,Left Winger,LW,600000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Genoa CFC,Matteo Meucci,19,Italy,Central Midfield,CM,50000.0,Without Club,,,out,summer,Serie A,2013,False,
+Genoa CFC,Marco Rossi,35,Italy,Right Midfield,RM,400000.0,Retired,,,out,summer,Serie A,2013,False,
+Genoa CFC,Juan Manuel Vargas,29,Peru,Left-Back,LB,5000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Marco Borriello,31,Italy,Centre-Forward,CF,7000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Matuzalém,33,Brazil,Defensive Midfield,DM,1000000.0,Lazio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Rubén Olivera,30,Uruguay,Central Midfield,CM,1000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Mattia Cassani,29,Italy,Right-Back,RB,2200000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Marco Rigoni,33,Italy,Central Midfield,CM,400000.0,Novara,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Genoa CFC,Cabral,25,Switzerland,Defensive Midfield,DM,1000000.0,Sunderland,England,150000.0,in,winter,Serie A,2013,True,loan with fee
+Genoa CFC,Paolo De Ceglie,27,Italy,Left-Back,LB,2800000.0,Juventus,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Genoa CFC,Nicolás Burdisso,32,Argentina,Centre-Back,CB,1000000.0,AS Roma,Italy,0.0,in,winter,Serie A,2013,False,
+Genoa CFC,Marco Motta,27,Italy,Right-Back,RB,1000000.0,Juventus,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Genoa CFC,Giuseppe Sculli,32,Italy,Left Winger,LW,600000.0,Lazio,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Genoa CFC,Davide Biondini,30,Italy,Central Midfield,CM,1800000.0,Sassuolo,Italy,200000.0,out,winter,Serie A,2013,True,loan with fee
+Genoa CFC,Sebastián Ribas,25,Uruguay,Centre-Forward,CF,400000.0,R. Strasbourg,France,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Francesco Lodi,29,Italy,Defensive Midfield,DM,7000000.0,Catania,Italy,,out,winter,Serie A,2013,False,
+Genoa CFC,Said Ahmed Said,20,Italy,Centre-Forward,CF,500000.0,Monza,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Zé Love,26,Brazil,Centre-Forward,CF,500000.0,Coritiba FC,Brazil,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Thomas Manfredini,33,Italy,Centre-Back,CB,900000.0,Sassuolo,Italy,,out,winter,Serie A,2013,False,
+Genoa CFC,Lukas Zima,20,Czech Republic,Goalkeeper,GK,100000.0,Reggiana,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Riccardo Improta,20,Italy,Left Winger,LW,1000000.0,Chievo Verona,Italy,,out,winter,Serie A,2013,False,
+Genoa CFC,Andrea Doninelli,22,Italy,Central Midfield,CM,200000.0,Benevento,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Mario Santana,32,Argentina,Second Striker,SS,1500000.0,Olhanense,Portugal,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Dániel Tőzsér,28,Hungary,Central Midfield,CM,1300000.0,Watford,England,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Ahmed Barusso,29,Ghana,Defensive Midfield,DM,200000.0,Torino,Italy,,out,winter,Serie A,2013,False,
+Genoa CFC,Enis Nadarevic,26,Austria,Left Winger,LW,800000.0,Bari,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Andrea Tufano,19,Italy,Goalkeeper,GK,25000.0,Brindisi,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Genoa CFC,Daniele Siciliano,20,Italy,Attacking Midfield,AM,25000.0,Vado,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Alejandro González,25,Uruguay,Centre-Back,CB,850000.0,Peñarol,Uruguay,2400000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Matteo Bianchetti,20,Italy,Centre-Back,CB,1000000.0,Inter,Italy,1600000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Juan Iturbe,20,Paraguay,Left Winger,LW,3500000.0,FC Porto,Portugal,1000000.0,in,summer,Serie A,2013,True,loan with fee
+Hellas Verona,Raphael Martinho,25,Brazil,Left Midfield,LM,2000000.0,Catania,Italy,900000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Michelangelo Albertazzi,22,Italy,Left-Back,LB,300000.0,AC Milan,Italy,500000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Fabrizio Cacciatore,26,Italy,Right-Back,RB,1000000.0,Sampdoria,Italy,500000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Nikolay Mihaylov,25,Bulgaria,Goalkeeper,GK,5500000.0,Twente FC,Netherlands,500000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Ezequiel Cirigliano,21,Argentina,Defensive Midfield,DM,1800000.0,River Plate,Argentina,300000.0,in,summer,Serie A,2013,True,loan with fee
+Hellas Verona,Alessandro Agostini,33,Italy,Left-Back,LB,300000.0,Torino,Italy,300000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Jacopo Sala,21,Italy,Right-Back,RB,700000.0,Hamburger SV,Germany,100000.0,in,summer,Serie A,2013,False,
+Hellas Verona,Harallamb Qaqi,19,Albania,Centre-Back,CB,25000.0,Varese U19,Italy,0.0,in,summer,Serie A,2013,False,
+Hellas Verona,Rafael Marques,29,Brazil,Centre-Back,CB,400000.0,Atlético-MG,Brazil,0.0,in,summer,Serie A,2013,False,
+Hellas Verona,Luca Toni,36,Italy,Centre-Forward,CF,500000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2013,False,
+Hellas Verona,Rômulo,26,Italy,Central Midfield,CM,2000000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Hellas Verona,Samuele Longo,21,Italy,Centre-Forward,CF,2000000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Hellas Verona,Godfred Donsah,17,Ghana,Central Midfield,CM,,US Palermo Yout,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Matteo Rubin,26,Italy,Left-Back,LB,1200000.0,Siena,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Hellas Verona,Boško Janković,29,Serbia,Right Winger,RW,2800000.0,Genoa,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Hellas Verona,David Speziale,19,Italy,Attacking Midfield,AM,50000.0,Milan U19,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Francesco Zampano,19,Italy,Right-Back,RB,250000.0,Virtus Entella,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Filippo De Col,19,Italy,Right-Back,RB,225000.0,Virtus Entella,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Massimo Donati,32,Italy,Defensive Midfield,DM,1300000.0,US Palermo,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Simon Laner,29,Italy,Central Midfield,CM,700000.0,UC AlbinoLeffe,Italy,,in,summer,Serie A,2013,False,
+Hellas Verona,Marco Donadel,30,Italy,Defensive Midfield,DM,1300000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Hellas Verona,Luca Ceccarelli,30,Italy,Centre-Back,CB,300000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,False,
+Hellas Verona,Giuseppe Russo,30,Italy,Central Midfield,CM,500000.0,Lumezzane,Italy,0.0,out,summer,Serie A,2013,False,
+Hellas Verona,Filippo De Col,19,Italy,Right-Back,RB,225000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Francesco Cangi,30,Italy,Right-Back,RB,150000.0,Castel Rigone,Italy,0.0,out,summer,Serie A,2013,False,
+Hellas Verona,Nicola Ferrari,30,Italy,Centre-Forward,CF,400000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Paolo Grossi,28,Italy,Central Midfield,CM,400000.0,Brescia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Alessandro Sgrigna,33,Italy,Second Striker,SS,400000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Kris Jogan,22,Slovenia,Centre-Forward,CF,150000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Gennaro Esposito,28,Italy,Defensive Midfield,DM,300000.0,Salernitana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Mattia Spezzani,21,Italy,Central Midfield,CM,125000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Dino Martinovic,23,Slovenia,Left Winger,LW,100000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Matteo Abbate,29,Italy,Centre-Back,CB,200000.0,Cremonese,Italy,,out,summer,Serie A,2013,False,
+Hellas Verona,Luca Viviani,22,Italy,Second Striker,SS,150000.0,Legnago,Italy,,out,summer,Serie A,2013,False,
+Hellas Verona,Andrea Cocco,27,Italy,Centre-Forward,CF,600000.0,Reggina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Tony Huston,20,France,Centre-Back,CB,75000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Emanuel Rivas,30,Argentina,Left Winger,LW,650000.0,Spezia Calcio,Italy,,out,summer,Serie A,2013,False,
+Hellas Verona,Enrico Fornasa,19,Italy,Goalkeeper,GK,50000.0,Retired,,,out,summer,Serie A,2013,False,
+Hellas Verona,Stefano Bertasi,19,Italy,Centre-Back,CB,50000.0,Valdagno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Francesco Zampano,19,Italy,Right-Back,RB,250000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Harallamb Qaqi,19,Albania,Centre-Back,CB,25000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,David Speziale,19,Italy,Attacking Midfield,AM,50000.0,Pavia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Simone Calvano,20,Italy,Central Midfield,CM,250000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Alessandro Carrozza,31,Italy,Left Winger,LW,400000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Hellas Verona,Ernesto Torregrossa,21,Italy,Centre-Forward,CF,150000.0,Lumezzane,Italy,,out,summer,Serie A,2013,False,
+Hellas Verona,Manuel Mancini,30,Italy,Central Midfield,CM,200000.0,Without Club,,,out,summer,Serie A,2013,False,
+Hellas Verona,Giuseppe Pugliese,29,Italy,Left-Back,LB,200000.0,Without Club,,,out,summer,Serie A,2013,False,
+Hellas Verona,Armin Bacinovic,23,Slovenia,Defensive Midfield,DM,1500000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,José Crespo,26,Spain,Centre-Back,CB,500000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Simon Laner,29,Italy,Central Midfield,CM,700000.0,UC AlbinoLeffe,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Raphael Martinho,25,Brazil,Left Midfield,LM,2000000.0,Catania,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Michelangelo Albertazzi,22,Italy,Left-Back,LB,300000.0,AC Milan,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Fabrizio Cacciatore,26,Italy,Right-Back,RB,1000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Alessandro Berardi,22,Italy,Goalkeeper,GK,200000.0,Lazio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Alessandro Agostini,33,Italy,Left-Back,LB,300000.0,Torino,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Matteo Bianchetti,20,Italy,Centre-Back,CB,1000000.0,Inter,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Matti Lund Nielsen,25,Denmark,Central Midfield,CM,900000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Hellas Verona,Amadou Samb,25,Senegal,Centre-Forward,CF,125000.0,Chievo Verona,Italy,0.0,in,winter,Serie A,2013,False,
+Hellas Verona,Iván Pillud,27,Argentina,Right-Back,RB,1500000.0,Racing Club,Argentina,0.0,in,winter,Serie A,2013,True,free loan
+Hellas Verona,Michael Rabusic,24,Czech Republic,Centre-Forward,CF,850000.0,Slovan Liberec,Czech Republic,0.0,in,winter,Serie A,2013,False,
+Hellas Verona,Marquinho,27,Brazil,Attacking Midfield,AM,4000000.0,AS Roma,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Hellas Verona,Jorginho,22,Italy,Defensive Midfield,DM,10000000.0,SSC Napoli,Italy,9500000.0,out,winter,Serie A,2013,False,
+Hellas Verona,Matteo Bianchetti,20,Italy,Centre-Back,CB,1000000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Simone Calvano,20,Italy,Central Midfield,CM,250000.0,UC AlbinoLeffe,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Daniele Ragatzu,22,Italy,Centre-Forward,CF,400000.0,Virtus Lanciano,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Dino Martinovic,23,Slovenia,Left Winger,LW,100000.0,FC Lugano,Switzerland,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Andrea Cocco,27,Italy,Centre-Forward,CF,600000.0,Beira-Mar,Portugal,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Kris Jogan,22,Slovenia,Centre-Forward,CF,150000.0,Aversa Norm.,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Simon Laner,30,Italy,Central Midfield,CM,500000.0,Novara,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Hellas Verona,Tony Huston,21,France,Centre-Back,CB,75000.0,UR La Louvière,Belgium,,out,winter,Serie A,2013,False,
+Hellas Verona,Amadou Samb,25,Senegal,Centre-Forward,CF,125000.0,KF Teuta,Albania,0.0,out,winter,Serie A,2013,True,free loan
+Juventus FC,Angelo Ogbonna,25,Italy,Centre-Back,CB,12000000.0,Torino,Italy,15000000.0,in,summer,Serie A,2013,False,
+Juventus FC,Carlos Tevez,29,Argentina,Second Striker,SS,27000000.0,Man City,England,9000000.0,in,summer,Serie A,2013,False,
+Juventus FC,Federico Peluso,29,Italy,Centre-Back,CB,5000000.0,Atalanta BC,Italy,4800000.0,in,summer,Serie A,2013,False,
+Juventus FC,Domenico Berardi,19,Italy,Right Winger,RW,6000000.0,Sassuolo,Italy,4500000.0,in,summer,Serie A,2013,False,
+Juventus FC,Simone Zaza,22,Italy,Centre-Forward,CF,4500000.0,Sampdoria,Italy,3500000.0,in,summer,Serie A,2013,False,
+Juventus FC,Ciro Immobile,23,Italy,Centre-Forward,CF,7000000.0,Genoa,Italy,2750000.0,in,summer,Serie A,2013,False,
+Juventus FC,Alberto Gallinetta,21,Italy,Goalkeeper,GK,125000.0,Parma,Italy,1780000.0,in,summer,Serie A,2013,False,
+Juventus FC,Marcel Büchel,22,Liechtenstein,Central Midfield,CM,300000.0,Siena,Italy,1500000.0,in,summer,Serie A,2013,False,
+Juventus FC,Nazzareno Belfasti,19,Italy,Left-Back,LB,175000.0,Modena,Italy,760000.0,in,summer,Serie A,2013,False,
+Juventus FC,Elio De Silvestro,20,Italy,Right Winger,RW,350000.0,Pro Vercelli,Italy,760000.0,in,summer,Serie A,2013,False,
+Juventus FC,Elvis Kabashi,19,Albania,Central Midfield,CM,75000.0,Empoli U19,Italy,700000.0,in,summer,Serie A,2013,False,
+Juventus FC,Luca Castiglia,24,Italy,Central Midfield,CM,400000.0,Vicenza,Italy,350000.0,in,summer,Serie A,2013,False,
+Juventus FC,Mbaye Diagne,21,Senegal,Centre-Forward,CF,,Bra,Italy,100000.0,in,summer,Serie A,2013,False,
+Juventus FC,Fernando Llorente,28,Spain,Centre-Forward,CF,20000000.0,Athletic,Spain,0.0,in,summer,Serie A,2013,False,
+Juventus FC,Ciro Immobile,23,Italy,Centre-Forward,CF,7000000.0,Torino,Italy,13500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Manolo Gabbiadini,21,Italy,Centre-Forward,CF,7000000.0,Sampdoria,Italy,11500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Alessandro Matri,29,Italy,Centre-Forward,CF,11000000.0,AC Milan,Italy,11000000.0,out,summer,Serie A,2013,False,
+Juventus FC,Simone Zaza,22,Italy,Centre-Forward,CF,4500000.0,Sassuolo,Italy,10000000.0,out,summer,Serie A,2013,False,
+Juventus FC,Emanuele Giaccherini,28,Italy,Left Midfield,LM,7500000.0,Sunderland,England,7500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Luca Marrone,23,Italy,Centre-Back,CB,4000000.0,Sassuolo,Italy,4500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Felipe Melo,30,Brazil,Defensive Midfield,DM,11000000.0,Galatasaray,Turkey,3750000.0,out,summer,Serie A,2013,False,
+Juventus FC,Alberto Masi,20,Italy,Centre-Back,CB,900000.0,Ternana,Italy,3500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Prince Gouano,19,France,Centre-Back,CB,200000.0,Atalanta BC,Italy,1450000.0,out,summer,Serie A,2013,False,
+Juventus FC,Carlos García,20,Sweden,Centre-Back,CB,125000.0,Parma,Italy,500000.0,out,summer,Serie A,2013,False,
+Juventus FC,Nicola Leali,20,Italy,Goalkeeper,GK,5500000.0,Spezia Calcio,Italy,145000.0,out,summer,Serie A,2013,True,loan with fee
+Juventus FC,Nicolas Anelka,34,France,Centre-Forward,CF,500000.0,West Brom,England,0.0,out,summer,Serie A,2013,False,
+Juventus FC,Domenico Berardi,19,Italy,Right Winger,RW,6000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Elio De Silvestro,20,Italy,Right Winger,RW,350000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Richmond Boakye,20,Ghana,Centre-Forward,CF,6000000.0,Elche CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Elvis Kabashi,19,Albania,Central Midfield,CM,75000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Raffaele Alcibiade,23,Italy,Centre-Back,CB,75000.0,Honvéd,Hungary,0.0,out,summer,Serie A,2013,False,
+Juventus FC,Laurentiu Branescu,19,Romania,Goalkeeper,GK,500000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Leonardo Spinazzola,20,Italy,Left-Back,LB,250000.0,Siena,Italy,,out,summer,Serie A,2013,False,
+Juventus FC,Marco Costantino,22,Italy,Goalkeeper,GK,25000.0,Modena,Italy,,out,summer,Serie A,2013,False,
+Juventus FC,Jorge Martínez,30,Uruguay,Right Winger,RW,600000.0,Novara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Marcel Büchel,22,Liechtenstein,Central Midfield,CM,300000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Nazzareno Belfasti,19,Italy,Left-Back,LB,175000.0,Pro Vercelli,Italy,,out,summer,Serie A,2013,False,
+Juventus FC,Luca Castiglia,24,Italy,Central Midfield,CM,400000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Mbaye Diagne,21,Senegal,Centre-Forward,CF,,AC Ajaccio,France,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Carlo Ilari,21,Italy,Central Midfield,CM,125000.0,Barletta,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Francesco Margiotta,20,Italy,Centre-Forward,CF,100000.0,Unione Venezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Fausto Rossi,22,Italy,Central Midfield,CM,500000.0,Real Valladolid,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Timothy Nocchi,23,Italy,Goalkeeper,GK,400000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Niko Bianconi,21,Italy,Centre-Forward,CF,50000.0,Gavorrano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Alberto Gallinetta,21,Italy,Goalkeeper,GK,125000.0,Chieti,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Gabriel,19,Brazil,Defensive Midfield,DM,1000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Reto Ziegler,27,Switzerland,Centre-Back,CB,6500000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Juventus FC,Raffaele Bianco,25,Italy,Central Midfield,CM,425000.0,Without Club,,,out,summer,Serie A,2013,False,
+Juventus FC,Manuel Giandonato,21,Italy,Central Midfield,CM,500000.0,Without Club,,,out,summer,Serie A,2013,False,
+Juventus FC,Vincenzo Iaquinta,33,Italy,Centre-Forward,CF,200000.0,Retired,,,out,summer,Serie A,2013,False,
+Juventus FC,Nicklas Bendtner,25,Denmark,Centre-Forward,CF,5500000.0,Arsenal,England,0.0,out,summer,Serie A,2013,True,end of loan
+Juventus FC,Federico Peluso,29,Italy,Centre-Back,CB,5000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Juventus FC,Daniel Osvaldo,28,Italy,Centre-Forward,CF,13000000.0,Southampton,England,0.0,in,winter,Serie A,2013,True,free loan
+Juventus FC,Laurentiu Branescu,19,Romania,Goalkeeper,GK,400000.0,Virtus Lanciano,Italy,1650000.0,out,winter,Serie A,2013,False,
+Juventus FC,Timothy Nocchi,23,Italy,Goalkeeper,GK,400000.0,Padova,Italy,97000.0,out,winter,Serie A,2013,True,loan with fee
+Juventus FC,Ouasim Bouy,20,Morocco,Defensive Midfield,DM,700000.0,Hamburger SV,Germany,0.0,out,winter,Serie A,2013,True,free loan
+Juventus FC,Paolo De Ceglie,27,Italy,Left-Back,LB,2800000.0,Genoa,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Juventus FC,Mbaye Diagne,22,Senegal,Centre-Forward,CF,300000.0,Lierse SK,Belgium,0.0,out,winter,Serie A,2013,True,free loan
+Juventus FC,Matteo Liviero,20,Italy,Left-Back,LB,250000.0,Juve Stabia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Juventus FC,Marco Motta,27,Italy,Right-Back,RB,1000000.0,Genoa,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Marco Parolo,28,Italy,Central Midfield,CM,4500000.0,Cesena,Italy,3000000.0,in,summer,Serie A,2013,False,
+Parma FC,Daniele Gragnoli,19,Italy,Centre-Forward,CF,100000.0,Ascoli,Italy,1600000.0,in,summer,Serie A,2013,False,
+Parma FC,Francesco Finocchio,21,Italy,Right Midfield,RM,200000.0,Bologna,Italy,1000000.0,in,summer,Serie A,2013,False,
+Parma FC,Denilson Gabionetta,27,Brazil,Right Winger,RW,1000000.0,Crotone,Italy,1000000.0,in,summer,Serie A,2013,False,
+Parma FC,Gianni Munari,30,Italy,Central Midfield,CM,1000000.0,Sampdoria,Italy,1000000.0,in,summer,Serie A,2013,False,
+Parma FC,Luca Ceppitelli,24,Italy,Centre-Back,CB,500000.0,Bari,Italy,1000000.0,in,summer,Serie A,2013,False,
+Parma FC,Slawomir Peszko,28,Poland,Left Winger,LW,1500000.0,1. FC Köln,Germany,620000.0,in,summer,Serie A,2013,False,
+Parma FC,Filip Jankovic,18,Serbia,Attacking Midfield,AM,350000.0,Red Star U19,Serbia,500000.0,in,summer,Serie A,2013,False,
+Parma FC,Mory Koné,19,France,Centre-Back,CB,750000.0,Le Mans FC,France,500000.0,in,summer,Serie A,2013,False,
+Parma FC,Carlos García,20,Sweden,Centre-Back,CB,125000.0,Juventus,Italy,500000.0,in,summer,Serie A,2013,False,
+Parma FC,Massimo Loviso,29,Italy,Defensive Midfield,DM,400000.0,Crotone,Italy,400000.0,in,summer,Serie A,2013,False,
+Parma FC,Tomas Danilevicius,35,Lithuania,Centre-Forward,CF,100000.0,Latina Calcio,Italy,400000.0,in,summer,Serie A,2013,False,
+Parma FC,Zouhair Feddal,23,Morocco,Centre-Back,CB,750000.0,FUS Rabat,Morocco,350000.0,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Favalli,20,Italy,Left-Back,LB,250000.0,Cremonese,Italy,250000.0,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Ligi,23,Italy,Centre-Back,CB,75000.0,Crotone,Italy,150000.0,in,summer,Serie A,2013,False,
+Parma FC,Andrea Brighenti,25,Italy,Centre-Forward,CF,,Renate,Italy,77000.0,in,summer,Serie A,2013,False,
+Parma FC,Giuliano Laezza,19,Italy,Centre-Back,CB,,Arzanese,Italy,75000.0,in,summer,Serie A,2013,False,
+Parma FC,Simone Palermo,24,Italy,Central Midfield,CM,400000.0,AS Gubbio,Italy,70000.0,in,summer,Serie A,2013,False,
+Parma FC,Pedro Mendes,22,Portugal,Centre-Back,CB,1500000.0,Sporting B,Portugal,0.0,in,summer,Serie A,2013,False,
+Parma FC,Gennaro Scognamiglio,26,Italy,Centre-Back,CB,500000.0,Juve Stabia,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Jorman Aguilar,18,Panama,Centre-Forward,CF,,Río Abajo,Panama,0.0,in,summer,Serie A,2013,False,
+Parma FC,Tomislav Saric,23,Croatia,Central Midfield,CM,1000000.0,Inter Zapresic,Croatia,0.0,in,summer,Serie A,2013,False,
+Parma FC,Nicola Russo,21,Italy,Left Winger,LW,125000.0,Nocerina,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Alex Cordaz,30,Italy,Goalkeeper,GK,600000.0,Cittadella,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Luca Berardocco,22,Italy,Defensive Midfield,DM,325000.0,Pescara,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Giuseppe Prestia,19,Italy,Centre-Back,CB,350000.0,US Palermo,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Abdelaye Diakite,23,Mali,Centre-Back,CB,,Aprilia,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Francesco Rapisarda,21,Italy,Right-Back,RB,125000.0,L'Aquila,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Matteo Bibba,21,Italy,Goalkeeper,GK,,Casale,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Stefano Rossini,22,Italy,midfield,midfield,,Fondi,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Soufiane Bidaoui,23,Morocco,Left Winger,LW,500000.0,Lierse SK,Belgium,0.0,in,summer,Serie A,2013,False,
+Parma FC,Gonzalo Mastriani,20,Uruguay,Centre-Forward,CF,600000.0,CA Cerro,Uruguay,0.0,in,summer,Serie A,2013,False,
+Parma FC,Uros Celcer,24,Slovenia,Left-Back,LB,150000.0,ND Gorica,Slovenia,0.0,in,summer,Serie A,2013,False,
+Parma FC,Angelo Tartaglia,20,Italy,Centre-Back,CB,50000.0,Andria,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Cristiano Spirito,21,Italy,Right-Back,RB,50000.0,Melfi,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Paolo Dametto,20,Italy,Centre-Back,CB,350000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Robert Stillo,22,Canada,Goalkeeper,GK,100000.0,Genoa,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Giordano Maccarrone,23,Italy,Centre-Back,CB,100000.0,Catania,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Nicolas Sumsky,19,Czech Republic,Attacking Midfield,AM,350000.0,Bohemians 1905,Czech Republic,0.0,in,summer,Serie A,2013,False,
+Parma FC,Gianvito Misuraca,23,Italy,Central Midfield,CM,250000.0,Vicenza,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Carlo Crialese,20,Italy,Left-Back,LB,,Vigor Lamezia,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Pietro Tripoli,26,Italy,Left Winger,LW,200000.0,Varese,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Luparini,20,Italy,Centre-Forward,CF,50000.0,Spoleto,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Gabriele Puccio,23,Italy,Central Midfield,CM,100000.0,Monza,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Marco Modolo,24,Italy,Centre-Back,CB,150000.0,Pro Vercelli,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Nabil Taïder,30,Tunisia,Central Midfield,CM,50000.0,Como,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Claudio Corsetti,27,Italy,Left Winger,LW,150000.0,Sorrento,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Mirko Velardi,25,Italy,Central Midfield,CM,75000.0,US Palermo,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Carmine De Sena,21,Italy,Centre-Forward,CF,125000.0,Portogruaro,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Andrea Scicchitano,21,Italy,Central Midfield,CM,75000.0,Siena,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Nicola Cosentini,25,Italy,Defensive Midfield,DM,50000.0,Tauras,Lithuania,0.0,in,summer,Serie A,2013,False,
+Parma FC,Mauro Cerquetani,19,Italy,Right-Back,RB,50000.0,Cavese,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Simon Gentili,23,Italy,midfield,midfield,,Arezzo,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Matteo Bellucci,21,Italy,attack,attack,,La Storta,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Edoardo Pacini,22,Italy,Right Midfield,RM,100000.0,Bellaria IM,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Emmanuel Cascione,29,Italy,Central Midfield,CM,900000.0,Pescara,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Cesarini,24,Italy,Attacking Midfield,AM,200000.0,Spezia Calcio,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Mattia De Deo,21,Italy,Goalkeeper,GK,50000.0,Riccione 1929,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Walter Gargano,29,Uruguay,Defensive Midfield,DM,7500000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Parma FC,Cristobal Jorquera,25,Chile,Central Midfield,CM,1300000.0,Genoa,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Tommaso Domini,23,Italy,Right Midfield,RM,,Ribelle,Italy,0.0,in,summer,Serie A,2013,False,
+Parma FC,Riccardo Brosco,22,Italy,Centre-Back,CB,400000.0,Pescara,Italy,500.0,in,summer,Serie A,2013,False,
+Parma FC,Mario Dragone,18,Italy,Right Midfield,RM,,Arzanese,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Salvatore Sandomenico,23,Italy,Left Winger,LW,250000.0,Arzanese,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Domenico Mungo,20,Italy,Central Midfield,CM,200000.0,Chieti,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Yohan Benalouane,26,Tunisia,Centre-Back,CB,1000000.0,Cesena,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Luca Fiordiani,21,Italy,midfield,midfield,150000.0,Foligno,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Gianluca Lapadula,23,Peru,Centre-Forward,CF,250000.0,Cesena,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Antonio Cassano,30,Italy,Second Striker,SS,6000000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Parma FC,Antonio Maglia,17,Italy,Central Midfield,CM,,Vigor Lamezia Y,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Massimo Coda,24,Italy,Centre-Forward,CF,250000.0,San Marino,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Giovanbattista Catalano,19,Italy,Left Winger,LW,100000.0,Vigor Lamezia,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Alen Jogan,27,Slovenia,Centre-Back,CB,250000.0,ND Gorica,Slovenia,,in,summer,Serie A,2013,False,
+Parma FC,Felipe,28,Brazil,Centre-Back,CB,900000.0,Fiorentina,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Giuseppe Caccavallo,26,Italy,Right Winger,RW,300000.0,Crotone,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Ferretti,19,Italy,midfield,midfield,,Foligno U19,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Piacenti,20,Italy,Goalkeeper,GK,50000.0,Foligno,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Luigi Del Giudice,19,Italy,Defensive Midfield,DM,,Imperia,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Gianluca Nucera,19,Switzerland,Left Midfield,LM,,US Poggibonsi,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Matteo Gaudiano,20,Italy,midfield,midfield,,Fondi,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Alberto Giuliatto,29,Italy,Left-Back,LB,75000.0,Nocerina,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Afriyie Acquah,21,Ghana,Central Midfield,CM,1500000.0,TSG Hoffenheim,Germany,0.0,in,summer,Serie A,2013,True,free loan
+Parma FC,Lorenzo Pasqualini,23,Italy,Left-Back,LB,400000.0,Ascoli,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Cosimo Chiricò,21,Italy,Right Winger,RW,400000.0,Lecce,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Francesco Checcucci,24,Italy,Centre-Back,CB,100000.0,Crotone,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Vito Falconieri,27,Italy,Centre-Forward,CF,100000.0,Ascoli,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Andrea Giallombardo,32,Italy,Left-Back,LB,75000.0,Ascoli,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Vicente,24,Brazil,Defensive Midfield,DM,200000.0,Padova,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Ronaldo Vanin,30,Brazil,Right-Back,RB,125000.0,Lecce,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Mattia Cassani,29,Italy,Right-Back,RB,2200000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Parma FC,Gian Piero Tozzi,19,Italy,Centre-Forward,CF,50000.0,Foligno,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Alessandro Gozzi,20,Italy,Goalkeeper,GK,50000.0,Savona,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Mikael Ishak,20,Sweden,Centre-Forward,CF,600000.0,1. FC Köln,Germany,,in,summer,Serie A,2013,False,
+Parma FC,Matteo Legittimo,24,Italy,Left-Back,LB,100000.0,Lecce,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Francesco Calcagno,21,Italy,Central Midfield,CM,50000.0,SS Milazzo,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Abdelkader Ghezzal,28,Algeria,Centre-Forward,CF,800000.0,Bari,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Stefano Russo,24,Italy,Goalkeeper,GK,50000.0,Brescia,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Joel Obi,22,Nigeria,Central Midfield,CM,5500000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Parma FC,Raffaele Rosato,19,Italy,Centre-Back,CB,75000.0,Taranto,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Abdou Doumbia,23,France,Left Winger,LW,275000.0,Siena,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Antonio Stelitano,25,Italy,Right-Back,RB,,Turnu-Severin,Romania,,in,summer,Serie A,2013,False,
+Parma FC,Vincenzo Perna,18,Italy,Defensive Midfield,DM,,Arzanese,Italy,,in,summer,Serie A,2013,False,
+Parma FC,Ishak Belfodil,21,Algeria,Centre-Forward,CF,10000000.0,Inter,Italy,5750000.0,out,summer,Serie A,2013,False,
+Parma FC,Raman Chibsah,20,Ghana,Central Midfield,CM,1500000.0,Sassuolo,Italy,5000000.0,out,summer,Serie A,2013,False,
+Parma FC,Dorlan Pabón,25,Colombia,Right Winger,RW,5000000.0,Monterrey,Mexico,4830000.0,out,summer,Serie A,2013,False,
+Parma FC,Graziano Pellè,27,Italy,Centre-Forward,CF,5000000.0,Feyenoord,Netherlands,3000000.0,out,summer,Serie A,2013,False,
+Parma FC,Alessandro De Vitis,21,Italy,Defensive Midfield,DM,600000.0,Sampdoria,Italy,2300000.0,out,summer,Serie A,2013,False,
+Parma FC,Riccardo Casini,21,Italy,Defensive Midfield,DM,200000.0,Bologna,Italy,2000000.0,out,summer,Serie A,2013,False,
+Parma FC,Alberto Gallinetta,21,Italy,Goalkeeper,GK,125000.0,Juventus,Italy,1780000.0,out,summer,Serie A,2013,False,
+Parma FC,Emiliano Storani,20,Italy,Second Striker,SS,50000.0,Ascoli,Italy,1600000.0,out,summer,Serie A,2013,False,
+Parma FC,Andrea Brighenti,25,Italy,Centre-Forward,CF,,Cremonese,Italy,250000.0,out,summer,Serie A,2013,False,
+Parma FC,Giuliano Laezza,19,Italy,Centre-Back,CB,,AS Gubbio,Italy,200000.0,out,summer,Serie A,2013,False,
+Parma FC,Francesco Rapisarda,21,Italy,Right-Back,RB,125000.0,Vigor Lamezia,Italy,100000.0,out,summer,Serie A,2013,False,
+Parma FC,Simone Palermo,24,Italy,Central Midfield,CM,400000.0,Cremonese,Italy,100000.0,out,summer,Serie A,2013,False,
+Parma FC,Vittorio Fabris,20,Italy,Central Midfield,CM,125000.0,Feralpisalò,Italy,60000.0,out,summer,Serie A,2013,False,
+Parma FC,Mário Rui,22,Portugal,Left-Back,LB,800000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gonçalo Brandão,26,Portugal,Centre-Back,CB,400000.0,CFR Cluj,Romania,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mattia Sandrini,19,Italy,Right Midfield,RM,75000.0,Real Vicenza,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Andrea Rossi,26,Italy,Left-Back,LB,400000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Francesco Finocchio,21,Italy,Right Midfield,RM,200000.0,Trapani,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Francesco Modesto,31,Italy,Left-Back,LB,800000.0,Padova,Italy,0.0,out,summer,Serie A,2013,False,
+Parma FC,Giuseppe Caccavallo,26,Italy,Right Winger,RW,300000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gianvito Misuraca,23,Italy,Central Midfield,CM,250000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Carmine De Sena,21,Italy,Centre-Forward,CF,125000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Carlo Crialese,20,Italy,Left-Back,LB,,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Domenico Morabito,19,Italy,midfield,midfield,25000.0,San Lazzaro,Italy,0.0,out,summer,Serie A,2013,False,
+Parma FC,Luca Berardocco,22,Italy,Defensive Midfield,DM,325000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Favalli,20,Italy,Left-Back,LB,250000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Francesco Checcucci,24,Italy,Centre-Back,CB,100000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Giuseppe Prestia,19,Italy,Centre-Back,CB,400000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,False,
+Parma FC,Danilo Pereira,21,Portugal,Defensive Midfield,DM,650000.0,Marítimo,Portugal,0.0,out,summer,Serie A,2013,False,
+Parma FC,Alessandro Gozzi,20,Italy,Goalkeeper,GK,50000.0,APS Zakynthos,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Slawomir Peszko,28,Poland,Left Winger,LW,1500000.0,1. FC Köln,Germany,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Rolf Feltscher,22,Venezuela,Right-Back,RB,300000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Serie A,2013,False,
+Parma FC,Andrea Marteddu,20,Italy,Central Midfield,CM,,Rimini,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Lazaros Fotias,22,Greece,Centre-Back,CB,100000.0,APS Zakynthos,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Antonio Stelitano,26,Italy,Right-Back,RB,,Don Bosco Moca,Dominican Republic,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Luigi Palumbo,22,Italy,Centre-Back,CB,75000.0,Cesena,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Nicola Del Pivo,21,Italy,Central Midfield,CM,75000.0,Cesena,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Diego Mella,20,Italy,Attacking Midfield,AM,100000.0,Inter,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Jacopo Galimberti,20,Italy,Centre-Back,CB,150000.0,Inter,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Daniel Ciofani,27,Italy,Centre-Forward,CF,350000.0,Frosinone,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Nwankwo Obiora,21,Nigeria,Defensive Midfield,DM,700000.0,CFR Cluj,Romania,,out,summer,Serie A,2013,False,
+Parma FC,Nicola Russo,21,Italy,Left Winger,LW,125000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Salvatore Sandomenico,23,Italy,Left Winger,LW,250000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alex Cordaz,30,Italy,Goalkeeper,GK,600000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Bright Addae,20,Ghana,Defensive Midfield,DM,200000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Daniele Bazzoffia,25,Italy,Right Winger,RW,200000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Raffaele Schiavi,27,Italy,Centre-Back,CB,650000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Tomislav Saric,23,Croatia,Central Midfield,CM,1000000.0,Crotone,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Jorman Aguilar,18,Panama,Centre-Forward,CF,,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mirko Pigliacelli,20,Italy,Goalkeeper,GK,250000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Stefano Rossini,22,Italy,midfield,midfield,,Vigor Lamezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Bibba,21,Italy,Goalkeeper,GK,,Vigor Lamezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Diego De Giorgi,20,Italy,midfield,midfield,,Vigor Lamezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Iacobucci,22,Italy,Goalkeeper,GK,600000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Riccardo Brosco,22,Italy,Centre-Back,CB,400000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Cristian Pedrinelli,20,Italy,Attacking Midfield,AM,75000.0,Renate,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Daniele Bernasconi,20,Italy,Centre-Forward,CF,200000.0,Renate,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Stefan Ristovski,21,North Macedonia,Right-Back,RB,400000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Abel Gigli,22,Somalia,Centre-Back,CB,75000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Angelo Tartaglia,20,Italy,Centre-Back,CB,50000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Ivan Cacchioli,22,Italy,Goalkeeper,GK,50000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mattia Sprocati,20,Italy,Right Winger,RW,200000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Yves Bationo,19,Burkina Faso,Central Midfield,CM,75000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Domenico Mungo,20,Italy,Central Midfield,CM,200000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Cristiano Spirito,21,Italy,Right-Back,RB,50000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Massimo Coda,24,Italy,Centre-Forward,CF,250000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gianluca Lapadula,23,Peru,Centre-Forward,CF,250000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mohamed Traoré,21,Guinea,Right-Back,RB,100000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Pisseri,21,Italy,Goalkeeper,GK,275000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Solomon Enow,26,Cameroon,Centre-Back,CB,75000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Massimo Loviso,29,Italy,Defensive Midfield,DM,450000.0,Cremonese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Fabio Lebran,26,Italy,Centre-Back,CB,125000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Milos Malivojevic,20,Italy,midfield,midfield,125000.0,Vicenza,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Alen Jogan,27,Slovenia,Centre-Back,CB,250000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Uros Celcer,24,Slovenia,Left-Back,LB,150000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Álvaro Ampuero,20,Peru,Left-Back,LB,700000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nicolas Sumsky,19,Czech Republic,Attacking Midfield,AM,350000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Soufiane Bidaoui,23,Morocco,Left Winger,LW,500000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Gaudiano,20,Italy,midfield,midfield,,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Giordano Maccarrone,23,Italy,Centre-Back,CB,100000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alberto Ricter,20,Italy,Centre-Forward,CF,25000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Denilson Gabionetta,27,Brazil,Right Winger,RW,1000000.0,CFR Cluj,Romania,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gennaro Scognamiglio,26,Italy,Centre-Back,CB,500000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Luparini,20,Italy,Centre-Forward,CF,50000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alberto Giuliatto,29,Italy,Left-Back,LB,75000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Cosimo Chiricò,21,Italy,Right Winger,RW,400000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Robert Stillo,22,Canada,Goalkeeper,GK,100000.0,Perugia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gabriele Puccio,23,Italy,Central Midfield,CM,100000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mirko Velardi,25,Italy,Central Midfield,CM,75000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Zé Eduardo,21,Brazil,Defensive Midfield,DM,600000.0,OFI Crete,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Simone Bezziccheri,20,Italy,Right Winger,RW,50000.0,Qormi FC,Malta,,out,summer,Serie A,2013,False,
+Parma FC,Simone Malatesta,31,Italy,Centre-Forward,CF,50000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Piacenti,20,Italy,Goalkeeper,GK,50000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nicolò Belotti,20,Italy,Right Midfield,RM,50000.0,Brescia,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Giuseppe Pacini,20,Italy,Right-Back,RB,75000.0,Arzanese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Michele Bentoglio,19,Italy,midfield,midfield,75000.0,L'Aquila,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nick Modaffari,21,Australia,Left-Back,LB,25000.0,VIS,Australia,,out,summer,Serie A,2013,False,
+Parma FC,Calvin Lovric,20,Australia,Centre-Back,CB,,Hércules CF B,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Ghirardi,18,Italy,defence,defence,50000.0,Valtarese,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Tommaso Cancelloni,21,Italy,Centre-Back,CB,25000.0,Rimini,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Cristiano Bussi,23,Italy,Centre-Forward,CF,,Rimini,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Simone Ciboldi,18,Italy,defence,defence,,Rimini,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Alessandro Ligi,23,Italy,Centre-Back,CB,75000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mauro Cioffi,19,Italy,Centre-Forward,CF,50000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gonzalo Mastriani,20,Uruguay,Centre-Forward,CF,600000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Angelo Bencivenga,22,Italy,Right-Back,RB,350000.0,Lecce,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Vincenzo Giannusa,32,Italy,Central Midfield,CM,50000.0,Arzanese,Italy,,out,summer,Serie A,2013,False,
+Parma FC,Fabiano Santacroce,26,Italy,Centre-Back,CB,600000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Paolo Dametto,20,Italy,Centre-Back,CB,350000.0,Reggiana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gianluca Musacci,26,Italy,Central Midfield,CM,500000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Lorenzo Pasqualini,23,Italy,Left-Back,LB,450000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Filippo Boniperti,21,Italy,Right Winger,RW,200000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Vito Falconieri,27,Italy,Centre-Forward,CF,100000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Andrea Giallombardo,32,Italy,Left-Back,LB,75000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Pietro Tripoli,26,Italy,Left Winger,LW,200000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Vicente,24,Brazil,Defensive Midfield,DM,200000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Daniele Gragnoli,19,Italy,Centre-Forward,CF,100000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Simon Gentili,23,Italy,midfield,midfield,,Gavorrano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Bellucci,22,Italy,attack,attack,,Gavorrano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Federico Meacci,21,Italy,Defensive Midfield,DM,25000.0,Gavorrano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Luca Fiordiani,21,Italy,midfield,midfield,150000.0,Gavorrano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Tomas Danilevicius,35,Lithuania,Centre-Forward,CF,100000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Stefano Morrone,34,Italy,Central Midfield,CM,200000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Edoardo Pacini,22,Italy,Right Midfield,RM,100000.0,Teramo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mikael Ishak,20,Sweden,Centre-Forward,CF,600000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Luca Tedeschi,26,Italy,Centre-Back,CB,250000.0,Grosseto,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Ronaldo Vanin,30,Brazil,Right-Back,RB,125000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Francesco Pambianchi,24,Italy,Centre-Back,CB,50000.0,Foggia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Emmanuel Cascione,29,Italy,Central Midfield,CM,900000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Andrea Scicchitano,21,Italy,Central Midfield,CM,75000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Abdou Doumbia,23,France,Left Winger,LW,275000.0,Lecce,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Zouhair Feddal,23,Morocco,Centre-Back,CB,800000.0,Siena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Legittimo,24,Italy,Left-Back,LB,100000.0,Grosseto,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Abdelkader Ghezzal,28,Algeria,Centre-Forward,CF,800000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mauro Cerquetani,19,Italy,Right-Back,RB,50000.0,APS Zakynthos,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Giuseppe Pasquariello,20,Italy,attack,attack,50000.0,Aversa Norm.,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Sotiris Ninis,23,Greece,Attacking Midfield,AM,3600000.0,PAOK Salonika,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Andrea Rispoli,24,Italy,Right Midfield,RM,600000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Luigi Del Giudice,19,Italy,Defensive Midfield,DM,,Qormi FC,Malta,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Simone Smacchia,18,Italy,Second Striker,SS,75000.0,Teramo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mattia De Deo,21,Italy,Goalkeeper,GK,50000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Simone Ciciotti,19,Italy,defence,defence,50000.0,Teramo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Marco Modolo,24,Italy,Centre-Back,CB,150000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Francesco Calcagno,21,Italy,Central Midfield,CM,50000.0,Mosta FC,Malta,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Giovanbattista Catalano,19,Italy,Left Winger,LW,100000.0,Rimini,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Mario Dragone,18,Italy,Right Midfield,RM,,Mariano Keller,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gian Piero Tozzi,19,Italy,Centre-Forward,CF,50000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Raffaele Rosato,19,Italy,Centre-Back,CB,75000.0,Nocerina,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Cesarini,24,Italy,Attacking Midfield,AM,200000.0,Savona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Vincenzo Perna,18,Italy,Defensive Midfield,DM,,Fondi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Matteo Mantovani,20,Italy,defence,defence,75000.0,Foggia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Elia,23,Italy,Centre-Forward,CF,100000.0,Chieti,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Stefano Russo,24,Italy,Goalkeeper,GK,50000.0,Ascoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Carlos García,20,Sweden,Centre-Back,CB,125000.0,Brönshöj BK,Denmark,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Antonio Maglia,17,Italy,Central Midfield,CM,,Chieti,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nicolò Stirati,20,Italy,attack,attack,50000.0,Torres,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessandro Ferretti,19,Italy,midfield,midfield,,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nabil Taïder,30,Tunisia,Central Midfield,CM,50000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Cristobal Jorquera,25,Chile,Central Midfield,CM,1300000.0,Eskisehirspor,Turkey,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Abdelaye Diakite,23,Mali,Centre-Back,CB,,ND Gorica,Slovenia,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Gianluca Nucera,19,Switzerland,Left Midfield,LM,,Qormi FC,Malta,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Tommaso Domini,24,Italy,Right Midfield,RM,,AS Gubbio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Luca Ceppitelli,24,Italy,Centre-Back,CB,500000.0,Bari,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Claudio Corsetti,27,Italy,Left Winger,LW,150000.0,Cuneo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Nicola Cosentini,25,Italy,Defensive Midfield,DM,50000.0,Mosta FC,Malta,0.0,out,summer,Serie A,2013,True,free loan
+Parma FC,Alessio Manzoni,26,Italy,Central Midfield,CM,25000.0,Without Club,,,out,summer,Serie A,2013,False,
+Parma FC,Hervé Diedhiou,20,Senegal,Right-Back,RB,25000.0,Without Club,,,out,summer,Serie A,2013,False,
+Parma FC,Marco Parolo,28,Italy,Central Midfield,CM,4500000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Yohan Benalouane,26,Tunisia,Centre-Back,CB,1000000.0,Cesena,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Manuel Arteaga,19,Venezuela,Centre-Forward,CF,300000.0,Zulia FC,Venezuela,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Rodney Strasser,23,Sierra Leone,Defensive Midfield,DM,1200000.0,AC Milan,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Andrea Coda,28,Italy,Centre-Back,CB,1000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,McDonald Mariga,26,Kenya,Defensive Midfield,DM,3800000.0,Inter,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Emilio Mac Eachen,21,Uruguay,Centre-Back,CB,300000.0,Peñarol,Uruguay,0.0,out,summer,Serie A,2013,True,end of loan
+Parma FC,Amedej Vetrih,23,Slovenia,Central Midfield,CM,300000.0,ND Gorica,Slovenia,300000.0,in,winter,Serie A,2013,False,
+Parma FC,Andrea Garofalo,20,Italy,Centre-Back,CB,25000.0,Paganese,Italy,0.0,in,winter,Serie A,2013,False,
+Parma FC,Jonathan Rossini,24,Switzerland,Centre-Back,CB,1200000.0,Sassuolo,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Parma FC,Ezequiel Schelotto,24,Italy,Right-Back,RB,4300000.0,Inter,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Parma FC,Cristian Molinaro,30,Italy,Left-Back,LB,1500000.0,VfB Stuttgart,Germany,0.0,in,winter,Serie A,2013,False,
+Parma FC,Jherson Vergara,19,Colombia,Centre-Back,CB,1800000.0,AC Milan,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Parma FC,Alessio Butini,20,Italy,Central Midfield,CM,50000.0,San Donato,Italy,,in,winter,Serie A,2013,False,
+Parma FC,Gian Piero Tozzi,19,Italy,Centre-Forward,CF,50000.0,Nocerina,Italy,,in,winter,Serie A,2013,False,
+Parma FC,Leandro Campagna,19,Italy,Second Striker,SS,100000.0,Frosinone,Italy,,in,winter,Serie A,2013,False,
+Parma FC,Nicola Pozzi,27,Italy,Centre-Forward,CF,2300000.0,Sampdoria,Italy,,in,winter,Serie A,2013,False,
+Parma FC,Giovanni Catalano,20,Italy,Central Midfield,CM,,ACD GT,Italy,,in,winter,Serie A,2013,False,
+Parma FC,Manuel Giandonato,22,Italy,Central Midfield,CM,500000.0,Without Club,,,in,winter,Serie A,2013,False,
+Parma FC,Nicola Sansone,22,Italy,Left Winger,LW,5000000.0,Sassuolo,Italy,8250000.0,out,winter,Serie A,2013,False,
+Parma FC,Mory Koné,19,France,Centre-Back,CB,700000.0,Crotone,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Giovanbattista Catalano,20,Italy,Left Winger,LW,100000.0,Vigor Lamezia,Italy,0.0,out,winter,Serie A,2013,False,
+Parma FC,Gonçalo Brandão,27,Portugal,Centre-Back,CB,200000.0,Belenenses SAD,Portugal,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Nicola Cosentini,25,Italy,Defensive Midfield,DM,50000.0,Gavorrano,Italy,0.0,out,winter,Serie A,2013,False,
+Parma FC,Francesco Finocchio,21,Italy,Right Midfield,RM,200000.0,ND Gorica,Slovenia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Francesco Calcagno,21,Italy,Central Midfield,CM,50000.0,Savona,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Bongoura Thiam,20,Italy,attack,attack,50000.0,Savona,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Gabriele Puccio,24,Italy,Central Midfield,CM,75000.0,Pergolettese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Riccardo Cocuzza,21,Italy,Right Winger,RW,75000.0,Südtirol,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Mohamed Traoré,22,Guinea,Right-Back,RB,100000.0,Südtirol,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Filippo Boniperti,22,Italy,Right Winger,RW,200000.0,ND Gorica,Slovenia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Luca Tedeschi,26,Italy,Centre-Back,CB,250000.0,UC AlbinoLeffe,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Nicolò Stirati,20,Italy,attack,attack,50000.0,Rimini,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Nabil Taïder,30,Tunisia,Central Midfield,CM,100000.0,Lok. Sofia,Bulgaria,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Gianluca Nucera,19,Switzerland,Left Midfield,LM,,Savona,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Ivan Cacchioli,23,Italy,Goalkeeper,GK,50000.0,ND Gorica,Slovenia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Alessio Butini,20,Italy,Central Midfield,CM,50000.0,Viareggio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Nicola Cosentini,25,Italy,Defensive Midfield,DM,50000.0,Mosta FC,Malta,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Godfred Adofo,20,Ghana,Defensive Midfield,DM,75000.0,CD Barco,Spain,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Carlos García,21,Sweden,Centre-Back,CB,100000.0,Jönköping,Sweden,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Jorman Aguilar,19,Panama,Centre-Forward,CF,75000.0,NK Istra,Croatia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,David Löfquist,27,Sweden,Defensive Midfield,DM,200000.0,Mjällby AIF,Sweden,,out,winter,Serie A,2013,False,
+Parma FC,Alessandro Gozzi,20,Italy,Goalkeeper,GK,50000.0,AS Gubbio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Nicolas Sumsky,20,Czech Republic,Attacking Midfield,AM,150000.0,Vysoké Mýto,Czech Republic,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Gianmaria Cucurnia,20,Italy,Central Midfield,CM,50000.0,SM Avenza,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Bright Addae,21,Ghana,Defensive Midfield,DM,150000.0,AS Gubbio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Giuseppe Pasquariello,20,Italy,attack,attack,50000.0,Colorno,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Brice Bonelli,19,France,attack,attack,25000.0,GS Consolat M.,France,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Matteo Gaudiano,21,Italy,midfield,midfield,50000.0,Arzanese,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Alessio Aracu,19,Italy,midfield,midfield,50000.0,Viareggio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Andrea Scicchitano,21,Italy,Central Midfield,CM,75000.0,Pontedera,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Álvaro Ampuero,21,Peru,Left-Back,LB,600000.0,Salernitana,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Lorenzo Pasqualini,24,Italy,Left-Back,LB,400000.0,Salernitana,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Andrea Garofalo,20,Italy,Centre-Back,CB,25000.0,Teramo,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Yves Bationo,20,Burkina Faso,Central Midfield,CM,75000.0,ND Gorica,Slovenia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Angelo Bencivenga,22,Italy,Right-Back,RB,350000.0,Como,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Manuel Giandonato,22,Italy,Central Midfield,CM,500000.0,Juve Stabia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Gonzalo Mastriani,20,Uruguay,Centre-Forward,CF,600000.0,ND Gorica,Slovenia,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Simone Malatesta,31,Italy,Centre-Forward,CF,50000.0,Gavorrano,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Alessandro Elia,23,Italy,Centre-Forward,CF,100000.0,Cuneo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Alessandro Piacenti,21,Italy,Goalkeeper,GK,100000.0,Vigor Lamezia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Salvatore Sandomenico,23,Italy,Left Winger,LW,250000.0,Arzanese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Yohan Benalouane,26,Tunisia,Centre-Back,CB,1000000.0,Atalanta BC,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Fabio Lebran,26,Italy,Centre-Back,CB,100000.0,SPAL,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Mirko Pigliacelli,20,Italy,Goalkeeper,GK,250000.0,Reggina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Domenico Mungo,21,Italy,Central Midfield,CM,200000.0,Viareggio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Pedro Mendes,23,Portugal,Centre-Back,CB,1000000.0,Sassuolo,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Stefano Okaka,24,Italy,Centre-Forward,CF,1200000.0,Sampdoria,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Giammaria Prete,19,Italy,defence,defence,50000.0,Correggese,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Irfan Sahman,20,Montenegro,Central Midfield,CM,75000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Raffaele Rosato,20,Italy,Centre-Back,CB,75000.0,Savona,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Claudio Corsetti,27,Italy,Left Winger,LW,150000.0,Aprilia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Alessandro Cesarini,24,Italy,Attacking Midfield,AM,200000.0,Savona,Italy,,out,winter,Serie A,2013,False,
+Parma FC,Djamel Mesbah,29,Algeria,Left-Back,LB,600000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Leandro Campagna,19,Italy,Second Striker,SS,100000.0,Barletta,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Gian Piero Tozzi,19,Italy,Centre-Forward,CF,50000.0,Vigor Lamezia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Cristiano Spirito,22,Italy,Right-Back,RB,150000.0,San Marino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Aleandro Rosi,26,Italy,Right-Back,RB,2000000.0,Sassuolo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Parma FC,Jaime Valdés,32,Chile,Central Midfield,CM,2000000.0,Colo Colo,Chile,,out,winter,Serie A,2013,False,
+SS Lazio,Lucas Biglia,27,Argentina,Defensive Midfield,DM,8000000.0,RSC Anderlecht,Belgium,8400000.0,in,summer,Serie A,2013,False,
+SS Lazio,Antonio Candreva,26,Italy,Right Midfield,RM,10000000.0,Udinese Calcio,Italy,8199999.999999999,in,summer,Serie A,2013,False,
+SS Lazio,Felipe Anderson,20,Brazil,Left Midfield,LM,6000000.0,Santos FC,Brazil,7500000.0,in,summer,Serie A,2013,False,
+SS Lazio,Brayan Perea,20,Colombia,Centre-Forward,CF,2000000.0,Deportivo Cali,Colombia,2330000.0,in,summer,Serie A,2013,False,
+SS Lazio,Etrit Berisha,24,Albania,Goalkeeper,GK,1000000.0,Kalmar FF,Sweden,400000.0,in,summer,Serie A,2013,False,
+SS Lazio,Diego Novaretti,28,Argentina,Centre-Back,CB,3000000.0,Toluca,Mexico,0.0,in,summer,Serie A,2013,False,
+SS Lazio,Vinícius,20,Brazil,Left-Back,LB,,Cruzeiro B,Brazil,0.0,in,summer,Serie A,2013,False,
+SS Lazio,Salam Dene,20,Burkina Faso,Right Winger,RW,50000.0,Salernitana,Italy,,in,summer,Serie A,2013,False,
+SS Lazio,Libor Kozak,24,Czech Republic,Centre-Forward,CF,3800000.0,Aston Villa,England,6500000.0,out,summer,Serie A,2013,False,
+SS Lazio,Javier Garrido,28,Spain,Left-Back,LB,2000000.0,Norwich,England,1500000.0,out,summer,Serie A,2013,False,
+SS Lazio,Albano Bizzarri,35,Argentina,Goalkeeper,GK,200000.0,Genoa,Italy,300000.0,out,summer,Serie A,2013,False,
+SS Lazio,Antonio Rozzi,19,Italy,Centre-Forward,CF,1000000.0,RM Castilla,Spain,150000.0,out,summer,Serie A,2013,True,loan with fee
+SS Lazio,Mauro Zárate,26,Argentina,Second Striker,SS,5000000.0,Vélez Sarsfield,Argentina,0.0,out,summer,Serie A,2013,False,
+SS Lazio,Andrea Sbraga,21,Italy,Centre-Back,CB,200000.0,Salernitana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Vittorio Salustri,20,Italy,Central Midfield,CM,75000.0,Martina Franca,Italy,0.0,out,summer,Serie A,2013,False,
+SS Lazio,Pasquale Foggia,29,Italy,Attacking Midfield,AM,700000.0,Dubai CSC,United Arab Emirates,0.0,out,summer,Serie A,2013,False,
+SS Lazio,Marius Stankevicius,32,Lithuania,Centre-Back,CB,300000.0,Gaziantepspor,Turkey,0.0,out,summer,Serie A,2013,False,
+SS Lazio,Modibo Diakité,26,France,Centre-Back,CB,3500000.0,Sunderland,England,0.0,out,summer,Serie A,2013,False,
+SS Lazio,Alessandro Berardi,22,Italy,Goalkeeper,GK,200000.0,Salernitana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Luca Crescenzi,21,Italy,Centre-Back,CB,250000.0,Siena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Danilo Cataldi,19,Italy,Central Midfield,CM,300000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Matuzalém,33,Brazil,Defensive Midfield,DM,1000000.0,Genoa,Italy,,out,summer,Serie A,2013,False,
+SS Lazio,Seyi Adeleke,21,Nigeria,Central Midfield,CM,50000.0,FC Biel-Bienne,Switzerland,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Ettore Mendicino,23,Italy,Centre-Forward,CF,275000.0,Salernitana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Tommaso Ceccarelli,21,Italy,Right Winger,RW,200000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SS Lazio,Louis Saha,35,France,Centre-Forward,CF,400000.0,Retired,,,out,summer,Serie A,2013,False,
+SS Lazio,Antonio Candreva,26,Italy,Right Midfield,RM,10000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+SS Lazio,Hélder Postiga,31,Portugal,Centre-Forward,CF,3500000.0,Valencia,Spain,0.0,in,winter,Serie A,2013,True,free loan
+SS Lazio,Gaël Kakuta,22,DR Congo,Attacking Midfield,AM,3000000.0,Chelsea,England,0.0,in,winter,Serie A,2013,True,free loan
+SS Lazio,Hernanes,28,Brazil,Central Midfield,CM,22000000.0,Inter,Italy,18000000.0,out,winter,Serie A,2013,False,
+SS Lazio,Sergio Floccari,32,Italy,Centre-Forward,CF,2300000.0,Sassuolo,Italy,2000000.0,out,winter,Serie A,2013,False,
+SS Lazio,Andrea Sbraga,22,Italy,Centre-Back,CB,200000.0,Carrarese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SS Lazio,Luca Crescenzi,21,Italy,Centre-Back,CB,250000.0,AC Pisa,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SS Lazio,Vinícius,20,Brazil,Left-Back,LB,800000.0,Padova,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SS Lazio,Giuseppe Sculli,32,Italy,Left Winger,LW,600000.0,Genoa,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Gonzalo Higuaín,25,Argentina,Centre-Forward,CF,30000000.0,Real Madrid,Spain,39000000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Raúl Albiol,27,Spain,Centre-Back,CB,8000000.0,Real Madrid,Spain,12000000.0,in,summer,Serie A,2013,False,
+SSC Napoli,José Callejón,26,Spain,Right Winger,RW,10000000.0,Real Madrid,Spain,9500000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Dries Mertens,26,Belgium,Centre-Forward,CF,13000000.0,PSV Eindhoven,Netherlands,9480000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Duván Zapata,22,Colombia,Centre-Forward,CF,3000000.0,Estudiantes,Argentina,7470000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Rafael,23,Brazil,Goalkeeper,GK,4000000.0,Santos FC,Brazil,5000000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Pablo Armero,26,Colombia,Left-Back,LB,9000000.0,Udinese Calcio,Italy,4000000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Emanuele Calaiò,31,Italy,Centre-Forward,CF,2000000.0,Siena,Italy,1250000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Josip Radosevic,19,Croatia,Defensive Midfield,DM,2500000.0,Hajduk Split,Croatia,1000000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Igor Lasicki,19,Poland,Centre-Back,CB,150000.0,Lubin II,Poland,250000.0,in,summer,Serie A,2013,False,
+SSC Napoli,Pepe Reina,30,Spain,Goalkeeper,GK,10000000.0,Liverpool,England,0.0,in,summer,Serie A,2013,True,free loan
+SSC Napoli,Edinson Cavani,26,Uruguay,Centre-Forward,CF,55000000.0,Paris SG,France,64500000.0,out,summer,Serie A,2013,False,
+SSC Napoli,Luca Cigarini,27,Italy,Defensive Midfield,DM,7500000.0,Atalanta BC,Italy,4200000.0,out,summer,Serie A,2013,False,
+SSC Napoli,Mario Santana,31,Argentina,Second Striker,SS,1900000.0,Genoa,Italy,3000000.0,out,summer,Serie A,2013,False,
+SSC Napoli,Erwin Hoffer,26,Austria,Centre-Forward,CF,1100000.0,F. Düsseldorf,Germany,500000.0,out,summer,Serie A,2013,False,
+SSC Napoli,Morgan De Sanctis,36,Italy,Goalkeeper,GK,1000000.0,AS Roma,Italy,500000.0,out,summer,Serie A,2013,False,
+SSC Napoli,Andrea Dossena,31,Italy,Left Midfield,LM,1800000.0,Sunderland,England,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Hugo Campagnaro,33,Argentina,Centre-Back,CB,4200000.0,Inter,Italy,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Walter Gargano,29,Uruguay,Defensive Midfield,DM,7500000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Leandro Rinaudo,30,Italy,Centre-Back,CB,300000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Francesco Bruno,23,Italy,Centre-Back,CB,50000.0,Casertana,Italy,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Carlo Colella,21,Italy,Central Midfield,CM,25000.0,Mariano Keller,Italy,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Cristian Chávez,26,Argentina,Centre-Forward,CF,800000.0,PAS Giannina,Greece,0.0,out,summer,Serie A,2013,False,
+SSC Napoli,Nicolao Dumitru,21,Italy,Left Winger,LW,800000.0,Cittadella,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Raffaele Maiello,22,Italy,Defensive Midfield,DM,1000000.0,Ternana,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Jacopo Dezi,21,Italy,Central Midfield,CM,300000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Camillo Ciano,23,Italy,Centre-Forward,CF,1100000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Luigi Sepe,22,Italy,Goalkeeper,GK,225000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Omar El Kaddouri,22,Morocco,Central Midfield,CM,3000000.0,Torino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Luigi Vitale,25,Italy,Left-Back,LB,1200000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Ignacio Fideleff,24,Argentina,Centre-Back,CB,1500000.0,Tigre,Argentina,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Antonio Rosati,30,Italy,Goalkeeper,GK,1000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Alessandro Gamberini,31,Italy,Centre-Back,CB,4000000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Marco Donadel,30,Italy,Defensive Midfield,DM,1300000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Emanuele Calaiò,31,Italy,Centre-Forward,CF,2000000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+SSC Napoli,Andrea Mazzarani,23,Italy,Attacking Midfield,AM,800000.0,Udinese Calcio,Italy,,out,summer,Serie A,2013,False,
+SSC Napoli,Gianluca Grava,36,Italy,Right-Back,RB,100000.0,Retired,,,out,summer,Serie A,2013,False,
+SSC Napoli,Pablo Armero,26,Colombia,Left-Back,LB,9000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+SSC Napoli,Emanuele Calaiò,31,Italy,Centre-Forward,CF,2000000.0,Siena,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+SSC Napoli,Rolando,27,Portugal,Centre-Back,CB,6500000.0,FC Porto,Portugal,0.0,out,summer,Serie A,2013,True,end of loan
+SSC Napoli,Josip Radosevic,19,Croatia,Defensive Midfield,DM,2500000.0,Hajduk Split,Croatia,0.0,out,summer,Serie A,2013,True,end of loan
+SSC Napoli,Jorginho,22,Italy,Defensive Midfield,DM,10000000.0,Hellas Verona,Italy,9500000.0,in,winter,Serie A,2013,False,
+SSC Napoli,Faouzi Ghoulam,22,Algeria,Left-Back,LB,3000000.0,Saint-Étienne,France,5000000.0,in,winter,Serie A,2013,False,
+SSC Napoli,Henrique,27,Brazil,Centre-Back,CB,2500000.0,Palmeiras,Brazil,4000000.0,in,winter,Serie A,2013,False,
+SSC Napoli,Toni Doblas,33,Spain,Goalkeeper,GK,400000.0,Without Club,,,in,winter,Serie A,2013,False,
+SSC Napoli,Anthony Réveillère,33,France,Right-Back,RB,750000.0,Without Club,,,in,winter,Serie A,2013,False,
+SSC Napoli,Eduardo Vargas,24,Chile,Second Striker,SS,6000000.0,Valencia,Spain,1500000.0,out,winter,Serie A,2013,True,loan with fee
+SSC Napoli,Nicolao Dumitru,22,Italy,Left Winger,LW,700000.0,Reggina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Emanuele Allegra,19,Italy,Centre-Back,CB,125000.0,Pavia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Antonio Rosati,30,Italy,Goalkeeper,GK,800000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Camillo Ciano,23,Italy,Centre-Forward,CF,1100000.0,AS Avellino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Giuseppe Palma,20,Italy,Central Midfield,CM,100000.0,Paganese,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Pablo Armero,27,Colombia,Left-Back,LB,8000000.0,West Ham,England,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Paolo Cannavaro,32,Italy,Centre-Back,CB,2500000.0,Sassuolo,Italy,0.0,out,winter,Serie A,2013,True,free loan
+SSC Napoli,Bruno Uvini,22,Brazil,Centre-Back,CB,1500000.0,Santos FC,Brazil,0.0,out,winter,Serie A,2013,True,free loan
+Torino FC,Ciro Immobile,23,Italy,Centre-Forward,CF,7000000.0,Juventus,Italy,13500000.0,in,summer,Serie A,2013,False,
+Torino FC,Nicola Bellomo,22,Italy,Attacking Midfield,AM,1600000.0,Bari,Italy,1800000.0,in,summer,Serie A,2013,False,
+Torino FC,Alexander Farnerud,29,Sweden,Central Midfield,CM,1750000.0,BSC Young Boys,Switzerland,1800000.0,in,summer,Serie A,2013,False,
+Torino FC,Marcelo Larrondo,24,Argentina,Centre-Forward,CF,1500000.0,Siena,Italy,1300000.0,in,summer,Serie A,2013,False,
+Torino FC,Cesare Bovo,30,Italy,Centre-Back,CB,1900000.0,Genoa,Italy,800000.0,in,summer,Serie A,2013,False,
+Torino FC,Emiliano Moretti,32,Italy,Centre-Back,CB,1200000.0,Genoa,Italy,700000.0,in,summer,Serie A,2013,False,
+Torino FC,Nikola Maksimovic,21,Serbia,Centre-Back,CB,1250000.0,Red Star,Serbia,500000.0,in,summer,Serie A,2013,True,loan with fee
+Torino FC,Daniele Padelli,27,Italy,Goalkeeper,GK,600000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2013,False,
+Torino FC,Tommaso Berni,30,Italy,Goalkeeper,GK,500000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2013,False,
+Torino FC,Matteo Brighi,32,Italy,Central Midfield,CM,1600000.0,AS Roma,Italy,,in,summer,Serie A,2013,False,
+Torino FC,Omar El Kaddouri,22,Morocco,Central Midfield,CM,3000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Torino FC,Giovanni Pasquale,31,Italy,Left-Back,LB,1500000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2013,True,free loan
+Torino FC,Angelo Ogbonna,25,Italy,Centre-Back,CB,12000000.0,Juventus,Italy,15000000.0,out,summer,Serie A,2013,False,
+Torino FC,Marko Bakic,19,Montenegro,Central Midfield,CM,2000000.0,Fiorentina,Italy,2500000.0,out,summer,Serie A,2013,False,
+Torino FC,Alessandro Agostini,33,Italy,Left-Back,LB,300000.0,Hellas Verona,Italy,300000.0,out,summer,Serie A,2013,False,
+Torino FC,Rolando Bianchi,30,Italy,Centre-Forward,CF,4000000.0,Bologna,Italy,0.0,out,summer,Serie A,2013,False,
+Torino FC,Alfred Gomis,19,Senegal,Goalkeeper,GK,300000.0,Crotone,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Simone Verdi,21,Italy,Attacking Midfield,AM,900000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Nicolás Gorobsov,23,Argentina,Central Midfield,CM,250000.0,ACS Poli,Romania,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Ferdinando Coppola,35,Italy,Goalkeeper,GK,100000.0,AC Milan,Italy,0.0,out,summer,Serie A,2013,False,
+Torino FC,Sergiu Suciu,23,Romania,Central Midfield,CM,100000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Alen Stevanovic,22,Serbia,Left Winger,LW,2700000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Abou Diop,19,Senegal,Centre-Forward,CF,400000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Valerio Di Cesare,30,Italy,Centre-Back,CB,300000.0,Brescia,Italy,,out,summer,Serie A,2013,False,
+Torino FC,Marco Chiosa,19,Italy,Centre-Back,CB,300000.0,Bari,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Vittorio Parigini,17,Italy,Right Winger,RW,350000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Torino FC,Mario Santana,31,Argentina,Second Striker,SS,1900000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Pablo Cáceres,28,Uruguay,Left-Back,LB,600000.0,Rangers Talca,Chile,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Matteo Brighi,32,Italy,Central Midfield,CM,1600000.0,AS Roma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Valter Birsa,26,Slovenia,Attacking Midfield,AM,1500000.0,Genoa,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Dolly Menga,20,Angola,Centre-Forward,CF,600000.0,Lierse SK,Belgium,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Jonathas,24,Brazil,Centre-Forward,CF,1600000.0,Pescara,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+Torino FC,Marko Vesovic,22,Montenegro,Right-Back,RB,1000000.0,Red Star,Serbia,0.0,in,winter,Serie A,2013,False,
+Torino FC,Panagiotis Tachtsidis,22,Greece,Defensive Midfield,DM,3000000.0,Catania,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Torino FC,Ahmed Barusso,29,Ghana,Defensive Midfield,DM,200000.0,Genoa,Italy,,in,winter,Serie A,2013,False,
+Torino FC,Jasmin Kurtic,25,Slovenia,Central Midfield,CM,3200000.0,Sassuolo,Italy,0.0,in,winter,Serie A,2013,True,free loan
+Torino FC,Ilyas Zeytulaev,31,Uzbekistan,Left Winger,LW,50000.0,Without Club,,,in,winter,Serie A,2013,False,
+Torino FC,Danilo D'Ambrosio,25,Italy,Right-Back,RB,5000000.0,Inter,Italy,3790000.0,out,winter,Serie A,2013,False,
+Torino FC,Willyan,19,Brazil,Left Winger,LW,200000.0,Beira-Mar,Portugal,250000.0,out,winter,Serie A,2013,False,
+Torino FC,Abou Diop,20,Senegal,Centre-Forward,CF,400000.0,Crotone,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Torino FC,Filippo Scaglia,21,Italy,Centre-Back,CB,300000.0,Cittadella,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Torino FC,Nicola Bellomo,22,Italy,Attacking Midfield,AM,1500000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Torino FC,Matteo Brighi,32,Italy,Central Midfield,CM,1000000.0,Sassuolo,Italy,,out,winter,Serie A,2013,False,
+Torino FC,Ilyas Zeytulaev,31,Uzbekistan,Left Winger,LW,50000.0,HNK Gorica,Croatia,0.0,out,winter,Serie A,2013,True,free loan
+Torino FC,Fabio Panepinto,21,Italy,Central Midfield,CM,75000.0,Chieri,Italy,,out,winter,Serie A,2013,False,
+UC Sampdoria,Manolo Gabbiadini,21,Italy,Centre-Forward,CF,7000000.0,Juventus,Italy,11500000.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Bartosz Salamon,22,Poland,Centre-Back,CB,3000000.0,AC Milan,Italy,3400000.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Alessandro De Vitis,21,Italy,Defensive Midfield,DM,600000.0,Parma,Italy,2300000.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Birkir Bjarnason,25,Iceland,Central Midfield,CM,1000000.0,Pescara,Italy,1000000.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Mirko Eramo,23,Italy,Central Midfield,CM,600000.0,Crotone,Italy,500000.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Pawel Wszolek,21,Poland,Right Winger,RW,1600000.0,Pol. Warsaw,Poland,0.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Michele Fornasier,19,Italy,Centre-Back,CB,,Man Utd U23,England,0.0,in,summer,Serie A,2013,False,
+UC Sampdoria,Vasco Regini,22,Italy,Left-Back,LB,2500000.0,FC Empoli,Italy,,in,summer,Serie A,2013,False,
+UC Sampdoria,Andrea Petagna,18,Italy,Centre-Forward,CF,250000.0,AC Milan,Italy,0.0,in,summer,Serie A,2013,True,free loan
+UC Sampdoria,Antonino Barillà,25,Italy,Central Midfield,CM,900000.0,Reggina,Italy,0.0,in,summer,Serie A,2013,True,free loan
+UC Sampdoria,Mauro Icardi,20,Argentina,Centre-Forward,CF,12000000.0,Inter,Italy,13000000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Andrea Poli,23,Italy,Central Midfield,CM,8000000.0,AC Milan,Italy,6000000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Simone Zaza,22,Italy,Centre-Forward,CF,4500000.0,Juventus,Italy,3500000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Jonathan Rossini,24,Switzerland,Centre-Back,CB,1200000.0,Sassuolo,Italy,1300000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Gianni Munari,30,Italy,Central Midfield,CM,1000000.0,Parma,Italy,1000000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Fabrizio Cacciatore,26,Italy,Right-Back,RB,1000000.0,Hellas Verona,Italy,500000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Francesco Signori,24,Italy,Central Midfield,CM,600000.0,Modena,Italy,150000.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Fernando Tissone,26,Argentina,Defensive Midfield,DM,1500000.0,Málaga CF,Spain,0.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Zsolt Laczkó,26,Hungary,Left-Back,LB,450000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Matteo Lanzoni,25,Italy,Centre-Back,CB,75000.0,Oldham Athletic,England,0.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Simone Patacchiola,22,Italy,Centre-Back,CB,150000.0,Castiglione,Italy,0.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Andrea Grieco,21,Italy,Right-Back,RB,75000.0,Miami United,United States,0.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Stefano D'Agostino,21,Italy,Attacking Midfield,AM,50000.0,Pontedera,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Luca Rizzo,21,Italy,Central Midfield,CM,275000.0,Modena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Tommaso Berni,30,Italy,Goalkeeper,GK,500000.0,Torino,Italy,0.0,out,summer,Serie A,2013,False,
+UC Sampdoria,Federico Piovaccari,28,Italy,Centre-Forward,CF,600000.0,Steaua Bukarest,Romania,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Emanuele Testardi,22,Italy,Centre-Forward,CF,175000.0,Honvéd,Hungary,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Nicolò Rolando,20,Italy,Left Midfield,LM,75000.0,Bogliasco,Italy,,out,summer,Serie A,2013,False,
+UC Sampdoria,Juan Antonio,25,Argentina,Second Striker,SS,1400000.0,Brescia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Marco Raso,19,Italy,Right-Back,RB,25000.0,Vallée d’Aoste,Italy,,out,summer,Serie A,2013,False,
+UC Sampdoria,Cesare Dondero,20,Italy,Goalkeeper,GK,50000.0,Vado,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Andrea Magrassi,20,Italy,Centre-Forward,CF,150000.0,Real Vicenza,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Alessandro Martinelli,20,Switzerland,Central Midfield,CM,225000.0,Unione Venezia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Andelko Savic,20,Switzerland,Centre-Forward,CF,200000.0,Sheff Wed,England,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Edoardo Blondett,21,Italy,Centre-Back,CB,75000.0,Nuova Cosenza,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Sergio Romero,26,Argentina,Goalkeeper,GK,4000000.0,Monaco,France,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Vedran Celjak,21,Croatia,Right-Back,RB,200000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Alessandro De Vitis,21,Italy,Defensive Midfield,DM,600000.0,Carpi,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Stefano Scappini,25,Italy,Centre-Forward,CF,250000.0,Grosseto,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Moreno Beretta,20,Italy,Centre-Forward,CF,125000.0,Paganese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Simone Corazza,22,Italy,Centre-Forward,CF,225000.0,Südtirol,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Gianluca Sampietro,20,Italy,Central Midfield,CM,200000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Bruno Martella,20,Italy,Left-Back,LB,100000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2013,True,free loan
+UC Sampdoria,Mattia Monticone,19,Italy,Centre-Back,CB,150000.0,Lumezzane,Italy,,out,summer,Serie A,2013,False,
+UC Sampdoria,Maxi López,29,Argentina,Centre-Forward,CF,5000000.0,Catania,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+UC Sampdoria,Marcelo Estigarribia,25,Paraguay,Left Midfield,LM,2500000.0,Maldonado,Uruguay,0.0,out,summer,Serie A,2013,True,end of loan
+UC Sampdoria,Francesco Fedato,21,Italy,Left Winger,LW,550000.0,Bari,Italy,900000.0,in,winter,Serie A,2013,False,
+UC Sampdoria,Maxi López,29,Argentina,Centre-Forward,CF,3500000.0,Catania,Italy,0.0,in,winter,Serie A,2013,True,free loan
+UC Sampdoria,Stefano Okaka,24,Italy,Centre-Forward,CF,1200000.0,Parma,Italy,,in,winter,Serie A,2013,False,
+UC Sampdoria,Alessio Sestu,30,Italy,Right Winger,RW,500000.0,Chievo Verona,Italy,0.0,in,winter,Serie A,2013,True,free loan
+UC Sampdoria,Stefano D'Agostino,21,Italy,Attacking Midfield,AM,50000.0,US Poggibonsi,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Zsolt Laczkó,27,Hungary,Left-Back,LB,350000.0,Ferencváros,Hungary,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Daniele Messina,21,Italy,Centre-Back,CB,50000.0,Vittoriosa,Malta,0.0,out,winter,Serie A,2013,False,
+UC Sampdoria,Gianluca Cafferata,19,Italy,Left-Back,LB,100000.0,Pavia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Savvas Gentsoglou,23,Greece,Defensive Midfield,DM,800000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Simon Poulsen,29,Denmark,Left-Back,LB,1000000.0,AZ Alkmaar,Netherlands,0.0,out,winter,Serie A,2013,False,
+UC Sampdoria,Davide Gavazzi,27,Italy,Central Midfield,CM,800000.0,Ternana,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Andrea Tozzo,21,Italy,Goalkeeper,GK,200000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Paolo Castellini,34,Italy,Left-Back,LB,100000.0,AS Livorno,Italy,,out,winter,Serie A,2013,False,
+UC Sampdoria,Stefano Scappini,25,Italy,Centre-Forward,CF,250000.0,Castel Rigone,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Moreno Beretta,20,Italy,Centre-Forward,CF,125000.0,San Marino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Nicola Pozzi,27,Italy,Centre-Forward,CF,2300000.0,Parma,Italy,,out,winter,Serie A,2013,False,
+UC Sampdoria,Vedran Celjak,22,Croatia,Right-Back,RB,150000.0,Benevento,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Mirko Eramo,24,Italy,Central Midfield,CM,700000.0,FC Empoli,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Luca Piana,19,Italy,Centre-Back,CB,150000.0,Viareggio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Francesco Fedato,21,Italy,Left Winger,LW,550000.0,Catania,Italy,0.0,out,winter,Serie A,2013,True,free loan
+UC Sampdoria,Enzo Maresca,33,Italy,Central Midfield,CM,500000.0,US Palermo,Italy,,out,winter,Serie A,2013,False,
+US Sassuolo,Simone Zaza,22,Italy,Centre-Forward,CF,4500000.0,Juventus,Italy,10000000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Raman Chibsah,20,Ghana,Central Midfield,CM,1500000.0,Parma,Italy,5000000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Luca Marrone,23,Italy,Centre-Back,CB,4000000.0,Juventus,Italy,4500000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Jasmin Kurtic,24,Slovenia,Central Midfield,CM,2000000.0,US Palermo,Italy,4000000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Francesco Acerbi,25,Italy,Centre-Back,CB,3500000.0,Genoa,Italy,3200000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Jonathan Rossini,24,Switzerland,Centre-Back,CB,1200000.0,Sampdoria,Italy,1300000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Diego Farias,23,Brazil,Left Winger,LW,800000.0,Chievo Verona,Italy,550000.0,in,summer,Serie A,2013,True,loan with fee
+US Sassuolo,Gianluca Pegolo,32,Italy,Goalkeeper,GK,2000000.0,Siena,Italy,500000.0,in,summer,Serie A,2013,False,
+US Sassuolo,Marius Alexe,23,Romania,Centre-Forward,CF,3200000.0,Dinamo,Romania,500000.0,in,summer,Serie A,2013,True,loan with fee
+US Sassuolo,Aladje,19,Portugal,Centre-Forward,CF,400000.0,Aprilia,Italy,0.0,in,summer,Serie A,2013,False,
+US Sassuolo,Domenico Berardi,19,Italy,Right Winger,RW,6000000.0,Juventus,Italy,0.0,in,summer,Serie A,2013,True,free loan
+US Sassuolo,Riccardo Barbuti,21,Italy,Centre-Forward,CF,75000.0,Barletta,Italy,500.0,in,summer,Serie A,2013,False,
+US Sassuolo,Reto Ziegler,27,Switzerland,Centre-Back,CB,6500000.0,Juventus,Italy,0.0,in,summer,Serie A,2013,True,free loan
+US Sassuolo,Antonio Rosati,30,Italy,Goalkeeper,GK,1000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2013,True,free loan
+US Sassuolo,Ezequiel Schelotto,24,Italy,Right-Back,RB,5000000.0,Inter,Italy,0.0,in,summer,Serie A,2013,True,free loan
+US Sassuolo,Raffaele D'Orsi,21,Italy,Centre-Back,CB,100000.0,Pavia,Italy,,in,summer,Serie A,2013,False,
+US Sassuolo,Luca Antei,21,Italy,Centre-Back,CB,200000.0,AS Roma,Italy,,in,summer,Serie A,2013,False,
+US Sassuolo,Antonio Floro Flores,30,Italy,Centre-Forward,CF,3000000.0,Genoa,Italy,0.0,in,summer,Serie A,2013,True,free loan
+US Sassuolo,Raffaele Pucino,22,Italy,Right-Back,RB,600000.0,Varese,Italy,,in,summer,Serie A,2013,False,
+US Sassuolo,Domenico Berardi,19,Italy,Right Winger,RW,6000000.0,Juventus,Italy,4500000.0,out,summer,Serie A,2013,False,
+US Sassuolo,Gennaro Troianiello,30,Italy,Right Winger,RW,700000.0,US Palermo,Italy,500000.0,out,summer,Serie A,2013,False,
+US Sassuolo,Vincenzo Ferrara,20,Italy,Right Winger,RW,100000.0,Aprilia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Alessandro Noselli,32,Italy,Centre-Forward,CF,250000.0,NY Cosmos,United States,0.0,out,summer,Serie A,2013,False,
+US Sassuolo,Davide Luppi,23,Italy,Centre-Forward,CF,100000.0,Correggese,Italy,0.0,out,summer,Serie A,2013,False,
+US Sassuolo,Pellegrino Albanese,22,Italy,Centre-Back,CB,25000.0,Msida SJ,Malta,0.0,out,summer,Serie A,2013,False,
+US Sassuolo,Michele Troiano,28,Italy,Defensive Midfield,DM,400000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2013,False,
+US Sassuolo,Raffaele D'Orsi,21,Italy,Centre-Back,CB,100000.0,SPAL,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Riccardo Barbuti,21,Italy,Centre-Forward,CF,75000.0,Aprilia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Leonardo Pavoletti,24,Italy,Centre-Forward,CF,1000000.0,Varese,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Tommaso Bianchi,24,Italy,Central Midfield,CM,1200000.0,Modena,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Lorenzo Laverone,24,Italy,Right-Back,RB,350000.0,Varese,Italy,,out,summer,Serie A,2013,False,
+US Sassuolo,Diego Falcinelli,22,Italy,Centre-Forward,CF,650000.0,Virtus Lanciano,Italy,0.0,out,summer,Serie A,2013,True,free loan
+US Sassuolo,Simone Finizza,19,Italy,Right-Back,RB,50000.0,Without Club,,,out,summer,Serie A,2013,False,
+US Sassuolo,Mirko Pigliacelli,20,Italy,Goalkeeper,GK,250000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+US Sassuolo,Raman Chibsah,20,Ghana,Central Midfield,CM,1500000.0,Parma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+US Sassuolo,Andrea Catellani,25,Italy,Centre-Forward,CF,1000000.0,Catania,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+US Sassuolo,Richmond Boakye,20,Ghana,Centre-Forward,CF,6000000.0,Juventus,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+US Sassuolo,Luca Antei,21,Italy,Centre-Back,CB,200000.0,AS Roma,Italy,0.0,out,summer,Serie A,2013,True,end of loan
+US Sassuolo,Nicola Sansone,22,Italy,Left Winger,LW,5000000.0,Parma,Italy,8250000.0,in,winter,Serie A,2013,False,
+US Sassuolo,Antonio Sanabria,17,Paraguay,Centre-Forward,CF,600000.0,FC Barcelona B,Spain,5700000.0,in,winter,Serie A,2013,False,
+US Sassuolo,Sergio Floccari,32,Italy,Centre-Forward,CF,2300000.0,Lazio,Italy,2000000.0,in,winter,Serie A,2013,False,
+US Sassuolo,Lorenzo Ariaudo,24,Italy,Centre-Back,CB,1500000.0,Cagliari Calcio,Italy,800000.0,in,winter,Serie A,2013,False,
+US Sassuolo,Davide Biondini,30,Italy,Central Midfield,CM,1800000.0,Genoa,Italy,200000.0,in,winter,Serie A,2013,True,loan with fee
+US Sassuolo,Thomas Manfredini,33,Italy,Centre-Back,CB,900000.0,Genoa,Italy,,in,winter,Serie A,2013,False,
+US Sassuolo,Pedro Mendes,23,Portugal,Centre-Back,CB,1000000.0,Parma,Italy,,in,winter,Serie A,2013,False,
+US Sassuolo,Aleandro Rosi,26,Italy,Right-Back,RB,2000000.0,Parma,Italy,0.0,in,winter,Serie A,2013,True,free loan
+US Sassuolo,Matteo Brighi,32,Italy,Central Midfield,CM,1000000.0,Torino,Italy,,in,winter,Serie A,2013,False,
+US Sassuolo,Ciro Polito,34,Italy,Goalkeeper,GK,100000.0,Atalanta BC,Italy,,in,winter,Serie A,2013,False,
+US Sassuolo,Paolo Cannavaro,32,Italy,Centre-Back,CB,2500000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2013,True,free loan
+US Sassuolo,Jonathan Rossini,24,Switzerland,Centre-Back,CB,1200000.0,Parma,Italy,0.0,out,winter,Serie A,2013,True,free loan
+US Sassuolo,Karim Laribi,22,Tunisia,Attacking Midfield,AM,500000.0,Latina Calcio,Italy,0.0,out,winter,Serie A,2013,True,free loan
+US Sassuolo,Aladje,20,Portugal,Centre-Forward,CF,400000.0,D. Porto Tolle,Italy,0.0,out,winter,Serie A,2013,True,free loan
+US Sassuolo,Carl Valeri,29,Australia,Central Midfield,CM,400000.0,Ternana,Italy,,out,winter,Serie A,2013,False,
+US Sassuolo,Lino Marzorati,27,Italy,Centre-Back,CB,600000.0,Modena,Italy,,out,winter,Serie A,2013,False,
+US Sassuolo,Jasmin Kurtic,25,Slovenia,Central Midfield,CM,3200000.0,Torino,Italy,0.0,out,winter,Serie A,2013,True,free loan
+US Sassuolo,Luca Benedetti,21,Italy,Centre-Back,CB,125000.0,Torres,Italy,0.0,out,winter,Serie A,2013,True,free loan
+US Sassuolo,Raffaele D'Orsi,22,Italy,Centre-Back,CB,100000.0,Pavia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Nicolás López,19,Uruguay,Right Winger,RW,1700000.0,AS Roma,Italy,4000000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Bruno Fernandes,18,Portugal,Attacking Midfield,AM,3500000.0,Novara,Italy,2500000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Valerio Verre,19,Italy,Central Midfield,CM,1200000.0,AS Roma,Italy,2500000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Jádson,19,Brazil,Central Midfield,CM,1500000.0,Botafogo,Brazil,2500000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Igor Bubnjic,20,Croatia,Centre-Back,CB,1000000.0,Slaven Belupo,Croatia,1500000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Frano Mlinar,21,Croatia,Central Midfield,CM,750000.0,Inter Zapresic,Croatia,1000000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Alexandre Coeff,21,France,Centre-Back,CB,1000000.0,Lens,France,1000000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Orestis Karnezis,28,Greece,Goalkeeper,GK,1750000.0,Panathinaikos,Greece,800000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Clifford Aboagye,18,Ghana,Central Midfield,CM,,Inter Allies,Ghana,610000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Ivan Kelava,25,Croatia,Goalkeeper,GK,1750000.0,Dinamo Zagreb,Croatia,600000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Naldo,24,Brazil,Centre-Back,CB,600000.0,Granada CF,Spain,500000.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Javi Acuña,25,Paraguay,Centre-Forward,CF,1000000.0,Girona,Spain,0.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Francesco Benussi,31,Italy,Goalkeeper,GK,400000.0,US Palermo,Italy,0.0,in,summer,Serie A,2013,False,
+Udinese Calcio,Daniele Mori,23,Italy,Centre-Back,CB,300000.0,FC Empoli,Italy,,in,summer,Serie A,2013,False,
+Udinese Calcio,Andrea Mazzarani,23,Italy,Attacking Midfield,AM,800000.0,SSC Napoli,Italy,,in,summer,Serie A,2013,False,
+Udinese Calcio,Emanuele Rovini,18,Italy,Centre-Forward,CF,150000.0,Empoli U19,Italy,,in,summer,Serie A,2013,False,
+Udinese Calcio,Silvan Widmer,20,Switzerland,Right-Back,RB,950000.0,Granada CF,Spain,,in,summer,Serie A,2013,False,
+Udinese Calcio,Douglas Santos,19,Brazil,Left-Back,LB,2500000.0,Granada CF,Spain,0.0,in,summer,Serie A,2013,True,free loan
+Udinese Calcio,Juan Cuadrado,25,Colombia,Right-Back,RB,15000000.0,Fiorentina,Italy,20000000.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Medhi Benatia,26,Morocco,Centre-Back,CB,13000000.0,AS Roma,Italy,13500000.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Antonio Candreva,26,Italy,Right Midfield,RM,10000000.0,Lazio,Italy,8199999.999999999,out,summer,Serie A,2013,False,
+Udinese Calcio,Pablo Armero,26,Colombia,Left-Back,LB,9000000.0,SSC Napoli,Italy,4000000.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Willians,27,Brazil,Defensive Midfield,DM,2500000.0,Internacional,Brazil,2000000.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Daniele Padelli,27,Italy,Goalkeeper,GK,600000.0,Torino,Italy,0.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Mohamadou Sissoko,25,France,Centre-Back,CB,400000.0,PAE Veria,Greece,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Matías Campos Toro,24,Chile,Left-Back,LB,800000.0,Granada CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Gabriel Torje,23,Romania,Right Winger,RW,4000000.0,Espanyol,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Álex Geijo,31,Spain,Centre-Forward,CF,750000.0,RCD Mallorca,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Wojciech Pawlowski,20,Poland,Goalkeeper,GK,500000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Cristian Pasquato,24,Italy,Second Striker,SS,1300000.0,Padova,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Matías Campos Toro,24,Chile,Left-Back,LB,800000.0,Hércules CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Jaime Romero,22,Spain,Right Winger,RW,1200000.0,RM Castilla,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Gabriele Angella,24,Italy,Centre-Back,CB,1500000.0,Watford,England,0.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Alexandre Coeff,21,France,Centre-Back,CB,1000000.0,Granada CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Dioni,23,Spain,Centre-Forward,CF,,Hércules CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Marco Cassetti,36,Italy,Right-Back,RB,250000.0,Watford,England,0.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Juan Surraco,25,Uruguay,Second Striker,SS,500000.0,Modena,Italy,0.0,out,summer,Serie A,2013,False,
+Udinese Calcio,Neuton,24,Brazil,Centre-Back,CB,700000.0,Chapecoense,Brazil,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Alin Bucuroiu,21,Romania,Goalkeeper,GK,300000.0,Siena,Italy,,out,summer,Serie A,2013,False,
+Udinese Calcio,Abdoul Wahid Sissoko,23,Mali,Defensive Midfield,DM,1500000.0,Hércules CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Javi Acuña,25,Paraguay,Centre-Forward,CF,1000000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Valerio Verre,19,Italy,Central Midfield,CM,1200000.0,US Palermo,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Rosario Licata,24,Italy,Left-Back,LB,25000.0,Foggia,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Jefferson Oliveira,23,Brazil,Centre-Back,CB,125000.0,Bellaria IM,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Andrea Coda,28,Italy,Centre-Back,CB,1000000.0,AS Livorno,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Giovanni Pasquale,31,Italy,Left-Back,LB,1500000.0,Torino,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Odion Ighalo,24,Nigeria,Centre-Forward,CF,3000000.0,Granada CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Steve Beleck,20,Cameroon,Centre-Forward,CF,900000.0,RAEC Mons,Belgium,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Matej Vydra,21,Czech Republic,Centre-Forward,CF,3000000.0,West Brom,England,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Daniele Mori,23,Italy,Centre-Back,CB,300000.0,Novara,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Masahudu Alhassan,20,Ghana,Left-Back,LB,500000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Clifford Aboagye,18,Ghana,Central Midfield,CM,,Recre Granada,Spain,,out,summer,Serie A,2013,False,
+Udinese Calcio,Simone Amadio,20,Italy,Central Midfield,CM,50000.0,Sanvitese,Italy,,out,summer,Serie A,2013,False,
+Udinese Calcio,Cristian Battocchio,21,Italy,Central Midfield,CM,1100000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Andrea Mazzarani,23,Italy,Attacking Midfield,AM,800000.0,Modena,Italy,,out,summer,Serie A,2013,False,
+Udinese Calcio,Joel Ekstrand,24,Sweden,Centre-Back,CB,1500000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Orestis Karnezis,28,Greece,Goalkeeper,GK,1750000.0,Granada CF,Spain,0.0,out,summer,Serie A,2013,True,free loan
+Udinese Calcio,Davide Faraoni,21,Italy,Right Midfield,RM,3000000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Diego Fabbrini,22,Italy,Attacking Midfield,AM,2700000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Almen Abdi,26,Switzerland,Central Midfield,CM,2500000.0,Watford,England,,out,summer,Serie A,2013,False,
+Udinese Calcio,Diego Rodríguez,23,Uruguay,Defensive Midfield,DM,800000.0,Defensor,Uruguay,0.0,out,summer,Serie A,2013,True,end of loan
+Udinese Calcio,Charles Aránguiz,24,Chile,Central Midfield,CM,2200000.0,U. de Chile,Chile,4000000.0,in,winter,Serie A,2013,False,
+Udinese Calcio,Douglas Santos,19,Brazil,Left-Back,LB,2500000.0,Granada CF,Spain,2300000.0,in,winter,Serie A,2013,False,
+Udinese Calcio,Antonio Vutov,17,Bulgaria,Attacking Midfield,AM,300000.0,Levski Sofia,Bulgaria,600000.0,in,winter,Serie A,2013,False,
+Udinese Calcio,Uche Agbo,17,Nigeria,Defensive Midfield,DM,,Enyimba Aba,Nigeria,0.0,in,winter,Serie A,2013,False,
+Udinese Calcio,Hassan Yebda,29,Algeria,Central Midfield,CM,1800000.0,Granada CF,Spain,0.0,in,winter,Serie A,2013,True,free loan
+Udinese Calcio,Wojciech Pawlowski,20,Poland,Goalkeeper,GK,500000.0,Slask Wroclaw,Poland,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Dioni,24,Spain,Centre-Forward,CF,200000.0,Cádiz CF,Spain,0.0,out,winter,Serie A,2013,False,
+Udinese Calcio,Alexander Merkel,21,Kazakhstan,Central Midfield,CM,3000000.0,Watford,England,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Mathias Ranégie,29,Sweden,Centre-Forward,CF,1300000.0,Watford,England,,out,winter,Serie A,2013,False,
+Udinese Calcio,Daniele Mori,23,Italy,Centre-Back,CB,300000.0,Brescia,Italy,,out,winter,Serie A,2013,False,
+Udinese Calcio,Rosario Licata,25,Italy,Left-Back,LB,25000.0,Sorrento,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Pape Dia,20,Senegal,Left Winger,LW,75000.0,Pavia,Italy,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Matías Campos Toro,24,Chile,Left-Back,LB,1000000.0,Española,Chile,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Uche Agbo,18,Nigeria,Defensive Midfield,DM,,Recre Granada,Spain,0.0,out,winter,Serie A,2013,True,free loan
+Udinese Calcio,Charles Aránguiz,24,Chile,Central Midfield,CM,2200000.0,Internacional,Brazil,0.0,out,winter,Serie A,2013,True,free loan

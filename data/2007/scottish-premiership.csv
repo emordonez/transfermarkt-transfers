@@ -1,0 +1,398 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aberdeen FC,Lee Mair,26,Scotland,Centre-Back,CB,150000.0,Dundee United,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Jackie McNamara,33,Scotland,Right-Back,RB,2400000.0,Wolves,England,0.0,in,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Jeffrey de Visscher,26,Netherlands,Right Winger,RW,400000.0,De Graafschap,Netherlands,0.0,in,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Derek Young,27,Scotland,Central Midfield,CM,350000.0,Partick Thistle,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Sone Aluko,18,Nigeria,Second Striker,SS,50000.0,Birmingham,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Aberdeen FC,Jonny Smith,18,England,Centre-Forward,CF,,Wigan U18,England,,in,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Russell Anderson,28,Scotland,Centre-Back,CB,250000.0,Sunderland,England,1500000.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Dyron Daal,23,Curacao,Centre-Forward,CF,300000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Jamie Winter,21,Scotland,Central Midfield,CM,50000.0,Chesterfield FC,England,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Gary Dempsey,26,Ireland,Central Midfield,CM,350000.0,Yeovil Town,England,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Fraser Stewart,18,Scotland,Goalkeeper,GK,50000.0,Cumnock,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Craig Brewster,40,Scotland,Centre-Forward,CF,50000.0,Inverness CT,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,David Donald,19,Scotland,Right-Back,RB,50000.0,Peterhead,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Andy Bagshaw,18,Scotland,Centre-Forward,CF,50000.0,Peterhead,Scotland,,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Mark Thomas,19,Scotland,Centre-Back,CB,50000.0,Stranraer,Scotland,,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Brian Neill,19,Scotland,midfield,midfield,50000.0,Unknown,,,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,John Bruce,19,Scotland,attack,attack,50000.0,Unknown,,,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Jackie McNamara,34,Scotland,Right-Back,RB,1200000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Aberdeen FC,Stuart Duff,25,Scotland,Defensive Midfield,DM,350000.0,Dundee United,Scotland,0.0,in,winter,Scottish Premiership,2007,False,
+Aberdeen FC,Alan Maybury,29,Ireland,Right-Back,RB,800000.0,Leicester,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Aberdeen FC,Josh Walker,18,England,Central Midfield,CM,50000.0,Middlesbrough,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Aberdeen FC,Dave Bus,29,Netherlands,Centre-Back,CB,150000.0,De Graafschap,Netherlands,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Aberdeen FC,Chris Clark,27,Scotland,Left Midfield,LM,700000.0,Plymouth,England,300000.0,out,winter,Scottish Premiership,2007,False,
+Aberdeen FC,Michael Hart,27,Scotland,Centre-Back,CB,650000.0,Preston,England,200000.0,out,winter,Scottish Premiership,2007,False,
+Aberdeen FC,Michael Paton,18,Scotland,Right Winger,RW,,Brechin City,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Aberdeen FC,David Ross,18,Scotland,Centre-Forward,CF,,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Celtic FC,Scott Brown,22,Scotland,Central Midfield,CM,6600000.0,Hibernian FC,Scotland,6600000.0,in,summer,Scottish Premiership,2007,False,
+Celtic FC,Massimo Donati,26,Italy,Defensive Midfield,DM,4500000.0,AC Milan,Italy,4500000.0,in,summer,Scottish Premiership,2007,False,
+Celtic FC,Scott McDonald,23,Australia,Centre-Forward,CF,900000.0,Motherwell FC,Scotland,950000.0,in,summer,Scottish Premiership,2007,False,
+Celtic FC,Jean-Joël Perrier-Doumbé,28,Cameroon,Right-Back,RB,900000.0,Stade Rennais,France,600000.0,in,summer,Scottish Premiership,2007,False,
+Celtic FC,Chris Killen,25,New Zealand,Centre-Forward,CF,450000.0,Hibernian FC,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Celtic FC,Kenny Miller,27,Scotland,Centre-Forward,CF,1250000.0,Derby,England,4500000.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Craig Beattie,23,Scotland,Centre-Forward,CF,2250000.0,West Brom,England,1880000.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,David Marshall,22,Scotland,Goalkeeper,GK,1250000.0,Norwich,England,400000.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Neil Lennon,36,Northern Ireland,Central Midfield,CM,2750000.0,Nottm Forest,England,0.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Paul Telfer,35,Scotland,Right-Back,RB,,Bournemouth,England,0.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Adam Virgo,24,Scotland,Centre-Back,CB,1500000.0,Colchester Utd.,England,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Celtic FC,Alan Thompson,33,England,Left Midfield,LM,3500000.0,Leeds,England,0.0,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Craig Reid,21,Scotland,Right-Back,RB,,Stirling Albion,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Celtic FC,Thomas Gravesen,31,Denmark,Defensive Midfield,DM,3000000.0,Everton,England,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Celtic FC,Paul Lawson,23,Scotland,Defensive Midfield,DM,175000.0,Ross County,Scotland,,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Rocco Quinn,20,Scotland,Central Midfield,CM,50000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Celtic FC,Michael Gardyne,21,Scotland,Right Winger,RW,,Morton,Scotland,,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Gary Irvine,22,Scotland,Right-Back,RB,,St. Johnstone,Scotland,,out,summer,Scottish Premiership,2007,False,
+Celtic FC,Michael McGlinchey,20,New Zealand,Right Midfield,RM,50000.0,Dunfermline A.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Celtic FC,Jean-Joël Perrier-Doumbé,28,Cameroon,Right-Back,RB,900000.0,Stade Rennais,France,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Celtic FC,Andreas Hinkel,25,Germany,Right-Back,RB,2000000.0,Sevilla FC,Spain,2600000.0,in,winter,Scottish Premiership,2007,False,
+Celtic FC,Barry Robson,29,Scotland,Right Midfield,RM,900000.0,Dundee United,Scotland,1500000.0,in,winter,Scottish Premiership,2007,False,
+Celtic FC,Ben Hutchinson,20,England,Centre-Forward,CF,600000.0,Middlesbrough,England,375000.0,in,winter,Scottish Premiership,2007,False,
+Celtic FC,Georgios Samaras,22,Greece,Left Winger,LW,8000000.0,Man City,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Celtic FC,Koki Mizuno,22,Japan,Right Midfield,RM,,JEF Utd. Chiba,Japan,0.0,in,winter,Scottish Premiership,2007,False,
+Celtic FC,Jiri Jarosik,30,Czech Republic,Centre-Back,CB,1750000.0,KS Samara,Russia,1000000.0,out,winter,Scottish Premiership,2007,False,
+Celtic FC,Maciej Zurawski,31,Poland,Centre-Forward,CF,2500000.0,AE Larisa,Greece,665000.0,out,winter,Scottish Premiership,2007,False,
+Celtic FC,Jim O'Brien,20,Scotland,Central Midfield,CM,75000.0,Dundee United,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Celtic FC,Craig Reid,21,Scotland,Right-Back,RB,,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Dundee United FC,Kevin Smith,21,Scotland,Centre-Forward,CF,50000.0,Arthurlie,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Grzegorz Szamotulski,31,Poland,Goalkeeper,GK,1100000.0,Sturm Graz,Austria,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Lukasz Zaluska,25,Poland,Goalkeeper,GK,125000.0,Korona Kielce,Poland,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Darren Dods,32,Scotland,Centre-Back,CB,300000.0,Inverness CT,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Prince Buaben,19,Ghana,Central Midfield,CM,,Ajax U19,Netherlands,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Kemoko Camara,32,Guinea,Goalkeeper,GK,,AmaZulu FC,South Africa,0.0,in,summer,Scottish Premiership,2007,False,
+Dundee United FC,Willo Flood,22,Ireland,Central Midfield,CM,125000.0,Cardiff,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Dundee United FC,Jordan Robertson,19,England,Centre-Forward,CF,,Sheff Utd,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Dundee United FC,Stuart Abbot,21,Scotland,Right-Back,RB,150000.0,Carnoustie Panmure JFC,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Lee Mair,26,Scotland,Centre-Back,CB,150000.0,Aberdeen FC,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,David McCracken,25,Scotland,Centre-Back,CB,450000.0,Wycombe,England,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Collin Samuel,25,Trinidad and Tobago,Right Winger,RW,650000.0,Toronto FC,United States,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Derek Stillie,33,Scotland,Goalkeeper,GK,300000.0,Gillingham FC,England,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Ross Gardiner,20,Scotland,Centre-Back,CB,150000.0,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,William Easton,21,Scotland,Left Winger,LW,150000.0,Stirling Albion,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Dundee United FC,Gregg Burnett,20,Scotland,Defensive Midfield,DM,75000.0,Linlithgow Rose,Scotland,,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Barry Callaghan,20,Scotland,Right-Back,RB,50000.0,Brechin City,Scotland,,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,David Proctor,23,Scotland,Centre-Back,CB,350000.0,Inverness CT,Scotland,,out,summer,Scottish Premiership,2007,False,
+Dundee United FC,Greg Cameron,19,Scotland,Central Midfield,CM,200000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Dundee United FC,Mihael Kovacevic,19,Switzerland,Right-Back,RB,,FC Koper,Slovenia,120000.0,in,winter,Scottish Premiership,2007,False,
+Dundee United FC,Mark de Vries,32,Netherlands,Centre-Forward,CF,900000.0,Leicester,England,60000.0,in,winter,Scottish Premiership,2007,False,
+Dundee United FC,Eric Odhiambo,18,England,Right Winger,RW,,Leicester,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Dundee United FC,Danny Swanson,21,Scotland,Right Midfield,RM,,Berwick Rangers,England,0.0,in,winter,Scottish Premiership,2007,False,
+Dundee United FC,Jim O'Brien,20,Scotland,Central Midfield,CM,75000.0,Celtic,Scotland,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Dundee United FC,Danny Grainger,21,England,Left-Back,LB,,Gretna,Scotland,,in,winter,Scottish Premiership,2007,False,
+Dundee United FC,Barry Robson,29,Scotland,Right Midfield,RM,900000.0,Celtic,Scotland,1500000.0,out,winter,Scottish Premiership,2007,False,
+Dundee United FC,Stuart Duff,25,Scotland,Defensive Midfield,DM,350000.0,Aberdeen FC,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Dundee United FC,Grzegorz Szamotulski,31,Poland,Goalkeeper,GK,1000000.0,Preston,England,0.0,out,winter,Scottish Premiership,2007,False,
+Dundee United FC,Marco Andreoni,19,Scotland,midfield,midfield,50000.0,Airdrie United,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Dundee United FC,William Easton,21,Scotland,Left Winger,LW,150000.0,Ayr United,Scotland,,out,winter,Scottish Premiership,2007,False,
+Dundee United FC,Greg Cameron,19,Scotland,Central Midfield,CM,200000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Dundee United FC,Greg Cameron,19,Scotland,Central Midfield,CM,200000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Dundee United FC,David Goodwillie,18,Scotland,Centre-Forward,CF,250000.0,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Bobby Olejnik,20,Austria,Goalkeeper,GK,300000.0,Aston Villa,England,0.0,in,summer,Scottish Premiership,2007,False,
+Falkirk FC,Gerard Aafjes,22,Netherlands,Centre-Back,CB,150000.0,FC Volendam,Netherlands,0.0,in,summer,Scottish Premiership,2007,False,
+Falkirk FC,Roman Wallner,25,Austria,Centre-Forward,CF,750000.0,Austria Vienna,Austria,0.0,in,summer,Scottish Premiership,2007,False,
+Falkirk FC,Arnau Riera,25,Spain,Left Winger,LW,750000.0,Sunderland,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Falkirk FC,Tim Krul,19,Netherlands,Goalkeeper,GK,250000.0,Newcastle U23,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Falkirk FC,Michael Higdon,23,England,Centre-Forward,CF,50000.0,Crewe Alexandra,England,,in,summer,Scottish Premiership,2007,False,
+Falkirk FC,Alan Gow,24,Scotland,Attacking Midfield,AM,375000.0,Rangers,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Karl Dodd,26,Australia,Centre-Back,CB,225000.0,Wellington P.,Australia,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Marc Twaddle,20,Scotland,Left-Back,LB,150000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Ryan McStay,21,Scotland,Central Midfield,CM,50000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Cédric Uras,29,France,Centre-Back,CB,600000.0,Litex Lovech,Bulgaria,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Vítor Lima,25,Portugal,Defensive Midfield,DM,750000.0,Ethn. Piraeus,Greece,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Stephen O'Donnell,21,Ireland,Central Midfield,CM,450000.0,Bohemians,Ireland,0.0,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,John Stewart,21,Scotland,Centre-Forward,CF,50000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Falkirk FC,Jeroen Lambers,26,Netherlands,Goalkeeper,GK,50000.0,Veendam,Netherlands,,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Craig Ireland,32,Scotland,Centre-Back,CB,,Retired,,,out,summer,Scottish Premiership,2007,False,
+Falkirk FC,Stephen Bradley,23,Ireland,Attacking Midfield,AM,,Drogheda United,Ireland,0.0,in,winter,Scottish Premiership,2007,False,
+Falkirk FC,Shane Supple,20,Ireland,Goalkeeper,GK,400000.0,Ipswich,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Billy Clarke,20,Ireland,Second Striker,SS,425000.0,Ipswich,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Kevin McBride,26,Scotland,Defensive Midfield,DM,450000.0,Darlington,England,,in,winter,Scottish Premiership,2007,False,
+Falkirk FC,John Stewart,22,Scotland,Centre-Forward,CF,50000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Steven Thomson,29,Scotland,Central Midfield,CM,450000.0,Brighton,England,0.0,out,winter,Scottish Premiership,2007,False,
+Falkirk FC,Roman Wallner,25,Austria,Centre-Forward,CF,750000.0,Apol. Kalamarias,Greece,0.0,out,winter,Scottish Premiership,2007,False,
+Falkirk FC,Graeme Churchill,20,Scotland,attack,attack,75000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Falkirk FC,Brian Allison,19,Scotland,Centre-Back,CB,50000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Kevin Moffat,19,Scotland,attack,attack,50000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Chris Mitchell,19,Scotland,Right-Back,RB,50000.0,Montrose,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Mark Stewart,19,Scotland,Centre-Forward,CF,50000.0,Stranraer,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Roman Wallner,25,Austria,Centre-Forward,CF,750000.0,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Falkirk FC,Liam Craig,20,Scotland,Defensive Midfield,DM,200000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Fabián Yantorno,24,Uruguay,Central Midfield,CM,1500000.0,Miramar,Uruguay,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Paul Murray,30,England,Central Midfield,CM,1000000.0,Carlisle United,England,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Fraser McLaren,18,Scotland,Right Winger,RW,,Ayr United,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Abdul Osman,20,Ghana,Central Midfield,CM,,Maidenhead Utd.,England,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Nathan Taylor,17,Scotland,attack,attack,,Hamilton A. U20,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Jack Sharples,15,Scotland,Right-Back,RB,,Boro U18,England,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Nathan Fisher,18,England,attack,attack,,Boro U18,England,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Aurélien Collin,21,France,Centre-Back,CB,50000.0,RCD Mallorca B,Spain,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Mickaël Buscher,20,France,Left Winger,LW,,OGC Nice,France,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Evan Horwood,21,England,Left-Back,LB,,Sheff Utd,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Tony Caig,33,England,Goalkeeper,GK,500000.0,Vancouver,United States,0.0,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Colin Scott,37,Scotland,Goalkeeper,GK,,Queen o. t. S.,Scotland,,in,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Erik Paartalu,21,Australia,Defensive Midfield,DM,,Morton,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Ryan Baldacchino,27,England,Right Winger,RW,300000.0,Altona Magic Soccer Club,Australia,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Alan Main,39,Scotland,Goalkeeper,GK,,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Neil MacFarlane,29,Scotland,Central Midfield,CM,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Matthew Berkeley,19,St. Kitts & Nevis,Centre-Forward,CF,,Altrincham,England,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),John O'Neil,36,Scotland,Right Midfield,RM,250000.0,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Alex White,18,Scotland,Left-Back,LB,,Stranraer,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Liam Little,20,New Zealand,Goalkeeper,GK,,Otago United,New Zealand,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Dene Shields,24,Scotland,Centre-Forward,CF,150000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),David Bingham,36,Scotland,Centre-Forward,CF,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Kenny Deuchar,26,Scotland,Centre-Forward,CF,,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),David Nicholls,35,Scotland,Central Midfield,CM,50000.0,Newcastle Blue Star,England,,out,summer,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Niall Henderson,19,Northern Ireland,Central Midfield,CM,,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Mark Birch,30,England,Right-Back,RB,,Northwich Victoria,England,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Kyle Naughton,19,England,Right-Back,RB,,Sheff Utd,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Danny Hall,24,England,Centre-Back,CB,,Shrewsbury,England,0.0,in,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),John Paul Kissock,18,England,Left Midfield,LM,,Everton U18,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Ben Wilkinson,20,England,Central Midfield,CM,,Hull City,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Artur Krysiak,18,Poland,Goalkeeper,GK,100000.0,Birmingham,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Rhys Meynell,19,England,Left-Back,LB,,Barnsley FC,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Rostyn Griffiths,19,Australia,Centre-Back,CB,,Blackburn,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Tony Caig,33,England,Goalkeeper,GK,500000.0,Vancouver,United States,0.0,in,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Maki,29,Nigeria,Centre-Forward,CF,400000.0,TJ Teda,China,0.0,in,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Colin McMenamin,26,Scotland,Centre-Forward,CF,50000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),David Graham,24,Scotland,Right Winger,RW,,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Ryan Baldacchino,26,England,Right Winger,RW,,Ayr United,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Colin McMenamin,26,Scotland,Centre-Forward,CF,50000.0,Livingston FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Maki,30,Nigeria,Centre-Forward,CF,400000.0,PSMS,Indonesia,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Kenny Deuchar,27,Scotland,Centre-Forward,CF,,Salt Lake,United States,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),James Grady,36,Scotland,Centre-Forward,CF,250000.0,Hamilton Acad.,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Tony Caig,33,England,Goalkeeper,GK,500000.0,Houston,United States,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),David Cowan,25,England,Right-Back,RB,150000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Niall Henderson,19,Northern Ireland,Central Midfield,CM,,Raith Rovers,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Michael Tait,19,Scotland,Central Midfield,CM,,Newcastle Blue Star,England,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Erik Paartalu,21,Australia,Defensive Midfield,DM,,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Ryan McGuffie,27,Scotland,Right-Back,RB,,Morton,Scotland,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Fraser McLaren,19,Scotland,Right Winger,RW,,Berwick Rangers,England,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Danny Grainger,21,England,Left-Back,LB,,Dundee United,Scotland,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Fraser McLaren,19,Scotland,Right Winger,RW,,Montrose,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Allan Jenkins,26,Scotland,Central Midfield,CM,,Morton,Scotland,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),David Bingham,37,Scotland,Centre-Forward,CF,50000.0,Cowdenbeath,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Mark Birch,30,England,Right-Back,RB,,Newcastle Blue Star,England,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Gretna FC (aufgel.),Fabián Yantorno,25,Uruguay,Central Midfield,CM,1500000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),David Mathieson,30,Scotland,Goalkeeper,GK,100000.0,Retired,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Conor Grant,17,England,Goalkeeper,GK,,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Chris Innes,31,Scotland,Centre-Back,CB,400000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Aurélien Collin,22,France,Centre-Back,CB,350000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Mickaël Buscher,21,France,Left Winger,LW,50000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Colin Scott,37,Scotland,Goalkeeper,GK,,Retired,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Martin Canning,26,Scotland,Centre-Back,CB,50000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Gretna FC (aufgel.),Nicky Faulds,18,Scotland,Centre-Back,CB,,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Laryea Kingston,26,Ghana,Central Midfield,CM,700000.0,Loko Moscow,Russia,750000.0,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Christian Nadé,22,France,Centre-Forward,CF,700000.0,Sheff Utd,England,600000.0,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Michael Stewart,26,Scotland,Central Midfield,CM,475000.0,Hibernian FC,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Rubén Palazuelos,24,Spain,Central Midfield,CM,500000.0,Gimnástica,Spain,0.0,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Kestutis Ivaskevicius,22,Lithuania,Attacking Midfield,AM,100000.0,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Anthony Basso,28,France,Goalkeeper,GK,300000.0,AJ Auxerre,France,0.0,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Audrius Ksanavicius,30,Lithuania,Left Midfield,LM,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Ricardas Beniusis,27,Lithuania,Centre-Forward,CF,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Marius Zaliukas,23,Lithuania,Centre-Back,CB,200000.0,FBK Kaunas,Lithuania,,in,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Eduardas Kurskis,30,Lithuania,Goalkeeper,GK,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Linas Pilibaitis,22,Lithuania,Central Midfield,CM,,FBK Kaunas,Lithuania,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Craig Gordon,24,Scotland,Goalkeeper,GK,1750000.0,Sunderland,England,10820000.0,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Roman Bednár,24,Czech Republic,Centre-Forward,CF,1250000.0,West Brom,England,2950000.0,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Edgaras Jankauskas,32,Lithuania,Centre-Forward,CF,1800000.0,AEK Larnaca,Cyprus,0.0,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Takis Fyssas,34,Greece,Left-Back,LB,2000000.0,Panathinaikos,Greece,0.0,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Julien Brellier,25,France,Central Midfield,CM,500000.0,Norwich,England,0.0,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Craig Sives,21,Scotland,Centre-Back,CB,150000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Jamie Mole,19,England,Centre-Forward,CF,350000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Mirsad Beslija,28,Bosnia-Herzegovina,Right Midfield,RM,1250000.0,Sint-Truiden,Belgium,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Marc McCusker,18,Scotland,Centre-Forward,CF,,Stranraer,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Juho Mäkelä,24,Finland,Centre-Forward,CF,500000.0,HJK Helsinki,Finland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,David Armstrong,20,Northern Ireland,Centre-Back,CB,,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Jamie MacDonald,21,Scotland,Goalkeeper,GK,200000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Matthew Doherty,20,Northern Ireland,Right Winger,RW,,Cowdenbeath,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Denis McLaughlin,20,Ireland,Centre-Forward,CF,,Gimnástica,Spain,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,John Neil,19,Scotland,Right Midfield,RM,75000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Laryea Kingston,26,Ghana,Central Midfield,CM,700000.0,Loko Moscow,Russia,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Nerijus Barasa,29,Lithuania,Right-Back,RB,700000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Marius Zaliukas,23,Lithuania,Centre-Back,CB,200000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Arkadiusz Klimek,32,Poland,Centre-Forward,CF,550000.0,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Arnus Lekevicius,23,Lithuania,Goalkeeper,GK,,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Linas Pilibaitis,22,Lithuania,Central Midfield,CM,,FBK Kaunas,Lithuania,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Heart of Midlothian FC,Fernando Screpis,28,Argentina,Central Midfield,CM,,FBK Kaunas,Lithuania,,in,winter,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Andrius Velicka,28,Lithuania,Centre-Forward,CF,1200000.0,Viking FK,Norway,800000.0,out,winter,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Michal Pospisil,28,Czech Republic,Centre-Forward,CF,600000.0,Sint-Truiden,Belgium,180000.0,out,winter,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Hjálmar Thórarinsson,21,Iceland,Centre-Forward,CF,250000.0,Fram Reykjavík,Iceland,0.0,out,winter,Scottish Premiership,2007,False,
+Heart of Midlothian FC,Marc McCusker,18,Scotland,Centre-Forward,CF,,Clyde FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Heart of Midlothian FC,Denis McLaughlin,20,Ireland,Centre-Forward,CF,,Cowdenbeath,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Torben Joneleit,20,Germany,Centre-Back,CB,300000.0,Monaco B,Monaco,100000.0,in,summer,Scottish Premiership,2007,True,loan with fee
+Hibernian FC,Alan O'Brien,22,Ireland,Left Midfield,LM,650000.0,Newcastle,England,0.0,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Clayton Donaldson,23,Jamaica,Centre-Forward,CF,,York City,England,0.0,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Filipe Morais,21,Portugal,Right Midfield,RM,100000.0,Millwall,England,0.0,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Patrick Noubissie,24,France,Central Midfield,CM,50000.0,Swindon Town,England,0.0,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Mickaël Antoine-Curier,24,Guadeloupe,Centre-Forward,CF,,Haugesund,Norway,25000.0,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Brian Kerr,25,Scotland,Defensive Midfield,DM,750000.0,Motherwell FC,Scotland,,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Thierry Gathuessi,25,Cameroon,Right-Back,RB,75000.0,FC Sète 34,France,,in,summer,Scottish Premiership,2007,False,
+Hibernian FC,Scott Brown,22,Scotland,Central Midfield,CM,6600000.0,Celtic,Scotland,6600000.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Steven Whittaker,23,Scotland,Right-Back,RB,750000.0,Rangers,Scotland,3000000.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Ivan Sproule,26,Northern Ireland,Right Winger,RW,1000000.0,Bristol City,England,520000.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Shelton Martis,24,Curacao,Centre-Back,CB,300000.0,West Brom,England,75000.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Patrick Noubissie,24,France,Central Midfield,CM,50000.0,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Hibernian FC,Jay Shields,21,Scotland,Central Midfield,CM,100000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Sam Morrow,22,Northern Ireland,Centre-Forward,CF,425000.0,Derry City,Ireland,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Jamie McCluskey,19,Scotland,Right Midfield,RM,75000.0,St. Johnstone,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Michael Stewart,26,Scotland,Central Midfield,CM,475000.0,Heart of Midl.,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Simon Brown,30,England,Goalkeeper,GK,350000.0,Brentford,England,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Chris Killen,25,New Zealand,Centre-Forward,CF,450000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Zbigniew Malkowski,29,Poland,Goalkeeper,GK,800000.0,Inverness CT,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Hibernian FC,Kevin McDonald,22,England,Left Midfield,LM,150000.0,Airdrie United,Scotland,,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Stephen Glass,31,Scotland,Left Midfield,LM,850000.0,Dunfermline A.,Scotland,,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,Matthew Curtis,18,Scotland,Goalkeeper,GK,100000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Hibernian FC,Dermot McCaffrey,21,Northern Ireland,Left-Back,LB,,Livingston FC,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Hibernian FC,Thomas Sowunmi,28,Hungary,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Hibernian FC,John Rankin,24,Scotland,Central Midfield,CM,300000.0,Inverness CT,Scotland,160000.0,in,winter,Scottish Premiership,2007,False,
+Hibernian FC,Ian Murray,26,Scotland,Left-Back,LB,2000000.0,Norwich,England,0.0,in,winter,Scottish Premiership,2007,False,
+Hibernian FC,Abderaouf Zarabi,28,Algeria,Left-Back,LB,450000.0,FC Gueugnon,France,0.0,in,winter,Scottish Premiership,2007,False,
+Hibernian FC,Colin Nish,26,Scotland,Centre-Forward,CF,300000.0,Kilmarnock FC,Scotland,,in,winter,Scottish Premiership,2007,False,
+Hibernian FC,Martin Canning,26,Scotland,Centre-Back,CB,50000.0,Without Club,,,in,winter,Scottish Premiership,2007,False,
+Hibernian FC,David Murphy,23,England,Left-Back,LB,1250000.0,Birmingham,England,2250000.0,out,winter,Scottish Premiership,2007,False,
+Hibernian FC,Packie Mailey,19,Ireland,Centre-Back,CB,50000.0,Stenhousemuir,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Mickaël Antoine-Curier,24,Guadeloupe,Centre-Forward,CF,100000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Patrick Noubissie,24,France,Central Midfield,CM,50000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Keegan Ayre,19,Canada,Attacking Midfield,AM,75000.0,Berwick Rangers,England,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Damon Gray,19,England,Centre-Forward,CF,75000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Sean Lynch,21,Scotland,Central Midfield,CM,50000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Hibernian FC,Steven Notman,21,Scotland,Central Midfield,CM,75000.0,Without Club,,,out,winter,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Dean McDonald,21,England,Right Winger,RW,50000.0,Gillingham FC,England,0.0,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Don Cowie,24,Scotland,Right Midfield,RM,50000.0,Ross County,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Marius Niculae,26,Romania,Centre-Forward,CF,1200000.0,1.FSV Mainz 05,Germany,0.0,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Craig Brewster,40,Scotland,Centre-Forward,CF,50000.0,Aberdeen FC,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Zbigniew Malkowski,29,Poland,Goalkeeper,GK,800000.0,Hibernian FC,Scotland,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Guy Kerr,19,Scotland,Centre-Back,CB,,Dunfermline U20,Scotland,,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Ally Ridgers,25,Scotland,Goalkeeper,GK,50000.0,Clachnacuddin,Scotland,,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Steven Watt,22,Scotland,Centre-Back,CB,50000.0,Swansea,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,David Proctor,23,Scotland,Centre-Back,CB,350000.0,Dundee United,Scotland,,in,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Phil McGuire,27,Scotland,Centre-Back,CB,450000.0,Dunfermline A.,Scotland,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Darren Dods,32,Scotland,Centre-Back,CB,300000.0,Dundee United,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Stuart Soane,19,Scotland,Central Midfield,CM,50000.0,Peterhead,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Garry Wood,19,Scotland,Centre-Forward,CF,,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Craig Dargo,29,Scotland,Centre-Forward,CF,1250000.0,St. Mirren,Scotland,,out,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Jonathan Smith,19,Scotland,Goalkeeper,GK,,Nairn County,Scotland,,out,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Zander Sutherland,19,Scotland,Centre-Forward,CF,75000.0,Elgin City,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Ally Ridgers,25,Scotland,Goalkeeper,GK,50000.0,Elgin City,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Gary McSwegan,36,Scotland,Centre-Forward,CF,50000.0,Retired,,,out,summer,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Dougie Imrie,24,Scotland,Right Winger,RW,,Clyde FC,Scotland,75000.0,in,winter,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Phil McGuire,27,Scotland,Centre-Back,CB,350000.0,Dunfermline A.,Scotland,,in,winter,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,John Rankin,24,Scotland,Central Midfield,CM,300000.0,Hibernian FC,Scotland,160000.0,out,winter,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Barry Wilson,35,Scotland,Attacking Midfield,AM,250000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Alan Morgan,24,Scotland,Left Midfield,LM,200000.0,Kilmarnock FC,Scotland,,out,winter,Scottish Premiership,2007,False,
+Inverness Caledonian Thistle FC,Stuart McCaffrey,28,Scotland,Centre-Back,CB,300000.0,St. Johnstone,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Inverness Caledonian Thistle FC,Rory McAllister,20,Scotland,Centre-Forward,CF,150000.0,Peterhead,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Damien Rascle,26,France,Goalkeeper,GK,,US Albi,France,0.0,in,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Ryan Jarvis,21,England,Centre-Forward,CF,850000.0,Norwich,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Mehdi Taouil,24,Morocco,Attacking Midfield,AM,75000.0,Montpellier,France,0.0,in,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Steven Naismith,20,Scotland,Second Striker,SS,750000.0,Rangers,Scotland,2800000.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Graeme Smith,24,Scotland,Goalkeeper,GK,75000.0,Rangers,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Stevie Murray,24,Scotland,Left Winger,LW,50000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Gordon Greer,26,Scotland,Centre-Back,CB,500000.0,Doncaster,England,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Graham Mort,19,Scotland,defence,defence,50000.0,Renfrew FC,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Liam McGuinness,22,Scotland,Left Midfield,LM,50000.0,Kilbirnie,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Peter Leven,23,Scotland,Attacking Midfield,AM,225000.0,Chesterfield FC,England,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Jamie Adams,19,Scotland,Central Midfield,CM,50000.0,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Robert Campbell,21,Scotland,Left-Back,LB,50000.0,Dumbarton,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Andy Barrowman,22,Scotland,Centre-Forward,CF,75000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Paul di Giacomo,25,Scotland,Right Winger,RW,275000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Iain Campbell,22,Scotland,Left-Back,LB,150000.0,Ross County,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Jordan Bryson,18,Scotland,defence,defence,50000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Momo Sylla,30,Guinea,Right Winger,RW,1650000.0,Retired,,,out,summer,Scottish Premiership,2007,False,
+Kilmarnock FC,Rocco Quinn,20,Scotland,Central Midfield,CM,50000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+Kilmarnock FC,Martyn Corrigan,30,Scotland,Centre-Back,CB,500000.0,Motherwell FC,Scotland,0.0,in,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Paul Dalglish,31,Scotland,Centre-Forward,CF,300000.0,Houston,United States,0.0,in,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Mehdi Taouil,24,Morocco,Attacking Midfield,AM,75000.0,Montpellier,France,0.0,in,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Alan Morgan,24,Scotland,Left Midfield,LM,200000.0,Inverness CT,Scotland,,in,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Robert Campbell,21,Scotland,Left-Back,LB,50000.0,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Aimé Koudou,31,Cote d'Ivoire,Centre-Forward,CF,,Portadown,Northern Ireland,0.0,out,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Peter Logan,19,Scotland,Goalkeeper,GK,50000.0,Berwick Rangers,England,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Colin Nish,26,Scotland,Centre-Forward,CF,300000.0,Hibernian FC,Scotland,,out,winter,Scottish Premiership,2007,False,
+Kilmarnock FC,Iain Campbell,22,Scotland,Left-Back,LB,150000.0,Clyde FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Kilmarnock FC,Eric Skora,26,France,Attacking Midfield,AM,150000.0,Retired,,,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Stephen Hughes,24,Scotland,Central Midfield,CM,400000.0,Leicester,England,400000.0,in,summer,Scottish Premiership,2007,False,
+Motherwell FC,Chris Porter,23,England,Centre-Forward,CF,,Oldham Athletic,England,0.0,in,summer,Scottish Premiership,2007,False,
+Motherwell FC,Lewis Grabban,19,Jamaica,Centre-Forward,CF,375000.0,Crystal Palace,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Motherwell FC,Simon Mensing,25,England,Centre-Back,CB,50000.0,St. Johnstone,Scotland,,in,summer,Scottish Premiership,2007,False,
+Motherwell FC,Scott McDonald,23,Australia,Centre-Forward,CF,900000.0,Celtic,Scotland,950000.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Kevin McBride,26,Scotland,Defensive Midfield,DM,450000.0,Darlington,England,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Adam Coakley,19,Scotland,attack,attack,100000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,William Soutar,19,Scotland,Centre-Back,CB,100000.0,Airdrie United,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Trevor Molloy,30,Ireland,Centre-Forward,CF,,Glenavon,Northern Ireland,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Paul Keegan,34,Ireland,Central Midfield,CM,200000.0,Partick Thistle,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Alan Martin,18,Scotland,Goalkeeper,GK,,Leeds,England,0.0,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Simon Mensing,25,England,Centre-Back,CB,50000.0,Hamilton Acad.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Motherwell FC,Brian Kerr,25,Scotland,Defensive Midfield,DM,750000.0,Hibernian FC,Scotland,,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,James Reilly,21,Scotland,Right Winger,RW,50000.0,Unknown,,,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Martyn Corrigan,30,Scotland,Centre-Back,CB,500000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Motherwell FC,David Nixon,19,Scotland,Centre-Back,CB,,Queen o. t. S.,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Motherwell FC,Douglas Calder,21,Scotland,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Motherwell FC,Stevie Hammell,25,Scotland,Left-Back,LB,450000.0,Southend United,England,165000.0,in,winter,Scottish Premiership,2007,False,
+Motherwell FC,Luke Daniels,20,England,Goalkeeper,GK,50000.0,West Brom,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,Simon Lappin,25,Scotland,Central Midfield,CM,450000.0,Norwich,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,Bob Malcolm,27,Scotland,Centre-Back,CB,1000000.0,Derby,England,0.0,in,winter,Scottish Premiership,2007,False,
+Motherwell FC,Martin Grehan,23,Scotland,Centre-Forward,CF,,Dundonald Bluebell JFC,Scotland,,in,winter,Scottish Premiership,2007,False,
+Motherwell FC,Jim Paterson,28,Scotland,Left-Back,LB,750000.0,Plymouth,England,600000.0,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Martyn Corrigan,30,Scotland,Centre-Back,CB,500000.0,Kilmarnock FC,Scotland,0.0,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Simon Mensing,25,England,Centre-Back,CB,150000.0,Hamilton Acad.,Scotland,,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Willie Kinniburgh,23,Scotland,Centre-Back,CB,250000.0,Partick Thistle,Scotland,,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Martin Grehan,23,Scotland,Centre-Forward,CF,50000.0,Forfar Athletic,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,Danny Murphy,25,Ireland,Left-Back,LB,50000.0,Cork City,Ireland,,out,winter,Scottish Premiership,2007,False,
+Motherwell FC,Martyn Corrigan,30,Scotland,Centre-Back,CB,500000.0,Dundee FC,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,David Nixon,19,Scotland,Centre-Back,CB,,Queen o. t. S.,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,Danny Murphy,24,Ireland,Left-Back,LB,50000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Motherwell FC,Willie Kinniburgh,23,Scotland,Centre-Back,CB,250000.0,Partick Thistle,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+Rangers FC,Lee McCulloch,29,Scotland,Centre-Back,CB,900000.0,Wigan,England,3330000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Carlos Cuéllar,25,Spain,Centre-Back,CB,750000.0,CA Osasuna,Spain,3000000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Steven Whittaker,23,Scotland,Right-Back,RB,750000.0,Hibernian FC,Scotland,3000000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Steven Naismith,20,Scotland,Second Striker,SS,750000.0,Kilmarnock FC,Scotland,2800000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Daniel Cousin,30,Gabon,Centre-Forward,CF,4000000.0,Lens,France,1700000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,DaMarcus Beasley,25,United States,Left-Back,LB,3250000.0,PSV Eindhoven,Netherlands,1200000.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Jean-Claude Darcheville,31,French Guiana,Centre-Forward,CF,4500000.0,G. Bordeaux,France,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Kirk Broadfoot,22,Scotland,Centre-Back,CB,325000.0,St. Mirren,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Alan Gow,24,Scotland,Attacking Midfield,AM,375000.0,Falkirk,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Graeme Smith,24,Scotland,Goalkeeper,GK,75000.0,Kilmarnock FC,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Georgios Efrem,17,Cyprus,Right Winger,RW,50000.0,Arsenal Res.,England,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Roy Carroll,29,Northern Ireland,Goalkeeper,GK,2400000.0,West Ham,England,0.0,in,summer,Scottish Premiership,2007,False,
+Rangers FC,Amdy Fayé,30,Senegal,Defensive Midfield,DM,2400000.0,Charlton,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+Rangers FC,Karl Svensson,23,Sweden,Centre-Back,CB,2500000.0,SM Caen,France,1000000.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Gavin Rae,29,Scotland,Central Midfield,CM,1300000.0,Cardiff,England,0.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Libor Sionko,30,Czech Republic,Right Winger,RW,3500000.0,FC Copenhagen,Denmark,0.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Ian Murray,26,Scotland,Left-Back,LB,2000000.0,Norwich,England,0.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Antoine Ponroy,21,France,Centre-Back,CB,100000.0,Cannes,France,0.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Robert Davidson,21,Scotland,Attacking Midfield,AM,50000.0,Dundee FC,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Lee Robinson,21,England,Goalkeeper,GK,75000.0,Morton,Scotland,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Rangers FC,Filip Sebo,23,Slovakia,Centre-Forward,CF,2600000.0,Valenciennes FC,France,0.0,out,summer,Scottish Premiership,2007,True,free loan
+Rangers FC,Stefan Klos,35,Germany,Goalkeeper,GK,,Retired,,,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Dado Prso,32,Croatia,Centre-Forward,CF,,Retired,,,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Amadou Makhtar N'Diaye,25,Senegal,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Sam Woods,19,Scotland,midfield,midfield,,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Steven Campbell,20,Scotland,Centre-Back,CB,,Without Club,,,out,summer,Scottish Premiership,2007,False,
+Rangers FC,Neil Alexander,29,Scotland,Goalkeeper,GK,700000.0,Ipswich,England,750000.0,in,winter,Scottish Premiership,2007,False,
+Rangers FC,Christian Dailly,34,Scotland,Centre-Back,CB,1500000.0,West Ham,England,0.0,in,winter,Scottish Premiership,2007,False,
+Rangers FC,Steven Davis,23,Northern Ireland,Central Midfield,CM,6000000.0,Fulham,England,0.0,in,winter,Scottish Premiership,2007,True,free loan
+Rangers FC,Alan Hutton,23,Scotland,Right-Back,RB,8000000.0,Spurs,England,13000000.0,out,winter,Scottish Premiership,2007,False,
+Rangers FC,Ugo Ehiogu,35,England,Centre-Back,CB,1000000.0,Sheff Utd,England,0.0,out,winter,Scottish Premiership,2007,False,
+Rangers FC,Roy Carroll,30,Northern Ireland,Goalkeeper,GK,1500000.0,Derby,England,0.0,out,winter,Scottish Premiership,2007,False,
+St. Mirren FC,Mark Howard,20,England,Goalkeeper,GK,125000.0,Cardiff,England,0.0,in,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Gary Mason,27,Scotland,Defensive Midfield,DM,375000.0,Dunfermline A.,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Will Haining,24,Scotland,Centre-Back,CB,,Oldham Athletic,England,0.0,in,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Chris Birchall,23,Trinidad and Tobago,Right Midfield,RM,675000.0,Coventry,England,0.0,in,summer,Scottish Premiership,2007,True,free loan
+St. Mirren FC,Paul Mathers,37,Scotland,Goalkeeper,GK,,East Fife,Scotland,0.0,in,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Craig Dargo,29,Scotland,Centre-Forward,CF,1250000.0,Inverness CT,Scotland,,in,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Franco Miranda,22,Argentina,Left-Back,LB,575000.0,C.A.I.,Argentina,0.0,in,summer,Scottish Premiership,2007,True,free loan
+St. Mirren FC,Kirk Broadfoot,22,Scotland,Centre-Back,CB,325000.0,Rangers,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,John Sutton,23,England,Centre-Forward,CF,550000.0,Wycombe,England,0.0,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,John Baird,21,Scotland,Centre-Forward,CF,50000.0,Montrose,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Brian McGinty,30,Scotland,Centre-Forward,CF,50000.0,Irvine Meadow,Scotland,0.0,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Craig Hinchcliffe,35,Scotland,Goalkeeper,GK,150000.0,Partick Thistle,Scotland,,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,David McKenna,20,Scotland,Centre-Forward,CF,150000.0,Stirling Albion,Scotland,,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Tony Bullock,35,England,Goalkeeper,GK,300000.0,Ross County,Scotland,,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Kevin McGowne,37,Scotland,Centre-Back,CB,125000.0,Montrose,Scotland,,out,summer,Scottish Premiership,2007,False,
+St. Mirren FC,Paul Lawson,23,Scotland,Defensive Midfield,DM,175000.0,Celtic,Scotland,0.0,out,summer,Scottish Premiership,2007,True,end of loan
+St. Mirren FC,Andy Dorman,25,Wales,Defensive Midfield,DM,,Revolution,United States,,in,winter,Scottish Premiership,2007,False,
+St. Mirren FC,Jim Hamilton,31,Scotland,Centre-Forward,CF,300000.0,Dunfermline A.,Scotland,,in,winter,Scottish Premiership,2007,False,
+St. Mirren FC,Eddie Malone,22,Scotland,Left-Back,LB,50000.0,Dundee FC,Scotland,30000.0,out,winter,Scottish Premiership,2007,False,
+St. Mirren FC,Arturs Vaiculis,17,Latvia,Goalkeeper,GK,,Rangers Res.,Scotland,,out,winter,Scottish Premiership,2007,False,
+St. Mirren FC,Craig Molloy,21,Scotland,Central Midfield,CM,450000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+St. Mirren FC,Ryan McCay,21,Scotland,Left Midfield,LM,125000.0,Stirling Albion,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan
+St. Mirren FC,Alex Burke,30,Scotland,Central Midfield,CM,100000.0,Dunfermline A.,Scotland,0.0,out,winter,Scottish Premiership,2007,True,free loan

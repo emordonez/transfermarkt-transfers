@@ -1,0 +1,969 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Sandro Tonali,20,Italy,Defensive Midfield,DM,32000000.0,Brescia,Italy,10000000.0,in,summer,Serie A,2020,True,loan with fee
+AC Milan,Ante Rebic,26,Croatia,Left Winger,LW,32000000.0,E. Frankfurt,Germany,5000000.0,in,summer,Serie A,2020,False,
+AC Milan,Jens Petter Hauge,20,Norway,Left Winger,LW,1000000.0,Bodø/Glimt,Norway,5000000.0,in,summer,Serie A,2020,False,
+AC Milan,Alexis Saelemaekers,21,Belgium,Right Winger,RW,8000000.0,RSC Anderlecht,Belgium,3750000.0,in,summer,Serie A,2020,False,
+AC Milan,Simon Kjaer,31,Denmark,Centre-Back,CB,7000000.0,Sevilla FC,Spain,3500000.0,in,summer,Serie A,2020,False,
+AC Milan,Ciprian Tatarusanu,34,Romania,Goalkeeper,GK,1200000.0,Olympique Lyon,France,500000.0,in,summer,Serie A,2020,False,
+AC Milan,Pierre Kalulu,20,France,Right-Back,RB,,Olymp. Lyon B,France,480000.0,in,summer,Serie A,2020,False,
+AC Milan,Brahim Díaz,21,Spain,Attacking Midfield,AM,13500000.0,Real Madrid,Spain,0.0,in,summer,Serie A,2020,True,free loan
+AC Milan,Diogo Dalot,21,Portugal,Right-Back,RB,12000000.0,Man Utd,England,0.0,in,summer,Serie A,2020,True,free loan
+AC Milan,Suso,26,Spain,Right Winger,RW,17500000.0,Sevilla FC,Spain,21000000.0,out,summer,Serie A,2020,False,
+AC Milan,Lucas Paquetá,23,Brazil,Attacking Midfield,AM,20000000.0,Olympique Lyon,France,20000000.0,out,summer,Serie A,2020,False,
+AC Milan,Ricardo Rodríguez,28,Switzerland,Left-Back,LB,3500000.0,Torino,Italy,3000000.0,out,summer,Serie A,2020,False,
+AC Milan,André Silva,24,Portugal,Centre-Forward,CF,24000000.0,E. Frankfurt,Germany,3000000.0,out,summer,Serie A,2020,False,
+AC Milan,Gustavo Gómez,27,Paraguay,Centre-Back,CB,3500000.0,Palmeiras,Brazil,2000000.0,out,summer,Serie A,2020,False,
+AC Milan,Lucas Biglia,34,Argentina,Defensive Midfield,DM,2000000.0,Karagümrük,Turkey,0.0,out,summer,Serie A,2020,False,
+AC Milan,Pepe Reina,38,Spain,Goalkeeper,GK,800000.0,Lazio,Italy,0.0,out,summer,Serie A,2020,False,
+AC Milan,Giacomo Bonaventura,31,Italy,Central Midfield,CM,7000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,False,
+AC Milan,Riccardo Forte,21,Italy,Second Striker,SS,25000.0,Cavese,Italy,0.0,out,summer,Serie A,2020,False,
+AC Milan,Alessandro Plizzari,20,Italy,Goalkeeper,GK,2000000.0,Reggina,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AC Milan,Frank Tsadjout,21,Italy,Centre-Forward,CF,300000.0,Cittadella,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AC Milan,Tommaso Pobega,21,Italy,Central Midfield,CM,4500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AC Milan,Gabriele Bellodi,20,Italy,Centre-Back,CB,300000.0,Alessandria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AC Milan,Diego Laxalt,27,Uruguay,Left-Back,LB,5000000.0,Celtic,Scotland,0.0,out,summer,Serie A,2020,True,free loan
+AC Milan,Ismet Sinani,21,Kosovo,Centre-Forward,CF,,Without Club,,,out,summer,Serie A,2020,False,
+AC Milan,Alen Halilovic,24,Croatia,Attacking Midfield,AM,1000000.0,Without Club,,,out,summer,Serie A,2020,False,
+AC Milan,Simon Kjaer,31,Denmark,Centre-Back,CB,7000000.0,Sevilla FC,Spain,0.0,out,summer,Serie A,2020,True,end of loan
+AC Milan,Asmir Begovic,33,Bosnia-Herzegovina,Goalkeeper,GK,2000000.0,Bournemouth,England,0.0,out,summer,Serie A,2020,True,end of loan
+AC Milan,Alexis Saelemaekers,21,Belgium,Right Winger,RW,8000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Serie A,2020,True,end of loan
+AC Milan,Fikayo Tomori,23,England,Centre-Back,CB,17000000.0,Chelsea,England,2000000.0,in,winter,Serie A,2020,True,loan with fee
+AC Milan,Soualiho Meïté,26,France,Central Midfield,CM,5000000.0,Torino,Italy,500000.0,in,winter,Serie A,2020,True,loan with fee
+AC Milan,Mario Mandzukic,34,Croatia,Centre-Forward,CF,2500000.0,Without Club,,,in,winter,Serie A,2020,False,
+AC Milan,Mateo Musacchio,30,Argentina,Centre-Back,CB,4500000.0,Lazio,Italy,0.0,out,winter,Serie A,2020,False,
+AC Milan,Emir Murati,20,Italy,Central Midfield,CM,75000.0,Vibonese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+AC Milan,Léo Duarte,24,Brazil,Centre-Back,CB,3000000.0,Basaksehir,Turkey,0.0,out,winter,Serie A,2020,True,free loan
+AC Milan,Andrea Conti,26,Italy,Right-Back,RB,7000000.0,Parma,Italy,0.0,out,winter,Serie A,2020,True,free loan
+AC Milan,Lorenzo Colombo,18,Italy,Centre-Forward,CF,1000000.0,Cremonese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+AC Milan,Luan Capanni,20,Brazil,Centre-Forward,CF,100000.0,Racing,Spain,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Alfred Duncan,27,Ghana,Central Midfield,CM,15000000.0,Sassuolo,Italy,15000000.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Pol Lirola,23,Spain,Right-Back,RB,10000000.0,Sassuolo,Italy,11000000.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Christian Kouamé,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,Genoa,Italy,11000000.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Lucas Martínez Quarta,24,Argentina,Centre-Back,CB,10000000.0,River Plate,Argentina,6000000.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Giacomo Bonaventura,31,Italy,Central Midfield,CM,7000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Borja Valero,35,Spain,Central Midfield,CM,1200000.0,Inter,Italy,0.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,José Callejón,33,Spain,Right Winger,RW,7500000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2020,False,
+ACF Fiorentina,Antonio Barreca,25,Italy,Left-Back,LB,3000000.0,Monaco,France,0.0,in,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Jordan Veretout,27,France,Central Midfield,CM,24000000.0,AS Roma,Italy,16000000.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Giovanni Simeone,25,Argentina,Centre-Forward,CF,15000000.0,Cagliari Calcio,Italy,12000000.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Federico Chiesa,22,Italy,Right Winger,RW,48000000.0,Juventus,Italy,10000000.0,out,summer,Serie A,2020,True,loan with fee
+ACF Fiorentina,Bryan Dabo,28,Burkina Faso,Central Midfield,CM,2000000.0,Benevento,Italy,1200000.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Mamadou Touré Diawara,20,Spain,Central Midfield,CM,,Alhaurín,Spain,0.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Amidu Salifu,27,Ghana,Central Midfield,CM,125000.0,Petrolul,Romania,0.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Sebastián Cristóforo,27,Uruguay,Central Midfield,CM,1400000.0,Girona,Spain,0.0,out,summer,Serie A,2020,False,
+ACF Fiorentina,Marco Marozzi,21,Italy,Right Midfield,RM,50000.0,Ravenna,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Julián Illanes,23,Argentina,Centre-Back,CB,100000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Rafik Zekhnini,22,Norway,Left Winger,LW,600000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Federico Ceccherini,28,Italy,Centre-Back,CB,2500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Martin Graiciar,21,Czech Republic,Centre-Forward,CF,450000.0,Mladá Boleslav,Czech Republic,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Riccardo Baroni,22,Italy,Centre-Back,CB,200000.0,Frosinone,Italy,,out,summer,Serie A,2020,False,
+ACF Fiorentina,Kevin-Prince Boateng,33,Ghana,Attacking Midfield,AM,3000000.0,Monza,Italy,,out,summer,Serie A,2020,False,
+ACF Fiorentina,Petko Hristov,21,Bulgaria,Centre-Back,CB,425000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Luca Ranieri,21,Italy,Centre-Back,CB,2000000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Erald Lakti,20,Albania,Central Midfield,CM,150000.0,Renate,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Marco Benassi,26,Italy,Central Midfield,CM,10000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Jacob Rasmussen,23,Denmark,Centre-Back,CB,2800000.0,Vitesse,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Riccardo Sottil,21,Italy,Left Winger,LW,3600000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Marco Meli,20,Italy,Attacking Midfield,AM,100000.0,Ravenna,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Mattia Trovato,22,Italy,Right Winger,RW,125000.0,UC AlbinoLeffe,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Gabriele Gori,21,Italy,Centre-Forward,CF,450000.0,LR Vicenza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Aleksa Terzic,21,Serbia,Left-Back,LB,1300000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Gabriele Ferrarini,20,Italy,Right-Back,RB,250000.0,Venezia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Michele Cerofolini,21,Italy,Goalkeeper,GK,275000.0,Reggiana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+ACF Fiorentina,Cyril Théréau,37,France,Second Striker,SS,200000.0,Retired,,,out,summer,Serie A,2020,False,
+ACF Fiorentina,Pol Lirola,23,Spain,Right-Back,RB,10000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Milan Badelj,31,Croatia,Defensive Midfield,DM,2000000.0,Lazio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Dalbert,26,Brazil,Left-Back,LB,9000000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Rachid Ghezzal,28,Algeria,Right Winger,RW,5500000.0,Leicester,England,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Alfred Duncan,27,Ghana,Central Midfield,CM,15000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Christian Kouamé,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+ACF Fiorentina,Aleksandr Kokorin,29,Russia,Centre-Forward,CF,4500000.0,Spartak Moscow,Russia,4500000.0,in,winter,Serie A,2020,False,
+ACF Fiorentina,Youssef Maleh,22,Italy,Central Midfield,CM,700000.0,Venezia,Italy,700000.0,in,winter,Serie A,2020,False,
+ACF Fiorentina,Antonio Rosati,37,Italy,Goalkeeper,GK,100000.0,Torino,Italy,0.0,in,winter,Serie A,2020,False,
+ACF Fiorentina,Kévin Malcuit,29,France,Right-Back,RB,7000000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Pedro,23,Brazil,Centre-Forward,CF,12000000.0,Flamengo,Brazil,14000000.0,out,winter,Serie A,2020,False,
+ACF Fiorentina,Alfred Duncan,27,Ghana,Central Midfield,CM,12000000.0,Cagliari Calcio,Italy,1000000.0,out,winter,Serie A,2020,True,loan with fee
+ACF Fiorentina,Julián Illanes,23,Argentina,Centre-Back,CB,100000.0,Avellino,Italy,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Josip Maganjic,22,Croatia,Left Winger,LW,100000.0,Siroki Brijeg,Bosnia-Herzegovina,0.0,out,winter,Serie A,2020,False,
+ACF Fiorentina,Christian Koffi,20,France,Left Winger,LW,150000.0,Como,Italy,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Christian Dalle Mura,18,Italy,Centre-Back,CB,500000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Youssef Maleh,22,Italy,Central Midfield,CM,700000.0,Venezia,Italy,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Pol Lirola,23,Spain,Right-Back,RB,8000000.0,Marseille,France,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Riccardo Saponara,29,Italy,Attacking Midfield,AM,2000000.0,Spezia Calcio,Italy,0.0,out,winter,Serie A,2020,True,free loan
+ACF Fiorentina,Nicky Beloko,20,Switzerland,Central Midfield,CM,200000.0,Neuchâtel Xamax,Switzerland,0.0,out,winter,Serie A,2020,True,free loan
+AS Roma,Jordan Veretout,27,France,Central Midfield,CM,24000000.0,Fiorentina,Italy,16000000.0,in,summer,Serie A,2020,False,
+AS Roma,Chris Smalling,30,England,Centre-Back,CB,20000000.0,Man Utd,England,15000000.0,in,summer,Serie A,2020,False,
+AS Roma,Gianluca Mancini,24,Italy,Centre-Back,CB,22000000.0,Atalanta BC,Italy,13000000.0,in,summer,Serie A,2020,False,
+AS Roma,Carles Pérez,22,Spain,Right Winger,RW,9000000.0,FC Barcelona,Spain,11000000.0,in,summer,Serie A,2020,False,
+AS Roma,Marash Kumbulla,20,Albania,Centre-Back,CB,25000000.0,Hellas Verona,Italy,3000000.0,in,summer,Serie A,2020,True,loan with fee
+AS Roma,Borja Mayoral,23,Spain,Centre-Forward,CF,10000000.0,Real Madrid,Spain,2000000.0,in,summer,Serie A,2020,True,loan with fee
+AS Roma,Henrikh Mkhitaryan,31,Armenia,Attacking Midfield,AM,20000000.0,Arsenal,England,0.0,in,summer,Serie A,2020,False,
+AS Roma,Pedro,33,Spain,Right Winger,RW,9500000.0,Chelsea,England,0.0,in,summer,Serie A,2020,False,
+AS Roma,Simone Farelli,37,Italy,Goalkeeper,GK,50000.0,Without Club,,,in,summer,Serie A,2020,False,
+AS Roma,Patrik Schick,24,Czech Republic,Centre-Forward,CF,25000000.0,Bay. Leverkusen,Germany,26500000.0,out,summer,Serie A,2020,False,
+AS Roma,Grégoire Defrel,29,Martinique,Centre-Forward,CF,8000000.0,Sassuolo,Italy,9000000.0,out,summer,Serie A,2020,False,
+AS Roma,Maxime Gonalons,31,France,Defensive Midfield,DM,2800000.0,Granada CF,Spain,4000000.0,out,summer,Serie A,2020,False,
+AS Roma,Cengiz Ünder,23,Turkey,Right Winger,RW,23000000.0,Leicester,England,3000000.0,out,summer,Serie A,2020,True,loan with fee
+AS Roma,Aleksandar Kolarov,34,Serbia,Left-Back,LB,5000000.0,Inter,Italy,1500000.0,out,summer,Serie A,2020,False,
+AS Roma,Justin Kluivert,21,Netherlands,Left Winger,LW,20000000.0,RB Leipzig,Germany,1000000.0,out,summer,Serie A,2020,True,loan with fee
+AS Roma,Alessandro Florenzi,29,Italy,Right-Back,RB,10000000.0,Paris SG,France,1000000.0,out,summer,Serie A,2020,True,loan with fee
+AS Roma,Robin Olsen,30,Sweden,Goalkeeper,GK,5000000.0,Everton,England,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Silvio Anocic,22,Croatia,Left-Back,LB,100000.0,HNK Sibenik,Croatia,0.0,out,summer,Serie A,2020,False,
+AS Roma,Diego Perotti,32,Argentina,Left Winger,LW,4000000.0,Fenerbahce,Turkey,0.0,out,summer,Serie A,2020,False,
+AS Roma,Ludovico D'Orazio,20,Italy,Left Winger,LW,125000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Lorenzo Valeau,21,Italy,Left-Back,LB,150000.0,Casertana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Mert Cetin,23,Turkey,Centre-Back,CB,2000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Moustapha Seck,24,Senegal,Left-Back,LB,250000.0,Leixões,Portugal,,out,summer,Serie A,2020,False,
+AS Roma,Mirko Antonucci,21,Italy,Right Winger,RW,500000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Ante Coric,23,Croatia,Attacking Midfield,AM,1700000.0,VVV-Venlo,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Alessio Riccardi,19,Italy,Attacking Midfield,AM,1200000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Salvatore Pezzella,20,Italy,Central Midfield,CM,250000.0,Reggiana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Daniel Fuzato,23,Brazil,Goalkeeper,GK,400000.0,Gil Vicente,Portugal,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Stefano Greco,21,Italy,Goalkeeper,GK,175000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+AS Roma,Keba Coly,22,Senegal,Left Winger,LW,25000.0,Without Club,,,out,summer,Serie A,2020,False,
+AS Roma,Matias Nani,22,Argentina,Centre-Back,CB,450000.0,Without Club,,,out,summer,Serie A,2020,False,
+AS Roma,Gianluca Mancini,24,Italy,Centre-Back,CB,22000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Jordan Veretout,27,France,Central Midfield,CM,24000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Davide Zappacosta,28,Italy,Right Midfield,RM,12000000.0,Chelsea,England,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Chris Smalling,30,England,Centre-Back,CB,16000000.0,Man Utd,England,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Nikola Kalinic,32,Croatia,Centre-Forward,CF,5500000.0,Atlético Madrid,Spain,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Henrikh Mkhitaryan,31,Armenia,Attacking Midfield,AM,20000000.0,Arsenal,England,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Carles Pérez,22,Spain,Right Winger,RW,9000000.0,FC Barcelona,Spain,0.0,out,summer,Serie A,2020,True,end of loan
+AS Roma,Bryan Reynolds,19,United States,Right-Back,RB,6000000.0,FC Dallas,United States,100000.0,in,winter,Serie A,2020,True,loan with fee
+AS Roma,Stephan El Shaarawy,28,Italy,Left Winger,LW,8000000.0,SH Shenhua,China,0.0,in,winter,Serie A,2020,False,
+AS Roma,Lorenzo Valeau,21,Italy,Left-Back,LB,100000.0,AJ Fano,Italy,0.0,out,winter,Serie A,2020,True,free loan
+AS Roma,Ante Coric,23,Croatia,Attacking Midfield,AM,1000000.0,NK Olimpija,Slovenia,0.0,out,winter,Serie A,2020,True,free loan
+Atalanta BC,Mario Pasalic,25,Croatia,Central Midfield,CM,25000000.0,Chelsea,England,15000000.0,in,summer,Serie A,2020,False,
+Atalanta BC,Aleksey Miranchuk,24,Russia,Attacking Midfield,AM,18000000.0,Loko Moscow,Russia,14500000.0,in,summer,Serie A,2020,False,
+Atalanta BC,Sam Lammers,23,Netherlands,Centre-Forward,CF,7000000.0,PSV Eindhoven,Netherlands,9000000.0,in,summer,Serie A,2020,False,
+Atalanta BC,Simone Muratore,22,Italy,Central Midfield,CM,500000.0,Juventus,Italy,7000000.0,in,summer,Serie A,2020,False,
+Atalanta BC,Cristian Romero,22,Argentina,Centre-Back,CB,14000000.0,Juventus,Italy,2320000.0,in,summer,Serie A,2020,True,loan with fee
+Atalanta BC,Fabio Depaoli,23,Italy,Right-Back,RB,4500000.0,Sampdoria,Italy,600000.0,in,summer,Serie A,2020,True,loan with fee
+Atalanta BC,Johan Mojica,28,Colombia,Left-Back,LB,1600000.0,Girona,Spain,500000.0,in,summer,Serie A,2020,True,loan with fee
+Atalanta BC,Cristiano Piccini,27,Italy,Right-Back,RB,6000000.0,Valencia,Spain,0.0,in,summer,Serie A,2020,True,free loan
+Atalanta BC,Timothy Castagne,24,Belgium,Right-Back,RB,18000000.0,Leicester,England,24000000.0,out,summer,Serie A,2020,False,
+Atalanta BC,Gianluca Mancini,24,Italy,Centre-Back,CB,22000000.0,AS Roma,Italy,13000000.0,out,summer,Serie A,2020,False,
+Atalanta BC,Etrit Berisha,31,Albania,Goalkeeper,GK,2400000.0,SPAL,Italy,3500000.0,out,summer,Serie A,2020,False,
+Atalanta BC,Marco D'Alessandro,29,Italy,Right Winger,RW,1800000.0,SPAL,Italy,3000000.0,out,summer,Serie A,2020,False,
+Atalanta BC,Ebrima Colley,20,The Gambia,Left Winger,LW,800000.0,Hellas Verona,Italy,1500000.0,out,summer,Serie A,2020,True,loan with fee
+Atalanta BC,Gaetano Monachello,26,Italy,Centre-Forward,CF,300000.0,Modena,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Andrea Boffelli,23,Italy,Centre-Back,CB,225000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Aimone Calì,23,Italy,Centre-Forward,CF,,Viterbese,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Lorenzo Migliorelli,22,Italy,Left-Back,LB,175000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Alessandro Eleuteri,22,Italy,Right-Back,RB,200000.0,Vis Pesaro,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Matteo Pedrini,20,Italy,Left Winger,LW,50000.0,Grosseto,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Davide Ghidini,22,Italy,Central Midfield,CM,50000.0,Rigamonti Cast.,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Stefano Marchetti,22,Italy,Centre-Back,CB,75000.0,Giana Erminio,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Tiziano Tulissi,23,Italy,Right Winger,RW,250000.0,Modena,Italy,0.0,out,summer,Serie A,2020,False,
+Atalanta BC,Marco Carraro,22,Italy,Defensive Midfield,DM,1400000.0,Frosinone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Roberto Piccoli,19,Italy,Centre-Forward,CF,1000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Federico Mattiello,25,Italy,Right-Back,RB,2000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Alberto Dossena,21,Italy,Centre-Back,CB,275000.0,Avellino,Italy,,out,summer,Serie A,2020,False,
+Atalanta BC,Filippo Melegoni,21,Italy,Central Midfield,CM,900000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Erdis Kraja,20,Albania,Central Midfield,CM,50000.0,Grosseto,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Christian Capone,21,Italy,Left Winger,LW,900000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Raoul Bellanova,20,Italy,Right-Back,RB,900000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Arkadiusz Reca,25,Poland,Left Midfield,LM,2400000.0,Crotone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Salvatore Elia,21,Italy,Right Winger,RW,350000.0,Perugia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Nicolas Haas,24,Switzerland,Central Midfield,CM,1500000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Riccardo Gatti,23,Italy,Centre-Back,CB,200000.0,Reggiana,Italy,,out,summer,Serie A,2020,False,
+Atalanta BC,Thomas Bolis,22,Italy,Defensive Midfield,DM,100000.0,Ravenna,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Enrico Del Prato,20,Italy,Right-Back,RB,1100000.0,Reggina,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Isnik Alimi,26,Albania,Central Midfield,CM,150000.0,HNK Sibenik,Croatia,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Lorenzo Peli,20,Italy,Right Winger,RW,175000.0,Reggina,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Andrea Colpani,21,Italy,Central Midfield,CM,800000.0,Monza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Eyob Zambataro,22,Italy,Left-Back,LB,200000.0,Monopoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Matteo Salvi,21,Italy,Centre-Back,CB,50000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Stefano Mazzini,21,Italy,Goalkeeper,GK,150000.0,Carrarese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Simone Muratore,22,Italy,Central Midfield,CM,500000.0,Reggiana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Alberto Alari,21,Italy,Centre-Back,CB,75000.0,Ravenna,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Enrico Zanoni,21,Italy,Left-Back,LB,75000.0,Ravenna,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Alessandro Mallamo,21,Italy,Left Winger,LW,350000.0,Pordenone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Christian Mora,22,Italy,Right-Back,RB,250000.0,Alessandria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Lennart Czyborra,21,Germany,Left Midfield,LM,3500000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Davide Bettella,20,Italy,Centre-Back,CB,2000000.0,Monza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Emmanuel Latte Lath,21,Cote d'Ivoire,Centre-Forward,CF,175000.0,Pro Patria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Atalanta BC,Roberto Taliento,21,Italy,Goalkeeper,GK,75000.0,Without Club,,,out,summer,Serie A,2020,False,
+Atalanta BC,Modou Badjie,23,The Gambia,Central Midfield,CM,,Without Club,,,out,summer,Serie A,2020,False,
+Atalanta BC,Mario Pasalic,25,Croatia,Central Midfield,CM,25000000.0,Chelsea,England,0.0,out,summer,Serie A,2020,True,end of loan
+Atalanta BC,Joakim Maehle,23,Denmark,Right-Back,RB,10000000.0,KRC Genk,Belgium,11000000.0,in,winter,Serie A,2020,False,
+Atalanta BC,Viktor Kovalenko,24,Ukraine,Attacking Midfield,AM,6000000.0,Shakhtar D.,Ukraine,700000.0,in,winter,Serie A,2020,False,
+Atalanta BC,Amad Diallo,18,Cote d'Ivoire,Right Winger,RW,15000000.0,Man Utd,England,21000000.0,out,winter,Serie A,2020,False,
+Atalanta BC,Papu Gómez,32,Argentina,Second Striker,SS,15000000.0,Sevilla FC,Spain,5500000.0,out,winter,Serie A,2020,False,
+Atalanta BC,Riccardo Burgio,19,Italy,Left Midfield,LM,250000.0,Renate,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Atalanta BC,Matteo Pedrini,20,Italy,Left Winger,LW,75000.0,Bisceglie,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Atalanta BC,Rilind Nivokazi,21,Kosovo,Centre-Forward,CF,25000.0,Foggia,Italy,0.0,out,winter,Serie A,2020,False,
+Atalanta BC,Marco Carnesecchi,20,Italy,Goalkeeper,GK,2000000.0,Cremonese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Atalanta BC,Lorenzo Peli,20,Italy,Right Winger,RW,175000.0,Como,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Atalanta BC,Marco Tumminello,22,Italy,Centre-Forward,CF,1200000.0,SPAL,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Benevento Calcio,Gianluca Lapadula,30,Peru,Centre-Forward,CF,5000000.0,Genoa,Italy,4000000.0,in,summer,Serie A,2020,False,
+Benevento Calcio,Kamil Glik,32,Poland,Centre-Back,CB,3500000.0,Monaco,France,3000000.0,in,summer,Serie A,2020,False,
+Benevento Calcio,Gianluca Caprari,27,Italy,Left Winger,LW,6500000.0,Sampdoria,Italy,1300000.0,in,summer,Serie A,2020,True,loan with fee
+Benevento Calcio,Bryan Dabo,28,Burkina Faso,Central Midfield,CM,2000000.0,Fiorentina,Italy,1200000.0,in,summer,Serie A,2020,False,
+Benevento Calcio,Artur Ionita,30,Moldova,Central Midfield,CM,2500000.0,Cagliari Calcio,Italy,1000000.0,in,summer,Serie A,2020,False,
+Benevento Calcio,Daam Foulon,21,Belgium,Left-Back,LB,625000.0,Waasl.-Beveren,Belgium,500000.0,in,summer,Serie A,2020,False,
+Benevento Calcio,Iago Falque,30,Spain,Right Winger,RW,6000000.0,Torino,Italy,500000.0,in,summer,Serie A,2020,True,loan with fee
+Benevento Calcio,Federico Barba,27,Italy,Centre-Back,CB,1300000.0,Chievo Verona,Italy,,in,summer,Serie A,2020,False,
+Benevento Calcio,Gianluca Di Chiara,26,Italy,Left-Back,LB,900000.0,Perugia,Italy,1000000.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Massimo Coda,31,Italy,Centre-Forward,CF,1400000.0,Lecce,Italy,0.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Bright Gyamfi,24,Ghana,Right-Back,RB,200000.0,Reggiana,Italy,0.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Francesco Rillo,20,Italy,Left-Back,LB,60000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Samuel Armenteros,30,Sweden,Centre-Forward,CF,1000000.0,Fujairah SC,United Arab Emirates,0.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Yacine Nembot,20,Cameroon,Central Midfield,CM,25000.0,Puteolana,Italy,0.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Alessio Donnarumma,22,Italy,Central Midfield,CM,50000.0,Nocerina,Italy,0.0,out,summer,Serie A,2020,False,
+Benevento Calcio,Cy Goddard,23,Japan,Attacking Midfield,AM,25000.0,Mumbai City,India,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Jean-Claude Billong,26,France,Centre-Back,CB,500000.0,Hatayspor,Turkey,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Salvatore Tazza,22,Italy,Right-Back,RB,150000.0,Cavese,Italy,,out,summer,Serie A,2020,False,
+Benevento Calcio,Luca Antei,28,Italy,Centre-Back,CB,1100000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Dejan Vokić,24,Slovenia,Attacking Midfield,AM,100000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Giovanni Volpicelli,21,Italy,Central Midfield,CM,100000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Oliver Kragl,30,Germany,Left Midfield,LM,1500000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Pietro Iemmello,28,Italy,Centre-Forward,CF,3000000.0,UD Las Palmas,Spain,0.0,out,summer,Serie A,2020,True,free loan
+Benevento Calcio,Federico Barba,26,Italy,Centre-Back,CB,1300000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Benevento Calcio,Adolfo Gaich,21,Argentina,Centre-Forward,CF,9000000.0,CSKA Moscow,Russia,300000.0,in,winter,Serie A,2020,True,loan with fee
+Benevento Calcio,Fabio Depaoli,23,Italy,Right-Back,RB,4000000.0,Sampdoria,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Benevento Calcio,Christian Maggio,38,Italy,Right-Back,RB,300000.0,Lecce,Italy,0.0,out,winter,Serie A,2020,False,
+Benevento Calcio,Lorenzo Del Pinto,30,Italy,Central Midfield,CM,250000.0,Reggiana,Italy,,out,winter,Serie A,2020,False,
+Benevento Calcio,Francesco Rillo,20,Italy,Left-Back,LB,50000.0,Casertana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Benevento Calcio,Arturo Onda,19,Italy,Right-Back,RB,25000.0,Gelbison,Italy,,out,winter,Serie A,2020,False,
+Benevento Calcio,Giovanni Volpicelli,21,Italy,Central Midfield,CM,75000.0,Paganese,Italy,,out,winter,Serie A,2020,False,
+Benevento Calcio,Pietro Iemmello,28,Italy,Centre-Forward,CF,1500000.0,Frosinone,Italy,,out,winter,Serie A,2020,False,
+Benevento Calcio,Massimo Volta,33,Italy,Centre-Back,CB,300000.0,Pescara,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Aaron Hickey,18,Scotland,Left-Back,LB,600000.0,Heart of Midl.,Scotland,2000000.0,in,summer,Serie A,2020,False,
+Bologna FC 1909,Edoardo Vergani,19,Italy,Centre-Forward,CF,400000.0,Inter U19,Italy,800000.0,in,summer,Serie A,2020,True,loan with fee
+Bologna FC 1909,Lorenzo De Silvestri,32,Italy,Right-Back,RB,2500000.0,Torino,Italy,0.0,in,summer,Serie A,2020,False,
+Bologna FC 1909,Luis Binks,18,England,Centre-Back,CB,100000.0,CF Montréal,United States,,in,summer,Serie A,2020,False,
+Bologna FC 1909,Sebastian Breza,22,Canada,Goalkeeper,GK,100000.0,Potenza,Italy,,in,summer,Serie A,2020,False,
+Bologna FC 1909,Mattia Bani,26,Italy,Centre-Back,CB,3200000.0,Genoa,Italy,3500000.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Ladislav Krejci,28,Czech Republic,Left Midfield,LM,2200000.0,Sparta Prague,Czech Republic,0.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Nicola Ghini,20,Italy,Central Midfield,CM,75000.0,Pianese,Italy,0.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Emiliano Pattarello,21,Italy,Right Winger,RW,75000.0,Calvi Noale,Italy,0.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Alessandro Bianconi,21,Italy,Centre-Back,CB,25000.0,Gozzano,Italy,0.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Mattia Destro,29,Italy,Centre-Forward,CF,1800000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,False,
+Bologna FC 1909,Diego Falcinelli,29,Italy,Centre-Forward,CF,1200000.0,Red Star,Serbia,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Musa Juwara,18,The Gambia,Left Winger,LW,2000000.0,Boavista,Portugal,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Godfred Donsah,24,Ghana,Central Midfield,CM,2400000.0,C. Rizespor,Turkey,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Gianmarco Cangiano,18,Italy,Left Winger,LW,500000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Gabriele Corbo,20,Italy,Centre-Back,CB,800000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Antonio Santurro,28,Italy,Goalkeeper,GK,100000.0,Catania,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Mouhamadou Sarr,23,Senegal,Goalkeeper,GK,100000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,César Falletti,27,Uruguay,Attacking Midfield,AM,1400000.0,Ternana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Fabrizio Brignani,22,Italy,Centre-Back,CB,150000.0,Vis Pesaro,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Tommaso Cassandro,20,Italy,Right-Back,RB,200000.0,Cittadella,Italy,,out,summer,Serie A,2020,False,
+Bologna FC 1909,Luis Binks,18,England,Centre-Back,CB,100000.0,CF Montréal,United States,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Hamza El Kaouakibi,22,Morocco,Right-Back,RB,75000.0,Südtirol,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Sebastian Breza,23,Canada,Goalkeeper,GK,100000.0,CF Montréal,United States,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Juan Manuel Valencia,22,Colombia,Central Midfield,CM,200000.0,Baltika,Russia,0.0,out,summer,Serie A,2020,True,free loan
+Bologna FC 1909,Luca Rizzo,28,Italy,Central Midfield,CM,300000.0,Without Club,,,out,summer,Serie A,2020,False,
+Bologna FC 1909,Sebastian Breza,22,Canada,Goalkeeper,GK,100000.0,Potenza,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Bologna FC 1909,Valentin Antov,20,Bulgaria,Centre-Back,CB,1000000.0,CSKA-Sofia,Bulgaria,500000.0,in,winter,Serie A,2020,True,loan with fee
+Bologna FC 1909,Adama Soumaoro,28,France,Centre-Back,CB,3500000.0,LOSC Lille,France,0.0,in,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Paolo Faragò,27,Italy,Right-Back,RB,3000000.0,Cagliari Calcio,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Stefano Denswil,27,Netherlands,Centre-Back,CB,4000000.0,Club Brugge,Belgium,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Arturo Calabresi,24,Italy,Centre-Back,CB,1800000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Alex Cossalter,20,Italy,Left Winger,LW,50000.0,Union Feltre,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Nehuén Paz,27,Argentina,Centre-Back,CB,700000.0,Kayserispor,Turkey,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Orji Okwonkwo,23,Nigeria,Right Winger,RW,800000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Bologna FC 1909,Kingsley Michael,21,Nigeria,Central Midfield,CM,600000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Marko Rog,25,Croatia,Central Midfield,CM,13000000.0,SSC Napoli,Italy,13000000.0,in,summer,Serie A,2020,False,
+Cagliari Calcio,Giovanni Simeone,25,Argentina,Centre-Forward,CF,15000000.0,Fiorentina,Italy,12000000.0,in,summer,Serie A,2020,False,
+Cagliari Calcio,Alessandro Tripaldelli,21,Italy,Left-Back,LB,450000.0,Sassuolo,Italy,3000000.0,in,summer,Serie A,2020,False,
+Cagliari Calcio,Zito Luvumbo,18,Angola,Right Winger,RW,,1º de Agosto,Angola,1000000.0,in,summer,Serie A,2020,False,
+Cagliari Calcio,Diego Godín,34,Uruguay,Centre-Back,CB,5000000.0,Inter,Italy,0.0,in,summer,Serie A,2020,False,
+Cagliari Calcio,Răzvan Marin,24,Romania,Central Midfield,CM,8000000.0,Ajax,Netherlands,0.0,in,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Gabriele Zappa,20,Italy,Right-Back,RB,2500000.0,Pescara,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Riccardo Sottil,21,Italy,Left Winger,LW,3600000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Matteo Tramoni,20,France,Left Winger,LW,1500000.0,AC Ajaccio,France,,in,summer,Serie A,2020,False,
+Cagliari Calcio,Adam Ounas,23,Algeria,Right Winger,RW,8000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Nicolò Barella,23,Italy,Central Midfield,CM,50000000.0,Inter,Italy,28000000.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Filippo Romagna,23,Italy,Centre-Back,CB,4500000.0,Sassuolo,Italy,4000000.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Lucas Castro,31,Argentina,Attacking Midfield,AM,2200000.0,SPAL,Italy,3000000.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Artur Ionita,30,Moldova,Central Midfield,CM,2500000.0,Benevento,Italy,1000000.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Diego Farias,30,Brazil,Left Winger,LW,3500000.0,Spezia Calcio,Italy,500000.0,out,summer,Serie A,2020,True,loan with fee
+Cagliari Calcio,Senna Miangue,23,Congo,Left-Back,LB,800000.0,KAS Eupen,Belgium,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Luca Crosta,22,Italy,Goalkeeper,GK,150000.0,Alessandria,Italy,0.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Rafael,38,Brazil,Goalkeeper,GK,200000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Luca Cigarini,34,Italy,Defensive Midfield,DM,800000.0,Crotone,Italy,0.0,out,summer,Serie A,2020,False,
+Cagliari Calcio,Federico Marigosu,19,Italy,Attacking Midfield,AM,250000.0,Olbia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Luca Gagliano,20,Italy,Centre-Forward,CF,800000.0,Olbia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Damir Ceter,22,Colombia,Centre-Forward,CF,450000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Alessandro Deiola,25,Italy,Central Midfield,CM,1000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Riccardo Ladinetti,19,Italy,Defensive Midfield,DM,350000.0,Olbia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Filip Bradaric,28,Croatia,Defensive Midfield,DM,3200000.0,Al-Ain,Saudi Arabia,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Daniele Ragatzu,28,Italy,Centre-Forward,CF,400000.0,Without Club,,,out,summer,Serie A,2020,False,
+Cagliari Calcio,Fabrizio Cacciatore,33,Italy,Right-Back,RB,700000.0,Without Club,,,out,summer,Serie A,2020,False,
+Cagliari Calcio,Kiril Despodov,23,Bulgaria,Right Winger,RW,3200000.0,Ludogorets,Bulgaria,0.0,out,summer,Serie A,2020,True,free loan
+Cagliari Calcio,Luca Pellegrini,21,Italy,Left Midfield,LM,13500000.0,Juventus,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Federico Mattiello,25,Italy,Right-Back,RB,2000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Radja Nainggolan,32,Belgium,Attacking Midfield,AM,15000000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Robin Olsen,30,Sweden,Goalkeeper,GK,6500000.0,AS Roma,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Giovanni Simeone,25,Argentina,Centre-Forward,CF,15000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Alberto Paloschi,30,Italy,Centre-Forward,CF,1200000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Marko Rog,25,Croatia,Central Midfield,CM,13000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Cagliari Calcio,Alfred Duncan,27,Ghana,Central Midfield,CM,12000000.0,Fiorentina,Italy,1000000.0,in,winter,Serie A,2020,True,loan with fee
+Cagliari Calcio,Daniele Rugani,26,Italy,Centre-Back,CB,10000000.0,Juventus,Italy,800000.0,in,winter,Serie A,2020,True,loan with fee
+Cagliari Calcio,Radja Nainggolan,32,Belgium,Attacking Midfield,AM,6000000.0,Inter,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Arturo Calabresi,24,Italy,Centre-Back,CB,1800000.0,Bologna,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Kwadwo Asamoah,32,Ghana,Left Midfield,LM,2000000.0,Without Club,,,in,winter,Serie A,2020,False,
+Cagliari Calcio,Fabio Pisacane,34,Italy,Centre-Back,CB,800000.0,Lecce,Italy,0.0,out,winter,Serie A,2020,False,
+Cagliari Calcio,Simone Pinna,23,Italy,Right-Back,RB,200000.0,Ascoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Paolo Faragò,27,Italy,Right-Back,RB,3000000.0,Bologna,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Marko Pajac,27,Croatia,Left Midfield,LM,500000.0,Brescia,Italy,,out,winter,Serie A,2020,False,
+Cagliari Calcio,Fabrizio Caligara,20,Italy,Central Midfield,CM,500000.0,Ascoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Christian Oliva,24,Uruguay,Defensive Midfield,DM,3200000.0,Valencia,Spain,0.0,out,winter,Serie A,2020,True,free loan
+Cagliari Calcio,Valter Birsa,34,Slovenia,Attacking Midfield,AM,1000000.0,Without Club,,,out,winter,Serie A,2020,False,
+FC Crotone,Luis Rojas,18,Chile,Attacking Midfield,AM,,U. de Chile,Chile,2400000.0,in,summer,Serie A,2020,False,
+FC Crotone,Jacopo Petriccione,25,Italy,Defensive Midfield,DM,3000000.0,Lecce,Italy,1500000.0,in,summer,Serie A,2020,False,
+FC Crotone,Luca Marrone,30,Italy,Centre-Back,CB,750000.0,Hellas Verona,Italy,1000000.0,in,summer,Serie A,2020,False,
+FC Crotone,Milos Vulic,24,Serbia,Central Midfield,CM,1600000.0,Red Star,Serbia,800000.0,in,summer,Serie A,2020,False,
+FC Crotone,Sebastiano Luperto,24,Italy,Centre-Back,CB,3500000.0,SSC Napoli,Italy,500000.0,in,summer,Serie A,2020,True,loan with fee
+FC Crotone,Luca Cigarini,34,Italy,Defensive Midfield,DM,800000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2020,False,
+FC Crotone,Emmanuel Rivière,30,Martinique,Centre-Forward,CF,850000.0,Cosenza,Italy,0.0,in,summer,Serie A,2020,False,
+FC Crotone,Lisandro Magallán,26,Argentina,Centre-Back,CB,4800000.0,Ajax,Netherlands,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Andrea Rispoli,31,Italy,Right Midfield,RM,700000.0,Lecce,Italy,,in,summer,Serie A,2020,False,
+FC Crotone,Eduardo Henrique,25,Brazil,Defensive Midfield,DM,2400000.0,Sporting CP,Portugal,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Denis Dragus,21,Romania,Centre-Forward,CF,1300000.0,Standard Liège,Belgium,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Pedro Pereira,22,Portugal,Right Midfield,RM,1800000.0,Benfica,Portugal,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Arkadiusz Reca,25,Poland,Left Midfield,LM,2400000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Giovanni Bruzzaniti,20,Italy,Left Winger,LW,50000.0,Pro Vercelli,Italy,,in,summer,Serie A,2020,False,
+FC Crotone,Koffi Djidji,27,Cote d'Ivoire,Centre-Back,CB,3000000.0,Torino,Italy,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Luca Siligardi,32,Italy,Right Winger,RW,500000.0,Parma,Italy,0.0,in,summer,Serie A,2020,True,free loan
+FC Crotone,Andrea Barberis,26,Italy,Defensive Midfield,DM,1700000.0,Monza,Italy,0.0,out,summer,Serie A,2020,False,
+FC Crotone,Mateo Itrak,20,Croatia,Central Midfield,CM,50000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2020,False,
+FC Crotone,Francesco Rodio,19,Italy,Left-Back,LB,75000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Luka Markovic,20,Serbia,Centre-Forward,CF,75000.0,Red Star,Serbia,0.0,out,summer,Serie A,2020,False,
+FC Crotone,Nicola Nanni,20,San Marino,Centre-Forward,CF,50000.0,Cesena,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Giuseppe Borello,21,Italy,Right Winger,RW,300000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Maxi López,36,Argentina,Centre-Forward,CF,300000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2020,False,
+FC Crotone,Giacomo Figliuzzi,19,Italy,Goalkeeper,GK,50000.0,Gozzano,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Jeremy Petris,22,France,Right Midfield,RM,150000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Jean Lambert Evan's Allan,21,France,Left Winger,LW,200000.0,Catanzaro,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Giovanni Bruzzaniti,20,Italy,Left Winger,LW,50000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Guillaume Gigliotti,30,France,Centre-Back,CB,250000.0,Chievo Verona,Italy,,out,summer,Serie A,2020,False,
+FC Crotone,Alessandro Garattoni,22,Italy,Right-Back,RB,100000.0,Juve Stabia,Italy,,out,summer,Serie A,2020,False,
+FC Crotone,Augustus Kargbo,21,Sierra Leone,Second Striker,SS,500000.0,Reggiana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Zak Ruggiero,19,Italy,Second Striker,SS,100000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Pasquale Giannotti,21,Italy,Central Midfield,CM,150000.0,V. Francavilla,Italy,0.0,out,summer,Serie A,2020,True,free loan
+FC Crotone,Nicolás Spolli,37,Argentina,Centre-Back,CB,200000.0,Retired,,,out,summer,Serie A,2020,False,
+FC Crotone,Marcos Curado,25,Argentina,Centre-Back,CB,400000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Gabriele Bellodi,19,Italy,Centre-Back,CB,300000.0,AC Milan,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Luca Marrone,30,Italy,Centre-Back,CB,750000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Samuel Armenteros,30,Sweden,Centre-Forward,CF,1000000.0,Benevento,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Alberto Gerbo,30,Italy,Central Midfield,CM,400000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Marko Jankovic,25,Montenegro,Right Winger,RW,800000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+FC Crotone,Samuel Di Carmine,32,Italy,Centre-Forward,CF,1500000.0,Hellas Verona,Italy,0.0,in,winter,Serie A,2020,True,free loan
+FC Crotone,Adam Ounas,24,Algeria,Right Winger,RW,8000000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2020,True,free loan
+FC Crotone,Giuseppe Borello,21,Italy,Right Winger,RW,250000.0,Cesena,Italy,0.0,out,winter,Serie A,2020,True,free loan
+FC Crotone,Tomislav Gomelt,26,Croatia,Central Midfield,CM,200000.0,ADO Den Haag,Netherlands,0.0,out,winter,Serie A,2020,False,
+FC Crotone,Francesco Rodio,19,Italy,Left-Back,LB,50000.0,AJ Fano,Italy,0.0,out,winter,Serie A,2020,True,free loan
+FC Crotone,Federico Panza,19,Italy,Centre-Back,CB,50000.0,Biancavilla,Italy,0.0,out,winter,Serie A,2020,False,
+FC Crotone,Mattia Mustacchio,31,Italy,Right Winger,RW,400000.0,Alessandria,Italy,,out,winter,Serie A,2020,False,
+FC Crotone,Giovanni Crociata,23,Italy,Central Midfield,CM,1000000.0,FC Empoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+FC Crotone,Jean Lambert Evan's Allan,22,France,Left Winger,LW,200000.0,AS Livorno,Italy,0.0,out,winter,Serie A,2020,True,free loan
+FC Crotone,Zak Ruggiero,20,Italy,Second Striker,SS,100000.0,Pro Sesto,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Andrea Pinamonti,21,Italy,Centre-Forward,CF,13500000.0,Inter,Italy,19500000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Eldor Shomurodov,25,Uzbekistan,Centre-Forward,CF,6500000.0,Rostov,Russia,7500000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Francesco Cassata,23,Italy,Central Midfield,CM,2500000.0,Sassuolo,Italy,7000000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Mattia Bani,26,Italy,Centre-Back,CB,3200000.0,Bologna,Italy,3500000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Gabriel Charpentier,21,France,Centre-Forward,CF,225000.0,Spartaks,Latvia,1500000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Giuseppe Caso,21,Italy,Left Winger,LW,200000.0,Arezzo,Italy,250000.0,in,summer,Serie A,2020,False,
+Genoa CFC,Mattia Destro,29,Italy,Centre-Forward,CF,1800000.0,Bologna,Italy,0.0,in,summer,Serie A,2020,False,
+Genoa CFC,Milan Badelj,31,Croatia,Defensive Midfield,DM,2000000.0,Lazio,Italy,0.0,in,summer,Serie A,2020,False,
+Genoa CFC,Davide Zappacosta,28,Italy,Right Midfield,RM,10000000.0,Chelsea,England,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Riccardo Correnti,19,Italy,Left Midfield,LM,50000.0,FC Messina,Italy,0.0,in,summer,Serie A,2020,False,
+Genoa CFC,Lennart Czyborra,21,Germany,Left Midfield,LM,3500000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Miha Zajc,26,Slovenia,Central Midfield,CM,2700000.0,Fenerbahce,Turkey,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Filippo Melegoni,21,Italy,Central Midfield,CM,900000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Joel Asoro,21,Sweden,Centre-Forward,CF,1300000.0,Swansea,England,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Marko Pjaca,25,Croatia,Left Winger,LW,5000000.0,Juventus,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Darian Males,19,Switzerland,Centre-Forward,CF,2000000.0,Inter,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Luca Pellegrini,21,Italy,Left Midfield,LM,13500000.0,Juventus,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Gianluca Scamacca,21,Italy,Centre-Forward,CF,5000000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Alberto Paleari,28,Italy,Goalkeeper,GK,1000000.0,Cittadella,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Genoa CFC,Davide Castelli,21,Italy,Centre-Forward,CF,,FC Villarreal C,Spain,,in,summer,Serie A,2020,False,
+Genoa CFC,Christian Kouamé,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,Fiorentina,Italy,11000000.0,out,summer,Serie A,2020,False,
+Genoa CFC,Andrea Pinamonti,21,Italy,Centre-Forward,CF,13500000.0,Inter,Italy,8000000.0,out,summer,Serie A,2020,False,
+Genoa CFC,Gianluca Lapadula,30,Peru,Centre-Forward,CF,5000000.0,Benevento,Italy,4000000.0,out,summer,Serie A,2020,False,
+Genoa CFC,Koray Günter,26,Germany,Centre-Back,CB,4500000.0,Hellas Verona,Italy,2000000.0,out,summer,Serie A,2020,False,
+Genoa CFC,Jawad El Yamiq,28,Morocco,Centre-Back,CB,800000.0,Real Valladolid,Spain,1250000.0,out,summer,Serie A,2020,False,
+Genoa CFC,Oscar Hiljemark,28,Sweden,Central Midfield,CM,1500000.0,Aalborg BK,Denmark,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Nicholas Rizzo,20,Italy,Centre-Back,CB,100000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Matteo Piccardo,20,Italy,Right-Back,RB,150000.0,Pergolettese,Italy,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Nermin Karić,21,Sweden,Central Midfield,CM,75000.0,Südtirol,Italy,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Sebastian Eriksson,31,Sweden,Left-Back,LB,650000.0,IFK Göteborg,Sweden,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Sinan Gümüs,26,Germany,Right Winger,RW,1500000.0,Fenerbahce,Turkey,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Salvador Ichazo,28,Uruguay,Goalkeeper,GK,300000.0,Danubio FC,Uruguay,0.0,out,summer,Serie A,2020,False,
+Genoa CFC,Filip Jagiello,23,Poland,Central Midfield,CM,1400000.0,Brescia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Davide Castelli,21,Italy,Centre-Forward,CF,,Pro Patria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Claudio Spinelli,23,Argentina,Centre-Forward,CF,500000.0,FC Koper,Slovenia,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Marcos Curado,25,Argentina,Centre-Back,CB,400000.0,Frosinone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Peter Ankersen,30,Denmark,Right-Back,RB,1000000.0,FC Copenhagen,Denmark,,out,summer,Serie A,2020,False,
+Genoa CFC,Raúl Asencio,22,Spain,Centre-Forward,CF,850000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Riccardo Correnti,19,Italy,Left Midfield,LM,50000.0,Savoia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Andrea Cambiaso,20,Italy,Right-Back,RB,150000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Pawel Jaroszynski,25,Poland,Left-Back,LB,450000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Andrea Favilli,23,Italy,Centre-Forward,CF,4000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Kevin Agudelo,21,Colombia,Right Winger,RW,3500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Giacomo Calò,23,Italy,Defensive Midfield,DM,1000000.0,Pordenone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Luigi Carillo,24,Italy,Centre-Back,CB,100000.0,Casertana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Stephane Omeonga,24,Belgium,Central Midfield,CM,700000.0,Pescara,Italy,,out,summer,Serie A,2020,False,
+Genoa CFC,András Schäfer,21,Hungary,Central Midfield,CM,400000.0,Dunajska Streda,Slovakia,,out,summer,Serie A,2020,False,
+Genoa CFC,Gabriel Charpentier,21,France,Centre-Forward,CF,225000.0,Reggina,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Nicola Dalmonte,22,Italy,Left Midfield,LM,800000.0,LR Vicenza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Antonio Candela,20,Italy,Right-Back,RB,350000.0,Pergolettese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Genoa CFC,Rômulo,33,Italy,Central Midfield,CM,1000000.0,Without Club,,,out,summer,Serie A,2020,False,
+Genoa CFC,Antonio Sanabria,24,Paraguay,Centre-Forward,CF,6500000.0,Real Betis,Spain,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Andrea Pinamonti,21,Italy,Centre-Forward,CF,13500000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Antonio Barreca,25,Italy,Left-Back,LB,3000000.0,Monaco,France,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Cristian Romero,22,Argentina,Centre-Back,CB,14000000.0,Juventus,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Francesco Cassata,23,Italy,Central Midfield,CM,2500000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Riccardo Saponara,28,Italy,Attacking Midfield,AM,2500000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Marko Pajac,27,Croatia,Left Midfield,LM,1100000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Eddie Salcedo,18,Italy,Centre-Forward,CF,10000000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Mattia Destro,29,Italy,Centre-Forward,CF,1800000.0,Bologna,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Iago Falque,30,Spain,Right Winger,RW,6000000.0,Torino,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Adama Soumaoro,28,France,Centre-Back,CB,6000000.0,LOSC Lille,France,0.0,out,summer,Serie A,2020,True,end of loan
+Genoa CFC,Manolo Portanova,20,Italy,Attacking Midfield,AM,1000000.0,Juventus,Italy,10000000.0,in,winter,Serie A,2020,False,
+Genoa CFC,Elia Petrelli,19,Italy,Centre-Forward,CF,250000.0,Juventus U23,Italy,8000000.0,in,winter,Serie A,2020,False,
+Genoa CFC,Kevin Strootman,30,Netherlands,Central Midfield,CM,5000000.0,Marseille,France,0.0,in,winter,Serie A,2020,True,free loan
+Genoa CFC,Jérôme Onguéné,23,Cameroon,Centre-Back,CB,4000000.0,RB Salzburg,Austria,0.0,in,winter,Serie A,2020,True,free loan
+Genoa CFC,Nicolò Rovella,19,Italy,Defensive Midfield,DM,4000000.0,Juventus,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Genoa CFC,Nicolò Rovella,19,Italy,Defensive Midfield,DM,4000000.0,Juventus,Italy,18000000.0,out,winter,Serie A,2020,False,
+Genoa CFC,Mattia Bani,27,Italy,Centre-Back,CB,3200000.0,Parma,Italy,1500000.0,out,winter,Serie A,2020,True,loan with fee
+Genoa CFC,Lukas Lerager,27,Denmark,Central Midfield,CM,3500000.0,FC Copenhagen,Denmark,500000.0,out,winter,Serie A,2020,True,loan with fee
+Genoa CFC,Claudiu Micovschi,21,Romania,Left Winger,LW,250000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Petar Brlek,26,Croatia,Central Midfield,CM,900000.0,NK Osijek,Croatia,0.0,out,winter,Serie A,2020,False,
+Genoa CFC,Ivan Lakicevic,27,Serbia,Right-Back,RB,400000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,False,
+Genoa CFC,Patrizio Masini,20,Italy,Central Midfield,CM,100000.0,Lecco,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Stefano Sturaro,27,Italy,Central Midfield,CM,5000000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Elia Petrelli,19,Italy,Centre-Forward,CF,250000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Raúl Asencio,22,Spain,Centre-Forward,CF,850000.0,SPAL,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Gabriel Charpentier,21,France,Centre-Forward,CF,800000.0,Ascoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Vittorio Parigini,24,Italy,Right Winger,RW,1000000.0,Ascoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Genoa CFC,Lasse Schöne,34,Denmark,Defensive Midfield,DM,800000.0,Without Club,,,out,winter,Serie A,2020,False,
+Hellas Verona,Adrien Tamèze,26,Cameroon,Defensive Midfield,DM,4500000.0,OGC Nice,France,3500000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Kevin Rüegg,22,Switzerland,Right-Back,RB,5400000.0,FC Zürich,Switzerland,2000000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Koray Günter,26,Germany,Centre-Back,CB,4500000.0,Genoa,Italy,2000000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Nikola Kalinic,32,Croatia,Centre-Forward,CF,5500000.0,Atlético Madrid,Spain,1800000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Bruno Amione,18,Argentina,Centre-Back,CB,2300000.0,Belgrano,Argentina,1700000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Ebrima Colley,20,The Gambia,Left Winger,LW,800000.0,Atalanta BC,Italy,1500000.0,in,summer,Serie A,2020,True,loan with fee
+Hellas Verona,Ivor Pandur,20,Croatia,Goalkeeper,GK,800000.0,HNK Rijeka,Croatia,900000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Emmanuel Badu,29,Ghana,Central Midfield,CM,850000.0,Udinese Calcio,Italy,800000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Ronaldo Vieira,22,England,Central Midfield,CM,6500000.0,Sampdoria,Italy,750000.0,in,summer,Serie A,2020,True,loan with fee
+Hellas Verona,Michele Vano,29,Italy,Centre-Forward,CF,300000.0,Carpi,Italy,500000.0,in,summer,Serie A,2020,False,
+Hellas Verona,Bachir Mané,22,Senegal,Defensive Midfield,DM,75000.0,Carpi,Italy,0.0,in,summer,Serie A,2020,False,
+Hellas Verona,Mert Cetin,23,Turkey,Centre-Back,CB,2000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Marco Benassi,26,Italy,Central Midfield,CM,10000000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Antonin Barak,25,Czech Republic,Attacking Midfield,AM,8000000.0,Udinese Calcio,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Andrea Favilli,23,Italy,Centre-Forward,CF,4000000.0,Genoa,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Ivan Ilic,19,Serbia,Central Midfield,CM,700000.0,Man City U23,England,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Eddie Salcedo,18,Italy,Centre-Forward,CF,10000000.0,Inter,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Giangiacomo Magnani,24,Italy,Centre-Back,CB,3200000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Federico Ceccherini,28,Italy,Centre-Back,CB,2500000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Hellas Verona,Marash Kumbulla,20,Albania,Centre-Back,CB,25000000.0,AS Roma,Italy,3000000.0,out,summer,Serie A,2020,True,loan with fee
+Hellas Verona,Luca Marrone,30,Italy,Centre-Back,CB,750000.0,Crotone,Italy,1000000.0,out,summer,Serie A,2020,False,
+Hellas Verona,Liam Henderson,24,Scotland,Central Midfield,CM,1500000.0,Lecce,Italy,1000000.0,out,summer,Serie A,2020,False,
+Hellas Verona,Simone Calvano,27,Italy,Central Midfield,CM,250000.0,Triestina,Italy,500000.0,out,summer,Serie A,2020,False,
+Hellas Verona,Yves Bationo,27,Burkina Faso,Central Midfield,CM,,Portici,Italy,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Pierluigi Cappelluzzo,24,Italy,Centre-Forward,CF,50000.0,Viterbese,Italy,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Jure Balkovec,26,Slovenia,Left-Back,LB,950000.0,Karagümrük,Turkey,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Simon Stefanec,22,Slovakia,Attacking Midfield,AM,100000.0,Puchov,Slovakia,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Deian Boldor,25,Romania,Centre-Back,CB,250000.0,Potenza,Italy,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Joseph Ekuban,20,Ghana,Centre-Forward,CF,50000.0,V. Francavilla,Italy,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Michele Vano,29,Italy,Centre-Forward,CF,300000.0,Mantova,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Rayyan Baniya,21,Turkey,Centre-Back,CB,125000.0,Mantova,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Lucas Felippe,20,Brazil,Central Midfield,CM,150000.0,Mantova,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Andrea Badan,22,Italy,Left-Back,LB,50000.0,Oldham Athletic,England,0.0,out,summer,Serie A,2020,False,
+Hellas Verona,Yves Bationo,26,Burkina Faso,Central Midfield,CM,25000.0,Flamurtari FC,Albania,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Nicolò Casale,22,Italy,Centre-Back,CB,400000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Karamoko Cissé,31,Guinea,Centre-Forward,CF,300000.0,Cittadella,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Mariusz Stepinski,25,Poland,Centre-Forward,CF,3000000.0,Lecce,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Antonino Ragusa,30,Italy,Left Winger,LW,700000.0,Brescia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Lubomir Tupta,22,Slovakia,Centre-Forward,CF,350000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Salvatore Bocchetti,33,Italy,Centre-Back,CB,600000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Nunzio Brandi,19,Italy,Central Midfield,CM,50000.0,Turris,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Hellas Verona,Alessandro Crescenzi,28,Italy,Left-Back,LB,300000.0,Cremonese,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Aleksejs Saveljevs,21,Latvia,Central Midfield,CM,50000.0,Mantova,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Luca Checchin,23,Italy,Defensive Midfield,DM,100000.0,Retired,,,out,summer,Serie A,2020,False,
+Hellas Verona,Fabio Borini,29,Italy,Left Winger,LW,4000000.0,Without Club,,,out,summer,Serie A,2020,False,
+Hellas Verona,Giampaolo Pazzini,36,Italy,Centre-Forward,CF,350000.0,Without Club,,,out,summer,Serie A,2020,False,
+Hellas Verona,Riccardo Tosi,20,Italy,Goalkeeper,GK,150000.0,Mantova,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Matteo Pinton,22,Italy,Right-Back,RB,75000.0,Mantova,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Vincenzo Silvestro,22,Italy,Left Midfield,LM,150000.0,Mantova,Italy,,out,summer,Serie A,2020,False,
+Hellas Verona,Alberto Almici,27,Italy,Right-Back,RB,400000.0,Without Club,,,out,summer,Serie A,2020,False,
+Hellas Verona,Edoardo Pavan,22,Italy,Right-Back,RB,125000.0,Without Club,,,out,summer,Serie A,2020,False,
+Hellas Verona,Matteo Pessina,23,Italy,Attacking Midfield,AM,12000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Valerio Verre,26,Italy,Central Midfield,CM,3200000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Sofyan Amrabat,24,Morocco,Central Midfield,CM,20000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Amir Rrahmani,26,Kosovo,Centre-Back,CB,14000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Eddie Salcedo,18,Italy,Centre-Forward,CF,10000000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Emmanuel Badu,29,Ghana,Central Midfield,CM,850000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Claud Adjapong,22,Italy,Right-Back,RB,2700000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Koray Günter,26,Germany,Centre-Back,CB,4500000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Boris Radunović,24,Serbia,Goalkeeper,GK,450000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Valentin Eysseric,28,France,Attacking Midfield,AM,1200000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Hellas Verona,Stefano Sturaro,27,Italy,Central Midfield,CM,5000000.0,Genoa,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Hellas Verona,Kevin Lasagna,28,Italy,Centre-Forward,CF,7500000.0,Udinese Calcio,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Hellas Verona,Adama Sane,20,Senegal,Centre-Forward,CF,75000.0,Mantova,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Lubomir Tupta,22,Slovakia,Centre-Forward,CF,350000.0,FC Sion,Switzerland,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Luigi Vitale,33,Italy,Left-Back,LB,200000.0,Frosinone,Italy,,out,winter,Serie A,2020,False,
+Hellas Verona,Antonio Di Gaudio,31,Italy,Left Winger,LW,300000.0,Chievo Verona,Italy,,out,winter,Serie A,2020,False,
+Hellas Verona,Alan Empereur,26,Brazil,Centre-Back,CB,1000000.0,Palmeiras,Brazil,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Samuel Di Carmine,32,Italy,Centre-Forward,CF,1500000.0,Crotone,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Karim Laribi,29,Tunisia,Attacking Midfield,AM,350000.0,Reggiana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Andrea Danzi,21,Italy,Defensive Midfield,DM,400000.0,Ascoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Michele Vano,29,Italy,Centre-Forward,CF,300000.0,Perugia,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Hellas Verona,Emmanuel Badu,30,Ghana,Central Midfield,CM,600000.0,Without Club,,,out,winter,Serie A,2020,False,
+Inter Milan,Achraf Hakimi,21,Morocco,Right Midfield,RM,54000000.0,Real Madrid,Spain,40000000.0,in,summer,Serie A,2020,False,
+Inter Milan,Nicolò Barella,23,Italy,Central Midfield,CM,50000000.0,Cagliari Calcio,Italy,28000000.0,in,summer,Serie A,2020,False,
+Inter Milan,Stefano Sensi,25,Italy,Central Midfield,CM,20000000.0,Sassuolo,Italy,20000000.0,in,summer,Serie A,2020,False,
+Inter Milan,Andrea Pinamonti,21,Italy,Centre-Forward,CF,13500000.0,Genoa,Italy,8000000.0,in,summer,Serie A,2020,False,
+Inter Milan,Darian Males,19,Switzerland,Centre-Forward,CF,2000000.0,FC Luzern,Switzerland,2500000.0,in,summer,Serie A,2020,False,
+Inter Milan,Aleksandar Kolarov,34,Serbia,Left-Back,LB,5000000.0,AS Roma,Italy,1500000.0,in,summer,Serie A,2020,False,
+Inter Milan,Georgios Vagiannidis,18,Greece,Right-Back,RB,400000.0,Panathinaikos,Greece,0.0,in,summer,Serie A,2020,False,
+Inter Milan,Alexis Sánchez,31,Chile,Centre-Forward,CF,16000000.0,Man Utd,England,0.0,in,summer,Serie A,2020,False,
+Inter Milan,Arturo Vidal,33,Chile,Central Midfield,CM,11000000.0,FC Barcelona,Spain,0.0,in,summer,Serie A,2020,False,
+Inter Milan,Matteo Darmian,30,Italy,Right-Back,RB,6500000.0,Parma,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Inter Milan,Mauro Icardi,27,Argentina,Centre-Forward,CF,60000000.0,Paris SG,France,50000000.0,out,summer,Serie A,2020,False,
+Inter Milan,Andrea Pinamonti,21,Italy,Centre-Forward,CF,13500000.0,Genoa,Italy,19500000.0,out,summer,Serie A,2020,False,
+Inter Milan,Yann Karamoh,22,France,Right Winger,RW,7500000.0,Parma,Italy,8000000.0,out,summer,Serie A,2020,False,
+Inter Milan,Dalbert,27,Brazil,Left-Back,LB,9000000.0,Stade Rennais,France,2500000.0,out,summer,Serie A,2020,True,loan with fee
+Inter Milan,Valentino Lazaro,24,Austria,Right Midfield,RM,15000000.0,Bor. M'gladbach,Germany,1200000.0,out,summer,Serie A,2020,True,loan with fee
+Inter Milan,Andrea Palazzi,24,Italy,Central Midfield,CM,300000.0,Monza,Italy,400000.0,out,summer,Serie A,2020,False,
+Inter Milan,Samuele Longo,28,Italy,Centre-Forward,CF,600000.0,LR Vicenza,Italy,400000.0,out,summer,Serie A,2020,False,
+Inter Milan,Felice D'Amico,20,Italy,Attacking Midfield,AM,250000.0,Sampdoria,Italy,400000.0,out,summer,Serie A,2020,False,
+Inter Milan,Matteo Rover,21,Italy,Second Striker,SS,200000.0,Südtirol,Italy,100000.0,out,summer,Serie A,2020,False,
+Inter Milan,Niccolò Marcellusi,20,Italy,Right Midfield,RM,,Carpi,Italy,50000.0,out,summer,Serie A,2020,False,
+Inter Milan,Borja Valero,35,Spain,Central Midfield,CM,1200000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,False,
+Inter Milan,Diego Godín,34,Uruguay,Centre-Back,CB,5000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,False,
+Inter Milan,Lorenzo Gavioli,20,Italy,Central Midfield,CM,400000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Antonio Candreva,33,Italy,Right Midfield,RM,5000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,João Mário,27,Portugal,Central Midfield,CM,13000000.0,Sporting CP,Portugal,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Marco Pompetti,20,Italy,Defensive Midfield,DM,650000.0,Cavese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Lorenzo Pirola,18,Italy,Centre-Back,CB,1500000.0,Monza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Xian Emmers,21,Belgium,Central Midfield,CM,450000.0,Almere City,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Georgios Vagiannidis,19,Greece,Right-Back,RB,400000.0,Sint-Truiden,Belgium,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Andreaw Gravillon,22,France,Centre-Back,CB,3500000.0,FC Lorient,France,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Eddie Salcedo,18,Italy,Centre-Forward,CF,10000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Michele Di Gregorio,23,Italy,Goalkeeper,GK,3000000.0,Monza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Sebastiano Esposito,18,Italy,Centre-Forward,CF,9000000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Darian Males,19,Switzerland,Centre-Forward,CF,2000000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Lucien Agoume,18,France,Defensive Midfield,DM,3500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Davide Zugaro,20,Italy,Left-Back,LB,25000.0,Giana Erminio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Gabriel Brazão,19,Brazil,Goalkeeper,GK,1500000.0,Real Oviedo,Spain,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Niccolò Corrado,20,Italy,Left-Back,LB,200000.0,Palermo,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Inter Milan,Vincenzo Tommasone,25,Italy,Second Striker,SS,25000.0,Without Club,,,out,summer,Serie A,2020,False,
+Inter Milan,Kwadwo Asamoah,31,Ghana,Left Midfield,LM,4000000.0,Without Club,,,out,summer,Serie A,2020,False,
+Inter Milan,Lorenzo Tassi,25,Italy,Central Midfield,CM,125000.0,Without Club,,,out,summer,Serie A,2020,False,
+Inter Milan,Tommaso Berni,37,Italy,Goalkeeper,GK,100000.0,Without Club,,,out,summer,Serie A,2020,False,
+Inter Milan,Nicolò Barella,23,Italy,Central Midfield,CM,50000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Inter Milan,Cristiano Biraghi,27,Italy,Left-Back,LB,9500000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Inter Milan,Alexis Sánchez,31,Chile,Centre-Forward,CF,16000000.0,Man Utd,England,0.0,out,summer,Serie A,2020,True,end of loan
+Inter Milan,Victor Moses,29,Nigeria,Right Midfield,RM,6000000.0,Chelsea,England,0.0,out,summer,Serie A,2020,True,end of loan
+Inter Milan,Axel Bakayoko,23,France,Right Winger,RW,1300000.0,Red Star,Serbia,0.0,out,winter,Serie A,2020,False,
+Inter Milan,Radja Nainggolan,32,Belgium,Attacking Midfield,AM,6000000.0,Cagliari Calcio,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Inter Milan,Sebastiano Esposito,18,Italy,Centre-Forward,CF,9000000.0,Venezia,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Inter Milan,Giacomo Pozzer,19,Italy,Goalkeeper,GK,50000.0,Lucchese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Inter Milan,Darian Males,19,Switzerland,Centre-Forward,CF,2000000.0,FC Basel,Switzerland,0.0,out,winter,Serie A,2020,True,free loan
+Juventus FC,Arthur,24,Brazil,Central Midfield,CM,56000000.0,FC Barcelona,Spain,72000000.0,in,summer,Serie A,2020,False,
+Juventus FC,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Udinese Calcio,Italy,10700000.0,in,summer,Serie A,2020,False,
+Juventus FC,Álvaro Morata,27,Spain,Centre-Forward,CF,36000000.0,Atlético Madrid,Spain,10000000.0,in,summer,Serie A,2020,True,loan with fee
+Juventus FC,Federico Chiesa,22,Italy,Right Winger,RW,48000000.0,Fiorentina,Italy,10000000.0,in,summer,Serie A,2020,True,loan with fee
+Juventus FC,Weston McKennie,22,United States,Central Midfield,CM,20000000.0,FC Schalke 04,Germany,4500000.0,in,summer,Serie A,2020,True,loan with fee
+Juventus FC,Stefano Gori,24,Italy,Goalkeeper,GK,1800000.0,AC Pisa,Italy,3000000.0,in,summer,Serie A,2020,False,
+Juventus FC,Miralem Pjanić,30,Bosnia-Herzegovina,Central Midfield,CM,45000000.0,FC Barcelona,Spain,60000000.0,out,summer,Serie A,2020,False,
+Juventus FC,Emre Can,26,Germany,Centre-Back,CB,24000000.0,Bor. Dortmund,Germany,25000000.0,out,summer,Serie A,2020,False,
+Juventus FC,Simone Muratore,22,Italy,Central Midfield,CM,500000.0,Atalanta BC,Italy,7000000.0,out,summer,Serie A,2020,False,
+Juventus FC,Cristian Romero,22,Argentina,Centre-Back,CB,14000000.0,Atalanta BC,Italy,2320000.0,out,summer,Serie A,2020,True,loan with fee
+Juventus FC,Daniele Rugani,26,Italy,Centre-Back,CB,12000000.0,Stade Rennais,France,1060000.0,out,summer,Serie A,2020,True,loan with fee
+Juventus FC,Matteo Stoppa,19,Italy,Centre-Forward,CF,100000.0,Sampdoria,Italy,1000000.0,out,summer,Serie A,2020,False,
+Juventus FC,Douglas Costa,30,Brazil,Left Winger,LW,20000000.0,FC Bayern,Germany,250000.0,out,summer,Serie A,2020,True,loan with fee
+Juventus FC,Blaise Matuidi,33,France,Central Midfield,CM,10500000.0,Inter Miami CF,United States,0.0,out,summer,Serie A,2020,False,
+Juventus FC,Gonzalo Higuaín,32,Argentina,Centre-Forward,CF,15000000.0,Inter Miami CF,United States,0.0,out,summer,Serie A,2020,False,
+Juventus FC,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Juventus FC,Marko Pjaca,25,Croatia,Left Winger,LW,5000000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Juventus FC,Luca Pellegrini,21,Italy,Left Midfield,LM,13500000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Juventus FC,Hans Nicolussi Caviglia,20,Italy,Central Midfield,CM,1500000.0,Parma,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Juventus FC,Mattia De Sciglio,27,Italy,Right-Back,RB,7500000.0,Olympique Lyon,France,0.0,out,summer,Serie A,2020,True,free loan
+Juventus FC,Nicolò Rovella,19,Italy,Defensive Midfield,DM,4000000.0,Genoa,Italy,18000000.0,in,winter,Serie A,2020,False,
+Juventus FC,Manolo Portanova,20,Italy,Attacking Midfield,AM,1000000.0,Genoa,Italy,10000000.0,out,winter,Serie A,2020,False,
+Juventus FC,Daniele Rugani,26,Italy,Centre-Back,CB,10000000.0,Cagliari Calcio,Italy,800000.0,out,winter,Serie A,2020,True,loan with fee
+Juventus FC,Stefano Gori,24,Italy,Goalkeeper,GK,1500000.0,AC Pisa,Italy,80000.0,out,winter,Serie A,2020,True,loan with fee
+Juventus FC,Sami Khedira,33,Germany,Central Midfield,CM,2000000.0,Hertha BSC,Germany,0.0,out,winter,Serie A,2020,False,
+Juventus FC,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Torino,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Juventus FC,Nicolò Rovella,19,Italy,Defensive Midfield,DM,4000000.0,Genoa,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Roberto Inglese,28,Italy,Centre-Forward,CF,12000000.0,SSC Napoli,Italy,18000000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Valentin Mihaila,20,Romania,Left Winger,LW,2500000.0,Univ. Craiova,Romania,8500000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Yann Karamoh,22,France,Right Winger,RW,7500000.0,Inter,Italy,8000000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Maxime Busi,20,Belgium,Right-Back,RB,2500000.0,RSC Charleroi,Belgium,7500000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Alberto Grassi,25,Italy,Central Midfield,CM,5500000.0,SSC Napoli,Italy,6900000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Simon Sohm,19,Switzerland,Defensive Midfield,DM,1100000.0,FC Zürich,Switzerland,6500000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Giuseppe Pezzella,22,Italy,Left-Back,LB,3500000.0,Udinese Calcio,Italy,6450000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Luigi Sepe,29,Italy,Goalkeeper,GK,6000000.0,SSC Napoli,Italy,4580000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Hernani,26,Brazil,Defensive Midfield,DM,5500000.0,Zenit S-Pb,Russia,4480000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Yordan Osorio,26,Venezuela,Centre-Back,CB,2500000.0,FC Porto,Portugal,4000000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Jasmin Kurtic,31,Slovenia,Central Midfield,CM,3500000.0,SPAL,Italy,3500000.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Wylan Cyprien,25,France,Central Midfield,CM,14500000.0,OGC Nice,France,1500000.0,in,summer,Serie A,2020,True,loan with fee
+Parma Calcio 1913,Juan Brunetta,23,Argentina,Attacking Midfield,AM,2400000.0,Godoy Cruz,Argentina,1000000.0,in,summer,Serie A,2020,True,loan with fee
+Parma Calcio 1913,Mateo Likaxhiu,19,Albania,Central Midfield,CM,75000.0,Sanremese,Italy,0.0,in,summer,Serie A,2020,False,
+Parma Calcio 1913,Lautaro Valenti,21,Argentina,Centre-Back,CB,2700000.0,Lanús,Argentina,0.0,in,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Hans Nicolussi Caviglia,20,Italy,Central Midfield,CM,1500000.0,Juventus,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,José Machín,23,Equatorial Guinea,Central Midfield,CM,1500000.0,Monza,Italy,4000000.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Luca Zamparo,25,Italy,Centre-Forward,CF,300000.0,Reggiana,Italy,300000.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Gabriele Carannante,21,Italy,Central Midfield,CM,75000.0,Legnago,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Abdou Diakhate,21,Senegal,Central Midfield,CM,300000.0,ND Gorica,Slovenia,0.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Alessandro Martella,19,Italy,Right-Back,RB,75000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Sebastiano Longo,22,Italy,Left Winger,LW,100000.0,AJ Fano,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Emmanuele Matino,21,Italy,Centre-Back,CB,175000.0,Cavese,Italy,0.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Emerson Espinoza,19,Ecuador,Central Midfield,CM,250000.0,Albacete B,Spain,0.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Walid Cheddira,22,Italy,Centre-Forward,CF,175000.0,Mantova,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Yves Baraye,28,Senegal,Right Winger,RW,550000.0,Gil Vicente,Portugal,0.0,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Manuel Nocciolini,31,Italy,Centre-Forward,CF,300000.0,Sambenedettese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Lorenzo Simonetti,24,Italy,Central Midfield,CM,150000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Fabrizio Alastra,23,Italy,Goalkeeper,GK,150000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Luca Siligardi,32,Italy,Right Winger,RW,500000.0,Crotone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Kastriot Dermaku,28,Albania,Centre-Back,CB,1500000.0,Lecce,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Eric Lanini,26,Italy,Centre-Forward,CF,225000.0,Novara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Matteo Darmian,30,Italy,Right-Back,RB,6500000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Michele Fornasier,27,Italy,Centre-Back,CB,300000.0,Cremonese,Italy,,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Alessio Da Cruz,23,Netherlands,Left Winger,LW,1900000.0,FC Groningen,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Marco Frediani,26,Italy,Left Winger,LW,200000.0,Alessandria,Italy,,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Francesco Golfo,26,Italy,Left Winger,LW,175000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Fabian Pavone,20,Italy,Right Winger,RW,400000.0,Carrarese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Parma Calcio 1913,Antonino Barillà,32,Italy,Central Midfield,CM,1200000.0,Monza,Italy,,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Davide Mastaj,22,Poland,Right Winger,RW,25000.0,Without Club,,,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Marcello Gazzola,35,Italy,Right-Back,RB,150000.0,Retired,,,out,summer,Serie A,2020,False,
+Parma Calcio 1913,Luigi Sepe,29,Italy,Goalkeeper,GK,6000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Gianluca Caprari,27,Italy,Left Winger,LW,6500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Ionut Radu,23,Romania,Goalkeeper,GK,8000000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Jasmin Kurtic,31,Slovenia,Central Midfield,CM,3500000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Dejan Kulusevski,20,Sweden,Right Winger,RW,40000000.0,Juventus,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Giuseppe Pezzella,22,Italy,Left-Back,LB,3500000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Yann Karamoh,22,France,Right Winger,RW,7500000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Roberto Inglese,28,Italy,Centre-Forward,CF,12000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Hernani,26,Brazil,Defensive Midfield,DM,5500000.0,Zenit S-Pb,Russia,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Alberto Grassi,25,Italy,Central Midfield,CM,5500000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Vasco Regini,29,Italy,Left-Back,LB,700000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Parma Calcio 1913,Dennis Man,22,Romania,Right Winger,RW,6500000.0,FCSB,Romania,13000000.0,in,winter,Serie A,2020,False,
+Parma Calcio 1913,Mattia Bani,27,Italy,Centre-Back,CB,3200000.0,Genoa,Italy,1500000.0,in,winter,Serie A,2020,True,loan with fee
+Parma Calcio 1913,Vasilios Zagaritis,19,Greece,Left-Back,LB,150000.0,Panathinaikos,Greece,380000.0,in,winter,Serie A,2020,False,
+Parma Calcio 1913,Daan Dierckx,17,Belgium,Centre-Back,CB,,KRC Genk U18,Belgium,,in,winter,Serie A,2020,False,
+Parma Calcio 1913,Andrea Conti,26,Italy,Right-Back,RB,7000000.0,AC Milan,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Joshua Zirkzee,19,Netherlands,Centre-Forward,CF,9000000.0,FC Bayern,Germany,0.0,in,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Graziano Pellè,35,Italy,Centre-Forward,CF,650000.0,Without Club,,,in,winter,Serie A,2020,False,
+Parma Calcio 1913,Andrea Adorante,20,Italy,Centre-Forward,CF,500000.0,V. Francavilla,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Gabriele Carannante,21,Italy,Central Midfield,CM,50000.0,Turris,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Sebastiano Longo,23,Italy,Left Winger,LW,75000.0,Casertana,Italy,0.0,out,winter,Serie A,2020,False,
+Parma Calcio 1913,Andrea Dini,24,Italy,Goalkeeper,GK,200000.0,Padova,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Mateo Likaxhiu,20,Albania,Central Midfield,CM,75000.0,Torres,Italy,0.0,out,winter,Serie A,2020,False,
+Parma Calcio 1913,Giuseppe Carriero,23,Italy,Central Midfield,CM,200000.0,Avellino,Italy,,out,winter,Serie A,2020,False,
+Parma Calcio 1913,Matteo Scozzarella,32,Italy,Defensive Midfield,DM,800000.0,Monza,Italy,,out,winter,Serie A,2020,False,
+Parma Calcio 1913,Muhamed Tehe Olawale,21,Cote d'Ivoire,Centre-Forward,CF,100000.0,IFK Mariehamn,Finland,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Michele Laraspata,19,Italy,Left-Back,LB,25000.0,Hamrun Spart.,Malta,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Francesco Golfo,26,Italy,Left Winger,LW,175000.0,Catania,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Giacomo Ricci,24,Italy,Left-Back,LB,250000.0,Venezia,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Luca Siligardi,33,Italy,Right Winger,RW,400000.0,Reggiana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Manuel Nocciolini,31,Italy,Centre-Forward,CF,250000.0,Renate,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Parma Calcio 1913,Jacopo Dezi,28,Italy,Central Midfield,CM,900000.0,Venezia,Italy,,out,winter,Serie A,2020,False,
+SS Lazio,Vedat Muriqi,26,Kosovo,Centre-Forward,CF,12000000.0,Fenerbahce,Turkey,18500000.0,in,summer,Serie A,2020,False,
+SS Lazio,Mohamed Fares,24,Algeria,Left Midfield,LM,7000000.0,SPAL,Italy,8000000.0,in,summer,Serie A,2020,False,
+SS Lazio,Wesley Hoedt,26,Netherlands,Centre-Back,CB,6500000.0,Southampton,England,1000000.0,in,summer,Serie A,2020,True,loan with fee
+SS Lazio,Pepe Reina,38,Spain,Goalkeeper,GK,800000.0,AC Milan,Italy,0.0,in,summer,Serie A,2020,False,
+SS Lazio,Gonzalo Escalante,27,Argentina,Central Midfield,CM,3200000.0,SD Eibar,Spain,0.0,in,summer,Serie A,2020,False,
+SS Lazio,Jean-Daniel Akpa Akpro,27,Cote d'Ivoire,Central Midfield,CM,600000.0,Salernitana,Italy,0.0,in,summer,Serie A,2020,False,
+SS Lazio,Andreas Pereira,24,Brazil,Attacking Midfield,AM,16000000.0,Man Utd,England,0.0,in,summer,Serie A,2020,True,free loan
+SS Lazio,Valon Berisha,27,Kosovo,Central Midfield,CM,4000000.0,Stade Reims,France,4200000.0,out,summer,Serie A,2020,False,
+SS Lazio,Bastos,29,Angola,Centre-Back,CB,2700000.0,Al-Ain,Saudi Arabia,800000.0,out,summer,Serie A,2020,False,
+SS Lazio,Ivan Vargic,33,Croatia,Goalkeeper,GK,150000.0,FC Koper,Slovenia,0.0,out,summer,Serie A,2020,False,
+SS Lazio,Wallace,25,Brazil,Centre-Back,CB,3500000.0,Y. Malatyaspor,Turkey,0.0,out,summer,Serie A,2020,False,
+SS Lazio,Milan Badelj,31,Croatia,Defensive Midfield,DM,2000000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,False,
+SS Lazio,Guido Guerrieri,24,Italy,Goalkeeper,GK,300000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,False,
+SS Lazio,Nikolaos Baxevanos,21,Greece,Centre-Back,CB,50000.0,ACSM Poli Iași,Romania,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Ricardo Kishna,25,Netherlands,Left Winger,LW,300000.0,ADO Den Haag,Netherlands,0.0,out,summer,Serie A,2020,False,
+SS Lazio,Fabio Maistro,22,Italy,Central Midfield,CM,1200000.0,Pescara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Tiago Casasola,25,Argentina,Right-Back,RB,650000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Jony,29,Spain,Left Winger,LW,6500000.0,CA Osasuna,Spain,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Simone Palombi,24,Italy,Centre-Forward,CF,650000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Alessandro Rossi,23,Italy,Centre-Forward,CF,300000.0,Viterbese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Luca Falbo,20,Italy,Left-Back,LB,100000.0,Viterbese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Marius Adamonis,23,Lithuania,Goalkeeper,GK,125000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,André Anderson,21,Italy,Attacking Midfield,AM,800000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Jordan Lukaku,26,Belgium,Left-Back,LB,4000000.0,Royal Antwerp,Belgium,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Bobby Adekanye,21,Netherlands,Right Winger,RW,800000.0,Cádiz CF,Spain,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Jorge Silva,21,Portugal,Centre-Back,CB,50000.0,Boavista U23,Portugal,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Biagio Morrone,20,Italy,Defensive Midfield,DM,75000.0,Foggia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SS Lazio,Mateo Musacchio,30,Argentina,Centre-Back,CB,4500000.0,AC Milan,Italy,0.0,in,winter,Serie A,2020,False,
+SS Lazio,Davide Di Gennaro,32,Italy,Attacking Midfield,AM,300000.0,Cesena,Italy,0.0,out,winter,Serie A,2020,False,
+SS Lazio,Riza Durmisi,27,Denmark,Left-Back,LB,900000.0,Salernitana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+SS Lazio,Sofian Kiyine,23,Morocco,Central Midfield,CM,2000000.0,Salernitana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+SS Lazio,Bobby Adekanye,21,Netherlands,Right Winger,RW,800000.0,ADO Den Haag,Netherlands,0.0,out,winter,Serie A,2020,True,free loan
+SS Lazio,Andreas Karo,24,Cyprus,Centre-Back,CB,500000.0,Marítimo,Portugal,,out,winter,Serie A,2020,False,
+SS Lazio,Denis Vavro,24,Slovakia,Centre-Back,CB,4000000.0,SD Huesca,Spain,0.0,out,winter,Serie A,2020,True,free loan
+SS Lazio,Madiu Bari,22,Portugal,Central Midfield,CM,100000.0,Rio Ave U23,Portugal,,out,winter,Serie A,2020,False,
+SS Lazio,Silvio Proto,37,Belgium,Goalkeeper,GK,,Retired,,,out,winter,Serie A,2020,False,
+SSC Napoli,Victor Osimhen,21,Nigeria,Centre-Forward,CF,40000000.0,LOSC Lille,France,70000000.0,in,summer,Serie A,2020,False,
+SSC Napoli,Tiemoué Bakayoko,26,France,Defensive Midfield,DM,25500000.0,Chelsea,England,2000000.0,in,summer,Serie A,2020,True,loan with fee
+SSC Napoli,Leonardo Candellone,23,Italy,Centre-Forward,CF,500000.0,Torino,Italy,1500000.0,in,summer,Serie A,2020,False,
+SSC Napoli,Allan,29,Brazil,Central Midfield,CM,28000000.0,Everton,England,25000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Simone Verdi,28,Italy,Attacking Midfield,AM,13000000.0,Torino,Italy,22000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Roberto Inglese,28,Italy,Centre-Forward,CF,12000000.0,Parma,Italy,18000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Marko Rog,25,Croatia,Central Midfield,CM,13000000.0,Cagliari Calcio,Italy,13000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Vlad Chiriches,30,Romania,Centre-Back,CB,5000000.0,Sassuolo,Italy,9000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Alberto Grassi,25,Italy,Central Midfield,CM,5500000.0,Parma,Italy,6900000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Orestis Karnezis,35,Greece,Goalkeeper,GK,500000.0,LOSC Lille,France,5000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Luigi Liguori,22,Italy,Right Winger,RW,75000.0,LOSC Lille B,France,5000000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Luigi Sepe,29,Italy,Goalkeeper,GK,6000000.0,Parma,Italy,4580000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Lorenzo Tonelli,30,Italy,Centre-Back,CB,2400000.0,Sampdoria,Italy,2500000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Sebastiano Luperto,24,Italy,Centre-Back,CB,3500000.0,Crotone,Italy,500000.0,out,summer,Serie A,2020,True,loan with fee
+SSC Napoli,Alfredo Bifulco,23,Italy,Left Winger,LW,300000.0,Padova,Italy,210000.0,out,summer,Serie A,2020,False,
+SSC Napoli,Antonio Illuminato,20,Italy,Defensive Midfield,DM,25000.0,Portici,Italy,0.0,out,summer,Serie A,2020,False,
+SSC Napoli,José Callejón,33,Spain,Right Winger,RW,7500000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2020,False,
+SSC Napoli,Giuseppe Esposito,21,Italy,Centre-Back,CB,25000.0,Bari,Italy,0.0,out,summer,Serie A,2020,False,
+SSC Napoli,Amin Younes,27,Germany,Attacking Midfield,AM,5000000.0,E. Frankfurt,Germany,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Mario Francesco Prezioso,24,Italy,Central Midfield,CM,275000.0,Modena,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Adam Ounas,23,Algeria,Right Winger,RW,8000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Amato Ciciretti,26,Italy,Right Winger,RW,1500000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Franco Ferrari,25,Italy,Centre-Forward,CF,200000.0,Como,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Karim Zedadka,20,France,Left Midfield,LM,100000.0,Cavese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Zinédine Machach,24,France,Attacking Midfield,AM,400000.0,VVV-Venlo,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Leandrinho,21,Brazil,Left Winger,LW,350000.0,RB Bragantino,Brazil,,out,summer,Serie A,2020,False,
+SSC Napoli,Alberto Senese,20,Italy,Centre-Back,CB,75000.0,Legnago,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Luca Palmiero,24,Italy,Defensive Midfield,DM,1300000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Gennaro Tutino,24,Italy,Left Winger,LW,2000000.0,Salernitana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Leonardo Candellone,23,Italy,Centre-Forward,CF,500000.0,Bari,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Filippo Costa,25,Italy,Left-Back,LB,450000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Alessio Zerbin,21,Italy,Left Winger,LW,150000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Michael Folorunsho,22,Italy,Central Midfield,CM,250000.0,Reggina,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Luigi D'Ignazio,22,Italy,Left-Back,LB,75000.0,Turris,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Raffaele Russo,21,Italy,Left Winger,LW,50000.0,Grosseto,Italy,0.0,out,summer,Serie A,2020,True,free loan
+SSC Napoli,Francesco Mezzoni,20,Italy,Right Midfield,RM,50000.0,Pro Vercelli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+SSC Napoli,Fernando Llorente,35,Spain,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,out,winter,Serie A,2020,False,
+SSC Napoli,Arkadiusz Milik,26,Poland,Centre-Forward,CF,22000000.0,Marseille,France,0.0,out,winter,Serie A,2020,True,free loan
+SSC Napoli,Kévin Malcuit,29,France,Right-Back,RB,7000000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+SSC Napoli,Adam Ounas,24,Algeria,Right Winger,RW,8000000.0,Crotone,Italy,0.0,out,winter,Serie A,2020,True,free loan
+SSC Napoli,Alberto Senese,20,Italy,Centre-Back,CB,50000.0,Cavese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Spezia Calcio,Ardian Ismajli,23,Albania,Centre-Back,CB,950000.0,Hajduk Split,Croatia,2500000.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Jeroen Zoet,29,Netherlands,Goalkeeper,GK,5500000.0,PSV Eindhoven,Netherlands,1500000.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Daniele Verde,24,Italy,Right Winger,RW,1200000.0,AEK Athens,Greece,500000.0,in,summer,Serie A,2020,True,loan with fee
+Spezia Calcio,Diego Farias,30,Brazil,Left Winger,LW,3500000.0,Cagliari Calcio,Italy,500000.0,in,summer,Serie A,2020,True,loan with fee
+Spezia Calcio,Léo Sena,24,Brazil,Defensive Midfield,DM,1000000.0,Atlético-MG,Brazil,300000.0,in,summer,Serie A,2020,True,loan with fee
+Spezia Calcio,Nahuel Estévez,24,Argentina,Central Midfield,CM,300000.0,Estudiantes,Argentina,210000.0,in,summer,Serie A,2020,True,loan with fee
+Spezia Calcio,M'Bala Nzola,24,Angola,Centre-Forward,CF,900000.0,Trapani,Italy,0.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Jacopo Sala,28,Italy,Right-Back,RB,1000000.0,SPAL,Italy,0.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Rafael,38,Brazil,Goalkeeper,GK,200000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Lorenzo Colombini,19,Italy,Left-Back,LB,400000.0,Inter U19,Italy,0.0,in,summer,Serie A,2020,False,
+Spezia Calcio,Kevin Agudelo,21,Colombia,Right Winger,RW,3500000.0,Genoa,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Federico Mattiello,25,Italy,Right-Back,RB,2000000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Alessandro Deiola,25,Italy,Central Midfield,CM,1000000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Tommaso Pobega,21,Italy,Central Midfield,CM,4500000.0,AC Milan,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Lucien Agoume,18,France,Defensive Midfield,DM,3500000.0,Inter,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Julian Chabot,22,Germany,Centre-Back,CB,3100000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Roberto Piccoli,19,Italy,Centre-Forward,CF,1000000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Cristian Dell'Orco,26,Italy,Left-Back,LB,650000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Spezia Calcio,Ivan Provedel,26,Italy,Goalkeeper,GK,400000.0,FC Empoli,Italy,,in,summer,Serie A,2020,False,
+Spezia Calcio,Tommaso Augello,26,Italy,Left-Back,LB,1200000.0,Sampdoria,Italy,1500000.0,out,summer,Serie A,2020,False,
+Spezia Calcio,Delano Burgzorg,21,Netherlands,Left Winger,LW,525000.0,Heracles Almelo,Netherlands,290000.0,out,summer,Serie A,2020,False,
+Spezia Calcio,DJ Buffonge,21,Antigua and Barbuda,Attacking Midfield,AM,150000.0,NAC Breda,Netherlands,0.0,out,summer,Serie A,2020,False,
+Spezia Calcio,Michael D'Eramo,21,Italy,Central Midfield,CM,150000.0,Vis Pesaro,Italy,0.0,out,summer,Serie A,2020,False,
+Spezia Calcio,Jacopo Giuliani,21,Italy,Left Midfield,LM,100000.0,Carpi,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Matteo Figoli,19,Italy,Central Midfield,CM,125000.0,Pergolettese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Pietro Ceccaroni,24,Italy,Centre-Back,CB,600000.0,Venezia,Italy,,out,summer,Serie A,2020,False,
+Spezia Calcio,Gregorio Morachioli,20,Italy,Left Winger,LW,50000.0,Imolese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Theophilus Awua,22,Nigeria,Central Midfield,CM,500000.0,Cittadella,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Marco Crocchianti,24,Italy,Centre-Back,CB,50000.0,Siena,Italy,,out,summer,Serie A,2020,False,
+Spezia Calcio,Sveinn Aron Gudjohnsen,22,Iceland,Centre-Forward,CF,400000.0,Odense BK,Denmark,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Lorenzo Colombini,19,Italy,Left-Back,LB,400000.0,Novara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Alessandro Bordin,22,Italy,Central Midfield,CM,175000.0,Casertana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Simone Barone,21,Italy,Goalkeeper,GK,25000.0,Turris,Italy,,out,summer,Serie A,2020,False,
+Spezia Calcio,Axel Desjardins,20,Canada,Goalkeeper,GK,75000.0,Novara,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Spezia Calcio,Soufiane Bidaoui,30,Morocco,Left Winger,LW,300000.0,Without Club,,,out,summer,Serie A,2020,False,
+Spezia Calcio,Federico Ricci,26,Italy,Right Winger,RW,1100000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Simone Scuffet,24,Italy,Goalkeeper,GK,1200000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Antonino Ragusa,30,Italy,Left Winger,LW,700000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,M'Bala Nzola,24,Angola,Centre-Forward,CF,900000.0,Trapani,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Antonio Di Gaudio,31,Italy,Left Winger,LW,600000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Luigi Vitale,32,Italy,Left-Back,LB,325000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Tobias Reinhart,20,Argentina,Defensive Midfield,DM,150000.0,CA Temperley,Argentina,0.0,out,summer,Serie A,2020,True,end of loan
+Spezia Calcio,Riccardo Saponara,29,Italy,Attacking Midfield,AM,2000000.0,Fiorentina,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Spezia Calcio,Paolo Bartolomei,31,Italy,Central Midfield,CM,800000.0,Cremonese,Italy,,out,winter,Serie A,2020,False,
+Spezia Calcio,Theophilus Awua,22,Nigeria,Central Midfield,CM,500000.0,Pro Vercelli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Spezia Calcio,Luca Mora,32,Italy,Central Midfield,CM,500000.0,SPAL,Italy,,out,winter,Serie A,2020,False,
+Spezia Calcio,Giuseppe Mastinu,29,Italy,Right Winger,RW,400000.0,AC Pisa,Italy,,out,winter,Serie A,2020,False,
+Torino FC,Simone Verdi,28,Italy,Attacking Midfield,AM,13000000.0,SSC Napoli,Italy,22000000.0,in,summer,Serie A,2020,False,
+Torino FC,Karol Linetty,25,Poland,Central Midfield,CM,10000000.0,Sampdoria,Italy,7500000.0,in,summer,Serie A,2020,False,
+Torino FC,Mërgim Vojvoda,25,Kosovo,Right-Back,RB,4000000.0,Standard Liège,Belgium,5500000.0,in,summer,Serie A,2020,False,
+Torino FC,Ricardo Rodríguez,28,Switzerland,Left-Back,LB,3500000.0,AC Milan,Italy,3000000.0,in,summer,Serie A,2020,False,
+Torino FC,Federico Bonazzoli,23,Italy,Centre-Forward,CF,5000000.0,Sampdoria,Italy,1500000.0,in,summer,Serie A,2020,True,loan with fee
+Torino FC,Amer Gojak,23,Bosnia-Herzegovina,Attacking Midfield,AM,5000000.0,Dinamo Zagreb,Croatia,1000000.0,in,summer,Serie A,2020,True,loan with fee
+Torino FC,Nicola Murru,25,Italy,Left-Back,LB,5000000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Torino FC,Álex Berenguer,25,Spain,Left Winger,LW,6000000.0,Athletic,Spain,12000000.0,out,summer,Serie A,2020,False,
+Torino FC,Kevin Bonifazi,24,Italy,Centre-Back,CB,4000000.0,SPAL,Italy,11000000.0,out,summer,Serie A,2020,False,
+Torino FC,Ola Aina,23,Nigeria,Right-Back,RB,7000000.0,Fulham,England,2500000.0,out,summer,Serie A,2020,True,loan with fee
+Torino FC,Leonardo Candellone,23,Italy,Centre-Forward,CF,500000.0,SSC Napoli,Italy,1500000.0,out,summer,Serie A,2020,False,
+Torino FC,Iago Falque,30,Spain,Right Winger,RW,6000000.0,Benevento,Italy,500000.0,out,summer,Serie A,2020,True,loan with fee
+Torino FC,Mouhamed Belkheir,21,Algeria,Centre-Forward,CF,100000.0,Leixões,Portugal,0.0,out,summer,Serie A,2020,False,
+Torino FC,Shady Oukhadda,21,Morocco,Central Midfield,CM,125000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Andrea Zaccagno,23,Italy,Goalkeeper,GK,200000.0,Cremonese,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Lorenzo De Silvestri,32,Italy,Right-Back,RB,2500000.0,Bologna,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Alberto Savini,21,Italy,Goalkeeper,GK,100000.0,UC AlbinoLeffe,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Alessandro Zanellati,20,Italy,Goalkeeper,GK,50000.0,Giana Erminio,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Tommaso Cucchietti,22,Italy,Goalkeeper,GK,250000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2020,False,
+Torino FC,Vitalie Damascan,21,Moldova,Centre-Forward,CF,750000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Serie A,2020,True,free loan
+Torino FC,Lucas Boyé,24,Argentina,Centre-Forward,CF,900000.0,Elche CF,Spain,0.0,out,summer,Serie A,2020,True,free loan
+Torino FC,Manuel De Luca,22,Italy,Centre-Forward,CF,300000.0,Chievo Verona,Italy,,out,summer,Serie A,2020,False,
+Torino FC,Alessandro Fiordaliso,21,Italy,Right-Back,RB,450000.0,Cremonese,Italy,,out,summer,Serie A,2020,False,
+Torino FC,Matteo Rossetti,22,Italy,Central Midfield,CM,100000.0,Pordenone,Italy,,out,summer,Serie A,2020,False,
+Torino FC,Nicola Rauti,20,Italy,Centre-Forward,CF,300000.0,Palermo,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Torino FC,Karlo Butic,22,Croatia,Centre-Forward,CF,300000.0,Pordenone,Italy,,out,summer,Serie A,2020,False,
+Torino FC,Luca Gemello,20,Italy,Goalkeeper,GK,75000.0,Renate,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Torino FC,Koffi Djidji,27,Cote d'Ivoire,Centre-Back,CB,3000000.0,Crotone,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Torino FC,Federico Giraudo,21,Italy,Left-Back,LB,100000.0,Without Club,,,out,summer,Serie A,2020,False,
+Torino FC,Simone Verdi,28,Italy,Attacking Midfield,AM,13000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+Torino FC,Antonio Sanabria,24,Paraguay,Centre-Forward,CF,6500000.0,Real Betis,Spain,7000000.0,in,winter,Serie A,2020,False,
+Torino FC,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Juventus,Italy,0.0,in,winter,Serie A,2020,True,free loan
+Torino FC,Soualiho Meïté,26,France,Central Midfield,CM,5000000.0,AC Milan,Italy,500000.0,out,winter,Serie A,2020,True,loan with fee
+Torino FC,Lorenzo Carissoni,23,Italy,Right-Back,RB,100000.0,Vis Pesaro,Italy,0.0,out,winter,Serie A,2020,False,
+Torino FC,Antonio Rosati,37,Italy,Goalkeeper,GK,100000.0,Fiorentina,Italy,0.0,out,winter,Serie A,2020,False,
+Torino FC,Mihael Onisa,20,Romania,Central Midfield,CM,50000.0,Imolese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Torino FC,Vincenzo Millico,20,Italy,Left Winger,LW,1500000.0,Frosinone,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Torino FC,Michel Ndary Adopo,20,France,Central Midfield,CM,200000.0,Viterbese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Torino FC,Simone Edera,24,Italy,Right Winger,RW,500000.0,Reggina,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Torino FC,Jacopo Segre,23,Italy,Central Midfield,CM,1400000.0,SPAL,Italy,0.0,out,winter,Serie A,2020,True,free loan
+UC Sampdoria,Mikkel Damsgaard,20,Denmark,Left Winger,LW,6500000.0,Nordsjaelland,Denmark,6500000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Kristoffer Askildsen,19,Norway,Central Midfield,CM,1000000.0,Stabæk Fotball,Norway,2500000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Lorenzo Tonelli,30,Italy,Centre-Back,CB,2400000.0,SSC Napoli,Italy,2500000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Tommaso Augello,26,Italy,Left-Back,LB,1200000.0,Spezia Calcio,Italy,1500000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Erik Gerbi,20,Italy,Centre-Forward,CF,100000.0,Juventus U23,Italy,1300000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Matteo Stoppa,19,Italy,Centre-Forward,CF,100000.0,Juventus,Italy,1000000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Felice D'Amico,20,Italy,Attacking Midfield,AM,250000.0,Inter,Italy,400000.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Maya Yoshida,32,Japan,Centre-Back,CB,3800000.0,Southampton,England,0.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Nicola Ravaglia,31,Italy,Goalkeeper,GK,300000.0,Cremonese,Italy,0.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Adrien Silva,31,Portugal,Central Midfield,CM,8000000.0,Leicester,England,0.0,in,summer,Serie A,2020,False,
+UC Sampdoria,Antonio Candreva,33,Italy,Right Midfield,RM,5000000.0,Inter,Italy,0.0,in,summer,Serie A,2020,True,free loan
+UC Sampdoria,Keita Baldé,25,Senegal,Left Winger,LW,16000000.0,Monaco,France,0.0,in,summer,Serie A,2020,True,free loan
+UC Sampdoria,Karlo Letica,23,Croatia,Goalkeeper,GK,900000.0,Club Brugge,Belgium,0.0,in,summer,Serie A,2020,True,free loan
+UC Sampdoria,Karol Linetty,25,Poland,Central Midfield,CM,10000000.0,Torino,Italy,7500000.0,out,summer,Serie A,2020,False,
+UC Sampdoria,Federico Bonazzoli,23,Italy,Centre-Forward,CF,5000000.0,Torino,Italy,1500000.0,out,summer,Serie A,2020,True,loan with fee
+UC Sampdoria,Gianluca Caprari,27,Italy,Left Winger,LW,6500000.0,Benevento,Italy,1300000.0,out,summer,Serie A,2020,True,loan with fee
+UC Sampdoria,Ronaldo Vieira,22,England,Central Midfield,CM,6500000.0,Hellas Verona,Italy,750000.0,out,summer,Serie A,2020,True,loan with fee
+UC Sampdoria,Fabio Depaoli,23,Italy,Right-Back,RB,4500000.0,Atalanta BC,Italy,600000.0,out,summer,Serie A,2020,True,loan with fee
+UC Sampdoria,Lorenco Simic,24,Croatia,Centre-Back,CB,600000.0,Zaglebie Lubin,Poland,250000.0,out,summer,Serie A,2020,False,
+UC Sampdoria,Alessandro Gabbani,21,Italy,Defensive Midfield,DM,25000.0,Arzignano,Italy,0.0,out,summer,Serie A,2020,False,
+UC Sampdoria,Felice D'Amico,20,Italy,Attacking Midfield,AM,250000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Ibourahima Baldé,21,Spain,Centre-Forward,CF,100000.0,Foggia,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Carlo Romei,21,Italy,Right-Back,RB,25000.0,Potenza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Erik Gerbi,20,Italy,Centre-Forward,CF,100000.0,Teramo,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Antonio Palumbo,24,Italy,Central Midfield,CM,500000.0,Ternana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Antonio Di Nardo,22,Italy,Centre-Forward,CF,50000.0,Arezzo,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Wladimiro Falcone,25,Italy,Goalkeeper,GK,150000.0,Cosenza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Cristian Hadžiosmanović,22,Italy,Right-Back,RB,150000.0,Casertana,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Axel Campeol,20,Italy,Left-Back,LB,50000.0,Grosseto,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Leonardo Capezzi,25,Italy,Defensive Midfield,DM,350000.0,Salernitana,Italy,,out,summer,Serie A,2020,False,
+UC Sampdoria,Ognjen Stijepovic,20,Montenegro,Second Striker,SS,150000.0,Alessandria,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Vid Belec,30,Slovenia,Goalkeeper,GK,600000.0,Salernitana,Italy,,out,summer,Serie A,2020,False,
+UC Sampdoria,Julian Chabot,22,Germany,Centre-Back,CB,3100000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Matteo Stoppa,19,Italy,Centre-Forward,CF,100000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Nicola Murru,25,Italy,Left-Back,LB,5000000.0,Torino,Italy,0.0,out,summer,Serie A,2020,True,free loan
+UC Sampdoria,Michele Rocca,24,Italy,Central Midfield,CM,300000.0,Without Club,,,out,summer,Serie A,2020,False,
+UC Sampdoria,Andrea Bertolacci,29,Italy,Central Midfield,CM,1400000.0,Without Club,,,out,summer,Serie A,2020,False,
+UC Sampdoria,Andrea Seculin,30,Italy,Goalkeeper,GK,200000.0,Chievo Verona,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Gonzalo Maroni,21,Argentina,Attacking Midfield,AM,4000000.0,Boca Juniors,Argentina,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Tommaso Augello,26,Italy,Left-Back,LB,1200000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Lorenzo Tonelli,30,Italy,Centre-Back,CB,2400000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Kristoffer Askildsen,19,Norway,Central Midfield,CM,1000000.0,Stabæk Fotball,Norway,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Maya Yoshida,32,Japan,Centre-Back,CB,3800000.0,Southampton,England,0.0,out,summer,Serie A,2020,True,end of loan
+UC Sampdoria,Ernesto Torregrossa,28,Italy,Centre-Forward,CF,4500000.0,Brescia,Italy,500000.0,in,winter,Serie A,2020,True,loan with fee
+UC Sampdoria,Tommaso Farabegoli,21,Italy,Centre-Back,CB,250000.0,Feralpisalò,Italy,0.0,out,winter,Serie A,2020,True,free loan
+UC Sampdoria,Felice D'Amico,20,Italy,Attacking Midfield,AM,250000.0,Pro Sesto,Italy,0.0,out,winter,Serie A,2020,True,free loan
+UC Sampdoria,Dodô,28,Brazil,Left-Back,LB,500000.0,Atlético-MG,Brazil,0.0,out,winter,Serie A,2020,False,
+UC Sampdoria,Roberts Veips,21,Latvia,Centre-Back,CB,150000.0,Ambrosiana,Italy,0.0,out,winter,Serie A,2020,False,
+UC Sampdoria,Fabio Depaoli,23,Italy,Right-Back,RB,4000000.0,Benevento,Italy,0.0,out,winter,Serie A,2020,True,free loan
+UC Sampdoria,Ognjen Stijepovic,21,Montenegro,Second Striker,SS,100000.0,Grosseto,Italy,0.0,out,winter,Serie A,2020,True,free loan
+UC Sampdoria,Carlo Romei,21,Italy,Right-Back,RB,25000.0,Without Club,,,out,winter,Serie A,2020,False,
+US Sassuolo,Grégoire Defrel,29,Martinique,Centre-Forward,CF,8000000.0,AS Roma,Italy,9000000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Vlad Chiriches,30,Romania,Centre-Back,CB,5000000.0,SSC Napoli,Italy,9000000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Filippo Romagna,23,Italy,Centre-Back,CB,4500000.0,Cagliari Calcio,Italy,4000000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Kaan Ayhan,25,Turkey,Centre-Back,CB,7000000.0,F. Düsseldorf,Germany,2500000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Lukas Haraslin,24,Slovakia,Left Winger,LW,1600000.0,Lechia Gdansk,Poland,1500000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Nicolás Schiappacasse,21,Uruguay,Left Winger,LW,800000.0,Atl. Madrid B,Spain,1300000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Georgios Kyriakopoulos,24,Greece,Left-Back,LB,3000000.0,Asteras Tripoli,Greece,1200000.0,in,summer,Serie A,2020,False,
+US Sassuolo,Maxime López,22,France,Central Midfield,CM,12000000.0,Marseille,France,0.0,in,summer,Serie A,2020,True,free loan
+US Sassuolo,Stefano Sensi,25,Italy,Central Midfield,CM,20000000.0,Inter,Italy,20000000.0,out,summer,Serie A,2020,False,
+US Sassuolo,Alfred Duncan,27,Ghana,Central Midfield,CM,15000000.0,Fiorentina,Italy,15000000.0,out,summer,Serie A,2020,False,
+US Sassuolo,Pol Lirola,23,Spain,Right-Back,RB,10000000.0,Fiorentina,Italy,11000000.0,out,summer,Serie A,2020,False,
+US Sassuolo,Francesco Cassata,23,Italy,Central Midfield,CM,2500000.0,Genoa,Italy,7000000.0,out,summer,Serie A,2020,False,
+US Sassuolo,Alessandro Tripaldelli,21,Italy,Left-Back,LB,450000.0,Cagliari Calcio,Italy,3000000.0,out,summer,Serie A,2020,False,
+US Sassuolo,Andrea Ghion,20,Italy,Defensive Midfield,DM,200000.0,Carpi,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Giacomo Satalino,21,Italy,Goalkeeper,GK,250000.0,Cesena,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Nicholas Pierini,22,Italy,Left Winger,LW,550000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Alessandro Carrozza,20,Italy,Left Winger,LW,50000.0,Roccella,Italy,0.0,out,summer,Serie A,2020,False,
+US Sassuolo,Jens Odgaard,21,Denmark,Centre-Forward,CF,2200000.0,FC Lugano,Switzerland,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Gianluca Scamacca,21,Italy,Centre-Forward,CF,5000000.0,Genoa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Lorenzo Bechini,19,Italy,Left-Back,LB,,Pisa U19,Italy,,out,summer,Serie A,2020,False,
+US Sassuolo,Marco Sala,21,Italy,Left Midfield,LM,1300000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Jérémie Broh,23,Italy,Central Midfield,CM,500000.0,Palermo,Italy,,out,summer,Serie A,2020,False,
+US Sassuolo,Davide Frattesi,20,Italy,Central Midfield,CM,5000000.0,Monza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Luca Mazzitelli,24,Italy,Central Midfield,CM,2500000.0,AC Pisa,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Leonardo Sernicola,23,Italy,Left Midfield,LM,425000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Enrico Brignola,21,Italy,Second Striker,SS,2000000.0,SPAL,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Claud Adjapong,22,Italy,Right-Back,RB,2700000.0,Lecce,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Cristian Dell'Orco,26,Italy,Left-Back,LB,650000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Marco Pinato,25,Italy,Central Midfield,CM,700000.0,Cremonese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Khouma Babacar,27,Senegal,Centre-Forward,CF,4000000.0,Alanyaspor,Turkey,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Giangiacomo Magnani,24,Italy,Centre-Back,CB,3200000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Alessandro Russo,19,Italy,Goalkeeper,GK,300000.0,Virtus Entella,Italy,0.0,out,summer,Serie A,2020,True,free loan
+US Sassuolo,Ettore Gliozzi,24,Italy,Centre-Forward,CF,200000.0,Monza,Italy,,out,summer,Serie A,2020,False,
+US Sassuolo,Leonardo Fontanesi,24,Italy,Centre-Back,CB,100000.0,Without Club,,,out,summer,Serie A,2020,False,
+US Sassuolo,Andreaw Gravillon,22,France,Centre-Back,CB,3500000.0,Inter,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Grégoire Defrel,29,Martinique,Centre-Forward,CF,8000000.0,AS Roma,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Vlad Chiriches,30,Romania,Centre-Back,CB,5000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Georgios Kyriakopoulos,24,Greece,Left-Back,LB,3000000.0,Asteras Tripoli,Greece,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Filippo Romagna,23,Italy,Centre-Back,CB,4500000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Lukas Haraslin,24,Slovakia,Left Winger,LW,1600000.0,Lechia Gdansk,Poland,0.0,out,summer,Serie A,2020,True,end of loan
+US Sassuolo,Giacomo Satalino,21,Italy,Goalkeeper,GK,200000.0,Monopoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Giuseppe Aurelio,20,Italy,Left-Back,LB,75000.0,Imolese,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Nicholas Pierini,22,Italy,Left Winger,LW,550000.0,Modena,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Nicolás Schiappacasse,22,Uruguay,Left Winger,LW,800000.0,Peñarol,Uruguay,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Federico Ricci,26,Italy,Right Winger,RW,1100000.0,Monza,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Raul Steau,19,Romania,Central Midfield,CM,25000.0,Monopoli,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Jens Odgaard,21,Denmark,Centre-Forward,CF,1500000.0,Pescara,Italy,0.0,out,winter,Serie A,2020,True,free loan
+US Sassuolo,Enrico Brignola,21,Italy,Second Striker,SS,2000000.0,Frosinone,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Udinese Calcio,Jean-Victor Makengo,22,France,Central Midfield,CM,3600000.0,OGC Nice,France,3500000.0,in,summer,Serie A,2020,False,
+Udinese Calcio,Kevin Bonifazi,24,Italy,Centre-Back,CB,4000000.0,SPAL,Italy,1000000.0,in,summer,Serie A,2020,True,loan with fee
+Udinese Calcio,Nahuel Molina,22,Argentina,Right-Back,RB,2000000.0,Boca Juniors II,Argentina,0.0,in,summer,Serie A,2020,False,
+Udinese Calcio,Fernando Forestieri,30,Italy,Second Striker,SS,725000.0,Sheff Wed,England,0.0,in,summer,Serie A,2020,False,
+Udinese Calcio,Tolgay Arslan,30,Germany,Central Midfield,CM,1000000.0,Fenerbahce,Turkey,0.0,in,summer,Serie A,2020,False,
+Udinese Calcio,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Juventus,Italy,0.0,in,summer,Serie A,2020,True,free loan
+Udinese Calcio,Thomas Ouwejan,23,Netherlands,Left-Back,LB,2400000.0,AZ Alkmaar,Netherlands,0.0,in,summer,Serie A,2020,True,free loan
+Udinese Calcio,Roberto Pereyra,29,Argentina,Attacking Midfield,AM,9000000.0,Watford,England,,in,summer,Serie A,2020,False,
+Udinese Calcio,Ignacio Pussetto,24,Argentina,Right Winger,RW,6500000.0,Watford,England,0.0,in,summer,Serie A,2020,True,free loan
+Udinese Calcio,Gerard Deulofeu,26,Spain,Left Winger,LW,20000000.0,Watford,England,0.0,in,summer,Serie A,2020,True,free loan
+Udinese Calcio,Rolando Mandragora,23,Italy,Defensive Midfield,DM,12000000.0,Juventus,Italy,10700000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Seko Fofana,25,Cote d'Ivoire,Central Midfield,CM,9500000.0,Lens,France,8500000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Giuseppe Pezzella,22,Italy,Left-Back,LB,3500000.0,Parma,Italy,6450000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Emmanuel Badu,29,Ghana,Central Midfield,CM,850000.0,Hellas Verona,Italy,800000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Aly Malle,22,Mali,Right Winger,RW,400000.0,Ascoli,Italy,500000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Andrija Balic,22,Croatia,Central Midfield,CM,900000.0,Dunajska Streda,Slovakia,350000.0,out,summer,Serie A,2020,False,
+Udinese Calcio,Francisco Sierralta,23,Chile,Centre-Back,CB,350000.0,Watford,England,,out,summer,Serie A,2020,False,
+Udinese Calcio,Stipe Perica,25,Croatia,Centre-Forward,CF,1400000.0,Watford,England,,out,summer,Serie A,2020,False,
+Udinese Calcio,Antonin Barak,25,Czech Republic,Attacking Midfield,AM,8000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Federico Ermacora,20,Italy,Left-Back,LB,75000.0,Carrarese,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Svante Ingelsson,22,Sweden,Central Midfield,CM,700000.0,SC Paderborn,Germany,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Riad Bajić,26,Bosnia-Herzegovina,Centre-Forward,CF,1200000.0,Ascoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,William Troost-Ekong,27,Nigeria,Centre-Back,CB,3200000.0,Watford,England,,out,summer,Serie A,2020,False,
+Udinese Calcio,Ryder Matos,27,Brazil,Second Striker,SS,1000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Samuele Perisan,23,Italy,Goalkeeper,GK,150000.0,Pordenone,Italy,,out,summer,Serie A,2020,False,
+Udinese Calcio,Lukasz Teodorczyk,29,Poland,Centre-Forward,CF,1500000.0,RSC Charleroi,Belgium,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Marco Ballarini,19,Italy,Right Midfield,RM,50000.0,Piacenza,Italy,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Emanuele Rovini,25,Italy,Centre-Forward,CF,150000.0,Without Club,,,out,summer,Serie A,2020,False,
+Udinese Calcio,Felipe Vizeu,23,Brazil,Centre-Forward,CF,1000000.0,Ceará SC,Brazil,0.0,out,summer,Serie A,2020,True,free loan
+Udinese Calcio,Ken Sema,26,Sweden,Left Midfield,LM,4800000.0,Watford,England,0.0,out,summer,Serie A,2020,True,end of loan
+Udinese Calcio,Fernando Llorente,35,Spain,Centre-Forward,CF,1000000.0,SSC Napoli,Italy,0.0,in,winter,Serie A,2020,False,
+Udinese Calcio,Gerard Deulofeu,26,Spain,Left Winger,LW,12000000.0,Watford,England,,in,winter,Serie A,2020,False,
+Udinese Calcio,Jayden Braaf,18,Netherlands,Left Winger,LW,,Man City U23,England,0.0,in,winter,Serie A,2020,True,free loan
+Udinese Calcio,Hidde ter Avest,23,Netherlands,Right-Back,RB,1600000.0,FC Utrecht,Netherlands,0.0,out,winter,Serie A,2020,False,
+Udinese Calcio,Ewandro Costa,25,Brazil,Right Winger,RW,400000.0,CRB,Brazil,0.0,out,winter,Serie A,2020,False,
+Udinese Calcio,Mamadou Coulibaly,21,Senegal,Central Midfield,CM,1800000.0,Salernitana,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Udinese Calcio,Nícolas,32,Brazil,Goalkeeper,GK,350000.0,Reggina,Italy,,out,winter,Serie A,2020,False,
+Udinese Calcio,Kevin Lasagna,28,Italy,Centre-Forward,CF,7500000.0,Hellas Verona,Italy,0.0,out,winter,Serie A,2020,True,free loan
+Udinese Calcio,Cristo,23,Spain,Centre-Forward,CF,2500000.0,CD Mirandés,Spain,0.0,out,winter,Serie A,2020,True,free loan
