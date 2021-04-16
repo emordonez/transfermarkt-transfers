@@ -140,7 +140,10 @@ def tidy_transfers(dataframe):
 
         if pd.isna(val) or val == '-' or val == '?':
             return np.nan
-        
+
+        if val == '0':
+            return 0
+
         # Hack to get around some entries using comma decimal separators
         val = val[1:].lower().replace(',', '.')
         if val[-1] == 'm':

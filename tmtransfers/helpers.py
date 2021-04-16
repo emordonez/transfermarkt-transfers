@@ -74,6 +74,9 @@ def _get_transfers(soup):
         df_list.append(_table_to_df(club, table_in, "in"))
         df_list.append(_table_to_df(club, table_out, "out"))
 
+    if not df_list:
+        return pd.DataFrame(columns=COLUMN_HEADERS)
+
     return pd.concat(df_list, ignore_index=True)
 
 
