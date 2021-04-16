@@ -2,28 +2,30 @@
 
 All soccer/football club transfers from 1992/93&ndash;2020/21 for 10 of the top European leagues, namely
 
-1. ENG :england: Premier League
-2. ESP :es: La Liga
-3. GER :de: Bundesliga
-4. ITA :it: Serie A
-5. FRA :fr: Ligue 1
-6. POR :portugal: Primeira Liga
-7. NLD :netherlands: Eredivisie
-8. RUS :ru: Premier Liga
-9. BEL :belgium: Jupiler Pro League
-10. SCO :scotland: Scottish Premiership
+1. Premier League :england:
+2. La Liga :es:
+3. Bundesliga :de:
+4. Serie A :it:
+5. Ligue 1 :fr:
+6. Primeira Liga :portugal:
+7. Eredivisie :netherlands:
+8. Premier Liga* :ru:
+9. Jupiler Pro League* :belgium:
+10. Scottish Premiership* :scotland:
 
 Data were obtained by web scraping league transfer data from [Transfermarkt](https://www.transfermarkt.com/).
+
+\* _Transfermarkt does not provide data for the 2011/12 Premier Liga season, the 1992/93 and 1993/94 Jupiler Pro League seasons, or the 1992/93&ndash;2002/03 Scottish Premiership seasons._
 
 ## Data
 
 All data are provided in the `data` directory and grouped into season subdirectories.
 **Feel free to use this dataset for your own purposes!**
-Consult the [README](./data/README.md) for metadata and caveats.
+Consult the [README](./data/README.md) for more information.
 
 ## Usage
 
-If you'd like to scrape and clean the data yourself, you can use the Python script provided by `tmtransfers`.
+If you'd like to pull the raw data directly from the source or scrape data for other countries and leagues, you can use the Python script provided by `tmtransfers`.
 
 ### Setup and running the script
 
