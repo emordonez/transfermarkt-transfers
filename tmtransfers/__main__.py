@@ -142,6 +142,22 @@ if __name__ == "__main__":
             internal = 1
         break
 
+    print("\nClean the data with tidy_transfers (Y/n)?")
+    while True:
+        options = ['y', 'n', 'yes', 'no']
+        choice = input("===> ").lower()
+        if not choice:
+            clean = True
+            break
+        if choice not in options:
+            print("Please enter y/n.")
+            continue
+        elif choice == 'y' or choice == 'yes':
+            clean = True
+        elif choice == 'n' or choice == 'no':
+            clean = False
+        break
+
     sites = {
         1: "https://transfermarkt.com",
         2: "https://www.transfermarkt.co.uk",
@@ -194,6 +210,7 @@ if __name__ == "__main__":
                 window=window,
                 loans=loans,
                 internal=internal,
+                clean=clean,
                 write=True
                 )
             print(f"({i}/{n}) Done with: {league_id + ' ' + league_name}")

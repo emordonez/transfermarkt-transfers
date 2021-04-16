@@ -28,6 +28,7 @@ def scrape_transfermarkt(
     window="",
     loans="3",
     internal="0",
+    clean=False,
     write=False
 ):
     """Web scrapes Transfermarkt for the specified transfer activity in the
@@ -45,6 +46,7 @@ def scrape_transfermarkt(
             loans only, "3" to exclude players returning from loan.
         internal (str): "0" to exclude movements within clubs, "1" to
             include.
+        clean (bool): True to clean with tidy_transfers.
         write (bool): True to export data as a CSV.
         
     Returns:
@@ -85,6 +87,8 @@ def scrape_transfermarkt(
     transfers_df['league'] = league_name
     transfers_df['season'] = season
     
+    if clean:
+        transfers_df = tidy_transfers(transfers_df)
     if write:
         helpers._export_csv(transfers_df, league_name, season)
 
