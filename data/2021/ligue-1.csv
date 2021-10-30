@@ -1,0 +1,394 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Paris Saint-Germain,Amadou Onana,19,Belgium,Defensive Midfield,DM,6000000.0,Hamburger SV,Germany,7000000.0,in,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Gabriel Gudmundsson,22,Sweden,Left-Back,LB,4000000.0,FC Groningen,Netherlands,6000000.0,in,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Ivo Grbic,25,Croatia,Goalkeeper,GK,3500000.0,Atlético Madrid,Spain,0.0,in,summer,Ligue 1,2021,True,free loan
+Paris Saint-Germain,Boubakary Soumaré,22,France,Defensive Midfield,DM,28000000.0,Leicester,England,20000000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Mike Maignan,25,France,Goalkeeper,GK,25000000.0,AC Milan,Italy,14300000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Luiz Araújo,25,Brazil,Right Winger,RW,10000000.0,Atlanta United,United States,10910000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Rominigue Kouamé,24,Mali,Central Midfield,CM,2500000.0,Troyes,France,2500000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Adama Soumaoro,29,France,Centre-Back,CB,4000000.0,Bologna,Italy,2500000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Jean Onana,21,Cameroon,Defensive Midfield,DM,2500000.0,G. Bordeaux,France,2000000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Hervé Koffi,24,Burkina Faso,Goalkeeper,GK,2400000.0,RSC Charleroi,Belgium,500000.0,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Scotty Sadzoute,23,France,Left-Back,LB,600000.0,OH Leuven,Belgium,,out,summer,Ligue 1,2021,False,
+Paris Saint-Germain,Lucas Chevalier,19,France,Goalkeeper,GK,800000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Achraf Hakimi,22,Morocco,Right-Back,RB,70000000.0,Inter,Italy,60000000.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Danilo Pereira,29,Portugal,Defensive Midfield,DM,16000000.0,FC Porto,Portugal,16000000.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Nuno Mendes,19,Portugal,Left-Back,LB,40000000.0,Sporting CP,Portugal,7000000.0,in,summer,Ligue 1,2021,True,loan with fee
+AS Monaco,Gianluigi Donnarumma,22,Italy,Goalkeeper,GK,65000000.0,AC Milan,Italy,0.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Lionel Messi,34,Argentina,Right Winger,RW,80000000.0,Barcelona,Spain,0.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Sergio Ramos,35,Spain,Centre-Back,CB,10000000.0,Real Madrid,Spain,0.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Georginio Wijnaldum,30,Netherlands,Central Midfield,CM,30000000.0,Liverpool,England,0.0,in,summer,Ligue 1,2021,False,
+AS Monaco,Mitchel Bakker,21,Netherlands,Left-Back,LB,10000000.0,Bay. Leverkusen,Germany,7000000.0,out,summer,Ligue 1,2021,False,
+AS Monaco,Pablo Sarabia,29,Spain,Right Winger,RW,25000000.0,Sporting CP,Portugal,2000000.0,out,summer,Ligue 1,2021,True,loan with fee
+AS Monaco,Alphonse Areola,28,France,Goalkeeper,GK,14000000.0,West Ham,England,2000000.0,out,summer,Ligue 1,2021,True,loan with fee
+AS Monaco,Kays Ruiz-Atil,18,France,Central Midfield,CM,3000000.0,Barcelona B,Spain,0.0,out,summer,Ligue 1,2021,False,
+AS Monaco,Thierno Baldé,19,France,Right-Back,RB,800000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Timothée Pembélé,18,France,Centre-Back,CB,7000000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Garissone Innocent,21,Haiti,Goalkeeper,GK,300000.0,Vannes,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Kenny Nagera,19,France,Centre-Forward,CF,450000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Marcin Bulka,21,Poland,Goalkeeper,GK,800000.0,OGC Nice,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Arnaud Kalimuendo,19,France,Centre-Forward,CF,10000000.0,Lens,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Monaco,Alessandro Florenzi,30,Italy,Right-Back,RB,8000000.0,AS Roma,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+AS Monaco,Danilo Pereira,29,Portugal,Defensive Midfield,DM,16000000.0,FC Porto,Portugal,0.0,out,summer,Ligue 1,2021,True,end of loan
+AS Monaco,Moise Kean,21,Italy,Centre-Forward,CF,35000000.0,Everton,England,0.0,out,summer,Ligue 1,2021,True,end of loan
+Olympique Lyon,Myron Boadu,20,Netherlands,Centre-Forward,CF,15000000.0,AZ Alkmaar,Netherlands,17000000.0,in,summer,Ligue 1,2021,False,
+Olympique Lyon,Jean Lucas,23,Brazil,Central Midfield,CM,8000000.0,Olympique Lyon,France,11000000.0,in,summer,Ligue 1,2021,False,
+Olympique Lyon,Ismail Jakobs,21,Germany,Left Midfield,LM,7000000.0,1. FC Köln,Germany,6500000.0,in,summer,Ligue 1,2021,False,
+Olympique Lyon,Alexander Nübel,24,Germany,Goalkeeper,GK,6000000.0,FC Bayern,Germany,0.0,in,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Benjamin Henrichs,24,Germany,Right-Back,RB,9000000.0,RB Leipzig,Germany,15000000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Fodé Ballo-Touré,24,Senegal,Left-Back,LB,6500000.0,AC Milan,Italy,5000000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Henry Onyekuru,24,Nigeria,Left Winger,LW,7000000.0,Olympiacos,Greece,4500000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Giulian Biancone,21,France,Right-Back,RB,2500000.0,Troyes,France,2500000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Enzo Millot,19,France,Central Midfield,CM,2000000.0,VfB Stuttgart,Germany,1750000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Gil Dias,24,Portugal,Left-Back,LB,3000000.0,Benfica,Portugal,1500000.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Pietro Pellegri,20,Italy,Centre-Forward,CF,6000000.0,AC Milan,Italy,1000000.0,out,summer,Ligue 1,2021,True,loan with fee
+Olympique Lyon,Jorge,25,Brazil,Left-Back,LB,3200000.0,Palmeiras,Brazil,0.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Stevan Jovetic,31,Montenegro,Centre-Forward,CF,3000000.0,Hertha BSC,Germany,0.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Youssef Aït Bennasser,25,Morocco,Central Midfield,CM,1000000.0,Adanaspor,Turkey,0.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Keita Baldé,26,Senegal,Centre-Forward,CF,8000000.0,Cagliari Calcio,Italy,0.0,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Arthur Zagre,19,France,Left-Back,LB,2000000.0,FC Utrecht,Netherlands,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Jean-Eudes Aholou,27,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Benjamin Lecomte,30,France,Goalkeeper,GK,9000000.0,Atlético Madrid,Spain,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Antonio Barreca,26,Italy,Left-Back,LB,2000000.0,Lecce,Italy,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Anthony Musaba,20,Netherlands,Right Winger,RW,2200000.0,Heerenveen,Netherlands,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Willem Geubbels,20,France,Left Winger,LW,6000000.0,FC Nantes,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Lyon,Loïc Badiashile,23,France,Goalkeeper,GK,400000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Adrien Bongiovanni,21,Belgium,Attacking Midfield,AM,450000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Julien Serrano,23,France,Left-Back,LB,600000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Olympique Lyon,Florentino,21,Portugal,Defensive Midfield,DM,10000000.0,Benfica,Portugal,0.0,out,summer,Ligue 1,2021,True,end of loan
+Olympique Marseille,Xherdan Shaqiri,29,Switzerland,Right Winger,RW,10000000.0,Liverpool,England,6000000.0,in,summer,Ligue 1,2021,False,
+Olympique Marseille,Emerson,27,Italy,Left-Back,LB,14000000.0,Chelsea,England,500000.0,in,summer,Ligue 1,2021,True,loan with fee
+Olympique Marseille,Damien Da Silva,33,France,Centre-Back,CB,1500000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2021,False,
+Olympique Marseille,Henrique,27,Brazil,Left-Back,LB,1000000.0,Vasco da Gama,Brazil,0.0,in,summer,Ligue 1,2021,False,
+Olympique Marseille,Jérôme Boateng,32,Germany,Centre-Back,CB,8500000.0,Without Club,,,in,summer,Ligue 1,2021,False,
+Olympique Marseille,Joachim Andersen,25,Denmark,Centre-Back,CB,22000000.0,Crystal Palace,England,17500000.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Maxwel Cornet,24,Cote d'Ivoire,Left Winger,LW,12000000.0,Burnley,England,15000000.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Jean Lucas,23,Brazil,Central Midfield,CM,8000000.0,Monaco,France,11000000.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Melvin Bard,20,France,Left-Back,LB,8000000.0,OGC Nice,France,3000000.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Memphis Depay,27,Netherlands,Centre-Forward,CF,45000000.0,Barcelona,Spain,0.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Djamel Eddine Benlamri,31,Algeria,Centre-Back,CB,850000.0,Qatar SC,Qatar,0.0,out,summer,Ligue 1,2021,False,
+Olympique Marseille,Yahya Soumaré,21,France,Right Winger,RW,400000.0,Dijon,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Marseille,Youssouf Koné,26,Mali,Left-Back,LB,1600000.0,Troyes,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Marseille,Cenk Özkacar,20,Turkey,Centre-Back,CB,1200000.0,OH Leuven,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+Olympique Marseille,Mattia De Sciglio,28,Italy,Right-Back,RB,7500000.0,Juventus,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Rennais FC,Gerson,24,Brazil,Central Midfield,CM,20000000.0,Flamengo,Brazil,25000000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Leonardo Balerdi,22,Argentina,Centre-Back,CB,10000000.0,Bor. Dortmund,Germany,11000000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Arkadiusz Milik,27,Poland,Centre-Forward,CF,20000000.0,SSC Napoli,Italy,9000000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Pol Lirola,24,Spain,Right-Back,RB,9000000.0,Fiorentina,Italy,6500000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Luan Peres,26,Brazil,Centre-Back,CB,6000000.0,Santos FC,Brazil,4500000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Konrad de la Fuente,19,United States,Left Winger,LW,6000000.0,Barcelona B,Spain,3000000.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Pau López,26,Spain,Goalkeeper,GK,10000000.0,AS Roma,Italy,720000.0,in,summer,Ligue 1,2021,True,loan with fee
+Stade Rennais FC,Cengiz Ünder,23,Turkey,Right Winger,RW,18000000.0,AS Roma,Italy,500000.0,in,summer,Ligue 1,2021,True,loan with fee
+Stade Rennais FC,Pedro Ruiz,21,Spain,Centre-Forward,CF,250000.0,RM Castilla,Spain,0.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Bilal Nadir,17,France,Central Midfield,CM,100000.0,Nizza U19,France,0.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,Salim Ben Seghir,18,France,Left Winger,LW,400000.0,OGC Nice B,France,0.0,in,summer,Ligue 1,2021,False,
+Stade Rennais FC,William Saliba,20,France,Centre-Back,CB,18000000.0,Arsenal,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Amine Harit,24,Morocco,Attacking Midfield,AM,10000000.0,FC Schalke 04,Germany,0.0,in,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Mattéo Guendouzi,22,France,Central Midfield,CM,22000000.0,Arsenal,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Maxime López,23,France,Central Midfield,CM,10000000.0,Sassuolo,Italy,2000000.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Hiroki Sakai,31,Japan,Right-Back,RB,4000000.0,Urawa Reds,Japan,1500000.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Nemanja Radonjic,25,Serbia,Left Winger,LW,6000000.0,Benfica,Portugal,1000000.0,out,summer,Ligue 1,2021,True,loan with fee
+Stade Rennais FC,Florian Thauvin,28,France,Right Winger,RW,14000000.0,Tigres UANL,Mexico,0.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Saîf-Eddine Khaoui,26,Tunisia,Attacking Midfield,AM,1800000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Valère Germain,31,France,Centre-Forward,CF,3000000.0,Montpellier,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Christopher Rocchia,23,France,Left-Back,LB,1000000.0,Dijon,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Pedro Ruiz,21,Spain,Centre-Forward,CF,250000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Mohamed Abdallah,22,Comoros,Right-Back,RB,150000.0,Stade-Lausanne,Switzerland,,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Darío Benedetto,31,Argentina,Centre-Forward,CF,5000000.0,Elche CF,Spain,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Lucas Perrin,22,France,Centre-Back,CB,1800000.0,R. Strasbourg,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Kevin Strootman,31,Netherlands,Central Midfield,CM,5000000.0,Cagliari Calcio,Italy,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Rennais FC,Ahmadou Dia,21,France,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Yuto Nagatomo,34,Japan,Left-Back,LB,800000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Yohann Pelé,38,France,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Stade Rennais FC,Olivier Ntcham,25,France,Central Midfield,CM,3000000.0,Celtic,Scotland,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Rennais FC,Arkadiusz Milik,27,Poland,Centre-Forward,CF,20000000.0,SSC Napoli,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Rennais FC,Pol Lirola,23,Spain,Right-Back,RB,9000000.0,Fiorentina,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Rennais FC,Michaël Cuisance,21,France,Central Midfield,CM,7000000.0,FC Bayern,Germany,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Rennais FC,Leonardo Balerdi,22,Argentina,Centre-Back,CB,10000000.0,Bor. Dortmund,Germany,0.0,out,summer,Ligue 1,2021,True,end of loan
+RC Lens,Loïc Badé,21,France,Centre-Back,CB,17000000.0,Lens,France,17000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Gaëtan Laborde,27,France,Centre-Forward,CF,15000000.0,Montpellier,France,15000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Kamaldeen Sulemana,19,Ghana,Left Winger,LW,15000000.0,Nordsjaelland,Denmark,15000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Baptiste Santamaria,26,France,Defensive Midfield,DM,15000000.0,SC Freiburg,Germany,14000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Lovro Majer,23,Croatia,Attacking Midfield,AM,13000000.0,Dinamo Zagreb,Croatia,12000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Dogan Alemdar,18,Turkey,Goalkeeper,GK,3500000.0,Kayserispor,Turkey,3500000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Birger Meling,26,Norway,Left-Back,LB,5000000.0,Nîmes Olympique,France,3000000.0,in,summer,Ligue 1,2021,False,
+RC Lens,Eduardo Camavinga,18,France,Central Midfield,CM,55000000.0,Real Madrid,Spain,31000000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Faitout Maouassa,23,France,Left-Back,LB,9000000.0,Club Brugge,Belgium,4000000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Jordan Siebatcheu,25,United States,Centre-Forward,CF,5000000.0,BSC Young Boys,Switzerland,2500000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Brandon Soppy,19,France,Right-Back,RB,7000000.0,Udinese Calcio,Italy,2000000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Lilian Brassier,21,France,Centre-Back,CB,3000000.0,Stade Brestois,France,2000000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Gerzino Nyamsi,24,France,Centre-Back,CB,3500000.0,R. Strasbourg,France,1500000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Romain Del Castillo,25,France,Right Winger,RW,3500000.0,Stade Brestois,France,1500000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Sacha Boey,20,France,Right-Back,RB,4200000.0,Galatasaray,Turkey,1150000.0,out,summer,Ligue 1,2021,False,
+RC Lens,Damien Da Silva,33,France,Centre-Back,CB,1500000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2021,False,
+RC Lens,M'Baye Niang,26,Senegal,Centre-Forward,CF,4500000.0,G. Bordeaux,France,0.0,out,summer,Ligue 1,2021,False,
+RC Lens,Franck Rivollier,20,France,Centre-Forward,CF,,Stade Briochin,France,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Lens,Rafik Guitane,22,France,Attacking Midfield,AM,2500000.0,Stade Reims,France,,out,summer,Ligue 1,2021,False,
+RC Lens,James Léa Siliki,25,Cameroon,Central Midfield,CM,4000000.0,Middlesbrough,England,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Lens,Yann Gboho,20,France,Left Winger,LW,4500000.0,Vitesse,Netherlands,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Lens,Hakim El Mokeddem,22,France,Attacking Midfield,AM,250000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+RC Lens,Clément Grenier,30,France,Central Midfield,CM,3000000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+RC Lens,Steven Nzonzi,32,France,Defensive Midfield,DM,8000000.0,AS Roma,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+RC Lens,Dalbert,27,Brazil,Left-Back,LB,4000000.0,Inter,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Montpellier HSC,Kevin Danso,22,Austria,Centre-Back,CB,5500000.0,FC Augsburg,Germany,5500000.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Gaël Kakuta,30,DR Congo,Attacking Midfield,AM,8000000.0,Amiens SC,France,5000000.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Przemyslaw Frankowski,26,Poland,Left Midfield,LM,4500000.0,Chicago Fire,United States,2300000.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Deiver Machado,27,Colombia,Left-Back,LB,2000000.0,Toulouse,France,1800000.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Wuilker Fariñez,23,Venezuela,Goalkeeper,GK,2500000.0,Millonarios,Colombia,1500000.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Valentino Lesieur,18,Portugal,Goalkeeper,GK,300000.0,FC Nantes U19,France,0.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Wesley Saïd,26,France,Left Winger,LW,1500000.0,Toulouse,France,0.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Christopher Wooh,19,France,Centre-Back,CB,2000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Mamadou Camara,18,Senegal,Central Midfield,CM,150000.0,Sacré-Cœur,Senegal,,in,summer,Ligue 1,2021,False,
+Montpellier HSC,Arnaud Kalimuendo,19,France,Centre-Forward,CF,10000000.0,Paris SG,France,0.0,in,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Loïc Badé,21,France,Centre-Back,CB,17000000.0,Stade Rennais,France,17000000.0,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Clément Michelin,24,France,Right-Back,RB,2500000.0,AEK Athens,Greece,1000000.0,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Zakaria Diallo,35,France,Centre-Back,CB,300000.0,Al-Shabab,Kuwait,0.0,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Cheick Traoré,26,Mali,Right-Back,RB,800000.0,Dijon,France,0.0,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Thomas Vincensini,27,France,Goalkeeper,GK,400000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Boubakar Camara,20,France,Right Winger,RW,,Le Mans FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Adam Oudjani,19,Algeria,Attacking Midfield,AM,150000.0,Stade Briochin,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Ismaël Boura,21,France,Left-Back,LB,1500000.0,AC Le Havre,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Tony Mauricio,27,France,Attacking Midfield,AM,1800000.0,FC Sochaux,France,,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Steven Fortes,29,Cape Verde,Centre-Back,CB,800000.0,KV Oostende,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Simon Banza,25,France,Centre-Forward,CF,2500000.0,Famalicão,Portugal,0.0,out,summer,Ligue 1,2021,True,free loan
+Montpellier HSC,Valentin Belon,26,France,Goalkeeper,GK,150000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Montpellier HSC,Wuilker Fariñez,23,Venezuela,Goalkeeper,GK,2500000.0,Millonarios,Colombia,0.0,out,summer,Ligue 1,2021,True,end of loan
+Montpellier HSC,Arnaud Kalimuendo,19,France,Centre-Forward,CF,10000000.0,Paris SG,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+Montpellier HSC,Gaël Kakuta,30,DR Congo,Attacking Midfield,AM,8000000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+Montpellier HSC,Issiaga Sylla,27,Guinea,Left-Back,LB,2000000.0,Toulouse,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+OGC Nice,Thuler,22,Brazil,Centre-Back,CB,1500000.0,Flamengo,Brazil,200000.0,in,summer,Ligue 1,2021,True,loan with fee
+OGC Nice,Mamadou Sakho,31,France,Centre-Back,CB,6000000.0,Crystal Palace,England,0.0,in,summer,Ligue 1,2021,False,
+OGC Nice,Valère Germain,31,France,Centre-Forward,CF,3000000.0,Marseille,France,0.0,in,summer,Ligue 1,2021,False,
+OGC Nice,Léo Leroy,21,France,Central Midfield,CM,1500000.0,LB Châteauroux,France,0.0,in,summer,Ligue 1,2021,False,
+OGC Nice,Nicholas Gioacchini,21,United States,Centre-Forward,CF,1500000.0,SM Caen,France,0.0,in,summer,Ligue 1,2021,True,free loan
+OGC Nice,Gaëtan Laborde,27,France,Centre-Forward,CF,15000000.0,Stade Rennais,France,15000000.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Andy Delort,29,Algeria,Centre-Forward,CF,13000000.0,OGC Nice,France,10000000.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Petar Skuletic,31,Serbia,Centre-Forward,CF,500000.0,Sabah FK,Azerbaijan,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Bastian Badu,21,France,Centre-Forward,CF,600000.0,Le Mans FC,France,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Damien Le Tallec,31,France,Defensive Midfield,DM,1800000.0,AEK Athens,Greece,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Daniel Congré,36,France,Centre-Back,CB,500000.0,Dijon,France,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Yanis Ammour,22,France,Centre-Forward,CF,200000.0,AEK Athens B,Greece,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Il-lok Yun,29,"Korea, South",Left Winger,LW,1000000.0,Ulsan Hyundai,"Korea, South",0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Samy Benchamma,21,France,Central Midfield,CM,400000.0,Chamois Niort,France,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Keagan Dolly,28,South Africa,Left Winger,LW,1000000.0,Kaizer Chiefs,South Africa,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Kylian Kaïboué,22,France,Left-Back,LB,400000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2021,False,
+OGC Nice,Clément Vidal,21,France,Centre-Back,CB,450000.0,AC Ajaccio,France,0.0,out,summer,Ligue 1,2021,True,free loan
+OGC Nice,Thibaut Vargas,21,France,Right-Back,RB,400000.0,LB Châteauroux,France,,out,summer,Ligue 1,2021,False,
+OGC Nice,Hilton,43,Brazil,Centre-Back,CB,,,,,out,summer,Ligue 1,2021,False,
+FC Metz,Calvin Stengs,22,Netherlands,Right Winger,RW,15000000.0,AZ Alkmaar,Netherlands,15000000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Andy Delort,29,Algeria,Centre-Forward,CF,13000000.0,Montpellier,France,10000000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Jean-Clair Todibo,21,France,Centre-Back,CB,14000000.0,Barcelona,Spain,8500000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Pablo Rosario,24,Netherlands,Defensive Midfield,DM,6000000.0,PSV Eindhoven,Netherlands,6000000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Mario Lemina,27,Gabon,Defensive Midfield,DM,10000000.0,Southampton,England,5500000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Melvin Bard,20,France,Left-Back,LB,8000000.0,Olympique Lyon,France,3000000.0,in,summer,Ligue 1,2021,False,
+FC Metz,Jean N'Guessan,18,Cote d'Ivoire,Central Midfield,CM,100000.0,RC Abidjan,Cote d'Ivoire,,in,summer,Ligue 1,2021,False,
+FC Metz,Marcin Bulka,21,Poland,Goalkeeper,GK,800000.0,Paris SG,France,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Metz,Justin Kluivert,22,Netherlands,Left Winger,LW,14000000.0,AS Roma,Italy,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Metz,Wylan Cyprien,26,France,Central Midfield,CM,6000000.0,Parma,Italy,6700000.0,out,summer,Ligue 1,2021,False,
+FC Metz,Stanley Nsoki,22,France,Centre-Back,CB,6000000.0,Club Brugge,Belgium,6500000.0,out,summer,Ligue 1,2021,False,
+FC Metz,Pierre Lees-Melou,28,France,Central Midfield,CM,7000000.0,Norwich,England,6000000.0,out,summer,Ligue 1,2021,False,
+FC Metz,Myziane Maolida,22,France,Left Winger,LW,5000000.0,Hertha BSC,Germany,4000000.0,out,summer,Ligue 1,2021,False,
+FC Metz,Racine Coly,25,Senegal,Left-Back,LB,1300000.0,Estoril Praia,Portugal,0.0,out,summer,Ligue 1,2021,False,
+FC Metz,Ibrahim Cissé,22,Cote d'Ivoire,Centre-Back,CB,500000.0,Le Mans FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Metz,Alexis Trouillet,20,France,Central Midfield,CM,1500000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Metz,Hicham Mahou,21,France,Right Winger,RW,800000.0,Lausanne-Sport,Switzerland,,out,summer,Ligue 1,2021,False,
+FC Metz,Armel Zohouri,20,Cote d'Ivoire,Right-Back,RB,500000.0,Lausanne-Sport,Switzerland,,out,summer,Ligue 1,2021,False,
+FC Metz,Trazié Thomas,22,Cote d'Ivoire,Central Midfield,CM,500000.0,Lausanne-Sport,Switzerland,,out,summer,Ligue 1,2021,False,
+FC Metz,Pedro Brazão,18,Portugal,Attacking Midfield,AM,1200000.0,Famalicão,Portugal,,out,summer,Ligue 1,2021,False,
+FC Metz,Dan Ndoye,20,Switzerland,Right Winger,RW,4000000.0,FC Basel,Switzerland,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Metz,Andy Pelmard,21,France,Centre-Back,CB,4000000.0,FC Basel,Switzerland,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Metz,Jean N'Guessan,18,Cote d'Ivoire,Central Midfield,CM,100000.0,Lausanne-Sport,Switzerland,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Metz,Yoan Cardinale,27,France,Goalkeeper,GK,500000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Metz,Jean-Clair Todibo,21,France,Centre-Back,CB,14000000.0,Barcelona,Spain,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Metz,William Saliba,20,France,Centre-Back,CB,18000000.0,Arsenal,England,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Metz,Jeff Reine-Adélaïde,23,France,Attacking Midfield,AM,20000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Metz,Rony Lopes,25,Portugal,Right Winger,RW,7000000.0,Sevilla FC,Spain,0.0,out,summer,Ligue 1,2021,True,end of loan
+AS Saint-Étienne,Nicolas de Préville,30,France,Centre-Forward,CF,3000000.0,G. Bordeaux,France,0.0,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Amine Bassi,23,Morocco,Attacking Midfield,AM,2000000.0,AS Nancy,France,0.0,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Sofiane Alakouch,22,Morocco,Right-Back,RB,2000000.0,Nîmes Olympique,France,0.0,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Pape Sarr,18,Senegal,Defensive Midfield,DM,20000000.0,Spurs,England,0.0,in,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,David Oberhauser,30,France,Goalkeeper,GK,400000.0,Le Puy Foot,France,,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Lenny Joseph,20,France,Centre-Forward,CF,400000.0,Le Puy Foot,France,,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Sikou Niakaté,22,France,Centre-Back,CB,2200000.0,Guingamp,France,0.0,in,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Jemerson,29,Brazil,Centre-Back,CB,2500000.0,Without Club,,,in,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Pape Sarr,18,Senegal,Defensive Midfield,DM,20000000.0,Spurs,England,16900000.0,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Victorien Angban,24,Cote d'Ivoire,Central Midfield,CM,3500000.0,Sochi,Russia,4099999.9999999995,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Thierry Ambrose,24,France,Centre-Forward,CF,2000000.0,KV Oostende,Belgium,500000.0,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,John Boye,34,Ghana,Centre-Back,CB,800000.0,Al-Fayha,Saudi Arabia,0.0,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Amadou Ndiaye,21,Senegal,Centre-Forward,CF,200000.0,Le Mans FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Mathieu Cachbach,20,Belgium,Central Midfield,CM,100000.0,RFC Seraing,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Vagner,25,Cape Verde,Right Winger,RW,3500000.0,FC Sion,Switzerland,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Georges Mikautadze,20,Georgia,Centre-Forward,CF,1800000.0,RFC Seraing,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Mamadou Fofana,23,Mali,Centre-Back,CB,2200000.0,Amiens SC,France,,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Youssef Maziz,23,France,Attacking Midfield,AM,1500000.0,RFC Seraing,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+AS Saint-Étienne,Ernest Boahene,21,Ghana,Right-Back,RB,150000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+AS Saint-Étienne,Aaron Leya Iseka,23,Belgium,Centre-Forward,CF,2500000.0,Toulouse,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Girondins Bordeaux,Ignacio Ramírez,24,Uruguay,Centre-Forward,CF,2500000.0,Liverpool FC,Uruguay,300000.0,in,summer,Ligue 1,2021,True,loan with fee
+FC Girondins Bordeaux,Kévin Monnet-Paquet,32,Rwanda,Left Winger,LW,900000.0,Aris Limassol,Cyprus,0.0,out,summer,Ligue 1,2021,False,
+FC Girondins Bordeaux,Mathieu Debuchy,36,France,Right-Back,RB,1000000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2021,False,
+FC Girondins Bordeaux,Alexandros Katranis,23,Greece,Left-Back,LB,1000000.0,Piast Gliwice,Poland,0.0,out,summer,Ligue 1,2021,False,
+FC Girondins Bordeaux,Charles Abi,21,France,Centre-Forward,CF,2400000.0,Guingamp,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Girondins Bordeaux,Jessy Moulin,35,France,Goalkeeper,GK,300000.0,Troyes,France,,out,summer,Ligue 1,2021,False,
+FC Girondins Bordeaux,Rayan Souici,23,France,Centre-Back,CB,150000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Girondins Bordeaux,Panagiotis Retsos,22,Greece,Centre-Back,CB,4500000.0,Bay. Leverkusen,Germany,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Girondins Bordeaux,Pape Abou Cissé,25,Senegal,Centre-Back,CB,6000000.0,Olympiacos,Greece,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Girondins Bordeaux,Anthony Modeste,33,France,Centre-Forward,CF,1800000.0,1. FC Köln,Germany,0.0,out,summer,Ligue 1,2021,True,end of loan
+SCO Angers,Fransérgio,30,Brazil,Central Midfield,CM,5000000.0,SC Braga,Portugal,4500000.0,in,summer,Ligue 1,2021,False,
+SCO Angers,Stian Gregersen,26,Norway,Centre-Back,CB,2000000.0,Molde,Norway,2000000.0,in,summer,Ligue 1,2021,False,
+SCO Angers,Jean Onana,21,Cameroon,Defensive Midfield,DM,2500000.0,LOSC Lille,France,2000000.0,in,summer,Ligue 1,2021,False,
+SCO Angers,Issouf Sissokho,19,Mali,Central Midfield,CM,400000.0,Derby Acad.,Mali,300000.0,in,summer,Ligue 1,2021,False,
+SCO Angers,M'Baye Niang,26,Senegal,Centre-Forward,CF,4500000.0,Stade Rennais,France,0.0,in,summer,Ligue 1,2021,False,
+SCO Angers,Timothée Pembélé,18,France,Centre-Back,CB,7000000.0,Paris SG,France,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Alberth Elis,25,Honduras,Right Winger,RW,4000000.0,Boavista,Portugal,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Gideon Mensah,23,Ghana,Left-Back,LB,2500000.0,RB Salzburg,Austria,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Ricardo Mangas,23,Portugal,Left-Back,LB,1500000.0,Boavista,Portugal,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Yacine Adli,21,France,Attacking Midfield,AM,9000000.0,AC Milan,Italy,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Javairô Dilrosun,23,Netherlands,Left Winger,LW,9000000.0,Hertha BSC,Germany,0.0,in,summer,Ligue 1,2021,True,free loan
+SCO Angers,Yacine Adli,21,France,Attacking Midfield,AM,9000000.0,AC Milan,Italy,8000000.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Toma Basic,24,Croatia,Central Midfield,CM,9000000.0,Lazio,Italy,6860000.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Loïc Bessile,22,Togo,Centre-Back,CB,200000.0,RSC Charleroi,Belgium,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Nicolas de Préville,30,France,Centre-Forward,CF,3000000.0,FC Metz,France,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Rubén Pardo,28,Spain,Central Midfield,CM,2400000.0,CD Leganés,Spain,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Alexandre Lauray,24,France,Centre-Back,CB,400000.0,Le Mans FC,France,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Thomas Carrique,22,France,Right-Back,RB,400000.0,Celta Vigo B,Spain,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Youssouf Sabaly,28,Senegal,Right-Back,RB,6500000.0,Real Betis,Spain,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Over Mandanda,22,France,Goalkeeper,GK,150000.0,AS Saint-Priest,France,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Vukasin Jovanovic,25,Serbia,Centre-Back,CB,1500000.0,Apol. Limassol,Cyprus,0.0,out,summer,Ligue 1,2021,False,
+SCO Angers,Raoul Bellanova,21,Italy,Right-Back,RB,1000000.0,Cagliari Calcio,Italy,0.0,out,summer,Ligue 1,2021,True,free loan
+SCO Angers,Maxime Poundjé,28,France,Left-Back,LB,1700000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+SCO Angers,Hatem Ben Arfa,34,France,Attacking Midfield,AM,2000000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+SCO Angers,Loris Benito,29,Switzerland,Left-Back,LB,2500000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+SCO Angers,Jean Michaël Seri,29,Cote d'Ivoire,Central Midfield,CM,4000000.0,Fulham,England,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Reims,Batista Mendy,21,France,Defensive Midfield,DM,2000000.0,FC Nantes,France,0.0,in,summer,Ligue 1,2021,False,
+Stade Reims,Azzedine Ounahi,21,Morocco,Central Midfield,CM,800000.0,US Avranches,France,,in,summer,Ligue 1,2021,False,
+Stade Reims,Billal Brahimi,21,France,Left Winger,LW,1200000.0,Stade Reims,France,,in,summer,Ligue 1,2021,False,
+Stade Reims,Rayan Aït Nouri,20,France,Left-Back,LB,18000000.0,Wolves,England,11100000.0,out,summer,Ligue 1,2021,False,
+Stade Reims,Ludovic Butelle,38,France,Goalkeeper,GK,250000.0,Red Star FC,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Reims,Thomas Touré,27,Cote d'Ivoire,Left Winger,LW,300000.0,RE Virton,Belgium,0.0,out,summer,Ligue 1,2021,False,
+Stade Reims,Lassana Coulibaly,25,Mali,Central Midfield,CM,2000000.0,Salernitana,Italy,0.0,out,summer,Ligue 1,2021,False,
+Stade Reims,Mateo Pavlovic,31,Croatia,Centre-Back,CB,1000000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Reims,Loïs Diony,28,France,Centre-Forward,CF,2500000.0,Red Star,Serbia,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Reims,Rachid Alioui,29,Morocco,Centre-Forward,CF,2000000.0,KV Kortrijk,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Reims,Ibrahim Amadou,28,France,Defensive Midfield,DM,5000000.0,Sevilla FC,Spain,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Reims,Yassin Fortuné,22,France,Centre-Forward,CF,200000.0,FC Sion,Switzerland,0.0,out,summer,Ligue 1,2021,True,end of loan
+RC Strasbourg Alsace,Azor Matusiwa,23,Netherlands,Defensive Midfield,DM,5000000.0,FC Groningen,Netherlands,4000000.0,in,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Mitchell van Bergen,22,Netherlands,Right Winger,RW,2400000.0,Heerenveen,Netherlands,2000000.0,in,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Nicolas Penneteau,40,France,Goalkeeper,GK,200000.0,RSC Charleroi,Belgium,0.0,in,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Rafik Guitane,22,France,Attacking Midfield,AM,2500000.0,Stade Rennais,France,,in,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Andreaw Gravillon,23,Guadeloupe,Centre-Back,CB,6000000.0,Inter,Italy,0.0,in,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Boulaye Dia,24,Senegal,Centre-Forward,CF,14000000.0,Villarreal,Spain,12000000.0,out,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Nicolas Lemaître,24,France,Goalkeeper,GK,500000.0,Quevilly Rouen,France,0.0,out,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Timothé Nkada,21,France,Centre-Forward,CF,300000.0,US Orléans,France,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Dialy Ndiaye,21,Senegal,Goalkeeper,GK,150000.0,US Boulogne,France,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Rafik Guitane,22,France,Attacking Midfield,AM,2500000.0,Marítimo,Portugal,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Billal Brahimi,21,France,Left Winger,LW,1200000.0,SCO Angers,France,,out,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Xavier Chavalerin,30,France,Defensive Midfield,DM,4000000.0,Troyes,France,,out,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Logan Costa,20,France,Centre-Back,CB,400000.0,Toulouse,France,,out,summer,Ligue 1,2021,False,
+RC Strasbourg Alsace,Dereck Kutesa,23,Switzerland,Left Winger,LW,2000000.0,Zulte Waregem,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Dario Maresic,21,Austria,Centre-Back,CB,2500000.0,LASK,Austria,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Kaj Sierhuis,23,Netherlands,Centre-Forward,CF,3000000.0,Heracles Almelo,Netherlands,0.0,out,summer,Ligue 1,2021,True,free loan
+RC Strasbourg Alsace,Thibault De Smet,23,Belgium,Left-Back,LB,800000.0,Beerschot V.A.,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Lorient,Gerzino Nyamsi,24,France,Centre-Back,CB,3500000.0,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2021,False,
+FC Lorient,Karol Fila,23,Poland,Right-Back,RB,1500000.0,Lechia Gdansk,Poland,1500000.0,in,summer,Ligue 1,2021,False,
+FC Lorient,Maxime Le Marchand,31,France,Centre-Back,CB,1500000.0,Fulham,England,0.0,in,summer,Ligue 1,2021,False,
+FC Lorient,Kévin Gameiro,34,France,Centre-Forward,CF,3000000.0,Valencia,Spain,0.0,in,summer,Ligue 1,2021,False,
+FC Lorient,Lucas Perrin,22,France,Centre-Back,CB,1800000.0,Marseille,France,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Lorient,Frédéric Guilbert,26,France,Right-Back,RB,6000000.0,Aston Villa,England,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Lorient,Jean-Eudes Aholou,27,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Monaco,France,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Lorient,Mohamed Simakan,21,France,Centre-Back,CB,18000000.0,RB Leipzig,Germany,15000000.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Stefan Mitrovic,31,Serbia,Centre-Back,CB,1500000.0,Getafe,Spain,1000000.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Ismaël Aaneba,22,France,Centre-Back,CB,1000000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Lionel Carole,30,France,Left-Back,LB,2000000.0,Kayserispor,Turkey,0.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Idriss Saadi,29,Algeria,Centre-Forward,CF,700000.0,SC Bastia,France,0.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Kévin Zohi,24,Mali,Centre-Forward,CF,2000000.0,Vizela,Portugal,0.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Adrien Lebeau,22,France,Attacking Midfield,AM,225000.0,Waldh. Mannheim,Germany,0.0,out,summer,Ligue 1,2021,False,
+FC Lorient,Marvin Senaya,20,France,Right-Back,RB,500000.0,FC Sochaux,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Lorient,Duplexe Tchamba,22,Cameroon,Centre-Back,CB,500000.0,SönderjyskE,Denmark,,out,summer,Ligue 1,2021,False,
+FC Lorient,Moataz Zemzemi,21,Tunisia,Left Midfield,LM,600000.0,Chamois Niort,France,,out,summer,Ligue 1,2021,False,
+FC Lorient,Mehdi Chahiri,25,France,Left Winger,LW,1500000.0,SM Caen,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Lorient,Mahamé Siby,25,Mali,Defensive Midfield,DM,300000.0,Paris FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Lorient,Lamine Koné,32,Cote d'Ivoire,Centre-Back,CB,700000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Lorient,Jean-Eudes Aholou,27,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Monaco,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Lorient,Frédéric Guilbert,26,France,Right-Back,RB,6000000.0,Aston Villa,England,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Brestois 29,Moritz Jenz,22,Germany,Centre-Back,CB,3500000.0,Lausanne-Sport,Switzerland,3500000.0,in,summer,Ligue 1,2021,False,
+Stade Brestois 29,Igor Silva,24,Brazil,Right-Back,RB,2500000.0,NK Osijek,Croatia,2500000.0,in,summer,Ligue 1,2021,False,
+Stade Brestois 29,Yoane Wissa,24,DR Congo,Left Winger,LW,10000000.0,Brentford,England,10000000.0,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Sylvain Marveaux,35,France,midfield,midfield,500000.0,Charlotte Ind.,United States,0.0,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Maxime Pattier,25,France,Goalkeeper,GK,300000.0,Stade Briochin,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Franklin Wadja,26,Cameroon,Defensive Midfield,DM,900000.0,SM Caen,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Quentin Lecoeuche,27,France,Left-Back,LB,550000.0,Valenciennes FC,France,0.0,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Julien Ponceau,20,France,Central Midfield,CM,1200000.0,Nîmes Olympique,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Brestois 29,Umut Bozok,24,Turkey,Centre-Forward,CF,1500000.0,Kasimpasa,Turkey,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Brestois 29,Pierre-Yves Hamel,27,France,Centre-Forward,CF,2500000.0,Clermont Foot,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Stade Brestois 29,Matthieu Saunier,31,France,Centre-Back,CB,250000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Jonathan Delaplace,35,France,Central Midfield,CM,325000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+Stade Brestois 29,Trevoh Chalobah,21,England,Centre-Back,CB,10000000.0,Chelsea U23,England,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Brestois 29,Andreaw Gravillon,23,Guadeloupe,Centre-Back,CB,6000000.0,Inter,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Stade Brestois 29,Tiago Ilori,28,Portugal,Centre-Back,CB,1000000.0,Sporting CP,Portugal,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Nantes,Marco Bizot,30,Netherlands,Goalkeeper,GK,5000000.0,AZ Alkmaar,Netherlands,5000000.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Lilian Brassier,21,France,Centre-Back,CB,3000000.0,Stade Rennais,France,2000000.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Romain Del Castillo,25,France,Right Winger,RW,3500000.0,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Jere Uronen,27,Finland,Left-Back,LB,2500000.0,KRC Genk,Belgium,1000000.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Noé Sow,22,France,Centre-Back,CB,150000.0,Plabennec,France,0.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Grégoire Coudert,22,France,Goalkeeper,GK,200000.0,Amiens SC,France,0.0,in,summer,Ligue 1,2021,False,
+FC Nantes,Youssouph Badji,19,Senegal,Centre-Forward,CF,3500000.0,Club Brugge,Belgium,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Nantes,Lucien Agoume,19,France,Defensive Midfield,DM,5000000.0,Inter,Italy,0.0,in,summer,Ligue 1,2021,True,free loan
+FC Nantes,Romain Perraud,23,France,Left-Back,LB,10000000.0,Southampton,England,12000000.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Heriberto Tavares,24,Portugal,Right Winger,RW,1200000.0,Famalicão,Portugal,1200000.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Idrissa Dioh,22,France,Defensive Midfield,DM,150000.0,Vilafranquense,Portugal,0.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Ferris N'Goma,28,France,Central Midfield,CM,550000.0,LB Châteauroux,France,0.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Mouez Hassen,26,Tunisia,Goalkeeper,GK,400000.0,Club Africain,Tunisia,0.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Gaëtan Charbonnier,32,France,Centre-Forward,CF,1500000.0,AJ Auxerre,France,0.0,out,summer,Ligue 1,2021,False,
+FC Nantes,Romain Philippoteaux,33,France,Left Winger,LW,700000.0,Dijon,France,0.0,out,summer,Ligue 1,2021,True,free loan
+FC Nantes,Paul Lasne,32,France,Defensive Midfield,DM,700000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Nantes,Guillaume Buon,23,France,Centre-Back,CB,250000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Nantes,Ludovic Baal,35,French Guiana,Left-Back,LB,325000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+FC Nantes,Lilian Brassier,21,France,Centre-Back,CB,3000000.0,Stade Rennais,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Nantes,Bandiougou Fadiga,20,France,Attacking Midfield,AM,1200000.0,Paris SG,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+FC Nantes,Jean Lucas,23,Brazil,Central Midfield,CM,8000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+ESTAC Troyes,Alban Lafont,22,France,Goalkeeper,GK,10000000.0,Fiorentina,Italy,7500000.0,in,summer,Ligue 1,2021,False,
+ESTAC Troyes,Rémy Descamps,25,France,Goalkeeper,GK,800000.0,RSC Charleroi,Belgium,,in,summer,Ligue 1,2021,False,
+ESTAC Troyes,Wylan Cyprien,26,France,Central Midfield,CM,6000000.0,Parma,Italy,0.0,in,summer,Ligue 1,2021,True,free loan
+ESTAC Troyes,Osman Bukari,22,Ghana,Right Winger,RW,2500000.0,KAA Gent,Belgium,0.0,in,summer,Ligue 1,2021,True,free loan
+ESTAC Troyes,Willem Geubbels,20,France,Left Winger,LW,6000000.0,Monaco,France,0.0,in,summer,Ligue 1,2021,True,free loan
+ESTAC Troyes,Imrân Louza,22,Morocco,Central Midfield,CM,12000000.0,Watford,England,10000000.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Abdoulaye Touré,27,France,Defensive Midfield,DM,4000000.0,Genoa,Italy,3500000.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Lucas Evangelista,26,Brazil,Central Midfield,CM,2500000.0,RB Bragantino,Brazil,1600000.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Élie Youan,22,France,Left Winger,LW,1000000.0,FC St. Gallen,Switzerland,500000.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Alexandre Olliero,25,France,Goalkeeper,GK,500000.0,Pau FC,France,0.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Thomas Basila,22,France,Centre-Back,CB,1500000.0,KV Oostende,Belgium,0.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Batista Mendy,21,France,Defensive Midfield,DM,2000000.0,SCO Angers,France,0.0,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Bridge Ndilu,21,France,Centre-Forward,CF,500000.0,Quevilly Rouen,France,0.0,out,summer,Ligue 1,2021,True,free loan
+ESTAC Troyes,Abdoul Kader Bamba,27,France,Right Winger,RW,1800000.0,Amiens SC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+ESTAC Troyes,Anthony Walongwa,27,DR Congo,Centre-Back,CB,325000.0,Without Club,,,out,summer,Ligue 1,2021,False,
+ESTAC Troyes,Alban Lafont,22,France,Goalkeeper,GK,10000000.0,Fiorentina,Italy,0.0,out,summer,Ligue 1,2021,True,end of loan
+Clermont Foot 63,Metinho,18,Brazil,Central Midfield,CM,5000000.0,Fluminense,Brazil,5000000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Mama Baldé,25,Guinea-Bissau,Right Winger,RW,4000000.0,Dijon,France,3500000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Renaud Ripart,28,France,Attacking Midfield,AM,5000000.0,Nîmes Olympique,France,3300000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Giulian Biancone,21,France,Right-Back,RB,2500000.0,Monaco,France,2500000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Rominigue Kouamé,24,Mali,Central Midfield,CM,2500000.0,LOSC Lille,France,2500000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Gerson Rodrigues,26,Luxembourg,Left Winger,LW,3000000.0,Dynamo Kyiv,Ukraine,1000000.0,in,summer,Ligue 1,2021,True,loan with fee
+Clermont Foot 63,Mykola Kukharevych,20,Ukraine,Centre-Forward,CF,600000.0,Rukh Lviv,Ukraine,300000.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Yasser Larouci,20,Algeria,Left-Back,LB,1800000.0,Liverpool U23,England,0.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Adil Rami,35,France,Centre-Back,CB,250000.0,Boavista,Portugal,0.0,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Patrick Roberts,24,England,Right Winger,RW,2000000.0,Man City,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Youssouf Koné,26,Mali,Left-Back,LB,1600000.0,Olympique Lyon,France,0.0,in,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Philippe Sandler,24,Netherlands,Centre-Back,CB,2500000.0,Man City,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Xavier Chavalerin,30,France,Defensive Midfield,DM,4000000.0,Stade Reims,France,,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Jessy Moulin,35,France,Goalkeeper,GK,300000.0,Saint-Étienne,France,,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Nassim Chadli,19,Morocco,Centre-Forward,CF,400000.0,Nîmes B,France,,in,summer,Ligue 1,2021,False,
+Clermont Foot 63,Issa Kaboré,20,Burkina Faso,Right-Back,RB,3000000.0,Man City,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Erik Palmer-Brown,24,United States,Centre-Back,CB,1500000.0,Man City U23,England,0.0,in,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Kemehlo Nguena,21,France,Defensive Midfield,DM,150000.0,Slavia Sofia,Bulgaria,0.0,out,summer,Ligue 1,2021,False,
+Clermont Foot 63,Maxime Barthelmé,32,France,Left Midfield,LM,400000.0,Guingamp,France,0.0,out,summer,Ligue 1,2021,False,
+Clermont Foot 63,Stone Mambo,22,France,Centre-Back,CB,700000.0,US Orléans,France,0.0,out,summer,Ligue 1,2021,False,
+Clermont Foot 63,Terence Baya,23,France,Left-Back,LB,200000.0,Vendsyssel FF,Denmark,0.0,out,summer,Ligue 1,2021,False,
+Clermont Foot 63,Mahamadou Dembélé,22,France,Centre-Back,CB,350000.0,Pau FC,France,0.0,out,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Rui Pires,23,Portugal,Defensive Midfield,DM,800000.0,Paços Ferreira,Portugal,0.0,out,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Dylan Saint-Louis,26,Congo,Left Winger,LW,1900000.0,Hatayspor,Turkey,,out,summer,Ligue 1,2021,False,
+Clermont Foot 63,Mykola Kukharevych,20,Ukraine,Centre-Forward,CF,600000.0,OH Leuven,Belgium,0.0,out,summer,Ligue 1,2021,True,free loan
+Clermont Foot 63,Rominigue Kouamé,24,Mali,Central Midfield,CM,2500000.0,LOSC Lille,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+Clermont Foot 63,Filip Krastev,19,Bulgaria,Attacking Midfield,AM,800000.0,Lommel SK,Belgium,0.0,out,summer,Ligue 1,2021,True,end of loan
+Clermont Foot 63,Umut Bozok,24,Turkey,Centre-Forward,CF,1500000.0,FC Lorient,France,0.0,out,summer,Ligue 1,2021,True,end of loan
+Clermont Foot 63,Alimami Gory,24,France,Left Winger,LW,1000000.0,Cercle Brugge,Belgium,0.0,out,summer,Ligue 1,2021,True,end of loan
+Clermont Foot 63,Lenny Pintor,20,France,Centre-Forward,CF,2000000.0,Olympique Lyon,France,0.0,out,summer,Ligue 1,2021,True,end of loan

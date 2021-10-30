@@ -1,0 +1,340 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Aston Villa,Ben White,23,England,Centre-Back,CB,40000000.0,Brighton,England,58500000.0,in,summer,Premier League,2021,False,
+Aston Villa,Martin Ødegaard,22,Norway,Attacking Midfield,AM,40000000.0,Real Madrid,Spain,35000000.0,in,summer,Premier League,2021,False,
+Aston Villa,Aaron Ramsdale,23,England,Goalkeeper,GK,20000000.0,Sheff Utd,England,28000000.0,in,summer,Premier League,2021,False,
+Aston Villa,Takehiro Tomiyasu,22,Japan,Right-Back,RB,20000000.0,Bologna,Italy,18600000.0,in,summer,Premier League,2021,False,
+Aston Villa,Albert Sambi Lokonga,21,Belgium,Central Midfield,CM,16000000.0,RSC Anderlecht,Belgium,17500000.0,in,summer,Premier League,2021,False,
+Aston Villa,Nuno Tavares,21,Portugal,Left-Back,LB,7000000.0,Benfica,Portugal,8000000.0,in,summer,Premier League,2021,False,
+Aston Villa,Joe Willock,21,England,Central Midfield,CM,22000000.0,Newcastle,England,29400000.0,out,summer,Premier League,2021,False,
+Aston Villa,Lucas Torreira,25,Uruguay,Defensive Midfield,DM,18000000.0,Fiorentina,Italy,1500000.0,out,summer,Premier League,2021,True,loan with fee
+Aston Villa,Willian,33,Brazil,Right Winger,RW,9000000.0,Corinthians,Brazil,0.0,out,summer,Premier League,2021,False,
+Aston Villa,William Saliba,20,France,Centre-Back,CB,18000000.0,Marseille,France,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,Dejan Iliev,26,North Macedonia,Goalkeeper,GK,350000.0,SKF Sered,Slovakia,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,Mattéo Guendouzi,22,France,Central Midfield,CM,22000000.0,Marseille,France,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,Reiss Nelson,21,England,Right Winger,RW,9000000.0,Feyenoord,Netherlands,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,Rúnar Alex Rúnarsson,26,Iceland,Goalkeeper,GK,1500000.0,OH Leuven,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,Héctor Bellerín,26,Spain,Right-Back,RB,20000000.0,Real Betis,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Aston Villa,David Luiz,34,Brazil,Centre-Back,CB,4000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Aston Villa,Martin Ødegaard,22,Norway,Attacking Midfield,AM,40000000.0,Real Madrid,Spain,0.0,out,summer,Premier League,2021,True,end of loan
+Aston Villa,Mathew Ryan,29,Australia,Goalkeeper,GK,6000000.0,Brighton,England,0.0,out,summer,Premier League,2021,True,end of loan
+Aston Villa,Dani Ceballos,24,Spain,Central Midfield,CM,20000000.0,Real Madrid,Spain,0.0,out,summer,Premier League,2021,True,end of loan
+Brentford FC,Emiliano Buendía,24,Argentina,Right Winger,RW,35000000.0,Norwich,England,38400000.0,in,summer,Premier League,2021,False,
+Brentford FC,Leon Bailey,23,Jamaica,Left Winger,LW,35000000.0,Bay. Leverkusen,Germany,32000000.0,in,summer,Premier League,2021,False,
+Brentford FC,Danny Ings,29,England,Centre-Forward,CF,22000000.0,Southampton,England,29420000.0,in,summer,Premier League,2021,False,
+Brentford FC,Ashley Young,35,England,Left-Back,LB,1000000.0,Inter,Italy,0.0,in,summer,Premier League,2021,False,
+Brentford FC,Axel Tuanzebe,23,England,Centre-Back,CB,8000000.0,Man Utd,England,0.0,in,summer,Premier League,2021,True,free loan
+Brentford FC,Jack Grealish,25,England,Left Winger,LW,100000000.0,Man City,England,117500000.0,out,summer,Premier League,2021,False,
+Brentford FC,Ally Samatta,28,Tanzania,Centre-Forward,CF,4200000.0,Fenerbahce,Turkey,6000000.0,out,summer,Premier League,2021,False,
+Brentford FC,Björn Engels,26,Belgium,Centre-Back,CB,3000000.0,Royal Antwerp,Belgium,3500000.0,out,summer,Premier League,2021,False,
+Brentford FC,Tom Heaton,35,England,Goalkeeper,GK,1000000.0,Man Utd,England,0.0,out,summer,Premier League,2021,False,
+Brentford FC,Conor Hourihane,30,Ireland,Central Midfield,CM,3500000.0,Sheff Utd,England,0.0,out,summer,Premier League,2021,True,free loan
+Brentford FC,Wesley,24,Brazil,Centre-Forward,CF,10000000.0,Club Brugge,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Brentford FC,Frédéric Guilbert,26,France,Right-Back,RB,6000000.0,R. Strasbourg,France,0.0,out,summer,Premier League,2021,True,free loan
+Brentford FC,Ahmed Elmohamady,33,Egypt,Right-Back,RB,800000.0,Without Club,,,out,summer,Premier League,2021,False,
+Brentford FC,Neil Taylor,32,Wales,Left-Back,LB,1000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Brentford FC,Axel Tuanzebe,24,England,Centre-Back,CB,8000000.0,Man Utd,England,0.0,out,summer,Premier League,2021,True,end of loan
+Brighton & Hove Albion,Kristoffer Ajer,23,Norway,Centre-Back,CB,17000000.0,Celtic,Scotland,15700000.0,in,summer,Premier League,2021,False,
+Brighton & Hove Albion,Frank Onyeka,23,Nigeria,Central Midfield,CM,9000000.0,FC Midtjylland,Denmark,10000000.0,in,summer,Premier League,2021,False,
+Brighton & Hove Albion,Yoane Wissa,24,DR Congo,Left Winger,LW,10000000.0,FC Lorient,France,10000000.0,in,summer,Premier League,2021,False,
+Brighton & Hove Albion,Myles Peart-Harris,18,England,Attacking Midfield,AM,1000000.0,Chelsea U23,England,1500000.0,in,summer,Premier League,2021,False,
+Brighton & Hove Albion,Álvaro Fernández,23,Spain,Goalkeeper,GK,4000000.0,SD Huesca,Spain,1000000.0,in,summer,Premier League,2021,True,loan with fee
+Brighton & Hove Albion,Zanka,31,Denmark,Centre-Back,CB,1500000.0,Without Club,,,in,summer,Premier League,2021,False,
+Brighton & Hove Albion,Halil Dervisoglu,21,Turkey,Centre-Forward,CF,4300000.0,Galatasaray,Turkey,1000000.0,out,summer,Premier League,2021,True,loan with fee
+Brighton & Hove Albion,Henrik Dalsgaard,31,Denmark,Right-Back,RB,1500000.0,FC Midtjylland,Denmark,0.0,out,summer,Premier League,2021,False,
+Brighton & Hove Albion,Luke Daniels,33,England,Goalkeeper,GK,400000.0,Middlesbrough,England,0.0,out,summer,Premier League,2021,False,
+Brighton & Hove Albion,Emiliano Marcondes,26,Denmark,Attacking Midfield,AM,2800000.0,Bournemouth,England,0.0,out,summer,Premier League,2021,False,
+Brighton & Hove Albion,Patrik Gunnarsson,20,Iceland,Goalkeeper,GK,400000.0,Viking FK,Norway,0.0,out,summer,Premier League,2021,True,free loan
+Brighton & Hove Albion,Ellery Balcombe,21,England,Goalkeeper,GK,300000.0,Burton Albion,England,0.0,out,summer,Premier League,2021,True,free loan
+Brighton & Hove Albion,Álvaro Fernández,24,Spain,Goalkeeper,GK,4000000.0,SD Huesca,Spain,0.0,out,summer,Premier League,2021,True,end of loan
+Burnley FC,Enock Mwepu,23,Zambia,Central Midfield,CM,20000000.0,RB Salzburg,Austria,23000000.0,in,summer,Premier League,2021,False,
+Burnley FC,Marc Cucurella,23,Spain,Left Midfield,LM,20000000.0,Getafe,Spain,18000000.0,in,summer,Premier League,2021,False,
+Burnley FC,Abdallah Sima,20,Senegal,Right Winger,RW,11000000.0,Slavia Prague,Czech Republic,6700000.0,in,summer,Premier League,2021,False,
+Burnley FC,Kjell Scherpen,21,Netherlands,Goalkeeper,GK,2800000.0,Ajax,Netherlands,5000000.0,in,summer,Premier League,2021,False,
+Burnley FC,Kaoru Mitoma,24,Japan,Left Winger,LW,1800000.0,Kawasaki Front.,Japan,3000000.0,in,summer,Premier League,2021,False,
+Burnley FC,Ben White,23,England,Centre-Back,CB,40000000.0,Arsenal,England,58500000.0,out,summer,Premier League,2021,False,
+Burnley FC,Percy Tau,27,South Africa,Centre-Forward,CF,3000000.0,El Ahly,Egypt,1800000.0,out,summer,Premier League,2021,False,
+Burnley FC,Viktor Gyökeres,23,Sweden,Centre-Forward,CF,1000000.0,Coventry,England,1200000.0,out,summer,Premier League,2021,False,
+Burnley FC,Alireza Jahanbakhsh,27,Iran,Right Winger,RW,5000000.0,Feyenoord,Netherlands,1000000.0,out,summer,Premier League,2021,False,
+Burnley FC,Michal Karbownik,20,Poland,Right-Back,RB,5000000.0,Olympiacos,Greece,1000000.0,out,summer,Premier League,2021,True,loan with fee
+Burnley FC,Davy Pröpper,29,Netherlands,Central Midfield,CM,6000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Premier League,2021,False,
+Burnley FC,José Izquierdo,29,Colombia,Left Winger,LW,3000000.0,Club Brugge,Belgium,0.0,out,summer,Premier League,2021,False,
+Burnley FC,Jan Mlakar,22,Slovenia,Centre-Forward,CF,2000000.0,Hajduk Split,Croatia,,out,summer,Premier League,2021,False,
+Burnley FC,Mathew Ryan,29,Australia,Goalkeeper,GK,6000000.0,Real Sociedad,Spain,,out,summer,Premier League,2021,False,
+Burnley FC,Bernardo,26,Brazil,Left-Back,LB,4000000.0,RB Salzburg,Austria,,out,summer,Premier League,2021,False,
+Burnley FC,Abdallah Sima,20,Senegal,Right Winger,RW,11000000.0,Stoke City,England,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Moisés Caicedo,19,Ecuador,Central Midfield,CM,5000000.0,Beerschot V.A.,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Christian Walton,25,England,Goalkeeper,GK,800000.0,Ipswich,England,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Andi Zeqiri,22,Switzerland,Centre-Forward,CF,2500000.0,FC Augsburg,Germany,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Jan Paul van Hecke,21,Netherlands,Centre-Back,CB,2200000.0,Blackburn,England,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Florin Andone,28,Romania,Centre-Forward,CF,1500000.0,Cádiz CF,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Leo Östigard,21,Norway,Centre-Back,CB,3000000.0,Stoke City,England,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Kaoru Mitoma,24,Japan,Left Winger,LW,1800000.0,Union SG,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Burnley FC,Matt Clarke,24,England,Centre-Back,CB,3000000.0,West Brom,England,0.0,out,summer,Premier League,2021,True,free loan
+Chelsea FC,Maxwel Cornet,24,Cote d'Ivoire,Left Winger,LW,12000000.0,Olympique Lyon,France,15000000.0,in,summer,Premier League,2021,False,
+Chelsea FC,Nathan Collins,20,Ireland,Centre-Back,CB,8000000.0,Stoke City,England,14000000.0,in,summer,Premier League,2021,False,
+Chelsea FC,Connor Roberts,25,Wales,Right-Back,RB,4500000.0,Swansea,England,2900000.0,in,summer,Premier League,2021,False,
+Chelsea FC,Jacob Bedeau,21,England,Centre-Back,CB,450000.0,Scunthorpe Utd.,England,0.0,in,summer,Premier League,2021,False,
+Chelsea FC,Aaron Lennon,34,England,Right Winger,RW,1100000.0,Kayserispor,Turkey,0.0,in,summer,Premier League,2021,False,
+Chelsea FC,Wayne Hennessey,34,Wales,Goalkeeper,GK,1000000.0,Crystal Palace,England,0.0,in,summer,Premier League,2021,False,
+Chelsea FC,Ben Gibson,28,England,Centre-Back,CB,7000000.0,Norwich,England,9300000.0,out,summer,Premier League,2021,False,
+Chelsea FC,Lukas Jensen,22,Denmark,Goalkeeper,GK,25000.0,Carlisle United,England,0.0,out,summer,Premier League,2021,True,free loan
+Chelsea FC,Jimmy Dunne,23,Ireland,Centre-Back,CB,600000.0,QPR,England,,out,summer,Premier League,2021,False,
+Chelsea FC,Josh Benson,21,England,Central Midfield,CM,400000.0,Barnsley FC,England,,out,summer,Premier League,2021,False,
+Chelsea FC,Bailey Peacock-Farrell,24,Northern Ireland,Goalkeeper,GK,1000000.0,Sheff Wed,England,0.0,out,summer,Premier League,2021,True,free loan
+Chelsea FC,Robbie Brady,29,Ireland,Left Midfield,LM,2500000.0,Without Club,,,out,summer,Premier League,2021,False,
+Crystal Palace,Romelu Lukaku,28,Belgium,Centre-Forward,CF,100000000.0,Inter,Italy,115000000.0,in,summer,Premier League,2021,False,
+Crystal Palace,Saúl Ñíguez,26,Spain,Central Midfield,CM,40000000.0,Atlético Madrid,Spain,5000000.0,in,summer,Premier League,2021,True,loan with fee
+Crystal Palace,Marcus Bettinelli,29,England,Goalkeeper,GK,2500000.0,Fulham,England,0.0,in,summer,Premier League,2021,False,
+Crystal Palace,Tammy Abraham,23,England,Centre-Forward,CF,38000000.0,AS Roma,Italy,40000000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Kurt Zouma,26,France,Centre-Back,CB,32000000.0,West Ham,England,35000000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Fikayo Tomori,23,England,Centre-Back,CB,40000000.0,AC Milan,Italy,28800000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Davide Zappacosta,29,Italy,Right-Back,RB,10000000.0,Atalanta BC,Italy,9000000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Victor Moses,30,Nigeria,Right Midfield,RM,6500000.0,Spartak Moscow,Russia,5000000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Tiemoué Bakayoko,27,France,Defensive Midfield,DM,20000000.0,AC Milan,Italy,2000000.0,out,summer,Premier League,2021,True,loan with fee
+Crystal Palace,Olivier Giroud,34,France,Centre-Forward,CF,4000000.0,AC Milan,Italy,1000000.0,out,summer,Premier League,2021,False,
+Crystal Palace,Emerson,27,Italy,Left-Back,LB,14000000.0,Olympique Lyon,France,500000.0,out,summer,Premier League,2021,True,loan with fee
+Crystal Palace,Kenedy,25,Brazil,Left Winger,LW,10000000.0,Flamengo,Brazil,500000.0,out,summer,Premier League,2021,True,loan with fee
+Crystal Palace,Michy Batshuayi,27,Belgium,Centre-Forward,CF,10000000.0,Besiktas,Turkey,150000.0,out,summer,Premier League,2021,True,loan with fee
+Crystal Palace,Marco van Ginkel,28,Netherlands,Central Midfield,CM,1750000.0,PSV Eindhoven,Netherlands,0.0,out,summer,Premier League,2021,False,
+Crystal Palace,Izzy Brown,24,England,Second Striker,SS,1600000.0,Preston,England,0.0,out,summer,Premier League,2021,False,
+Crystal Palace,Danilo Pantic,24,Serbia,Attacking Midfield,AM,800000.0,Partizan,Serbia,0.0,out,summer,Premier League,2021,False,
+Crystal Palace,Ethan Ampadu,20,Wales,Centre-Back,CB,15000000.0,Venezia,Italy,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Danny Drinkwater,31,England,Central Midfield,CM,3000000.0,Reading,England,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Jake Clarke-Salter,23,England,Centre-Back,CB,2000000.0,Coventry,England,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Abdul-Rahman Baba,27,Ghana,Left-Back,LB,2500000.0,Reading,England,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Billy Gilmour,20,Scotland,Central Midfield,CM,15000000.0,Norwich,England,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Matt Miazga,26,United States,Centre-Back,CB,3000000.0,Alavés,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Crystal Palace,Willy Caballero,39,Argentina,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Premier League,2021,False,
+Crystal Palace,Jamal Blackman,27,England,Goalkeeper,GK,600000.0,Without Club,,,out,summer,Premier League,2021,False,
+Everton FC,Marc Guehi,21,England,Centre-Back,CB,20000000.0,Chelsea U23,England,23340000.0,in,summer,Premier League,2021,False,
+Everton FC,Joachim Andersen,25,Denmark,Centre-Back,CB,22000000.0,Olympique Lyon,France,17500000.0,in,summer,Premier League,2021,False,
+Everton FC,Odsonne Edouard,23,France,Centre-Forward,CF,17000000.0,Celtic,Scotland,16300000.0,in,summer,Premier League,2021,False,
+Everton FC,Michael Olise,19,France,Attacking Midfield,AM,15000000.0,Reading,England,9300000.0,in,summer,Premier League,2021,False,
+Everton FC,Will Hughes,26,England,Central Midfield,CM,7000000.0,Watford,England,7000000.0,in,summer,Premier League,2021,False,
+Everton FC,Remi Matthews,27,England,Goalkeeper,GK,300000.0,Sunderland,England,0.0,in,summer,Premier League,2021,False,
+Everton FC,Jacob Montes,22,United States,Attacking Midfield,AM,150000.0,Revolution,United States,,in,summer,Premier League,2021,False,
+Everton FC,Conor Gallagher,21,England,Central Midfield,CM,15000000.0,Chelsea U23,England,0.0,in,summer,Premier League,2021,True,free loan
+Everton FC,James McCarthy,30,Ireland,Central Midfield,CM,3000000.0,Celtic,Scotland,0.0,out,summer,Premier League,2021,False,
+Everton FC,Wayne Hennessey,34,Wales,Goalkeeper,GK,1000000.0,Burnley,England,0.0,out,summer,Premier League,2021,False,
+Everton FC,Mamadou Sakho,31,France,Centre-Back,CB,6000000.0,Montpellier,France,0.0,out,summer,Premier League,2021,False,
+Everton FC,Patrick van Aanholt,30,Netherlands,Left-Back,LB,6500000.0,Galatasaray,Turkey,0.0,out,summer,Premier League,2021,False,
+Everton FC,Andros Townsend,30,England,Right Winger,RW,7000000.0,Everton,England,0.0,out,summer,Premier League,2021,False,
+Everton FC,Scott Dann,34,England,Centre-Back,CB,1500000.0,Reading,England,0.0,out,summer,Premier League,2021,False,
+Everton FC,Gary Cahill,35,England,Centre-Back,CB,1500000.0,Bournemouth,England,0.0,out,summer,Premier League,2021,False,
+Everton FC,Jacob Montes,22,United States,Attacking Midfield,AM,150000.0,Waasl.-Beveren,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Everton FC,Sam Woods,22,England,Centre-Back,CB,200000.0,Without Club,,,out,summer,Premier League,2021,False,
+Everton FC,Connor Wickham,28,England,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Everton FC,Stephen Henderson,33,Ireland,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Premier League,2021,False,
+Everton FC,Conor Gallagher,22,England,Central Midfield,CM,15000000.0,Chelsea U23,England,0.0,out,summer,Premier League,2021,True,end of loan
+Leeds United,Demarai Gray,25,England,Left Winger,LW,15000000.0,Bay. Leverkusen,Germany,2000000.0,in,summer,Premier League,2021,False,
+Leeds United,Asmir Begovic,34,Bosnia-Herzegovina,Goalkeeper,GK,1200000.0,Bournemouth,England,0.0,in,summer,Premier League,2021,False,
+Leeds United,Salomón Rondón,31,Venezuela,Centre-Forward,CF,5000000.0,DL Pro,China,0.0,in,summer,Premier League,2021,False,
+Leeds United,Andros Townsend,30,England,Right Winger,RW,7000000.0,Crystal Palace,England,0.0,in,summer,Premier League,2021,False,
+Leeds United,Andy Lonergan,37,England,Goalkeeper,GK,250000.0,West Brom,England,0.0,in,summer,Premier League,2021,False,
+Leeds United,James Rodríguez,30,Colombia,Attacking Midfield,AM,20000000.0,Al-Rayyan SC,Qatar,8000000.0,out,summer,Premier League,2021,False,
+Leeds United,Moise Kean,21,Italy,Centre-Forward,CF,35000000.0,Juventus,Italy,7000000.0,out,summer,Premier League,2021,True,loan with fee
+Leeds United,Bernard,28,Brazil,Left Winger,LW,12000000.0,Sharjah FC,United Arab Emirates,1000000.0,out,summer,Premier League,2021,False,
+Leeds United,Beni Baningime,22,DR Congo,Central Midfield,CM,1000000.0,Heart of Midl.,Scotland,0.0,out,summer,Premier League,2021,False,
+Leeds United,Joshua King,29,Norway,Second Striker,SS,8000000.0,Watford,England,0.0,out,summer,Premier League,2021,False,
+Leeds United,Yannick Bolasie,32,DR Congo,Left Winger,LW,1100000.0,C. Rizespor,Turkey,0.0,out,summer,Premier League,2021,False,
+Leeds United,Matthew Pennington,26,England,Centre-Back,CB,600000.0,Shrewsbury,England,0.0,out,summer,Premier League,2021,False,
+Leeds United,Theo Walcott,32,England,Right Winger,RW,5000000.0,Southampton,England,0.0,out,summer,Premier League,2021,False,
+Leeds United,João Virgínia,21,Portugal,Goalkeeper,GK,1000000.0,Sporting CP,Portugal,0.0,out,summer,Premier League,2021,True,free loan
+Leeds United,Niels Nkounkou,20,France,Left-Back,LB,3000000.0,Standard Liège,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Leeds United,Muhamed Besic,28,Bosnia-Herzegovina,Defensive Midfield,DM,1500000.0,Without Club,,,out,summer,Premier League,2021,False,
+Leeds United,Robin Olsen,31,Sweden,Goalkeeper,GK,3000000.0,AS Roma,Italy,0.0,out,summer,Premier League,2021,True,end of loan
+Leicester City,Daniel James,23,Wales,Left Winger,LW,18000000.0,Man Utd,England,29100000.0,in,summer,Premier League,2021,False,
+Leicester City,Junior Firpo,24,Dominican Republic,Left-Back,LB,12000000.0,Barcelona,Spain,15000000.0,in,summer,Premier League,2021,False,
+Leicester City,Jack Harrison,24,England,Left Winger,LW,15000000.0,Man City,England,12800000.0,in,summer,Premier League,2021,False,
+Leicester City,Kristoffer Klaesson,20,Norway,Goalkeeper,GK,2000000.0,Vålerenga,Norway,2000000.0,in,summer,Premier League,2021,False,
+Leicester City,Ezgjan Alioski,29,North Macedonia,Left-Back,LB,5000000.0,Ahli,Saudi Arabia,0.0,out,summer,Premier League,2021,False,
+Leicester City,Barry Douglas,31,Scotland,Left-Back,LB,1000000.0,Lech Poznan,Poland,0.0,out,summer,Premier League,2021,False,
+Leicester City,Jordan Stevens,21,England,Right Midfield,RM,200000.0,Barrow,England,0.0,out,summer,Premier League,2021,False,
+Leicester City,Robbie Gotts,21,England,Central Midfield,CM,250000.0,Barrow,England,0.0,out,summer,Premier League,2021,False,
+Leicester City,Pablo Hernández,36,Spain,Attacking Midfield,AM,800000.0,CD Castellón,Spain,0.0,out,summer,Premier League,2021,False,
+Leicester City,Ouasim Bouy,28,Morocco,Defensive Midfield,DM,250000.0,Al-Kharaitiyat,Qatar,0.0,out,summer,Premier League,2021,False,
+Leicester City,Ian Poveda,21,England,Right Winger,RW,1500000.0,Blackburn,England,0.0,out,summer,Premier League,2021,True,free loan
+Leicester City,Leif Davis,21,England,Left-Back,LB,800000.0,Bournemouth,England,0.0,out,summer,Premier League,2021,True,free loan
+Leicester City,Hélder Costa,27,Angola,Right Winger,RW,8000000.0,Valencia,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Leicester City,Kiko Casilla,34,Spain,Goalkeeper,GK,800000.0,Elche CF,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Leicester City,Mateusz Bogusz,19,Poland,Central Midfield,CM,1500000.0,UD Ibiza,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Leicester City,Eunan O'Kane,30,Ireland,Central Midfield,CM,200000.0,Without Club,,,out,summer,Premier League,2021,False,
+Leicester City,Gaetano Berardi,32,Switzerland,Right-Back,RB,300000.0,Without Club,,,out,summer,Premier League,2021,False,
+Liverpool FC,Patson Daka,22,Zambia,Centre-Forward,CF,22000000.0,RB Salzburg,Austria,30000000.0,in,summer,Premier League,2021,False,
+Liverpool FC,Boubakary Soumaré,22,France,Defensive Midfield,DM,28000000.0,LOSC Lille,France,20000000.0,in,summer,Premier League,2021,False,
+Liverpool FC,Jannik Vestergaard,29,Denmark,Centre-Back,CB,18000000.0,Southampton,England,17600000.0,in,summer,Premier League,2021,False,
+Liverpool FC,Ryan Bertrand,31,England,Left-Back,LB,8000000.0,Southampton,England,0.0,in,summer,Premier League,2021,False,
+Liverpool FC,Ademola Lookman,23,England,Left Winger,LW,11000000.0,RB Leipzig,Germany,0.0,in,summer,Premier League,2021,True,free loan
+Liverpool FC,Rachid Ghezzal,29,Algeria,Right Winger,RW,11000000.0,Besiktas,Turkey,3000000.0,out,summer,Premier League,2021,False,
+Liverpool FC,Dennis Praet,27,Belgium,Central Midfield,CM,16000000.0,Torino,Italy,1000000.0,out,summer,Premier League,2021,True,loan with fee
+Liverpool FC,Christian Fuchs,35,Austria,Left-Back,LB,800000.0,Charlotte Ind.,United States,0.0,out,summer,Premier League,2021,False,
+Liverpool FC,Matty James,29,England,Central Midfield,CM,1000000.0,Bristol City,England,0.0,out,summer,Premier League,2021,False,
+Liverpool FC,Sam Hughes,24,England,Centre-Back,CB,,Burton Albion,England,0.0,out,summer,Premier League,2021,True,free loan
+Liverpool FC,Wes Morgan,37,Jamaica,Centre-Back,CB,,,,,out,summer,Premier League,2021,False,
+Liverpool FC,Cengiz Ünder,23,Turkey,Right Winger,RW,18000000.0,AS Roma,Italy,0.0,out,summer,Premier League,2021,True,end of loan
+Manchester City,Ibrahima Konaté,22,France,Centre-Back,CB,35000000.0,RB Leipzig,Germany,40000000.0,in,summer,Premier League,2021,False,
+Manchester City,Harry Wilson,24,Wales,Right Winger,RW,17000000.0,Fulham,England,14000000.0,out,summer,Premier League,2021,False,
+Manchester City,Taiwo Awoniyi,23,Nigeria,Centre-Forward,CF,8000000.0,Union Berlin,Germany,6500000.0,out,summer,Premier League,2021,False,
+Manchester City,Xherdan Shaqiri,29,Switzerland,Right Winger,RW,10000000.0,Olympique Lyon,France,6000000.0,out,summer,Premier League,2021,False,
+Manchester City,Marko Grujic,25,Serbia,Defensive Midfield,DM,15000000.0,FC Porto,Portugal,1000000.0,out,summer,Premier League,2021,True,loan with fee
+Manchester City,Georginio Wijnaldum,30,Netherlands,Central Midfield,CM,30000000.0,Paris SG,France,0.0,out,summer,Premier League,2021,False,
+Manchester City,Ben Davies,26,England,Centre-Back,CB,3000000.0,Sheff Utd,England,0.0,out,summer,Premier League,2021,True,free loan
+Manchester City,Ben Woodburn,21,Wales,Attacking Midfield,AM,2000000.0,Heart of Midl.,Scotland,0.0,out,summer,Premier League,2021,True,free loan
+Manchester City,Rhys Williams,20,England,Centre-Back,CB,5000000.0,Swansea,England,0.0,out,summer,Premier League,2021,True,free loan
+Manchester City,Sheyi Ojo,24,England,Right Winger,RW,3000000.0,Millwall,England,0.0,out,summer,Premier League,2021,True,free loan
+Manchester City,Ozan Kabak,21,Turkey,Centre-Back,CB,17000000.0,FC Schalke 04,Germany,0.0,out,summer,Premier League,2021,True,end of loan
+Manchester United,Jack Grealish,25,England,Left Winger,LW,100000000.0,Aston Villa,England,117500000.0,in,summer,Premier League,2021,False,
+Manchester United,Kayky,18,Brazil,Right Winger,RW,14000000.0,Fluminense,Brazil,10000000.0,in,summer,Premier League,2021,False,
+Manchester United,Scott Carson,35,England,Goalkeeper,GK,300000.0,Derby,England,0.0,in,summer,Premier League,2021,False,
+Manchester United,Angeliño,24,Spain,Left-Back,LB,35000000.0,RB Leipzig,Germany,18000000.0,out,summer,Premier League,2021,False,
+Manchester United,Jack Harrison,24,England,Left Winger,LW,15000000.0,Leeds,England,12800000.0,out,summer,Premier League,2021,False,
+Manchester United,Lukas Nmecha,22,Germany,Centre-Forward,CF,12000000.0,VfL Wolfsburg,Germany,8000000.0,out,summer,Premier League,2021,False,
+Manchester United,Eric García,20,Spain,Centre-Back,CB,20000000.0,Barcelona,Spain,0.0,out,summer,Premier League,2021,False,
+Manchester United,Sergio Agüero,33,Argentina,Centre-Forward,CF,15000000.0,Barcelona,Spain,0.0,out,summer,Premier League,2021,False,
+Manchester United,Arijanet Muric,22,Kosovo,Goalkeeper,GK,1300000.0,Adana Demirspor,Turkey,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Patrick Roberts,24,England,Right Winger,RW,2000000.0,Troyes,France,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Philippe Sandler,24,Netherlands,Centre-Back,CB,2500000.0,Troyes,France,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Issa Kaboré,20,Burkina Faso,Right-Back,RB,3000000.0,Troyes,France,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Marlos Moreno,24,Colombia,Right Winger,RW,1000000.0,KV Kortrijk,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Filip Stevanovic,18,Serbia,Left Winger,LW,5000000.0,Heerenveen,Netherlands,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Ryotaro Meshino,23,Japan,Left Winger,LW,450000.0,Estoril Praia,Portugal,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Daniel Arzani,22,Australia,Left Winger,LW,800000.0,Lommel SK,Belgium,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Ko Itakura,24,Japan,Centre-Back,CB,3500000.0,FC Schalke 04,Germany,0.0,out,summer,Premier League,2021,True,free loan
+Manchester United,Yangel Herrera,23,Venezuela,Central Midfield,CM,18000000.0,Espanyol,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Newcastle United,Jadon Sancho,21,England,Left Winger,LW,90000000.0,Bor. Dortmund,Germany,85000000.0,in,summer,Premier League,2021,False,
+Newcastle United,Raphaël Varane,28,France,Centre-Back,CB,70000000.0,Real Madrid,Spain,40000000.0,in,summer,Premier League,2021,False,
+Newcastle United,Cristiano Ronaldo,36,Portugal,Centre-Forward,CF,45000000.0,Juventus,Italy,15000000.0,in,summer,Premier League,2021,False,
+Newcastle United,Tom Heaton,35,England,Goalkeeper,GK,1000000.0,Aston Villa,England,0.0,in,summer,Premier League,2021,False,
+Newcastle United,Daniel James,23,Wales,Left Winger,LW,18000000.0,Leeds,England,29100000.0,out,summer,Premier League,2021,False,
+Newcastle United,Andreas Pereira,25,Brazil,Attacking Midfield,AM,8000000.0,Flamengo,Brazil,1000000.0,out,summer,Premier League,2021,True,loan with fee
+Newcastle United,Joel Pereira,25,Portugal,Goalkeeper,GK,300000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Premier League,2021,False,
+Newcastle United,Tahith Chong,21,Netherlands,Right Winger,RW,4000000.0,Birmingham,England,0.0,out,summer,Premier League,2021,True,free loan
+Newcastle United,Facundo Pellistri,19,Uruguay,Right Winger,RW,6000000.0,Alavés,Spain,0.0,out,summer,Premier League,2021,True,free loan
+Newcastle United,Axel Tuanzebe,23,England,Centre-Back,CB,8000000.0,Aston Villa,England,0.0,out,summer,Premier League,2021,True,free loan
+Newcastle United,Brandon Williams,20,England,Left-Back,LB,10000000.0,Norwich,England,0.0,out,summer,Premier League,2021,True,free loan
+Newcastle United,Sergio Romero,34,Argentina,Goalkeeper,GK,1000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Norwich City,Joe Willock,21,England,Central Midfield,CM,22000000.0,Arsenal,England,29400000.0,in,summer,Premier League,2021,False,
+Norwich City,Christian Atsu,29,Ghana,Left Winger,LW,1500000.0,Al-Raed,Saudi Arabia,0.0,out,summer,Premier League,2021,False,
+Norwich City,Yoshinori Muto,29,Japan,Centre-Forward,CF,2500000.0,Vissel Kobe,Japan,0.0,out,summer,Premier League,2021,False,
+Norwich City,Jake Turner,22,England,Goalkeeper,GK,100000.0,Colchester Utd.,England,0.0,out,summer,Premier League,2021,True,free loan
+Norwich City,Florian Lejeune,30,France,Centre-Back,CB,3000000.0,Alavés,Spain,,out,summer,Premier League,2021,False,
+Norwich City,Matty Longstaff,21,England,Central Midfield,CM,5000000.0,Aberdeen FC,Scotland,0.0,out,summer,Premier League,2021,True,free loan
+Norwich City,Andy Carroll,32,England,Centre-Forward,CF,1000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Norwich City,Henri Saivet,30,Senegal,Attacking Midfield,AM,600000.0,Without Club,,,out,summer,Premier League,2021,False,
+Southampton FC,Christos Tzolis,19,Greece,Left Winger,LW,12000000.0,PAOK Salonika,Greece,11000000.0,in,summer,Premier League,2021,False,
+Southampton FC,Milot Rashica,25,Kosovo,Right Winger,RW,9000000.0,Werder Bremen,Germany,11000000.0,in,summer,Premier League,2021,False,
+Southampton FC,Josh Sargent,21,United States,Centre-Forward,CF,8000000.0,Werder Bremen,Germany,9500000.0,in,summer,Premier League,2021,False,
+Southampton FC,Ben Gibson,28,England,Centre-Back,CB,7000000.0,Burnley,England,9300000.0,in,summer,Premier League,2021,False,
+Southampton FC,Dimitrios Giannoulis,25,Greece,Left-Back,LB,7000000.0,PAOK Salonika,Greece,7500000.0,in,summer,Premier League,2021,False,
+Southampton FC,Pierre Lees-Melou,28,France,Central Midfield,CM,7000000.0,OGC Nice,France,6000000.0,in,summer,Premier League,2021,False,
+Southampton FC,Angus Gunn,25,England,Goalkeeper,GK,3000000.0,Southampton,England,5850000.0,in,summer,Premier League,2021,False,
+Southampton FC,Ozan Kabak,21,Turkey,Centre-Back,CB,17000000.0,FC Schalke 04,Germany,4000000.0,in,summer,Premier League,2021,True,loan with fee
+Southampton FC,Mathias Normann,25,Norway,Defensive Midfield,DM,13000000.0,Rostov,Russia,2000000.0,in,summer,Premier League,2021,True,loan with fee
+Southampton FC,Flynn Clarke,18,Scotland,Attacking Midfield,AM,100000.0,Peterborough,England,,in,summer,Premier League,2021,False,
+Southampton FC,Brandon Williams,20,England,Left-Back,LB,10000000.0,Man Utd,England,0.0,in,summer,Premier League,2021,True,free loan
+Southampton FC,Billy Gilmour,20,Scotland,Central Midfield,CM,15000000.0,Chelsea,England,0.0,in,summer,Premier League,2021,True,free loan
+Southampton FC,Emiliano Buendía,24,Argentina,Right Winger,RW,35000000.0,Aston Villa,England,38400000.0,out,summer,Premier League,2021,False,
+Southampton FC,Moritz Leitner,28,Germany,Central Midfield,CM,800000.0,FC Zürich,Switzerland,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Tom Trybull,28,Germany,Defensive Midfield,DM,1500000.0,Hannover 96,Germany,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Örjan Nyland,30,Norway,Goalkeeper,GK,1000000.0,Bournemouth,England,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Philip Heise,30,Germany,Left-Back,LB,600000.0,Karlsruher SC,Germany,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Marco Stiepermann,30,Germany,Attacking Midfield,AM,1000000.0,SC Paderborn,Germany,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Louis Thompson,26,Wales,Defensive Midfield,DM,250000.0,Portsmouth,England,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Mario Vrancic,32,Bosnia-Herzegovina,Central Midfield,CM,1500000.0,Stoke City,England,0.0,out,summer,Premier League,2021,False,
+Southampton FC,Onel Hernández,28,Cuba,Right Winger,RW,2000000.0,Middlesbrough,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Jordan Hugill,29,England,Centre-Forward,CF,2000000.0,West Brom,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Daniel Adshead,19,England,Central Midfield,CM,200000.0,Gillingham FC,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Akin Famewo,22,England,Centre-Back,CB,100000.0,Charlton,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Danel Sinani,24,Luxembourg,Attacking Midfield,AM,550000.0,Huddersfield,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Sam McCallum,20,England,Left-Back,LB,3500000.0,QPR,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Sebastian Soto,20,United States,Centre-Forward,CF,500000.0,FC Porto B,Portugal,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Daniel Barden,20,Wales,Goalkeeper,GK,250000.0,Livingston FC,Scotland,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Josh Martin,19,England,Left Winger,LW,1000000.0,MK Dons,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Aston Oxborough,23,England,Goalkeeper,GK,100000.0,Barnet,England,0.0,out,summer,Premier League,2021,True,free loan
+Southampton FC,Timm Klose,33,Switzerland,Centre-Back,CB,300000.0,Without Club,,,out,summer,Premier League,2021,False,
+Southampton FC,Melvin Sitti,21,France,Central Midfield,CM,350000.0,Without Club,,,out,summer,Premier League,2021,False,
+Southampton FC,Brandon Williams,21,England,Left-Back,LB,10000000.0,Man Utd,England,0.0,out,summer,Premier League,2021,True,end of loan
+Southampton FC,Billy Gilmour,20,Scotland,Central Midfield,CM,15000000.0,Chelsea,England,0.0,out,summer,Premier League,2021,True,end of loan
+Southampton FC,Dimitrios Giannoulis,25,Greece,Left-Back,LB,7000000.0,PAOK Salonika,Greece,0.0,out,summer,Premier League,2021,True,end of loan
+Southampton FC,Xavi Quintillà,24,Spain,Left-Back,LB,2000000.0,Villarreal,Spain,0.0,out,summer,Premier League,2021,True,end of loan
+Tottenham Hotspur,Adam Armstrong,24,England,Centre-Forward,CF,18000000.0,Blackburn,England,17700000.0,in,summer,Premier League,2021,False,
+Tottenham Hotspur,Romain Perraud,23,France,Left-Back,LB,10000000.0,Stade Brestois,France,12000000.0,in,summer,Premier League,2021,False,
+Tottenham Hotspur,Lyanco,24,Brazil,Centre-Back,CB,5000000.0,Torino,Italy,7500000.0,in,summer,Premier League,2021,False,
+Tottenham Hotspur,Valentino Livramento,18,England,Right-Back,RB,12000000.0,Chelsea U23,England,5900000.0,in,summer,Premier League,2021,False,
+Tottenham Hotspur,Theo Walcott,32,England,Right Winger,RW,5000000.0,Everton,England,0.0,in,summer,Premier League,2021,False,
+Tottenham Hotspur,Armando Broja,19,Albania,Centre-Forward,CF,3000000.0,Chelsea U23,England,0.0,in,summer,Premier League,2021,True,free loan
+Tottenham Hotspur,Danny Ings,29,England,Centre-Forward,CF,22000000.0,Aston Villa,England,29420000.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Jannik Vestergaard,29,Denmark,Centre-Back,CB,18000000.0,Leicester,England,17600000.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Angus Gunn,25,England,Goalkeeper,GK,3000000.0,Norwich,England,5850000.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Mario Lemina,27,Gabon,Defensive Midfield,DM,10000000.0,OGC Nice,France,5500000.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Michael Obafemi,21,Ireland,Centre-Forward,CF,3000000.0,Swansea,England,2000000.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Jake Hesketh,25,England,Attacking Midfield,AM,200000.0,Eastleigh,England,0.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Ryan Bertrand,31,England,Left-Back,LB,8000000.0,Leicester,England,0.0,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Wesley Hoedt,27,Netherlands,Centre-Back,CB,4000000.0,RSC Anderlecht,Belgium,,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Josh Sims,24,England,Right Winger,RW,900000.0,Without Club,,,out,summer,Premier League,2021,False,
+Tottenham Hotspur,Dan N'Lundulu,22,England,Centre-Forward,CF,1500000.0,Lincoln City,England,0.0,out,summer,Premier League,2021,True,free loan
+Tottenham Hotspur,Armando Broja,20,Albania,Centre-Forward,CF,3000000.0,Chelsea U23,England,0.0,out,summer,Premier League,2021,True,end of loan
+Tottenham Hotspur,Takumi Minamino,26,Japan,Left Winger,LW,12000000.0,Liverpool,England,0.0,out,summer,Premier League,2021,True,end of loan
+Watford FC,Emerson Royal,22,Brazil,Right-Back,RB,25000000.0,Barcelona,Spain,25000000.0,in,summer,Premier League,2021,False,
+Watford FC,Bryan Gil,20,Spain,Left Winger,LW,30000000.0,Sevilla FC,Spain,25000000.0,in,summer,Premier League,2021,False,
+Watford FC,Pape Sarr,18,Senegal,Defensive Midfield,DM,20000000.0,FC Metz,France,16900000.0,in,summer,Premier League,2021,False,
+Watford FC,Cristian Romero,23,Argentina,Centre-Back,CB,35000000.0,Atalanta BC,Italy,0.0,in,summer,Premier League,2021,True,free loan
+Watford FC,Pierluigi Gollini,26,Italy,Goalkeeper,GK,15000000.0,Atalanta BC,Italy,0.0,in,summer,Premier League,2021,True,free loan
+Watford FC,Juan Foyth,23,Argentina,Centre-Back,CB,15000000.0,Villarreal,Spain,15000000.0,out,summer,Premier League,2021,False,
+Watford FC,Toby Alderweireld,32,Belgium,Centre-Back,CB,10000000.0,Al-Duhail SC,Qatar,13000000.0,out,summer,Premier League,2021,False,
+Watford FC,Moussa Sissoko,32,France,Central Midfield,CM,10000000.0,Watford,England,3500000.0,out,summer,Premier League,2021,False,
+Watford FC,Joe Hart,34,England,Goalkeeper,GK,2000000.0,Celtic,Scotland,1200000.0,out,summer,Premier League,2021,False,
+Watford FC,Danny Rose,30,England,Left-Back,LB,3000000.0,Watford,England,0.0,out,summer,Premier League,2021,False,
+Watford FC,Paulo Gazzaniga,29,Argentina,Goalkeeper,GK,3000000.0,Fulham,England,0.0,out,summer,Premier League,2021,False,
+Watford FC,Erik Lamela,29,Argentina,Right Winger,RW,20000000.0,Sevilla FC,Spain,0.0,out,summer,Premier League,2021,False,
+Watford FC,Pape Sarr,18,Senegal,Defensive Midfield,DM,20000000.0,FC Metz,France,0.0,out,summer,Premier League,2021,True,free loan
+Watford FC,Alfie Whiteman,22,England,Goalkeeper,GK,1000000.0,Degerfors,Sweden,0.0,out,summer,Premier League,2021,True,free loan
+Watford FC,Serge Aurier,28,Cote d'Ivoire,Right-Back,RB,15000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Watford FC,Cameron Carter-Vickers,23,United States,Centre-Back,CB,2000000.0,Celtic,Scotland,0.0,out,summer,Premier League,2021,True,free loan
+Watford FC,Carlos Vinícius,26,Brazil,Centre-Forward,CF,15000000.0,Benfica,Portugal,0.0,out,summer,Premier League,2021,True,end of loan
+Watford FC,Gareth Bale,31,Wales,Right Winger,RW,10000000.0,Real Madrid,Spain,0.0,out,summer,Premier League,2021,True,end of loan
+West Ham United,Imrân Louza,22,Morocco,Central Midfield,CM,12000000.0,FC Nantes,France,10000000.0,in,summer,Premier League,2021,False,
+West Ham United,Emmanuel Dennis,23,Nigeria,Centre-Forward,CF,5000000.0,Club Brugge,Belgium,4000000.0,in,summer,Premier League,2021,False,
+West Ham United,Moussa Sissoko,32,France,Central Midfield,CM,10000000.0,Spurs,England,3500000.0,in,summer,Premier League,2021,False,
+West Ham United,Ozan Tufan,26,Turkey,Central Midfield,CM,11000000.0,Fenerbahce,Turkey,1000000.0,in,summer,Premier League,2021,True,loan with fee
+West Ham United,Mattie Pollock,19,England,Centre-Back,CB,250000.0,Grimsby Town,England,300000.0,in,summer,Premier League,2021,False,
+West Ham United,Joshua King,29,Norway,Second Striker,SS,8000000.0,Everton,England,0.0,in,summer,Premier League,2021,False,
+West Ham United,Ashley Fletcher,25,England,Centre-Forward,CF,3000000.0,Middlesbrough,England,0.0,in,summer,Premier League,2021,False,
+West Ham United,Danny Rose,30,England,Left-Back,LB,3000000.0,Spurs,England,0.0,in,summer,Premier League,2021,False,
+West Ham United,Kwadwo Baah,18,Germany,Left Winger,LW,800000.0,Rochdale,England,0.0,in,summer,Premier League,2021,False,
+West Ham United,Juraj Kucka,34,Slovakia,Central Midfield,CM,3000000.0,Parma,Italy,0.0,in,summer,Premier League,2021,True,free loan
+West Ham United,Peter Etebo,25,Nigeria,Central Midfield,CM,3200000.0,Stoke City,England,0.0,in,summer,Premier League,2021,True,free loan
+West Ham United,Nicolas N'Koulou,31,Cameroon,Centre-Back,CB,5000000.0,Without Club,,,in,summer,Premier League,2021,False,
+West Ham United,Will Hughes,26,England,Central Midfield,CM,7000000.0,Crystal Palace,England,7000000.0,out,summer,Premier League,2021,False,
+West Ham United,Craig Dawson,31,England,Centre-Back,CB,3000000.0,West Ham,England,2300000.0,out,summer,Premier League,2021,False,
+West Ham United,Isaac Success,25,Nigeria,Centre-Forward,CF,1800000.0,Udinese Calcio,Italy,1800000.0,out,summer,Premier League,2021,False,
+West Ham United,Ben Wilmot,21,England,Centre-Back,CB,2500000.0,Stoke City,England,1750000.0,out,summer,Premier League,2021,False,
+West Ham United,Stipe Perica,26,Croatia,Centre-Forward,CF,1500000.0,M. Tel Aviv,Israel,0.0,out,summer,Premier League,2021,False,
+West Ham United,Filip Stuparevic,20,Serbia,Centre-Forward,CF,600000.0,Metalac,Serbia,0.0,out,summer,Premier League,2021,False,
+West Ham United,Troy Deeney,33,England,Centre-Forward,CF,2500000.0,Birmingham,England,0.0,out,summer,Premier League,2021,False,
+West Ham United,Kwasi Sibo,23,Ghana,Central Midfield,CM,200000.0,Betis B,Spain,0.0,out,summer,Premier League,2021,False,
+West Ham United,Nathaniel Chalobah,26,England,Defensive Midfield,DM,5000000.0,Fulham,England,0.0,out,summer,Premier League,2021,False,
+West Ham United,Achraf Lazaar,29,Morocco,Left-Back,LB,300000.0,Portimonense,Portugal,0.0,out,summer,Premier League,2021,False,
+West Ham United,Mattie Pollock,19,England,Centre-Back,CB,250000.0,Cheltenham,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Andre Gray,30,Jamaica,Centre-Forward,CF,4000000.0,QPR,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Tom Dele-Bashiru,21,Nigeria,Central Midfield,CM,700000.0,Reading,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Philip Zinckernagel,26,Denmark,Right Winger,RW,3000000.0,Nottm Forest,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Pontus Dahlberg,22,Sweden,Goalkeeper,GK,1200000.0,Doncaster,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Adalberto Peñaranda,24,Venezuela,Centre-Forward,CF,800000.0,UD Las Palmas,Spain,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Jorge Segura,24,Colombia,Centre-Back,CB,650000.0,CD América,Colombia,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Jerome Sinclair,24,England,Centre-Forward,CF,400000.0,Without Club,,,out,summer,Premier League,2021,False,
+West Ham United,Carlos Sánchez,35,Colombia,Defensive Midfield,DM,300000.0,Without Club,,,out,summer,Premier League,2021,False,
+West Ham United,Marc Navarro,26,Spain,Right-Back,RB,700000.0,Without Club,,,out,summer,Premier League,2021,False,
+West Ham United,Domingos Quina,21,Portugal,Central Midfield,CM,3000000.0,Fulham,England,0.0,out,summer,Premier League,2021,True,free loan
+West Ham United,Peter Etebo,26,Nigeria,Central Midfield,CM,3200000.0,Stoke City,England,0.0,out,summer,Premier League,2021,True,end of loan
+Wolverhampton Wanderers,Kurt Zouma,26,France,Centre-Back,CB,32000000.0,Chelsea,England,35000000.0,in,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Nikola Vlasic,23,Croatia,Attacking Midfield,AM,30000000.0,CSKA Moscow,Russia,30000000.0,in,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Alex Kral,23,Czech Republic,Defensive Midfield,DM,10000000.0,Spartak Moscow,Russia,5200000.0,in,summer,Premier League,2021,True,loan with fee
+Wolverhampton Wanderers,Craig Dawson,31,England,Centre-Back,CB,3000000.0,Watford,England,2300000.0,in,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Alphonse Areola,28,France,Goalkeeper,GK,14000000.0,Paris SG,France,2000000.0,in,summer,Premier League,2021,True,loan with fee
+Wolverhampton Wanderers,Felipe Anderson,28,Brazil,Left Winger,LW,10000000.0,Lazio,Italy,3000000.0,out,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Fabián Balbuena,29,Paraguay,Centre-Back,CB,5000000.0,Dynamo Moscow,Russia,0.0,out,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Xande Silva,24,Portugal,Right Winger,RW,800000.0,Nottm Forest,England,,out,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Frederik Alves,21,Denmark,Centre-Back,CB,1000000.0,Sunderland,England,0.0,out,summer,Premier League,2021,True,free loan
+Wolverhampton Wanderers,Winston Reid,33,New Zealand,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Premier League,2021,False,
+Wolverhampton Wanderers,Conor Coventry,21,Ireland,Defensive Midfield,DM,200000.0,Peterborough,England,0.0,out,summer,Premier League,2021,True,free loan

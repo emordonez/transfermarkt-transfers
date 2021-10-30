@@ -1,0 +1,290 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+Spartak Moscow,Claudinho,24,Brazil,Attacking Midfield,AM,11000000.0,RB Bragantino,Brazil,12000000.0,in,summer,Premier Liga,2021,False,
+Spartak Moscow,Dmitri Chistyakov,27,Russia,Centre-Back,CB,2800000.0,Rostov,Russia,3250000.0,in,summer,Premier Liga,2021,False,
+Spartak Moscow,Stanislav Kritsyuk,30,Russia,Goalkeeper,GK,2500000.0,Gil Vicente,Portugal,2000000.0,in,summer,Premier Liga,2021,False,
+Spartak Moscow,Sebastián Driussi,25,Argentina,Left Winger,LW,7500000.0,Austin FC,United States,6360000.0,out,summer,Premier Liga,2021,False,
+Spartak Moscow,Danila Prokhin,20,Russia,Centre-Back,CB,2000000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,False,
+Spartak Moscow,Andrey Lunev,29,Russia,Goalkeeper,GK,5000000.0,Bay. Leverkusen,Germany,0.0,out,summer,Premier Liga,2021,False,
+Spartak Moscow,Yuri Zhirkov,37,Russia,Left-Back,LB,300000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Spartak Moscow,Daniil Shamkin,19,Russia,Attacking Midfield,AM,800000.0,Baltika,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Spartak Moscow,Dmitri Chistyakov,27,Russia,Centre-Back,CB,2800000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Lokomotiv Moscow,Victor Moses,30,Nigeria,Right Midfield,RM,6500000.0,Chelsea,England,5000000.0,in,summer,Premier Liga,2021,False,
+Lokomotiv Moscow,Maximiliano Caufriez,24,Belgium,Centre-Back,CB,1200000.0,Sint-Truiden,Belgium,2500000.0,in,summer,Premier Liga,2021,False,
+Lokomotiv Moscow,Alex Kral,23,Czech Republic,Defensive Midfield,DM,10000000.0,West Ham,England,5200000.0,out,summer,Premier Liga,2021,True,loan with fee
+Lokomotiv Moscow,Artem Timofeev,27,Russia,Defensive Midfield,DM,1800000.0,Akhmat Grozny,Russia,800000.0,out,summer,Premier Liga,2021,False,
+Lokomotiv Moscow,Pedro Rocha,26,Brazil,Left Winger,LW,1500000.0,Athletico-PR,Brazil,700000.0,out,summer,Premier Liga,2021,True,loan with fee
+Lokomotiv Moscow,Ayaz Guliev,24,Russia,Central Midfield,CM,750000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+Lokomotiv Moscow,Aleksandr Tashaev,27,Russia,Right Winger,RW,700000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2021,False,
+Lokomotiv Moscow,Maksim Glushenkov,22,Russia,Right Winger,RW,1500000.0,KS Samara,Russia,33000.0,out,summer,Premier Liga,2021,True,loan with fee
+Lokomotiv Moscow,Guus Til,23,Netherlands,Attacking Midfield,AM,5000000.0,Feyenoord,Netherlands,0.0,out,summer,Premier Liga,2021,True,free loan
+Lokomotiv Moscow,Oston Urunov,20,Uzbekistan,Attacking Midfield,AM,1200000.0,Ufa,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Lokomotiv Moscow,Reziuan Mirzov,28,Russia,Left Winger,LW,2800000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Lokomotiv Moscow,Victor Moses,30,Nigeria,Right Midfield,RM,6500000.0,Chelsea,England,0.0,out,summer,Premier Liga,2021,True,end of loan
+Rubin Kazan,Konstantin Maradishvili,21,Russia,Defensive Midfield,DM,3000000.0,CSKA Moscow,Russia,7000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Gyrano Kerk,25,Netherlands,Right Winger,RW,6000000.0,FC Utrecht,Netherlands,6000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Alexis Beka Beka,20,France,Defensive Midfield,DM,2000000.0,SM Caen,France,6000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Nair Tiknizyan,22,Russia,Left-Back,LB,2500000.0,CSKA Moscow,Russia,5000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Tin Jedvaj,25,Croatia,Centre-Back,CB,3000000.0,Bay. Leverkusen,Germany,4000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Maksim Nenakhov,22,Russia,Right-Back,RB,1800000.0,Akhmat Grozny,Russia,2000000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Kirill Zinovich,18,Belarus,Attacking Midfield,AM,250000.0,FK Minsk,Belarus,180000.0,in,summer,Premier Liga,2021,False,
+Rubin Kazan,Tino Anjorin,19,England,Attacking Midfield,AM,2500000.0,Chelsea U23,England,0.0,in,summer,Premier Liga,2021,True,free loan
+Rubin Kazan,Grzegorz Krychowiak,31,Poland,Defensive Midfield,DM,13000000.0,Krasnodar,Russia,4000000.0,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Maksim Mukhin,19,Russia,Defensive Midfield,DM,3500000.0,CSKA Moscow,Russia,170000.0,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Bryan Idowu,29,Nigeria,Left-Back,LB,1500000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Vladislav Ignatjev,34,Russia,Right-Back,RB,1000000.0,Rubin Kazan,Russia,0.0,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Anton Kochenkov,34,Russia,Goalkeeper,GK,500000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Vedran Corluka,35,Croatia,Centre-Back,CB,,,,,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Solomon Kvirkvelia,29,Georgia,Centre-Back,CB,2500000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Luka Djordjevic,26,Montenegro,Centre-Forward,CF,900000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Éder,33,Portugal,Centre-Forward,CF,700000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Mikhail Lysov,23,Russia,Left-Back,LB,,,,,out,summer,Premier Liga,2021,False,
+Rubin Kazan,Vitali Lystsov,25,Russia,Centre-Back,CB,500000.0,Akhmat Grozny,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Rubin Kazan,Andrey Nikitin,20,Russia,Left Winger,LW,350000.0,Fakel Voronezh,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Anders Dreyer,23,Denmark,Right Winger,RW,6000000.0,FC Midtjylland,Denmark,7000000.0,in,summer,Premier Liga,2021,False,
+FC Sochi,Sead Haksabanovic,22,Montenegro,Left Winger,LW,5500000.0,Norrköping,Sweden,6500000.0,in,summer,Premier Liga,2021,False,
+FC Sochi,Montassar Talbi,23,Tunisia,Centre-Back,CB,1000000.0,Benevento,Italy,900000.0,in,summer,Premier Liga,2021,False,
+FC Sochi,Konstantin Nizhegorodov,19,Russia,Centre-Back,CB,100000.0,H. Rostock U19,Germany,0.0,in,summer,Premier Liga,2021,False,
+FC Sochi,Vladislav Ignatjev,34,Russia,Right-Back,RB,1000000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+FC Sochi,German Onugkha,25,Russia,Centre-Forward,CF,650000.0,Vejle BK,Denmark,0.0,in,summer,Premier Liga,2021,True,free loan
+FC Sochi,Denis Makarov,23,Russia,Right Midfield,RM,5000000.0,Dynamo Moscow,Russia,7500000.0,out,summer,Premier Liga,2021,False,
+FC Sochi,Carl Starfelt,26,Sweden,Centre-Back,CB,3000000.0,Celtic,Scotland,5000000.0,out,summer,Premier Liga,2021,False,
+FC Sochi,Zuriko Davitashvili,20,Georgia,Left Winger,LW,2500000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+FC Sochi,Mikhail Merkulov,27,Russia,Left-Back,LB,900000.0,HNK Rijeka,Croatia,0.0,out,summer,Premier Liga,2021,False,
+FC Sochi,Kamil Zakirov,22,Russia,Central Midfield,CM,300000.0,DinSPb,Russia,0.0,out,summer,Premier Liga,2021,False,
+FC Sochi,Darko Jevtic,28,Switzerland,Attacking Midfield,AM,2500000.0,AEK Athens,Greece,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Silvije Begic,28,Croatia,Centre-Back,CB,1500000.0,KS Samara,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Aleksey Gritsaenko,26,Russia,Centre-Back,CB,700000.0,Kuban,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Kirill Kosarev,20,Russia,Centre-Forward,CF,350000.0,Nizhny Novgorod,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Kirill Kosarev,19,Russia,Centre-Forward,CF,350000.0,Hrv Dragovoljac,Croatia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Igor Konovalov,25,Russia,Central Midfield,CM,1500000.0,Akhmat Grozny,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Kirill Klimov,20,Russia,Centre-Forward,CF,300000.0,Kuban,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FC Sochi,Danil Stepanov,21,Russia,Left-Back,LB,1800000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+CSKA Moscow,Victorien Angban,24,Cote d'Ivoire,Central Midfield,CM,3500000.0,FC Metz,France,4099999.9999999995,in,summer,Premier Liga,2021,False,
+CSKA Moscow,Mateo Cassierra,24,Colombia,Centre-Forward,CF,2000000.0,Belenenses SAD,Portugal,1200000.0,in,summer,Premier Liga,2021,False,
+CSKA Moscow,Sergey Terekhov,31,Russia,Left-Back,LB,1800000.0,Orenburg,Russia,335000.0,in,summer,Premier Liga,2021,False,
+CSKA Moscow,Rodrigão,25,Brazil,Centre-Back,CB,1500000.0,Gil Vicente,Portugal,0.0,in,summer,Premier Liga,2021,False,
+CSKA Moscow,Mateo Barac,26,Croatia,Centre-Back,CB,1800000.0,Rapid Vienna,Austria,0.0,in,summer,Premier Liga,2021,False,
+CSKA Moscow,Danila Prokhin,20,Russia,Centre-Back,CB,2000000.0,Rostov,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+CSKA Moscow,Dmitri Vorobyev,23,Russia,Centre-Forward,CF,750000.0,Orenburg,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+CSKA Moscow,Danil Prutsev,21,Russia,Central Midfield,CM,800000.0,KS Samara,Russia,600000.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Ivan Novoseltsev,29,Russia,Centre-Back,CB,1000000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Nikita Koldunov,21,Russia,Central Midfield,CM,200000.0,Zenit 2 S-Pb,Russia,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Elmir Nabiullin,26,Russia,Left-Back,LB,1000000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Miha Mevlja,31,Slovenia,Centre-Back,CB,2000000.0,Alanyaspor,Turkey,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Aleksey Pomerko,31,Russia,Central Midfield,CM,250000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Anton Zabolotnyi,30,Russia,Centre-Forward,CF,2500000.0,CSKA Moscow,Russia,0.0,out,summer,Premier Liga,2021,False,
+CSKA Moscow,Erik Vardanyan,23,Armenia,Attacking Midfield,AM,300000.0,Pyunik Yerevan,Armenia,0.0,out,summer,Premier Liga,2021,True,free loan
+CSKA Moscow,Ivan Miladinovic,26,Serbia,Centre-Back,CB,1800000.0,Nizhny Novgorod,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+CSKA Moscow,Aleksandr Rudenko,22,Russia,Left Winger,LW,850000.0,Spartak 2,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+CSKA Moscow,Danila Prokhin,20,Russia,Centre-Back,CB,2000000.0,Zenit S-Pb,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+CSKA Moscow,Sergey Terekhov,31,Russia,Left-Back,LB,1800000.0,Orenburg,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Dynamo Moscow,Maksim Mukhin,19,Russia,Defensive Midfield,DM,3500000.0,Loko Moscow,Russia,170000.0,in,summer,Premier Liga,2021,False,
+Dynamo Moscow,Anton Zabolotnyi,30,Russia,Centre-Forward,CF,2500000.0,Sochi,Russia,0.0,in,summer,Premier Liga,2021,False,
+Dynamo Moscow,Nikola Vlasic,23,Croatia,Attacking Midfield,AM,30000000.0,West Ham,England,30000000.0,out,summer,Premier Liga,2021,False,
+Dynamo Moscow,Konstantin Maradishvili,21,Russia,Defensive Midfield,DM,3000000.0,Loko Moscow,Russia,7000000.0,out,summer,Premier Liga,2021,False,
+Dynamo Moscow,Nair Tiknizyan,22,Russia,Left-Back,LB,2500000.0,Loko Moscow,Russia,5000000.0,out,summer,Premier Liga,2021,False,
+Dynamo Moscow,Arnór Sigurdsson,22,Iceland,Attacking Midfield,AM,4500000.0,Venezia,Italy,800000.0,out,summer,Premier Liga,2021,True,loan with fee
+Dynamo Moscow,Nikita Kotin,18,Russia,Centre-Back,CB,250000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,False,
+Dynamo Moscow,Adolfo Gaich,22,Argentina,Centre-Forward,CF,6000000.0,SD Huesca,Spain,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Ilya Pomazun,24,Russia,Goalkeeper,GK,1500000.0,Ural,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Gocha Gogrichiani,21,Russia,Centre-Forward,CF,300000.0,Tekstilshchik,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Vitali Zhironkin,21,Russia,Centre-Forward,CF,275000.0,Volgar,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Ilya Shkurin,21,Belarus,Centre-Forward,CF,1000000.0,Dynamo Kyiv,Ukraine,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Lassana N'Diaye,20,Mali,Centre-Forward,CF,150000.0,Tekstilshchik,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Vadim Karpov,19,Russia,Centre-Back,CB,1000000.0,Tekstilshchik,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Dynamo Moscow,Salomón Rondón,31,Venezuela,Centre-Forward,CF,5000000.0,DL Pro,China,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Khimki,Denis Makarov,23,Russia,Right Midfield,RM,5000000.0,Rubin Kazan,Russia,7500000.0,in,summer,Premier Liga,2021,False,
+FK Khimki,Diego Laxalt,28,Uruguay,Left-Back,LB,3500000.0,AC Milan,Italy,3500000.0,in,summer,Premier Liga,2021,False,
+FK Khimki,Luka Gagnidze,18,Georgia,Central Midfield,CM,700000.0,Dinamo Tbilisi,Georgia,1500000.0,in,summer,Premier Liga,2021,False,
+FK Khimki,Guillermo Varela,28,Uruguay,Right-Back,RB,2000000.0,FC Copenhagen,Denmark,1000000.0,in,summer,Premier Liga,2021,False,
+FK Khimki,Fabián Balbuena,29,Paraguay,Centre-Back,CB,5000000.0,West Ham,England,0.0,in,summer,Premier Liga,2021,False,
+FK Khimki,Maximilian Philipp,27,Germany,Second Striker,SS,7000000.0,VfL Wolfsburg,Germany,7500000.0,out,summer,Premier Liga,2021,False,
+FK Khimki,Igor Kalinin,25,Russia,Left-Back,LB,800000.0,Ural,Russia,350000.0,out,summer,Premier Liga,2021,False,
+FK Khimki,Danil Lipovoy,21,Russia,Left Midfield,LM,350000.0,KS Samara,Russia,230000.0,out,summer,Premier Liga,2021,False,
+FK Khimki,Miguel Cardoso,27,Portugal,Right Winger,RW,1200000.0,Kayserispor,Turkey,0.0,out,summer,Premier Liga,2021,False,
+FK Khimki,Roman Neustädter,33,Russia,Defensive Midfield,DM,600000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Khimki,Charles Kaboré,33,Burkina Faso,Defensive Midfield,DM,800000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Khimki,Vladimir Moskvichev,21,Russia,Defensive Midfield,DM,400000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Khimki,Igor Shkolik,20,Russia,Central Midfield,CM,400000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Khimki,Luka Gagnidze,18,Georgia,Central Midfield,CM,700000.0,Ural,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Khimki,Vladislav Karapuzov,21,Russia,Right Winger,RW,500000.0,Akhmat Grozny,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Khimki,Nikolay Komlichenko,26,Russia,Centre-Forward,CF,3500000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Khimki,Guillermo Varela,28,Uruguay,Right-Back,RB,2000000.0,FC Copenhagen,Denmark,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Kemal Ademi,25,Switzerland,Centre-Forward,CF,1600000.0,Fenerbahce,Turkey,800000.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Aleksandr Dolgov,22,Russia,Centre-Forward,CF,400000.0,Rostov,Russia,115000.0,in,summer,Premier Liga,2021,False,
+FK Rostov,David Davidyan,23,Armenia,Right Winger,RW,300000.0,Alashkert FC,Armenia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Elmir Nabiullin,26,Russia,Left-Back,LB,1000000.0,Sochi,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Besard Sabovic,23,Sweden,Central Midfield,CM,700000.0,Kayserispor,Turkey,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Ilya Kamyshev,23,Russia,Defensive Midfield,DM,250000.0,Chertanovo,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Ilya Sadygov,20,Russia,Centre-Forward,CF,150000.0,Dolgoprudnyi,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Vitali Sychev,21,Russia,Goalkeeper,GK,175000.0,Tambov,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Bryan Idowu,29,Nigeria,Left-Back,LB,1500000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Kirill Bolshakov,21,Russia,Centre-Back,CB,300000.0,SKA Khabarovsk,Russia,40000.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Artem Sokolov,18,Russia,Attacking Midfield,AM,500000.0,Chertanovo,Russia,23000.0,in,summer,Premier Liga,2021,False,
+FK Rostov,Reziuan Mirzov,28,Russia,Left Winger,LW,2800000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Rostov,Maksim Karpov,26,Russia,Centre-Back,CB,500000.0,KS Samara,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Rostov,Kirill Bozhenov,20,Russia,Right-Back,RB,1000000.0,Rostov,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Rostov,Dusan Stojinovic,20,Slovenia,Centre-Back,CB,800000.0,NK Celje,Slovenia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Rostov,Senin Sebai,27,Cote d'Ivoire,Centre-Forward,CF,500000.0,Akhmat Grozny,Russia,230000.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Kirill Bozhenov,20,Russia,Right-Back,RB,1000000.0,Rostov,Russia,100000.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Pavel Mogilevets,28,Russia,Central Midfield,CM,1500000.0,Nizhny Novgorod,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Andrey Murnin,36,Russia,Central Midfield,CM,50000.0,Khimik Dzer.,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Dmitri Khomich,36,Russia,Goalkeeper,GK,50000.0,SKA Khabarovsk,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Mohamed Konaté,23,Burkina Faso,Centre-Forward,CF,800000.0,Akhmat Grozny,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Rostov,Vladimir Dyadyun,32,Russia,Centre-Forward,CF,200000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Rostov,Arshak Koryan,26,Armenia,Right Winger,RW,700000.0,Orenburg,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Rostov,Kamran Aliev,22,Russia,Second Striker,SS,400000.0,SKA Khabarovsk,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Rostov,Nikita Balakhontsev,18,Russia,Left Winger,LW,250000.0,Dolgoprudnyi,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Rostov,Kirill Bolshakov,21,Russia,Centre-Back,CB,300000.0,Dolgoprudnyi,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Rostov,Maksim Glushenkov,21,Russia,Right Winger,RW,1500000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Ilya Kamyshev,23,Russia,Defensive Midfield,DM,250000.0,Chertanovo,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Aleksandr Dolgov,22,Russia,Centre-Forward,CF,400000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Arseni Logashov,29,Russia,Right-Back,RB,450000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Reziuan Mirzov,28,Russia,Left Winger,LW,2800000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Rostov,Bryan Idowu,29,Nigeria,Left-Back,LB,1500000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Krasnodar,Ali Sowe,27,The Gambia,Centre-Forward,CF,3000000.0,CSKA-Sofia,Bulgaria,3000000.0,in,summer,Premier Liga,2021,False,
+FK Krasnodar,Igor Kalinin,25,Russia,Left-Back,LB,800000.0,Ural,Russia,600000.0,in,summer,Premier Liga,2021,False,
+FK Krasnodar,Kirill Bozhenov,20,Russia,Right-Back,RB,1000000.0,Khimki,Russia,100000.0,in,summer,Premier Liga,2021,False,
+FK Krasnodar,Danila Prokhin,20,Russia,Centre-Back,CB,2000000.0,Zenit S-Pb,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Krasnodar,Nikita Kotin,18,Russia,Centre-Back,CB,250000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Krasnodar,Bastos,30,Angola,Centre-Back,CB,1700000.0,Al-Ain,Saudi Arabia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Nikolay Komlichenko,26,Russia,Centre-Forward,CF,3500000.0,Dynamo Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Dmitri Chistyakov,27,Russia,Centre-Back,CB,2800000.0,Zenit S-Pb,Russia,3250000.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Mathias Normann,25,Norway,Defensive Midfield,DM,13000000.0,Norwich,England,2000000.0,out,summer,Premier Liga,2021,True,loan with fee
+FK Krasnodar,Aleksandr Dolgov,22,Russia,Centre-Forward,CF,400000.0,Khimki,Russia,115000.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Arseni Logashov,29,Russia,Right-Back,RB,450000.0,Kuban,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Haitam Aleesami,30,Norway,Left-Back,LB,1200000.0,Apol. Limassol,Cyprus,0.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Aleksey Kozlov,34,Russia,Right-Back,RB,300000.0,Nizhny Novgorod,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Georgi Makhatadze,23,Russia,Central Midfield,CM,600000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Krasnodar,Vladimir Obukhov,29,Russia,Centre-Forward,CF,500000.0,Ban,,,out,summer,Premier Liga,2021,False,
+FK Krasnodar,David Tosevski,20,North Macedonia,Centre-Forward,CF,500000.0,Górnik Zabrze,Poland,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Tomas Rukas,24,Russia,Centre-Back,CB,300000.0,Enisey,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Kirill Bozhenov,20,Russia,Right-Back,RB,1000000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Aleksandr Pavlovets,24,Belarus,Centre-Back,CB,500000.0,Kolos Kovalivka,Ukraine,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Aleksandr Saplinov,23,Russia,Attacking Midfield,AM,500000.0,Ufa,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Danila Prokhin,20,Russia,Centre-Back,CB,2000000.0,Sochi,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Maksim Rudakov,25,Russia,Goalkeeper,GK,300000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Aleksandr Smirnov,25,Russia,Left-Back,LB,350000.0,SKA Khabarovsk,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Krasnodar,Ali Sowe,27,The Gambia,Centre-Forward,CF,3000000.0,CSKA-Sofia,Bulgaria,0.0,out,summer,Premier Liga,2021,True,end of loan
+Akhmat Grozny,Jhon Córdoba,28,Colombia,Centre-Forward,CF,17000000.0,Hertha BSC,Germany,20000000.0,in,summer,Premier Liga,2021,False,
+Akhmat Grozny,Grzegorz Krychowiak,31,Poland,Defensive Midfield,DM,13000000.0,Loko Moscow,Russia,4000000.0,in,summer,Premier Liga,2021,False,
+Akhmat Grozny,Vladimir Iljin,29,Russia,Centre-Forward,CF,2000000.0,Akhmat Grozny,Russia,3000000.0,in,summer,Premier Liga,2021,False,
+Akhmat Grozny,Nikita Krivtsov,18,Russia,Attacking Midfield,AM,400000.0,Torpedo Vlad.,Russia,90000.0,in,summer,Premier Liga,2021,False,
+Akhmat Grozny,Kristoffer Olsson,26,Sweden,Central Midfield,CM,3500000.0,RSC Anderlecht,Belgium,4000000.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,German Onugkha,24,Russia,Centre-Forward,CF,650000.0,Vejle BK,Denmark,600000.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Ilya Zhigulev,25,Russia,Central Midfield,CM,1000000.0,Zaglebie Lubin,Poland,300000.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Marcus Berg,34,Sweden,Centre-Forward,CF,1200000.0,IFK Göteborg,Sweden,0.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Ruslan Kambolov,31,Russia,Defensive Midfield,DM,1000000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Evgeniy Markov,26,Russia,Centre-Forward,CF,700000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Igor Smolnikov,32,Russia,Right-Back,RB,1500000.0,Arsenal Tula,Russia,0.0,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Shapi Suleymanov,21,Russia,Right Winger,RW,5000000.0,Giresunspor,Turkey,0.0,out,summer,Premier Liga,2021,True,free loan
+Akhmat Grozny,Ari,35,Russia,Centre-Forward,CF,400000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Akhmat Grozny,Daniil Utkin,21,Russia,Central Midfield,CM,2500000.0,Akhmat Grozny,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Akhmat Grozny,Leo Goglichidze,24,Russia,Left-Back,LB,450000.0,Ural,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Akhmat Grozny,Egor Baburin,27,Russia,Goalkeeper,GK,1000000.0,Rostov,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Ural Yekaterinburg,Artem Timofeev,27,Russia,Defensive Midfield,DM,1800000.0,Spartak Moscow,Russia,800000.0,in,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Senin Sebai,27,Cote d'Ivoire,Centre-Forward,CF,500000.0,Khimki,Russia,230000.0,in,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Mohamed Konaté,23,Burkina Faso,Centre-Forward,CF,800000.0,Khimki,Russia,0.0,in,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Darko Todorovic,24,Bosnia-Herzegovina,Right-Back,RB,700000.0,RB Salzburg,Austria,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Vladislav Karapuzov,21,Russia,Right Winger,RW,500000.0,Dynamo Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Igor Konovalov,25,Russia,Central Midfield,CM,1500000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Artem Arkhipov,24,Russia,Centre-Forward,CF,500000.0,Kuban,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Vitali Lystsov,25,Russia,Centre-Back,CB,500000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Daniil Utkin,21,Russia,Central Midfield,CM,2500000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Vladimir Iljin,29,Russia,Centre-Forward,CF,2000000.0,Krasnodar,Russia,3000000.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Maksim Nenakhov,22,Russia,Right-Back,RB,1800000.0,Loko Moscow,Russia,2000000.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Wilker Ángel,28,Venezuela,Centre-Back,CB,1600000.0,Göztepe,Turkey,0.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Ismael Silva,26,Brazil,Central Midfield,CM,3000000.0,Faisaly,Saudi Arabia,0.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Andrés Ponce,24,Venezuela,Centre-Forward,CF,700000.0,Vejle BK,Denmark,0.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Odise Roshi,30,Albania,Right Winger,RW,500000.0,Boluspor,Turkey,0.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Pavel Kaloshin,23,Russia,Centre-Back,CB,250000.0,Irtysh Omsk,Russia,0.0,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Konrad Michalak,23,Poland,Right Winger,RW,1500000.0,Konyaspor,Turkey,0.0,out,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Magomed Mitrishev,28,Russia,Right Winger,RW,350000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Ural Yekaterinburg,Nikita Karmaev,20,Russia,Centre-Back,CB,250000.0,Kuban,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Idris Umaev,22,Russia,Centre-Forward,CF,400000.0,Shakhter K.,Kazakhstan,0.0,out,summer,Premier Liga,2021,True,free loan
+Ural Yekaterinburg,Artem Timofeev,27,Russia,Defensive Midfield,DM,1800000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Ural Yekaterinburg,Ladislav Almasi,22,Slovakia,Centre-Forward,CF,750000.0,Ruzomberok,Slovakia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Ural Yekaterinburg,Georgi Melkadze,24,Russia,Second Striker,SS,1200000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Ufa,Igor Kalinin,25,Russia,Left-Back,LB,800000.0,Dynamo Moscow,Russia,350000.0,in,summer,Premier Liga,2021,False,
+FK Ufa,Kirill Kolesnichenko,21,Russia,Left Winger,LW,400000.0,Kairat Almaty,Kazakhstan,140000.0,in,summer,Premier Liga,2021,False,
+FK Ufa,Mikhail Ageev,21,Russia,Centre-Forward,CF,250000.0,Loko-Kazanka M.,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Ufa,Yuri Zheleznov,18,Russia,Left Midfield,LM,250000.0,Saturn,Russia,0.0,in,summer,Premier Liga,2021,False,
+FK Ufa,Leo Goglichidze,24,Russia,Left-Back,LB,450000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Ufa,Luka Gagnidze,18,Georgia,Central Midfield,CM,700000.0,Dynamo Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Ufa,Ilya Pomazun,24,Russia,Goalkeeper,GK,1500000.0,CSKA Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Ufa,Igor Kalinin,25,Russia,Left-Back,LB,800000.0,Rostov,Russia,600000.0,out,summer,Premier Liga,2021,False,
+FK Ufa,Stefan Strandberg,30,Norway,Centre-Back,CB,800000.0,Salernitana,Italy,0.0,out,summer,Premier Liga,2021,False,
+FK Ufa,David Karaev,26,Russia,Centre-Forward,CF,450000.0,SKA Khabarovsk,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Ufa,Pavel Pogrebnyak,37,Russia,Centre-Forward,CF,50000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Ufa,Othman El Kabir,29,Netherlands,Left Midfield,LM,1700000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Ufa,Islamzhan Nasyrov,23,Russia,Left-Back,LB,300000.0,Tyumen,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Ufa,Yuri Bavin,27,Russia,Central Midfield,CM,700000.0,Rotor Volgograd,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Ufa,Artem Mamin,23,Russia,Centre-Back,CB,400000.0,Tom Tomsk,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Ufa,Oleg Baklov,26,Russia,Goalkeeper,GK,300000.0,KamAZ,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Ufa,Artem Mamin,23,Russia,Centre-Back,CB,400000.0,Chaika Pes.,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Ufa,Ivan Konovalov,26,Russia,Goalkeeper,GK,500000.0,Rubin Kazan,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Ufa,Igor Kalinin,25,Russia,Left-Back,LB,800000.0,Dynamo Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Arsenal Tula,Azer Aliev,27,Russia,Right Midfield,RM,600000.0,Tambov,Russia,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Yuri Zhuravlev,25,Russia,Centre-Back,CB,500000.0,Volgar,Russia,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Erving Botaka,22,Russia,Centre-Back,CB,450000.0,Veles Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Ruslan Fishchenko,21,Russia,Defensive Midfield,DM,300000.0,Veles Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Egas Cacintura,23,Angola,Right Midfield,RM,300000.0,Unknown,,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Aleksey Kuznetsov,24,Russia,Goalkeeper,GK,450000.0,Dinamo Bryansk,Russia,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Moritz Bauer,29,Austria,Right-Back,RB,1200000.0,Stoke City,England,0.0,in,summer,Premier Liga,2021,False,
+Arsenal Tula,Aleksandr Saplinov,23,Russia,Attacking Midfield,AM,500000.0,Rostov,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Arsenal Tula,Oston Urunov,20,Uzbekistan,Attacking Midfield,AM,1200000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Arsenal Tula,Aleksey Chernov,23,Russia,Goalkeeper,GK,200000.0,Vejle BK,Denmark,200000.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Parfait Bizoza,22,Burundi,Defensive Midfield,DM,200000.0,Vendsyssel FF,Denmark,115000.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Nikolay Giorgobiani,23,Russia,Attacking Midfield,AM,500000.0,Alania Vl.,Russia,57000.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Dmitri Sysuev,33,Russia,Left Winger,LW,300000.0,FK Saransk,Russia,0.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Igor Bezdenezhnykh,24,Russia,Central Midfield,CM,400000.0,Kuban,Russia,0.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Pavel Alikin,37,Russia,Centre-Back,CB,50000.0,Rodina Moscow,Russia,0.0,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Yuri Shafinskiy,27,Russia,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Arsenal Tula,Danila Emeljanov,21,Russia,Central Midfield,CM,400000.0,Neftekhimik,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+Arsenal Tula,Komnen Andric,25,Serbia,Centre-Forward,CF,800000.0,Dinamo Zagreb,Croatia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Arsenal Tula,Oston Urunov,20,Uzbekistan,Attacking Midfield,AM,1200000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Arsenal Tula,Moritz Bauer,29,Austria,Right-Back,RB,1200000.0,Stoke City,England,0.0,out,summer,Premier Liga,2021,True,end of loan
+Arsenal Tula,Grigori Morozov,27,Russia,Right-Back,RB,700000.0,Dynamo Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Krylya Sovetov Samara,Axel Björnström,25,Sweden,Left-Back,LB,500000.0,Sirius,Sweden,200000.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Uros Radakovic,27,Serbia,Centre-Back,CB,700000.0,Sparta Prague,Czech Republic,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Zuriko Davitashvili,20,Georgia,Left Winger,LW,2500000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Anton Kochenkov,34,Russia,Goalkeeper,GK,500000.0,Loko Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Ivan Novoseltsev,29,Russia,Centre-Back,CB,1000000.0,Sochi,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Igor Smolnikov,32,Russia,Right-Back,RB,1500000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Evgeniy Markov,26,Russia,Centre-Forward,CF,700000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Ayaz Guliev,24,Russia,Central Midfield,CM,750000.0,Spartak Moscow,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Ruslan Kambolov,31,Russia,Defensive Midfield,DM,1000000.0,Krasnodar,Russia,0.0,in,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Danil Stepanov,21,Russia,Left-Back,LB,1800000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+Krylya Sovetov Samara,Roman Minaev,23,Russia,Centre-Forward,CF,300000.0,Rotor Volgograd,Russia,60000.0,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Yuri Kovalev,28,Belarus,Right Midfield,RM,400000.0,Orenburg,Russia,0.0,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Artur Nigmatullin,30,Russia,Goalkeeper,GK,700000.0,Nizhny Novgorod,Russia,0.0,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Kirill Kombarov,34,Russia,Right-Back,RB,,,,,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Anri Khagush,34,Russia,Right-Back,RB,,,,,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Robert Bauer,26,Germany,Defensive Midfield,DM,2000000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Gia Grigalava,31,Georgia,Centre-Back,CB,600000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+Krylya Sovetov Samara,Valeriy Gromyko,24,Belarus,Attacking Midfield,AM,500000.0,BATE Borisov,Belarus,0.0,out,summer,Premier Liga,2021,True,free loan
+Krylya Sovetov Samara,Lameck Banda,20,Zambia,Right Winger,RW,250000.0,M. Petah Tikva,Israel,0.0,out,summer,Premier Liga,2021,True,free loan
+Krylya Sovetov Samara,Igor Konovalov,24,Russia,Central Midfield,CM,1500000.0,Rubin Kazan,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Krylya Sovetov Samara,Luka Djordjevic,26,Montenegro,Centre-Forward,CF,900000.0,Loko Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Krylya Sovetov Samara,Aleksandr Lomovitskiy,23,Russia,Right Winger,RW,1500000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+Krylya Sovetov Samara,Nikolay Rasskazov,23,Russia,Right-Back,RB,1500000.0,Spartak Moscow,Russia,0.0,out,summer,Premier Liga,2021,True,end of loan
+FK Nizhny Novgorod,Danil Prutsev,21,Russia,Central Midfield,CM,800000.0,Sochi,Russia,600000.0,in,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Sergey Pinyaev,16,Russia,Left Winger,LW,800000.0,Chertanovo,Russia,500000.0,in,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Danil Lipovoy,21,Russia,Left Midfield,LM,350000.0,Dynamo Moscow,Russia,230000.0,in,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Glenn Bijl,26,Netherlands,Right-Back,RB,1000000.0,FC Emmen,Netherlands,200000.0,in,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Dmytro Ivanisenya,27,Ukraine,Defensive Midfield,DM,2000000.0,Zorya Lugansk,Ukraine,0.0,in,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Maksim Glushenkov,22,Russia,Right Winger,RW,1500000.0,Spartak Moscow,Russia,33000.0,in,summer,Premier Liga,2021,True,loan with fee
+FK Nizhny Novgorod,German Onugkha,25,Russia,Centre-Forward,CF,650000.0,Vejle BK,Denmark,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Nizhny Novgorod,Silvije Begic,28,Croatia,Centre-Back,CB,1500000.0,Rubin Kazan,Russia,0.0,in,summer,Premier Liga,2021,True,free loan
+FK Nizhny Novgorod,Egor Golenkov,22,Russia,Centre-Forward,CF,600000.0,Sigma Olomouc,Czech Republic,115000.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Gennadi Kiselev,22,Russia,Defensive Midfield,DM,250000.0,Torpedo Moscow,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Safaa Hadi,22,Iraq,Defensive Midfield,DM,200000.0,Al-Quwa Al-Jaw.,Iraq,0.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Dmitri Efremov,26,Russia,Right Midfield,RM,500000.0,Akron Togliatti,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Vladimir Poluyakhtov,31,Russia,Right-Back,RB,500000.0,Orenburg,Russia,0.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Ricardo Alves,28,Portugal,Attacking Midfield,AM,1000000.0,Kairat Almaty,Kazakhstan,0.0,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Dmitri Kombarov,34,Russia,Left-Back,LB,300000.0,Without Club,,,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Sergey Kornilenko,38,Belarus,Centre-Forward,CF,,,,,out,summer,Premier Liga,2021,False,
+FK Nizhny Novgorod,Vladislav Tyurin,21,Russia,Attacking Midfield,AM,150000.0,Tyumen,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Nizhny Novgorod,Dmitri Molchanov,20,Russia,Centre-Forward,CF,200000.0,Dinamo Bryansk,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Nizhny Novgorod,Maksim Karpov,26,Russia,Centre-Back,CB,500000.0,Khimki,Russia,0.0,out,summer,Premier Liga,2021,True,free loan
+FK Nizhny Novgorod,German Onugkha,25,Russia,Centre-Forward,CF,650000.0,Vejle BK,Denmark,0.0,out,summer,Premier Liga,2021,True,end of loan

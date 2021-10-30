@@ -1,0 +1,790 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+AC Milan,Zinho Vanheusden,21,Belgium,Centre-Back,CB,12000000.0,Standard Liège,Belgium,16000000.0,in,summer,Serie A,2021,False,
+AC Milan,Denzel Dumfries,25,Netherlands,Right-Back,RB,16000000.0,PSV Eindhoven,Netherlands,12500000.0,in,summer,Serie A,2021,False,
+AC Milan,Joaquín Correa,27,Argentina,Second Striker,SS,30000000.0,Lazio,Italy,5000000.0,in,summer,Serie A,2021,True,loan with fee
+AC Milan,Matteo Darmian,31,Italy,Right-Back,RB,7000000.0,Parma,Italy,2500000.0,in,summer,Serie A,2021,False,
+AC Milan,Edin Dzeko,35,Bosnia-Herzegovina,Centre-Forward,CF,4000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2021,False,
+AC Milan,Alex Cordaz,38,Italy,Goalkeeper,GK,500000.0,Crotone,Italy,0.0,in,summer,Serie A,2021,False,
+AC Milan,Hakan Calhanoglu,27,Turkey,Attacking Midfield,AM,30000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2021,False,
+AC Milan,Romelu Lukaku,28,Belgium,Centre-Forward,CF,100000000.0,Chelsea,England,115000000.0,out,summer,Serie A,2021,False,
+AC Milan,Achraf Hakimi,22,Morocco,Right-Back,RB,70000000.0,Paris SG,France,60000000.0,out,summer,Serie A,2021,False,
+AC Milan,Matteo Politano,27,Italy,Right Winger,RW,30000000.0,SSC Napoli,Italy,19000000.0,out,summer,Serie A,2021,False,
+AC Milan,Antonio Candreva,34,Italy,Right Midfield,RM,2500000.0,Sampdoria,Italy,2500000.0,out,summer,Serie A,2021,False,
+AC Milan,Rigoberto Rivas,22,Honduras,Attacking Midfield,AM,1000000.0,Reggina,Italy,550000.0,out,summer,Serie A,2021,False,
+AC Milan,Georgios Vagiannidis,19,Greece,Right-Back,RB,200000.0,Panathinaikos B,Greece,0.0,out,summer,Serie A,2021,False,
+AC Milan,Xian Emmers,22,Belgium,Central Midfield,CM,400000.0,Roda JC,Netherlands,0.0,out,summer,Serie A,2021,False,
+AC Milan,Radja Nainggolan,33,Belgium,Central Midfield,CM,4000000.0,Royal Antwerp,Belgium,0.0,out,summer,Serie A,2021,False,
+AC Milan,Giacomo Pozzer,20,Italy,Goalkeeper,GK,50000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2021,False,
+AC Milan,Edoardo Vergani,20,Italy,Centre-Forward,CF,600000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,False,
+AC Milan,João Mário,28,Portugal,Central Midfield,CM,12000000.0,Benfica,Portugal,0.0,out,summer,Serie A,2021,False,
+AC Milan,Ashley Young,35,England,Left-Back,LB,1000000.0,Aston Villa,England,0.0,out,summer,Serie A,2021,False,
+AC Milan,Daniele Padelli,35,Italy,Goalkeeper,GK,400000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2021,False,
+AC Milan,Marco Pompetti,21,Italy,Defensive Midfield,DM,450000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Thomas Schirò,21,Italy,Central Midfield,CM,250000.0,Crotone,Italy,,out,summer,Serie A,2021,False,
+AC Milan,Valentino Lazaro,25,Austria,Right-Back,RB,10000000.0,Benfica,Portugal,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Andrea Pinamonti,22,Italy,Centre-Forward,CF,12000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Lucien Agoume,19,France,Defensive Midfield,DM,5000000.0,Stade Brestois,France,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Eddie Salcedo,19,Italy,Centre-Forward,CF,8500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Niccolò Corrado,21,Italy,Left-Back,LB,100000.0,Feralpisalò,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Filip Stankovic,19,Serbia,Goalkeeper,GK,450000.0,FC Volendam,Netherlands,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Samuele Mulattieri,20,Italy,Centre-Forward,CF,2500000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Davide Zugaro,21,Italy,Left-Back,LB,150000.0,Virtus Verona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Dalbert,27,Brazil,Left-Back,LB,4000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Zinho Vanheusden,21,Belgium,Centre-Back,CB,12000000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Andreaw Gravillon,23,Guadeloupe,Centre-Back,CB,6000000.0,Stade Reims,France,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Sebastiano Esposito,19,Italy,Centre-Forward,CF,6000000.0,FC Basel,Switzerland,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Darian Males,20,Switzerland,Attacking Midfield,AM,3500000.0,FC Basel,Switzerland,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Lorenzo Gavioli,21,Italy,Central Midfield,CM,300000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AC Milan,Matteo Darmian,31,Italy,Right-Back,RB,7000000.0,Parma,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Atalanta BC,Fikayo Tomori,23,England,Centre-Back,CB,40000000.0,Chelsea,England,28800000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Mike Maignan,25,France,Goalkeeper,GK,25000000.0,LOSC Lille,France,14300000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Yacine Adli,21,France,Attacking Midfield,AM,9000000.0,G. Bordeaux,France,8000000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Sandro Tonali,21,Italy,Defensive Midfield,DM,27000000.0,Brescia,Italy,6900000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Fodé Ballo-Touré,24,Senegal,Left-Back,LB,6500000.0,Monaco,France,5000000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Brahim Díaz,21,Spain,Attacking Midfield,AM,23000000.0,Real Madrid,Spain,3000000.0,in,summer,Serie A,2021,True,loan with fee
+Atalanta BC,Junior Messias,30,Brazil,Attacking Midfield,AM,5000000.0,Crotone,Italy,2600000.0,in,summer,Serie A,2021,True,loan with fee
+Atalanta BC,Tiemoué Bakayoko,27,France,Defensive Midfield,DM,20000000.0,Chelsea,England,2000000.0,in,summer,Serie A,2021,True,loan with fee
+Atalanta BC,Olivier Giroud,34,France,Centre-Forward,CF,4000000.0,Chelsea,England,1000000.0,in,summer,Serie A,2021,False,
+Atalanta BC,Pietro Pellegri,20,Italy,Centre-Forward,CF,6000000.0,Monaco,France,1000000.0,in,summer,Serie A,2021,True,loan with fee
+Atalanta BC,Alessandro Florenzi,30,Italy,Right-Back,RB,8000000.0,AS Roma,Italy,1000000.0,in,summer,Serie A,2021,True,loan with fee
+Atalanta BC,Antonio Mirante,38,Italy,Goalkeeper,GK,600000.0,Without Club,,,in,summer,Serie A,2021,False,
+Atalanta BC,Diego Laxalt,28,Uruguay,Left-Back,LB,3500000.0,Dynamo Moscow,Russia,3500000.0,out,summer,Serie A,2021,False,
+Atalanta BC,Antonio Donnarumma,31,Italy,Goalkeeper,GK,300000.0,Padova,Italy,0.0,out,summer,Serie A,2021,False,
+Atalanta BC,Hakan Calhanoglu,27,Turkey,Attacking Midfield,AM,30000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,False,
+Atalanta BC,Gianluigi Donnarumma,22,Italy,Goalkeeper,GK,65000000.0,Paris SG,France,0.0,out,summer,Serie A,2021,False,
+Atalanta BC,Luan Capanni,21,Brazil,Centre-Forward,CF,100000.0,Viterbese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Leroy Abanda,21,France,Left-Back,LB,150000.0,US Boulogne,France,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Jens Petter Hauge,21,Norway,Left Winger,LW,9500000.0,E. Frankfurt,Germany,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Tommaso Pobega,22,Italy,Central Midfield,CM,8000000.0,Torino,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Mattia Caldara,27,Italy,Centre-Back,CB,4000000.0,Venezia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Frank Tsadjout,21,Italy,Centre-Forward,CF,800000.0,Pordenone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Lorenzo Colombo,19,Italy,Centre-Forward,CF,3000000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Gabriele Capanni,20,Italy,Left Winger,LW,100000.0,Ternana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Alessandro Sala,20,Italy,Central Midfield,CM,50000.0,Renate,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Marco Brescianini,21,Italy,Central Midfield,CM,600000.0,Monza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Yacine Adli,21,France,Attacking Midfield,AM,9000000.0,G. Bordeaux,France,0.0,out,summer,Serie A,2021,True,free loan
+Atalanta BC,Mario Mandzukic,35,Croatia,Centre-Forward,CF,,,,,out,summer,Serie A,2021,False,
+Atalanta BC,Fikayo Tomori,23,England,Centre-Back,CB,40000000.0,Chelsea,England,0.0,out,summer,Serie A,2021,True,end of loan
+Atalanta BC,Soualiho Meïté,27,France,Defensive Midfield,DM,5000000.0,Torino,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Atalanta BC,Diogo Dalot,22,Portugal,Right-Back,RB,10000000.0,Man Utd,England,0.0,out,summer,Serie A,2021,True,end of loan
+Atalanta BC,Sandro Tonali,21,Italy,Defensive Midfield,DM,27000000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Atalanta BC,Brahim Díaz,21,Spain,Attacking Midfield,AM,23000000.0,Real Madrid,Spain,0.0,out,summer,Serie A,2021,True,end of loan
+Juventus FC,Juan Musso,27,Argentina,Goalkeeper,GK,20000000.0,Udinese Calcio,Italy,20000000.0,in,summer,Serie A,2021,False,
+Juventus FC,Cristian Romero,23,Argentina,Centre-Back,CB,35000000.0,Juventus,Italy,16000000.0,in,summer,Serie A,2021,False,
+Juventus FC,Teun Koopmeiners,23,Netherlands,Defensive Midfield,DM,16500000.0,AZ Alkmaar,Netherlands,12000000.0,in,summer,Serie A,2021,False,
+Juventus FC,Davide Zappacosta,29,Italy,Right-Back,RB,10000000.0,Chelsea,England,9000000.0,in,summer,Serie A,2021,False,
+Juventus FC,Matteo Lovato,21,Italy,Centre-Back,CB,7000000.0,Hellas Verona,Italy,8000000.0,in,summer,Serie A,2021,False,
+Juventus FC,Merih Demiral,23,Turkey,Centre-Back,CB,28000000.0,Juventus,Italy,3000000.0,in,summer,Serie A,2021,True,loan with fee
+Juventus FC,Simone Mazzocchi,22,Italy,Centre-Forward,CF,500000.0,Südtirol,Italy,,in,summer,Serie A,2021,False,
+Juventus FC,Giuseppe Pezzella,23,Italy,Left-Back,LB,6000000.0,Parma,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Juventus FC,Musa Barrow,22,The Gambia,Centre-Forward,CF,20000000.0,Bologna,Italy,14500000.0,out,summer,Serie A,2021,False,
+Juventus FC,Roger Ibañez,22,Brazil,Centre-Back,CB,25000000.0,AS Roma,Italy,9000000.0,out,summer,Serie A,2021,False,
+Juventus FC,Andreas Cornelius,28,Denmark,Centre-Forward,CF,6000000.0,Parma,Italy,8400000.0,out,summer,Serie A,2021,False,
+Juventus FC,Lennart Czyborra,22,Germany,Left-Back,LB,3500000.0,Genoa,Italy,5500000.0,out,summer,Serie A,2021,False,
+Juventus FC,Nicolas Haas,25,Switzerland,Central Midfield,CM,3500000.0,FC Empoli,Italy,3000000.0,out,summer,Serie A,2021,False,
+Juventus FC,Boris Radunović,25,Serbia,Goalkeeper,GK,300000.0,Cagliari Calcio,Italy,500000.0,out,summer,Serie A,2021,False,
+Juventus FC,Alessandro Santopadre,22,Italy,Goalkeeper,GK,25000.0,Imolese,Italy,0.0,out,summer,Serie A,2021,False,
+Juventus FC,Isnik Alimi,27,Albania,Central Midfield,CM,150000.0,FK Qabala,Azerbaijan,0.0,out,summer,Serie A,2021,False,
+Juventus FC,Christian Mora,23,Italy,Right-Back,RB,200000.0,Siena,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Stefano Mazzini,22,Italy,Goalkeeper,GK,175000.0,Carrarese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Daniele Solcia,20,Italy,Centre-Back,CB,75000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Alessandro Mallamo,22,Italy,Central Midfield,CM,300000.0,Bari,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Cristian Romero,23,Argentina,Centre-Back,CB,35000000.0,Spurs,England,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Alessio Girgi,21,Italy,Left-Back,LB,100000.0,Carrarese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Erdis Kraja,21,Albania,Central Midfield,CM,125000.0,Lecco,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Riccardo Burgio,20,Italy,Left Midfield,LM,250000.0,Piacenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Lorenzo Babbi,21,Italy,Centre-Forward,CF,100000.0,Lucchese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Matteo Salvi,22,Italy,Centre-Back,CB,75000.0,Grosseto,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Pierluigi Gollini,26,Italy,Goalkeeper,GK,15000000.0,Spurs,England,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Ebrima Colley,21,The Gambia,Left Winger,LW,4000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Viktor Kovalenko,25,Ukraine,Attacking Midfield,AM,4000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Eyob Zambataro,22,Italy,Left-Back,LB,225000.0,Lecco,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Khadim Ndiaye,21,Senegal,Goalkeeper,GK,150000.0,Lecco,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Marco Tumminello,22,Italy,Centre-Forward,CF,900000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Marco Carraro,23,Italy,Defensive Midfield,DM,700000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Bryan Cabezas,24,Ecuador,Left Winger,LW,350000.0,Kocaelispor,Turkey,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,David Heidenreich,21,Czech Republic,Centre-Back,CB,400000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Jacopo Da Riva,20,Italy,Central Midfield,CM,700000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Arkadiusz Reca,26,Poland,Left-Back,LB,3500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Sebastiano Finardi,20,Italy,Central Midfield,CM,75000.0,Turris,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Bosko Sutalo,21,Croatia,Centre-Back,CB,3500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Matteo Pedrini,21,Italy,Left Midfield,LM,75000.0,Mantova,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Simone Muratore,23,Italy,Central Midfield,CM,500000.0,Tondela,Portugal,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Sam Lammers,24,Netherlands,Centre-Forward,CF,6000000.0,E. Frankfurt,Germany,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Enrico Del Prato,21,Italy,Right-Back,RB,1700000.0,Parma,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Alessandro Cortinovis,20,Italy,Attacking Midfield,AM,750000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Marco Varnier,23,Italy,Centre-Back,CB,400000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Alberto Alari,22,Italy,Centre-Back,CB,100000.0,Pergolettese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Emmanuel Latte Lath,22,Cote d'Ivoire,Centre-Forward,CF,250000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Luca Vido,24,Italy,Centre-Forward,CF,1500000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Caleb Okoli,19,Italy,Centre-Back,CB,1500000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Nicolò Milani,20,Italy,Centre-Back,CB,50000.0,Legnago,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Simone Mazzocchi,22,Italy,Centre-Forward,CF,500000.0,Ternana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Anton Kresic,25,Croatia,Centre-Back,CB,300000.0,HNK Rijeka,Croatia,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Nadir Zortea,22,Italy,Right Midfield,RM,700000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Salvatore Elia,22,Italy,Right Winger,RW,400000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Rodrigo Guth,20,Brazil,Centre-Back,CB,500000.0,NEC Nijmegen,Netherlands,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Christian Capone,22,Italy,Left Winger,LW,600000.0,Ternana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Matteo Ruggeri,19,Italy,Left-Back,LB,2000000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Alessandro Pavan,21,Italy,Goalkeeper,GK,,Without Club,,,out,summer,Serie A,2021,False,
+Juventus FC,Thomas Bolis,22,Italy,Defensive Midfield,DM,50000.0,Without Club,,,out,summer,Serie A,2021,False,
+Juventus FC,Gabriel Lunetta,24,Italy,Left Winger,LW,150000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Enrico Zanoni,21,Italy,Left-Back,LB,50000.0,Turris,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Juventus FC,Cristian Romero,23,Argentina,Centre-Back,CB,35000000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Juventus FC,Raoul Bellanova,21,Italy,Right-Back,RB,1000000.0,G. Bordeaux,France,0.0,out,summer,Serie A,2021,True,end of loan
+Juventus FC,Mattia Caldara,27,Italy,Centre-Back,CB,4000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+SSC Napoli,Weston McKennie,22,United States,Central Midfield,CM,25000000.0,FC Schalke 04,Germany,20500000.0,in,summer,Serie A,2021,False,
+SSC Napoli,Moise Kean,21,Italy,Centre-Forward,CF,35000000.0,Everton,England,7000000.0,in,summer,Serie A,2021,True,loan with fee
+SSC Napoli,Mohamed Ihattaren,19,Netherlands,Attacking Midfield,AM,10000000.0,PSV Eindhoven,Netherlands,1900000.0,in,summer,Serie A,2021,False,
+SSC Napoli,Kaio Jorge,19,Brazil,Centre-Forward,CF,12000000.0,Santos FC,Brazil,1500000.0,in,summer,Serie A,2021,False,
+SSC Napoli,Manuel Locatelli,23,Italy,Defensive Midfield,DM,35000000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2021,True,free loan
+SSC Napoli,Cristian Romero,23,Argentina,Centre-Back,CB,35000000.0,Atalanta BC,Italy,16000000.0,out,summer,Serie A,2021,False,
+SSC Napoli,Cristiano Ronaldo,36,Portugal,Centre-Forward,CF,45000000.0,Man Utd,England,15000000.0,out,summer,Serie A,2021,False,
+SSC Napoli,Merih Demiral,23,Turkey,Centre-Back,CB,28000000.0,Atalanta BC,Italy,3000000.0,out,summer,Serie A,2021,True,loan with fee
+SSC Napoli,Gianluigi Buffon,43,Italy,Goalkeeper,GK,1000000.0,Parma,Italy,0.0,out,summer,Serie A,2021,False,
+SSC Napoli,Stefano Gori,25,Italy,Goalkeeper,GK,2300000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Marko Pjaca,26,Croatia,Left Winger,LW,4000000.0,Torino,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Gianluca Frabotta,22,Italy,Left-Back,LB,2500000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Nicolò Fagioli,20,Italy,Central Midfield,CM,1200000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Mohamed Ihattaren,19,Netherlands,Attacking Midfield,AM,10000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Radu Dragusin,19,Romania,Centre-Back,CB,3000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SSC Napoli,Weston McKennie,22,United States,Central Midfield,CM,25000000.0,FC Schalke 04,Germany,0.0,out,summer,Serie A,2021,True,end of loan
+SS Lazio,Matteo Politano,27,Italy,Right Winger,RW,30000000.0,Inter,Italy,19000000.0,in,summer,Serie A,2021,False,
+SS Lazio,André Zambo Anguissa,25,Cameroon,Defensive Midfield,DM,25000000.0,Fulham,England,600000.0,in,summer,Serie A,2021,True,loan with fee
+SS Lazio,Davide Marfella,21,Italy,Goalkeeper,GK,50000.0,Bari,Italy,0.0,in,summer,Serie A,2021,False,
+SS Lazio,Juan Jesus,30,Brazil,Centre-Back,CB,2000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2021,False,
+SS Lazio,Arkadiusz Milik,27,Poland,Centre-Forward,CF,20000000.0,Marseille,France,9000000.0,out,summer,Serie A,2021,False,
+SS Lazio,Sebastiano Luperto,24,Italy,Centre-Back,CB,2200000.0,FC Empoli,Italy,500000.0,out,summer,Serie A,2021,True,loan with fee
+SS Lazio,Raffaele Russo,22,Italy,Left Winger,LW,125000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2021,False,
+SS Lazio,Nikola Maksimovic,29,Serbia,Centre-Back,CB,7500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,False,
+SS Lazio,Mario Francesco Prezioso,25,Italy,Central Midfield,CM,200000.0,V. Francavilla,Italy,0.0,out,summer,Serie A,2021,False,
+SS Lazio,Elseid Hysaj,27,Albania,Right-Back,RB,13000000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,False,
+SS Lazio,Leonardo Candellone,23,Italy,Centre-Forward,CF,300000.0,Südtirol,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Franco Ferrari,25,Italy,Centre-Forward,CF,275000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Eugenio D'Ursi,26,Italy,Left Winger,LW,325000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Francesco Mezzoni,21,Italy,Right-Back,RB,75000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Amato Ciciretti,27,Italy,Right Winger,RW,700000.0,Pordenone,Italy,,out,summer,Serie A,2021,False,
+SS Lazio,Alessio Zerbin,22,Italy,Left Winger,LW,400000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Gianluca Gaetano,21,Italy,Attacking Midfield,AM,1800000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Zinédine Machach,25,France,Defensive Midfield,DM,500000.0,Honvéd,Hungary,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Luca Palmiero,25,Italy,Defensive Midfield,DM,1800000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Karim Zedadka,21,France,Left Midfield,LM,250000.0,RSC Charleroi,Belgium,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Nikita Contini,25,Italy,Goalkeeper,GK,500000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Gennaro Tutino,24,Italy,Centre-Forward,CF,5000000.0,Parma,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Michael Folorunsho,23,Italy,Central Midfield,CM,1500000.0,Pordenone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+SS Lazio,Alberto Senese,21,Italy,Centre-Back,CB,25000.0,Without Club,,,out,summer,Serie A,2021,False,
+SS Lazio,Luigi D'Ignazio,23,Italy,Left-Back,LB,75000.0,Without Club,,,out,summer,Serie A,2021,False,
+SS Lazio,Matteo Politano,27,Italy,Right Winger,RW,30000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+SS Lazio,Tiemoué Bakayoko,26,France,Defensive Midfield,DM,20000000.0,Chelsea,England,0.0,out,summer,Serie A,2021,True,end of loan
+AS Roma,Toma Basic,24,Croatia,Central Midfield,CM,9000000.0,G. Bordeaux,France,6860000.0,in,summer,Serie A,2021,False,
+AS Roma,Felipe Anderson,28,Brazil,Left Winger,LW,10000000.0,West Ham,England,3000000.0,in,summer,Serie A,2021,False,
+AS Roma,Dimitrije Kamenovic,20,Serbia,Left-Back,LB,2000000.0,Cukaricki,Serbia,2500000.0,in,summer,Serie A,2021,False,
+AS Roma,Luka Romero,16,Argentina,Attacking Midfield,AM,1000000.0,RCD Mallorca B,Spain,200000.0,in,summer,Serie A,2021,False,
+AS Roma,Mattia Zaccagni,26,Italy,Attacking Midfield,AM,15000000.0,Hellas Verona,Italy,200000.0,in,summer,Serie A,2021,True,loan with fee
+AS Roma,Elseid Hysaj,27,Albania,Right-Back,RB,13000000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2021,False,
+AS Roma,Pedro,34,Spain,Right Winger,RW,5000000.0,AS Roma,Italy,0.0,in,summer,Serie A,2021,False,
+AS Roma,Joaquín Correa,27,Argentina,Second Striker,SS,30000000.0,Inter,Italy,5000000.0,out,summer,Serie A,2021,True,loan with fee
+AS Roma,Felipe Caicedo,32,Ecuador,Centre-Forward,CF,4000000.0,Genoa,Italy,2000000.0,out,summer,Serie A,2021,False,
+AS Roma,Sofian Kiyine,23,Morocco,Central Midfield,CM,2000000.0,Venezia,Italy,400000.0,out,summer,Serie A,2021,True,loan with fee
+AS Roma,Nikolaos Baxevanos,21,Greece,Centre-Back,CB,350000.0,Chindia,Romania,0.0,out,summer,Serie A,2021,False,
+AS Roma,Sergio Kalaj,21,Albania,Centre-Back,CB,125000.0,Carrarese,Italy,0.0,out,summer,Serie A,2021,False,
+AS Roma,Simone Palombi,25,Italy,Centre-Forward,CF,500000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,False,
+AS Roma,Marco Alia,21,Albania,Goalkeeper,GK,100000.0,Monterosi,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Djavan Anderson,26,Netherlands,Right-Back,RB,400000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Nicolò Armini,20,Italy,Centre-Back,CB,400000.0,Piacenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Biagio Morrone,21,Italy,Defensive Midfield,DM,75000.0,Monopoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Tiago Casasola,26,Argentina,Right-Back,RB,1500000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Emanuele Cicerelli,27,Italy,Left Winger,LW,600000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Fabio Maistro,23,Italy,Central Midfield,CM,1000000.0,Ascoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Mohamed Fares,25,Algeria,Left Midfield,LM,5500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,free loan
+AS Roma,Cedric Gondo,24,Cote d'Ivoire,Centre-Forward,CF,850000.0,Without Club,,,out,summer,Serie A,2021,False,
+AS Roma,Mateo Musacchio,30,Argentina,Centre-Back,CB,1500000.0,Without Club,,,out,summer,Serie A,2021,False,
+AS Roma,Marco Parolo,36,Italy,Central Midfield,CM,,,,,out,summer,Serie A,2021,False,
+AS Roma,Senad Lulic,35,Bosnia-Herzegovina,Left Midfield,LM,600000.0,Without Club,,,out,summer,Serie A,2021,False,
+AS Roma,Joseph Marie Minala,24,Cameroon,Central Midfield,CM,400000.0,Without Club,,,out,summer,Serie A,2021,False,
+AS Roma,Abukar Mohamed,22,Finland,Central Midfield,CM,75000.0,Without Club,,,out,summer,Serie A,2021,False,
+AS Roma,Wesley Hoedt,27,Netherlands,Centre-Back,CB,4000000.0,Southampton,England,0.0,out,summer,Serie A,2021,True,end of loan
+AS Roma,Andreas Pereira,25,Brazil,Attacking Midfield,AM,8000000.0,Man Utd,England,0.0,out,summer,Serie A,2021,True,end of loan
+US Sassuolo,Tammy Abraham,23,England,Centre-Forward,CF,38000000.0,Chelsea,England,40000000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Marash Kumbulla,21,Albania,Centre-Back,CB,22000000.0,Hellas Verona,Italy,26500000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Eldor Shomurodov,26,Uzbekistan,Centre-Forward,CF,14000000.0,Genoa,Italy,17500000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Matías Viña,23,Uruguay,Left-Back,LB,12000000.0,Palmeiras,Brazil,13000000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Rui Patrício,33,Portugal,Goalkeeper,GK,10000000.0,Wolves,England,11500000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Roger Ibañez,22,Brazil,Centre-Back,CB,25000000.0,Atalanta BC,Italy,9000000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Bryan Reynolds,20,United States,Right-Back,RB,5000000.0,FC Dallas,United States,6750000.0,in,summer,Serie A,2021,False,
+US Sassuolo,Mert Cetin,24,Turkey,Centre-Back,CB,2300000.0,Hellas Verona,Italy,8000000.0,out,summer,Serie A,2021,False,
+US Sassuolo,Aboudramane Diaby,17,Italy,Left-Back,LB,,Verona U19,Italy,2500000.0,out,summer,Serie A,2021,False,
+US Sassuolo,Alessandro Florenzi,30,Italy,Right-Back,RB,8000000.0,AC Milan,Italy,1000000.0,out,summer,Serie A,2021,True,loan with fee
+US Sassuolo,Pau López,26,Spain,Goalkeeper,GK,10000000.0,Marseille,France,720000.0,out,summer,Serie A,2021,True,loan with fee
+US Sassuolo,Cengiz Ünder,23,Turkey,Right Winger,RW,18000000.0,Marseille,France,500000.0,out,summer,Serie A,2021,True,loan with fee
+US Sassuolo,Pedro,34,Spain,Right Winger,RW,5000000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,False,
+US Sassuolo,Edin Dzeko,35,Bosnia-Herzegovina,Centre-Forward,CF,4000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,False,
+US Sassuolo,Steven Nzonzi,32,France,Defensive Midfield,DM,8000000.0,Al-Rayyan SC,Qatar,0.0,out,summer,Serie A,2021,False,
+US Sassuolo,Bruno Peres,31,Brazil,Right-Back,RB,2500000.0,Trabzonspor,Turkey,0.0,out,summer,Serie A,2021,False,
+US Sassuolo,Juan Jesus,30,Brazil,Centre-Back,CB,2000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2021,False,
+US Sassuolo,Salvatore Pezzella,21,Italy,Defensive Midfield,DM,350000.0,Siena,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Devid Eugene Bouah,20,Italy,Right-Back,RB,200000.0,Teramo,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Zan Celar,22,Slovenia,Centre-Forward,CF,650000.0,FC Lugano,Switzerland,,out,summer,Serie A,2021,False,
+US Sassuolo,Matteo Cardinali,20,Italy,Goalkeeper,GK,150000.0,Latina Calcio,Italy,,out,summer,Serie A,2021,False,
+US Sassuolo,Mirko Antonucci,22,Italy,Right Winger,RW,200000.0,Cittadella,Italy,,out,summer,Serie A,2021,False,
+US Sassuolo,Lorenzo Valeau,22,Italy,Left-Back,LB,100000.0,Seregno,Italy,,out,summer,Serie A,2021,False,
+US Sassuolo,Ludovico D'Orazio,21,Italy,Left Winger,LW,200000.0,SPAL,Italy,,out,summer,Serie A,2021,False,
+US Sassuolo,Zakaria Sdaigui,21,Italy,Central Midfield,CM,25000.0,Monterosi,Italy,,out,summer,Serie A,2021,False,
+US Sassuolo,Riccardo Ciervo,19,Italy,Left Winger,LW,300000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Robin Olsen,31,Sweden,Goalkeeper,GK,3000000.0,Sheff Utd,England,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Ante Coric,24,Croatia,Attacking Midfield,AM,700000.0,FC Zürich,Switzerland,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,William Bianda,21,France,Centre-Back,CB,500000.0,AS Nancy,France,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Ruben Providence,20,France,Left Winger,LW,350000.0,Club Brugge,Belgium,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Justin Kluivert,22,Netherlands,Left Winger,LW,14000000.0,OGC Nice,France,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Stefano Greco,22,Italy,Goalkeeper,GK,300000.0,Potenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Sassuolo,Javier Pastore,32,Argentina,Attacking Midfield,AM,1000000.0,Without Club,,,out,summer,Serie A,2021,False,
+US Sassuolo,Antonio Mirante,37,Italy,Goalkeeper,GK,600000.0,Without Club,,,out,summer,Serie A,2021,False,
+US Sassuolo,Simone Farelli,38,Italy,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Serie A,2021,False,
+US Sassuolo,Bryan Reynolds,20,United States,Right-Back,RB,5000000.0,FC Dallas,United States,0.0,out,summer,Serie A,2021,True,end of loan
+US Sassuolo,Marash Kumbulla,21,Albania,Centre-Back,CB,22000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Sassuolo,Roger Ibañez,22,Brazil,Centre-Back,CB,25000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+UC Sampdoria,Hamed Junior Traorè,21,Cote d'Ivoire,Attacking Midfield,AM,20000000.0,FC Empoli,Italy,16000000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Ruan,22,Brazil,Centre-Back,CB,3500000.0,Grêmio,Brazil,5000000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Jeremy Toljan,26,Germany,Right-Back,RB,5000000.0,Bor. Dortmund,Germany,3500000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Martin Erlic,23,Croatia,Centre-Back,CB,4000000.0,Spezia Calcio,Italy,3500000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Maxime López,23,France,Central Midfield,CM,10000000.0,Marseille,France,2000000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Abdou Harroui,23,Morocco,Central Midfield,CM,3500000.0,Sparta R.,Netherlands,500000.0,in,summer,Serie A,2021,True,loan with fee
+UC Sampdoria,Pietro Cianci,25,Italy,Centre-Forward,CF,275000.0,Teramo,Italy,250000.0,in,summer,Serie A,2021,False,
+UC Sampdoria,Matheus Henrique,23,Brazil,Central Midfield,CM,15000000.0,Grêmio,Brazil,0.0,in,summer,Serie A,2021,True,free loan
+UC Sampdoria,Marlon,25,Brazil,Centre-Back,CB,10000000.0,Shakhtar D.,Ukraine,12000000.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Federico Di Francesco,27,Italy,Left Winger,LW,2500000.0,SPAL,Italy,4500000.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Giangiacomo Magnani,25,Italy,Centre-Back,CB,5000000.0,Hellas Verona,Italy,4000000.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Luca Mazzitelli,25,Italy,Central Midfield,CM,2800000.0,Monza,Italy,3000000.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Francesco Caputo,34,Italy,Centre-Forward,CF,4000000.0,Sampdoria,Italy,500000.0,out,summer,Serie A,2021,True,loan with fee
+UC Sampdoria,Mehdi Bourabia,30,Morocco,Central Midfield,CM,2300000.0,Spezia Calcio,Italy,500000.0,out,summer,Serie A,2021,True,loan with fee
+UC Sampdoria,Pietro Cianci,25,Italy,Centre-Forward,CF,275000.0,Catanzaro,Italy,250000.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Nicholas Pierini,23,Italy,Left Winger,LW,500000.0,Cesena,Italy,0.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Andrea Cisco,22,Italy,Left Winger,LW,150000.0,Novara,Italy,0.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Nicholas Martini,20,Italy,Central Midfield,CM,25000.0,Villa Valle,Italy,0.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Raul Steau,20,Romania,Central Midfield,CM,25000.0,Gaz Metan,Romania,0.0,out,summer,Serie A,2021,False,
+UC Sampdoria,Manuel Locatelli,23,Italy,Defensive Midfield,DM,35000000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Matteo Campani,20,Italy,Goalkeeper,GK,75000.0,Vis Pesaro,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Giuseppe Aurelio,21,Italy,Left-Back,LB,100000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Cristian Dell'Orco,27,Italy,Left-Back,LB,600000.0,Perugia,Italy,,out,summer,Serie A,2021,False,
+UC Sampdoria,Aristidi Kolaj,22,Albania,Centre-Forward,CF,175000.0,Alessandria,Italy,,out,summer,Serie A,2021,False,
+UC Sampdoria,Federico Ricci,27,Italy,Right Winger,RW,900000.0,Reggina,Italy,,out,summer,Serie A,2021,False,
+UC Sampdoria,Luca Ravanelli,24,Italy,Centre-Back,CB,350000.0,Cremonese,Italy,,out,summer,Serie A,2021,False,
+UC Sampdoria,Raffaele Celia,22,Italy,Left-Back,LB,300000.0,SPAL,Italy,,out,summer,Serie A,2021,False,
+UC Sampdoria,Brian Oddei,18,Italy,Right Winger,RW,1000000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Enrico Brignola,22,Italy,Second Striker,SS,1500000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Marco Pinato,26,Italy,Central Midfield,CM,500000.0,Pordenone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Andrea Ghion,21,Italy,Defensive Midfield,DM,250000.0,Perugia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Andrea Meroni,24,Italy,Centre-Back,CB,200000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Riccardo Marchizza,23,Italy,Left-Back,LB,1500000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Lukas Haraslin,25,Slovakia,Left Winger,LW,1500000.0,Sparta Prague,Czech Republic,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Martin Erlic,23,Croatia,Centre-Back,CB,4000000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Giacomo Manzari,20,Italy,Left Winger,LW,100000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Marco Sala,22,Italy,Left Midfield,LM,3000000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Ruan,22,Brazil,Centre-Back,CB,3500000.0,Grêmio,Brazil,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Claud Adjapong,23,Italy,Right-Back,RB,2000000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Alessandro Pilati,21,Italy,Centre-Back,CB,100000.0,Mantova,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Jens Odgaard,22,Denmark,Centre-Forward,CF,1000000.0,RKC Waalwijk,Netherlands,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Jacopo Pellegrini,20,Italy,Centre-Forward,CF,75000.0,Pordenone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Leonardo Sernicola,23,Italy,Left-Back,LB,1000000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Alessandro Russo,20,Italy,Goalkeeper,GK,650000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Stefano Turati,19,Italy,Goalkeeper,GK,400000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+UC Sampdoria,Jeremy Toljan,26,Germany,Right-Back,RB,5000000.0,Bor. Dortmund,Germany,0.0,out,summer,Serie A,2021,True,end of loan
+UC Sampdoria,Maxime López,23,France,Central Midfield,CM,10000000.0,Marseille,France,0.0,out,summer,Serie A,2021,True,end of loan
+UC Sampdoria,Hamed Junior Traorè,21,Cote d'Ivoire,Attacking Midfield,AM,20000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Hellas Verona,Ernesto Torregrossa,29,Italy,Centre-Forward,CF,4500000.0,Brescia,Italy,6000000.0,in,summer,Serie A,2021,False,
+Hellas Verona,Antonino La Gumina,25,Italy,Centre-Forward,CF,2000000.0,FC Empoli,Italy,5500000.0,in,summer,Serie A,2021,False,
+Hellas Verona,Antonio Candreva,34,Italy,Right Midfield,RM,2500000.0,Inter,Italy,2500000.0,in,summer,Serie A,2021,False,
+Hellas Verona,Francesco Caputo,34,Italy,Centre-Forward,CF,4000000.0,Sassuolo,Italy,500000.0,in,summer,Serie A,2021,True,loan with fee
+Hellas Verona,Manuel De Luca,23,Italy,Centre-Forward,CF,800000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2021,False,
+Hellas Verona,Riccardo Ciervo,19,Italy,Left Winger,LW,300000.0,AS Roma,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Hellas Verona,Radu Dragusin,19,Romania,Centre-Back,CB,3000000.0,Juventus,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Hellas Verona,Mohamed Ihattaren,19,Netherlands,Attacking Midfield,AM,10000000.0,Juventus,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Hellas Verona,Jakub Jankto,25,Czech Republic,Left Midfield,LM,8000000.0,Getafe,Spain,6000000.0,out,summer,Serie A,2021,False,
+Hellas Verona,Lorenzo Tonelli,31,Italy,Centre-Back,CB,2000000.0,FC Empoli,Italy,1000000.0,out,summer,Serie A,2021,False,
+Hellas Verona,Antonio Di Nardo,22,Italy,Centre-Forward,CF,25000.0,Sona Calcio,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Ognjen Stijepovic,21,Montenegro,Second Striker,SS,100000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Andrea Tessiore,21,Italy,Central Midfield,CM,100000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Ibourahima Baldé,22,Spain,Centre-Forward,CF,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Cristian Hadžiosmanović,23,Montenegro,Right-Back,RB,175000.0,Teramo,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Vasco Regini,30,Italy,Left-Back,LB,400000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,False,
+Hellas Verona,Matteo Stoppa,20,Italy,Centre-Forward,CF,100000.0,Juve Stabia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Leonardo Benedetti,21,Italy,Central Midfield,CM,50000.0,Imolese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Tommaso Farabegoli,22,Italy,Centre-Back,CB,200000.0,Ancona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Lorenzo Sabattini,19,Italy,Central Midfield,CM,50000.0,Ancona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Felice D'Amico,20,Italy,Left Winger,LW,275000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Antonio Palumbo,24,Italy,Central Midfield,CM,650000.0,Ternana,Italy,,out,summer,Serie A,2021,False,
+Hellas Verona,Gianluca Caprari,28,Italy,Second Striker,SS,6000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Kaique Rocha,20,Brazil,Centre-Back,CB,800000.0,Internacional,Brazil,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Jeison Murillo,29,Colombia,Centre-Back,CB,7000000.0,Celta de Vigo,Spain,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Manuel De Luca,23,Italy,Centre-Forward,CF,800000.0,Perugia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Erik Gerbi,21,Italy,Centre-Forward,CF,25000.0,SSU Poli,Romania,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Mehdi Léris,23,France,Central Midfield,CM,2200000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Antonino La Gumina,25,Italy,Centre-Forward,CF,2000000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Federico Bonazzoli,24,Italy,Centre-Forward,CF,4000000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Hellas Verona,Gastón Ramírez,30,Uruguay,Attacking Midfield,AM,2500000.0,Without Club,,,out,summer,Serie A,2021,False,
+Hellas Verona,Axel Campeol,21,Italy,Left-Back,LB,,,,,out,summer,Serie A,2021,False,
+Hellas Verona,Mohamed Bahlouli,21,France,Attacking Midfield,AM,400000.0,Without Club,,,out,summer,Serie A,2021,False,
+Hellas Verona,Antonino La Gumina,25,Italy,Centre-Forward,CF,2000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Hellas Verona,Antonio Candreva,34,Italy,Right Midfield,RM,2500000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Hellas Verona,Keita Baldé,26,Senegal,Centre-Forward,CF,8000000.0,Monaco,France,0.0,out,summer,Serie A,2021,True,end of loan
+Hellas Verona,Karlo Letica,24,Croatia,Goalkeeper,GK,700000.0,Club Brugge,Belgium,0.0,out,summer,Serie A,2021,True,end of loan
+Hellas Verona,Ernesto Torregrossa,29,Italy,Centre-Forward,CF,4500000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Mert Cetin,24,Turkey,Centre-Back,CB,2300000.0,AS Roma,Italy,8000000.0,in,summer,Serie A,2021,False,
+Genoa CFC,Ivan Ilic,20,Serbia,Central Midfield,CM,8000000.0,Man City U23,England,7500000.0,in,summer,Serie A,2021,False,
+Genoa CFC,Antonin Barak,26,Czech Republic,Attacking Midfield,AM,14000000.0,Udinese Calcio,Italy,6000000.0,in,summer,Serie A,2021,False,
+Genoa CFC,Giangiacomo Magnani,25,Italy,Centre-Back,CB,5000000.0,Sassuolo,Italy,4000000.0,in,summer,Serie A,2021,False,
+Genoa CFC,Federico Ceccherini,29,Italy,Centre-Back,CB,3500000.0,Fiorentina,Italy,3000000.0,in,summer,Serie A,2021,False,
+Genoa CFC,Giovanni Simeone,26,Argentina,Centre-Forward,CF,11000000.0,Cagliari Calcio,Italy,1500000.0,in,summer,Serie A,2021,True,loan with fee
+Genoa CFC,Martin Hongla,23,Cameroon,Defensive Midfield,DM,5000000.0,Royal Antwerp,Belgium,1000000.0,in,summer,Serie A,2021,True,loan with fee
+Genoa CFC,Bosko Sutalo,21,Croatia,Centre-Back,CB,3500000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Genoa CFC,Gianluca Frabotta,22,Italy,Left-Back,LB,2500000.0,Juventus,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Genoa CFC,Lorenzo Montipò,25,Italy,Goalkeeper,GK,3500000.0,Benevento,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Genoa CFC,Gianluca Caprari,28,Italy,Second Striker,SS,6000000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Genoa CFC,Marash Kumbulla,21,Albania,Centre-Back,CB,22000000.0,AS Roma,Italy,26500000.0,out,summer,Serie A,2021,False,
+Genoa CFC,Matteo Lovato,21,Italy,Centre-Back,CB,7000000.0,Atalanta BC,Italy,8000000.0,out,summer,Serie A,2021,False,
+Genoa CFC,Marco Silvestri,30,Italy,Goalkeeper,GK,6000000.0,Udinese Calcio,Italy,2500000.0,out,summer,Serie A,2021,False,
+Genoa CFC,Michele Vano,29,Italy,Centre-Forward,CF,250000.0,Perugia,Italy,500000.0,out,summer,Serie A,2021,False,
+Genoa CFC,Mattia Zaccagni,26,Italy,Attacking Midfield,AM,15000000.0,Lazio,Italy,200000.0,out,summer,Serie A,2021,True,loan with fee
+Genoa CFC,Alan Empereur,27,Brazil,Centre-Back,CB,1000000.0,Cuiabá-MT,Brazil,0.0,out,summer,Serie A,2021,False,
+Genoa CFC,Diego Fornari,17,Italy,Right-Back,RB,,Caldiero,Italy,0.0,out,summer,Serie A,2021,False,
+Genoa CFC,Rayyan Baniya,22,Turkey,Centre-Back,CB,100000.0,Karagümrük,Turkey,0.0,out,summer,Serie A,2021,False,
+Genoa CFC,Adama Sane,21,Senegal,Centre-Forward,CF,75000.0,Latina Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Mattia Chiesa,21,Italy,Goalkeeper,GK,25000.0,Trento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Nunzio Brandi,20,Italy,Central Midfield,CM,25000.0,Lucchese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Andrea Danzi,22,Italy,Defensive Midfield,DM,400000.0,Cittadella,Italy,,out,summer,Serie A,2021,False,
+Genoa CFC,Karim Laribi,30,Tunisia,Attacking Midfield,AM,350000.0,Reggina,Italy,,out,summer,Serie A,2021,False,
+Genoa CFC,Samuel Di Carmine,32,Italy,Centre-Forward,CF,1200000.0,Cremonese,Italy,,out,summer,Serie A,2021,False,
+Genoa CFC,Lucas Felippe,21,Brazil,Central Midfield,CM,150000.0,Farense,Portugal,,out,summer,Serie A,2021,False,
+Genoa CFC,Nicola Borghetto,21,Italy,Goalkeeper,GK,50000.0,Monterosi,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Lubomir Tupta,23,Slovakia,Centre-Forward,CF,400000.0,Slovan Liberec,Czech Republic,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Mariusz Stepinski,26,Poland,Centre-Forward,CF,2500000.0,Aris Limassol,Cyprus,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Bruno Amione,19,Argentina,Centre-Back,CB,2000000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Destiny Udogie,18,Italy,Left-Back,LB,4000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Bogdan Jocic,20,Serbia,Attacking Midfield,AM,200000.0,Metalac,Serbia,0.0,out,summer,Serie A,2021,True,free loan
+Genoa CFC,Salvatore Bocchetti,34,Italy,Centre-Back,CB,,,,,out,summer,Serie A,2021,False,
+Genoa CFC,Bachir Mané,23,Senegal,Defensive Midfield,DM,75000.0,Without Club,,,out,summer,Serie A,2021,False,
+Genoa CFC,Giangiacomo Magnani,25,Italy,Centre-Back,CB,5000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Eddie Salcedo,19,Italy,Centre-Forward,CF,8500000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Mert Cetin,24,Turkey,Centre-Back,CB,2300000.0,AS Roma,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Ivan Ilic,20,Serbia,Central Midfield,CM,8000000.0,Man City U23,England,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Marco Benassi,26,Italy,Central Midfield,CM,5000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Federico Dimarco,23,Italy,Left-Back,LB,13000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Antonin Barak,26,Czech Republic,Attacking Midfield,AM,14000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Andrea Favilli,24,Italy,Centre-Forward,CF,3500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Ebrima Colley,21,The Gambia,Left Winger,LW,4000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Stefano Sturaro,28,Italy,Central Midfield,CM,4500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Federico Ceccherini,29,Italy,Centre-Back,CB,3500000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Genoa CFC,Ronaldo Vieira,22,England,Central Midfield,CM,5000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Lennart Czyborra,22,Germany,Left-Back,LB,3500000.0,Atalanta BC,Italy,5500000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Abdoulaye Touré,27,France,Defensive Midfield,DM,4000000.0,FC Nantes,France,3500000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Felipe Caicedo,32,Ecuador,Centre-Forward,CF,4000000.0,Lazio,Italy,2000000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Alberto Paleari,28,Italy,Goalkeeper,GK,1000000.0,Cittadella,Italy,2000000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Alessandro Vogliacco,22,Italy,Centre-Back,CB,1300000.0,Pordenone,Italy,2000000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Caleb Ekuban,27,Ghana,Second Striker,SS,5000000.0,Trabzonspor,Turkey,1800000.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Johan Vásquez,22,Mexico,Centre-Back,CB,4500000.0,UNAM Pumas,Mexico,500000.0,in,summer,Serie A,2021,True,loan with fee
+Bologna FC 1909,Salvatore Sirigu,34,Italy,Goalkeeper,GK,2500000.0,Torino,Italy,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Stefano Sabelli,28,Italy,Right-Back,RB,1900000.0,FC Empoli,Italy,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Adrian Semper,23,Croatia,Goalkeeper,GK,2300000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Nikola Maksimovic,29,Serbia,Centre-Back,CB,7500000.0,SSC Napoli,Italy,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Lorenzo Andrenacci,26,Italy,Goalkeeper,GK,150000.0,Brescia,Italy,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Aleksander Buksa,18,Poland,Centre-Forward,CF,1500000.0,Wisla Kraków,Poland,0.0,in,summer,Serie A,2021,False,
+Bologna FC 1909,Zinho Vanheusden,21,Belgium,Centre-Back,CB,12000000.0,Inter,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Mohamed Fares,25,Algeria,Left Midfield,LM,5500000.0,Lazio,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Eddie Salcedo,19,Italy,Centre-Forward,CF,8500000.0,Inter,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Pablo Galdames,24,Chile,Defensive Midfield,DM,3100000.0,Without Club,,,in,summer,Serie A,2021,False,
+Bologna FC 1909,Hernani,27,Brazil,Central Midfield,CM,5000000.0,Parma,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Eldor Shomurodov,26,Uzbekistan,Centre-Forward,CF,14000000.0,AS Roma,Italy,17500000.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Lukas Lerager,27,Denmark,Central Midfield,CM,3000000.0,FC Copenhagen,Denmark,3500000.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Tiago Gonçalves,20,Portugal,Left-Back,LB,100000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Enrico Nespoli,20,Italy,Centre-Back,CB,10000.0,Giugliano,Italy,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Cristián Zapata,34,Colombia,Centre-Back,CB,300000.0,San Lorenzo,Argentina,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Raúl Asencio,23,Spain,Centre-Forward,CF,550000.0,Alcorcón,Spain,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Lukas Zima,27,Czech Republic,Goalkeeper,GK,300000.0,VVV-Venlo,Netherlands,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Luigi Carillo,25,Italy,Centre-Back,CB,225000.0,ACR Messina,Italy,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Riccardo Correnti,20,Italy,Left Winger,LW,50000.0,Acireale,Italy,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Jandrei,28,Brazil,Goalkeeper,GK,1000000.0,Santos FC,Brazil,0.0,out,summer,Serie A,2021,False,
+Bologna FC 1909,Luca Chierico,19,Italy,Defensive Midfield,DM,75000.0,Olbia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Giacomo Gasco,20,Italy,Right-Back,RB,50000.0,Pianese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Nicholas Rizzo,21,Italy,Centre-Back,CB,250000.0,RE Virton,Belgium,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Antonio Candela,21,Italy,Right-Back,RB,300000.0,Cesena,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Oscar Malltezi,20,Italy,Right Midfield,RM,50000.0,Prato,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Mattia Zennaro,20,Italy,Central Midfield,CM,400000.0,Pergolettese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Giorgio Altare,22,Italy,Centre-Back,CB,175000.0,Cagliari Calcio,Italy,,out,summer,Serie A,2021,False,
+Bologna FC 1909,Nicola Dalmonte,23,Italy,Left Winger,LW,900000.0,LR Vicenza,Italy,,out,summer,Serie A,2021,False,
+Bologna FC 1909,Claudiu Micovschi,22,Romania,Left Winger,LW,250000.0,Avellino,Italy,,out,summer,Serie A,2021,False,
+Bologna FC 1909,Davide Castelli,21,Italy,Centre-Forward,CF,50000.0,Pro Patria,Italy,,out,summer,Serie A,2021,False,
+Bologna FC 1909,Giuseppe Caso,22,Italy,Left Winger,LW,200000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Lennart Czyborra,22,Germany,Left-Back,LB,3500000.0,Arm. Bielefeld,Germany,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Elia Petrelli,20,Italy,Centre-Forward,CF,250000.0,Ascoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Alessandro Vogliacco,22,Italy,Centre-Back,CB,1300000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Federico Valietti,22,Italy,Right-Back,RB,200000.0,Pordenone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Vittorio Parigini,25,Italy,Right Winger,RW,700000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Gabriel Charpentier,22,France,Centre-Forward,CF,250000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Leonardo Raggio,19,Italy,Centre-Back,CB,75000.0,Monopoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Pawel Jaroszynski,26,Poland,Left-Back,LB,650000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Alberto Paleari,28,Italy,Goalkeeper,GK,1000000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Giacomo Calò,24,Italy,Defensive Midfield,DM,1200000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Marcos Curado,26,Argentina,Centre-Back,CB,300000.0,Perugia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Andrea Favilli,24,Italy,Centre-Forward,CF,3500000.0,Monza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Leonardo Raggio,19,Italy,Centre-Back,CB,75000.0,Trento,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Steeve-Mike Eyango,20,France,Central Midfield,CM,400000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Kevin Agudelo,22,Colombia,Right Winger,RW,3500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Claudio Spinelli,24,Argentina,Centre-Forward,CF,300000.0,FK Oleksandriya,Ukraine,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Eddie Salcedo,19,Italy,Centre-Forward,CF,8500000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Bologna FC 1909,Jérôme Onguéné,23,Cameroon,Centre-Back,CB,2000000.0,RB Salzburg,Austria,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Kevin Strootman,31,Netherlands,Central Midfield,CM,5000000.0,Marseille,France,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Alberto Paleari,28,Italy,Goalkeeper,GK,1000000.0,Cittadella,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Gianluca Scamacca,22,Italy,Centre-Forward,CF,15000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Luca Pellegrini,22,Italy,Left-Back,LB,7500000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Marko Pjaca,26,Croatia,Left Winger,LW,4000000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Davide Zappacosta,29,Italy,Right-Back,RB,10000000.0,Chelsea,England,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Miha Zajc,26,Slovenia,Central Midfield,CM,3800000.0,Fenerbahce,Turkey,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Lennart Czyborra,22,Germany,Left-Back,LB,3500000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Mattia Perin,28,Italy,Goalkeeper,GK,5000000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Bologna FC 1909,Edoardo Goldaniga,27,Italy,Centre-Back,CB,2000000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Udinese Calcio,Musa Barrow,22,The Gambia,Centre-Forward,CF,20000000.0,Atalanta BC,Italy,14500000.0,in,summer,Serie A,2021,False,
+Udinese Calcio,Kevin Bonifazi,25,Italy,Centre-Back,CB,7000000.0,SPAL,Italy,6000000.0,in,summer,Serie A,2021,False,
+Udinese Calcio,Marko Arnautovic,32,Austria,Centre-Forward,CF,7500000.0,SH Port,China,3000000.0,in,summer,Serie A,2021,False,
+Udinese Calcio,Adama Soumaoro,29,France,Centre-Back,CB,4000000.0,LOSC Lille,France,2500000.0,in,summer,Serie A,2021,False,
+Udinese Calcio,Sydney van Hooijdonk,21,Netherlands,Centre-Forward,CF,800000.0,NAC Breda,Netherlands,410000.0,in,summer,Serie A,2021,False,
+Udinese Calcio,Francesco Bardi,29,Italy,Goalkeeper,GK,700000.0,Frosinone,Italy,,in,summer,Serie A,2021,False,
+Udinese Calcio,Arthur Theate,21,Belgium,Centre-Back,CB,6000000.0,KV Oostende,Belgium,0.0,in,summer,Serie A,2021,True,free loan
+Udinese Calcio,Nicolas Viola,32,Italy,Central Midfield,CM,1000000.0,Without Club,,,in,summer,Serie A,2021,False,
+Udinese Calcio,Takehiro Tomiyasu,22,Japan,Right-Back,RB,20000000.0,Arsenal,England,18600000.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Fabrizio Brignani,23,Italy,Centre-Back,CB,150000.0,Olbia,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Rodrigo Palacio,39,Argentina,Centre-Forward,CF,400000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Elia Visconti,21,Italy,Left-Back,LB,200000.0,Lucchese,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Andrea Poli,31,Italy,Central Midfield,CM,850000.0,Antalyaspor,Turkey,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Alex Cossalter,21,Italy,Left Winger,LW,50000.0,Dolomiti,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Godfred Donsah,25,Ghana,Central Midfield,CM,2000000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Danilo,37,Brazil,Centre-Back,CB,600000.0,Parma,Italy,0.0,out,summer,Serie A,2021,False,
+Udinese Calcio,Stefano Denswil,28,Netherlands,Centre-Back,CB,3000000.0,Trabzonspor,Turkey,0.0,out,summer,Serie A,2021,True,free loan
+Udinese Calcio,Leonardo Stanzani,21,Italy,Right Winger,RW,125000.0,Pro Patria,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Mouhamadou Sarr,24,Senegal,Goalkeeper,GK,150000.0,Cremonese,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Arturo Calabresi,25,Italy,Right-Back,RB,1500000.0,Lecce,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Nehuén Paz,28,Argentina,Centre-Back,CB,650000.0,Crotone,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Hamza El Kaouakibi,23,Morocco,Right-Back,RB,175000.0,Pordenone,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Leonardo Mazza,20,Italy,Defensive Midfield,DM,100000.0,Ternana,Italy,,out,summer,Serie A,2021,False,
+Udinese Calcio,Andri Fannar Baldursson,19,Iceland,Central Midfield,CM,1000000.0,FC Copenhagen,Denmark,0.0,out,summer,Serie A,2021,True,free loan
+Udinese Calcio,Orji Okwonkwo,23,Nigeria,Right Winger,RW,1400000.0,Cittadella,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Udinese Calcio,Federico Ravaglia,21,Italy,Goalkeeper,GK,200000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Udinese Calcio,Musa Juwara,19,The Gambia,Left Winger,LW,1000000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Udinese Calcio,Antonio Santurro,29,Italy,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Serie A,2021,False,
+Udinese Calcio,Angelo da Costa,37,Brazil,Goalkeeper,GK,,,,,out,summer,Serie A,2021,False,
+Udinese Calcio,Musa Barrow,22,The Gambia,Centre-Forward,CF,20000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Udinese Calcio,Valentin Antov,20,Bulgaria,Centre-Back,CB,2000000.0,CSKA-Sofia,Bulgaria,0.0,out,summer,Serie A,2021,True,end of loan
+Udinese Calcio,Paolo Faragò,28,Italy,Right-Back,RB,2000000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Udinese Calcio,Adama Soumaoro,29,France,Centre-Back,CB,4000000.0,LOSC Lille,France,0.0,out,summer,Serie A,2021,True,end of loan
+Udinese Calcio,Edoardo Vergani,20,Italy,Centre-Forward,CF,600000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+ACF Fiorentina,Lazar Samardzic,19,Germany,Attacking Midfield,AM,3000000.0,RB Leipzig,Germany,3000000.0,in,summer,Serie A,2021,False,
+ACF Fiorentina,Marco Silvestri,30,Italy,Goalkeeper,GK,6000000.0,Hellas Verona,Italy,2500000.0,in,summer,Serie A,2021,False,
+ACF Fiorentina,Brandon Soppy,19,France,Right-Back,RB,7000000.0,Stade Rennais,France,2000000.0,in,summer,Serie A,2021,False,
+ACF Fiorentina,Isaac Success,25,Nigeria,Centre-Forward,CF,1800000.0,Watford,England,1800000.0,in,summer,Serie A,2021,False,
+ACF Fiorentina,Daniele Padelli,35,Italy,Goalkeeper,GK,400000.0,Inter,Italy,0.0,in,summer,Serie A,2021,False,
+ACF Fiorentina,Nehuén Pérez,21,Argentina,Centre-Back,CB,4000000.0,Atlético Madrid,Spain,0.0,in,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Beto,23,Portugal,Centre-Forward,CF,6500000.0,Portimonense,Portugal,0.0,in,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Destiny Udogie,18,Italy,Left-Back,LB,4000000.0,Hellas Verona,Italy,0.0,in,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Antonio Santurro,29,Italy,Goalkeeper,GK,50000.0,Without Club,,,in,summer,Serie A,2021,False,
+ACF Fiorentina,Rodrigo de Paul,27,Argentina,Central Midfield,CM,40000000.0,Atlético Madrid,Spain,35000000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Juan Musso,27,Argentina,Goalkeeper,GK,20000000.0,Atalanta BC,Italy,20000000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Antonin Barak,26,Czech Republic,Attacking Midfield,AM,14000000.0,Hellas Verona,Italy,6000000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Stefano Okaka,32,Italy,Centre-Forward,CF,2900000.0,Basaksehir,Turkey,1500000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Ryder Matos,28,Brazil,Second Striker,SS,1000000.0,Perugia,Italy,800000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Simone Scuffet,25,Italy,Goalkeeper,GK,800000.0,APOEL Nicosia,Cyprus,300000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Mattia Compagnon,19,Italy,Left Midfield,LM,125000.0,Juventus U23,Italy,125000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Federico Ermacora,21,Italy,Left-Back,LB,75000.0,Renate,Italy,75000.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Svante Ingelsson,23,Sweden,Central Midfield,CM,600000.0,Hansa Rostock,Germany,0.0,out,summer,Serie A,2021,False,
+ACF Fiorentina,Nicholas Opoku,23,Ghana,Centre-Back,CB,1000000.0,Amiens SC,France,,out,summer,Serie A,2021,False,
+ACF Fiorentina,Manuel Gasparini,19,Italy,Goalkeeper,GK,300000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Cristo González,23,Spain,Centre-Forward,CF,1500000.0,Real Valladolid,Spain,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Martin Palumbo,19,Norway,Central Midfield,CM,800000.0,Juventus U23,Italy,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Petar Micin,22,Serbia,Attacking Midfield,AM,250000.0,SKF Sered,Slovakia,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Manuel Gasparini,19,Italy,Goalkeeper,GK,300000.0,Legnago,Italy,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Marco Ballarini,20,Italy,Central Midfield,CM,100000.0,Foggia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Felipe Vizeu,24,Brazil,Centre-Forward,CF,1200000.0,Yokohama FC,Japan,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Riad Bajić,27,Bosnia-Herzegovina,Centre-Forward,CF,2000000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+ACF Fiorentina,Fernando Llorente,36,Spain,Centre-Forward,CF,600000.0,Without Club,,,out,summer,Serie A,2021,False,
+ACF Fiorentina,Sebastian Prödl,34,Austria,Centre-Back,CB,200000.0,Without Club,,,out,summer,Serie A,2021,False,
+ACF Fiorentina,Jayden Braaf,18,Netherlands,Left Winger,LW,3000000.0,Man City U23,England,0.0,out,summer,Serie A,2021,True,end of loan
+ACF Fiorentina,Kevin Bonifazi,25,Italy,Centre-Back,CB,7000000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+ACF Fiorentina,Thomas Ouwejan,24,Netherlands,Left Midfield,LM,2000000.0,AZ Alkmaar,Netherlands,0.0,out,summer,Serie A,2021,True,end of loan
+Spezia Calcio,Nicolás González,23,Argentina,Left Winger,LW,24000000.0,VfB Stuttgart,Germany,23500000.0,in,summer,Serie A,2021,False,
+Spezia Calcio,Igor,23,Brazil,Centre-Back,CB,5000000.0,SPAL,Italy,5000000.0,in,summer,Serie A,2021,False,
+Spezia Calcio,Lucas Torreira,25,Uruguay,Defensive Midfield,DM,18000000.0,Arsenal,England,1500000.0,in,summer,Serie A,2021,True,loan with fee
+Spezia Calcio,Matija Nastasic,28,Serbia,Centre-Back,CB,5000000.0,FC Schalke 04,Germany,500000.0,in,summer,Serie A,2021,False,
+Spezia Calcio,Álvaro Odriozola,25,Spain,Right-Back,RB,10000000.0,Real Madrid,Spain,0.0,in,summer,Serie A,2021,True,free loan
+Spezia Calcio,Alban Lafont,22,France,Goalkeeper,GK,10000000.0,FC Nantes,France,7500000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Pol Lirola,24,Spain,Right-Back,RB,9000000.0,Marseille,France,6500000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Germán Pezzella,30,Argentina,Centre-Back,CB,5000000.0,Real Betis,Spain,3500000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Federico Ceccherini,29,Italy,Centre-Back,CB,3500000.0,Hellas Verona,Italy,3000000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,David Hancko,23,Slovakia,Centre-Back,CB,3000000.0,Sparta Prague,Czech Republic,2500000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Christian Kouamé,23,Cote d'Ivoire,Centre-Forward,CF,8500000.0,RSC Anderlecht,Belgium,1000000.0,out,summer,Serie A,2021,True,loan with fee
+Spezia Calcio,Julián Illanes,24,Argentina,Centre-Back,CB,150000.0,Pescara,Italy,350000.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Petko Hristov,22,Bulgaria,Centre-Back,CB,800000.0,Spezia Calcio,Italy,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Marco Meli,21,Italy,Attacking Midfield,AM,75000.0,Siena,Italy,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Niccolò Bigica,20,Italy,Central Midfield,CM,50000.0,Trento,Italy,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Rafik Zekhnini,23,Norway,Left Winger,LW,600000.0,Molde,Norway,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Erald Lakti,21,Albania,Central Midfield,CM,125000.0,Lecco,Italy,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Kevin Diks,24,Netherlands,Right-Back,RB,3000000.0,FC Copenhagen,Denmark,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Maximiliano Olivera,29,Uruguay,Left-Back,LB,1500000.0,FC Juárez,Mexico,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Valentin Eysseric,29,France,Attacking Midfield,AM,1200000.0,Kasimpasa,Turkey,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Borja Valero,36,Spain,Central Midfield,CM,,CS Lebowski,Italy,0.0,out,summer,Serie A,2021,False,
+Spezia Calcio,Tòfol Montiel,21,Spain,Attacking Midfield,AM,400000.0,Siena,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Alessandro Lovisa,19,Italy,Defensive Midfield,DM,50000.0,Lucchese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Simone Ghidotti,21,Italy,Goalkeeper,GK,200000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Edoardo Pierozzi,19,Italy,Right-Back,RB,125000.0,Alessandria,Italy,,out,summer,Serie A,2021,False,
+Spezia Calcio,Gabriele Gori,22,Italy,Centre-Forward,CF,400000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Christian Dalle Mura,19,Italy,Centre-Back,CB,800000.0,Cremonese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Gabriele Ferrarini,21,Italy,Right-Back,RB,500000.0,Perugia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Luca Ranieri,22,Italy,Centre-Back,CB,2500000.0,Salernitana,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Toni Fruk,20,Croatia,Attacking Midfield,AM,400000.0,HNK Gorica,Croatia,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Christian Koffi,20,France,Left Winger,LW,150000.0,FC Sète 34,France,0.0,out,summer,Serie A,2021,True,free loan
+Spezia Calcio,Martin Graiciar,22,Czech Republic,Centre-Forward,CF,350000.0,Without Club,,,out,summer,Serie A,2021,False,
+Spezia Calcio,Pierluigi Pinto,22,Italy,Centre-Back,CB,175000.0,Without Club,,,out,summer,Serie A,2021,False,
+Spezia Calcio,Martín Cáceres,34,Uruguay,Centre-Back,CB,1000000.0,Without Club,,,out,summer,Serie A,2021,False,
+Spezia Calcio,Marco Marozzi,22,Italy,Right Midfield,RM,75000.0,Without Club,,,out,summer,Serie A,2021,False,
+Spezia Calcio,Franck Ribéry,38,France,Left Winger,LW,1500000.0,Without Club,,,out,summer,Serie A,2021,False,
+Spezia Calcio,Kévin Malcuit,29,France,Right-Back,RB,3500000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Spezia Calcio,Antonio Barreca,26,Italy,Left-Back,LB,2000000.0,Monaco,France,0.0,out,summer,Serie A,2021,True,end of loan
+Spezia Calcio,Igor,23,Brazil,Centre-Back,CB,5000000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Janis Antiste,19,France,Centre-Forward,CF,4500000.0,Toulouse,France,4500000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Kelvin Amian,23,France,Right-Back,RB,3500000.0,Toulouse,France,3200000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Dimitrios Nikolaou,22,Greece,Centre-Back,CB,2300000.0,FC Empoli,Italy,3000000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,David Strelec,20,Slovakia,Centre-Forward,CF,1500000.0,Slo. Bratislava,Slovakia,2500000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Aimar Sher,18,Sweden,Central Midfield,CM,1200000.0,Hammarby,Sweden,2400000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Léo Sena,25,Brazil,Defensive Midfield,DM,2000000.0,Atlético-MG,Brazil,2000000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Jakub Kiwior,21,Poland,Centre-Back,CB,1000000.0,MSK Zilina,Slovakia,1500000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Mikael Egill Ellertsson,19,Iceland,Central Midfield,CM,700000.0,SPAL U19,Italy,1000000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Samuel Mraz,24,Slovakia,Centre-Forward,CF,500000.0,FC Empoli,Italy,1000000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Emil Holm,21,Sweden,Right-Back,RB,800000.0,SönderjyskE,Denmark,800000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Daniele Verde,25,Italy,Right Winger,RW,2500000.0,AEK Athens,Greece,600000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Leandro Sanca,21,Portugal,Right Winger,RW,350000.0,Braga B,Portugal,500000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Suf Podgoreanu,19,Israel,Right Winger,RW,250000.0,Roma U19,Italy,500000.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Mehdi Bourabia,30,Morocco,Central Midfield,CM,2300000.0,Sassuolo,Italy,500000.0,in,summer,Serie A,2021,True,loan with fee
+Cagliari Calcio,Rey Manaj,24,Albania,Centre-Forward,CF,1000000.0,Barcelona B,Spain,300000.0,in,summer,Serie A,2021,True,loan with fee
+Cagliari Calcio,Ognjen Stijepovic,21,Montenegro,Second Striker,SS,100000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Petko Hristov,22,Bulgaria,Centre-Back,CB,800000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Petar Zovko,19,Bosnia-Herzegovina,Goalkeeper,GK,75000.0,Sampdoria U19,Italy,0.0,in,summer,Serie A,2021,False,
+Cagliari Calcio,Kleis Bozhanaj,20,Albania,Second Striker,SS,25000.0,FC Empoli,Italy,,in,summer,Serie A,2021,False,
+Cagliari Calcio,Diego Zuppel,18,Italy,Centre-Forward,CF,75000.0,Arezzo,Italy,,in,summer,Serie A,2021,False,
+Cagliari Calcio,Emil Kornvig,21,Denmark,Central Midfield,CM,500000.0,Lyngby BK,Denmark,,in,summer,Serie A,2021,False,
+Cagliari Calcio,Kevin Agudelo,22,Colombia,Right Winger,RW,3500000.0,Genoa,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Martin Erlic,23,Croatia,Centre-Back,CB,4000000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Arkadiusz Reca,26,Poland,Left-Back,LB,3500000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Viktor Kovalenko,25,Ukraine,Attacking Midfield,AM,4000000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Ebrima Colley,21,The Gambia,Left Winger,LW,4000000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Aurélien Nguiamba,22,France,Defensive Midfield,DM,500000.0,Without Club,,,in,summer,Serie A,2021,False,
+Cagliari Calcio,Eddie Salcedo,19,Italy,Centre-Forward,CF,8500000.0,Genoa,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Martin Erlic,23,Croatia,Centre-Back,CB,4000000.0,Sassuolo,Italy,3500000.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Ardian Ismajli,24,Albania,Centre-Back,CB,2500000.0,FC Empoli,Italy,2000000.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Alessandro Bordin,23,Italy,Central Midfield,CM,175000.0,Fidelis Andria,Italy,200000.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Sveinn Aron Gudjohnsen,23,Iceland,Centre-Forward,CF,350000.0,Elfsborg,Sweden,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Jacopo Giuliani,22,Italy,Left Midfield,LM,50000.0,Livorno,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Matteo Ricci,27,Italy,Defensive Midfield,DM,3500000.0,Frosinone,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Matteo Marinari,21,Italy,Centre-Back,CB,50000.0,Arzachena,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Juan Ramos,24,Uruguay,Left-Back,LB,300000.0,Peñarol,Uruguay,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Theophilus Awua,23,Nigeria,Central Midfield,CM,500000.0,Pro Vercelli,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Andrey Galabinov,32,Bulgaria,Centre-Forward,CF,700000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Gennaro Acampora,27,Italy,Central Midfield,CM,400000.0,Benevento,Italy,0.0,out,summer,Serie A,2021,False,
+Cagliari Calcio,Ognjen Stijepovic,21,Montenegro,Second Striker,SS,100000.0,Pistoiese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Mattia Gaddini,18,Italy,Left Winger,LW,50000.0,Sestri Levante,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Matteo Figoli,20,Italy,Central Midfield,CM,125000.0,Carrarese,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Axel Desjardins,21,Canada,Goalkeeper,GK,25000.0,Novara,Italy,,out,summer,Serie A,2021,False,
+Cagliari Calcio,Gregorio Morachioli,21,Italy,Left Winger,LW,75000.0,Renate,Italy,,out,summer,Serie A,2021,False,
+Cagliari Calcio,Mikael Egill Ellertsson,19,Iceland,Central Midfield,CM,700000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Samuel Mraz,24,Slovakia,Centre-Forward,CF,500000.0,Slo. Bratislava,Slovakia,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Emil Holm,21,Sweden,Right-Back,RB,800000.0,SönderjyskE,Denmark,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Emil Kornvig,21,Denmark,Central Midfield,CM,500000.0,SönderjyskE,Denmark,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Kleis Bozhanaj,20,Albania,Second Striker,SS,25000.0,Casa Pia,Portugal,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Lorenzo Colombini,20,Italy,Left-Back,LB,250000.0,Giana Erminio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Luca Vignali,25,Italy,Right-Back,RB,1000000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Elio Capradossi,25,Italy,Centre-Back,CB,900000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Leandro Sanca,21,Portugal,Right Winger,RW,350000.0,Casa Pia,Portugal,0.0,out,summer,Serie A,2021,True,free loan
+Cagliari Calcio,Titas Krapikas,22,Lithuania,Goalkeeper,GK,300000.0,Without Club,,,out,summer,Serie A,2021,False,
+Cagliari Calcio,Claudio Terzi,37,Italy,Centre-Back,CB,300000.0,Without Club,,,out,summer,Serie A,2021,False,
+Cagliari Calcio,Rafael,39,Brazil,Goalkeeper,GK,200000.0,Without Club,,,out,summer,Serie A,2021,False,
+Cagliari Calcio,Riccardo Saponara,29,Italy,Attacking Midfield,AM,1700000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Léo Sena,25,Brazil,Defensive Midfield,DM,2000000.0,Atlético-MG,Brazil,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Daniele Verde,25,Italy,Right Winger,RW,2500000.0,AEK Athens,Greece,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Julian Chabot,23,Germany,Centre-Back,CB,3000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Lucien Agoume,19,France,Defensive Midfield,DM,5000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Tommaso Pobega,21,Italy,Central Midfield,CM,8000000.0,AC Milan,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Diego Farias,31,Brazil,Second Striker,SS,2500000.0,Cagliari Calcio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Nahuel Estévez,25,Argentina,Central Midfield,CM,2000000.0,Estudiantes,Argentina,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Kevin Agudelo,22,Colombia,Right Winger,RW,3500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Federico Mattiello,25,Italy,Right-Back,RB,750000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Roberto Piccoli,20,Italy,Centre-Forward,CF,4000000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Cristian Dell'Orco,27,Italy,Left-Back,LB,600000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Cagliari Calcio,Riccardo Marchizza,23,Italy,Left-Back,LB,1500000.0,Sassuolo,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Razvan Marin,25,Romania,Central Midfield,CM,15000000.0,Ajax,Netherlands,10000000.0,in,summer,Serie A,2021,False,
+Torino FC,Gabriele Zappa,21,Italy,Right-Back,RB,7000000.0,Pescara,Italy,3500000.0,in,summer,Serie A,2021,False,
+Torino FC,Boris Radunović,25,Serbia,Goalkeeper,GK,300000.0,Atalanta BC,Italy,500000.0,in,summer,Serie A,2021,False,
+Torino FC,Keita Baldé,26,Senegal,Centre-Forward,CF,8000000.0,Monaco,France,0.0,in,summer,Serie A,2021,False,
+Torino FC,Giorgio Altare,22,Italy,Centre-Back,CB,175000.0,Genoa,Italy,,in,summer,Serie A,2021,False,
+Torino FC,Raoul Bellanova,21,Italy,Right-Back,RB,1000000.0,G. Bordeaux,France,0.0,in,summer,Serie A,2021,True,free loan
+Torino FC,Alberto Grassi,26,Italy,Central Midfield,CM,3500000.0,Parma,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Torino FC,Dalbert,27,Brazil,Left-Back,LB,4000000.0,Inter,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Torino FC,Kevin Strootman,31,Netherlands,Central Midfield,CM,5000000.0,Marseille,France,0.0,in,summer,Serie A,2021,True,free loan
+Torino FC,Martín Cáceres,34,Uruguay,Centre-Back,CB,1000000.0,Without Club,,,in,summer,Serie A,2021,False,
+Torino FC,Riccardo Sottil,22,Italy,Left Winger,LW,7000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Kiril Despodov,24,Bulgaria,Right Winger,RW,3500000.0,Ludogorets,Bulgaria,2000000.0,out,summer,Serie A,2021,False,
+Torino FC,Filip Bradaric,29,Croatia,Defensive Midfield,DM,2700000.0,Ahli,Saudi Arabia,2000000.0,out,summer,Serie A,2021,False,
+Torino FC,Giovanni Simeone,26,Argentina,Centre-Forward,CF,11000000.0,Hellas Verona,Italy,1500000.0,out,summer,Serie A,2021,True,loan with fee
+Torino FC,Simone Pinna,23,Italy,Right-Back,RB,200000.0,Olbia,Italy,0.0,out,summer,Serie A,2021,False,
+Torino FC,Ragnar Klavan,35,Estonia,Centre-Back,CB,600000.0,Paide,Estonia,0.0,out,summer,Serie A,2021,False,
+Torino FC,Federico Marigosu,20,Italy,Attacking Midfield,AM,175000.0,Grosseto,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Alberto Cerri,25,Italy,Centre-Forward,CF,1500000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Guglielmo Vicario,24,Italy,Goalkeeper,GK,2000000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Alessandro Tripaldelli,22,Italy,Left-Back,LB,1000000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Luca Gagliano,21,Italy,Centre-Forward,CF,300000.0,Avellino,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Zito Luvumbo,19,Angola,Right Winger,RW,1000000.0,Como,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Matteo Tramoni,21,France,Left Winger,LW,1500000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Senna Miangue,24,Congo,Left-Back,LB,700000.0,Cercle Brugge,Belgium,0.0,out,summer,Serie A,2021,True,free loan
+Torino FC,Razvan Marin,25,Romania,Central Midfield,CM,15000000.0,Ajax,Netherlands,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Niccolò Cabras,20,Italy,Goalkeeper,GK,50000.0,Without Club,,,out,summer,Serie A,2021,False,
+Torino FC,Kwadwo Asamoah,32,Ghana,Left Midfield,LM,700000.0,Without Club,,,out,summer,Serie A,2021,False,
+Torino FC,Daniele Rugani,26,Italy,Centre-Back,CB,5000000.0,Juventus,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Arturo Calabresi,25,Italy,Right-Back,RB,1500000.0,Bologna,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Alfred Duncan,28,Ghana,Central Midfield,CM,10000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Radja Nainggolan,33,Belgium,Central Midfield,CM,4000000.0,Inter,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Torino FC,Gabriele Zappa,21,Italy,Right-Back,RB,7000000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+FC Empoli,David Zima,20,Czech Republic,Centre-Back,CB,7500000.0,Slavia Prague,Czech Republic,5900000.0,in,summer,Serie A,2021,False,
+FC Empoli,Magnus Warming,21,Denmark,Left Winger,LW,1000000.0,Lyngby BK,Denmark,1200000.0,in,summer,Serie A,2021,False,
+FC Empoli,Dennis Praet,27,Belgium,Central Midfield,CM,16000000.0,Leicester,England,1000000.0,in,summer,Serie A,2021,True,loan with fee
+FC Empoli,Josip Brekalo,23,Croatia,Left Winger,LW,12000000.0,VfL Wolfsburg,Germany,1000000.0,in,summer,Serie A,2021,True,loan with fee
+FC Empoli,Etrit Berisha,32,Albania,Goalkeeper,GK,1000000.0,SPAL,Italy,300000.0,in,summer,Serie A,2021,False,
+FC Empoli,Tommaso Pobega,22,Italy,Central Midfield,CM,8000000.0,AC Milan,Italy,0.0,in,summer,Serie A,2021,True,free loan
+FC Empoli,Marko Pjaca,26,Croatia,Left Winger,LW,4000000.0,Juventus,Italy,0.0,in,summer,Serie A,2021,True,free loan
+FC Empoli,Lyanco,24,Brazil,Centre-Back,CB,5000000.0,Southampton,England,7500000.0,out,summer,Serie A,2021,False,
+FC Empoli,Soualiho Meïté,27,France,Defensive Midfield,DM,5000000.0,Benfica,Portugal,6000000.0,out,summer,Serie A,2021,False,
+FC Empoli,Lucas Boyé,25,Argentina,Centre-Forward,CF,3500000.0,Elche CF,Spain,2000000.0,out,summer,Serie A,2021,False,
+FC Empoli,Salvatore Sirigu,34,Italy,Goalkeeper,GK,2500000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Matteo Procopio,25,Italy,Left-Back,LB,100000.0,Derthona,Italy,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Vitalie Damascan,22,Moldova,Centre-Forward,CF,600000.0,Sepsi OSK,Romania,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Luca Trombini,20,Italy,Goalkeeper,GK,50000.0,Città Varese,Italy,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Samir Ujkani,33,Kosovo,Goalkeeper,GK,200000.0,FC Empoli,Italy,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Erick Ferigra,22,Ecuador,Centre-Back,CB,1000000.0,UD Las Palmas,Spain,0.0,out,summer,Serie A,2021,False,
+FC Empoli,Nicola Rauti,21,Italy,Centre-Forward,CF,350000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,free loan
+FC Empoli,Moris Sportelli,21,Italy,Centre-Back,CB,25000.0,Pro Patria,Italy,,out,summer,Serie A,2021,False,
+FC Empoli,Filippo Olivero,20,Italy,Centre-Back,CB,75000.0,Bra,Italy,,out,summer,Serie A,2021,False,
+FC Empoli,Mihael Onisa,21,Romania,Central Midfield,CM,50000.0,Pordenone,Italy,,out,summer,Serie A,2021,False,
+FC Empoli,Vincenzo Millico,21,Italy,Left Winger,LW,1200000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+FC Empoli,Jacopo Segre,24,Italy,Central Midfield,CM,1400000.0,Perugia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+FC Empoli,Christian Celesia,19,Italy,Centre-Back,CB,75000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+FC Empoli,Nicolas N'Koulou,31,Cameroon,Centre-Back,CB,5000000.0,Without Club,,,out,summer,Serie A,2021,False,
+FC Empoli,Iago Falque,31,Spain,Right Winger,RW,1200000.0,Without Club,,,out,summer,Serie A,2021,False,
+FC Empoli,Riccardo Ricossa,20,Italy,Left-Back,LB,50000.0,Alcione,Italy,,out,summer,Serie A,2021,False,
+FC Empoli,Amer Gojak,24,Bosnia-Herzegovina,Attacking Midfield,AM,3800000.0,Dinamo Zagreb,Croatia,0.0,out,summer,Serie A,2021,True,end of loan
+FC Empoli,Federico Bonazzoli,24,Italy,Centre-Forward,CF,4000000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+FC Empoli,Nicola Murru,26,Italy,Left-Back,LB,3500000.0,Sampdoria,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Nicolas Haas,25,Switzerland,Central Midfield,CM,3500000.0,Atalanta BC,Italy,3000000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Ardian Ismajli,24,Albania,Centre-Back,CB,2500000.0,Spezia Calcio,Italy,2000000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Liam Henderson,25,Scotland,Central Midfield,CM,2200000.0,Lecce,Italy,1500000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Lorenzo Tonelli,31,Italy,Centre-Back,CB,2000000.0,Sampdoria,Italy,1000000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Giovanni Crociata,23,Italy,Central Midfield,CM,900000.0,Crotone,Italy,1000000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Riccardo Fiamozzi,28,Italy,Right-Back,RB,500000.0,Lecce,Italy,500000.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Sebastiano Luperto,24,Italy,Centre-Back,CB,2200000.0,SSC Napoli,Italy,500000.0,in,summer,Serie A,2021,True,loan with fee
+US Salernitana 1919,Petar Stojanovic,25,Slovenia,Right-Back,RB,1300000.0,Dinamo Zagreb,Croatia,300000.0,in,summer,Serie A,2021,True,loan with fee
+US Salernitana 1919,Samir Ujkani,33,Kosovo,Goalkeeper,GK,200000.0,Torino,Italy,0.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Niccolò Chiorra,20,Italy,Goalkeeper,GK,75000.0,Grosseto,Italy,0.0,in,summer,Serie A,2021,False,
+US Salernitana 1919,Simone Canestrelli,20,Italy,Centre-Back,CB,700000.0,UC AlbinoLeffe,Italy,,in,summer,Serie A,2021,False,
+US Salernitana 1919,Patrick Cutrone,23,Italy,Centre-Forward,CF,7000000.0,Wolves,England,0.0,in,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Federico Di Francesco,27,Italy,Left Winger,LW,2500000.0,SPAL,Italy,0.0,in,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Andrea Pinamonti,22,Italy,Centre-Forward,CF,12000000.0,Inter,Italy,0.0,in,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Guglielmo Vicario,24,Italy,Goalkeeper,GK,2000000.0,Cagliari Calcio,Italy,0.0,in,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Riccardo Marchizza,23,Italy,Left-Back,LB,1500000.0,Sassuolo,Italy,0.0,in,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Hamed Junior Traorè,21,Cote d'Ivoire,Attacking Midfield,AM,20000000.0,Sassuolo,Italy,16000000.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Antonino La Gumina,25,Italy,Centre-Forward,CF,2000000.0,Sampdoria,Italy,5500000.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Dimitrios Nikolaou,22,Greece,Centre-Back,CB,2300000.0,Spezia Calcio,Italy,3000000.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Samuel Mraz,24,Slovakia,Centre-Forward,CF,500000.0,Spezia Calcio,Italy,1000000.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Kevin Cannavò,21,Italy,Centre-Forward,CF,200000.0,Vis Pesaro,Italy,400000.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Andrea Ruscetta,20,Italy,Right-Back,RB,,Anagni,Italy,0.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Stefano Sabelli,28,Italy,Right-Back,RB,1900000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Marco Imperiale,22,Italy,Left-Back,LB,125000.0,Carrarese,Italy,0.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Alberto Brignoli,30,Italy,Goalkeeper,GK,1200000.0,Panathinaikos,Greece,0.0,out,summer,Serie A,2021,False,
+US Salernitana 1919,Niccolò Chiorra,20,Italy,Goalkeeper,GK,75000.0,Taranto,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Giuseppe Montaperto,21,Italy,Left Winger,LW,50000.0,Teramo,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Tommaso Fantacci,24,Italy,Right Winger,RW,175000.0,AS Gubbio,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Leandro Pratelli,18,Italy,Goalkeeper,GK,200000.0,Piacenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Gabriel Meli,22,Italy,Goalkeeper,GK,75000.0,Südtirol,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Andrea Adamoli,20,Italy,Left-Back,LB,125000.0,Cesena,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Alex Sposito,20,Italy,Goalkeeper,GK,50000.0,Pontedera,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Davide Merola,21,Italy,Right Winger,RW,250000.0,Foggia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Kleis Bozhanaj,20,Albania,Second Striker,SS,25000.0,Spezia Calcio,Italy,,out,summer,Serie A,2021,False,
+US Salernitana 1919,Roberto Pirrello,25,Italy,Centre-Back,CB,250000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Kevin Piscopo,23,Italy,Second Striker,SS,200000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Giovanni Crociata,24,Italy,Central Midfield,CM,900000.0,SPAL,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Simone Canestrelli,20,Italy,Centre-Back,CB,700000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Stefano Moreo,28,Italy,Centre-Forward,CF,800000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Davide Zappella,23,Italy,Right-Back,RB,250000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,free loan
+US Salernitana 1919,Nicolò Casale,23,Italy,Centre-Back,CB,2000000.0,Hellas Verona,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Nicolas Haas,25,Switzerland,Central Midfield,CM,3500000.0,Atalanta BC,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Andrea Cambiaso,21,Italy,Left-Back,LB,3000000.0,Genoa,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Marco Olivieri,22,Italy,Left Winger,LW,800000.0,Juventus U23,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Ryder Matos,28,Brazil,Second Striker,SS,1000000.0,Udinese Calcio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Giovanni Crociata,23,Italy,Central Midfield,CM,900000.0,Crotone,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Aleksa Terzic,21,Serbia,Left-Back,LB,2000000.0,Fiorentina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+US Salernitana 1919,Riccardo Fiamozzi,28,Italy,Right-Back,RB,500000.0,Lecce,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Riccardo Gagliolo,31,Sweden,Centre-Back,CB,2000000.0,Parma,Italy,2000000.0,in,summer,Serie A,2021,False,
+Venezia FC,Vincenzo Fiorillo,31,Italy,Goalkeeper,GK,300000.0,Pescara,Italy,600000.0,in,summer,Serie A,2021,False,
+Venezia FC,Simy,29,Nigeria,Centre-Forward,CF,6000000.0,Crotone,Italy,500000.0,in,summer,Serie A,2021,True,loan with fee
+Venezia FC,Reda Boultam,23,Netherlands,Attacking Midfield,AM,150000.0,Triestina,Italy,200000.0,in,summer,Serie A,2021,False,
+Venezia FC,Luka Bogdan,25,Croatia,Centre-Back,CB,800000.0,Livorno,Italy,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Michele Cavion,26,Italy,Central Midfield,CM,900000.0,Ascoli,Italy,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Stefan Strandberg,30,Norway,Centre-Back,CB,800000.0,Ural,Russia,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Joel Obi,30,Nigeria,Central Midfield,CM,600000.0,Chievo Verona,Italy,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Edoardo Vergani,20,Italy,Centre-Forward,CF,600000.0,Inter,Italy,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Wajdi Kechrida,25,Tunisia,Right Midfield,RM,1500000.0,ES Sahel,Tunisia,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Lassana Coulibaly,25,Mali,Central Midfield,CM,2000000.0,SCO Angers,France,0.0,in,summer,Serie A,2021,False,
+Venezia FC,Grigoris Kastanos,23,Cyprus,Central Midfield,CM,950000.0,Juventus U23,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Andrea Schiavone,28,Italy,Defensive Midfield,DM,300000.0,Bari,Italy,,in,summer,Serie A,2021,False,
+Venezia FC,Tomasz Kupisz,31,Poland,Right Midfield,RM,400000.0,Bari,Italy,,in,summer,Serie A,2021,False,
+Venezia FC,Clemente Crisci,19,Italy,Central Midfield,CM,25000.0,Sanfeliciana,Italy,,in,summer,Serie A,2021,False,
+Venezia FC,Kaleb Jimenez Castillo,18,Spain,Central Midfield,CM,35000.0,Seregno,Italy,,in,summer,Serie A,2021,False,
+Venezia FC,Filippo Delli Carri,22,Italy,Centre-Back,CB,225000.0,Juventus U23,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Luca Ranieri,22,Italy,Centre-Back,CB,2500000.0,Fiorentina,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Federico Bonazzoli,24,Italy,Centre-Forward,CF,4000000.0,Sampdoria,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Matteo Ruggeri,19,Italy,Left-Back,LB,2000000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Nadir Zortea,22,Italy,Right Midfield,RM,700000.0,Atalanta BC,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Pawel Jaroszynski,26,Poland,Left-Back,LB,650000.0,Genoa,Italy,0.0,in,summer,Serie A,2021,True,free loan
+Venezia FC,Cedric Gondo,24,Cote d'Ivoire,Centre-Forward,CF,850000.0,Without Club,,,in,summer,Serie A,2021,False,
+Venezia FC,Franck Ribéry,38,France,Left Winger,LW,1500000.0,Without Club,,,in,summer,Serie A,2021,False,
+Venezia FC,Giuseppe Barone,22,United States,Left Winger,LW,50000.0,Ascoli,Italy,0.0,out,summer,Serie A,2021,False,
+Venezia FC,Antonino Musso,21,Italy,Centre-Forward,CF,100000.0,Trapani,Italy,0.0,out,summer,Serie A,2021,False,
+Venezia FC,Iacopo Cernigoi,26,Italy,Centre-Forward,CF,150000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,False,
+Venezia FC,Giuseppe Fella,27,Italy,Second Striker,SS,400000.0,Palermo,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Edoardo Iannoni,20,Italy,Central Midfield,CM,50000.0,Ancona,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Tomasz Kupisz,31,Poland,Right Midfield,RM,400000.0,Pordenone,Italy,,out,summer,Serie A,2021,False,
+Venezia FC,Felipe Curcio,28,Brazil,Left-Back,LB,350000.0,Padova,Italy,,out,summer,Serie A,2021,False,
+Venezia FC,Maoudo Diallo,21,Senegal,Right-Back,RB,50000.0,Unknown,,,out,summer,Serie A,2021,False,
+Venezia FC,Valerio Mantovani,25,Italy,Centre-Back,CB,500000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Filippo D'Andrea,22,Italy,Centre-Forward,CF,175000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Michele Cavion,26,Italy,Central Midfield,CM,900000.0,Brescia,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Reda Boultam,23,Netherlands,Attacking Midfield,AM,150000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Gioacchino Galeotafiore,21,Italy,Centre-Back,CB,75000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Clemente Crisci,19,Italy,Central Midfield,CM,25000.0,Bisceglie,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Sanasi Sy,22,France,Left-Back,LB,500000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Gaetano Vitale,20,Italy,Central Midfield,CM,250000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Julian Kristoffersen,24,Norway,Centre-Forward,CF,400000.0,Cosenza,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Kaleb Jimenez Castillo,18,Spain,Central Midfield,CM,35000.0,Seregno,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Francesco Orlando,24,Italy,Right Winger,RW,275000.0,Alessandria,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Alessandro Micai,27,Italy,Goalkeeper,GK,200000.0,Reggina,Italy,0.0,out,summer,Serie A,2021,True,free loan
+Venezia FC,Luka Bogdan,25,Croatia,Centre-Back,CB,800000.0,Livorno,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Niccolò Giannetti,30,Italy,Centre-Forward,CF,250000.0,Without Club,,,out,summer,Serie A,2021,False,
+Venezia FC,Marco Firenze,28,Italy,Central Midfield,CM,350000.0,Without Club,,,out,summer,Serie A,2021,False,
+Venezia FC,Cedric Gondo,24,Cote d'Ivoire,Centre-Forward,CF,850000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Emanuele Cicerelli,26,Italy,Left Winger,LW,600000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Tomasz Kupisz,31,Poland,Right Midfield,RM,400000.0,Bari,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Tiago Casasola,25,Argentina,Right-Back,RB,1500000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Andrea Schiavone,28,Italy,Defensive Midfield,DM,300000.0,Bari,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Gennaro Tutino,24,Italy,Centre-Forward,CF,5000000.0,SSC Napoli,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Patryk Dziczek,23,Poland,Defensive Midfield,DM,1000000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Mirko Antonucci,22,Italy,Right Winger,RW,200000.0,AS Roma,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Marius Adamonis,24,Lithuania,Goalkeeper,GK,150000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,André Anderson,21,Italy,Attacking Midfield,AM,2000000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Joel Baraye,24,Senegal,Left-Back,LB,200000.0,Padova,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Riza Durmisi,27,Denmark,Left-Back,LB,700000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Sofian Kiyine,23,Morocco,Central Midfield,CM,2000000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Pawel Jaroszynski,26,Poland,Left-Back,LB,650000.0,Pescara,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Reda Boultam,23,Netherlands,Attacking Midfield,AM,150000.0,Triestina,Italy,0.0,out,summer,Serie A,2021,True,end of loan
+Venezia FC,Cristiano Lombardi,25,Italy,Right Winger,RW,350000.0,Lazio,Italy,0.0,out,summer,Serie A,2021,True,end of loan
