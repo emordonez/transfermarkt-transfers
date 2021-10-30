@@ -21,6 +21,7 @@ Data were obtained by web scraping league transfer data from [Transfermarkt](htt
 
 All data are provided in the `data` directory and grouped into season subdirectories.
 **Feel free to use this dataset for your own purposes!**
+You can clone it or [download it via DownGit](https://downgit.github.io/#/home?url=https://github.com/emordonez/transfermarkt-transfers/tree/master/data).
 Consult the [README](./data/README.md) for more information.
 
 ## Usage
