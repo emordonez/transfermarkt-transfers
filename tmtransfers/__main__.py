@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from datetime import datetime
 from tmtransfers import tmtransfers
 from tmtransfers.helpers import _parse_hyphenated_string
 
@@ -65,17 +66,18 @@ if __name__ == "__main__":
         "You can input both indiviudal years and year ranges, e.g. '1992 2004-2007'."
     )))
     while True:
-        valid_seasons = list(range(1992, 2021))
+        current_year = datetime.now().year
+        valid_seasons = list(range(1992, current_year + 1))
         try:
             choices = _parse_hyphenated_string(input("===> "))
             if not choices:
-                seasons = [2020]
+                seasons = [current_year]
                 break
             elif not all(season in valid_seasons for season in choices):
-                print("Error: Seasons are limited to the range 1992-2020.")
+                print("Error: Seasons are limited to the range 1992-{}.".format(current_year))
                 continue
         except ValueError:
-            print("Error: Seasons are limited to the range 1992-2020.")
+            print("Error: Seasons are limited to the range 1992-{}.".format(current_year))
             continue
         
         seasons = choices
